@@ -1,9 +1,11 @@
 # 🕉️ VedāntVāṇī (वेदान्त वाणी)
 ### *Next-Generation Astro Scriptural Explorer & Vedāntic Study Sanctuary*
 
-**VedāntVāṇī** is a modern, high-performance static web application built with the **Astro framework** and tailored with a **mobile-first design**. It houses **29 canonical scriptures**, **120 chapters**, and **3,157 sacred verses** across the foundational traditions of Sanātana Dharma: **Advaita Vedānta**, **Itihāsas**, and **Purāṇas & Sūtras**.
+**VedāntVāṇī** is a modern, high-performance static web application built with the **Astro framework** and tailored with a **mobile-first design**. It houses **36 canonical scriptures** across the foundational traditions of Sanātana Dharma: **Advaita Vedānta**, **Itihāsas**, **Purāṇas**, and **Yoga**.
 
-Live URL: 👉 **[https://vedantvani.qzz.io/](https://vedantvani.qzz.io/)**
+Live URLs:
+👉 **[https://vedantvani.pages.dev/](https://vedantvani.pages.dev/)**
+👉 **[https://vedantvani.qzz.io/](https://vedantvani.qzz.io/)**
 
 ---
 
@@ -96,5 +98,5 @@ The static build is output to `dist/`:
 bun run build
 
 # Deploy to Cloudflare Pages
-wrangler pages deploy dist --project-name gita-explorer --branch main
+wrangler pages deploy dist --project-name vedantvani --branch main
 ```
