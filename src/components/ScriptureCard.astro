@@ -1,0 +1,222 @@
+---
+import type { Scripture } from '../data/scriptures';
+
+interface Props {
+  scripture: Scripture;
+  showCategory?: boolean;
+}
+
+const { scripture, showCategory = true } = Astro.props;
+
+// Clean description
+let snippet = scripture.description.replace(/\n+/g, ' ');
+if (snippet.length > 150) {
+  snippet = snippet.substring(0, 147) + '...';
+}
+---
+
+<div class="scripture-card-wrapper">
+  <div class="glass-card scripture-card">
+    <div class="card-inner">
+      <!-- Header with Badges -->
+      <div class="card-top-bar">
+        {showCategory && (
+          <span class="card-badge">
+            {scripture.traditionLabel}
+          </span>
+        )}
+        <span class="card-sub-badge">
+          {scripture.subcategory}
+        </span>
+      </div>
+
+      <!-- Title & Sanskrit Name -->
+      <div class="title-block">
+        <h3 class="scripture-name font-cinzel">
+          <a href={`/read/${scripture.id}`} class="title-anchor">
+            {scripture.name}
+          </a>
+        </h3>
+        {scripture.name_sanskrit && (
+          <div class="scripture-sanskrit font-devanagari">
+            {scripture.name_sanskrit}
+          </div>
+        )}
+      </div>
+
+      <!-- Metadata stats: Chapters & Verses -->
+      <div class="meta-strip">
+        <span class="meta-item">
+          <span class="meta-icon">📖</span> {scripture.chapters_count} {scripture.chapters_count === 1 ? 'Chapter' : 'Chapters'}
+        </span>
+        {scripture.total_verses > 0 && (
+          <span class="meta-item">
+            <span class="meta-icon">✨</span> {scripture.total_verses} Verses
+          </span>
+        )}
+        <span class="meta-item author">
+          <span class="meta-icon">✍️</span> {scripture.author}
+        </span>
+      </div>
+
+      <!-- Description Snippet -->
+      <p class="scripture-snippet font-lora">
+        {snippet || 'An authoritative scriptural treatise of profound contemplation, insight, and realization.'}
+      </p>
+
+      <!-- Bottom action button -->
+      <div class="card-actions">
+        <a href={`/read/${scripture.id}`} class="read-btn" aria-label={`Read ${scripture.name}`}>
+          <span>Read Scripture</span>
+          <span class="arrow-icon">→</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .scripture-card-wrapper {
+    height: 100%;
+  }
+
+  .scripture-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1.25rem;
+    transition: transform var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  @media (min-width: 640px) {
+    .scripture-card {
+      padding: 1.5rem;
+    }
+  }
+
+  .scripture-card:hover {
+    transform: translateY(-3px);
+    border-color: var(--border-active);
+    box-shadow: 0 12px 30px rgba(242, 111, 34, 0.15);
+  }
+
+  .card-inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .card-top-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.85rem;
+  }
+
+  .card-sub-badge {
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .title-block {
+    margin-bottom: 0.75rem;
+  }
+
+  .scripture-name {
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--text-primary);
+  }
+
+  .title-anchor {
+    color: inherit;
+    text-decoration: none;
+    transition: color var(--transition-fast);
+  }
+
+  .title-anchor:hover {
+    color: var(--saffron);
+  }
+
+  .scripture-sanskrit {
+    font-size: 0.95rem;
+    color: var(--gold);
+    margin-top: 0.25rem;
+  }
+
+  .meta-strip {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px dashed var(--border-subtle);
+  }
+
+  .meta-item {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .meta-icon {
+    font-size: 0.85rem;
+  }
+
+  .meta-item.author {
+    color: var(--text-muted);
+  }
+
+  .scripture-snippet {
+    font-size: 0.88rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    margin-bottom: 1.25rem;
+    flex: 1;
+  }
+
+  .card-actions {
+    margin-top: auto;
+  }
+
+  .read-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.65rem 1rem;
+    border-radius: var(--radius-md);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-primary);
+    font-family: var(--font-serif-title);
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: all var(--transition-fast);
+  }
+
+  .read-btn:hover {
+    background: var(--saffron);
+    color: #fff;
+    border-color: var(--saffron);
+    box-shadow: 0 4px 14px var(--saffron-glow);
+  }
+
+  .arrow-icon {
+    transition: transform var(--transition-fast);
+  }
+
+  .read-btn:hover .arrow-icon {
+    transform: translateX(4px);
+  }
+</style>

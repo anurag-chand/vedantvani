@@ -2,204 +2,325 @@
   {
     "id": "bhagavad-gita",
     "name": "Bhagavad Gita",
+    "name_sanskrit": "श्रीमद्भगवद्गीता",
     "category": "Core Scriptures",
     "chapters_count": 18,
+    "total_verses": 701,
     "description": "The Bhagavad Gita is a 700-verse Sanskrit scripture that is part of the Hindu epic Mahabharata, containing a conversation between Pandava prince Arjuna and his guide and charioteer Krishna."
+  },
+  {
+    "id": "brahmasutra",
+    "name": "Brahma Sutras",
+    "name_sanskrit": "ब्रह्मसूत्राणि",
+    "category": "Prasthanatrayi",
+    "chapters_count": 16,
+    "total_verses": 555,
+    "description": "The Brahma Sutras (Vedanta Sutras) by Badarayana constitute the Nyāya Prasthāna of Vedanta. Comprising 555 aphorisms across 4 Adhyāyas and 16 Pādas, expounded with Adi Shankaracharya's celebrated Adhyāsa Bhāṣya and comprehensive commentary."
+  },
+  {
+    "id": "upanishad-isha",
+    "name": "Isha Upanishad",
+    "name_sanskrit": "ईशावास्योपनिषद्",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 1,
+    "total_verses": 18,
+    "description": "The Isha Upanishad is the foundational Upanishad of the Shukla Yajurveda, expounding the all-pervasiveness of the Divine, the harmony of renunciation and action, and the realization of non-dual consciousness."
+  },
+  {
+    "id": "upanishad-kena-pada",
+    "name": "Kena Upanishad (Pada Bhashya)",
+    "name_sanskrit": "Kena Upanishad (Pada Bhashya)",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 4,
+    "total_verses": 35,
+    "description": "‘केनेषितम्’ इत्याद्योपनिषत्परब्रह्मविषया वक्तव्येति नवमस्याध्यायस्यारम्भः । प्रागेतस्मात्कर्माण्यशेषतः परिसमापितानि, समस्तकर्माश्रयभूतस्य च प्राणस्योपासनान्युक्तानि, कर्माङ्गसामविषयाणि च । अनन्तरं च गायत्रसामविषयं दर्शनं वंशान्तमुक्तं कार्यम् । सर्वम"
+  },
+  {
+    "id": "upanishad-kena-vakya",
+    "name": "Kena Upanishad (Vakya Bhashya)",
+    "name_sanskrit": "Kena Upanishad (Vakya Bhashya)",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 4,
+    "total_verses": 35,
+    "description": "समाप्तं कर्मात्मभूतप्राणविषयं विज्ञानं कर्म चानेकप्रकारम् , ययोर्विकल्पसमुच्चयानुष्ठानाद्दक्षिणोत्तराभ्यां सृतिभ्यामावृत्त्यनावृत्ती भवतः । अत ऊर्ध्वं फलनिरपेक्षज्ञानकर्मसमुच्चयानुष्ठानात्कृतात्मसंस्कारस्य उच्छिन्नात्मज्ञानप्रतिबन्धकस्य द्वैतविषयदोषद"
+  },
+  {
+    "id": "upanishad-kathaka",
+    "name": "Katha Upanishad",
+    "name_sanskrit": "Katha Upanishad",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 2,
+    "total_verses": 120,
+    "description": "अथ काठकोपनिषद्वल्लीनां सुखार्थप्रबोधनार्थमल्पग्रन्था वृत्तिरारभ्यते । सदेर्धातोर्विशरणगत्यवसादनार्थस्योपनिपूर्वस्य क्विप्प्रत्ययान्तस्य रूपमिदम् ‘उपनिषत्’ इति । उपनिषच्छब्देन च व्याचिख्यासितग्रन्थप्रतिपाद्यवेद्यवस्तुविषया विद्या उच्यते । केन पुनरर्थय"
+  },
+  {
+    "id": "upanishad-prashna",
+    "name": "Prashna Upanishad",
+    "name_sanskrit": "Prashna Upanishad",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 6,
+    "total_verses": 67,
+    "description": "मन्त्रोक्तस्यार्थस्य विस्तरानुवादीदं ब्राह्मणमारभ्यते । ऋषिप्रश्नप्रतिवाचनाख्यायिका तु विद्यास्तुतये । एवं संवत्सरब्रह्मचर्यसंवासादितपोयुक्तैर्ग्राह्या, पिप्पलादवत्सर्वज्ञकल्पैराचार्यैः वक्तव्या च, न येन केनचिदिति विद्यां स्तौति । ब्रह्मचर्यादिसाधनसू"
+  },
+  {
+    "id": "upanishad-mundaka",
+    "name": "Mundaka Upanishad",
+    "name_sanskrit": "Mundaka Upanishad",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 3,
+    "total_verses": 65,
+    "description": "‘ब्रह्मा देवानाम्’ इत्याद्याथर्वणोपनिषत् । अस्याश्च विद्यासम्प्रदायकर्तृपारम्पर्यलक्षणं सम्बन्धमादावेवाह स्वयमेव स्तुत्यर्थम् — एवं हि महद्भिः परमपुरुषार्थसाधनत्वेन गुरुणायासेन लब्धा विद्येति । श्रोतृबुद्धिप्ररोचनाय विद्यां महीकरोति, स्तुत्या प्ररोचि"
+  },
+  {
+    "id": "upanishad-mandukya",
+    "name": "Mandukya Upanishad",
+    "name_sanskrit": "Mandukya Upanishad",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 4,
+    "total_verses": 227,
+    "description": "ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानम् । वेदान्तार्थसारसङ्ग्रहभूतमिदं प्रकरणचतुष्टयम् ओमित्येतदक्षरमित्यादि आरभ्यते । अत एव न पृथक् सम्बन्धाभिधेयप्रयोजनानि वक्तव्यानि । यान्येव तु वेदान्ते सम्बन्धाभिधेयप्रयोजनानि, तान्येवेहापि भवितुमर्हन्ति ; तथाप"
+  },
+  {
+    "id": "upanishad-taitiriya",
+    "name": "Taittiriya Upanishad",
+    "name_sanskrit": "Taittiriya Upanishad",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 3,
+    "total_verses": 53,
+    "description": "..."
+  },
+  {
+    "id": "upanishad-aitareya",
+    "name": "Aitareya Upanishad",
+    "name_sanskrit": "ऐतरेयोपनिषद्",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 3,
+    "total_verses": 33,
+    "description": "Belonging to the Rigveda, the Aitareya Upanishad details the creation of the cosmos from the Supreme Self and culminates in the supreme Mahāvākya: Prajñānaṃ Brahma (Consciousness is Brahman)."
+  },
+  {
+    "id": "upanishad-chandogya",
+    "name": "Chandogya Upanishad",
+    "name_sanskrit": "Chandogya Upanishad",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 8,
+    "total_verses": 629,
+    "description": "‘ओमित्येतदक्षरम्’ इत्याद्यष्टाध्यायी छान्दोग्योपनिषत् । तस्याः सङ्क्षेपतः अर्थजिज्ञासुभ्यः ऋजुविवरणमल्पग्रन्थमिदमारभ्यते । तत्र सम्बन्धः — समस्तं कर्माधिगतं प्राणादिदेवताविज्ञानसहितम् अर्चिरादिमार्गेण ब्रह्मप्रतिपत्तिकारणम् ; केवलं च कर्म धूमादिमार्ग"
+  },
+  {
+    "id": "upanishad-brha",
+    "name": "Brhadaranyaka Upanishad",
+    "name_sanskrit": "Brhadaranyaka Upanishad",
+    "category": "Sringeri Upanishads",
+    "chapters_count": 6,
+    "total_verses": 434,
+    "description": "‘उषा वा अश्वस्य’ (बृ. उ. १ । १ । १)\n इत्येवमाद्या वाजसनेयिब्राह्मणोपनिषत् । तस्या इयमल्पग्रन्था वृत्तिः आरभ्यते, संसारव्याविवृत्सुभ्यः संसारहेतुनिवृत्तिसाधनब्रह्मात्मैकत्वविद्याप्रतिपत्तये । सेयं ब्रह्मविद्या उपनिषच्छब्दवाच्या, तत्पराणां सहेतोः संसार"
   },
   {
     "id": "yogasutras",
     "name": "Patanjali Yoga Sutras",
+    "name_sanskrit": "पातञ्जलयोगसूत्राणि",
     "category": "Core Scriptures",
     "chapters_count": 4,
+    "total_verses": 205,
     "description": "The Yoga Sutras of Patanjali is a collection of 196 Sanskrit sutras on the theory and practice of yoga, compiled by Patanjali in the early centuries CE."
   },
   {
     "id": "rudram",
     "name": "Sri Rudram",
+    "name_sanskrit": "श्रीरुद्रप्रश्णः (नमकं चमकं च)",
     "category": "Core Scriptures",
     "chapters_count": 1,
+    "total_verses": 80,
     "description": "Sri Rudram is an ancient Vedic hymn from the Yajurveda, dedicated to Lord Shiva in his manifestation as Rudra."
-  },
-  {
-    "id": "upanishad-brha",
-    "name": "Brhadaranyaka Upanishad",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 6,
-    "description": "‘उषा वा अश्वस्य’ (बृ. उ. १ । १ । १)\n इत्येवमाद्या वाजसनेयिब्राह्मणोपनिषत् । तस्या इयमल्पग्रन्था वृत्तिः आरभ्यते, संसारव्याविवृत्सुभ्यः संसारहेतुनिवृत्तिसाधनब्रह्मात्मैकत्वविद्याप्रतिपत्तये । सेयं ब्रह्मविद्या उपनिषच्छब्दवाच्या, तत्पराणां सहेतोः संसारस्यात्यन्तावसादनात् ; उपनिपूर्वस्य सदेस्तदर्थत्वात् । तादर्थ्याद्ग्रन्थोऽप्युपनिषदुच्यते । सेयं षडध्..."
-  },
-  {
-    "id": "upanishad-chandogya",
-    "name": "Chandogya Upanishad",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 8,
-    "description": "‘ओमित्येतदक्षरम्’ इत्याद्यष्टाध्यायी छान्दोग्योपनिषत् । तस्याः सङ्क्षेपतः अर्थजिज्ञासुभ्यः ऋजुविवरणमल्पग्रन्थमिदमारभ्यते । तत्र सम्बन्धः — समस्तं कर्माधिगतं प्राणादिदेवताविज्ञानसहितम् अर्चिरादिमार्गेण ब्रह्मप्रतिपत्तिकारणम् ; केवलं च कर्म धूमादिमार्गेण चन्द्रलोकप्रतिपत्तिकारणम् ; स्वभाववृत्तानां च मार्गद्वयपरिभ्रष्टानां कष्टा अधोगतिरुक्ता ; न च उभय..."
-  },
-  {
-    "id": "upanishad-kathaka",
-    "name": "Katha Upanishad",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 2,
-    "description": "अथ काठकोपनिषद्वल्लीनां सुखार्थप्रबोधनार्थमल्पग्रन्था वृत्तिरारभ्यते । सदेर्धातोर्विशरणगत्यवसादनार्थस्योपनिपूर्वस्य क्विप्प्रत्ययान्तस्य रूपमिदम् ‘उपनिषत्’ इति । उपनिषच्छब्देन च व्याचिख्यासितग्रन्थप्रतिपाद्यवेद्यवस्तुविषया विद्या उच्यते । केन पुनरर्थयोगेनोपनिषच्छब्देन विद्योच्यत इति, उच्यते । ये मुमुक्षवो दृष्टानुश्रविकविषयवितृष्णाः सन्तः उपनिषच्छब्..."
-  },
-  {
-    "id": "upanishad-kena-pada",
-    "name": "Kena Upanishad (Pada Bhashya)",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 4,
-    "description": "‘केनेषितम्’ इत्याद्योपनिषत्परब्रह्मविषया वक्तव्येति नवमस्याध्यायस्यारम्भः । प्रागेतस्मात्कर्माण्यशेषतः परिसमापितानि, समस्तकर्माश्रयभूतस्य च प्राणस्योपासनान्युक्तानि, कर्माङ्गसामविषयाणि च । अनन्तरं च गायत्रसामविषयं दर्शनं वंशान्तमुक्तं कार्यम् । सर्वमेतद्यथोक्तं कर्म च ज्ञानं च सम्यगनुष्ठितं निष्कामस्य मुमुक्षोः सत्त्वशुद्ध्यर्थं भवति । सकामस्य तु ज..."
-  },
-  {
-    "id": "upanishad-kena-vakya",
-    "name": "Kena Upanishad (Vakya Bhashya)",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 4,
-    "description": "समाप्तं कर्मात्मभूतप्राणविषयं विज्ञानं कर्म चानेकप्रकारम् , ययोर्विकल्पसमुच्चयानुष्ठानाद्दक्षिणोत्तराभ्यां सृतिभ्यामावृत्त्यनावृत्ती भवतः । अत ऊर्ध्वं फलनिरपेक्षज्ञानकर्मसमुच्चयानुष्ठानात्कृतात्मसंस्कारस्य उच्छिन्नात्मज्ञानप्रतिबन्धकस्य द्वैतविषयदोषदर्शिनः निर्ज्ञाताशेषबाह्यविषयत्वात् संसारबीजमज्ञानमुच्चिच्छित्सतः प्रत्यगात्मविषयजिज्ञासोः ‘केनेषितम..."
-  },
-  {
-    "id": "upanishad-mandukya",
-    "name": "Mandukya Upanishad",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 4,
-    "description": "ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानम् । वेदान्तार्थसारसङ्ग्रहभूतमिदं प्रकरणचतुष्टयम् ओमित्येतदक्षरमित्यादि आरभ्यते । अत एव न पृथक् सम्बन्धाभिधेयप्रयोजनानि वक्तव्यानि । यान्येव तु वेदान्ते सम्बन्धाभिधेयप्रयोजनानि, तान्येवेहापि भवितुमर्हन्ति ; तथापि प्रकरणव्याचिख्यासुना सङ्क्षेपतो वक्तव्यानीति मन्यन्ते व्याख्यातारः । तत्र प्रयोजनवत्साधनाभिव्यञ्जक..."
-  },
-  {
-    "id": "upanishad-mundaka",
-    "name": "Mundaka Upanishad",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 3,
-    "description": "‘ब्रह्मा देवानाम्’ इत्याद्याथर्वणोपनिषत् । अस्याश्च विद्यासम्प्रदायकर्तृपारम्पर्यलक्षणं सम्बन्धमादावेवाह स्वयमेव स्तुत्यर्थम् — एवं हि महद्भिः परमपुरुषार्थसाधनत्वेन गुरुणायासेन लब्धा विद्येति । श्रोतृबुद्धिप्ररोचनाय विद्यां महीकरोति, स्तुत्या प्ररोचितायां हि विद्यायां सादराः प्रवर्तेरन्निति । प्रयोजनेन तु विद्यायाः साध्यसाधनलक्षणं सम्बन्धमुत्तरत्र ..."
-  },
-  {
-    "id": "upanishad-prashna",
-    "name": "Prashna Upanishad",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 6,
-    "description": "मन्त्रोक्तस्यार्थस्य विस्तरानुवादीदं ब्राह्मणमारभ्यते । ऋषिप्रश्नप्रतिवाचनाख्यायिका तु विद्यास्तुतये । एवं संवत्सरब्रह्मचर्यसंवासादितपोयुक्तैर्ग्राह्या, पिप्पलादवत्सर्वज्ञकल्पैराचार्यैः वक्तव्या च, न येन केनचिदिति विद्यां स्तौति । ब्रह्मचर्यादिसाधनसूचनाच्च तत्कर्तव्यता स्यात् —..."
-  },
-  {
-    "id": "upanishad-taitiriya",
-    "name": "Taittiriya Upanishad",
-    "category": "Sringeri Upanishads",
-    "chapters_count": 3,
-    "description": "..."
   },
   {
     "id": "prakarana-atmabodha",
     "name": "Atmabodha",
+    "name_sanskrit": "आत्मबोधः",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 2,
+    "total_verses": 69,
     "description": "..."
   },
   {
     "id": "prakarana-aparokshanubhuti",
     "name": "Aparokshanubhuti",
+    "name_sanskrit": "अपरोक्षानुभूतिः",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 3,
+    "total_verses": 145,
     "description": "..."
   },
   {
     "id": "prakarana-ashtavakra-gita",
     "name": "Ashtavakra Gita",
+    "name_sanskrit": "अष्टावक्रगीता",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 20,
+    "total_verses": 298,
     "description": "..."
   },
   {
     "id": "prakarana-brahma-jnanavali-mala",
     "name": "Brahma Jnanavali Mala",
+    "name_sanskrit": "ब्रह्मज्ञानावलीजमाला",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 21,
     "description": "..."
   },
   {
     "id": "prakarana-dasa-shloki",
     "name": "Dasa Shloki",
+    "name_sanskrit": "दशश्लोकी",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 11,
     "description": "..."
   },
   {
     "id": "prakarana-hastamalaka-stotram",
     "name": "Hastamalaka Stotram",
+    "name_sanskrit": "Hastamalaka Stotram",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 13,
     "description": "..."
   },
   {
     "id": "prakarana-hastamalakiya-bhashya",
     "name": "Hastamalakiya Bhashya",
+    "name_sanskrit": "Hastamalakiya Bhashya",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 12,
     "description": "..."
   },
   {
     "id": "prakarana-kaupina-panchakam",
     "name": "Kaupina Panchakam",
+    "name_sanskrit": "कौपीनपञ्चकम्",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 5,
     "description": "..."
   },
   {
     "id": "prakarana-manisha-panchakam",
     "name": "Manisha Panchakam",
+    "name_sanskrit": "मनीषापञ्चकम्",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 11,
     "description": "..."
   },
   {
     "id": "prakarana-nyayarakshamani",
     "name": "Nyayarakshamani",
+    "name_sanskrit": "न्यायरक्षामणिः",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 5,
+    "total_verses": 42,
     "description": "..."
   },
   {
     "id": "prakarana-saddarshanam",
     "name": "Saddarshanam",
+    "name_sanskrit": "सद्दर्शनम्",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 44,
     "description": "..."
   },
   {
     "id": "prakarana-sadhana-panchakam",
     "name": "Sadhana Panchakam",
+    "name_sanskrit": "साधनापञ्चकम्",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 5,
     "description": "..."
   },
   {
     "id": "prakarana-shatashloki",
     "name": "Shatashloki",
+    "name_sanskrit": "शतश्लोकी",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 3,
+    "total_verses": 101,
     "description": "..."
   },
   {
     "id": "prakarana-tattvabodha",
     "name": "Tattvabodha",
+    "name_sanskrit": "तत्त्वबोधः",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 42,
     "description": "..."
   },
   {
     "id": "prakarana-upadesa-saaram",
     "name": "Upadesa Saaram",
+    "name_sanskrit": "उपदेशसारः",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 1,
+    "total_verses": 30,
     "description": "..."
   },
   {
     "id": "prakarana-vakya-vritti",
     "name": "Vakya Vritti",
+    "name_sanskrit": "वाक्यवृत्तिः",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 2,
+    "total_verses": 54,
     "description": "..."
   },
   {
     "id": "prakarana-vivekachudamani",
     "name": "Vivekachudamani",
+    "name_sanskrit": "विवेकचूडामणिः",
     "category": "Advaita Prakarana Texts",
     "chapters_count": 12,
+    "total_verses": 580,
     "description": "..."
+  },
+  {
+    "id": "sankhya-karika-gaudapada",
+    "name": "Sāṅkhyakārikā (Gauḍapāda Bhāṣya)",
+    "name_sanskrit": "साङ्ख्यकारिका (गौडपादभाष्यम्)",
+    "category": "Advaita Prakarana Texts",
+    "chapters_count": 1,
+    "total_verses": 70,
+    "description": "The Sāṅkhyakārikā of Īśvarakṛṣṇa with the classical commentary (Bhāṣya) by Śrī Gauḍapādācārya (the revered Paramaguru of Ādi Śaṅkarācārya). Preserved in the Advaita Vedānta tradition as the definitive classical exposition of Sāṅkhya metaphysics and epistemology, essential for understanding Vedāntic dialectics, Tattva Viveka, and the refutation of Pradhānadvaita in the Brahma Sūtras."
+  },
+  {
+    "id": "hatha-yoga-pradipika",
+    "name": "Hatha Yoga Pradipika",
+    "name_sanskrit": "हठयोगप्रदीपिका",
+    "category": "Yoga Scriptures",
+    "chapters_count": 4,
+    "total_verses": 387,
+    "description": "Hatha Yoga Pradipika is the classical 15th-century Sanskrit manual of Hatha Yoga compiled by Svatmarama Yogindra, detailing asanas, pranayama, mudras, bandhas, and the attainment of Samadhi via Nadanusandhana."
+  },
+  {
+    "id": "gheranda-samhita",
+    "name": "Gheranda Samhita",
+    "name_sanskrit": "घेरण्डसंहिता",
+    "category": "Yoga Scriptures",
+    "chapters_count": 8,
+    "total_verses": 369,
+    "description": "The Gheranda Samhita is a foundational manual of classical yoga taught by Sage Gheranda to King Chandakapali, expounding the seven-fold discipline (Saptanga Yoga): shatkarma, asana, mudra, pratyahara, pranayama, dhyana, and samadhi."
+  },
+  {
+    "id": "shiva-samhita",
+    "name": "Shiva Samhita",
+    "name_sanskrit": "शिवसंहिता",
+    "category": "Yoga Scriptures",
+    "chapters_count": 5,
+    "total_verses": 518,
+    "description": "The Shiva Samhita is one of the three monumental classical treatises of Hatha Yoga (alongside Hatha Yoga Pradipika and Gheranda Samhita). Presented as an esoteric dialogue between Lord Shiva and Goddess Parvati, it expounds non-dual metaphysics (Advaita), micro-macrocosmic correspondence, the 350,000 Nadis, 10 vital Vayus, Kundalini awakening, the seven Chakras, Bandhas, Mudras, and Rajayoga realization."
   }
 ]

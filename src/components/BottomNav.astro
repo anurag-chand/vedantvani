@@ -1,0 +1,75 @@
+---
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = '/' } = Astro.props;
+
+const items = [
+  { name: 'Home', href: '/', icon: '🏛️' },
+  { name: 'Advaita', href: '/advaita-vedanta', icon: '🕉️' },
+  { name: 'Itihāsas', href: '/itihasas', icon: '⚔️' },
+  { name: 'Purāṇas', href: '/puranas', icon: '🔱' },
+  { name: 'Yoga', href: '/yoga', icon: '🧘' },
+  { name: 'Library', href: '/scriptures', icon: '📚' }
+];
+---
+
+<nav class="bottom-nav-bar" aria-label="Mobile Navigation">
+  <div class="bottom-nav-items">
+    {items.map((item) => {
+      const isActive = item.href === '/'
+        ? currentPath === '/'
+        : currentPath.startsWith(item.href);
+      return (
+        <a 
+          href={item.href} 
+          class={`bottom-nav-link ${isActive ? 'active' : ''}`}
+        >
+          <span class="bottom-nav-icon">{item.icon}</span>
+          <span>{item.name}</span>
+        </a>
+      );
+    })}
+  </div>
+</nav>
+
+<style>
+  .bottom-nav-items {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 60px;
+    padding: 0 0.25rem;
+  }
+
+  .bottom-nav-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1px;
+    flex: 1;
+    height: 100%;
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color var(--transition-fast), transform var(--transition-fast);
+  }
+
+  .bottom-nav-icon {
+    font-size: 1.1rem;
+    line-height: 1;
+    transition: transform var(--transition-fast);
+  }
+
+  .bottom-nav-link.active {
+    color: var(--saffron);
+    font-weight: 600;
+  }
+
+  .bottom-nav-link.active .bottom-nav-icon {
+    transform: scale(1.15);
+  }
+</style>

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "upanishad-aitareya_2_1",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Adhyāya 2: Three Births of the Soul",
+      "verse_number": 1,
+      "chapter_number": 2,
+      "mantra_ref": "2.1.1",
+      "source_url": ""
+    },
+    "section_title": "चतुर्थः खण्डः",
+    "sanskrit_shloka": "पुरुषे ह वा अयमादितो गर्भो भवति । यदेतद्रेतस्तदेतत्सर्वेभ्योऽङ्गेभ्यस्तेजः सम्भूतमात्मन्येवात्मानं बिभर्ति तद्यथा स्त्रियां सिञ्चत्यथैनज्जनयति तदस्य प्रथमं जन्म ॥ १ ॥",
+    "transliteration": "puruṣe ha vā ayamādito garbho bhavati | yadetadretastadetatsarvebhyo'ṅgebhyastejaḥ sambhūtamātmanyevātmānaṃ bibharti tadyathā striyāṃ siñcatyathainajjanayati tadasya prathamaṃ janma || 1 ||",
+    "translation": "in the man (offered as oblation in the man-as-fire) — indeed (verily) — verily (truly, certainly) — this (transmigrant), at first / from the beginning — embryo (in seminal/semen form) — becomes (comes into being) — this which is the semen — that is the essence-vigour (tejas) gathered from all the limbs — produced (formed); in his own self (body) he bears that self (the embryo-self) — bears (holds, sustains it) — that (semen), when (at the time when) — into the woman (the wife as fire) — he (the father) pours/sprinkles (it); then he generates it — that is, of this (transmigrant/man) — first (manifestation/state) — birth (the first manifestation of his being)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "पुरुषे",
+        "word_english": "in the man (offered as oblation in the man-as-fire)",
+        "grammar_role": "पुरुष · सप्तमी·एक·पुं (locative)",
+        "root": "पुरुषे"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed (verily)",
+        "grammar_role": "अव्यय (निपात; emphatic/traditional particle)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "verily (truly, certainly)",
+        "grammar_role": "अव्यय (निपात; affirmative — Śaṅkara reads वै for वा)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "अयमादितो",
+        "word_english": "this (transmigrant), at first / from the beginning",
+        "grammar_role": "इदम् · प्रथमा·एक·पुं + आदितस् (अव्यय; from the first, at first)",
+        "root": "अयम् + आदितः"
+      },
+      {
+        "word_sanskrit": "गर्भो",
+        "word_english": "embryo (in seminal/semen form)",
+        "grammar_role": "गर्भ · प्रथमा·एक·पुं",
+        "root": "गर्भः"
+      },
+      {
+        "word_sanskrit": "भवति",
+        "word_english": "becomes (comes into being)",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "भवति"
+      },
+      {
+        "word_sanskrit": "यदेतद्रेतस्तदेतत्सर्वेभ्योऽङ्गेभ्यस्तेजः",
+        "word_english": "this which is the semen — that is the essence-vigour (tejas) gathered from all the limbs",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + रेतस् · प्रथमा·एक·नपुं + तद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + सर्व · पञ्चमी·बहु·नपुं + अङ्ग · पञ्चमी·बहु·नपुं + तेजस् · प्रथमा·एक·नपुं",
+        "root": "यत् + एतत् + रेतः + तत् + एतत् + सर्वेभ्यः + अङ्गेभ्यः + तेजः"
+      },
+      {
+        "word_sanskrit": "सम्भूतमात्मन्येवात्मानं",
+        "word_english": "produced (formed); in his own self (body) he bears that self (the embryo-self)",
+        "grammar_role": "सम्भूत · प्रथमा·एक·नपुं (कृदन्त, √भू; agreeing with तेजः) + आत्मन् · सप्तमी·एक·पुं + एव (अव्यय) + आत्मन् · द्वितीया·एक·पुं",
+        "root": "सम्भूतम् + आत्मनि + एव + आत्मानम्"
+      },
+      {
+        "word_sanskrit": "बिभर्ति",
+        "word_english": "bears (holds, sustains it)",
+        "grammar_role": "√भृ · लट्·प्रथमपुरुष·एकवचन·परस्मैपद (जुहोत्यादि, द्विरुक्त)",
+        "root": "बिभर्ति"
+      },
+      {
+        "word_sanskrit": "तद्यथा",
+        "word_english": "that (semen), when (at the time when)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं (= that semen) + यथा (अव्यय; here ≈ यदा 'when', per bhāṣya)",
+        "root": "तत् + यथा"
+      },
+      {
+        "word_sanskrit": "स्त्रियां",
+        "word_english": "into the woman (the wife as fire)",
+        "grammar_role": "स्त्री · सप्तमी·एक·स्त्री (locative)",
+        "root": "स्त्रियाम्"
+      },
+      {
+        "word_sanskrit": "सिञ्चत्यथैनज्जनयति",
+        "word_english": "he (the father) pours/sprinkles (it); then he generates it",
+        "grammar_role": "√सिच् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद + अथ (अव्यय; then) + एनद् · द्वितीया·एक·नपुं (enclitic, = एतद् रेतः) + √जन् (णिच्) जनयति · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "सिञ्चति + अथ + एनत् + जनयति"
+      },
+      {
+        "word_sanskrit": "तदस्य",
+        "word_english": "that is, of this (transmigrant/man)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + इदम् · षष्ठी·एक·पुं (= of this transmigrant)",
+        "root": "तत् + अस्य"
+      },
+      {
+        "word_sanskrit": "प्रथमं",
+        "word_english": "first (manifestation/state)",
+        "grammar_role": "प्रथम · प्रथमा·एक·नपुं (विशेषण of जन्म)",
+        "root": "प्रथमम्"
+      },
+      {
+        "word_sanskrit": "जन्म",
+        "word_english": "birth (the first manifestation of his being)",
+        "grammar_role": "जन्मन् · प्रथमा·एक·नपुं",
+        "root": "जन्म"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "in the man (offered as oblation in the man-as-fire) — indeed (verily) — verily (truly, certainly) — this (transmigrant), at first / from the beginning — embryo (in seminal/semen form) — becomes (comes into being) — this which is the semen — that is the essence-vigour (tejas) gathered from all the limbs — produced (formed); in his own self (body) he bears that self (the embryo-self) — bears (holds, sustains it) — that (semen), when (at the time when) — into the woman (the wife as fire) — he (the father) pours/sprinkles (it); then he generates it — that is, of this (transmigrant/man) — first (manifestation/state) — birth (the first manifestation of his being)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "【उपोद्घातभाष्यम्】\nअस्मिन्नध्याये एष वाक्यार्थः — जगदुत्पत्तिस्थितिप्रलयकृदसंसारी सर्वज्ञः सर्वशक्तिः सर्ववित्सर्वमिदं जगत्स्वतोऽन्यद्वस्त्वन्तरमनुपादायैव आकाशादिक्रमेण सृष्ट्वा स्वात्मप्रबोधनार्थं सर्वाणि च प्राणादिमच्छरीराणि स्वयं प्रविवेश; प्रविश्य च स्वमात्मानं यथाभूतमिदं ब्रह्मास्मीति साक्षात्प्रत्यबुध्यत; तस्मात्स एव सर्वशरीरेष्वेक एवात्मा, नान्य इति । अन्योऽपि ‘स म आत्मा ब्रह्मास्मीत्येवं विद्यात्’ इति ‘आत्मा वा इदमेक एवाग्र आसीत्’ (ऐ. उ. १ । १ । १) ‘ब्रह्म ततमम्’ (ऐ. उ. १ । ३ । १३) इति चोक्तम् । अन्यत्र च सर्वगतस्य सर्वात्मनो वालाग्रमात्रमप्यप्रविष्टं नास्तीति कथं सीमानं विदार्य प्रापद्यत पिपीलिकेव सुषिरम्? नन्वत्यल्पमिदं चोद्यम् । बहु चात्र चोदयितव्यम् । अकरणः सन्नीक्षत । अनुपादाय किञ्चिल्लोकानसृजत । अद्भ्यः पुरुषं समुद्धृत्यामूर्छयत् । तस्याभिध्यानान्मुखादि निर्भिन्नं मुखादिभ्यश्चाग्न्यादयो लोकपालाः । तेषां चाशनायादिसंयोजनं तदायतनप्रार्थनं तदर्थं गवादिप्रदर्शनं तेषां च यथायतनप्रवेशनं सृष्टस्यान्नस्य पलायनं वागादिभिस्तज्जिघृक्षेति । एतत्सर्वं सीमाविदारणप्रवेशसममेव ॥\n\nअस्तु तर्हि सर्वमेवेदमनुपपन्नम् । न, अत्रात्माववोधमात्रस्य विवक्षितत्वात्सर्वोऽयमर्थवाद इत्यदोषः । मायाविवद्वा; महामायावी देवः सर्वज्ञः सर्वशक्तिः सर्वमेतच्चकार सुखावबोधप्रतिपत्त्यर्थं लोकवदाख्यायिकादिप्रपञ्च इति युक्ततरः पक्षः । न हि सृष्ट्याख्यायिकादिपरिज्ञानात्किञ्चित्फलमिष्यते । ऐकात्म्यस्वरूपपरिज्ञानात्तु अमृतत्वं फलं सर्वोपनिषत्प्रसिद्धम् । स्मृतिषु च गीताद्यासु ‘समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम्’ (भ. गी. १३ । २७) इत्यादिना । ननु त्रय आत्मानो भोक्ता कर्ता संसारी जीव एकः सर्वलोकशास्त्रप्रसिद्धः । अनेकप्राणिकर्मफलोपभोगयोग्यानेकाधिष्ठानवल्लोकदेहनिर्माणेन लिङ्गेन यथाशास्त्रप्रदर्शितेन पुरप्रासादादिनिर्माणलिङ्गेन तद्विषयकौशलज्ञानवांस्तत्कर्ता तक्षादिरिव ईश्वरः सर्वज्ञो जगतः कर्ता द्वितीयश्चेतन आत्मा अवगम्यते । ‘यतो वाचो निवर्तन्ते’ (तै. उ. २ । ४ । १) ‘नेति नेति’ (बृ. उ. ३ । ९ । २६) इत्यादिशास्त्रप्रसिद्ध औपनिषदः पुरुषस्तृतीयः । एवमेते त्रय आत्मानोऽन्योन्यविलक्षणाः । तत्र कथमेक एवात्मा अद्वितीयः असंसारीति ज्ञातुं शक्यते? तत्र जीव एव तावत्कथं ज्ञायते? नन्वेवं ज्ञायते श्रोता मन्ता द्रष्टा आदेष्टाघोष्टा विज्ञाता प्रज्ञातेति । ननु विप्रतिषिद्धं ज्ञायते यः श्रवणादिकर्तृत्वेन अमतो मन्ता अविज्ञातो विज्ञाता इति च । तथा ‘न मतेर्मन्तारं मन्वीथा न विज्ञातेर्विज्ञातारं विजानीयाः’ (बृ. उ. ३ । ४ । २) इत्यादि च । सत्यं विप्रतिषिद्धम्, यदि प्रत्यक्षेण ज्ञायेत सुखादिवत् । प्रत्यक्षज्ञानं च निवार्यते ‘न मतेर्मन्तारम्’ (बृ. उ. ३ । ४ । २) इत्यादिना । ज्ञायते तु श्रवणादिलिङ्गेन; तत्र कुतो विप्रतिषेधः? ननु श्रवणादिलिङ्गेनापि कथं ज्ञायते, यावता यदा शृणोत्यात्मा श्रोतव्यं शब्दम्, तदा तस्य श्रवणक्रिययैव वर्तमानत्वान्मननविज्ञानक्रिये न सम्भवत आत्मनि परत्र वा । तथा अन्यत्रापि मननादिक्रियासु । श्रवणादिक्रियाश्च स्वविषयेष्वेव । न हि मन्तव्यादन्यत्र मन्तुः मननक्रिया सम्भवति । ननु मनसः सर्वमेव मन्तव्यम् । सत्यमेवम्; तथापि सर्वमपि मन्तव्यं मन्तारमन्तरेण न मन्तुं शक्यम् । यद्येवं किं स्यात्? इदमत्र स्यात् — सर्वस्य योऽयं मन्ता, स मन्तैवेति न स मन्तव्यः स्यात् । न च द्वितीयो मन्तुर्मन्तास्ति । यदा स आत्मनैव मन्तव्यः, तदा येन च मन्तव्य आत्मा आत्मना, यश्च मन्तव्य आत्मा, तौ द्वौ प्रसज्येयाताम् । एक एव आत्मा द्विधा मन्तृमन्तव्यत्वेन द्विशकलीभवेद्वंशादिवत्, उभयथाप्यनुपपत्तिरेव । यथा प्रदीपयोः प्रकाश्यप्रकाशकत्वानुपपत्तिः, समत्वात्, तद्वत् । न च मन्तुर्मन्तव्ये मननव्यापारशून्यः कालेऽस्त्यात्ममननाय । यदापि लिङ्गेनात्मानं मनुते मन्ता, तदापि पूर्ववदेव लिङ्गेन मन्तव्य आत्मा, यश्च तस्य मन्ता, तौ द्वौ प्रसज्येयाताम्; एक एव वा द्विधेति पूर्वोक्तो दोषः । न प्रत्यक्षेण, नाप्यनुमानेन ज्ञायते चेत्, कथमुच्यते ‘स म आत्मेति विद्यात्’ (कौ. उ. ३ । ९) इति, कथं वा श्रोता मन्तेत्यादि? ननु श्रोतृत्वादिधर्मवानात्मा, अश्रोतृत्वादि च प्रसिद्धमात्मनः; किमत्र विषमं पश्यसि? यद्यपि तव न विषमम्; तथापि मम तु विषमं प्रतिभाति । कथम्? यदासौ श्रोता, तदा न मन्ता; यदा मन्ता, तदा न श्रोता । तत्रैवं सति, पक्षे श्रोता मन्ता, पक्षे न श्रोता नापि मन्ता । तथा अन्यत्रापि च । यदैवम्, तदा श्रोतृत्वादिधर्मवानात्मा अश्रोतृत्वादिधर्मवान्वेति संशयस्थाने कथं तव न वैषम्यम्? यदा देवदत्तो गच्छति, तदा न स्थाता, गन्तैव । यदा तिष्ठति, न गन्ता, स्थातैव; तदास्य पक्ष एव गन्तृत्वं स्थातृत्वं च, न नित्यं गन्तृत्वं स्थातृत्वं वा, तद्वत् । तथैवात्र काणादादयः पश्यन्ति । पक्षप्राप्तेनैव श्रोतृत्वादिना आत्मोच्यते श्रोता मन्तेत्यादिवचनात् । संयोगजत्वमयौगपद्यं च ज्ञानस्य ह्याचक्षते । दर्शयन्ति च अन्यत्रमना अभूवं नादर्शम् इत्यादि युगपज्ज्ञानानुत्पत्तिर्मनसो लिङ्गमिति च न्याय्यम् । भवत्वेवं किं तव नष्टं यद्येवं स्यात्? अस्त्वेवं तवेष्टं चेत्; श्रुत्यर्थस्तु न सम्भवति । किं न श्रोता मन्तेत्यादिश्रुत्यर्थः? न, न श्रोता न मन्तेत्यादिवचनात् । ननु पाक्षिकत्वेन प्रत्युक्तं त्वया; न, नित्यमेव श्रोतृत्वाद्यभ्युपगमात्, ‘न हि श्रोतुः श्रुतेर्विपरिलोपो विद्यते’ (बृ. उ. ४ । ३ । २७) इत्यादिश्रुतेः । एवं तर्हि नित्यमेव श्रोतृत्वाद्यभ्युपगमे, प्रत्यक्षविरुद्धा युगपज्ज्ञानोत्पत्तिः अज्ञानाभावश्चात्मनः कल्पितः स्यात् । तच्चानिष्टमिति । नोभयदोषोपपत्तिः, आत्मनः श्रुत्यादिश्रोतृत्वादिधर्मवत्त्वश्रुतेः । अनित्यानां मूर्तानां च चक्षुरादीनां दृष्ट्याद्यनित्यमेव संयोगवियोगधर्मिणाम् । यथा अग्नेर्ज्वलनं तृणादिसंयोगजत्वात्, तद्वत् । न तु नित्यस्यामूर्तस्यासंयोगविभागधर्मिणः संयोगजदृष्ट्याद्यनित्यधर्मवत्त्वं सम्भवति । तथा च श्रुतिः ‘न हि द्रष्टुर्दृष्टेर्विपरिलोपो विद्यते’ (बृ. उ. ४ । ३ । २३) इत्याद्या । एवं तर्हि द्वे दृष्टी चक्षुषोऽनित्या दृष्टिः, नित्या चात्मनः । तथा च द्वे श्रुती श्रोत्रस्यानित्या, नित्या चात्मस्वरूपस्य । तथा द्वे मती विज्ञाती बाह्याबाह्ये । एवं ह्येव चेयं श्रुतिरुपपन्ना भवति — ‘दृष्टेर्द्रष्टा श्रुतेः श्रोता’ इत्याद्या । लोकेऽपि प्रसिद्धं चक्षुषस्तिमिरागमापाययोः नष्टा दृष्टिः जाता दृष्टिः इति चक्षुर्दृष्टेरनित्यत्वम् । तथा च श्रुतिमत्यादीनामात्मदृष्ट्यादीनां च नित्यत्वं प्रसिद्धमेव लोके । वदति ह्युद्धृतचक्षुः स्वप्नेऽद्य मया भ्राता दृष्ट इति । तथा अवगतबाधिर्यः स्वप्ने श्रुतो मन्त्रोऽद्येत्यादि । यदि चक्षुःसंयोगजैवात्मनो नित्या दृष्टिस्तन्नाशे नश्येत्, तदा उद्धृतचक्षुः स्वप्ने नीलपीतादि न पश्येत् । ‘न हि द्रष्टुर्दृष्टेः’ (बृ. उ. ४ । ३ । २३) इत्याद्या च श्रुतिः अनुपपन्ना स्यात् । ‘तच्चक्षुः पुरुषे येन स्वप्नं पश्यति’ इत्याद्या च श्रुतिः । नित्या आत्मनो दृष्टिर्बाह्यानित्यदृष्टेर्ग्राहिका । बाह्यदृष्टेश्च उपजनापायाद्यनित्यधर्मवत्त्वात् ग्राहिकाया आत्मदृष्टेस्तद्वदवभासत्वमनित्यत्वादि भ्रान्तिनिमित्तं लोकस्येति युक्तम् । यथा भ्रमणादिधर्मवदलातादिवस्तुविषयदृष्टिरपि भ्रमतीव, तद्वत् । तथा च श्रुतिः ‘ध्यायतीव लेलायतीव’ (बृ. उ. ४ । ३ । ७) इति । तस्मादात्मदृष्टेर्नित्यत्वान्न यौगपद्यमयौगपद्यं वा अस्ति । बाह्यानित्यदृष्ट्युपाधिवशात्तु लोकस्य तार्किकाणां च आगमसम्प्रदायवर्जितत्वात् अनित्या आत्मनो दृष्टिरिति भ्रान्तिरुपपन्नैव । जीवेश्वरपरमात्मभेदकल्पना च एतन्निमित्तैव । तथा अस्ति, नास्ति, इत्याद्याश्च यावन्तो वाङ्मनसयोर्भेदा यत्रैकं भवन्ति, तद्विषयाया नित्याया दृष्टेर्निर्विशेषायाः । अस्ति नास्ति, एकं नाना, गुणवदगुणम्, जानाति न जानाति, क्रियावदक्रियम्, फलवदफलम्, सबीजं निर्बीजम्, सुखं दुःखम्, मध्यममध्यम्, शून्यमशून्यम्, परोऽहमन्यः, इति वा सर्ववाक्प्रत्ययागोचरे स्वरूपे यो विकल्पयितुमिच्छति, स नूनं खमपि चर्मवद्वेष्टयितुमिच्छति, सोपानमिव च पद्भ्यामारोढुम्; जले खे च मीनानां वयसां च पदं दिदृक्षते; ‘नेति नेति’ (बृ. उ. ३ । ९ । २६) ‘यतो वाचो निवर्तन्ते’ (तै. उ. २ । ४ । १) इत्यादिश्रुतिभ्यः, ‘को अद्धा वेद’ (ऋ. सं. १ । ३० । ६) इत्यादिमन्त्रवर्णात् ॥\n\nकथं तर्हि तस्य स म आत्मेति वेदनम्; ब्रूहि केन प्रकारेण तमहं स म आत्मेति विद्याम् । अत्राख्यायिकामाचक्षते — कश्चित्किल मनुष्यो मुग्धः कैश्चिदुक्तः कस्मिंश्चिदपराधे सति धिक्त्वां नासि मनुष्य इति । स मुग्धतया आत्मनो मनुष्यत्वं प्रत्याययितुं कञ्चिदुपेत्याह — ब्रवीतु भवान्कोऽहमस्मीति । स तस्य मुग्धतां ज्ञात्वा आह — क्रमेण बोधयिष्यामीति । स्थावराद्यात्मभावमपोह्य न त्वममनुष्य इत्युक्त्वोपरराम । स तं मुग्धः प्रत्याह — भवान्मां बोधयितुं प्रवृत्तस्तूष्णीं बभूव, किं न बोधयतीति । तादृगेव तद्भवतो वचनम् । नास्यमनुष्य इत्युक्तेऽपि मनुष्यत्वमात्मनो न प्रतिपद्यते यः, स कथं मनुष्योऽसीत्युक्तोऽपि मनुष्यत्वमात्मनः प्रतिपद्येत? तस्माद्यथाशास्त्रोपदेश एवात्मावबोधविधिः, नान्यः । न ह्यग्नेर्दाह्यं तृणादि अन्येन केनचिद्दग्धुं शक्यम् । अत एव शास्त्रमात्मस्वरूपं बोधयितुं प्रवृत्तं सत् अमनुष्यत्वप्रतिषेधेनेव ‘नेति नेति’ (बृ. उ. ३ । ९ । २६) इत्युक्त्वोपरराम । तथा ‘अनन्तरमबाह्यम्’ (बृ. उ. २ । ५ । १९) (बृ. उ. ३ । ८ । ८) ‘अयमात्मा ब्रह्म सर्वानुभूः’ (बृ. उ. २ । ५ । १९) इत्यनुशासनम्; ‘तत्त्वमसि’ (छा. उ. ६ । ८ । ७) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. २ । ४ । १४) (बृ. उ. ४ । ५ । १५) इत्येवमाद्यपि च । यावदयमेव यथोक्तमिममात्मानं न वेत्ति, तावदयं ब्राह्मानित्यदृष्टिलक्षणमुपाधिमात्मत्वेनोपेत्य अविद्यया उपाधिधर्मानात्मनो मन्यमानो ब्रह्मादिस्तम्बपर्यन्तेषु स्थानेषु पुनः पुनरावर्तमानः अविद्याकामकर्मवशात्संसरति । स एवं संसरन् उपात्तदेहेन्द्रियसङ्घातं त्यजति । त्यक्त्वा अन्यमुपादत्ते । पुनः पुनरेवमेव नदीस्रोतोवज्जन्ममरणप्रबन्धाविच्छेदेन वर्तमानः काभिरवस्थाभिर्वर्तते इत्येतमर्थं दर्शयन्त्याह श्रुतिः वैराग्यहेतोः —\n\nअयमेवाविद्याकामकर्माभिमानवान् यज्ञादिकर्म कृत्वा अस्माल्लोकाद्धूमादिक्रमेण चन्द्रमसं प्राप्य क्षीणकर्मा वृष्ट्यादिक्रमेण इमं लोकं प्राप्य अन्नभूतः पुरुषाग्नौ हुतः । तस्मिन्पुरुषे ह वै अयं संसारी रसादिक्रमेण आदितः प्रथमतः रेतोरूपेण गर्भो भवतीति एतदाह — यदेतत्पुरुषे रेतः, तेन रूपेणेति । तच्च एतत् रेतः अन्नमयस्य पिण्डस्य सर्वेभ्यः अङ्गेभ्यः अवयवेभ्यो रसादिलक्षणेभ्यः तेजः साररूपं शरीरस्य सम्भूतं परिनिष्पन्नं तत् पुरुषस्य आत्मभूतत्वादात्मा, तमात्मानं रेतोरूपेण गर्भीभूतम् आत्मन्येव स्वशरीर एव आत्मानं बिभर्ति धारयति । तत् रेतः स्त्रियां सिञ्चति यदा, यदा यस्मिन्काले भार्या ऋतुमती तस्यां योषाग्नौ स्त्रियां सिञ्चति उपगच्छन्, अथ तदा एनत् एतद्रेतः आत्मनो गर्भरूपं जनयति पिता । तत् अस्य पुरुषस्य स्थानान्निर्गमनं रेतःसेककाले रेतोरूपेण अस्य संसारिणः प्रथमं जन्म प्रथमावस्थाभिव्यक्तिः । तदेतदुक्तं पुरस्तात् ‘असावात्मा अमुमात्मानम्’ इत्यादिना ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_2_2",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Adhyāya 2: Three Births of the Soul",
+      "verse_number": 2,
+      "chapter_number": 2,
+      "mantra_ref": "2.1.2",
+      "source_url": ""
+    },
+    "section_title": "चतुर्थः खण्डः",
+    "sanskrit_shloka": "तत्स्त्रिया आत्मभूयं गच्छति यथा स्वमङ्गं तथा । तस्मादेनां न हिनस्ति सास्यैतमात्मानमत्र गतं भावयति ॥ २ ॥",
+    "transliteration": "tatstriyā ātmabhūyaṃ gacchati yathā svamaṅgaṃ tathā | tasmādenāṃ na hinasti sāsyaitamātmānamatra gataṃ bhāvayati || 2 ||",
+    "translation": "that (semen, रेतः) — of the woman (in whom it is shed) — non-difference from herself, oneness of being (आत्माव्यतिरेकताम्) — like that of the father — goes to, attains (प्राप्नोति) — just as — one's own limb (स्तनादि, like the breast) — so, likewise (तद्वदेव) — therefore (तस्माद्धेतोः) — her (the mother, मातरम्) — not — harms, injures (here negated: न बाधते — does not afflict, as a boil does not) — she (the pregnant woman) — his (her husband's) — this — self — here (अत्र = आत्मन उदरे, in her own womb) — gone, entered (प्रविष्टम्, into the womb) — causes to grow, nourishes, fosters (वर्धयति परिपालयति)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तत्स्त्रिया",
+        "word_english": "that (semen, रेतः) — of the woman (in whom it is shed)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं (रेतस्) + स्त्री · षष्ठी·एक·स्त्री",
+        "root": "तत् + स्त्रियाः"
+      },
+      {
+        "word_sanskrit": "आत्मभूयं",
+        "word_english": "non-difference from herself, oneness of being (आत्माव्यतिरेकताम्) — like that of the father",
+        "grammar_role": "आत्मभूय · द्वितीया·एक·नपुं",
+        "root": "आत्मभूयम्"
+      },
+      {
+        "word_sanskrit": "गच्छति",
+        "word_english": "goes to, attains (प्राप्नोति)",
+        "grammar_role": "√गम् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "गच्छति"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "just as",
+        "grammar_role": "अव्यय (साम्यवाचक)",
+        "root": "यथा"
+      },
+      {
+        "word_sanskrit": "स्वमङ्गं",
+        "word_english": "one's own limb (स्तनादि, like the breast)",
+        "grammar_role": "स्व · द्वितीया·एक·नपुं + अङ्ग · द्वितीया·एक·नपुं",
+        "root": "स्वम् + अङ्गम्"
+      },
+      {
+        "word_sanskrit": "तथा",
+        "word_english": "so, likewise (तद्वदेव)",
+        "grammar_role": "अव्यय (साम्यवाचक)",
+        "root": "तथा"
+      },
+      {
+        "word_sanskrit": "तस्मादेनां",
+        "word_english": "therefore (तस्माद्धेतोः) — her (the mother, मातरम्)",
+        "grammar_role": "तद् · पञ्चमी·एक·पुं/नपुं (हेतौ) + एनद् · द्वितीया·एक·स्त्री",
+        "root": "तस्मात् + एनाम्"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "अव्यय (निषेधे)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "हिनस्ति",
+        "word_english": "harms, injures (here negated: न बाधते — does not afflict, as a boil does not)",
+        "grammar_role": "√हिंस् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "हिनस्ति"
+      },
+      {
+        "word_sanskrit": "सास्यैतमात्मानमत्र",
+        "word_english": "she (the pregnant woman) — his (her husband's) — this — self — here (अत्र = आत्मन उदरे, in her own womb)",
+        "grammar_role": "तद् · प्रथमा·एक·स्त्री (अन्तर्वत्नी) + इदम् · षष्ठी·एक·पुं (अस्य भर्तुः) + एतद् · द्वितीया·एक·पुं + आत्मन् · द्वितीया·एक·पुं + अव्यय (अधिकरणे)",
+        "root": "सा + अस्य + एतम् + आत्मानम् + अत्र"
+      },
+      {
+        "word_sanskrit": "गतं",
+        "word_english": "gone, entered (प्रविष्टम्, into the womb)",
+        "grammar_role": "गत (√गम् क्त) · द्वितीया·एक·पुं",
+        "root": "गतम्"
+      },
+      {
+        "word_sanskrit": "भावयति",
+        "word_english": "causes to grow, nourishes, fosters (वर्धयति परिपालयति)",
+        "grammar_role": "√भू (णिजन्त/causative) · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "भावयति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "that (semen, रेतः) — of the woman (in whom it is shed) — non-difference from herself, oneness of being (आत्माव्यतिरेकताम्) — like that of the father — goes to, attains (प्राप्नोति) — just as — one's own limb (स्तनादि, like the breast) — so, likewise (तद्वदेव) — therefore (तस्माद्धेतोः) — her (the mother, मातरम्) — not — harms, injures (here negated: न बाधते — does not afflict, as a boil does not) — she (the pregnant woman) — his (her husband's) — this — self — here (अत्र = आत्मन उदरे, in her own womb) — gone, entered (प्रविष्टम्, into the womb) — causes to grow, nourishes, fosters (वर्धयति परिपालयति)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "तत् रेतः यस्यां स्त्रियां सिक्तं सत्तस्याः स्त्रियाः आत्मभूयम् आत्माव्यतिरेकतां यथा पितुः एवं गच्छति प्राप्नोति यथा स्वमङ्गं स्तनादि, तथा तद्वदेव । तस्माद्धेतोः एनां मातरं स गर्भो न हिनस्ति पिटकादिवत् । यस्मात्स्तनादि स्वाङ्गवदात्मभूयं गतम्, तस्मान्न हिनस्ति न बाधत इत्यर्थः । सा अन्तर्वत्नी एतम् अस्य भर्तुरात्मानम् अत्र आत्मन उदरे गतं प्रविष्टं बुद्ध्वा भावयति वर्धयति परिपालयति गर्भविरुद्धाशनादिपरिहारम् अनुकूलाशनाद्युपयोगं च कुर्वती ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_2_3",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Adhyāya 2: Three Births of the Soul",
+      "verse_number": 3,
+      "chapter_number": 2,
+      "mantra_ref": "2.1.3",
+      "source_url": ""
+    },
+    "section_title": "चतुर्थः खण्डः",
+    "sanskrit_shloka": "सा भावयित्री भावयितव्या भवति तं स्त्री गर्भं बिभर्ति सोऽग्र एव कुमारं जन्मनोऽग्रेऽधि भावयति । स यत्कुमारं जन्मनोऽग्रेऽधि भावयत्यात्मानमेव तद्भावयत्येषां लोकानां सन्तत्या एवं सन्तता हीमे लोकास्तदस्य द्वितीयं जन्म ॥ ३ ॥",
+    "transliteration": "sā bhāvayitrī bhāvayitavyā bhavati taṃ strī garbhaṃ bibharti so'gra eva kumāraṃ janmano'gre'dhi bhāvayati | sa yatkumāraṃ janmano'gre'dhi bhāvayatyātmānameva tadbhāvayatyeṣāṃ lokānāṃ santatyā evaṃ santatā hīme lokāstadasya dvitīyaṃ janma || 3 ||",
+    "translation": "she (the wife, the nourisher) — nourisher, one who causes to grow (वर्धयित्री) — to be nourished/cherished (by the husband) — she becomes, she is — that (embryo) — the woman, the wife — the embryo, the foetus — bears, carries, sustains (धारयति) — he (the father); at the very first, before birth — indeed, just, only — the boy, the newborn child — just after birth, following/above the birth (ऊर्ध्वं जन्मनः) — he nourishes, rears (with the birth-rites, जातकर्मादिना) — he (the father) — in that / because he ... the boy (यत् = यस्मात्) — just after birth, following/above the birth — he nourishes his very own self (पितुरात्मैव पुत्ररूपेण) — that he nourishes; of these (worlds) — of the worlds, of the beings — for the continuity, for the non-interruption (अविच्छेदाय) — thus, in this way — continued, kept unbroken (in unbroken succession) — for these (worlds) indeed — the worlds; that, of this (man) — second — birth (this is his second birth)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "सा",
+        "word_english": "she (the wife, the nourisher)",
+        "grammar_role": "तद् · प्रथमा·एक·स्त्री",
+        "root": "सा"
+      },
+      {
+        "word_sanskrit": "भावयित्री",
+        "word_english": "nourisher, one who causes to grow (वर्धयित्री)",
+        "grammar_role": "भावयितृ · प्रथमा·एक·स्त्री",
+        "root": "भावयित्री"
+      },
+      {
+        "word_sanskrit": "भावयितव्या",
+        "word_english": "to be nourished/cherished (by the husband)",
+        "grammar_role": "भावयितव्य · प्रथमा·एक·स्त्री",
+        "root": "भावयितव्या"
+      },
+      {
+        "word_sanskrit": "भवति",
+        "word_english": "she becomes, she is",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "भवति"
+      },
+      {
+        "word_sanskrit": "तं",
+        "word_english": "that (embryo)",
+        "grammar_role": "तद् · द्वितीया·एक·पुं",
+        "root": "तम्"
+      },
+      {
+        "word_sanskrit": "स्त्री",
+        "word_english": "the woman, the wife",
+        "grammar_role": "स्त्री · प्रथमा·एक·स्त्री",
+        "root": "स्त्री"
+      },
+      {
+        "word_sanskrit": "गर्भं",
+        "word_english": "the embryo, the foetus",
+        "grammar_role": "गर्भ · द्वितीया·एक·पुं",
+        "root": "गर्भम्"
+      },
+      {
+        "word_sanskrit": "बिभर्ति",
+        "word_english": "bears, carries, sustains (धारयति)",
+        "grammar_role": "√भृ · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "बिभर्ति"
+      },
+      {
+        "word_sanskrit": "सोऽग्र",
+        "word_english": "he (the father); at the very first, before birth",
+        "grammar_role": "तद् · प्रथमा·एक·पुं + अग्र · अव्यय (सप्तमी, क्रियाविशेषण)",
+        "root": "सः + अग्रे"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "indeed, just, only",
+        "grammar_role": "अव्यय (अवधारणे)",
+        "root": "एव"
+      },
+      {
+        "word_sanskrit": "कुमारं",
+        "word_english": "the boy, the newborn child",
+        "grammar_role": "कुमार · द्वितीया·एक·पुं",
+        "root": "कुमारम्"
+      },
+      {
+        "word_sanskrit": "जन्मनोऽग्रेऽधि",
+        "word_english": "just after birth, following/above the birth (ऊर्ध्वं जन्मनः)",
+        "grammar_role": "जन्मन् · पञ्चमी·एक·नपुं + अग्र · अव्यय (सप्तमी) + अधि · अव्यय (उपरि)",
+        "root": "जन्मनः + अग्रे + अधि"
+      },
+      {
+        "word_sanskrit": "भावयति",
+        "word_english": "he nourishes, rears (with the birth-rites, जातकर्मादिना)",
+        "grammar_role": "√भू (णिच्) · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "भावयति"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the father)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यत्कुमारं",
+        "word_english": "in that / because he ... the boy (यत् = यस्मात्)",
+        "grammar_role": "यद् · अव्यय (यस्मात्, कारणे) + कुमार · द्वितीया·एक·पुं",
+        "root": "यत् + कुमारम्"
+      },
+      {
+        "word_sanskrit": "जन्मनोऽग्रेऽधि",
+        "word_english": "just after birth, following/above the birth",
+        "grammar_role": "जन्मन् · पञ्चमी·एक·नपुं + अग्र · अव्यय (सप्तमी) + अधि · अव्यय (उपरि)",
+        "root": "जन्मनः + अग्रे + अधि"
+      },
+      {
+        "word_sanskrit": "भावयत्यात्मानमेव",
+        "word_english": "he nourishes his very own self (पितुरात्मैव पुत्ररूपेण)",
+        "grammar_role": "√भू (णिच्) · लट्·प्र·एक·परस्मैपद + आत्मन् · द्वितीया·एक·पुं + अव्यय (अवधारणे)",
+        "root": "भावयति + आत्मानम् + एव"
+      },
+      {
+        "word_sanskrit": "तद्भावयत्येषां",
+        "word_english": "that he nourishes; of these (worlds)",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं (क्रियाविशेषण) + √भू (णिच्) · लट्·प्र·एक·परस्मैपद + इदम् · षष्ठी·बहु·पुं",
+        "root": "तत् + भावयति + एषाम्"
+      },
+      {
+        "word_sanskrit": "लोकानां",
+        "word_english": "of the worlds, of the beings",
+        "grammar_role": "लोक · षष्ठी·बहु·पुं",
+        "root": "लोकानाम्"
+      },
+      {
+        "word_sanskrit": "सन्तत्या",
+        "word_english": "for the continuity, for the non-interruption (अविच्छेदाय)",
+        "grammar_role": "सन्तति · चतुर्थी·एक·स्त्री",
+        "root": "सन्तत्यै"
+      },
+      {
+        "word_sanskrit": "एवं",
+        "word_english": "thus, in this way",
+        "grammar_role": "अव्यय (प्रकारे)",
+        "root": "एवम्"
+      },
+      {
+        "word_sanskrit": "सन्तता",
+        "word_english": "continued, kept unbroken (in unbroken succession)",
+        "grammar_role": "सन्तत · प्रथमा·बहु·पुं (कर्मणि भूतकृदन्त)",
+        "root": "सन्तताः"
+      },
+      {
+        "word_sanskrit": "हीमे",
+        "word_english": "for these (worlds) indeed",
+        "grammar_role": "हि · अव्यय (हेतौ) + इदम् · प्रथमा·बहु·पुं",
+        "root": "हि + इमे"
+      },
+      {
+        "word_sanskrit": "लोकास्तदस्य",
+        "word_english": "the worlds; that, of this (man)",
+        "grammar_role": "लोक · प्रथमा·बहु·पुं + तद् · प्रथमा·एक·नपुं + इदम् · षष्ठी·एक·पुं",
+        "root": "लोकाः + तत् + अस्य"
+      },
+      {
+        "word_sanskrit": "द्वितीयं",
+        "word_english": "second",
+        "grammar_role": "द्वितीय · प्रथमा·एक·नपुं",
+        "root": "द्वितीयम्"
+      },
+      {
+        "word_sanskrit": "जन्म",
+        "word_english": "birth (this is his second birth)",
+        "grammar_role": "जन्मन् · प्रथमा·एक·नपुं",
+        "root": "जन्म"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "she (the wife, the nourisher) — nourisher, one who causes to grow (वर्धयित्री) — to be nourished/cherished (by the husband) — she becomes, she is — that (embryo) — the woman, the wife — the embryo, the foetus — bears, carries, sustains (धारयति) — he (the father); at the very first, before birth — indeed, just, only — the boy, the newborn child — just after birth, following/above the birth (ऊर्ध्वं जन्मनः) — he nourishes, rears (with the birth-rites, जातकर्मादिना) — he (the father) — in that / because he ... the boy (यत् = यस्मात्) — just after birth, following/above the birth — he nourishes his very own self (पितुरात्मैव पुत्ररूपेण) — that he nourishes; of these (worlds) — of the worlds, of the beings — for the continuity, for the non-interruption (अविच्छेदाय) — thus, in this way — continued, kept unbroken (in unbroken succession) — for these (worlds) indeed — the worlds; that, of this (man) — second — birth (this is his second birth)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "सा भावयित्री वर्धयित्री भर्तुरात्मनो गर्भभूतस्य भावयितव्या वर्धयितव्या च भर्त्रा भवति । न ह्युपकारप्रत्युपकारमन्तरेण लोके कस्यचित्केनचित्सम्बन्ध उपपद्यते । तं गर्भं स्त्री यथोक्तेन गर्भधारणविधानेन बिभर्ति धारयति अग्रे प्राग्जन्मनः । सः पिता अग्रे एव पूर्वमेव जातमात्रं कुमारं जन्मनः अधि ऊर्ध्वं जन्मनः जातं कुमारं जातकर्मादिना पिता भावयति । सः पिता यत् यस्मात् कुमारं जन्मनः अधि ऊर्ध्वं अग्रे जातमात्रमेव जातकर्मादिना यद्भावयति, तत् आत्मानमेव भावयति; पितुरात्मैव हि पुत्ररूपेण जायते । तथा ह्युक्तम् ‘पतिर्जायां प्रविशति’ (हरि. ३ । ७३ । ७१) इत्यादि । तत्किमर्थमात्मानं पुत्ररूपेण जनयित्वा भावयतीति? उच्यते — एषां लोकानां सन्तत्यै अविच्छेदायेत्यर्थः । विच्छिद्येरन्हीमे लोकाः पुत्रोत्पादनादि यदि न कुर्युः । एवं पुत्रोत्पादनादिकर्माविच्छेदेनैव सन्तताः प्रबन्धरूपेण वर्तन्ते हि यस्मात् इमे लोकाः, तस्मात्तदविच्छेदाय तत्कर्तव्यम्; न मोक्षायेत्यर्थः । तत् अस्य संसारिणः कुमाररूपेण मातुरुदराद्यन्निर्गमनम्, तत् रेतोरूपापेक्षया द्वितीयं जन्म द्वितीयावस्थाभिव्यक्तिः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_2_4",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Adhyāya 2: Three Births of the Soul",
+      "verse_number": 4,
+      "chapter_number": 2,
+      "mantra_ref": "2.1.4",
+      "source_url": ""
+    },
+    "section_title": "चतुर्थः खण्डः",
+    "sanskrit_shloka": "सोऽस्यायमात्मा पुण्येभ्यः कर्मभ्यः प्रतिधीयते । अथास्यायमितर आत्मा कृतकृत्यो वयोगतः प्रैति स इतः प्रयन्नेव पुनर्जायते तदस्य तृतीयं जन्म ॥ ४ ॥",
+    "transliteration": "so'syāyamātmā puṇyebhyaḥ karmabhyaḥ pratidhīyate | athāsyāyamitara ātmā kṛtakṛtyo vayogataḥ praiti sa itaḥ prayanneva punarjāyate tadasya tṛtīyaṃ janma || 4 ||",
+    "translation": "that son-self of his (the father) — for the meritorious (acts) enjoined by scripture — for (performing) the rites/duties — is set in place (as substitute for the father) — then (thereafter) this other (self) of his (the son) — the self (i.e. the father-self, पित्रात्मा) — having accomplished his duty, freed from the three debts — aged, with life-span gone, decrepit — departs, i.e. dies — he (the dying father-self) — from here, from this (world/body) — even while departing (forsaking the body) — is born again — that (is) his — third — birth",
+    "word_by_word": [
+      {
+        "word_sanskrit": "सोऽस्यायमात्मा",
+        "word_english": "that son-self of his (the father)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं + इदम् · षष्ठी·एक·पुं + इदम् · प्रथमा·एक·पुं + आत्मन् · प्रथमा·एक·पुं",
+        "root": "सः + अस्य + अयम् + आत्मा"
+      },
+      {
+        "word_sanskrit": "पुण्येभ्यः",
+        "word_english": "for the meritorious (acts) enjoined by scripture",
+        "grammar_role": "पुण्य · चतुर्थी·बहु·नपुं (कर्मविशेषण)",
+        "root": "पुण्येभ्यः"
+      },
+      {
+        "word_sanskrit": "कर्मभ्यः",
+        "word_english": "for (performing) the rites/duties",
+        "grammar_role": "कर्मन् · चतुर्थी·बहु·नपुं",
+        "root": "कर्मभ्यः"
+      },
+      {
+        "word_sanskrit": "प्रतिधीयते",
+        "word_english": "is set in place (as substitute for the father)",
+        "grammar_role": "√धा (प्रति) · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद (कर्मणि)",
+        "root": "प्रतिधीयते"
+      },
+      {
+        "word_sanskrit": "अथास्यायमितर",
+        "word_english": "then (thereafter) this other (self) of his (the son)",
+        "grammar_role": "अव्यय (अनन्तरार्थे = अनन्तरम्) + इदम् · षष्ठी·एक·पुं (पुत्रस्य) + इदम् · प्रथमा·एक·पुं + इतर · प्रथमा·एक·पुं",
+        "root": "अथ + अस्य + अयम् + इतरः"
+      },
+      {
+        "word_sanskrit": "आत्मा",
+        "word_english": "the self (i.e. the father-self, पित्रात्मा)",
+        "grammar_role": "आत्मन् · प्रथमा·एक·पुं",
+        "root": "आत्मा"
+      },
+      {
+        "word_sanskrit": "कृतकृत्यो",
+        "word_english": "having accomplished his duty, freed from the three debts",
+        "grammar_role": "कृतकृत्य · प्रथमा·एक·पुं (बहुव्रीहि)",
+        "root": "कृत-कृत्यः"
+      },
+      {
+        "word_sanskrit": "वयोगतः",
+        "word_english": "aged, with life-span gone, decrepit",
+        "grammar_role": "वयोगत · प्रथमा·एक·पुं (बहुव्रीहि)",
+        "root": "वयस्-गतः"
+      },
+      {
+        "word_sanskrit": "प्रैति",
+        "word_english": "departs, i.e. dies",
+        "grammar_role": "√इ (प्र) · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "प्रैति"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the dying father-self)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "इतः",
+        "word_english": "from here, from this (world/body)",
+        "grammar_role": "इतस् · अव्यय (= अस्मात्, पञ्चम्यर्थे)",
+        "root": "इतः"
+      },
+      {
+        "word_sanskrit": "प्रयन्नेव",
+        "word_english": "even while departing (forsaking the body)",
+        "grammar_role": "√इ (प्र) · वर्तमानकृदन्त (शतृ) · प्रथमा·एक·पुं + अव्यय (अवधारण)",
+        "root": "प्रयन् + एव"
+      },
+      {
+        "word_sanskrit": "पुनर्जायते",
+        "word_english": "is born again",
+        "grammar_role": "अव्यय (पुनः) + √जन् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "पुनर् + जायते"
+      },
+      {
+        "word_sanskrit": "तदस्य",
+        "word_english": "that (is) his",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + इदम् · षष्ठी·एक·पुं",
+        "root": "तत् + अस्य"
+      },
+      {
+        "word_sanskrit": "तृतीयं",
+        "word_english": "third",
+        "grammar_role": "तृतीय · प्रथमा·एक·नपुं",
+        "root": "तृतीयम्"
+      },
+      {
+        "word_sanskrit": "जन्म",
+        "word_english": "birth",
+        "grammar_role": "जन्मन् · प्रथमा·एक·नपुं",
+        "root": "जन्म"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "that son-self of his (the father) — for the meritorious (acts) enjoined by scripture — for (performing) the rites/duties — is set in place (as substitute for the father) — then (thereafter) this other (self) of his (the son) — the self (i.e. the father-self, पित्रात्मा) — having accomplished his duty, freed from the three debts — aged, with life-span gone, decrepit — departs, i.e. dies — he (the dying father-self) — from here, from this (world/body) — even while departing (forsaking the body) — is born again — that (is) his — third — birth"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अस्य पितुः सोऽयं पुत्रात्मा पुण्येभ्यः शास्त्रोक्तेभ्यः कर्मभ्यः कर्मनिष्पादनार्थं प्रतिधीयते पितुः स्थाने पित्रा यत्कर्तव्यं तत्करणाय प्रतिनिधीयत इत्यर्थः । तथा च सम्प्रत्तिविद्यायां वाजसनेयके — ‘पित्रानुशिष्टोऽहं ब्रह्माहं यज्ञ इत्यादि प्रतिपद्यते’ (बृ. उ. १ । ५ । १७) इति । अथ अनन्तरं पुत्रे निवेश्यात्मनो भारम् अस्य पुत्रस्य इतरः अयं यः पित्रात्मा कृतकृत्यः, कर्तव्यात् ऋणत्रयात् विमुक्तः कृतकर्तव्य इत्यर्थः, वयोगतः गतवयाः जीर्णः सन् प्रैति म्रियते । सः इतः अस्मात् प्रयन्नेव शरीरं परित्यजन्नेव, तृणजलूकादिवत्, देहान्तरमुपाददानः कर्मचितम्, पुनर्जायते । तदस्य मृत्वा प्रतिपत्तव्यं यत्, तत् तृतीयं जन्म । ननु संसरतः पितुः सकाशाद्रेतोरूपेण प्रथमं जन्म; तस्यैव कुमाररूपेण मातुर्द्वितीयं जन्मोक्तम्; तस्यैव तृतीये जन्मनि वक्तव्ये, प्रयतस्तस्य पितुर्यज्जन्म, तत्तृतीयमिति कथमुच्यते? नैष दोषः, पितापुत्रयोरेकात्मत्वस्य विवक्षितत्वात् । सोऽपि पुत्रः स्वपुत्रे भारं निधाय इतः प्रयन्नेव पुनर्जायते यथा पिता । तदन्यत्रोक्तमितरत्राप्युक्तमेव भवतीति मन्यते श्रुतिः । पितापुत्रयोरेकात्मत्वात् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_2_5",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Adhyāya 2: Three Births of the Soul",
+      "verse_number": 5,
+      "chapter_number": 2,
+      "mantra_ref": "2.1.5",
+      "source_url": ""
+    },
+    "section_title": "चतुर्थः खण्डः",
+    "sanskrit_shloka": "तदुक्तमृषिणा । गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा । शतं मा पुर आयसीररक्षन्नधः श्येनो जवसा निरदीयमिति गर्भ एवैतच्छयानो वामदेव एवमुवाच ॥ ५ ॥",
+    "transliteration": "taduktamṛṣiṇā | garbhe nu sannanveṣāmavedamahaṃ devānāṃ janimāni viśvā | śataṃ mā pura āyasīrarakṣannadhaḥ śyeno javasā niradīyamiti garbha evaitacchayāno vāmadeva evamuvāca || 5 ||",
+    "translation": "That was stated by the seer (in a mantra) — in the womb (mother's womb) — indeed, as it were (conjecture) — while [yet] being [in the womb], I came to know of these — I — of the gods (speech, fire, etc.) — the births (= जन्मानि) — all (births) — a hundred, i.e. many (bodies) — me — the strongholds, i.e. (iron-like) bodies — iron(-like) [bodies] guarded [me]; below — a hawk (like a hawk) — with swiftness/strength (born of Self-knowledge) — I flew forth (escaped) — thus — in the womb (itself) — even [there] lying, this — Vāmadeva (the seer) — spoke thus",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदुक्तमृषिणा",
+        "word_english": "That was stated by the seer (in a mantra)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + √वच् (उक्त) · कर्मणि भूतकृदन्त · प्रथमा·एक·नपुं + ऋषि · तृतीया·एक·पुं",
+        "root": "तत् + उक्तम् + ऋषिणा"
+      },
+      {
+        "word_sanskrit": "गर्भे",
+        "word_english": "in the womb (mother's womb)",
+        "grammar_role": "गर्भ · सप्तमी·एक·पुं",
+        "root": "गर्भे"
+      },
+      {
+        "word_sanskrit": "नु",
+        "word_english": "indeed, as it were (conjecture)",
+        "grammar_role": "अव्यय (वितर्के — speculative particle)",
+        "root": "नु"
+      },
+      {
+        "word_sanskrit": "सन्नन्वेषामवेदमहं",
+        "word_english": "while [yet] being [in the womb], I came to know of these — I",
+        "grammar_role": "√अस् (सत्) · वर्तमान कृदन्त · प्रथमा·एक·पुं + अव्यय (उपसर्ग अनु) + एतद् · षष्ठी·बहु·पुं + अनु-√विद् · लङ्·उत्तम·एक·परस्मै (अन्ववेदम्) + अस्मद् · प्रथमा·एक",
+        "root": "सन् + अनु + एषाम् + अवेदम् + अहम्"
+      },
+      {
+        "word_sanskrit": "देवानां",
+        "word_english": "of the gods (speech, fire, etc.)",
+        "grammar_role": "देव · षष्ठी·बहु·पुं",
+        "root": "देवानाम्"
+      },
+      {
+        "word_sanskrit": "जनिमानि",
+        "word_english": "the births (= जन्मानि)",
+        "grammar_role": "जनिमन् · द्वितीया·बहु·नपुं",
+        "root": "जनिमानि"
+      },
+      {
+        "word_sanskrit": "विश्वा",
+        "word_english": "all (births)",
+        "grammar_role": "विश्व · द्वितीया·बहु·नपुं (= विश्वानि सर्वाणि)",
+        "root": "विश्वा"
+      },
+      {
+        "word_sanskrit": "शतं",
+        "word_english": "a hundred, i.e. many (bodies)",
+        "grammar_role": "शत · द्वितीया·एक·नपुं (numeral; bhāṣya glosses अनेकाः बह्व्यः, qualifying पुरः)",
+        "root": "शतम्"
+      },
+      {
+        "word_sanskrit": "मा",
+        "word_english": "me",
+        "grammar_role": "अस्मद् · द्वितीया·एक (= माम्)",
+        "root": "मा"
+      },
+      {
+        "word_sanskrit": "पुर",
+        "word_english": "the strongholds, i.e. (iron-like) bodies",
+        "grammar_role": "पुर् (पूः) · द्वितीया·बहु·स्त्री (आयसीः... शरीराणि)",
+        "root": "पुरः"
+      },
+      {
+        "word_sanskrit": "आयसीररक्षन्नधः",
+        "word_english": "iron(-like) [bodies] guarded [me]; below",
+        "grammar_role": "आयसी · द्वितीया·बहु·स्त्री + √रक्ष् · लङ्·प्रथम·बहु·परस्मै (रक्षितवत्यः) + अव्यय (अधः — below/down)",
+        "root": "आयसीः + अरक्षन् + अधः"
+      },
+      {
+        "word_sanskrit": "श्येनो",
+        "word_english": "a hawk (like a hawk)",
+        "grammar_role": "श्येन · प्रथमा·एक·पुं (श्येन इव — like a hawk)",
+        "root": "श्येनः"
+      },
+      {
+        "word_sanskrit": "जवसा",
+        "word_english": "with swiftness/strength (born of Self-knowledge)",
+        "grammar_role": "जवस् · तृतीया·एक·नपुं (आत्मज्ञानकृतसामर्थ्येन)",
+        "root": "जवसा"
+      },
+      {
+        "word_sanskrit": "निरदीयमिति",
+        "word_english": "I flew forth (escaped) — thus",
+        "grammar_role": "निर्-√दी (दीङ्, to fly) · लङ्·उत्तम·एक·परस्मै (निर्गतः अस्मि) + अव्यय (इति — quotative)",
+        "root": "निरदीयम् + इति"
+      },
+      {
+        "word_sanskrit": "गर्भ",
+        "word_english": "in the womb (itself)",
+        "grammar_role": "गर्भ · सप्तमी·एक·पुं",
+        "root": "गर्भे"
+      },
+      {
+        "word_sanskrit": "एवैतच्छयानो",
+        "word_english": "even [there] lying, this",
+        "grammar_role": "अव्यय (एव — emphatic) + एतद् · द्वितीया·एक·नपुं (adverbial/demonstrative 'this') + √शी (शयान) · वर्तमान कृदन्त · प्रथमा·एक·पुं",
+        "root": "एव + एतत् + शयानः"
+      },
+      {
+        "word_sanskrit": "वामदेव",
+        "word_english": "Vāmadeva (the seer)",
+        "grammar_role": "वामदेव · प्रथमा·एक·पुं",
+        "root": "वामदेवः"
+      },
+      {
+        "word_sanskrit": "एवमुवाच",
+        "word_english": "spoke thus",
+        "grammar_role": "अव्यय (एवम् — thus) + √वच् · लिट्·प्रथम·एक·परस्मै",
+        "root": "एवम् + उवाच"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "That was stated by the seer (in a mantra) — in the womb (mother's womb) — indeed, as it were (conjecture) — while [yet] being [in the womb], I came to know of these — I — of the gods (speech, fire, etc.) — the births (= जन्मानि) — all (births) — a hundred, i.e. many (bodies) — me — the strongholds, i.e. (iron-like) bodies — iron(-like) [bodies] guarded [me]; below — a hawk (like a hawk) — with swiftness/strength (born of Self-knowledge) — I flew forth (escaped) — thus — in the womb (itself) — even [there] lying, this — Vāmadeva (the seer) — spoke thus"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "एवं संसरन्नवस्थाभिव्यक्तित्रयेण जन्ममरणप्रबन्धारूढः सर्वो लोकः संसारसमुद्रे निपतितः कथञ्चिद्यदा श्रुत्युक्तमात्मानं विजानाति यस्यां कस्याञ्चिदवस्थायाम्, तदैव मुक्तसर्वसंसारबन्धनः कृतकृत्यो भवतीत्येतद्वस्तु, तत् ऋषिणा मन्त्रेणापि उक्तमित्याह — गर्भे नु मातुर्गर्भाशय एव सन्, नु इति वितर्के । अनेकजन्मान्तरभावनापरिपाकवशात् एषां देवानां वागग्न्यादीनां जनिमानि जन्मानि विश्वा विश्वानि सर्वाणि अन्ववेदम् अहम् अहो अनुबुद्धवानस्मीत्यर्थः । शतम् अनेकाः बह्व्यः मा मां पुरः आयसीः आयस्यो लोहमय्य इवाभेद्यानि शरीराणीत्यभिप्रायः । अरक्षन् रक्षितवत्यः संसारपाशनिर्गमनात् अधः । अथ श्येन इव जालं भित्त्वा जवसा आत्मज्ञानकृतसामर्थ्येन निरदीयं निर्गतोऽस्मि । अहो गर्भ एव शयानो वामदेवः ऋषिः एवमुवाच एतत् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_2_6",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Adhyāya 2: Three Births of the Soul",
+      "verse_number": 6,
+      "chapter_number": 2,
+      "mantra_ref": "2.1.6",
+      "source_url": ""
+    },
+    "section_title": "चतुर्थः खण्डः",
+    "sanskrit_shloka": "स एवं विद्वानस्माच्छरीरभेदादूर्ध्व उत्क्रम्यामुष्मिन्स्वर्गे लोके सर्वान्कामानाप्त्वामृतः समभवत्समभवत् ॥ ६ ॥ इति चतुर्थः खण्डः ॥",
+    "transliteration": "sa evaṃ vidvānasmāccharīrabhedādūrdhva utkramyāmuṣminsvarge loke sarvānkāmānāptvāmṛtaḥ samabhavatsamabhavat || 6 || iti caturthaḥ khaṇḍaḥ ||",
+    "translation": "he (the sage Vāmadeva) — thus (knowing the Self as described) — knowing (the Self) thus, from this dissolution of the body, [being] elevated (having become the supreme Self) — having risen up (departed from saṃsāra), in that heavenly world — in the world (i.e. one's own Self, one's own true nature) — having obtained all desires, [becoming] immortal — became, became (repetition marking the conclusion/completion of the teaching) — thus (marking the end) — the fourth — section (chapter)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the sage Vāmadeva)",
+        "grammar_role": "तद् · प्रथमा·एक·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "एवं",
+        "word_english": "thus (knowing the Self as described)",
+        "grammar_role": "अव्यय (क्रियाविशेषण) · 'thus'",
+        "root": "एवम्"
+      },
+      {
+        "word_sanskrit": "विद्वानस्माच्छरीरभेदादूर्ध्व",
+        "word_english": "knowing (the Self) thus, from this dissolution of the body, [being] elevated (having become the supreme Self)",
+        "grammar_role": "विद्वस् (√विद्) · प्रथमा·एक·पुंलिङ्ग (परस्मैपद-लिट्-कृदन्त, क्वसु) + इदम् · पञ्चमी·एक·पुंलिङ्ग + शरीरभेद · पञ्चमी·एक·पुंलिङ्ग + ऊर्ध्व · प्रथमा·एक·पुंलिङ्ग",
+        "root": "विद्वान् + अस्मात् + शरीर-भेदात् + ऊर्ध्वः"
+      },
+      {
+        "word_sanskrit": "उत्क्रम्यामुष्मिन्स्वर्गे",
+        "word_english": "having risen up (departed from saṃsāra), in that heavenly world",
+        "grammar_role": "√क्रम् (उद्-) · ल्यबन्त-अव्यय (पूर्वकालिक) + अदस् · सप्तमी·एक·पुंलिङ्ग + स्वर्ग · सप्तमी·एक·पुंलिङ्ग",
+        "root": "उत्क्रम्य + अमुष्मिन् + स्वर्गे"
+      },
+      {
+        "word_sanskrit": "लोके",
+        "word_english": "in the world (i.e. one's own Self, one's own true nature)",
+        "grammar_role": "लोक · सप्तमी·एक·पुंलिङ्ग",
+        "root": "लोके"
+      },
+      {
+        "word_sanskrit": "सर्वान्कामानाप्त्वामृतः",
+        "word_english": "having obtained all desires, [becoming] immortal",
+        "grammar_role": "सर्व · द्वितीया·बहु·पुंलिङ्ग + काम · द्वितीया·बहु·पुंलिङ्ग + √आप् · क्त्वान्त-अव्यय (पूर्वकालिक) + अमृत · प्रथमा·एक·पुंलिङ्ग",
+        "root": "सर्वान् + कामान् + आप्त्वा + अमृतः"
+      },
+      {
+        "word_sanskrit": "समभवत्समभवत्",
+        "word_english": "became, became (repetition marking the conclusion/completion of the teaching)",
+        "grammar_role": "√भू (सम्-) · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद (द्विरुक्त) + √भू (सम्-) · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "समभवत् + समभवत्"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (marking the end)",
+        "grammar_role": "अव्यय (निपात) · 'thus' (quotation/closure marker)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "चतुर्थः",
+        "word_english": "the fourth",
+        "grammar_role": "चतुर्थ · प्रथमा·एक·पुंलिङ्ग (पूरणवाचक)",
+        "root": "चतुर्थः"
+      },
+      {
+        "word_sanskrit": "खण्डः",
+        "word_english": "section (chapter)",
+        "grammar_role": "खण्ड · प्रथमा·एक·पुंलिङ्ग",
+        "root": "खण्डः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "he (the sage Vāmadeva) — thus (knowing the Self as described) — knowing (the Self) thus, from this dissolution of the body, [being] elevated (having become the supreme Self) — having risen up (departed from saṃsāra), in that heavenly world — in the world (i.e. one's own Self, one's own true nature) — having obtained all desires, [becoming] immortal — became, became (repetition marking the conclusion/completion of the teaching) — thus (marking the end) — the fourth — section (chapter)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "सः वामदेव ऋषिः यथोक्तमात्मानम् एवं विद्वान् अस्मात् शरीरभेदात् शरीरस्य अविद्यापरिकल्पितस्य आयसवदनिर्भेद्यस्य जननमरणाद्यनेकानर्थशताविष्टशरीरप्रबन्धस्य परमात्मज्ञानामृतोपयोगजनितवीर्यकृतभेदात् शरीरोत्पत्तिबीजाविद्यादिनिमित्तोपमर्दहेतोः शरीरविनाशादित्यर्थः । ऊर्ध्वः परमात्मभूतः सन् अधोभवात्संसारात् उत्क्रम्य ज्ञानावद्योतितामलसर्वात्मभावमापन्नः सन् अमुष्मिन् यथोक्ते अजरेऽमरेऽमृतेऽभये सर्वज्ञेऽपूर्वेऽनपरेऽनन्तरेऽबाह्ये प्रज्ञानामृतैकरसे स्वर्गे लोके स्वस्मिन्नात्मनि स्वे स्वरूपे अमृतः समभवत् आत्मज्ञानेन पूर्वमाप्तकामतया जीवन्नेव सर्वान्कामानाप्त्वा इत्यर्थः । द्विर्वचनं सफलस्य सोदाहरणस्य आत्मज्ञानस्य परिसमाप्तिप्रदर्शनार्थम् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  }
+]

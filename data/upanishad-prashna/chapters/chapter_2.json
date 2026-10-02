@@ -5,32 +5,121 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 1,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145293.html"
+      "mantra_ref": "2.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0925 \u0939\u0948\u0928\u0902 \u092d\u093e\u0930\u094d\u0917\u0935\u094b \u0935\u0948\u0926\u0930\u094d\u092d\u093f\u0903 \u092a\u092a\u094d\u0930\u091a\u094d\u091b \u092d\u0917\u0935\u0928\u094d\u0915\u0924\u094d\u092f\u0947\u0935 \u0926\u0947\u0935\u093e\u0903 \u092a\u094d\u0930\u091c\u093e\u0902 \u0935\u093f\u0927\u093e\u0930\u092f\u0928\u094d\u0924\u0947 \u0915\u0924\u0930 \u090f\u0924\u0924\u094d\u092a\u094d\u0930\u0915\u093e\u0936\u092f\u0928\u094d\u0924\u0947 \u0915\u0903 \u092a\u0941\u0928\u0930\u0947\u0937\u093e\u0902 \u0935\u0930\u093f\u0937\u094d\u0920 \u0907\u0924\u093f \u0965 \u0967 \u0965",
-    "transliteration": "atha haina\u1e43 bh\u0101rgavo vaidarbhi\u1e25 papraccha | bhagavankatyeva dev\u0101\u1e25 prac\u0101\u1e43 vidh\u0101rayante katara etatpraka\u015bayante ka\u1e25 punare\u1e63\u0101\u1e43 vari\u1e63\u1e6dha iti || 1 ||",
-    "translation": "1. Next Bhargava of Vidarbha questioned him \u2018Oh Bhagavan ! How many Devas support the creature? Which of them enlighten that? Who again is of all of them, the greatest.\u2019",
-    "word_by_word": [],
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "अथ हैनं भार्गवो वैदर्भिः पप्रच्छ भगवन्कत्येव देवाः प्रजां विधारयन्ते कतर एतत्प्रकाशयन्ते कः पुनरेषां वरिष्ठ इति ॥ १ ॥",
+    "transliteration": "atha hainaṃ bhārgavo vaidarbhiḥ papraccha bhagavankatyeva devāḥ prajāṃ vidhārayante katara etatprakāśayante kaḥ punareṣāṃ variṣṭha iti || 1 ||",
+    "translation": "1. Next Bhargava of Vidarbha questioned him ‘Oh Bhagavan ! How many Devas support the creature? Which of them enlighten that? Who again is of all of them, the greatest.’",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अथ",
+        "word_english": "now, afterwards (= anantaram)",
+        "grammar_role": "अथ · अव्यय (आनन्तर्ये)",
+        "root": "अथ"
+      },
+      {
+        "word_sanskrit": "हैनं",
+        "word_english": "indeed + him (Pippalāda)",
+        "grammar_role": "ह · अव्यय (= किल) + एनद् · द्वितीया·एक·पुं (सर्वनाम)",
+        "root": "ह + एनम्"
+      },
+      {
+        "word_sanskrit": "भार्गवो",
+        "word_english": "Bhārgava (descendant of Bhṛgu)",
+        "grammar_role": "भार्गव · प्रथमा·एक·पुं",
+        "root": "भार्गवः"
+      },
+      {
+        "word_sanskrit": "वैदर्भिः",
+        "word_english": "the one from Vidarbha (Vaidarbhi)",
+        "grammar_role": "वैदर्भि · प्रथमा·एक·पुं",
+        "root": "वैदर्भिः"
+      },
+      {
+        "word_sanskrit": "पप्रच्छ",
+        "word_english": "asked",
+        "grammar_role": "√प्रच्छ् · लिट्·प्रथम·एक·परस्मैपद",
+        "root": "पप्रच्छ"
+      },
+      {
+        "word_sanskrit": "भगवन्कत्येव",
+        "word_english": "O revered one, just how many",
+        "grammar_role": "भगवत् · सम्बोधन·एक·पुं + कति · प्रथमा·बहु (अव्यय-संख्या) + एव · अव्यय",
+        "root": "भगवन् + कति + एव"
+      },
+      {
+        "word_sanskrit": "देवाः",
+        "word_english": "gods (the powers/senses)",
+        "grammar_role": "देव · प्रथमा·बहु·पुं",
+        "root": "देवाः"
+      },
+      {
+        "word_sanskrit": "प्रजां",
+        "word_english": "the offspring, i.e. the body (śarīra)",
+        "grammar_role": "प्रजा · द्वितीया·एक·स्त्री",
+        "root": "प्रजाम्"
+      },
+      {
+        "word_sanskrit": "विधारयन्ते",
+        "word_english": "specially uphold, sustain (= viśeṣeṇa dhārayanti)",
+        "grammar_role": "√धृ (वि, णिच्) · लट्·प्रथम·बहु·आत्मनेपद",
+        "root": "विधारयन्ते"
+      },
+      {
+        "word_sanskrit": "कतर",
+        "word_english": "which ones (of these)",
+        "grammar_role": "कतर · प्रथमा·बहु·पुं (सर्वनाम)",
+        "root": "कतरे"
+      },
+      {
+        "word_sanskrit": "एतत्प्रकाशयन्ते",
+        "word_english": "manifest this (their own glory)",
+        "grammar_role": "एतद् · द्वितीया·एक·नपुं (सर्वनाम) + √काश् (प्र, णिच्) · लट्·प्रथम·बहु·आत्मनेपद",
+        "root": "एतत् + प्रकाशयन्ते"
+      },
+      {
+        "word_sanskrit": "कः",
+        "word_english": "who",
+        "grammar_role": "किम् · प्रथमा·एक·पुं (सर्वनाम)",
+        "root": "कः"
+      },
+      {
+        "word_sanskrit": "पुनरेषां",
+        "word_english": "again, of these",
+        "grammar_role": "पुनर् · अव्यय + एतद् · षष्ठी·बहु·पुं (सर्वनाम)",
+        "root": "पुनर् + एषाम्"
+      },
+      {
+        "word_sanskrit": "वरिष्ठ",
+        "word_english": "the best, chief (= pradhāna)",
+        "grammar_role": "वरिष्ठ · प्रथमा·एक·पुं (तरतमप्रत्ययान्त, इष्ठन्)",
+        "root": "वरिष्ठः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (end of question)",
+        "grammar_role": "इति · अव्यय (वाक्यपरिसमाप्तौ)",
+        "root": "इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "1. Next Bhargava of Vidarbha questioned him \u2018Oh Bhagavan ! How many Devas support the creature? Which of them enlighten that? Who again is of all of them, the greatest.\u2019"
+        "text": "1. Next Bhargava of Vidarbha questioned him ‘Oh Bhagavan ! How many Devas support the creature? Which of them enlighten that? Who again is of all of them, the greatest.’"
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u092a\u094d\u0930\u093e\u0923\u094b\u093d\u0924\u094d\u0924\u093e \u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f\u0930\u093f\u0924\u094d\u092f\u0941\u0915\u094d\u0924\u092e\u094d\u00a0\u0964 \u0924\u0938\u094d\u092f \u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f\u0924\u094d\u0935\u092e\u0924\u094d\u0924\u0943\u0924\u094d\u0935\u0902 \u091a\u093e\u0938\u094d\u092e\u093f\u091e\u094d\u0936\u0930\u0940\u0930\u0947\u093d\u0935\u0927\u093e\u0930\u092f\u093f\u0924\u0935\u094d\u092f\u092e\u093f\u0924\u094d\u092f\u092f\u0902 \u092a\u094d\u0930\u0936\u094d\u0928 \u0906\u0930\u092d\u094d\u092f\u0924\u0947\u00a0\u0964 \u0905\u0925 \u0905\u0928\u0928\u094d\u0924\u0930\u0902 \u0939 \u0915\u093f\u0932 \u090f\u0928\u0902 \u092d\u093e\u0930\u094d\u0917\u0935\u0903 \u0935\u0948\u0926\u0930\u094d\u092d\u093f\u0903 \u092a\u092a\u094d\u0930\u091a\u094d\u091b \u2014 \u0939\u0947 \u092d\u0917\u0935\u0928\u094d \u0915\u0924\u094d\u092f\u0947\u0935 \u0926\u0947\u0935\u093e\u0903 \u092a\u094d\u0930\u091c\u093e\u0902 \u0936\u0930\u0940\u0930\u0932\u0915\u094d\u0937\u0923\u093e\u0902 \u0935\u093f\u0927\u093e\u0930\u092f\u0928\u094d\u0924\u0947 \u0935\u093f\u0936\u0947\u0937\u0947\u0923 \u0927\u093e\u0930\u092f\u0928\u094d\u0924\u0947\u00a0\u0964 \u0915\u0924\u0930\u0947 \u092c\u0941\u0926\u094d\u0927\u0940\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0915\u0930\u094d\u092e\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0935\u093f\u092d\u0915\u094d\u0924\u093e\u0928\u093e\u092e\u094d \u090f\u0924\u0924\u094d \u092a\u094d\u0930\u0915\u093e\u0936\u0928\u0902 \u0938\u094d\u0935\u092e\u093e\u0939\u093e\u0924\u094d\u092e\u094d\u092f\u092a\u094d\u0930\u0916\u094d\u092f\u093e\u092a\u0928\u0902 \u092a\u094d\u0930\u0915\u093e\u0936\u092f\u0928\u094d\u0924\u0947\u00a0\u0964 \u0915\u0903 \u0905\u0938\u094c \u092a\u0941\u0928\u0903 \u090f\u0937\u093e\u0902 \u0935\u0930\u093f\u0937\u094d\u0920\u0903 \u092a\u094d\u0930\u0927\u093e\u0928\u0903 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u0932\u0915\u094d\u0937\u0923\u093e\u0928\u093e\u092e\u093f\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014It has been said that prana is the eater, the lord of creation. This question is begun for the purpose of determining how he is such lord and eater in this body. Next Bhargava of Vidarbha questioned him, Oh Bhagavan ! how many Devas (senses) mainly support the creature, i.e., the body? Which, among the senses divided into intellectual and active, manifest their glory outside. Who again of these is the greatest, i.e., the most important of these which are in the nature of cause and effect."
+        "text": "प्राणोऽत्ता प्रजापतिरित्युक्तम् । तस्य प्रजापतित्वमत्तृत्वं चास्मिञ्शरीरेऽवधारयितव्यमित्ययं प्रश्न आरभ्यते । अथ अनन्तरं ह किल एनं भार्गवः वैदर्भिः पप्रच्छ — हे भगवन् कत्येव देवाः प्रजां शरीरलक्षणां विधारयन्ते विशेषेण धारयन्ते । कतरे बुद्धीन्द्रियकर्मेन्द्रियविभक्तानाम् एतत् प्रकाशनं स्वमाहात्म्यप्रख्यापनं प्रकाशयन्ते । कः असौ पुनः एषां वरिष्ठः प्रधानः कार्यकरणलक्षणानामिति ॥"
       }
     ],
     "commentary_faqs": []
@@ -41,32 +130,133 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 2,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145294.html"
+      "mantra_ref": "2.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u0948 \u0938 \u0939\u094b\u0935\u093e\u091a\u00a0\u0964 \u0906\u0915\u093e\u0936\u094b \u0939 \u0935\u093e \u090f\u0937 \u0926\u0947\u0935\u094b \u0935\u093e\u092f\u0941\u0930\u0917\u094d\u0928\u093f\u0930\u093e\u092a\u0903 \u092a\u0943\u0925\u093f\u0935\u0940 \u0935\u093e\u0919\u094d\u092e\u0928\u0936\u094d\u091a\u0915\u094d\u0937\u0941\u0903 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u0902 \u091a\u00a0\u0964 \u0924\u0947 \u092a\u094d\u0930\u0915\u093e\u0936\u094d\u092f\u093e\u092d\u093f\u0935\u0926\u0928\u094d\u0924\u093f \u0935\u092f\u092e\u0947\u0924\u0926\u094d\u092c\u093e\u0923\u092e\u0935\u0937\u094d\u091f\u092d\u094d\u092f \u0935\u093f\u0927\u093e\u0930\u092f\u093e\u092e\u0903 \u0965 \u0968 \u0965",
-    "transliteration": "tasmai sa hov\u0101c\u0101k\u0101\u015bo ha v\u0101 e\u1e63a devo v\u0101yuragnir\u0101pa\u1e25 p\u1e5bthiv\u012b v\u0101\u1e45mana\u015bcak\u015bu\u1e25 \u015brotra\u1e43 ca | te prak\u0101\u015by\u0101bhivadanti vayametadb\u0101\u1e47amava\u1e63\u1e6dabhya vidh\u0101ray\u0101ma\u1e25 || 2 ||",
-    "translation": "2. To him he said, \u201cThis Deva is the akasa, wind, fire water, earth, speech, mind, eye and ear. They revealing their glory say, \u2018we hold together and support this body.\u2019",
-    "word_by_word": [],
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "तस्मै स होवाच । आकाशो ह वा एष देवो वायुरग्निरापः पृथिवी वाङ्मनश्चक्षुः श्रोत्रं च । ते प्रकाश्याभिवदन्ति वयमेतद्बाणमवष्टभ्य विधारयामः ॥ २ ॥",
+    "transliteration": "tasmai sa hovāca | ākāśo ha vā eṣa devo vāyuragnirāpaḥ pṛthivī vāṅmanaścakṣuḥ śrotraṃ ca | te prakāśyābhivadanti vayametadbāṇamavaṣṭabhya vidhārayāmaḥ || 2 ||",
+    "translation": "2. To him he said, “This Deva is the akasa, wind, fire water, earth, speech, mind, eye and ear. They revealing their glory say, ‘we hold together and support this body.’",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मै",
+        "word_english": "to him (the one who had thus asked)",
+        "grammar_role": "तद् · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "तस्मै"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the deity/prāṇa being addressed; not named here)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "होवाच",
+        "word_english": "indeed (he) said",
+        "grammar_role": "ह · अव्यय (वाक्यालङ्कारे) + √वच् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "ह + उवाच"
+      },
+      {
+        "word_sanskrit": "आकाशो",
+        "word_english": "space (ether) — first of the five mahābhūtas",
+        "grammar_role": "आकाश · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "आकाशः"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed (emphatic particle)",
+        "grammar_role": "ह · अव्यय (वाक्यालङ्कारे, प्रसिद्धौ)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "verily (bhāṣya reads वै)",
+        "grammar_role": "वै · अव्यय (अवधारणे) — सन्धौ/पाठे वा",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this",
+        "grammar_role": "एतद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "देवो",
+        "word_english": "deity (shining one)",
+        "grammar_role": "देव · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "देवः"
+      },
+      {
+        "word_sanskrit": "वायुरग्निरापः",
+        "word_english": "wind, fire, waters",
+        "grammar_role": "वायु · प्रथमा·एकवचन·पुंलिङ्ग + अग्नि · प्रथमा·एकवचन·पुंलिङ्ग + अप् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "वायुः + अग्निः + आपः"
+      },
+      {
+        "word_sanskrit": "पृथिवी",
+        "word_english": "earth (last of the five mahābhūtas)",
+        "grammar_role": "पृथिवी · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "पृथिवी"
+      },
+      {
+        "word_sanskrit": "वाङ्मनश्चक्षुः",
+        "word_english": "speech, mind, eye (the indriyas)",
+        "grammar_role": "वाच् · प्रथमा·एकवचन·स्त्रीलिङ्ग + मनस् · प्रथमा·एकवचन·नपुंसकलिङ्ग + चक्षुस् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "वाक् + मनः + चक्षुः"
+      },
+      {
+        "word_sanskrit": "श्रोत्रं",
+        "word_english": "ear (hearing)",
+        "grammar_role": "श्रोत्र · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "श्रोत्रम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च · अव्यय (समुच्चये)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "they (those deities — both effect-type and instrument-type)",
+        "grammar_role": "तद् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "प्रकाश्याभिवदन्ति",
+        "word_english": "having manifested (the Self's greatness), they proclaim (vying, 'I am best')",
+        "grammar_role": "प्र-√काश् (णिच्) · ल्यप् अव्यय (पूर्वकालिके) + अभि-√वद् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "प्रकाश्य + अभिवदन्ति"
+      },
+      {
+        "word_sanskrit": "वयमेतद्बाणमवष्टभ्य",
+        "word_english": "we, having propped up this arrow (= the body-organ-aggregate, like pillars a palace)",
+        "grammar_role": "अस्मद् · प्रथमा·बहुवचन + एतद् · द्वितीया·एकवचन·नपुंसकलिङ्ग + बाण · द्वितीया·एकवचन·पुंलिङ्ग + अव-√ष्टम्भ् (स्तम्भ्) · ल्यप् अव्यय (पूर्वकालिके)",
+        "root": "वयम् + एतत् + बाणम् + अवष्टभ्य"
+      },
+      {
+        "word_sanskrit": "विधारयामः",
+        "word_english": "we hold (it) firmly (bhāṣya: विस्पष्टं धारयामः)",
+        "grammar_role": "वि-√धृ · लट्·उत्तमपुरुष·बहुवचन·परस्मैपद (धारय-stem)",
+        "root": "विधारयामः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "2. To him he said, \u201cThis Deva is the akasa, wind, fire water, earth, speech, mind, eye and ear. They revealing their glory say, \u2018we hold together and support this body.\u2019"
+        "text": "2. To him he said, “This Deva is the akasa, wind, fire water, earth, speech, mind, eye and ear. They revealing their glory say, ‘we hold together and support this body.’"
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u090f\u0935\u0902 \u092a\u0943\u0937\u094d\u091f\u0935\u0924\u0947 \u0924\u0938\u094d\u092e\u0948 \u0938 \u0939 \u0909\u0935\u093e\u091a \u2014 \u0906\u0915\u093e\u0936\u0903 \u0939 \u0935\u0948 \u090f\u0937\u0903 \u0926\u0947\u0935\u0903 \u0935\u093e\u092f\u0941\u0903 \u0905\u0917\u094d\u0928\u093f\u0903 \u0906\u092a\u0903 \u092a\u0943\u0925\u093f\u0935\u0940 \u0907\u0924\u094d\u092f\u0947\u0924\u093e\u0928\u093f \u092a\u091e\u094d\u091a \u092e\u0939\u093e\u092d\u0942\u0924\u093e\u0928\u093f \u0936\u0930\u0940\u0930\u093e\u0930\u092e\u094d\u092d\u0915\u093e\u0923\u093f \u0935\u093e\u0919\u094d\u092e\u0928\u0936\u094d\u091a\u0915\u094d\u0937\u0941\u0903 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u092e\u093f\u0924\u094d\u092f\u093e\u0926\u0940\u0928\u093f \u0915\u0930\u094d\u092e\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u092c\u0941\u0926\u094d\u0927\u0940\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u093e\u0923\u093f \u091a\u00a0\u0964 \u0915\u093e\u0930\u094d\u092f\u0932\u0915\u094d\u0937\u0923\u093e\u0903 \u0915\u0930\u0923\u0932\u0915\u094d\u0937\u0923\u093e\u0936\u094d\u091a \u0924\u0947 \u0926\u0947\u0935\u093e \u0906\u0924\u094d\u092e\u0928\u094b \u092e\u093e\u0939\u093e\u0924\u094d\u092e\u094d\u092f\u0902 \u092a\u094d\u0930\u0915\u093e\u0936\u094d\u092f\u0902 \u092a\u094d\u0930\u0915\u093e\u0936\u094d\u092f\u093e\u092d\u093f\u0935\u0926\u0928\u094d\u0924\u093f \u0938\u094d\u092a\u0930\u094d\u0927\u092e\u093e\u0928\u093e \u0905\u0939\u0902\u0936\u094d\u0930\u0947\u0937\u094d\u0920\u0924\u093e\u092f\u0948\u00a0\u0964 \u0915\u0925\u0902 \u0935\u0926\u0928\u094d\u0924\u093f ? \u0935\u092f\u092e\u0947\u0924\u0924\u094d \u092c\u093e\u0923\u0902 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u0938\u0919\u094d\u0918\u093e\u0924\u092e\u094d \u0905\u0935\u0937\u094d\u091f\u092d\u094d\u092f \u092a\u094d\u0930\u093e\u0938\u093e\u0926\u092e\u093f\u0935 \u0938\u094d\u0924\u092e\u094d\u092d\u093e\u0926\u092f\u0903 \u0905\u0935\u093f\u0936\u093f\u0925\u093f\u0932\u0940\u0915\u0943\u0924\u094d\u092f \u0935\u093f\u0927\u093e\u0930\u092f\u093e\u092e\u0903 \u0935\u093f\u0938\u094d\u092a\u0937\u094d\u091f\u0902 \u0927\u093e\u0930\u092f\u093e\u092e\u0903\u00a0\u0964 \u092e\u092f\u0948\u0935\u0948\u0915\u0947\u0928\u093e\u092f\u0902 \u0938\u0919\u094d\u0918\u093e\u0924\u094b \u0927\u094d\u0930\u093f\u092f\u0924 \u0907\u0924\u094d\u092f\u0947\u0915\u0948\u0915\u0938\u094d\u092f\u093e\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014To him, who thus questioned, he replied: \u2018This Deva is the akasa , wind, fire, water, earth, i e., these five great elements, Bhutas , the constituent elements of the body and speech, mind, eye, ear and the rest, i.e., the senses of acting and the senses of intellect; these Devas of the nature of effects and instruments, manifesting their glory and competing for pre-eminence, say this body, this bundle of causes and effects, we hold together, as pillars do the vault, from going to pieces and chiefly support. The thought of each is that the body\u2014the bundle\u2014is supported by it alone.\u2019"
+        "text": "एवं पृष्टवते तस्मै स ह उवाच — आकाशः ह वै एषः देवः वायुः अग्निः आपः पृथिवी इत्येतानि पञ्च महाभूतानि शरीरारम्भकाणि वाङ्मनश्चक्षुः श्रोत्रमित्यादीनि कर्मेन्द्रियबुद्धीन्द्रियाणि च । कार्यलक्षणाः करणलक्षणाश्च ते देवा आत्मनो माहात्म्यं प्रकाश्यं प्रकाश्याभिवदन्ति स्पर्धमाना अहंश्रेष्ठतायै । कथं वदन्ति? वयमेतत् बाणं कार्यकरणसङ्घातम् अवष्टभ्य प्रासादमिव स्तम्भादयः अविशिथिलीकृत्य विधारयामः विस्पष्टं धारयामः । मयैवैकेनायं सङ्घातो ध्रियत इत्येकैकस्याभिप्रायः ॥"
       }
     ],
     "commentary_faqs": []
@@ -77,32 +267,85 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 3,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145295.html"
+      "mantra_ref": "2.3",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u093e\u0928\u094d\u0935\u0930\u093f\u0937\u094d\u0920\u0903 \u092a\u094d\u0930\u093e\u0923 \u0909\u0935\u093e\u091a \u092e\u093e \u092e\u094b\u0939\u092e\u093e\u092a\u0926\u094d\u092f\u0925\u093e\u0939\u092e\u0947\u0935\u0948\u0924\u0924\u094d\u092a\u091e\u094d\u091a\u0927\u093e\u0924\u094d\u092e\u093e\u0928\u0902 \u092a\u094d\u0930\u0935\u093f\u092d\u091c\u094d\u092f\u0948\u0924\u0926\u094d\u092c\u093e\u0923\u092e\u0935\u0937\u094d\u091f\u092d\u094d\u092f \u0935\u093f\u0927\u093e\u0930\u092f\u093e\u092e\u0940\u0924\u093f \u0924\u0947\u093d\u0936\u094d\u0930\u0926\u094d\u0926\u0927\u093e\u0928\u093e \u092c\u092d\u0942\u0935\u0941\u0903 \u0965 \u0969 \u0965",
-    "transliteration": "t\u0101nvari\u1e63\u1e6dha\u1e25 pr\u0101\u1e47a uv\u0101ca | m\u0101 moham\u0101padyath\u0101'hamevaitatpa\u00f1cadh\u0101tm\u0101na\u1e43 pravibhajyaitadb\u0101\u1e47amava\u1e63\u1e6dabhya vidh\u0101ray\u0101m\u012bti te'\u015braddadh\u0101n\u0101 babh\u016bvu\u1e25 || 3 ||",
-    "translation": "3. Prana, the greatest, said to them, \u2018Do not cherish this foolish vanity. I alone, having divided myself five-fold, hold this body together and support it.\u2019 They did not believe.",
-    "word_by_word": [],
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "तान्वरिष्ठः प्राण उवाच मा मोहमापद्यथाहमेवैतत्पञ्चधात्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति तेऽश्रद्दधाना बभूवुः ॥ ३ ॥",
+    "transliteration": "tānvariṣṭhaḥ prāṇa uvāca mā mohamāpadyathāhamevaitatpañcadhātmānaṃ pravibhajyaitadbāṇamavaṣṭabhya vidhārayāmīti te'śraddadhānā babhūvuḥ || 3 ||",
+    "translation": "3. Prana, the greatest, said to them, ‘Do not cherish this foolish vanity. I alone, having divided myself five-fold, hold this body together and support it.’ They did not believe.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तान्वरिष्ठः",
+        "word_english": "them; the foremost (chief, scil. prāṇa)",
+        "grammar_role": "तद् · द्वितीया·बहुवचन·पुंलिङ्ग + वरिष्ठ · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "तान् + वरिष्ठः"
+      },
+      {
+        "word_sanskrit": "प्राण",
+        "word_english": "the vital breath (prāṇa)",
+        "grammar_role": "प्राण · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "प्राणः"
+      },
+      {
+        "word_sanskrit": "उवाच",
+        "word_english": "said, spoke",
+        "grammar_role": "√वच् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "उवाच"
+      },
+      {
+        "word_sanskrit": "मा",
+        "word_english": "do not (prohibitive particle)",
+        "grammar_role": "अव्यय (निषेधार्थक)",
+        "root": "मा"
+      },
+      {
+        "word_sanskrit": "मोहमापद्यथाहमेवैतत्पञ्चधात्मानं",
+        "word_english": "do not fall into delusion; I alone this, fivefold (dividing) myself",
+        "grammar_role": "मोह · द्वितीया·एकवचन·पुंलिङ्ग + √पद् (आ-पद्) · लुङ् (माङ्योगे, अडागमाभावः)·मध्यमपुरुष·बहुवचन·परस्मैपद + अस्मद् · प्रथमा·एकवचन + एव अव्यय (अवधारणे) + एतद् · द्वितीया·एकवचन·नपुंसकलिङ्ग + पञ्चधा अव्यय (प्रकारार्थक) + आत्मन् · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "मोहम् + आपद्यथ + अहम् + एव + एतत् + पञ्चधा + आत्मानम्"
+      },
+      {
+        "word_sanskrit": "प्रविभज्यैतद्बाणमवष्टभ्य",
+        "word_english": "having divided up; having propped up this reed (central support)",
+        "grammar_role": "√भज् (प्र-वि-भज्) · ल्यबन्त·अव्यय (पूर्वकालक्रिया) + एतद् · द्वितीया·एकवचन·नपुंसकलिङ्ग (बाणविशेषणम्) + बाण · द्वितीया·एकवचन·पुंलिङ्ग + √स्तम्भ् (अव-ष्टभ्) · ल्यबन्त·अव्यय (पूर्वकालक्रिया)",
+        "root": "प्रविभज्य + एतत् + बाणम् + अवष्टभ्य"
+      },
+      {
+        "word_sanskrit": "विधारयामीति",
+        "word_english": "\"I hold (it) together\" — thus",
+        "grammar_role": "√धृ (वि-धृ, णिच्) · लट्·उत्तमपुरुष·एकवचन·परस्मैपद + इति अव्यय (वाक्यपरिसमाप्तौ)",
+        "root": "विधारयामि + इति"
+      },
+      {
+        "word_sanskrit": "तेऽश्रद्दधाना",
+        "word_english": "they became disbelieving (without conviction)",
+        "grammar_role": "तद् · प्रथमा·बहुवचन·पुंलिङ्ग + अ-श्रद्दधान · प्रथमा·बहुवचन·पुंलिङ्ग (श्रद्-धा शानच्-कृदन्त, नञ्तत्पुरुष)",
+        "root": "ते + अश्रद्दधानाः"
+      },
+      {
+        "word_sanskrit": "बभूवुः",
+        "word_english": "they became",
+        "grammar_role": "√भू · लिट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "बभूवुः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "3. Prana, the greatest, said to them, \u2018Do not cherish this foolish vanity. I alone, having divided myself five-fold, hold this body together and support it.\u2019 They did not believe."
+        "text": "3. Prana, the greatest, said to them, ‘Do not cherish this foolish vanity. I alone, having divided myself five-fold, hold this body together and support it.’ They did not believe."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u093e\u0928\u094d \u090f\u0935\u092e\u092d\u093f\u092e\u093e\u0928\u0935\u0924\u0903 \u0935\u0930\u093f\u0937\u094d\u0920\u0903 \u092e\u0941\u0916\u094d\u092f\u0903 \u092a\u094d\u0930\u093e\u0923\u0903 \u0909\u0935\u093e\u091a \u0909\u0915\u094d\u0924\u0935\u093e\u0928\u094d \u2014 \u092e\u093e \u092e\u0948\u0935\u0902 \u092e\u094b\u0939\u092e\u094d \u0906\u092a\u0926\u094d\u092f\u0925 \u0905\u0935\u093f\u0935\u0947\u0915\u093f\u0924\u092f\u093e\u092d\u093f\u092e\u093e\u0928\u0902 \u092e\u093e \u0915\u0941\u0930\u0941\u0924 ; \u092f\u0938\u094d\u092e\u093e\u0924\u094d \u0905\u0939\u092e\u0947\u0935 \u090f\u0924\u0926\u094d\u092c\u093e\u0923\u092e\u094d \u0905\u0935\u0937\u094d\u091f\u092d\u094d\u092f \u0935\u093f\u0927\u093e\u0930\u092f\u093e\u092e\u093f \u092a\u091e\u094d\u091a\u0927\u093e \u0906\u0924\u094d\u092e\u093e\u0928\u0902 \u092a\u094d\u0930\u0935\u093f\u092d\u091c\u094d\u092f \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u093f\u0935\u0943\u0924\u094d\u0924\u093f\u092d\u0947\u0926\u0902 \u0938\u094d\u0935\u0938\u094d\u092f \u0915\u0943\u0924\u094d\u0935\u093e \u0935\u093f\u0927\u093e\u0930\u092f\u093e\u092e\u093f \u0907\u0924\u093f \u0909\u0915\u094d\u0924\u0935\u0924\u093f \u091a \u0924\u0938\u094d\u092e\u093f\u0928\u094d \u0924\u0947 \u0905\u0936\u094d\u0930\u0926\u094d\u0926\u0927\u093e\u0928\u093e\u0903 \u0905\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0935\u0928\u094d\u0924\u0903 \u092c\u092d\u0942\u0935\u0941\u0903 \u2014 \u0915\u0925\u092e\u0947\u0924\u0926\u0947\u0935\u092e\u093f\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014Prana, pre-eminent, said to them who were thus vain, \u2018do not from want of discernment cherish this vanity; for, I alone hold together and support this body, having divided myself into five distinct conditions such as prana , etc.\u2019; and when he said he supported it, they did not believe in him and thought how it could be thus."
+        "text": "तान् एवमभिमानवतः वरिष्ठः मुख्यः प्राणः उवाच उक्तवान् — मा मैवं मोहम् आपद्यथ अविवेकितयाभिमानं मा कुरुत; यस्मात् अहमेव एतद्बाणम् अवष्टभ्य विधारयामि पञ्चधा आत्मानं प्रविभज्य प्राणादिवृत्तिभेदं स्वस्य कृत्वा विधारयामि इति उक्तवति च तस्मिन् ते अश्रद्दधानाः अप्रत्ययवन्तः बभूवुः — कथमेतदेवमिति ॥"
       }
     ],
     "commentary_faqs": []
@@ -113,15 +356,186 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 4,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145296.html"
+      "mantra_ref": "2.4",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0938\u094b\u093d\u092d\u093f\u092e\u093e\u0928\u093e\u0926\u0942\u0930\u094d\u0927\u094d\u0935\u092e\u0941\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0924 \u0907\u0935 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0941\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0924\u094d\u092f\u0925\u0947\u0924\u0930\u0947 \u0938\u0930\u094d\u0935 \u090f\u0935\u094b\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u0947 \u0924\u0938\u094d\u092e\u093f\ua8f3\u0936\u094d\u091a \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u092e\u093e\u0928\u0947 \u0938\u0930\u094d\u0935 \u090f\u0935 \u092a\u094d\u0930\u093e\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u0947\u00a0\u0964 \u0924\u0926\u094d\u092f\u0925\u093e \u092e\u0915\u094d\u0937\u093f\u0915\u093e \u092e\u0927\u0941\u0915\u0930\u0930\u093e\u091c\u093e\u0928\u092e\u0941\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u0902 \u0938\u0930\u094d\u0935\u093e \u090f\u0935\u094b\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u0947 \u0924\u0938\u094d\u092e\u093f\ua8f3\u0936\u094d\u091a \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u092e\u093e\u0928\u0947 \u0938\u0930\u094d\u0935\u093e \u090f\u0935 \u092a\u094d\u0930\u093e\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924 \u090f\u0935\u0902 \u0935\u093e\u0919\u094d\u092e\u0928\u0936\u094d\u091a\u0915\u094d\u0937\u0941\u0903 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u0902 \u091a \u0924\u0947 \u092a\u094d\u0930\u0940\u0924\u093e\u0903 \u092a\u094d\u0930\u093e\u0923\u0902 \u0938\u094d\u0924\u0941\u0928\u094d\u0935\u0928\u094d\u0924\u093f \u0965 \u096a \u0965",
-    "transliteration": "so'bhim\u0101n\u0101d\u016brdhvamutkr\u0101mata iva tasminnutkr\u0101matyathetare sarva evotkr\u0101mante tasmim\u0310\u015bca prati\u1e63\u1e6dham\u0101ne sarva eva prati\u1e63\u1e6dhante | tadyath\u0101 mak\u015bik\u0101 madhukarar\u0101j\u0101namutkr\u0101manta\u1e43 sarva evotkramante tasmim\u0310\u015bca prat\u1e63\u1e6dham\u0101ne sarva eva prati\u1e63\u1e6danta eva\u1e43 v\u0101\u1e45mana\u1e63cak\u015bu\u1e25 \u015brotra\u1e43 ca te pr\u012bt\u0101\u1e25 pr\u0101\u1e47a\u1e43 stunvanti || 4 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "सोऽभिमानादूर्ध्वमुत्क्रामत इव तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते तस्मिꣳश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते । तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते तस्मिꣳश्च प्रतिष्ठमाने सर्वा एव प्रातिष्ठन्त एवं वाङ्मनश्चक्षुः श्रोत्रं च ते प्रीताः प्राणं स्तुन्वन्ति ॥ ४ ॥",
+    "transliteration": "so'bhimānādūrdhvamutkrāmata iva tasminnutkrāmatyathetare sarva evotkrāmante tasmim̐śca pratiṣṭhamāne sarva eva prātiṣṭhante | tadyathā makṣikā madhukararājānamutkrāmantaṃ sarvā evotkrāmante tasmim̐śca pratiṣṭhamāne sarvā eva prātiṣṭhanta evaṃ vāṅmanaścakṣuḥ śrotraṃ ca te prītāḥ prāṇaṃ stunvanti || 4 ||",
     "translation": "4. He from indignation seemed to ascend from the body, and when he ascended, all the others immediately ascended too; and when he was quiet they were quiet too, just as bees fly up when their king flies up and settle down when he settles down; so, mind, speech, eye, ear and the rest being pleased, praise Prana.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "सोऽभिमानादूर्ध्वमुत्क्रामत",
+        "word_english": "he (prāṇa), out of indignation/self-regard, departs upward",
+        "grammar_role": "तद् · प्रथमा·एक·पुं + अभिमान · पञ्चमी·एक·पुं + ऊर्ध्वम् · अव्यय (क्रिया-विशेषण) + √क्रम् (उत्) · लट्·प्रथम·एक·परस्मै",
+        "root": "सः + अभिमानात् + ऊर्ध्वम् + उत्क्रामति"
+      },
+      {
+        "word_sanskrit": "इव",
+        "word_english": "as it were, seemingly",
+        "grammar_role": "अव्यय (उपमा-वाचक)",
+        "root": "इव"
+      },
+      {
+        "word_sanskrit": "तस्मिन्नुत्क्रामत्यथेतरे",
+        "word_english": "when he departs, then the others",
+        "grammar_role": "तद् · सप्तमी·एक·पुं + √क्रम् (उत्) · लट्·प्रथम·एक·परस्मै (सति सप्तमी) + अथ · अव्यय (आनन्तर्ये) + इतर · प्रथमा·बहु·पुं",
+        "root": "तस्मिन् + उत्क्रामति + अथ + इतरे"
+      },
+      {
+        "word_sanskrit": "सर्व",
+        "word_english": "all (the other prāṇas)",
+        "grammar_role": "सर्व · प्रथमा·बहु·पुं",
+        "root": "सर्वे"
+      },
+      {
+        "word_sanskrit": "एवोत्क्रामन्ते",
+        "word_english": "indeed depart (go out)",
+        "grammar_role": "एव · अव्यय (अवधारणे) + √क्रम् (उत्) · लट्·प्रथम·बहु·आत्मने",
+        "root": "एव + उत्क्रामन्ते"
+      },
+      {
+        "word_sanskrit": "तस्मिꣳश्च",
+        "word_english": "and in that (one)",
+        "grammar_role": "तद् · सप्तमी·एक·पुं (सर्वनाम) + च · अव्यय",
+        "root": "तस्मिन् + च"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठमाने",
+        "word_english": "when he stays/abides (becomes still)",
+        "grammar_role": "√स्था (प्रति) · शानच् (वर्तमान-कृदन्त) · सप्तमी·एक·पुं (सति सप्तमी)",
+        "root": "प्रतिष्ठमाने"
+      },
+      {
+        "word_sanskrit": "सर्व",
+        "word_english": "all (the other prāṇas)",
+        "grammar_role": "सर्व · प्रथमा·बहु·पुं",
+        "root": "सर्वे"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "indeed, exactly",
+        "grammar_role": "अव्यय (अवधारणे)",
+        "root": "एव"
+      },
+      {
+        "word_sanskrit": "प्रातिष्ठन्ते",
+        "word_english": "abided, remained settled (became still)",
+        "grammar_role": "√स्था (प्र) · लङ्·प्रथम·बहु·आत्मने",
+        "root": "प्रातिष्ठन्ते"
+      },
+      {
+        "word_sanskrit": "तद्यथा",
+        "word_english": "just as, for example",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं (क्रिया-विशेषणवत्) + यथा · अव्यय (दृष्टान्ते)",
+        "root": "तत् + यथा"
+      },
+      {
+        "word_sanskrit": "मक्षिका",
+        "word_english": "the bees",
+        "grammar_role": "मक्षिका · प्रथमा·बहु·स्त्री",
+        "root": "मक्षिकाः"
+      },
+      {
+        "word_sanskrit": "मधुकरराजानमुत्क्रामन्तं",
+        "word_english": "the departing king-bee (as object)",
+        "grammar_role": "मधुकर-राजन् · द्वितीया·एक·पुं (षष्ठी-तत्पुरुष) + √क्रम् (उत्) · शतृ (वर्तमान-कृदन्त) · द्वितीया·एक·पुं",
+        "root": "मधुकर-राजानम् + उत्क्रामन्तम्"
+      },
+      {
+        "word_sanskrit": "सर्वा",
+        "word_english": "all (the bees)",
+        "grammar_role": "सर्व · प्रथमा·बहु·स्त्री",
+        "root": "सर्वाः"
+      },
+      {
+        "word_sanskrit": "एवोत्क्रामन्ते",
+        "word_english": "indeed depart (follow out)",
+        "grammar_role": "एव · अव्यय (अवधारणे) + √क्रम् (उत्) · लट्·प्रथम·बहु·आत्मने",
+        "root": "एव + उत्क्रामन्ते"
+      },
+      {
+        "word_sanskrit": "तस्मिꣳश्च",
+        "word_english": "and in that (one)",
+        "grammar_role": "तद् · सप्तमी·एक·पुं (सर्वनाम) + च · अव्यय",
+        "root": "तस्मिन् + च"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठमाने",
+        "word_english": "when he settles (alights)",
+        "grammar_role": "√स्था (प्रति) · शानच् (वर्तमान-कृदन्त) · सप्तमी·एक·पुं (सति सप्तमी)",
+        "root": "प्रतिष्ठमाने"
+      },
+      {
+        "word_sanskrit": "सर्वा",
+        "word_english": "all (the bees)",
+        "grammar_role": "सर्व · प्रथमा·बहु·स्त्री",
+        "root": "सर्वाः"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "indeed, exactly",
+        "grammar_role": "अव्यय (अवधारणे)",
+        "root": "एव"
+      },
+      {
+        "word_sanskrit": "प्रातिष्ठन्त",
+        "word_english": "settled, remained (alighted together)",
+        "grammar_role": "√स्था (प्र) · लङ्·प्रथम·बहु·आत्मने",
+        "root": "प्रातिष्ठन्ते"
+      },
+      {
+        "word_sanskrit": "एवं",
+        "word_english": "thus, in this way",
+        "grammar_role": "अव्यय (प्रकारे/उपसंहारे)",
+        "root": "एवम्"
+      },
+      {
+        "word_sanskrit": "वाङ्मनश्चक्षुः",
+        "word_english": "speech, mind, eye",
+        "grammar_role": "वाच् · प्रथमा·एक·स्त्री + मनस् · प्रथमा·एक·नपुं + चक्षुस् · प्रथमा·एक·नपुं",
+        "root": "वाक् + मनस् + चक्षुः"
+      },
+      {
+        "word_sanskrit": "श्रोत्रं",
+        "word_english": "ear (hearing)",
+        "grammar_role": "श्रोत्र · प्रथमा·एक·नपुं",
+        "root": "श्रोत्रम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चये)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "they (these faculties)",
+        "grammar_role": "तद् · प्रथमा·बहु·पुं",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "प्रीताः",
+        "word_english": "pleased, gladdened",
+        "grammar_role": "√प्री · क्त (भूत-कृदन्त) · प्रथमा·बहु·पुं",
+        "root": "प्रीताः"
+      },
+      {
+        "word_sanskrit": "प्राणं",
+        "word_english": "the prāṇa (as object of praise)",
+        "grammar_role": "प्राण · द्वितीया·एक·पुं",
+        "root": "प्राणम्"
+      },
+      {
+        "word_sanskrit": "स्तुन्वन्ति",
+        "word_english": "they praise (= स्तुवन्ति)",
+        "grammar_role": "√स्तु · लट्·प्रथम·बहु·परस्मै",
+        "root": "स्तुन्वन्ति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -132,13 +546,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0938 \u091a \u092a\u094d\u0930\u093e\u0923\u0903 \u0924\u0947\u0937\u093e\u092e\u0936\u094d\u0930\u0926\u094d\u0926\u0927\u093e\u0928\u0924\u093e\u092e\u093e\u0932\u0915\u094d\u0937\u094d\u092f \u0905\u092d\u093f\u092e\u093e\u0928\u093e\u0924\u094d \u090a\u0930\u094d\u0927\u094d\u0935\u092e\u094d \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0924 \u0907\u0935 \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0924\u0940\u0935 \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u0928\u094d\u0924\u0935\u093e\u0928\u093f\u0935 \u0938 \u0930\u094b\u0937\u093e\u0928\u094d\u0928\u093f\u0930\u092a\u0947\u0915\u094d\u0937\u0903\u00a0\u0964 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0941\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0924\u093f \u092f\u0926\u094d\u0935\u0943\u0924\u094d\u0924\u0902 \u0924\u0926\u094d\u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0947\u0928 \u092a\u094d\u0930\u0924\u094d\u092f\u0915\u094d\u0937\u0940\u0915\u0930\u094b\u0924\u093f \u2014 \u0924\u0938\u094d\u092e\u093f\u0928\u094d \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0924\u093f \u0938\u0924\u093f \u0905\u0925 \u0905\u0928\u0928\u094d\u0924\u0930\u092e\u0947\u0935 \u0907\u0924\u0930\u0947 \u0938\u0930\u094d\u0935 \u090f\u0935 \u092a\u094d\u0930\u093e\u0923\u093e\u0936\u094d\u091a\u0915\u094d\u0937\u0941\u0930\u093e\u0926\u092f\u0903 \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u0947 \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u093f \u0909\u091a\u094d\u091a\u0915\u094d\u0930\u092e\u0941\u0903\u00a0\u0964 \u0924\u0938\u094d\u092e\u093f\u0902\u0936\u094d\u091a \u092a\u094d\u0930\u093e\u0923\u0947 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u092e\u093e\u0928\u0947 \u0924\u0942\u0937\u094d\u0923\u0940\u0902 \u092d\u0935\u0924\u093f \u0905\u0928\u0941\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0924\u093f \u0938\u0924\u093f, \u0938\u0930\u094d\u0935 \u090f\u0935 \u092a\u094d\u0930\u093e\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u0947 \u0924\u0942\u0937\u094d\u0923\u0940\u0902 \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924\u093e \u092c\u092d\u0942\u0935\u0941\u0903\u00a0\u0964 \u0924\u0924\u094d \u092f\u0925\u093e \u0932\u094b\u0915\u0947 \u092e\u0915\u094d\u0937\u093f\u0915\u093e\u0903 \u092e\u0927\u0941\u0915\u0930\u093e\u0903 \u0938\u094d\u0935\u0930\u093e\u091c\u093e\u0928\u0902 \u092e\u0927\u0941\u0915\u0930\u0930\u093e\u091c\u093e\u0928\u092e\u094d \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u0902 \u092a\u094d\u0930\u0924\u093f \u0938\u0930\u094d\u0935\u093e \u090f\u0935 \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u0947 \u0924\u0938\u094d\u092e\u093f\u0902\u0936\u094d\u091a \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u092e\u093e\u0928\u0947 \u0938\u0930\u094d\u0935\u093e \u090f\u0935 \u092a\u094d\u0930\u093e\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u0947 \u092a\u094d\u0930\u0924\u093f\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u093f\u00a0\u0964 \u092f\u0925\u093e\u092f\u0902 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0903 \u090f\u0935\u0902 \u0935\u093e\u0919\u094d\u092e\u0928\u0936\u094d\u091a\u0915\u094d\u0937\u0941\u0903 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u0902 \u091a\u0947\u0924\u094d\u092f\u093e\u0926\u092f\u0903 \u0924\u0947 \u0909\u0924\u094d\u0938\u0943\u091c\u094d\u092f\u093e\u0936\u094d\u0930\u0926\u094d\u0926\u0927\u093e\u0928\u0924\u093e\u0902 \u092c\u0941\u0926\u094d\u0927\u094d\u0935\u093e \u092a\u094d\u0930\u093e\u0923\u092e\u093e\u0939\u093e\u0924\u094d\u092e\u094d\u092f\u0902 \u092a\u094d\u0930\u0940\u0924\u093e\u0903 \u092a\u094d\u0930\u093e\u0923\u0902 \u0938\u094d\u0924\u0941\u0928\u094d\u0935\u0928\u094d\u0924\u093f \u0938\u094d\u0924\u0941\u0935\u0928\u094d\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014And he, Prana , observing their want of faith, seemed to ascend from the body of himself from indignation. What followed when he seemed to ascend is made apparent by an illustration. Immediately after he ascended, all the other pranas, i.e., the eye and the rest began ascending and when he, Prana , became inactive, i.e., did not ascend, all became quiet, i.e., settled down; just as in the world, the bees ascend after their king ascends and settle down when he settles down. As in the illustration, so here. Speech, mind, the eye, ear, etc., leaving their disbelief and knowing the glory or greatness of Prana, grow delighted and praise Prana ."
+        "text": "स च प्राणः तेषामश्रद्दधानतामालक्ष्य अभिमानात् ऊर्ध्वम् उत्क्रामत इव उत्क्रामतीव उत्क्रान्तवानिव स रोषान्निरपेक्षः । तस्मिन्नुत्क्रामति यद्वृत्तं तद्दृष्टान्तेन प्रत्यक्षीकरोति — तस्मिन् उत्क्रामति सति अथ अनन्तरमेव इतरे सर्व एव प्राणाश्चक्षुरादयः उत्क्रामन्ते उत्क्रामन्ति उच्चक्रमुः । तस्मिंश्च प्राणे प्रतिष्ठमाने तूष्णीं भवति अनुत्क्रामति सति, सर्व एव प्रातिष्ठन्ते तूष्णीं व्यवस्थिता बभूवुः । तत् यथा लोके मक्षिकाः मधुकराः स्वराजानं मधुकरराजानम् उत्क्रामन्तं प्रति सर्वा एव उत्क्रामन्ते तस्मिंश्च प्रतिष्ठमाने सर्वा एव प्रातिष्ठन्ते प्रतितिष्ठन्ति । यथायं दृष्टान्तः एवं वाङ्मनश्चक्षुः श्रोत्रं चेत्यादयः ते उत्सृज्याश्रद्दधानतां बुद्ध्वा प्राणमाहात्म्यं प्रीताः प्राणं स्तुन्वन्ति स्तुवन्ति ॥"
       }
     ],
     "commentary_faqs": []
@@ -149,15 +559,90 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 5,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145297.html"
+      "mantra_ref": "2.5",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u090f\u0937\u094b\u093d\u0917\u094d\u0928\u093f\u0938\u094d\u0924\u092a\u0924\u094d\u092f\u0947\u0937 \u0938\u0942\u0930\u094d\u092f \u090f\u0937 \u092a\u0930\u094d\u091c\u0928\u094d\u092f\u094b \u092e\u0918\u0935\u093e\u0928\u0947\u0937 \u0935\u093e\u092f\u0941\u0903\u00a0\u0964 \n \u090f\u0937 \u092a\u0943\u0925\u093f\u0935\u0940 \u0930\u092f\u093f\u0930\u094d\u0926\u0947\u0935\u0903 \u0938\u0926\u0938\u091a\u094d\u091a\u093e\u092e\u0943\u0924\u0902 \u091a \u092f\u0924\u094d \u0965 \u096b \u0965",
-    "transliteration": "e\u1e63o'gnistapatye\u1e63a s\u016brya e\u1e63a parjanyo maghav\u0101ne\u1e63a v\u0101yure\u1e63a p\u1e5bthiv\u012b rayirdeva\u1e25 sadasacc\u0101m\u1e5bta\u1e43 ca yat || 5 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "एषोऽग्निस्तपत्येष सूर्य एष पर्जन्यो मघवानेष वायुः । एष पृथिवी रयिर्देवः सदसच्चामृतं च यत् ॥ ५ ॥",
+    "transliteration": "eṣo'gnistapatyeṣa sūrya eṣa parjanyo maghavāneṣa vāyuḥ | eṣa pṛthivī rayirdevaḥ sadasaccāmṛtaṃ ca yat || 5 ||",
     "translation": "5. As fire, this burns; this, sun; this, cloud; this, Indra ; this, wind; this, earth; moon, Deva and what has form, what is formless and what is immortal nectar.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "एषोऽग्निस्तपत्येष",
+        "word_english": "This (Prāṇa), being fire, burns; this",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं + अग्नि · प्रथमा·एक·पुं + √तप् · लट्·प्रथम·एक·परस्मै + एतद् · प्रथमा·एक·पुं",
+        "root": "एषः + अग्निः + तपति + एष"
+      },
+      {
+        "word_sanskrit": "सूर्य",
+        "word_english": "the sun (it shines)",
+        "grammar_role": "सूर्य · प्रथमा·एक·पुं",
+        "root": "सूर्यः"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this (Prāṇa)",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "पर्जन्यो",
+        "word_english": "the rain-cloud (it rains)",
+        "grammar_role": "पर्जन्य · प्रथमा·एक·पुं",
+        "root": "पर्जन्यः"
+      },
+      {
+        "word_sanskrit": "मघवानेष",
+        "word_english": "Maghavan (Indra, who protects creatures); this",
+        "grammar_role": "मघवन् · प्रथमा·एक·पुं + एतद् · प्रथमा·एक·पुं",
+        "root": "मघवान् + एष"
+      },
+      {
+        "word_sanskrit": "वायुः",
+        "word_english": "the wind (āvaha-pravaha etc.)",
+        "grammar_role": "वायु · प्रथमा·एक·पुं",
+        "root": "वायुः"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this (Prāṇa)",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "पृथिवी",
+        "word_english": "the earth",
+        "grammar_role": "पृथिवी · प्रथमा·एक·स्त्री",
+        "root": "पृथिवी"
+      },
+      {
+        "word_sanskrit": "रयिर्देवः",
+        "word_english": "matter (rayi) (and) the shining one (deva)",
+        "grammar_role": "रयि · प्रथमा·एक·पुं + देव · प्रथमा·एक·पुं",
+        "root": "रयिः + देवः"
+      },
+      {
+        "word_sanskrit": "सदसच्चामृतं",
+        "word_english": "the manifest (mūrta) and the unmanifest (amūrta), and the immortal",
+        "grammar_role": "सत् · प्रथमा·एक·नपुं + असत् · प्रथमा·एक·नपुं + च · अव्यय (समुच्चय) + अमृत · प्रथमा·एक·नपुं",
+        "root": "सत् + असत् + च + अमृतम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च · अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "यत्",
+        "word_english": "that which (is the cause of the gods' stability)",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं",
+        "root": "यत्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -168,13 +653,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u0925\u092e\u094d ? \u090f\u0937\u0903 \u092a\u094d\u0930\u093e\u0923\u0903 \u0905\u0917\u094d\u0928\u093f\u0903 \u0938\u0928\u094d \u0924\u092a\u0924\u093f \u091c\u094d\u0935\u0932\u0924\u093f\u00a0\u0964 \u0924\u0925\u093e \u090f\u0937\u0903 \u0938\u0942\u0930\u094d\u092f\u0903 \u0938\u0928\u094d \u092a\u094d\u0930\u0915\u093e\u0936\u0924\u0947\u00a0\u0964 \u0924\u0925\u093e \u090f\u0937\u0903 \u092a\u0930\u094d\u091c\u0928\u094d\u092f\u0903 \u0938\u0928\u094d \u0935\u0930\u094d\u0937\u0924\u093f\u00a0\u0964 \u0915\u093f\u091e\u094d\u091a \u092e\u0918\u0935\u093e\u0928\u094d \u0907\u0928\u094d\u0926\u094d\u0930\u0903 \u0938\u0928\u094d \u092a\u094d\u0930\u091c\u093e\u0903 \u092a\u093e\u0932\u092f\u0924\u093f \u091c\u093f\u0918\u093e\u0902\u0938\u0924\u094d\u092f\u0938\u0941\u0930\u0930\u0915\u094d\u0937\u093e\u0902\u0938\u093f\u00a0\u0964 \u0915\u093f\u091e\u094d\u091a, \u090f\u0937\u0903 \u0935\u093e\u092f\u0941\u0903 \u0906\u0935\u0939\u092a\u094d\u0930\u0935\u0939\u093e\u0926\u093f\u092d\u0947\u0926\u0903\u00a0\u0964 \u0915\u093f\u091e\u094d\u091a, \u090f\u0937\u0903 \u092a\u0943\u0925\u093f\u0935\u0940 \u0930\u092f\u093f\u0903 \u0926\u0947\u0935\u0903 \u0938\u0930\u094d\u0935\u0938\u094d\u092f \u091c\u0917\u0924\u0903 \u0938\u0924\u094d \u092e\u0942\u0930\u094d\u0924\u092e\u094d \u0905\u0938\u0924\u094d \u0905\u092e\u0942\u0930\u094d\u0924\u0902 \u091a \u0905\u092e\u0943\u0924\u0902 \u091a \u092f\u0924\u094d \u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u0938\u094d\u0925\u093f\u0924\u093f\u0915\u093e\u0930\u0923\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014How? This Prana being fire, burns or flames; so this being sun, shines; so this being cloud, rains. Again this being Indra , protects the creatures and destroys, Asuras and Rakshasas . This is wind in its different forms, avaha , pravaha, etc. Again this is Deva, earth (supporter of all) and moon (nourisher of all). This is all that has form and all that is formless. This is also amrita which is the stay of all Devas. In short,"
+        "text": "कथम्? एषः प्राणः अग्निः सन् तपति ज्वलति । तथा एषः सूर्यः सन् प्रकाशते । तथा एषः पर्जन्यः सन् वर्षति । किञ्च मघवान् इन्द्रः सन् प्रजाः पालयति जिघांसत्यसुररक्षांसि । किञ्च, एषः वायुः आवहप्रवहादिभेदः । किञ्च, एषः पृथिवी रयिः देवः सर्वस्य जगतः सत् मूर्तम् असत् अमूर्तं च अमृतं च यत् देवानां स्थितिकारणम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -185,15 +666,96 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 6,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145298.html"
+      "mantra_ref": "2.6",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0930\u093e \u0907\u0935 \u0930\u0925\u0928\u093e\u092d\u094c \u092a\u094d\u0930\u093e\u0923\u0947 \u0938\u0930\u094d\u0935\u0902 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u092e\u094d\u00a0\u0964 \n \u090b\u091a\u094b \u092f\u091c\u0942\ua8f3\u0937\u093f \u0938\u093e\u092e\u093e\u0928\u093f \u092f\u091c\u094d\u091e\u0903 \u0915\u094d\u0937\u0924\u094d\u0924\u094d\u0930\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u091a \u0965 \u096c \u0965",
-    "transliteration": "ar\u0101 iva rathan\u0101bhau pr\u0101\u1e47e sarva\u1e43 prati\u1e63\u1e6dhitam | \u1e5bco yaj\u016bm\u0310\u1e63i s\u0101m\u0101ni yaj\u00f1a\u1e25 k\u015batra\u1e43 brahma ca || 6 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम् । ऋचो यजूꣳषि सामानि यज्ञः क्षत्त्रं ब्रह्म च ॥ ६ ॥",
+    "transliteration": "arā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitam | ṛco yajūm̐ṣi sāmāni yajñaḥ kṣattraṃ brahma ca || 6 ||",
     "translation": "6. As spokes in the nave of a wheel, so all is centred in Prana . Riks, Yajur , Samams, sacrifices, Kshatriyas and Brahmins .",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "अरा",
+        "word_english": "the spokes (of a wheel)",
+        "grammar_role": "अरा · प्रथमा·बहु·स्त्री",
+        "root": "अराः"
+      },
+      {
+        "word_sanskrit": "इव",
+        "word_english": "like, as it were",
+        "grammar_role": "अव्यय (उपमावाचक)",
+        "root": "इव"
+      },
+      {
+        "word_sanskrit": "रथनाभौ",
+        "word_english": "in the hub (nave) of the chariot-wheel",
+        "grammar_role": "रथ-नाभि · सप्तमी·एक·स्त्री",
+        "root": "रथ-नाभौ"
+      },
+      {
+        "word_sanskrit": "प्राणे",
+        "word_english": "in prāṇa (the vital breath)",
+        "grammar_role": "प्राण · सप्तमी·एक·पुं",
+        "root": "प्राणे"
+      },
+      {
+        "word_sanskrit": "सर्वं",
+        "word_english": "all (everything — śraddhā etc. down to nāman)",
+        "grammar_role": "सर्व · प्रथमा·एक·नपुं",
+        "root": "सर्वम्"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठितम्",
+        "word_english": "is established, rests (during the time of subsistence)",
+        "grammar_role": "प्रति-√स्था · प्रथमा·एक·नपुं (क्तप्रत्यय)",
+        "root": "प्रतिष्ठितम्"
+      },
+      {
+        "word_sanskrit": "ऋचो",
+        "word_english": "the Ṛk verses",
+        "grammar_role": "ऋच् · प्रथमा·बहु·स्त्री",
+        "root": "ऋचः"
+      },
+      {
+        "word_sanskrit": "यजूꣳषि",
+        "word_english": "the Yajus verses",
+        "grammar_role": "यजुस् · प्रथमा·बहु·नपुं",
+        "root": "यजूंषि"
+      },
+      {
+        "word_sanskrit": "सामानि",
+        "word_english": "the Sāman chants — these three are the threefold mantras",
+        "grammar_role": "सामन् · प्रथमा·बहु·नपुं",
+        "root": "सामानि"
+      },
+      {
+        "word_sanskrit": "यज्ञः",
+        "word_english": "the sacrifice (accomplished by those mantras)",
+        "grammar_role": "यज्ञ · प्रथमा·एक·पुं",
+        "root": "यज्ञः"
+      },
+      {
+        "word_sanskrit": "क्षत्त्रं",
+        "word_english": "the kṣatra (ruling power, the protector of all — sarvasya pālayitṛ)",
+        "grammar_role": "क्षत्त्र · प्रथमा·एक·नपुं",
+        "root": "क्षत्त्रम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "brahman (the priestly power, entitled to perform sacrificial rites)",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -204,13 +766,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u0902 \u092c\u0939\u0941\u0928\u093e ? \u0905\u0930\u093e \u0907\u0935 \u0930\u0925\u0928\u093e\u092d\u094c \u0936\u094d\u0930\u0926\u094d\u0927\u093e\u0926\u093f \u0928\u093e\u092e\u093e\u0928\u094d\u0924\u0902 \u0938\u0930\u094d\u0935\u0902 \u0938\u094d\u0925\u093f\u0924\u093f\u0915\u093e\u0932\u0947 \u092a\u094d\u0930\u093e\u0923\u0947 \u090f\u0935 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u092e\u094d\u00a0\u0964 \u0924\u0925\u093e \u090b\u091a\u0903 \u092f\u091c\u0942\u0902\u0937\u093f \u0938\u093e\u092e\u093e\u0928\u093f \u0907\u0924\u093f \u0924\u094d\u0930\u093f\u0935\u093f\u0927\u093e \u092e\u0928\u094d\u0924\u094d\u0930\u093e\u0903 \u0924\u0924\u094d\u0938\u093e\u0927\u094d\u092f\u0936\u094d\u091a \u092f\u091c\u094d\u091e\u0903 \u0915\u094d\u0937\u0924\u094d\u0924\u094d\u0930\u0902 \u091a \u0938\u0930\u094d\u0935\u0938\u094d\u092f \u092a\u093e\u0932\u092f\u093f\u0924\u0943 \u092c\u094d\u0930\u0939\u094d\u092e \u091a \u092f\u091c\u094d\u091e\u093e\u0926\u093f\u0915\u0930\u094d\u092e\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u0947\u093d\u0927\u093f\u0915\u0943\u0924\u0902 \u091a \u090f\u0937 \u090f\u0935 \u092a\u094d\u0930\u093e\u0923\u0903 \u0938\u0930\u094d\u0935\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014As spokes in the nave of a wheel, all from sraddha (faith) down to name is centred in Prana , while they endure; so also Rik, Yajur and Sama Vedas, the three kinds of mantras , and what is accomplished by them, i.e., the sacrifice, the Kshatriyas, pro tectors of all and the Brahmins competent to perform sacrifices and other karma. Prana is all this."
+        "text": "किं बहुना? अरा इव रथनाभौ श्रद्धादि नामान्तं सर्वं स्थितिकाले प्राणे एव प्रतिष्ठितम् । तथा ऋचः यजूंषि सामानि इति त्रिविधा मन्त्राः तत्साध्यश्च यज्ञः क्षत्त्रं च सर्वस्य पालयितृ ब्रह्म च यज्ञादिकर्मकर्तृत्वेऽधिकृतं च एष एव प्राणः सर्वम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -221,15 +779,90 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 7,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145299.html"
+      "mantra_ref": "2.7",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f\u0936\u094d\u091a\u0930\u0938\u093f \u0917\u0930\u094d\u092d\u0947 \u0924\u094d\u0935\u092e\u0947\u0935 \u092a\u094d\u0930\u0924\u093f\u091c\u093e\u092f\u0938\u0947\u00a0\u0964 \n \u0924\u0941\u092d\u094d\u092f\u0902 \u092a\u094d\u0930\u093e\u0923 \u092a\u094d\u0930\u091c\u093e\u0938\u094d\u0924\u094d\u0935\u093f\u092e\u093e \u092c\u0932\u093f\u0902 \u0939\u0930\u0928\u094d\u0924\u093f \u092f\u0903 \u092a\u094d\u0930\u093e\u0923\u0948\u0903 \u092a\u094d\u0930\u0924\u093f\u0924\u093f\u0937\u094d\u0920\u0938\u093f \u0965 \u096d \u0965",
-    "transliteration": "praj\u0101pati\u015bcarasi garbhe tvameva pratij\u0101yase | tubhya\u1e43 pr\u0101\u1e47a praj\u0101stvim\u0101 bali\u1e43 haranti ya\u1e25 pra\u1e47ai\u1e25 pratiti\u1e63\u1e6dhasi || 7 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "प्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायसे । तुभ्यं प्राण प्रजास्त्विमा बलिं हरन्ति यः प्राणैः प्रतितिष्ठसि ॥ ७ ॥",
+    "transliteration": "prajāpatiścarasi garbhe tvameva pratijāyase | tubhyaṃ prāṇa prajāstvimā baliṃ haranti yaḥ prāṇaiḥ pratitiṣṭhasi || 7 ||",
     "translation": "7. As lord of creatures, you move in the womb and yourself are afterwards born. These creatures bring offerings, Oh Prana , to you who are sitting with the pranas.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्रजापतिश्चरसि",
+        "word_english": "Prajāpati, (you) move/wander — i.e. you who are even Prajāpati move (in the womb)",
+        "grammar_role": "प्रजापति · प्रथमा·एक·पुं + √चर् · लट्·मध्यम·एक·परस्मै",
+        "root": "प्रजापतिः + चरसि"
+      },
+      {
+        "word_sanskrit": "गर्भे",
+        "word_english": "in the womb",
+        "grammar_role": "गर्भ · सप्तमी·एक·पुं",
+        "root": "गर्भे"
+      },
+      {
+        "word_sanskrit": "त्वमेव",
+        "word_english": "you yourself indeed",
+        "grammar_role": "युष्मद् · प्रथमा·एक + एव · अव्यय (निपात/अवधारण)",
+        "root": "त्वम् + एव"
+      },
+      {
+        "word_sanskrit": "प्रतिजायसे",
+        "word_english": "you are born forth, as the likeness of father and mother",
+        "grammar_role": "√जन् (प्रति) · लट्·मध्यम·एक·आत्मने",
+        "root": "प्रतिजायसे"
+      },
+      {
+        "word_sanskrit": "तुभ्यं",
+        "word_english": "to you, for your sake",
+        "grammar_role": "युष्मद् · चतुर्थी·एक",
+        "root": "तुभ्यम्"
+      },
+      {
+        "word_sanskrit": "प्राण",
+        "word_english": "O Prāṇa",
+        "grammar_role": "प्राण · सम्बोधन·एक·पुं",
+        "root": "प्राण"
+      },
+      {
+        "word_sanskrit": "प्रजास्त्विमा",
+        "word_english": "and these creatures (men and the rest)",
+        "grammar_role": "प्रजा · प्रथमा·बहु·स्त्री + तु · अव्यय + इदम् · प्रथमा·बहु·स्त्री",
+        "root": "प्रजाः + तु + इमाः"
+      },
+      {
+        "word_sanskrit": "बलिं",
+        "word_english": "tribute, offering",
+        "grammar_role": "बलि · द्वितीया·एक·पुं",
+        "root": "बलिम्"
+      },
+      {
+        "word_sanskrit": "हरन्ति",
+        "word_english": "(they) bring, offer (through the eye and other faculties)",
+        "grammar_role": "√हृ · लट्·प्रथम·बहु·परस्मै",
+        "root": "हरन्ति"
+      },
+      {
+        "word_sanskrit": "यः",
+        "word_english": "who (you who)",
+        "grammar_role": "यद् · प्रथमा·एक·पुं",
+        "root": "यः"
+      },
+      {
+        "word_sanskrit": "प्राणैः",
+        "word_english": "together with the prāṇas (the eye and other senses)",
+        "grammar_role": "प्राण · तृतीया·बहु·पुं",
+        "root": "प्राणैः"
+      },
+      {
+        "word_sanskrit": "प्रतितिष्ठसि",
+        "word_english": "you abide / stand firm (in all bodies)",
+        "grammar_role": "√स्था (प्रति) · लट्·मध्यम·एक·परस्मै",
+        "root": "प्रतितिष्ठसि"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -240,13 +873,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u091e\u094d\u091a, \u092f\u0903 \u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f\u0930\u092a\u093f \u0938 \u0924\u094d\u0935\u092e\u0947\u0935 \u0917\u0930\u094d\u092d\u0947 \u091a\u0930\u0938\u093f, \u092a\u093f\u0924\u0941\u0930\u094d\u092e\u093e\u0924\u0941\u0936\u094d\u091a \u092a\u094d\u0930\u0924\u093f\u0930\u0942\u092a\u0903 \u0938\u0928\u094d \u092a\u094d\u0930\u0924\u093f\u091c\u093e\u092f\u0938\u0947 ; \u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f\u0924\u094d\u0935\u093e\u0926\u0947\u0935 \u092a\u094d\u0930\u093e\u0917\u0947\u0935 \u0938\u093f\u0926\u094d\u0927\u0902 \u0924\u0935 \u092e\u093e\u0924\u0943\u092a\u093f\u0924\u0943\u0924\u094d\u0935\u092e\u094d ; \u0938\u0930\u094d\u0935\u0926\u0947\u0939\u0926\u0947\u0939\u094d\u092f\u093e\u0915\u0943\u0924\u093f\u091a\u094d\u091b\u0928\u094d\u0928\u0903 \u090f\u0915\u0903 \u092a\u094d\u0930\u093e\u0923\u0903 \u0938\u0930\u094d\u0935\u093e\u0924\u094d\u092e\u093e\u0938\u0940\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0924\u0941\u092d\u094d\u092f\u0902 \u0924\u094d\u0935\u0926\u0930\u094d\u0925\u093e\u092f \u0907\u092e\u093e\u0903 \u092e\u0928\u0941\u0937\u094d\u092f\u093e\u0926\u094d\u092f\u093e\u0903 \u092a\u094d\u0930\u091c\u093e\u0938\u094d\u0924\u0941 \u0939\u0947 \u092a\u094d\u0930\u093e\u0923 \u091a\u0915\u094d\u0937\u0941\u0930\u093e\u0926\u093f\u0926\u094d\u0935\u093e\u0930\u0948\u0903 \u092c\u0932\u093f\u0902 \u0939\u0930\u0928\u094d\u0924\u093f, \u092f\u0903 \u0924\u094d\u0935\u0902 \u092a\u094d\u0930\u093e\u0923\u0948\u0903 \u091a\u0915\u094d\u0937\u0941\u0930\u093e\u0926\u093f\u092d\u093f\u0903 \u0938\u0939 \u092a\u094d\u0930\u0924\u093f\u0924\u093f\u0937\u094d\u0920\u0938\u093f \u0938\u0930\u094d\u0935\u0936\u0930\u0940\u0930\u0947\u0937\u0941, \u0905\u0924\u0938\u094d\u0924\u0941\u092d\u094d\u092f\u0902 \u092c\u0932\u093f\u0902 \u0939\u0930\u0928\u094d\u0924\u0940\u0924\u093f \u092f\u0941\u0915\u094d\u0924\u092e\u094d\u00a0\u0964 \u092d\u094b\u0915\u094d\u0924\u093e\u0938\u093f \u092f\u0924\u0938\u094d\u0924\u094d\u0935\u0902 \u0924\u0935\u0948\u0935\u093e\u0928\u094d\u092f\u0924\u094d\u0938\u0930\u094d\u0935\u0902 \u092d\u094b\u091c\u094d\u092f\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Again, being yourself the lord of creatures, you move in the womb and are born, being another embodiment of the father and the mother. That you are both father and mother is already established by your being the lord of creatures. The meaning is you Prana , though one, are the atman of all, in the guise of the forms of all bodies and souls. For you, Oh Prana, these creatures, men and the rest, bring offerings through the apertures of the eyes, etc. As you are within all bodies along with the Pranas , i.e., the eyes and other senses, it is but proper they should bring you offerings. As you are the eater, all the rest is, indeed, food for you."
+        "text": "किञ्च, यः प्रजापतिरपि स त्वमेव गर्भे चरसि, पितुर्मातुश्च प्रतिरूपः सन् प्रतिजायसे; प्रजापतित्वादेव प्रागेव सिद्धं तव मातृपितृत्वम्; सर्वदेहदेह्याकृतिच्छन्नः एकः प्राणः सर्वात्मासीत्यर्थः । तुभ्यं त्वदर्थाय इमाः मनुष्याद्याः प्रजास्तु हे प्राण चक्षुरादिद्वारैः बलिं हरन्ति, यः त्वं प्राणैः चक्षुरादिभिः सह प्रतितिष्ठसि सर्वशरीरेषु, अतस्तुभ्यं बलिं हरन्तीति युक्तम् । भोक्तासि यतस्त्वं तवैवान्यत्सर्वं भोज्यम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -257,15 +886,66 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 8,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145300.html"
+      "mantra_ref": "2.8",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0926\u0947\u0935\u093e\u0928\u093e\u092e\u0938\u093f \u0935\u0939\u094d\u0928\u093f\u0924\u092e\u0903 \u092a\u093f\u0924\u0944\u0923\u093e\u0902 \u092a\u094d\u0930\u0925\u092e\u093e \u0938\u094d\u0935\u0927\u093e\u00a0\u0964 \n \u090b\u0937\u0940\u0923\u093e\u0902 \u091a\u0930\u093f\u0924\u0902 \u0938\u0924\u094d\u092f\u092e\u0925\u0930\u094d\u0935\u093e\u0919\u094d\u0917\u093f\u0930\u0938\u093e\u092e\u0938\u093f \u0965 \u096e \u0965",
-    "transliteration": "dev\u0101n\u0101masi vahnitama\u1e25 pit\u1e5b\u1e47\u0101\u1e43 pratham\u0101 svadh\u0101 | \u1e5b\u1e63\u012b\u1e47\u0101\u1e43 carita\u1e43 satyamatharv\u0101\u1e45giras\u0101masi || 8 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "देवानामसि वह्नितमः पितॄणां प्रथमा स्वधा । ऋषीणां चरितं सत्यमथर्वाङ्गिरसामसि ॥ ८ ॥",
+    "transliteration": "devānāmasi vahnitamaḥ pitṝṇāṃ prathamā svadhā | ṛṣīṇāṃ caritaṃ satyamatharvāṅgirasāmasi || 8 ||",
     "translation": "8. You are the best carrier to the celestials, the first oblation to the manes. You are the true active principle of the senses ( pranas ) which form the sap of the body.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "देवानामसि",
+        "word_english": "of the gods (Indra etc.) you are",
+        "grammar_role": "देव · षष्ठी·बहु·पुं + √अस् · लट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "देवानाम् + असि"
+      },
+      {
+        "word_sanskrit": "वह्नितमः",
+        "word_english": "the foremost carrier (best conveyer of oblations to the gods)",
+        "grammar_role": "वह्नितम (वह्नि + superlative तमप्) · प्रथमा·एक·पुं",
+        "root": "वह्नितमः"
+      },
+      {
+        "word_sanskrit": "पितॄणां",
+        "word_english": "of the fathers (Manes)",
+        "grammar_role": "पितृ · षष्ठी·बहु·पुं",
+        "root": "पितॄणाम्"
+      },
+      {
+        "word_sanskrit": "प्रथमा",
+        "word_english": "the first (offering), prior in relation to the gods' portion",
+        "grammar_role": "प्रथम · प्रथमा·एक·स्त्री (agreeing with स्वधा)",
+        "root": "प्रथमा"
+      },
+      {
+        "word_sanskrit": "स्वधा",
+        "word_english": "svadhā — the food offered to the fathers",
+        "grammar_role": "स्वधा · प्रथमा·एक·स्त्री",
+        "root": "स्वधा"
+      },
+      {
+        "word_sanskrit": "ऋषीणां",
+        "word_english": "of the seers (here the vital breaths, cakṣus etc.)",
+        "grammar_role": "ऋषि · षष्ठी·बहु·पुं",
+        "root": "ऋषीणाम्"
+      },
+      {
+        "word_sanskrit": "चरितं",
+        "word_english": "the conduct/activity (characterized by sustaining the body etc.)",
+        "grammar_role": "चरित · प्रथमा·एक·नपुं (predicate nom.)",
+        "root": "चरितम्"
+      },
+      {
+        "word_sanskrit": "सत्यमथर्वाङ्गिरसामसि",
+        "word_english": "is true; of the Atharvāṅgirases (the atharvans become aṅgiras) — that true conduct, you alone are",
+        "grammar_role": "सत्य · प्रथमा·एक·नपुं (agreeing with चरितम्) + अथर्वन्-अङ्गिरस् (compound, अथर्वन्→अथर्व-) · षष्ठी·बहु·पुं + √अस् · लट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "सत्यम् + अथर्वाङ्गिरसाम् + असि"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -276,13 +956,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u091e\u094d\u091a, \u0926\u0947\u0935\u093e\u0928\u093e\u092e\u094d \u0907\u0928\u094d\u0926\u094d\u0930\u093e\u0926\u0940\u0928\u093e\u092e\u094d \u0905\u0938\u093f \u092d\u0935\u0938\u093f \u0924\u094d\u0935\u0902 \u0935\u0939\u094d\u0928\u093f\u0924\u092e\u0903 \u0939\u0935\u093f\u0937\u093e\u0902 \u092a\u094d\u0930\u093e\u092a\u092f\u093f\u0924\u0943\u0924\u092e\u0903\u00a0\u0964 \u092a\u093f\u0924\u0944\u0923\u093e\u0902 \u0928\u093e\u0928\u094d\u0926\u0940\u092e\u0941\u0916\u0947 \u0936\u094d\u0930\u093e\u0926\u094d\u0927\u0947 \u092f\u093e \u092a\u093f\u0924\u0943\u092d\u094d\u092f\u094b \u0926\u0940\u092f\u0924\u0947 \u0938\u094d\u0935\u0927\u093e \u0905\u0928\u094d\u0928\u0902 \u0938\u093e \u0926\u0947\u0935\u092a\u094d\u0930\u0926\u093e\u0928\u092e\u092a\u0947\u0915\u094d\u0937\u094d\u092f \u092a\u094d\u0930\u0925\u092e\u093e \u092d\u0935\u0924\u093f\u00a0\u0964 \u0924\u0938\u094d\u092f\u093e \u0905\u092a\u093f \u092a\u093f\u0924\u0943\u092d\u094d\u092f\u0903 \u092a\u094d\u0930\u093e\u092a\u092f\u093f\u0924\u093e \u0924\u094d\u0935\u092e\u0947\u0935\u0947\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0915\u093f\u091e\u094d\u091a, \u090b\u0937\u0940\u0923\u093e\u0902 \u091a\u0915\u094d\u0937\u0941\u0930\u093e\u0926\u0940\u0928\u093e\u0902 \u092a\u094d\u0930\u093e\u0923\u093e\u0928\u093e\u092e\u094d \u0905\u0925\u0930\u094d\u0935\u093e\u0919\u094d\u0917\u093f\u0930\u0938\u093e\u092e\u094d \u0905\u0919\u094d\u0917\u093f\u0930\u0938\u092d\u0942\u0924\u093e\u0928\u093e\u092e\u0925\u0930\u094d\u0935\u0923\u093e\u092e\u094d \u2014 \n\u2018\u0924\u0947\u0937\u093e\u092e\u0947\u0935 \u092a\u094d\u0930\u093e\u0923\u094b \u0935\u093e\u0925\u0930\u094d\u0935\u093e\u2019 ( ? )\n \u0907\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u0947\u0903 \u2014 \u091a\u0930\u093f\u0924\u0902 \u091a\u0947\u0937\u094d\u091f\u093f\u0924\u0902 \u0938\u0924\u094d\u092f\u092e\u094d \u0905\u0935\u093f\u0924\u0925\u0902 \u0926\u0947\u0939\u0927\u093e\u0930\u0923\u093e\u0926\u094d\u092f\u0941\u092a\u0915\u093e\u0930\u0932\u0915\u094d\u0937\u0923\u0902 \u0924\u094d\u0935\u092e\u0947\u0935\u093e\u0938\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Moreover, you are the best of the carriers of oblations to the Devas such as Indra. The food given to the manes in the Nandi sraddha is prior even to that offered to the chief of the Devas. You alone are the carrier of that to the manes . Besides, of the senses such as the eye, etc., ( pranas ) which are called atharva , and in whose absence the limbs are dried up, you are the active principle aiding in the support, etc., of the body."
+        "text": "किञ्च, देवानाम् इन्द्रादीनाम् असि भवसि त्वं वह्नितमः हविषां प्रापयितृतमः । पितॄणां नान्दीमुखे श्राद्धे या पितृभ्यो दीयते स्वधा अन्नं सा देवप्रदानमपेक्ष्य प्रथमा भवति । तस्या अपि पितृभ्यः प्रापयिता त्वमेवेत्यर्थः । किञ्च, ऋषीणां चक्षुरादीनां प्राणानाम् अथर्वाङ्गिरसाम् अङ्गिरसभूतानामथर्वणाम् — ‘तेषामेव प्राणो वाथर्वा’ (?) इति श्रुतेः — चरितं चेष्टितं सत्यम् अवितथं देहधारणाद्युपकारलक्षणं त्वमेवासि ॥"
       }
     ],
     "commentary_faqs": []
@@ -293,15 +969,78 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 9,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145301.html"
+      "mantra_ref": "2.9",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0907\u0928\u094d\u0926\u094d\u0930\u0938\u094d\u0924\u094d\u0935\u0902 \u092a\u094d\u0930\u093e\u0923 \u0924\u0947\u091c\u0938\u093e \u0930\u0941\u0926\u094d\u0930\u094b\u093d\u0938\u093f \u092a\u0930\u093f\u0930\u0915\u094d\u0937\u093f\u0924\u093e\u00a0\u0964 \n \u0924\u094d\u0935\u092e\u0928\u094d\u0924\u0930\u093f\u0915\u094d\u0937\u0947 \u091a\u0930\u0938\u093f \u0938\u0942\u0930\u094d\u092f\u0938\u094d\u0924\u094d\u0935\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0937\u093e\u0902 \u092a\u0924\u093f\u0903 \u0965 \u096f \u0965",
-    "transliteration": "indrastva\u1e43 pr\u0101\u1e47a tejas\u0101 rudro'si parirak\u015bit\u0101 | tvamantarik\u015be carasi s\u016bryastva\u1e43 jyoti\u1e63\u0101\u1e43 pati\u1e25 || 9 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "इन्द्रस्त्वं प्राण तेजसा रुद्रोऽसि परिरक्षिता । त्वमन्तरिक्षे चरसि सूर्यस्त्वं ज्योतिषां पतिः ॥ ९ ॥",
+    "transliteration": "indrastvaṃ prāṇa tejasā rudro'si parirakṣitā | tvamantarikṣe carasi sūryastvaṃ jyotiṣāṃ patiḥ || 9 ||",
     "translation": "9. Oh Prana , you are Indra, you are Rudra by valour; you are the protector; you move in the sky and you are the Sun, the lord of all luminaries.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "इन्द्रस्त्वं",
+        "word_english": "Indra (the Supreme Lord) art thou",
+        "grammar_role": "इन्द्र · प्रथमा·एक·पुं + त्वम् (युष्मद्) · प्रथमा·एक (सर्वनाम)",
+        "root": "इन्द्रः + त्वम्"
+      },
+      {
+        "word_sanskrit": "प्राण",
+        "word_english": "O Prāṇa",
+        "grammar_role": "प्राण · सम्बोधन·एक·पुं",
+        "root": "प्राण"
+      },
+      {
+        "word_sanskrit": "तेजसा",
+        "word_english": "by (thy) might, by power (vīrya)",
+        "grammar_role": "तेजस् · तृतीया·एक·नपुं",
+        "root": "तेजसा"
+      },
+      {
+        "word_sanskrit": "रुद्रोऽसि",
+        "word_english": "thou art Rudra (destroying the world)",
+        "grammar_role": "रुद्र · प्रथमा·एक·पुं + √अस् · लट्·मध्यमपुरुष·एक·परस्मैपद",
+        "root": "रुद्रः + असि"
+      },
+      {
+        "word_sanskrit": "परिरक्षिता",
+        "word_english": "the all-round protector (in sustenance, by thy benign form)",
+        "grammar_role": "परिरक्षितृ · प्रथमा·एक·पुं",
+        "root": "परिरक्षिता"
+      },
+      {
+        "word_sanskrit": "त्वमन्तरिक्षे",
+        "word_english": "thou, in the sky (atmosphere)",
+        "grammar_role": "त्वम् (युष्मद्) · प्रथमा·एक (सर्वनाम) + अन्तरिक्ष · सप्तमी·एक·नपुं",
+        "root": "त्वम् + अन्तरिक्षे"
+      },
+      {
+        "word_sanskrit": "चरसि",
+        "word_english": "thou movest ceaselessly (by rising and setting)",
+        "grammar_role": "√चर् · लट्·मध्यमपुरुष·एक·परस्मैपद",
+        "root": "चरसि"
+      },
+      {
+        "word_sanskrit": "सूर्यस्त्वं",
+        "word_english": "the Sun art thou",
+        "grammar_role": "सूर्य · प्रथमा·एक·पुं + त्वम् (युष्मद्) · प्रथमा·एक (सर्वनाम)",
+        "root": "सूर्यः + त्वम्"
+      },
+      {
+        "word_sanskrit": "ज्योतिषां",
+        "word_english": "of all the luminaries (lights)",
+        "grammar_role": "ज्योतिस् · षष्ठी·बहु·नपुं",
+        "root": "ज्योतिषाम्"
+      },
+      {
+        "word_sanskrit": "पतिः",
+        "word_english": "the lord (master)",
+        "grammar_role": "पति · प्रथमा·एक·पुं",
+        "root": "पतिः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -312,13 +1051,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u091e\u094d\u091a, \u0907\u0928\u094d\u0926\u094d\u0930\u0903 \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930\u0903 \u0924\u094d\u0935\u0902 \u0939\u0947 \u092a\u094d\u0930\u093e\u0923, \u0924\u0947\u091c\u0938\u093e \u0935\u0940\u0930\u094d\u092f\u0947\u0923 \u0930\u0941\u0926\u094d\u0930\u094b\u093d\u0938\u093f \u0938\u0902\u0939\u0930\u0928\u094d \u091c\u0917\u0924\u094d\u00a0\u0964 \u0938\u094d\u0925\u093f\u0924\u094c \u091a \u092a\u0930\u093f \u0938\u092e\u0928\u094d\u0924\u093e\u0924\u094d \u0930\u0915\u094d\u0937\u093f\u0924\u093e \u092a\u093e\u0932\u092f\u093f\u0924\u093e ; \u092a\u0930\u093f\u0930\u0915\u094d\u0937\u093f\u0924\u093e \u0924\u094d\u0935\u092e\u0947\u0935 \u091c\u0917\u0924\u0903 \u0938\u094c\u092e\u094d\u092f\u0947\u0928 \u0930\u0942\u092a\u0947\u0923\u00a0\u0964 \u0924\u094d\u0935\u092e\u094d \u0905\u0928\u094d\u0924\u0930\u093f\u0915\u094d\u0937\u0947 \u0905\u091c\u0938\u094d\u0930\u0902 \u091a\u0930\u0938\u093f \u0909\u0926\u092f\u093e\u0938\u094d\u0924\u092e\u092f\u093e\u092d\u094d\u092f\u093e\u0902 \u0938\u0942\u0930\u094d\u092f\u0903 \u0924\u094d\u0935\u092e\u0947\u0935 \u091a \u0938\u0930\u094d\u0935\u0947\u0937\u093e\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0937\u093e\u0902 \u092a\u0924\u093f\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014 Again, Oh Prana , you are Indra, i.e., Paramesvara (Lord of all). By valour, you are Rudra, destroyer of the world and you are the protector of the world, while it endures, by your mild aspect; you always move in the inter-space. By rising and setting, you are, indeed, the sun, the lord of all orbs of light."
+        "text": "किञ्च, इन्द्रः परमेश्वरः त्वं हे प्राण, तेजसा वीर्येण रुद्रोऽसि संहरन् जगत् । स्थितौ च परि समन्तात् रक्षिता पालयिता; परिरक्षिता त्वमेव जगतः सौम्येन रूपेण । त्वम् अन्तरिक्षे अजस्रं चरसि उदयास्तमयाभ्यां सूर्यः त्वमेव च सर्वेषां ज्योतिषां पतिः ॥"
       }
     ],
     "commentary_faqs": []
@@ -329,15 +1064,72 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 10,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145302.html"
+      "mantra_ref": "2.10",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u0926\u093e \u0924\u094d\u0935\u092e\u092d\u093f\u0935\u0930\u094d\u0937\u0938\u093f \u0905\u0925\u0947\u092e\u093e\u0903 \u092a\u094d\u0930\u093e\u0923 \u0924\u0947 \u092a\u094d\u0930\u091c\u093e\u0903\u00a0\u0964 \n \u0906\u0928\u0928\u094d\u0926\u0930\u0942\u092a\u093e\u0938\u094d\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u093f \u0915\u093e\u092e\u093e\u092f\u093e\u0928\u094d\u0928\u0902 \u092d\u0935\u093f\u0937\u094d\u092f\u0924\u0940\u0924\u093f \u0965 \u0967\u0966 \u0965",
-    "transliteration": "yad\u0101 tvamabhivar\u1e63asyathem\u0101\u1e25pr\u0101\u1e47a te praj\u0101\u1e25 | \u0101nandar\u016bp\u0101sti\u1e63\u1e6dhanti k\u0101m\u0101y\u0101nna\u1e43 bhavi\u1e63yat\u012bti || 10 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "यदा त्वमभिवर्षसि अथेमाः प्राण ते प्रजाः । आनन्दरूपास्तिष्ठन्ति कामायान्नं भविष्यतीति ॥ १० ॥",
+    "transliteration": "yadā tvamabhivarṣasi athemāḥ prāṇa te prajāḥ | ānandarūpāstiṣṭhanti kāmāyānnaṃ bhaviṣyatīti || 10 ||",
     "translation": "10. When you rain, all round; then Oh Prana, these, your creatures, sit delighted thinking there will be food at their desire.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "यदा",
+        "word_english": "when",
+        "grammar_role": "यदा · अव्यय (कालवाचक)",
+        "root": "यदा"
+      },
+      {
+        "word_sanskrit": "त्वमभिवर्षसि",
+        "word_english": "you rain down (having become the rain-cloud, parjanya)",
+        "grammar_role": "युष्मद् · प्रथमा·एकवचन·(सर्वलिङ्ग) + √वृष् (अभि) · लट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "त्वम् + अभिवर्षसि"
+      },
+      {
+        "word_sanskrit": "अथेमाः",
+        "word_english": "then these (creatures)",
+        "grammar_role": "अथ · अव्यय (आनन्तर्ये) + इदम् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "अथ + इमाः"
+      },
+      {
+        "word_sanskrit": "प्राण",
+        "word_english": "O Prāṇa (vital breath) [bhāṣya's alt. reads प्राणते = 'they live']",
+        "grammar_role": "प्राण · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "प्राण"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "your [alt. reading joins as प्राणते]",
+        "grammar_role": "युष्मद् · षष्ठी·एकवचन (तव)",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "प्रजाः",
+        "word_english": "creatures, offspring",
+        "grammar_role": "प्रजा · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "प्रजाः"
+      },
+      {
+        "word_sanskrit": "आनन्दरूपास्तिष्ठन्ति",
+        "word_english": "remain blissful in nature (as if having attained joy)",
+        "grammar_role": "आनन्द-रूप · (बहुव्रीहि) प्रथमा·बहुवचन·स्त्रीलिङ्ग + √स्था · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "आनन्द-रूपाः + तिष्ठन्ति"
+      },
+      {
+        "word_sanskrit": "कामायान्नं",
+        "word_english": "food shall be there at will / according to (their) desire",
+        "grammar_role": "काम · चतुर्थी·एकवचन·पुंलिङ्ग + अन्न · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "कामाय + अन्नम्"
+      },
+      {
+        "word_sanskrit": "भविष्यतीति",
+        "word_english": "\"will come to be\" — thus",
+        "grammar_role": "√भू · लृट्·प्रथमपुरुष·एकवचन·परस्मैपद + इति · अव्यय",
+        "root": "भविष्यति + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -348,13 +1140,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u092f\u0926\u093e \u092a\u0930\u094d\u091c\u0928\u094d\u092f\u094b \u092d\u0942\u0924\u094d\u0935\u093e \u0905\u092d\u093f\u0935\u0930\u094d\u0937\u0938\u093f \u0924\u094d\u0935\u092e\u094d , \u0905\u0925 \u0924\u0926\u093e \u0905\u0928\u094d\u0928\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u092f \u0907\u092e\u093e\u0903 \u092a\u094d\u0930\u091c\u093e\u0903 \u092a\u094d\u0930\u093e\u0923\u0924\u0947 \u092a\u094d\u0930\u093e\u0923\u091a\u0947\u0937\u094d\u091f\u093e\u0902 \u0915\u0941\u0930\u094d\u0935\u0928\u094d\u0924\u0940\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0905\u0925\u0935\u093e, \u0939\u0947 \u092a\u094d\u0930\u093e\u0923, \u0924\u0947 \u0924\u0935 \u0907\u092e\u093e\u0903 \u092a\u094d\u0930\u091c\u093e\u0903 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u092d\u0942\u0924\u093e\u0938\u094d\u0924\u094d\u0935\u0926\u0928\u094d\u0928\u0938\u0902\u0935\u0930\u094d\u0927\u093f\u0924\u093e\u0938\u094d\u0924\u094d\u0935\u0926\u092d\u093f\u0935\u0930\u094d\u0937\u0923\u0926\u0930\u094d\u0936\u0928\u092e\u093e\u0924\u094d\u0930\u0947\u0923 \u091a \u0906\u0928\u0928\u094d\u0926\u0930\u0942\u092a\u093e\u0903 \u0938\u0941\u0916\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093e \u0907\u0935 \u0938\u0924\u094d\u092f\u0903 \u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u093f\u00a0\u0964 \u0915\u093e\u092e\u093e\u092f \u0907\u091a\u094d\u091b\u093e\u0924\u0903 \u0905\u0928\u094d\u0928\u0902 \u092d\u0935\u093f\u0937\u094d\u092f\u0924\u093f \u0907\u0924\u094d\u092f\u0947\u0935\u092e\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014When you in the form of clouds, rain all round; then, having obtained food, these creatures put forth activity. Or, Oh Prana , these, your creatures, being yourself and nourished by your food, become delighted with the mere sight of the rain you pour, thinking there will be food at their desire."
+        "text": "यदा पर्जन्यो भूत्वा अभिवर्षसि त्वम्, अथ तदा अन्नं प्राप्य इमाः प्रजाः प्राणते प्राणचेष्टां कुर्वन्तीत्यर्थः । अथवा, हे प्राण, ते तव इमाः प्रजाः स्वात्मभूतास्त्वदन्नसंवर्धितास्त्वदभिवर्षणदर्शनमात्रेण च आनन्दरूपाः सुखं प्राप्ता इव सत्यः तिष्ठन्ति । कामाय इच्छातः अन्नं भविष्यति इत्येवमभिप्रायः ॥"
       }
     ],
     "commentary_faqs": []
@@ -365,15 +1153,78 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 11,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145303.html"
+      "mantra_ref": "2.11",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0935\u094d\u0930\u093e\u0924\u094d\u092f\u0938\u094d\u0924\u094d\u0935\u0902 \u092a\u094d\u0930\u093e\u0923\u0948\u0915\u0930\u094d\u0937\u093f\u0930\u0924\u094d\u0924\u093e \u0935\u093f\u0936\u094d\u0935\u0938\u094d\u092f \u0938\u0924\u094d\u092a\u0924\u093f\u0903\u00a0\u0964 \n \u0935\u092f\u092e\u093e\u0926\u094d\u092f\u0938\u094d\u092f \u0926\u093e\u0924\u093e\u0930\u0903 \u092a\u093f\u0924\u093e \u0924\u094d\u0935\u0902 \u092e\u093e\u0924\u0930\u093f\u0936\u094d\u0935 \u0928\u0903 \u0965 \u0967\u0967 \u0965",
-    "transliteration": "vr\u0101tyastva\u1e43 pr\u0101\u1e47aikar\u1e63aratt\u0101 vi\u015bvasya satpati\u1e25 | vayam\u0101dyasya d\u0101t\u0101ra\u1e25 pit\u0101 tva\u1e43 m\u0101tari\u015bvana\u1e25 || 11 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "व्रात्यस्त्वं प्राणैकर्षिरत्ता विश्वस्य सत्पतिः । वयमाद्यस्य दातारः पिता त्वं मातरिश्व नः ॥ ११ ॥",
+    "transliteration": "vrātyastvaṃ prāṇaikarṣirattā viśvasya satpatiḥ | vayamādyasya dātāraḥ pitā tvaṃ mātariśva naḥ || 11 ||",
     "translation": "11. Oh Prana, you are unpurified, you are the fire called Ekarshi , eater, lord of all the existing universe; we are the givers of oblations, Oh Matarisvan ! you are our father.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "व्रात्यस्त्वं",
+        "word_english": "Uncleansed (yet pure by nature) art thou",
+        "grammar_role": "व्रात्य · प्रथमा·एक·पुं + त्वद् · प्रथमा·एक (सर्वनाम)",
+        "root": "व्रात्यः + त्वम्"
+      },
+      {
+        "word_sanskrit": "प्राणैकर्षिरत्ता",
+        "word_english": "O Prāṇa, the Ekarṣi-fire, eater of (all) oblations",
+        "grammar_role": "प्राण · सम्बोधन·एक·पुं + एकर्षि · प्रथमा·एक·पुं + अत्तृ · प्रथमा·एक·पुं",
+        "root": "प्राण + एकर्षिः + अत्ता"
+      },
+      {
+        "word_sanskrit": "विश्वस्य",
+        "word_english": "of all (that exists)",
+        "grammar_role": "विश्व · षष्ठी·एक·पुं/नपुं",
+        "root": "विश्वस्य"
+      },
+      {
+        "word_sanskrit": "सत्पतिः",
+        "word_english": "lord of the existent; or the good lord",
+        "grammar_role": "सत्पति · प्रथमा·एक·पुं",
+        "root": "सत्-पतिः"
+      },
+      {
+        "word_sanskrit": "वयमाद्यस्य",
+        "word_english": "we, of the food (the oblation to be eaten)",
+        "grammar_role": "अस्मद् · प्रथमा·बहु (सर्वनाम) + आद्य · षष्ठी·एक·नपुं",
+        "root": "वयम् + आद्यस्य"
+      },
+      {
+        "word_sanskrit": "दातारः",
+        "word_english": "(are the) givers",
+        "grammar_role": "दातृ · प्रथमा·बहु·पुं",
+        "root": "दातारः"
+      },
+      {
+        "word_sanskrit": "पिता",
+        "word_english": "(thou art the) father",
+        "grammar_role": "पितृ · प्रथमा·एक·पुं",
+        "root": "पिता"
+      },
+      {
+        "word_sanskrit": "त्वं",
+        "word_english": "thou",
+        "grammar_role": "त्वद् · प्रथमा·एक (सर्वनाम)",
+        "root": "त्वम्"
+      },
+      {
+        "word_sanskrit": "मातरिश्व",
+        "word_english": "O Mātariśvan (the wind) [art thou our father]; or: thou art the father of Mātariśvan (the wind)",
+        "grammar_role": "मातरिश्वन् · सम्बोधन·एक·पुं (अथवा षष्ठी·एक — मातरिश्वनः)",
+        "root": "मातरिश्वन्"
+      },
+      {
+        "word_sanskrit": "नः",
+        "word_english": "our (= of us)",
+        "grammar_role": "अस्मद् · षष्ठी·बहु (सर्वनाम)",
+        "root": "नः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -384,13 +1235,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u091e\u094d\u091a, \u092a\u094d\u0930\u0925\u092e\u091c\u0924\u094d\u0935\u093e\u0926\u0928\u094d\u092f\u0938\u094d\u092f \u0938\u0902\u0938\u094d\u0915\u0930\u094d\u0924\u0941\u0930\u092d\u093e\u0935\u093e\u0926\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u094b \u0935\u094d\u0930\u093e\u0924\u094d\u092f\u0903 \u0924\u094d\u0935\u092e\u094d , \u0938\u094d\u0935\u092d\u093e\u0935\u0924 \u090f\u0935 \u0936\u0941\u0926\u094d\u0927 \u0907\u0924\u094d\u092f\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903\u00a0\u0964 \u0939\u0947 \u092a\u094d\u0930\u093e\u0923, \u090f\u0915\u0930\u094d\u0937\u093f\u0903 \u0924\u094d\u0935\u092e\u094d \u0906\u0925\u0930\u094d\u0935\u0923\u093e\u0928\u093e\u0902 \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927 \u090f\u0915\u0930\u094d\u0937\u093f\u0928\u093e\u092e\u093e \u0905\u0917\u094d\u0928\u093f\u0903 \u0938\u0928\u094d \u0905\u0924\u094d\u0924\u093e \u0938\u0930\u094d\u0935\u0939\u0935\u093f\u0937\u093e\u092e\u094d\u00a0\u0964 \u0924\u094d\u0935\u092e\u0947\u0935 \u0935\u093f\u0936\u094d\u0935\u0938\u094d\u092f \u0938\u0930\u094d\u0935\u0938\u094d\u092f \u0938\u0924\u094b \u0935\u093f\u0926\u094d\u092f\u092e\u093e\u0928\u0938\u094d\u092f \u092a\u0924\u093f\u0903 \u0938\u0924\u094d\u092a\u0924\u093f\u0903 ; \u0938\u093e\u0927\u0941\u0930\u094d\u0935\u093e \u092a\u0924\u093f\u0903 \u0938\u0924\u094d\u092a\u0924\u093f\u0903\u00a0\u0964 \u0935\u092f\u0902 \u092a\u0941\u0928\u0903 \u0906\u0926\u094d\u092f\u0938\u094d\u092f \u0924\u0935 \u0905\u0926\u0928\u0940\u092f\u0938\u094d\u092f \u0939\u0935\u093f\u0937\u094b \u0926\u093e\u0924\u093e\u0930\u0903\u00a0\u0964 \u0924\u094d\u0935\u0902 \u092a\u093f\u0924\u093e \u092e\u093e\u0924\u0930\u093f\u0936\u094d\u0935 \u0939\u0947 \u092e\u093e\u0924\u0930\u093f\u0936\u094d\u0935\u0928\u094d , \u0928\u0903 \u0905\u0938\u094d\u092e\u093e\u0915\u092e\u094d \u0905\u0925\u0935\u093e, \u092e\u093e\u0924\u0930\u093f\u0936\u094d\u0935\u0928\u0903 \u0935\u093e\u092f\u094b\u0903 \u092a\u093f\u0924\u093e \u0924\u094d\u0935\u092e\u094d\u00a0\u0964 \u0905\u0924\u0936\u094d\u091a \u0938\u0930\u094d\u0935\u0938\u094d\u092f\u0948\u0935 \u091c\u0917\u0924\u0903 \u092a\u093f\u0924\u0943\u0924\u094d\u0935\u0902 \u0938\u093f\u0926\u094d\u0927\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014Again, being first born and there being none other to purify you, you are unpurified. The meaning is you are, by nature itself, pure. Oh Prana , you are the eater of all oblations being Ekarshi , i.e., fire well-known among the followers of the Atharva Veda, by the name of Ekarshi . You alone are the lord of all the universe which exists. Or, the word \u2018 satpatih\u2019 may be interpreted as \u2018good lord.\u2019 But we are the givers of oblations to be eaten by you. You are, Oh Matarisvan ! our father; or, you are the father of Matarisvan , i.e., wind. Therefore, it is established that you are the father of all the universe."
+        "text": "किञ्च, प्रथमजत्वादन्यस्य संस्कर्तुरभावादसंस्कृतो व्रात्यः त्वम्, स्वभावत एव शुद्ध इत्यभिप्रायः । हे प्राण, एकर्षिः त्वम् आथर्वणानां प्रसिद्ध एकर्षिनामा अग्निः सन् अत्ता सर्वहविषाम् । त्वमेव विश्वस्य सर्वस्य सतो विद्यमानस्य पतिः सत्पतिः; साधुर्वा पतिः सत्पतिः । वयं पुनः आद्यस्य तव अदनीयस्य हविषो दातारः । त्वं पिता मातरिश्व हे मातरिश्वन्, नः अस्माकम् अथवा, मातरिश्वनः वायोः पिता त्वम् । अतश्च सर्वस्यैव जगतः पितृत्वं सिद्धम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -401,15 +1248,120 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 12,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145304.html"
+      "mantra_ref": "2.12",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u093e \u0924\u0947 \u0924\u0928\u0942\u0930\u094d\u0935\u093e\u091a\u093f \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e \u092f\u093e \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u0947 \u092f\u093e \u091a \u091a\u0915\u094d\u0937\u0941\u0937\u093f\u00a0\u0964 \n \u092f\u093e \u091a \u092e\u0928\u0938\u093f \u0938\u0928\u094d\u0924\u0924\u093e \u0936\u093f\u0935\u093e\u0902 \u0924\u093e\u0902 \u0915\u0941\u0930\u0941 \u092e\u094b\u0924\u094d\u0915\u094d\u0930\u092e\u0940\u0903 \u0965 \u0967\u0968 \u0965",
-    "transliteration": "y\u0101 te tan\u016brv\u0101ci prati\u1e63\u1e6dhit\u0101 y\u0101 \u015brotre y\u0101 ca cak\u015bu\u1e63i | y\u0101 ca manasi santat\u0101 \u015biv\u0101\u1e43 t\u0101\u1e43 kur\u016b motkram\u012b\u1e25 || 12 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "या ते तनूर्वाचि प्रतिष्ठिता या श्रोत्रे या च चक्षुषि । या च मनसि सन्तता शिवां तां कुरु मोत्क्रमीः ॥ १२ ॥",
+    "transliteration": "yā te tanūrvāci pratiṣṭhitā yā śrotre yā ca cakṣuṣi | yā ca manasi santatā śivāṃ tāṃ kuru motkramīḥ || 12 ||",
     "translation": "12. What form of yours is lodged in speech, what in the ear, what in the eye, and what in the mind continuous, make that propitious air do not ascend from the body.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "या",
+        "word_english": "which (your form)",
+        "grammar_role": "यद् · प्रथमा·एक·स्त्री",
+        "root": "या"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "your (= त्वदीया)",
+        "grammar_role": "युष्मद् · षष्ठी·एक (तव)",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "तनूर्वाचि",
+        "word_english": "the form (which) ... in speech",
+        "grammar_role": "तनू · प्रथमा·एक·स्त्री + वाच् · सप्तमी·एक·स्त्री",
+        "root": "तनूः + वाचि"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठिता",
+        "word_english": "established, abiding (in speech)",
+        "grammar_role": "प्रतिष्ठित (प्रति+√स्था) · प्रथमा·एक·स्त्री",
+        "root": "प्रतिष्ठिता"
+      },
+      {
+        "word_sanskrit": "या",
+        "word_english": "which (form)",
+        "grammar_role": "यद् · प्रथमा·एक·स्त्री",
+        "root": "या"
+      },
+      {
+        "word_sanskrit": "श्रोत्रे",
+        "word_english": "in the ear",
+        "grammar_role": "श्रोत्र · सप्तमी·एक·नपुं",
+        "root": "श्रोत्रे"
+      },
+      {
+        "word_sanskrit": "या",
+        "word_english": "which (form)",
+        "grammar_role": "यद् · प्रथमा·एक·स्त्री",
+        "root": "या"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "चक्षुषि",
+        "word_english": "in the eye",
+        "grammar_role": "चक्षुस् · सप्तमी·एक·नपुं",
+        "root": "चक्षुषि"
+      },
+      {
+        "word_sanskrit": "या",
+        "word_english": "which (form)",
+        "grammar_role": "यद् · प्रथमा·एक·स्त्री",
+        "root": "या"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "मनसि",
+        "word_english": "in the mind",
+        "grammar_role": "मनस् · सप्तमी·एक·नपुं",
+        "root": "मनसि"
+      },
+      {
+        "word_sanskrit": "सन्तता",
+        "word_english": "extended, pervading (the form; = समनुगता)",
+        "grammar_role": "सन्तत (सम्+√तन्) · प्रथमा·एक·स्त्री",
+        "root": "सन्तता"
+      },
+      {
+        "word_sanskrit": "शिवां",
+        "word_english": "auspicious, peaceful (= शान्ताम्)",
+        "grammar_role": "शिव · द्वितीया·एक·स्त्री",
+        "root": "शिवाम्"
+      },
+      {
+        "word_sanskrit": "तां",
+        "word_english": "that (form)",
+        "grammar_role": "तद् · द्वितीया·एक·स्त्री",
+        "root": "ताम्"
+      },
+      {
+        "word_sanskrit": "कुरु",
+        "word_english": "make!",
+        "grammar_role": "√कृ · लोट्·मध्यमपुरुष·एक·परस्मैपद",
+        "root": "कुरु"
+      },
+      {
+        "word_sanskrit": "मोत्क्रमीः",
+        "word_english": "do not depart, do not pass away (= उत्क्रमणेन अशिवां मा कार्षीः)",
+        "grammar_role": "अव्यय (प्रतिषेधार्थक) + उद्+√क्रम् · लुङ् (आगमाभावे)·मध्यमपुरुष·एक·परस्मैपद",
+        "root": "मा + उत्क्रमीः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -420,13 +1372,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u0902 \u092c\u0939\u0941\u0928\u093e ? \u092f\u093e \u0924\u0947 \u0924\u094d\u0935\u0926\u0940\u092f\u093e \u0924\u0928\u0942\u0903 \u0935\u093e\u091a\u093f \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e \u0935\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0947\u0928 \u0935\u0926\u0928\u091a\u0947\u0937\u094d\u091f\u093e\u0902 \u0915\u0941\u0930\u094d\u0935\u0924\u0940, \u092f\u093e \u091a \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u0947 \u092f\u093e \u091a\u0915\u094d\u0937\u0941\u0937\u093f \u092f\u093e \u091a \u092e\u0928\u0938\u093f \u0938\u0919\u094d\u0915\u0932\u094d\u092a\u093e\u0926\u093f\u0935\u094d\u092f\u093e\u092a\u093e\u0930\u0947\u0923 \u0938\u0928\u094d\u0924\u0924\u093e \u0938\u092e\u0928\u0941\u0917\u0924\u093e \u0924\u0928\u0942\u0903, \u0924\u093e\u0902 \u0936\u093f\u0935\u093e\u0902 \u0936\u093e\u0928\u094d\u0924\u093e\u0902 \u0915\u0941\u0930\u0941 ; \u092e\u093e \u0909\u0924\u094d\u0915\u094d\u0930\u092e\u0940\u0903 \u0909\u0924\u094d\u0915\u094d\u0930\u092e\u0923\u0947\u0928\u093e\u0936\u093f\u0935\u093e\u0902 \u092e\u093e \u0915\u093e\u0930\u094d\u0937\u0940\u0930\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014In short, what form of yours, lodged in speech moves the mouth of the speaker, what in the ear, what in the eye, and what united with the mind acts as volition, etc., make that passive, i.e., quiet. Do not make that unquiet, by ascending from the body."
+        "text": "किं बहुना? या ते त्वदीया तनूः वाचि प्रतिष्ठिता वक्तृत्वेन वदनचेष्टां कुर्वती, या च श्रोत्रे या चक्षुषि या च मनसि सङ्कल्पादिव्यापारेण सन्तता समनुगता तनूः, तां शिवां शान्तां कुरु; मा उत्क्रमीः उत्क्रमणेनाशिवां मा कार्षीरित्यर्थः ॥"
       }
     ],
     "commentary_faqs": []
@@ -437,15 +1385,96 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Question 2: Glory of Prāṇa",
       "verse_number": 13,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145305.html"
+      "mantra_ref": "2.13",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092a\u094d\u0930\u093e\u0923\u0938\u094d\u092f\u0947\u0926\u0902 \u0935\u0936\u0947 \u0938\u0930\u094d\u0935\u0902 \u0924\u094d\u0930\u093f\u0926\u093f\u0935\u0947 \u092f\u0924\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u092e\u094d\u00a0\u0964 \n \u092e\u093e\u0924\u0947\u0935 \u092a\u0941\u0924\u094d\u0930\u093e\u0928\u094d\u0930\u0915\u094d\u0937\u0938\u094d\u0935 \u0936\u094d\u0930\u0940\u0936\u094d\u091a \u092a\u094d\u0930\u091c\u094d\u091e\u093e\u0902 \u091a \u0935\u093f\u0927\u0947\u0939\u093f \u0928 \u0907\u0924\u093f \u0965 \u0967\u0969 \u0965",
-    "transliteration": "pr\u0101\u1e47asyeda\u1e43 va\u015be sarva\u1e43 tridive yatprati\u1e63\u1e6dhitam | m\u0101teva putr\u0101nrak\u015basva \u015br\u012b\u015bca praj\u00f1\u0101\u1e43 ca vidhehi na iti || 13 ||",
+    "section_title": "Question 2: Glory of Prāṇa",
+    "sanskrit_shloka": "प्राणस्येदं वशे सर्वं त्रिदिवे यत्प्रतिष्ठितम् । मातेव पुत्रान्रक्षस्व श्रीश्च प्रज्ञां च विधेहि न इति ॥ १३ ॥",
+    "transliteration": "prāṇasyedaṃ vaśe sarvaṃ tridive yatpratiṣṭhitam | māteva putrānrakṣasva śrīśca prajñāṃ ca vidhehi na iti || 13 ||",
     "translation": "13. All this is within the control of Prana, as also what is in the third heaven. Protect us like a mother. Give us affluence and knowledge.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्राणस्येदं",
+        "word_english": "of Prāṇa; this (all)",
+        "grammar_role": "प्राण · षष्ठी·एकवचन·पुंलिङ्ग + इदम् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "प्राणस्य + इदम्"
+      },
+      {
+        "word_sanskrit": "वशे",
+        "word_english": "in the control (of Prāṇa)",
+        "grammar_role": "वश · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "वशे"
+      },
+      {
+        "word_sanskrit": "सर्वं",
+        "word_english": "all this (every object of enjoyment)",
+        "grammar_role": "सर्व · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "सर्वम्"
+      },
+      {
+        "word_sanskrit": "त्रिदिवे",
+        "word_english": "in the third heaven (the celestial world)",
+        "grammar_role": "त्रिदिव · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "त्रिदिवे"
+      },
+      {
+        "word_sanskrit": "यत्प्रतिष्ठितम्",
+        "word_english": "whatever is established (there) — the enjoyments of the gods etc.",
+        "grammar_role": "यद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + प्रति-√स्था · क्तप्रत्यय, प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "यत् + प्रतिष्ठितम्"
+      },
+      {
+        "word_sanskrit": "मातेव",
+        "word_english": "like a mother",
+        "grammar_role": "मातृ · प्रथमा·एकवचन·स्त्रीलिङ्ग + इव · अव्यय (उपमा)",
+        "root": "माता + इव"
+      },
+      {
+        "word_sanskrit": "पुत्रान्रक्षस्व",
+        "word_english": "protect (your) sons — i.e. protect us",
+        "grammar_role": "पुत्र · द्वितीया·बहुवचन·पुंलिङ्ग + √रक्ष् · लोट्·मध्यमपुरुष·एकवचन·आत्मनेपद",
+        "root": "पुत्रान् + रक्षस्व"
+      },
+      {
+        "word_sanskrit": "श्रीश्च",
+        "word_english": "and prosperity (object of 'bestow' — the brāhma and kṣātra glories caused by you)",
+        "grammar_role": "श्री · द्वितीया·एकवचन·स्त्रीलिङ्ग + च · अव्यय (समुच्चय)",
+        "root": "श्रीः + च"
+      },
+      {
+        "word_sanskrit": "प्रज्ञां",
+        "word_english": "and wisdom (object of 'bestow', rooted in your abiding)",
+        "grammar_role": "प्रज्ञा · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "प्रज्ञाम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च · अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "विधेहि",
+        "word_english": "bestow, grant (upon us)",
+        "grammar_role": "वि-√धा · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "विधेहि"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "for us / upon us",
+        "grammar_role": "अस्मद् · चतुर्थी/षष्ठी·बहुवचन (एनक्लिटिक 'नः'; न् इति च्छान्दसम्)",
+        "root": "नः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (closing the hymn)",
+        "grammar_role": "इति · अव्यय (समाप्ति/इत्थम्भाव)",
+        "root": "इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -456,13 +1485,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u0902 \u092c\u0939\u0941\u0928\u093e\u00a0\u0964 \u0905\u0938\u094d\u092e\u093f\u0902\u0932\u094d\u0932\u094b\u0915\u0947 \u092a\u094d\u0930\u093e\u0923\u0938\u094d\u092f\u0948\u0935 \u0935\u0936\u0947 \u0938\u0930\u094d\u0935\u092e\u093f\u0926\u0902 \u092f\u0924\u094d\u0915\u093f\u091e\u094d\u091a\u093f\u0926\u0941\u092a\u092d\u094b\u0917\u091c\u093e\u0924\u0902 \u0924\u094d\u0930\u093f\u0926\u093f\u0935\u0947 \u0924\u0943\u0924\u0940\u092f\u0938\u094d\u092f\u093e\u0902 \u0926\u093f\u0935\u093f \u091a \u092f\u0924\u094d \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u0902 \u0926\u0947\u0935\u093e\u0926\u094d\u092f\u0941\u092a\u092d\u094b\u0917\u0932\u0915\u094d\u0937\u0923\u0902 \u0924\u0938\u094d\u092f\u093e\u092a\u093f \u092a\u094d\u0930\u093e\u0923 \u090f\u0935 \u0908\u0936\u093f\u0924\u093e \u0930\u0915\u094d\u0937\u093f\u0924\u093e\u00a0\u0964 \u0905\u0924\u094b \u092e\u093e\u0924\u0947\u0935 \u092a\u0941\u0924\u094d\u0930\u093e\u0928\u094d \u0905\u0938\u094d\u092e\u093e\u0928\u094d \u0930\u0915\u094d\u0937\u0938\u094d\u0935 \u092a\u093e\u0932\u092f\u0938\u094d\u0935\u00a0\u0964 \u0924\u094d\u0935\u0928\u094d\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u093e \u0939\u093f \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u094d\u092f\u0903 \u0915\u094d\u0937\u093e\u0924\u094d\u0924\u094d\u0930\u094d\u092f\u0936\u094d\u091a \u0936\u094d\u0930\u093f\u092f\u0903 \u0924\u093e\u0903 \u0924\u094d\u0935\u0902 \u0936\u094d\u0930\u0940\u0936\u094d\u091a \u0936\u094d\u0930\u093f\u092f\u0936\u094d\u091a \u092a\u094d\u0930\u091c\u094d\u091e\u093e\u0902 \u091a \u0924\u094d\u0935\u0924\u094d\u0938\u094d\u0925\u093f\u0924\u093f\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u093e\u0902 \u0935\u093f\u0927\u0947\u0939\u093f \u0928\u0903 \u0935\u093f\u0927\u0924\u094d\u0938\u094d\u0935\u0947\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0907\u0924\u094d\u092f\u0947\u0935\u0902 \u0938\u0930\u094d\u0935\u093e\u0924\u094d\u092e\u0924\u092f\u093e \u0935\u093e\u0917\u093e\u0926\u093f\u092d\u093f\u0903 \u092a\u094d\u0930\u093e\u0923\u0948\u0903 \u0938\u094d\u0924\u0941\u0924\u094d\u092f\u093e \u0917\u092e\u093f\u0924\u092e\u0939\u093f\u092e\u093e \u092a\u094d\u0930\u093e\u0923\u0903 \u092a\u094d\u0930\u091c\u093e\u092a\u0924\u093f\u0930\u0947\u0935\u0947\u0924\u094d\u092f\u0935\u0927\u0943\u0924\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014In short, everything of enjoyment in this world, is under the control of Prana; as also of all that which exists in the third heaven for the enjoyment of the Devas , etc., Prana alone is the lord or protector. Therefore, protect, as a mother does her sons. As all splendour pertaining to a Brahmin and Kshatriya are due to you, give us that affluence and knowledge originating in you. It has been thus determined that Prana whose greatness or glory, as being all, has thus been disclosed by the eulogy of the pranas; such as speech and the rest is the lord of the creation, the eater.\n\u2014\u2014\u2014\n\u0965 \u0907\u0924\u093f \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u0926\u094d\u0935\u093f\u0924\u0940\u092f\u0903 \u092a\u094d\u0930\u0936\u094d\u0928\u0903 \u0965\n|| iti pra\u015bnopani\u1e63adi dvit\u012bya\u1e25 pra\u015bna\u1e25 ||\nHere ends the Second Prasna .\n\u2014\u2014\u2014"
+        "text": "किं बहुना । अस्मिंल्लोके प्राणस्यैव वशे सर्वमिदं यत्किञ्चिदुपभोगजातं त्रिदिवे तृतीयस्यां दिवि च यत् प्रतिष्ठितं देवाद्युपभोगलक्षणं तस्यापि प्राण एव ईशिता रक्षिता । अतो मातेव पुत्रान् अस्मान् रक्षस्व पालयस्व । त्वन्निमित्ता हि ब्राह्म्यः क्षात्त्र्यश्च श्रियः ताः त्वं श्रीश्च श्रियश्च प्रज्ञां च त्वत्स्थितिनिमित्तां विधेहि नः विधत्स्वेत्यर्थः । इत्येवं सर्वात्मतया वागादिभिः प्राणैः स्तुत्या गमितमहिमा प्राणः प्रजापतिरेवेत्यवधृतम् ॥"
       }
     ],
     "commentary_faqs": []

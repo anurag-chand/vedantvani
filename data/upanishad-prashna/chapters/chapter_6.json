@@ -5,32 +5,265 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-6",
-      "chapter_name": "Chapter 6",
+      "chapter_name": "Question 6: Sixteen Kalās",
       "verse_number": 1,
       "chapter_number": 6,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145340.html"
+      "mantra_ref": "6.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0925 \u0939\u0948\u0928\u0902 \u0938\u0941\u0915\u0947\u0936\u093e \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c\u0903 \u092a\u092a\u094d\u0930\u091a\u094d\u091b\u00a0\u0964 \u092d\u0917\u0935\u0928\u094d\u0939\u093f\u0930\u0923\u094d\u092f\u0928\u093e\u092d\u0903 \u0915\u094c\u0938\u0932\u094d\u092f\u094b \u0930\u093e\u091c\u092a\u0941\u0924\u094d\u0930\u094b \u092e\u093e\u092e\u0941\u092a\u0947\u0924\u094d\u092f\u0948\u0924\u0902 \u092a\u094d\u0930\u0936\u094d\u0928\u092e\u092a\u0943\u091a\u094d\u091b\u0924 \u0937\u094b\u0921\u0936\u0915\u0932\u0902 \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c \u092a\u0941\u0930\u0941\u0937\u0902 \u0935\u0947\u0924\u094d\u0925\u00a0\u0964 \u0924\u092e\u0939\u0902 \u0915\u0941\u092e\u093e\u0930\u092e\u092c\u094d\u0930\u0935\u0902 \u0928\u093e\u0939\u092e\u093f\u092e\u0902 \u0935\u0947\u0926 \u092f\u0926\u094d\u092f\u0939\u092e\u093f\u092e\u092e\u0935\u0947\u0926\u093f\u0937\u0902 \u0915\u0925\u0902 \u0924\u0947 \u0928\u093e\u0935\u0915\u094d\u0937\u094d\u092f\u092e\u093f\u0924\u093f, \u0938\u092e\u0942\u0932\u094b \u0935\u093e \u090f\u0937 \u092a\u0930\u093f\u0936\u0941\u0937\u094d\u092f\u0924\u093f \u092f\u094b\u093d\u0928\u0943\u0924\u092e\u092d\u093f\u0935\u0926\u0924\u093f \u0924\u0938\u094d\u092e\u093e\u0928\u094d\u0928\u093e\u0930\u094d\u0939\u093e\u092e\u094d\u092f\u0928\u0943\u0924\u0902 \u0935\u0915\u094d\u0924\u0941\u092e\u094d\u00a0\u0964 \u0938 \u0924\u0942\u0937\u094d\u0923\u0940\u0902 \u0930\u0925\u092e\u093e\u0930\u0941\u0939\u094d\u092f \u092a\u094d\u0930\u0935\u0935\u094d\u0930\u093e\u091c\u00a0\u0964 \u0924\u0902 \u0924\u094d\u0935\u093e \u092a\u0943\u091a\u094d\u091b\u093e\u092e\u093f \u0915\u094d\u0935\u093e\u0938\u094c \u092a\u0941\u0930\u0941\u0937 \u0907\u0924\u093f \u0965 \u0967 \u0965",
-    "transliteration": "atha haina\u1e43 suke\u015b\u0101 bh\u0101radv\u0101ja\u1e25 papraccha | bhagavanhira\u1e47yan\u0101bha\u1e25 kausalyo r\u0101japutro m\u0101mupetyaita\u1e43 pra\u015bnamap\u1e5bcchata | \u1e63o\u1e0da\u015bakala\u1e43 bh\u0101radv\u0101ja puru\u1e63a\u1e43 vettha tamaha\u1e43 kum\u0101rambruva\u1e43 n\u0101hamima\u1e43 veda yadhyahamimamavedi\u1e63a\u1e43 katha\u1e43 te n\u0101vak\u015byamiti sam\u016blo v\u0101 e\u1e63a pari\u015bu\u1e63yati yo'n\u1e5btamabhivadati tasm\u0101nn\u0101rhamyan\u1e5bta\u1e43 vaktum sa t\u016b\u1e63\u1e47\u012b\u1e43 ratham\u0101ruhya pravavr\u0101ja | ta\u1e43 tv\u0101 p\u1e5bcch\u0101mi kv\u0101sau puru\u1e63a iti || 1 ||",
-    "translation": "1. Then Sukesa, son of Bharadvaja questioned him \u201cOh Bhagavan, Hiranyagarbha of Kosala, son of a king, approached me and asked me this question \u2018Oh Bharadvaja, knowest thou the Purusha of sixteen kalas (parts)?\u2019 I replied to the lad \u2018I know this not, if I knew him, how should I not tell thee? He who utters a falsehood is certainly dried up, root and all; therefore, I dare not utter falsehood.\u2019 He got into the chariot and went away in silence. That I ask you. Where is that Purusha ?\u201d (1)",
-    "word_by_word": [],
+    "section_title": "Question 6: Sixteen Kalās",
+    "sanskrit_shloka": "अथ हैनं सुकेशा भारद्वाजः पप्रच्छ । भगवन्हिरण्यनाभः कौसल्यो राजपुत्रो मामुपेत्यैतं प्रश्नमपृच्छत षोडशकलं भारद्वाज पुरुषं वेत्थ । तमहं कुमारमब्रवं नाहमिमं वेद यद्यहमिममवेदिषं कथं ते नावक्ष्यमिति, समूलो वा एष परिशुष्यति योऽनृतमभिवदति तस्मान्नार्हाम्यनृतं वक्तुम् । स तूष्णीं रथमारुह्य प्रवव्राज । तं त्वा पृच्छामि क्वासौ पुरुष इति ॥ १ ॥",
+    "transliteration": "atha hainaṃ sukeśā bhāradvājaḥ papraccha | bhagavanhiraṇyanābhaḥ kausalyo rājaputro māmupetyaitaṃ praśnamapṛcchata ṣoḍaśakalaṃ bhāradvāja puruṣaṃ vettha | tamahaṃ kumāramabravaṃ nāhamimaṃ veda yadyahamimamavediṣaṃ kathaṃ te nāvakṣyamiti, samūlo vā eṣa pariśuṣyati yo'nṛtamabhivadati tasmānnārhāmyanṛtaṃ vaktum | sa tūṣṇīṃ rathamāruhya pravavrāja | taṃ tvā pṛcchāmi kvāsau puruṣa iti || 1 ||",
+    "translation": "1. Then Sukesa, son of Bharadvaja questioned him “Oh Bhagavan, Hiranyagarbha of Kosala, son of a king, approached me and asked me this question ‘Oh Bharadvaja, knowest thou the Purusha of sixteen kalas (parts)?’ I replied to the lad ‘I know this not, if I knew him, how should I not tell thee? He who utters a falsehood is certainly dried up, root and all; therefore, I dare not utter falsehood.’ He got into the chariot and went away in silence. That I ask you. Where is that Purusha ?” (1)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अथ",
+        "word_english": "now, then (auspicious opening)",
+        "grammar_role": "अथ · अव्यय (आरम्भे/अधिकारे)",
+        "root": "अथ"
+      },
+      {
+        "word_sanskrit": "हैनं",
+        "word_english": "indeed + him (Pippalāda, object of पप्रच्छ)",
+        "grammar_role": "ह · अव्यय (वाक्यालङ्कारे/स्मरणे) + एनद् · द्वितीया·एक·पुं (सर्वनाम)",
+        "root": "ह + एनम्"
+      },
+      {
+        "word_sanskrit": "सुकेशा",
+        "word_english": "Sukeśā (the questioner's name)",
+        "grammar_role": "सुकेशन् · प्रथमा·एक·पुं",
+        "root": "सुकेशाः"
+      },
+      {
+        "word_sanskrit": "भारद्वाजः",
+        "word_english": "son/descendant of Bharadvāja (patronymic of Sukeśā)",
+        "grammar_role": "भारद्वाज · प्रथमा·एक·पुं",
+        "root": "भारद्वाजः"
+      },
+      {
+        "word_sanskrit": "पप्रच्छ",
+        "word_english": "asked, questioned",
+        "grammar_role": "√प्रच्छ् · लिट्·प्रथम·एक·परस्मै",
+        "root": "पप्रच्छ"
+      },
+      {
+        "word_sanskrit": "भगवन्हिरण्यनाभः",
+        "word_english": "O venerable one! + Hiraṇyanābha (name of the prince)",
+        "grammar_role": "भगवत् · सम्बोधन·एक·पुं + हिरण्यनाभ · प्रथमा·एक·पुं",
+        "root": "भगवन् + हिरण्यनाभः"
+      },
+      {
+        "word_sanskrit": "कौसल्यो",
+        "word_english": "the Kausalya, born in Kosala (कोसलायां भवः)",
+        "grammar_role": "कौसल्य · प्रथमा·एक·पुं",
+        "root": "कौसल्यः"
+      },
+      {
+        "word_sanskrit": "राजपुत्रो",
+        "word_english": "a king's son, by birth a kṣatriya (जातितः क्षत्रियः)",
+        "grammar_role": "राजपुत्र (राजन्-पुत्र) · प्रथमा·एक·पुं",
+        "root": "राज-पुत्रः"
+      },
+      {
+        "word_sanskrit": "मामुपेत्यैतं",
+        "word_english": "having approached me, this",
+        "grammar_role": "अस्मद् · द्वितीया·एक + उप-√इ · ल्यबन्त·अव्यय + एतद् · द्वितीया·एक·पुं",
+        "root": "माम् + उपेत्य + एतम्"
+      },
+      {
+        "word_sanskrit": "प्रश्नमपृच्छत",
+        "word_english": "he asked (me) this question",
+        "grammar_role": "प्रश्न · द्वितीया·एक·पुं + √प्रच्छ् · लङ्·प्रथम·एक·परस्मै",
+        "root": "प्रश्नम् + अपृच्छत"
+      },
+      {
+        "word_sanskrit": "षोडशकलं",
+        "word_english": "having sixteen parts (kalās)",
+        "grammar_role": "षोडशकल · द्वितीया·एक·पुं (बहुव्रीहि, पुरुषं विशेषयति)",
+        "root": "षोडश-कलम्"
+      },
+      {
+        "word_sanskrit": "भारद्वाज",
+        "word_english": "O Bhāradvāja! (the prince addressing Sukeśā)",
+        "grammar_role": "भारद्वाज · सम्बोधन·एक·पुं",
+        "root": "भारद्वाज"
+      },
+      {
+        "word_sanskrit": "पुरुषं",
+        "word_english": "the Puruṣa, the Person",
+        "grammar_role": "पुरुष · द्वितीया·एक·पुं",
+        "root": "पुरुषम्"
+      },
+      {
+        "word_sanskrit": "वेत्थ",
+        "word_english": "do you know?",
+        "grammar_role": "√विद् · लिट्(वर्तमानार्थे)·मध्यम·एक·परस्मै",
+        "root": "वेत्थ"
+      },
+      {
+        "word_sanskrit": "तमहं",
+        "word_english": "him (= the boy) + I",
+        "grammar_role": "तद् · द्वितीया·एक·पुं + अस्मद् · प्रथमा·एक",
+        "root": "तम् + अहम्"
+      },
+      {
+        "word_sanskrit": "कुमारमब्रवं",
+        "word_english": "I said to the prince (boy)",
+        "grammar_role": "कुमार · द्वितीया·एक·पुं + √ब्रू · लङ्·उत्तम·एक·परस्मै",
+        "root": "कुमारम् + अब्रवम्"
+      },
+      {
+        "word_sanskrit": "नाहमिमं",
+        "word_english": "not I this (one)",
+        "grammar_role": "न · अव्यय (निषेधे) + अस्मद् · प्रथमा·एक + इदम् · द्वितीया·एक·पुं",
+        "root": "न + अहम् + इमम्"
+      },
+      {
+        "word_sanskrit": "वेद",
+        "word_english": "I do (not) know",
+        "grammar_role": "√विद् · लिट्(वर्तमानार्थे)·उत्तम·एक·परस्मै",
+        "root": "वेद"
+      },
+      {
+        "word_sanskrit": "यद्यहमिममवेदिषं",
+        "word_english": "if I had known this (one)",
+        "grammar_role": "यदि · अव्यय (सम्भावनायाम्) + अस्मद् · प्रथमा·एक + इदम् · द्वितीया·एक·पुं + √विद् · लुङ्·उत्तम·एक·परस्मै",
+        "root": "यदि + अहम् + इमम् + अवेदिषम्"
+      },
+      {
+        "word_sanskrit": "कथं",
+        "word_english": "how?",
+        "grammar_role": "कथम् · अव्यय (प्रश्ने)",
+        "root": "कथम्"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "to you",
+        "grammar_role": "युष्मद् · चतुर्थी·एक (सर्वनाम; सम्प्रदाने)",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "नावक्ष्यमिति",
+        "word_english": "would I not have told you? (thus)",
+        "grammar_role": "न · अव्यय (निषेधे) + √वच् · लृङ्(क्रियातिपत्ति)·उत्तम·एक·परस्मै + इति · अव्यय (इत्यर्थे)",
+        "root": "न + अवक्ष्यम् + इति"
+      },
+      {
+        "word_sanskrit": "समूलो",
+        "word_english": "together with the root, root and all",
+        "grammar_role": "समूल · प्रथमा·एक·पुं (बहुव्रीहि)",
+        "root": "स-मूलः"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "verily (here emphatic, = एव)",
+        "grammar_role": "वा · अव्यय (एवार्थे/अवधारणे)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this (man)",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "परिशुष्यति",
+        "word_english": "withers away completely, dries up",
+        "grammar_role": "परि-√शुष् · लट्·प्रथम·एक·परस्मै",
+        "root": "परिशुष्यति"
+      },
+      {
+        "word_sanskrit": "योऽनृतमभिवदति",
+        "word_english": "who speaks untruth",
+        "grammar_role": "यद् · प्रथमा·एक·पुं + अनृत · द्वितीया·एक·नपुं + अभि-√वद् · लट्·प्रथम·एक·परस्मै",
+        "root": "यः + अनृतम् + अभिवदति"
+      },
+      {
+        "word_sanskrit": "तस्मान्नार्हाम्यनृतं",
+        "word_english": "therefore I ought not (speak) untruth",
+        "grammar_role": "तद् · पञ्चमी·एक·पुं/नपुं + न · अव्यय + √अर्ह् · लट्·उत्तम·एक·परस्मै + अनृत · द्वितीया·एक·नपुं",
+        "root": "तस्मात् + न + अर्हामि + अनृतम्"
+      },
+      {
+        "word_sanskrit": "वक्तुम्",
+        "word_english": "to speak",
+        "grammar_role": "√वच् · तुमुन्·अव्यय (हेत्वर्थे/अर्हार्थे)",
+        "root": "वक्तुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the prince)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "तूष्णीं",
+        "word_english": "silently, in silence",
+        "grammar_role": "तूष्णीम् · अव्यय (मौने)",
+        "root": "तूष्णीम्"
+      },
+      {
+        "word_sanskrit": "रथमारुह्य",
+        "word_english": "having mounted his chariot",
+        "grammar_role": "रथ · द्वितीया·एक·पुं + आ-√रुह् · ल्यबन्त·अव्यय",
+        "root": "रथम् + आरुह्य"
+      },
+      {
+        "word_sanskrit": "प्रवव्राज",
+        "word_english": "went away, departed",
+        "grammar_role": "प्र-√व्रज् · लिट्·प्रथम·एक·परस्मै",
+        "root": "प्रवव्राज"
+      },
+      {
+        "word_sanskrit": "तं",
+        "word_english": "that, regarding that",
+        "grammar_role": "तद् · द्वितीया·एक·पुं",
+        "root": "तम्"
+      },
+      {
+        "word_sanskrit": "त्वा",
+        "word_english": "you (I ask you)",
+        "grammar_role": "युष्मद् · द्वितीया·एक (सर्वनाम)",
+        "root": "त्वा"
+      },
+      {
+        "word_sanskrit": "पृच्छामि",
+        "word_english": "I ask",
+        "grammar_role": "√प्रच्छ् · लट्·उत्तम·एक·परस्मै",
+        "root": "पृच्छामि"
+      },
+      {
+        "word_sanskrit": "क्वासौ",
+        "word_english": "where (is) that?",
+        "grammar_role": "क्व · अव्यय (प्रश्ने) + अदस् · प्रथमा·एक·पुं",
+        "root": "क्व + असौ"
+      },
+      {
+        "word_sanskrit": "पुरुष",
+        "word_english": "the Person, Puruṣa",
+        "grammar_role": "पुरुष · प्रथमा·एक·पुं",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (end of question)",
+        "grammar_role": "इति · अव्यय (समाप्तौ/उद्धरणे)",
+        "root": "इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "1. Then Sukesa, son of Bharadvaja questioned him \u201cOh Bhagavan, Hiranyagarbha of Kosala, son of a king, approached me and asked me this question \u2018Oh Bharadvaja, knowest thou the Purusha of sixteen kalas (parts)?\u2019 I replied to the lad \u2018I know this not, if I knew him, how should I not tell thee? He who utters a falsehood is certainly dried up, root and all; therefore, I dare not utter falsehood.\u2019 He got into the chariot and went away in silence. That I ask you. Where is that Purusha ?\u201d (1)"
+        "text": "1. Then Sukesa, son of Bharadvaja questioned him “Oh Bhagavan, Hiranyagarbha of Kosala, son of a king, approached me and asked me this question ‘Oh Bharadvaja, knowest thou the Purusha of sixteen kalas (parts)?’ I replied to the lad ‘I know this not, if I knew him, how should I not tell thee? He who utters a falsehood is certainly dried up, root and all; therefore, I dare not utter falsehood.’ He got into the chariot and went away in silence. That I ask you. Where is that Purusha ?” (1)"
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0925 \u0939 \u090f\u0928\u0902 \u0938\u0941\u0915\u0947\u0936\u093e \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c\u0903 \u092a\u092a\u094d\u0930\u091a\u094d\u091b \u0938\u092e\u0938\u094d\u0924\u0902 \u091c\u0917\u0924\u094d\u0915\u093e\u0930\u094d\u092f\u0915\u093e\u0930\u0923\u0932\u0915\u094d\u0937\u0923\u0902 \u0938\u0939 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u092e\u0928\u093e \u092a\u0930\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0915\u094d\u0937\u0930\u0947 \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u093f\u0915\u093e\u0932\u0947 \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0924 \u0907\u0924\u094d\u092f\u0941\u0915\u094d\u0924\u092e\u094d\u00a0\u0964 \u0924\u0924\u094d\u0938\u093e\u092e\u0930\u094d\u0925\u094d\u092f\u093e\u0924\u094d\u092a\u094d\u0930\u0932\u092f\u0947\u093d\u092a\u093f \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0947\u0935\u093e\u0915\u094d\u0937\u0930\u0947 \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0924\u0947 \u091c\u0917\u0924\u094d\u0924\u0924 \u090f\u0935\u094b\u0924\u094d\u092a\u0926\u094d\u092f\u0924 \u0907\u0924\u093f \u091a \u0938\u093f\u0926\u094d\u0927\u0902 \u092d\u0935\u0924\u093f\u00a0\u0964 \u0928 \u0939\u094d\u092f\u0915\u093e\u0930\u0923\u0947 \u0915\u093e\u0930\u094d\u092f\u0938\u094d\u092f \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e\u0928\u092e\u0941\u092a\u092a\u0926\u094d\u092f\u0924\u0947\u00a0\u0964 \u0909\u0915\u094d\u0924\u0902 \u091a \n\u2018\u0906\u0924\u094d\u092e\u0928 \u090f\u0937 \u092a\u094d\u0930\u093e\u0923\u094b \u091c\u093e\u092f\u0924\u0947\u2019 (\u092a\u094d\u0930. \u0909. \u0969\u00a0\u0964 \u0969)\n \u0907\u0924\u093f\u00a0\u0964 \u091c\u0917\u0924\u0936\u094d\u091a \u092f\u0928\u094d\u092e\u0942\u0932\u0902 \u0924\u0924\u094d\u092a\u0930\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u092a\u0930\u0902 \u0936\u094d\u0930\u0947\u092f \u0907\u0924\u093f \u0938\u0930\u094d\u0935\u094b\u092a\u0928\u093f\u0937\u0926\u093e\u0902 \u0928\u093f\u0936\u094d\u091a\u093f\u0924\u094b\u093d\u0930\u094d\u0925\u0903\u00a0\u0964 \u0905\u0928\u0928\u094d\u0924\u0930\u0902 \u091a\u094b\u0915\u094d\u0924\u092e\u094d \n\u2018\u0938 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0903 \u0938\u0930\u094d\u0935\u094b \u092d\u0935\u0924\u093f\u2019 (\u092a\u094d\u0930. \u0909. \u096a\u00a0\u0964 \u0967\u0966)\n \u0907\u0924\u093f\u00a0\u0964 \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u0902 \u091a \u0915\u094d\u0935 \u0924\u0930\u094d\u0939\u093f \u0924\u0926\u0915\u094d\u0937\u0930\u0902 \u0938\u0924\u094d\u092f\u0902 \u092a\u0941\u0930\u0941\u0937\u093e\u0916\u094d\u092f\u0902 \u0935\u093f\u091c\u094d\u091e\u0947\u092f\u092e\u093f\u0924\u093f ; \u0924\u0926\u0930\u094d\u0925\u094b\u093d\u092f\u0902 \u092a\u094d\u0930\u0936\u094d\u0928 \u0906\u0930\u092d\u094d\u092f\u0924\u0947\u00a0\u0964 \u0935\u0943\u0924\u094d\u0924\u093e\u0928\u094d\u0935\u093e\u0916\u094d\u092f\u093e\u0928\u0902 \u091a \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f \u0926\u0941\u0930\u094d\u0932\u092d\u0924\u094d\u0935\u091c\u094d\u091e\u093e\u092a\u0928\u0947\u0928 \u0924\u0932\u094d\u0932\u092c\u094d\u0927\u094d\u092f\u0930\u094d\u0925\u0902 \u092e\u0941\u092e\u0941\u0915\u094d\u0937\u0942\u0923\u093e\u0902 \u092f\u0924\u094d\u0928\u0935\u093f\u0936\u0947\u0937\u094b\u092a\u093e\u0926\u093e\u0928\u093e\u0930\u094d\u0925\u092e\u094d\u00a0\u0964 \u0939\u0947 \u092d\u0917\u0935\u0928\u094d , \u0939\u093f\u0930\u0923\u094d\u092f\u0928\u093e\u092d\u0903 \u0928\u093e\u092e\u0924\u0903 \u0915\u094b\u0938\u0932\u093e\u092f\u093e\u0902 \u092d\u0935\u0903 \u0915\u094c\u0938\u0932\u094d\u092f\u0903 \u0930\u093e\u091c\u092a\u0941\u0924\u094d\u0930\u0903 \u091c\u093e\u0924\u093f\u0924\u0903 \u0915\u094d\u0937\u0924\u094d\u0930\u093f\u092f\u0903 \u092e\u093e\u092e\u094d \u0909\u092a\u0947\u0924\u094d\u092f \u0909\u092a\u0917\u092e\u094d\u092f \u090f\u0924\u092e\u094d \u0909\u091a\u094d\u092f\u092e\u093e\u0928\u0902 \u092a\u094d\u0930\u0936\u094d\u0928\u092e\u094d \u0905\u092a\u0943\u091a\u094d\u091b\u0924\u00a0\u0964 \u0937\u094b\u0921\u0936\u0915\u0932\u0902 \u0937\u094b\u0921\u0936\u0938\u0919\u094d\u200d\u0916\u094d\u092f\u093e\u0915\u093e\u0903 \u0915\u0932\u093e \u0905\u0935\u092f\u0935\u093e \u0907\u0935\u093e\u0924\u094d\u092e\u0928\u094d\u092f\u0935\u093f\u0926\u094d\u092f\u093e\u0927\u094d\u092f\u093e\u0930\u094b\u092a\u093f\u0924\u0930\u0942\u092a\u093e \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u092a\u0941\u0930\u0941\u0937\u0947, \u0938\u094b\u093d\u092f\u0902 \u0937\u094b\u0921\u0936\u0915\u0932\u0903 ; \u0924\u0902 \u0937\u094b\u0921\u0936\u0915\u0932\u0902 \u0939\u0947 \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c, \u092a\u0941\u0930\u0941\u0937\u0902 \u0935\u0947\u0924\u094d\u0925 \u0924\u094d\u0935\u0902 \u0935\u093f\u091c\u093e\u0928\u093e\u0938\u093f\u00a0\u0964 \u0924\u092e\u094d \u0905\u0939\u0902 \u0930\u093e\u091c\u092a\u0941\u0924\u094d\u0930\u0902 \u0915\u0941\u092e\u093e\u0930\u0902 \u092a\u0943\u0937\u094d\u091f\u0935\u0928\u094d\u0924\u092e\u094d \u0905\u092c\u094d\u0930\u0935\u092e\u094d \u0909\u0915\u094d\u0924\u0935\u093e\u0928\u0938\u094d\u092e\u093f \u2014 \u0928\u093e\u0939\u092e\u093f\u092e\u0902 \u0935\u0947\u0926 \u092f\u0902 \u0924\u094d\u0935\u0902 \u092a\u0943\u091a\u094d\u091b\u0938\u0940\u0924\u093f\u00a0\u0964 \u090f\u0935\u092e\u0941\u0915\u094d\u0924\u0935\u0924\u094d\u092f\u092a\u093f \u092e\u092f\u094d\u092f\u091c\u094d\u091e\u093e\u0928\u092e\u0938\u092e\u094d\u092d\u093e\u0935\u092f\u0928\u094d\u0924\u0902 \u0924\u092e\u091c\u094d\u091e\u093e\u0928\u0947 \u0915\u093e\u0930\u0923\u092e\u0935\u093e\u0926\u093f\u0937\u092e\u094d \u2014 \u092f\u0926\u093f \u0915\u0925\u091e\u094d\u091a\u093f\u0924\u094d \u0905\u0939\u092e\u094d \u0907\u092e\u0902 \u0924\u094d\u0935\u092f\u093e \u092a\u0943\u0937\u094d\u091f\u0902 \u092a\u0941\u0930\u0941\u0937\u092e\u094d \u0905\u0935\u0947\u0926\u093f\u0937\u0902 \u0935\u093f\u0926\u093f\u0924\u0935\u093e\u0928\u0938\u094d\u092e\u093f, \u0915\u0925\u092e\u094d \u0905\u0924\u094d\u092f\u0928\u094d\u0924\u0936\u093f\u0937\u094d\u092f\u0917\u0941\u0923\u0935\u0924\u0947\u093d\u0930\u094d\u0925\u093f\u0928\u0947 \u0924\u0947 \u0924\u0941\u092d\u094d\u092f\u0902 \u0928 \u0905\u0935\u0915\u094d\u0937\u094d\u092f\u0902 \u0928\u094b\u0915\u094d\u0924\u0935\u093e\u0928\u0938\u094d\u092e\u093f \u0928 \u092c\u094d\u0930\u0942\u092f\u093e\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092d\u0942\u092f\u094b\u093d\u092a\u094d\u092f\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u092e\u0947\u0935\u093e\u0932\u0915\u094d\u0937\u094d\u092f \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u092f\u092f\u093f\u0924\u0941\u092e\u092c\u094d\u0930\u0935\u092e\u094d \u2014 \u0938\u092e\u0942\u0932\u0903 \u0938\u0939 \u092e\u0942\u0932\u0947\u0928 \u0935\u0948 \u090f\u0937\u0903 \u0905\u0928\u094d\u092f\u0925\u093e \u0938\u0928\u094d\u0924\u092e\u093e\u0924\u094d\u092e\u093e\u0928\u092e\u0928\u094d\u092f\u0925\u093e \u0915\u0941\u0930\u094d\u0935\u0928\u094d \u092f\u0903 \u0905\u0928\u0943\u0924\u092e\u094d \u0905\u092f\u0925\u093e\u092d\u0942\u0924\u093e\u0930\u094d\u0925\u092e\u094d \u0905\u092d\u093f\u0935\u0926\u0924\u093f, \u0938 \u092a\u0930\u093f\u0936\u0941\u0937\u094d\u092f\u0924\u093f \u0936\u094b\u0937\u092e\u0941\u092a\u0948\u0924\u093f \u0907\u0939\u0932\u094b\u0915\u092a\u0930\u0932\u094b\u0915\u093e\u092d\u094d\u092f\u093e\u0902 \u0935\u093f\u091a\u094d\u091b\u093f\u0926\u094d\u092f\u0924\u0947 \u0935\u093f\u0928\u0936\u094d\u092f\u0924\u093f\u00a0\u0964 \u092f\u0924 \u090f\u0935\u0902 \u091c\u093e\u0928\u0947 \u0924\u0938\u094d\u092e\u093e\u0924\u094d \u0928 \u0905\u0930\u094d\u0939\u093e\u092e\u093f \u0905\u0939\u092e\u094d \u0905\u0928\u0943\u0924\u0902 \u0935\u0915\u094d\u0924\u0941\u0902 \u092e\u0942\u0922\u0935\u0924\u094d\u00a0\u0964 \u0938 \u0930\u093e\u091c\u092a\u0941\u0924\u094d\u0930\u0903 \u090f\u0935\u0902 \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u092f\u093f\u0924\u0903 \u0924\u0942\u0937\u094d\u0923\u0940\u0902 \u0935\u094d\u0930\u0940\u0921\u093f\u0924\u0903 \u0930\u0925\u092e\u094d \u0906\u0930\u0941\u0939\u094d\u092f \u092a\u094d\u0930\u0935\u0935\u094d\u0930\u093e\u091c \u092a\u094d\u0930\u0917\u0924\u0935\u093e\u0928\u094d \u092f\u0925\u093e\u0917\u0924\u092e\u0947\u0935\u00a0\u0964 \u0905\u0924\u094b \u0928\u094d\u092f\u093e\u092f\u0924 \u0909\u092a\u0938\u0928\u094d\u0928\u093e\u092f \u092f\u094b\u0917\u094d\u092f\u093e\u092f \u091c\u093e\u0928\u0924\u093e \u0935\u093f\u0926\u094d\u092f\u093e \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u0948\u0935 ; \u0905\u0928\u0943\u0924\u0902 \u091a \u0928 \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u0902 \u0938\u0930\u094d\u0935\u093e\u0938\u094d\u0935\u092a\u094d\u092f\u0935\u0938\u094d\u0925\u093e\u0938\u094d\u0935\u093f\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u0938\u093f\u0926\u094d\u0927\u0902 \u092d\u0935\u0924\u093f\u00a0\u0964 \u0924\u0902 \u092a\u0941\u0930\u0941\u0937\u0902 \u0924\u094d\u0935\u093e \u0924\u094d\u0935\u093e\u0902 \u092a\u0943\u091a\u094d\u091b\u093e\u092e\u093f \u092e\u092e \u0939\u0943\u0926\u093f \u0935\u093f\u091c\u094d\u091e\u0947\u092f\u0924\u094d\u0935\u0947\u0928 \u0936\u0932\u094d\u092f\u092e\u093f\u0935 \u0938\u094d\u0925\u093f\u0924\u092e\u094d , \u0915\u094d\u0935 \u0905\u0938\u094c \u0935\u0930\u094d\u0924\u0924\u0947 \u0935\u093f\u091c\u094d\u091e\u0947\u092f\u0903 \u092a\u0941\u0930\u0941\u0937 \u0907\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014Then Sukesa, son of Bharadvaja questioned him:\n\u201cIt has been stated that all the universe in the nature of effects and causes, together with the knowing self, enters into the supreme, undecaying self, during sleep. It will be clear by necessary implication that the whole universe enters into that undecaying atman alone, even in pralaya and that it is produced from thence. For, the absorption an effect into what is not its cause is inappropriate. It has also been said that this Prana is born of the atman . The settled meaning of all the Upanishads is that the highest consummation results from the knowledge of that which is the cause of the universe. It has also been subsequently said \u2018he, all-knowing, becomes all.\u2019 It should be stated where then that undecaying, true atman , known as Purusha , is to be known; for that purpose, this question is asked.\u201d\nThe recital of the anecdote is for the purpose of stimulating those, who wish for emancipation, to special activity, in attaining knowledge by proclaiming the difficulty of attaining it.\n\u201cOh Bhagavan ! the son of a king, warrior by caste, born in Kosala , and named Hiranyagarbha approached me and asked me the following questions: \u2018Oh Bharadvaja , do you know the Purusha of sixteen kalas, that is the Purusha in whom, the kalas, i.e., parts as it were, sixteen in number, are superposed by ignorance.\u201d\nI told the prince who questioned me \u2018I know not him of whom you ask.\u2019 I told him the reason of my ignorance as he did not believe that I was ignorant, though I had thus replied. \u2018If at all I knew the Purusha, whom you ask about, how should I not tell it to you, a supplicant, eminently possessing the qualities of a true disciple?\u2019 Seeing again that he did not appear to believe, I said to make him believe, \u2018he who making his atman what it is not, speaks what is not true, is dried up, root and all, i.e., is destroyed both in this world and in the next. As I know this, I dare not, like an ignorant man, speak an untruth.\u2019 The prince thus made to believe, silently touched with shame, got into the chariot and went back the way he came. Therefore, it is established that knowledge should be imparted by the knower to one who has approached him duly and is worthy of it (knowledge); and that falsehood should not be uttered under any circumstances. I ask you about that Purusha who is in my heart, as a knowable, i.e., (being unknown) like a shaft. Where is this Purusha who should be known?"
+        "text": "अथ ह एनं सुकेशा भारद्वाजः पप्रच्छ समस्तं जगत्कार्यकारणलक्षणं सह विज्ञानात्मना परस्मिन्नक्षरे सुषुप्तिकाले सम्प्रतिष्ठत इत्युक्तम् । तत्सामर्थ्यात्प्रलयेऽपि तस्मिन्नेवाक्षरे सम्प्रतिष्ठते जगत्तत एवोत्पद्यत इति च सिद्धं भवति । न ह्यकारणे कार्यस्य सम्प्रतिष्ठानमुपपद्यते । उक्तं च ‘आत्मन एष प्राणो जायते’ (प्र. उ. ३ । ३) इति । जगतश्च यन्मूलं तत्परिज्ञानात्परं श्रेय इति सर्वोपनिषदां निश्चितोऽर्थः । अनन्तरं चोक्तम् ‘स सर्वज्ञः सर्वो भवति’ (प्र. उ. ४ । १०) इति । वक्तव्यं च क्व तर्हि तदक्षरं सत्यं पुरुषाख्यं विज्ञेयमिति; तदर्थोऽयं प्रश्न आरभ्यते । वृत्तान्वाख्यानं च विज्ञानस्य दुर्लभत्वज्ञापनेन तल्लब्ध्यर्थं मुमुक्षूणां यत्नविशेषोपादानार्थम् । हे भगवन्, हिरण्यनाभः नामतः कोसलायां भवः कौसल्यः राजपुत्रः जातितः क्षत्रियः माम् उपेत्य उपगम्य एतम् उच्यमानं प्रश्नम् अपृच्छत । षोडशकलं षोडशसङ्ख्याकाः कला अवयवा इवात्मन्यविद्याध्यारोपितरूपा यस्मिन्पुरुषे, सोऽयं षोडशकलः; तं षोडशकलं हे भारद्वाज, पुरुषं वेत्थ त्वं विजानासि । तम् अहं राजपुत्रं कुमारं पृष्टवन्तम् अब्रवम् उक्तवानस्मि — नाहमिमं वेद यं त्वं पृच्छसीति । एवमुक्तवत्यपि मय्यज्ञानमसम्भावयन्तं तमज्ञाने कारणमवादिषम् — यदि कथञ्चित् अहम् इमं त्वया पृष्टं पुरुषम् अवेदिषं विदितवानस्मि, कथम् अत्यन्तशिष्यगुणवतेऽर्थिने ते तुभ्यं न अवक्ष्यं नोक्तवानस्मि न ब्रूयामित्यर्थः । भूयोऽप्यप्रत्ययमेवालक्ष्य प्रत्याययितुमब्रवम् — समूलः सह मूलेन वै एषः अन्यथा सन्तमात्मानमन्यथा कुर्वन् यः अनृतम् अयथाभूतार्थम् अभिवदति, स परिशुष्यति शोषमुपैति इहलोकपरलोकाभ्यां विच्छिद्यते विनश्यति । यत एवं जाने तस्मात् न अर्हामि अहम् अनृतं वक्तुं मूढवत् । स राजपुत्रः एवं प्रत्यायितः तूष्णीं व्रीडितः रथम् आरुह्य प्रवव्राज प्रगतवान् यथागतमेव । अतो न्यायत उपसन्नाय योग्याय जानता विद्या वक्तव्यैव; अनृतं च न वक्तव्यं सर्वास्वप्यवस्थास्वित्येतत्सिद्धं भवति । तं पुरुषं त्वा त्वां पृच्छामि मम हृदि विज्ञेयत्वेन शल्यमिव स्थितम्, क्व असौ वर्तते विज्ञेयः पुरुष इति ॥"
       }
     ],
     "commentary_faqs": []
@@ -41,32 +274,91 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-6",
-      "chapter_name": "Chapter 6",
+      "chapter_name": "Question 6: Sixteen Kalās",
       "verse_number": 2,
       "chapter_number": 6,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145341.html"
+      "mantra_ref": "6.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u0948 \u0938 \u0939\u094b\u0935\u093e\u091a\u0947\u0939\u0948\u0935\u093e\u0928\u094d\u0924\u0903\u0936\u0930\u0940\u0930\u0947 \u0938\u094b\u092e\u094d\u092f \u0938 \u092a\u0941\u0930\u0941\u0937\u094b \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0947\u0924\u093e\u0903 \u0937\u094b\u0921\u0936 \u0915\u0932\u093e\u0903 \u092a\u094d\u0930\u092d\u0935\u0928\u094d\u0924\u0940\u0924\u093f \u0965 \u0968 \u0965",
-    "transliteration": "tasmai sa hov\u0101ca | ihaiiv\u0101nta\u1e25\u015bar\u012bre sobhya sa puru\u1e63o yasminnat\u0101\u1e25 \u1e63o\u1e0da\u015bakal\u0101\u1e25 prabhavant\u012bti || 2 ||",
-    "translation": "2. To him he replied: \u2018even here, within the body, good-looking youth! is that Purusha of whom these sixteen kalas are born.",
-    "word_by_word": [],
+    "section_title": "Question 6: Sixteen Kalās",
+    "sanskrit_shloka": "तस्मै स होवाचेहैवान्तःशरीरे सोम्य स पुरुषो यस्मिन्नेताः षोडश कलाः प्रभवन्तीति ॥ २ ॥",
+    "transliteration": "tasmai sa hovācehaivāntaḥśarīre somya sa puruṣo yasminnetāḥ ṣoḍaśa kalāḥ prabhavantīti || 2 ||",
+    "translation": "2. To him he replied: ‘even here, within the body, good-looking youth! is that Purusha of whom these sixteen kalas are born.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मै",
+        "word_english": "to him (the questioner Sukeśā)",
+        "grammar_role": "तद् · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "तस्मै"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the teacher Pippalāda)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "होवाचेहैवान्तःशरीरे",
+        "word_english": "verily said: here itself, within the body (the space of the heart-lotus)",
+        "grammar_role": "ह · अव्यय (निपात) + √वच् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद + इह · अव्यय + एव · अव्यय + अन्तःशरीर · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "ह + उवाच + इह + एव + अन्तः-शरीरे"
+      },
+      {
+        "word_sanskrit": "सोम्य",
+        "word_english": "O dear one",
+        "grammar_role": "सोम्य · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "सोम्य"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "that",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "पुरुषो",
+        "word_english": "the Person (Self)",
+        "grammar_role": "पुरुष · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "यस्मिन्नेताः",
+        "word_english": "in whom these",
+        "grammar_role": "यद् · सप्तमी·एकवचन·पुंलिङ्ग + एतद् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "यस्मिन् + एताः"
+      },
+      {
+        "word_sanskrit": "षोडश",
+        "word_english": "sixteen",
+        "grammar_role": "षोडशन् · प्रथमा·बहुवचन·स्त्रीलिङ्ग (संख्या; agreeing with कलाः)",
+        "root": "षोडश"
+      },
+      {
+        "word_sanskrit": "कलाः",
+        "word_english": "parts (prāṇa etc.)",
+        "grammar_role": "कला · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "कलाः"
+      },
+      {
+        "word_sanskrit": "प्रभवन्तीति",
+        "word_english": "arise (originate) — thus",
+        "grammar_role": "प्र+√भू · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद + इति · अव्यय",
+        "root": "प्रभवन्ति + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "2. To him he replied: \u2018even here, within the body, good-looking youth! is that Purusha of whom these sixteen kalas are born."
+        "text": "2. To him he replied: ‘even here, within the body, good-looking youth! is that Purusha of whom these sixteen kalas are born."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0938\u094d\u092e\u0948 \u0938 \u0939\u094b\u0935\u093e\u091a\u00a0\u0964 \u0907\u0939\u0948\u0935 \u0905\u0928\u094d\u0924\u0903\u0936\u0930\u0940\u0930\u0947 \u0939\u0943\u0926\u092f\u092a\u0941\u0923\u094d\u0921\u0930\u0940\u0915\u093e\u0915\u093e\u0936\u092e\u0927\u094d\u092f\u0947 \u0939\u0947 \u0938\u094b\u092e\u094d\u092f \u0938 \u092a\u0941\u0930\u0941\u0937\u0903, \u0928 \u0926\u0947\u0936\u093e\u0928\u094d\u0924\u0930\u0947 \u0935\u093f\u091c\u094d\u091e\u0947\u092f\u0903\u00a0\u0964 \u092f\u0938\u094d\u092e\u093f\u0928\u094d \u090f\u0924\u093e\u0903 \u0909\u091a\u094d\u092f\u092e\u093e\u0928\u093e\u0903 \u0937\u094b\u0921\u0936 \u0915\u0932\u093e\u0903 \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u094d\u092f\u093e\u0903 \u092a\u094d\u0930\u092d\u0935\u0928\u094d\u0924\u093f \u0909\u0924\u094d\u092a\u0926\u094d\u092f\u0928\u094d\u0924 \u0907\u0924\u093f \u0937\u094b\u0921\u0936\u092d\u093f\u0903 \u0915\u0932\u093e\u092d\u093f\u0930\u0941\u092a\u093e\u0927\u093f\u092d\u0942\u0924\u093e\u092d\u093f\u0903 \u0938\u0915\u0932 \u0907\u0935 \u0928\u093f\u0937\u094d\u0915\u0932\u0903 \u092a\u0941\u0930\u0941\u0937\u094b \u0932\u0915\u094d\u0937\u094d\u092f\u0924\u0947\u093d\u0935\u093f\u0926\u094d\u092f\u092f\u0947\u0924\u093f ; \u0924\u0926\u0941\u092a\u093e\u0927\u093f\u0915\u0932\u093e\u0927\u094d\u092f\u093e\u0930\u094b\u092a\u093e\u092a\u0928\u092f\u0928\u0947\u0928 \u0935\u093f\u0926\u094d\u092f\u092f\u093e \u0938 \u092a\u0941\u0930\u0941\u0937\u0903 \u0915\u0947\u0935\u0932\u094b \u0926\u0930\u094d\u0936\u092f\u093f\u0924\u0935\u094d\u092f \u0907\u0924\u093f \u0915\u0932\u093e\u0928\u093e\u0902 \u0924\u0924\u094d\u092a\u094d\u0930\u092d\u0935\u0924\u094d\u0935\u092e\u0941\u091a\u094d\u092f\u0924\u0947 \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u0940\u0928\u093e\u092e\u094d\u00a0\u0964 \u0905\u0924\u094d\u092f\u0928\u094d\u0924\u0928\u093f\u0930\u094d\u0935\u093f\u0936\u0947\u0937\u0947 \u0939\u094d\u092f\u0926\u094d\u0935\u092f\u0947 \u0935\u093f\u0936\u0941\u0926\u094d\u0927\u0947 \u0924\u0924\u094d\u0924\u094d\u0935\u0947 \u0928 \u0936\u0915\u094d\u092f\u094b\u093d\u0927\u094d\u092f\u093e\u0930\u094b\u092a\u092e\u0928\u094d\u0924\u0930\u0947\u0923 \u092a\u094d\u0930\u0924\u093f\u092a\u093e\u0926\u094d\u092f\u092a\u094d\u0930\u0924\u093f\u092a\u093e\u0926\u0928\u093e\u0926\u093f\u0935\u094d\u092f\u0935\u0939\u093e\u0930\u0903 \u0915\u0930\u094d\u0924\u0941\u092e\u093f\u0924\u093f \u0915\u0932\u093e\u0928\u093e\u0902 \u092a\u094d\u0930\u092d\u0935\u0938\u094d\u0925\u093f\u0924\u094d\u092f\u092a\u094d\u092f\u092f\u093e \u0906\u0930\u094b\u092a\u094d\u092f\u0928\u094d\u0924\u0947\u093d\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0937\u092f\u093e\u0903\u00a0\u0964 \u091a\u0948\u0924\u0928\u094d\u092f\u093e\u0935\u094d\u092f\u0924\u093f\u0930\u0947\u0915\u0947\u0923\u0948\u0935 \u0939\u093f \u0915\u0932\u093e \u091c\u093e\u092f\u092e\u093e\u0928\u093e\u0938\u094d\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u094d\u092f\u0903 \u092a\u094d\u0930\u0932\u0940\u092f\u092e\u093e\u0928\u093e\u0936\u094d\u091a \u0938\u0930\u094d\u0935\u0926\u093e \u0932\u0915\u094d\u0937\u094d\u092f\u0928\u094d\u0924\u0947\u00a0\u0964 \u0905\u0924 \u090f\u0935 \u092d\u094d\u0930\u093e\u0928\u094d\u0924\u093e\u0903 \u0915\u0947\u091a\u093f\u0924\u094d \u2014 \u0905\u0917\u094d\u0928\u093f\u0938\u0902\u092f\u094b\u0917\u093e\u0926\u094d\u0927\u0943\u0924\u092e\u093f\u0935 \u0918\u091f\u093e\u0926\u094d\u092f\u093e\u0915\u093e\u0930\u0947\u0923 \u091a\u0948\u0924\u0928\u094d\u092f\u092e\u0947\u0935 \u092a\u094d\u0930\u0924\u093f\u0915\u094d\u0937\u0923\u0902 \u091c\u093e\u092f\u0924\u0947 \u0928\u0936\u094d\u092f\u0924\u0940\u0924\u093f\u00a0\u0964 \u0924\u0928\u094d\u0928\u093f\u0930\u094b\u0927\u0947 \u0936\u0942\u0928\u094d\u092f\u092e\u0947\u0935 \u0938\u0930\u094d\u0935\u092e\u093f\u0924\u093f \u0905\u092a\u0930\u0947\u00a0\u0964 \u0918\u091f\u093e\u0926\u093f\u0935\u093f\u0937\u092f\u0902 \u091a\u0948\u0924\u0928\u094d\u092f\u0902 \u091a\u0947\u0924\u092f\u093f\u0926\u0941\u0930\u094d\u0928\u093f\u0924\u094d\u092f\u0938\u094d\u092f\u093e\u0924\u094d\u092e\u0928\u094b\u093d\u0928\u093f\u0924\u094d\u092f\u0902 \u091c\u093e\u092f\u0924\u0947 \u0935\u093f\u0928\u0936\u094d\u092f\u0924\u0940\u0924\u094d\u092f\u092a\u0930\u0947\u00a0\u0964 \u091a\u0948\u0924\u0928\u094d\u092f\u0902 \u092d\u0942\u0924\u0927\u0930\u094d\u092e \u0907\u0924\u093f \u0932\u094c\u0915\u093e\u092f\u0924\u093f\u0915\u093e\u0903\u00a0\u0964 \u0905\u0928\u092a\u093e\u092f\u094b\u092a\u091c\u0928\u0927\u0930\u094d\u092e\u0915\u091a\u0948\u0924\u0928\u094d\u092f\u092e\u093e\u0924\u094d\u092e\u0948\u0935 \u0928\u093e\u092e\u0930\u0942\u092a\u093e\u0926\u094d\u092f\u0941\u092a\u093e\u0927\u093f\u0927\u0930\u094d\u092e\u0948\u0903 \u092a\u094d\u0930\u0924\u094d\u092f\u0935\u092d\u093e\u0938\u0924\u0947 \n\u2018\u0938\u0924\u094d\u092f\u0902 \u091c\u094d\u091e\u093e\u0928\u092e\u0928\u0928\u094d\u0924\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u2019 (\u0924\u0948. \u0909. \u0968\u00a0\u0964 \u0967\u00a0\u0964 \u0967)\n\u2018\u092a\u094d\u0930\u091c\u094d\u091e\u093e\u0928\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u2019 (\u0910. \u0909. \u0969\u00a0\u0964 \u0967\u00a0\u0964 \u0969)\n\u2018\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u092e\u093e\u0928\u0928\u094d\u0926\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u2019 (\u092c\u0943. \u0909. \u0969\u00a0\u0964 \u096f\u00a0\u0964 \u0968\u096e)\n\u2018\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0918\u0928 \u090f\u0935\u2019 (\u092c\u0943. \u0909. \u0968\u00a0\u0964 \u096a\u00a0\u0964 \u0967\u0968)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0936\u094d\u0930\u0941\u0924\u093f\u092d\u094d\u092f\u0903\u00a0\u0964 \u0938\u094d\u0935\u0930\u0942\u092a\u0935\u094d\u092f\u092d\u093f\u091a\u093e\u0930\u093f\u0937\u0941 \u092a\u0926\u093e\u0930\u094d\u0925\u0947\u0937\u0941 \u091a\u0948\u0924\u0928\u094d\u092f\u0938\u094d\u092f\u093e\u0935\u094d\u092f\u092d\u093f\u091a\u093e\u0930\u093e\u0926\u094d\u092f\u0925\u093e \u092f\u0925\u093e \u092f\u094b \u092f\u0903 \u092a\u0926\u093e\u0930\u094d\u0925\u094b \u091c\u094d\u091e\u093e\u092f\u0924\u0947, \u0924\u0925\u093e \u0924\u0925\u093e \u091c\u094d\u091e\u093e\u092f\u092e\u093e\u0928\u0924\u094d\u0935\u093e\u0926\u0947\u0935 \u0924\u0938\u094d\u092f \u0924\u0938\u094d\u092f \u091a\u0948\u0924\u0928\u094d\u092f\u0938\u094d\u092f\u093e\u0935\u094d\u092f\u092d\u093f\u091a\u093e\u0930\u093f\u0924\u094d\u0935\u092e\u094d\u00a0\u0964 \u0935\u0938\u094d\u0924\u0941\u0924\u0924\u094d\u0924\u094d\u0935\u0902 \u092d\u0935\u0924\u093f \u0915\u093f\u091e\u094d\u091a\u093f\u0924\u094d , \u0928 \u091c\u094d\u091e\u093e\u092f\u0924 \u0907\u0924\u093f \u091a\u093e\u0928\u0941\u092a\u092a\u0928\u094d\u0928\u092e\u094d ; \u0930\u0942\u092a\u0902 \u091a \u0926\u0943\u0936\u094d\u092f\u0924\u0947, \u0928 \u091a\u093e\u0938\u094d\u0924\u093f \u091a\u0915\u094d\u0937\u0941\u0930\u093f\u0924\u093f \u092f\u0925\u093e\u00a0\u0964 \u0935\u094d\u092f\u092d\u093f\u091a\u0930\u0924\u093f \u0924\u0941 \u091c\u094d\u091e\u0947\u092f\u092e\u094d ; \u0928 \u091c\u094d\u091e\u093e\u0928\u0902 \u0935\u094d\u092f\u092d\u093f\u091a\u0930\u0924\u093f \u0915\u0926\u093e\u091a\u093f\u0926\u092a\u093f \u091c\u094d\u091e\u0947\u092f\u092e\u094d , \u091c\u094d\u091e\u0947\u092f\u093e\u092d\u093e\u0935\u0947\u093d\u092a\u093f \u091c\u094d\u091e\u0947\u092f\u093e\u0928\u094d\u0924\u0930\u0947 \u092d\u093e\u0935\u093e\u091c\u094d\u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f\u00a0\u0964 \u0928 \u0939\u093f \u091c\u094d\u091e\u093e\u0928\u0947\u093d\u0938\u0924\u093f \u091c\u094d\u091e\u0947\u092f\u0902 \u0928\u093e\u092e \u092d\u0935\u0924\u093f \u0915\u0938\u094d\u092f\u091a\u093f\u0924\u094d ; \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u0947\u093d\u0926\u0930\u094d\u0936\u0928\u093e\u0924\u094d \u2014 \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f\u093e\u092a\u093f \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u0947\u093d\u092d\u093e\u0935\u093e\u091c\u094d\u091c\u094d\u091e\u0947\u092f\u0935\u091c\u094d\u091c\u094d\u091e\u093e\u0928\u0938\u094d\u0935\u0930\u0942\u092a\u0938\u094d\u092f \u0935\u094d\u092f\u092d\u093f\u091a\u093e\u0930 \u0907\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u091c\u094d\u091e\u0947\u092f\u093e\u0935\u092d\u093e\u0938\u0915\u0938\u094d\u092f \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f\u093e\u0932\u094b\u0915\u0935\u091c\u094d\u091c\u094d\u091e\u0947\u092f\u093e\u092d\u093f\u0935\u094d\u092f\u0915\u094d\u0924\u094d\u092f\u0930\u094d\u0925\u0924\u094d\u0935\u093e\u0924\u094d\u0938\u094d\u0935\u0935\u094d\u092f\u0919\u094d\u0917\u094d\u092f\u093e\u092d\u093e\u0935\u0947 \u0906\u0932\u094b\u0915\u093e\u092d\u093e\u0935\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u093f\u0935\u0924\u094d \u0905\u092a\u094d\u0930\u0924\u0940\u0924\u0947\u0937\u0941 \u0935\u0938\u094d\u0924\u0941\u0937\u0941 \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u0947 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u092d\u093e\u0935\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u0947\u0903\u00a0\u0964 \u0928 \u0939\u094d\u092f\u0928\u094d\u0927\u0915\u093e\u0930\u0947 \u091a\u0915\u094d\u0937\u0941\u0937\u094b \u0930\u0942\u092a\u093e\u0928\u0941\u092a\u0932\u092c\u094d\u0927\u094c \u091a\u0915\u094d\u0937\u0941\u0937\u094b\u093d\u092d\u093e\u0935\u0903 \u0936\u0915\u094d\u092f\u0903 \u0915\u0932\u094d\u092a\u092f\u093f\u0924\u0941\u092e\u0935\u0948\u0928\u093e\u0936\u093f\u0915\u0947\u0928\u00a0\u0964 \u0935\u0948\u0928\u093e\u0936\u093f\u0915\u094b \u091c\u094d\u091e\u0947\u092f\u093e\u092d\u093e\u0935\u0947 \u091c\u094d\u091e\u093e\u0928\u093e\u092d\u093e\u0935\u0902 \u0915\u0932\u094d\u092a\u092f\u0924\u094d\u092f\u0947\u0935\u0947\u0924\u093f \u091a\u0947\u0924\u094d , \u092f\u0947\u0928 \u0924\u0926\u092d\u093e\u0935\u0902 \u0915\u0932\u094d\u092a\u092f\u0947\u0924\u094d\u0924\u0938\u094d\u092f\u093e\u092d\u093e\u0935\u0903 \u0915\u0947\u0928 \u0915\u0932\u094d\u092a\u094d\u092f\u0924 \u0907\u0924\u093f \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u0902 \u0935\u0948\u0928\u093e\u0936\u093f\u0915\u0947\u0928 ; \u0924\u0926\u092d\u093e\u0935\u0938\u094d\u092f\u093e\u092a\u093f \u091c\u094d\u091e\u0947\u092f\u0924\u094d\u0935\u093e\u091c\u094d\u091c\u094d\u091e\u093e\u0928\u093e\u092d\u093e\u0935\u0947 \u0924\u0926\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u0947\u0903\u00a0\u0964 \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f \u091c\u094d\u091e\u0947\u092f\u093e\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u0924\u094d\u0935\u093e\u091c\u094d\u091c\u094d\u091e\u0947\u092f\u093e\u092d\u093e\u0935\u0947 \u091c\u094d\u091e\u093e\u0928\u093e\u092d\u093e\u0935 \u0907\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0905\u092d\u093e\u0935\u0938\u094d\u092f\u093e\u092a\u093f \u091c\u094d\u091e\u0947\u092f\u0924\u094d\u0935\u093e\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u093e\u0924\u094d \u2014 \u0905\u092d\u093e\u0935\u094b\u093d\u092a\u093f \u091c\u094d\u091e\u0947\u092f\u094b\u093d\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u094d\u092f\u0924\u0947 \u0935\u0948\u0928\u093e\u0936\u093f\u0915\u0948\u0930\u094d\u0928\u093f\u0924\u094d\u092f\u0936\u094d\u091a\u00a0\u0964 \u0924\u0926\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u0902 \u091a\u0947\u091c\u094d\u091c\u094d\u091e\u093e\u0928\u0902 \u0928\u093f\u0924\u094d\u092f\u0902 \u0915\u0932\u094d\u092a\u093f\u0924\u0902 \u0938\u094d\u092f\u093e\u0924\u094d\u00a0\u0964 \u0924\u0926\u092d\u093e\u0935\u0938\u094d\u092f \u091a \u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u092e\u0915\u0924\u094d\u0935\u093e\u0926\u092d\u093e\u0935\u0924\u094d\u0935\u0902 \u091a \u0935\u093e\u0919\u094d\u092e\u093e\u0924\u094d\u0930\u092e\u0947\u0935 ; \u0928 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0924\u094b\u093d\u092d\u093e\u0935\u0924\u094d\u0935\u092e\u0928\u093f\u0924\u094d\u092f\u0924\u094d\u0935\u0902 \u091a \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f\u00a0\u0964 \u0928 \u091a \u0928\u093f\u0924\u094d\u092f\u0938\u094d\u092f \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f\u093e\u092d\u093e\u0935\u0928\u093e\u092e\u092e\u093e\u0924\u094d\u0930\u093e\u0927\u094d\u092f\u093e\u0930\u094b\u092a\u0947 \u0915\u093f\u091e\u094d\u091a\u093f\u0928\u094d\u0928\u0936\u094d\u091b\u093f\u0928\u094d\u0928\u092e\u094d\u00a0\u0964 \u0905\u0925\u093e\u092d\u093e\u0935\u094b \u091c\u094d\u091e\u0947\u092f\u094b\u093d\u092a\u093f \u0938\u0928\u094d \u091c\u094d\u091e\u093e\u0928\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924 \u0907\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 \u0924\u0930\u094d\u0939\u093f \u091c\u094d\u091e\u0947\u092f\u093e\u092d\u093e\u0935\u094b \u091c\u094d\u091e\u093e\u0928\u093e\u092d\u093e\u0935\u0903\u00a0\u0964 \u091c\u094d\u091e\u0947\u092f\u0902 \u091c\u094d\u091e\u093e\u0928\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u092e\u094d ; \u0928 \u0924\u0941 \u091c\u094d\u091e\u093e\u0928\u0902 \u091c\u094d\u091e\u0947\u092f\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u092e\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0936\u092c\u094d\u0926\u092e\u093e\u0924\u094d\u0930\u0924\u094d\u0935\u093e\u0926\u094d\u0935\u093f\u0936\u0947\u0937\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u0947\u0903\u00a0\u0964 \u091c\u094d\u091e\u0947\u092f\u091c\u094d\u091e\u093e\u0928\u092f\u094b\u0930\u0947\u0915\u0924\u094d\u0935\u0902 \u091a\u0947\u0926\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u094d\u092f\u0924\u0947, \u091c\u094d\u091e\u0947\u092f\u0902 \u091c\u094d\u091e\u093e\u0928\u0935\u094d\u092f\u093e\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u092e\u094d , \u0928 \u091c\u094d\u091e\u0947\u092f\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u0902 \u091c\u094d\u091e\u093e\u0928\u092e\u094d \u0907\u0924\u093f \u0924\u0941 \u0936\u092c\u094d\u0926\u092e\u093e\u0924\u094d\u0930\u092e\u0947\u0935 \u0924\u0924\u094d \u2014 \u0935\u0939\u094d\u0928\u093f\u0930\u0917\u094d\u0928\u093f\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u0903, \u0905\u0917\u094d\u0928\u093f\u0930\u094d\u0928 \u0935\u0939\u094d\u0928\u093f\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924 \u0907\u0924\u093f \u092f\u0926\u094d\u0935\u0924\u094d \u2014 \u0905\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u094d\u092f\u092e\u094d\u00a0\u0964 \u091c\u094d\u091e\u0947\u092f\u0935\u094d\u092f\u0924\u093f\u0930\u0947\u0915\u0947 \u0924\u0941 \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f \u091c\u094d\u091e\u0947\u092f\u093e\u092d\u093e\u0935\u0947 \u091c\u094d\u091e\u093e\u0928\u093e\u092d\u093e\u0935\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u093f\u0903 \u0938\u093f\u0926\u094d\u0927\u093e\u00a0\u0964 \u091c\u094d\u091e\u0947\u092f\u093e\u092d\u093e\u0935\u0947\u093d\u0926\u0930\u094d\u0936\u0928\u093e\u0926\u092d\u093e\u0935\u094b \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f\u0947\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u0947 \u091c\u094d\u091e\u092a\u094d\u0924\u094d\u092f\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u093e\u0924\u094d \u2014 \u0935\u0948\u0928\u093e\u0936\u093f\u0915\u0948\u0930\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u094d\u092f\u0924\u0947 \u0939\u093f \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u0947\u093d\u092a\u093f \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0938\u094d\u0924\u093f\u0924\u094d\u0935\u092e\u094d\u00a0\u0964 \u0924\u0924\u094d\u0930\u093e\u092a\u093f \u091c\u094d\u091e\u0947\u092f\u0924\u094d\u0935\u092e\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u094d\u092f\u0924\u0947 \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f \u0938\u094d\u0935\u0947\u0928\u0948\u0935\u0947\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u092d\u0947\u0926\u0938\u094d\u092f \u0938\u093f\u0926\u094d\u0927\u0924\u094d\u0935\u093e\u0924\u094d \u2014 \u0938\u093f\u0926\u094d\u0927\u0902 \u0939\u094d\u092f\u092d\u093e\u0935\u0935\u093f\u091c\u094d\u091e\u0947\u092f\u0935\u093f\u0937\u092f\u0938\u094d\u092f \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f\u093e\u092d\u093e\u0935\u091c\u094d\u091e\u0947\u092f\u0935\u094d\u092f\u0924\u093f\u0930\u0947\u0915\u093e\u091c\u094d\u091c\u094d\u091e\u0947\u092f\u091c\u094d\u091e\u093e\u0928\u092f\u094b\u0930\u0928\u094d\u092f\u0924\u094d\u0935\u092e\u094d\u00a0\u0964 \u0928 \u0939\u093f \u0924\u0924\u094d\u0938\u093f\u0926\u094d\u0927\u0902 \u092e\u0943\u0924\u092e\u093f\u0935\u094b\u091c\u094d\u091c\u0940\u0935\u092f\u093f\u0924\u0941\u0902 \u092a\u0941\u0928\u0930\u0928\u094d\u092f\u0925\u093e \u0915\u0930\u094d\u0924\u0941\u0902 \u0936\u0915\u094d\u092f\u0924\u0947 \u0935\u0948\u0928\u093e\u0936\u093f\u0915\u0936\u0924\u0948\u0930\u092a\u093f\u00a0\u0964 \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f \u0938\u094d\u0935\u093e\u091c\u094d\u091e\u0947\u092f\u0924\u094d\u0935\u0947 \u0924\u0926\u092a\u094d\u092f\u0928\u094d\u092f\u0947\u0928 \u0924\u0926\u092a\u094d\u092f\u0928\u094d\u092f\u0947\u0928\u0947\u0924\u093f \u0924\u094d\u0935\u0924\u094d\u092a\u0915\u094d\u0937\u0947\u093d\u0924\u093f\u092a\u094d\u0930\u0938\u0919\u094d\u0917 \u0907\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0924\u0926\u094d\u0935\u093f\u092d\u093e\u0917\u094b\u092a\u092a\u0924\u094d\u0924\u0947\u0903 \u0938\u0930\u094d\u0935\u0938\u094d\u092f \u2014 \u092f\u0926\u093e \u0939\u093f \u0938\u0930\u094d\u0935\u0902 \u091c\u094d\u091e\u0947\u092f\u0902 \u0915\u0938\u094d\u092f\u091a\u093f\u0924\u094d , \u0924\u0926\u093e \u0924\u0926\u094d\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u0902 \u091c\u094d\u091e\u093e\u0928\u0902 \u091c\u094d\u091e\u093e\u0928\u092e\u0947\u0935\u0947\u0924\u093f \u0926\u094d\u0935\u093f\u0924\u0940\u092f\u094b \u0935\u093f\u092d\u093e\u0917 \u090f\u0935\u093e\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u094d\u092f\u0924\u0947\u093d\u0935\u0948\u0928\u093e\u0936\u093f\u0915\u0948\u0903\u00a0\u0964 \u0928 \u0924\u0943\u0924\u0940\u092f\u0938\u094d\u0924\u0926\u094d\u0935\u093f\u0937\u092f \u0907\u0924\u094d\u092f\u0928\u0935\u0938\u094d\u0925\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u093f\u0903\u00a0\u0964 \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f \u0938\u094d\u0935\u0947\u0928\u0948\u0935\u093e\u0935\u093f\u091c\u094d\u091e\u0947\u092f\u0924\u094d\u0935\u0947 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0924\u094d\u0935\u0939\u093e\u0928\u093f\u0930\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u0938\u094b\u093d\u092a\u093f \u0926\u094b\u0937\u0938\u094d\u0924\u0938\u094d\u092f\u0948\u0935\u093e\u0938\u094d\u0924\u0941 ; \u0915\u093f\u0902 \u0924\u0928\u094d\u0928\u093f\u092c\u0930\u094d\u0939\u0923\u0947\u0928\u093e\u0938\u094d\u092e\u093e\u0915\u092e\u094d ? \u0905\u0928\u0935\u0938\u094d\u0925\u093e\u0926\u094b\u0937\u0936\u094d\u091a \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f \u091c\u094d\u091e\u0947\u092f\u0924\u094d\u0935\u093e\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u093e\u0924\u094d \u2014 \u0905\u0935\u0936\u094d\u092f\u0902 \u091a \u0935\u0948\u0928\u093e\u0936\u093f\u0915\u093e\u0928\u093e\u0902 \u091c\u094d\u091e\u093e\u0928\u0902 \u091c\u094d\u091e\u0947\u092f\u092e\u094d\u00a0\u0964 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u0928\u093e \u091a\u093e\u0935\u093f\u091c\u094d\u091e\u0947\u092f\u0924\u094d\u0935\u0947\u0928\u093e\u0928\u0935\u0938\u094d\u0925\u093e \u0905\u0928\u093f\u0935\u093e\u0930\u094d\u092f\u093e\u00a0\u0964 \u0938\u092e\u093e\u0928 \u090f\u0935\u093e\u092f\u0902 \u0926\u094b\u0937 \u0907\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f\u0948\u0915\u0924\u094d\u0935\u094b\u092a\u092a\u0924\u094d\u0924\u0947\u0903 \u2014 \u0938\u0930\u094d\u0935\u0926\u0947\u0936\u0915\u093e\u0932\u092a\u0941\u0930\u0941\u0937\u093e\u0926\u094d\u092f\u0935\u0938\u094d\u0925\u093e\u0938\u094d\u0935\u0947\u0915\u092e\u0947\u0935 \u091c\u094d\u091e\u093e\u0928\u0902 \u0928\u093e\u092e\u0930\u0942\u092a\u093e\u0926\u094d\u092f\u0928\u0947\u0915\u094b\u092a\u093e\u0927\u093f\u092d\u0947\u0926\u093e\u0924\u094d \u0938\u0935\u093f\u0924\u094d\u0930\u093e\u0926\u093f\u091c\u0932\u093e\u0926\u093f\u092a\u094d\u0930\u0924\u093f\u092c\u093f\u092e\u094d\u092c\u0935\u0926\u0928\u0947\u0915\u0927\u093e\u0935\u092d\u093e\u0938\u0924 \u0907\u0924\u093f\u00a0\u0964 \u0928\u093e\u0938\u094c \u0926\u094b\u0937\u0903\u00a0\u0964 \u0924\u0925\u093e \u091a\u0947\u0939\u0947\u0926\u092e\u0941\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \u0928\u0928\u0941 \u0936\u094d\u0930\u0941\u0924\u0947\u0930\u093f\u0939\u0948\u0935\u093e\u0928\u094d\u0924\u0903\u0936\u0930\u0940\u0930\u0947 \u092a\u0930\u093f\u091a\u094d\u091b\u093f\u0928\u094d\u0928\u0903 \u0915\u0941\u0923\u094d\u0921\u092c\u0926\u0930\u0935\u0924\u094d\u092a\u0941\u0930\u0941\u0937 \u0907\u0924\u093f, \u0928 ; \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u093f\u0915\u0932\u093e\u0915\u093e\u0930\u0923\u0924\u094d\u0935\u093e\u0924\u094d \u2014 \u0928 \u0939\u093f \u0936\u0930\u0940\u0930\u092e\u093e\u0924\u094d\u0930\u092a\u0930\u093f\u091a\u094d\u091b\u093f\u0928\u094d\u0928\u0903 \u092a\u094d\u0930\u093e\u0923\u0936\u094d\u0930\u0926\u094d\u0927\u093e\u0926\u0940\u0928\u093e\u0902 \u0915\u0932\u093e\u0928\u093e\u0902 \u0915\u093e\u0930\u0923\u0924\u094d\u0935\u0902 \u092a\u094d\u0930\u0924\u093f\u092a\u0924\u094d\u0924\u0941\u0902 \u0936\u0915\u094d\u0928\u0941\u092f\u093e\u0924\u094d\u00a0\u0964 \u0915\u0932\u093e\u0915\u093e\u0930\u094d\u092f\u0924\u094d\u0935\u093e\u091a\u094d\u091a \u0936\u0930\u0940\u0930\u0938\u094d\u092f \u2014 \u0928 \u0939\u093f \u092a\u0941\u0930\u0941\u0937\u0915\u093e\u0930\u094d\u092f\u093e\u0923\u093e\u0902 \u0915\u0932\u093e\u0928\u093e\u0902 \u0915\u093e\u0930\u094d\u092f\u0902 \u0938\u091a\u094d\u091b\u0930\u0940\u0930\u0902 \u0915\u093e\u0930\u0923\u0915\u093e\u0930\u0923\u0902 \u0938\u094d\u0935\u0938\u094d\u092f \u092a\u0941\u0930\u0941\u0937\u0902 \u0915\u0941\u0923\u094d\u0921\u092c\u0926\u0930\u092e\u093f\u0935\u093e\u092d\u094d\u092f\u0928\u094d\u0924\u0930\u0940\u0915\u0941\u0930\u094d\u092f\u093e\u0924\u094d\u00a0\u0964 \u092c\u0940\u091c\u0935\u0943\u0915\u094d\u0937\u093e\u0926\u093f\u0935\u0924\u094d\u0938\u094d\u092f\u093e\u0926\u093f\u0924\u093f \u091a\u0947\u0924\u094d \u2014 \u092f\u0925\u093e \u092c\u0940\u091c\u0915\u093e\u0930\u094d\u092f\u0902 \u0935\u0943\u0915\u094d\u0937\u0938\u094d\u0924\u0924\u094d\u0915\u093e\u0930\u094d\u092f\u0902 \u091a \u092b\u0932\u0902 \u0938\u094d\u0935\u0915\u093e\u0930\u0923\u0915\u093e\u0930\u0923\u0902 \u092c\u0940\u091c\u092e\u092d\u094d\u092f\u0928\u094d\u0924\u0930\u0940\u0915\u0930\u094b\u0924\u094d\u092f\u093e\u092e\u094d\u0930\u093e\u0926\u093f, \u0924\u0926\u094d\u0935\u0924\u094d\u092a\u0941\u0930\u0941\u0937\u092e\u092d\u094d\u092f\u0928\u094d\u0924\u0930\u0940\u0915\u0941\u0930\u094d\u092f\u093e\u091a\u094d\u091b\u0930\u0940\u0930\u0902 \u0938\u094d\u0935\u0915\u093e\u0930\u0923\u0915\u093e\u0930\u0923\u092e\u092a\u0940\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0905\u0928\u094d\u092f\u0924\u094d\u0935\u093e\u0924\u094d\u0938\u093e\u0935\u092f\u0935\u0924\u094d\u0935\u093e\u091a\u094d\u091a \u2014 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0947 \u0915\u093e\u0930\u0923\u093e\u0926\u094d\u092c\u0940\u091c\u093e\u0926\u094d\u0935\u0943\u0915\u094d\u0937\u092b\u0932\u0938\u0902\u0935\u0943\u0924\u094d\u0924\u093e\u0928\u094d\u092f\u0928\u094d\u092f\u093e\u0928\u094d\u092f\u0947\u0935 \u092c\u0940\u091c\u093e\u0928\u093f ; \u0926\u093e\u0930\u094d\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u093f\u0915\u0947 \u0924\u0941 \u0938\u094d\u0935\u0915\u093e\u0930\u0923\u0915\u093e\u0930\u0923\u092d\u0942\u0924\u0903 \u0938 \u090f\u0935 \u092a\u0941\u0930\u0941\u0937\u0903 \u0936\u0930\u0940\u0930\u0947\u093d\u092d\u094d\u092f\u0928\u094d\u0924\u0930\u0940\u0915\u0943\u0924\u0903 \u0936\u094d\u0930\u0942\u092f\u0924\u0947\u00a0\u0964 \u092c\u0940\u091c\u0935\u0943\u0915\u094d\u0937\u093e\u0926\u0940\u0928\u093e\u0902 \u0938\u093e\u0935\u092f\u0935\u0924\u094d\u0935\u093e\u091a\u094d\u091a \u0938\u094d\u092f\u093e\u0926\u093e\u0927\u093e\u0930\u093e\u0927\u0947\u092f\u0924\u094d\u0935\u092e\u094d ; \u0928\u093f\u0930\u0935\u092f\u0935\u0936\u094d\u091a \u092a\u0941\u0930\u0941\u0937\u0903, \u0938\u093e\u0935\u092f\u0935\u093e\u0936\u094d\u091a \u0915\u0932\u093e\u0903 \u0936\u0930\u0940\u0930\u0902 \u091a\u00a0\u0964 \u090f\u0924\u0947\u0928\u093e\u0915\u093e\u0936\u0938\u094d\u092f\u093e\u092a\u093f \u0936\u0930\u0940\u0930\u093e\u0927\u093e\u0930\u0924\u094d\u0935\u092e\u0928\u0941\u092a\u092a\u0928\u094d\u0928\u092e\u094d ; \u0915\u093f\u092e\u0941\u0924\u093e\u0915\u093e\u0936\u0915\u093e\u0930\u0923\u0938\u094d\u092f \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f ? \u0924\u0938\u094d\u092e\u093e\u0926\u0938\u092e\u093e\u0928\u094b \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0903\u00a0\u0964 \u0915\u093f\u0902 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0947\u0928 ? \u0935\u091a\u0928\u093e\u0924\u094d\u0938\u094d\u092f\u093e\u0926\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0935\u091a\u0928\u0938\u094d\u092f\u093e\u0915\u093e\u0930\u0915\u0924\u094d\u0935\u093e\u0924\u094d \u2014 \u0928 \u0939\u093f \u0935\u091a\u0928\u0902 \u0935\u0938\u094d\u0924\u0941\u0928\u094b\u093d\u0928\u094d\u092f\u0925\u093e\u0915\u0930\u0923\u0947 \u0935\u094d\u092f\u093e\u092a\u094d\u0930\u093f\u092f\u0924\u0947 ; \u0915\u093f\u0902 \u0924\u0930\u094d\u0939\u093f, \u092f\u0925\u093e\u092d\u0942\u0924\u093e\u0930\u094d\u0925\u093e\u0935\u0926\u094d\u092f\u094b\u0924\u0928\u0947\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0926\u0928\u094d\u0924\u0903\u0936\u0930\u0940\u0930 \u0907\u0924\u094d\u092f\u0947\u0924\u0926\u094d\u0935\u091a\u0928\u092e\u094d \u2018\u0905\u0923\u094d\u0921\u0938\u094d\u092f\u093e\u0928\u094d\u0924\u0930\u094d\u0935\u094d\u092f\u094b\u092e\u2019 \u0907\u0924\u093f\u0935\u0926\u094d\u0926\u094d\u0930\u0937\u094d\u091f\u0935\u094d\u092f\u092e\u094d\u00a0\u0964 \u0909\u092a\u0932\u092c\u094d\u0927\u093f\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u0924\u094d\u0935\u093e\u091a\u094d\u091a \u2014 \u0926\u0930\u094d\u0936\u0928\u0936\u094d\u0930\u0935\u0923\u092e\u0928\u0928\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0926\u093f\u0932\u093f\u0919\u094d\u0917\u0948\u0930\u0928\u094d\u0924\u0903\u0936\u0930\u0940\u0930\u0947 \u092a\u0930\u093f\u091a\u094d\u091b\u093f\u0928\u094d\u0928 \u0907\u0935 \u0939\u094d\u092f\u0941\u092a\u0932\u092d\u094d\u092f\u0924\u0947 \u092a\u0941\u0930\u0941\u0937 \u0909\u092a\u0932\u092d\u094d\u092f\u0924\u0947 \u091a\u093e\u0924\u094d\u0930\u00a0\u0964 \u0905\u0924 \u0909\u091a\u094d\u092f\u0924\u0947 \u2014 \u0905\u0928\u094d\u0924\u0903\u0936\u0930\u0940\u0930\u0947 \u0938\u094b\u092e\u094d\u092f \u0938 \u092a\u0941\u0930\u0941\u0937 \u0907\u0924\u093f\u00a0\u0964 \u0928 \u092a\u0941\u0928\u0930\u093e\u0915\u093e\u0936\u0915\u093e\u0930\u0923\u092d\u0942\u0924\u0903 \u0938\u0928\u094d\u0915\u0941\u0923\u094d\u0921\u092c\u0926\u0930\u0935\u091a\u094d\u091b\u0930\u0940\u0930\u092a\u0930\u093f\u091a\u094d\u091b\u093f\u0928\u094d\u0928 \u0907\u0924\u093f \u092e\u0928\u0938\u093e\u092a\u0940\u091a\u094d\u091b\u0924\u093f \u0935\u0915\u094d\u0924\u0941\u0902 \u092e\u0942\u0922\u094b\u093d\u092a\u093f ; \u0915\u093f\u092e\u0941\u0924 \u092a\u094d\u0930\u092e\u093e\u0923\u092d\u0942\u0924\u093e \u0936\u094d\u0930\u0941\u0924\u093f\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014To him he replied: \u2018even here, within the body, i.e., in the akasa of the lotus of the heart, O good-looking youth! is that Purusha to be sought for not in other places; of whom these sixteen kalas, to be hereafter named, Prana and the rest are born. By ignorance, the Purusha though devoid of parts, is seen as one having parts, by virtue of the sixteen kalas which are its conditions. In order that the Purusha may be seen as unconditioned, by means of knowledge and by the elimination of the kalas , which are conditions super-imposed upon him, it is said that the kalas , prana , etc., have their origin in him. As it is not possible, except by superposition to speak of the unconditioned, the one and the pure entity as attainable, etc., the origin, the support, and the destruction of kalas , subject of ignorance, are superimposed upon it. It is always seen that the kalas , which are observed to arise, exist and disappear, are not different from intelligence. It is why some ignorant persons maintain that intelligence is every moment born and destroyed in the form of pot, etc., as the ghee by its contact with fire. Some others hold that when it is controlled, everything is void as it were. Some others think that the knowledge of pots, etc., is an ephemeral property which rises and disappears in the eternal knower who is the \u00c2tman .\nThe materialists hold that intelligence is an attribute of matter; the true theory is that the atman is intelligence itself, knowing no diminution or decay, and shines in assumed conditions of name and form; for, the srutis say \u201c Brahman is existence, knowledge and infinity\u201d; \u201c Brahman is knowledge; Brahman is knowledge and bliss.\u201d He is dense with knowledge, &c. While the objects change their form, the intelligence which cognises them in their various changes, does not change, as it cognises every change in the objects. It cannot be said that there exists an object but it cannot be known. It is like saying that there is no eye, although the form is apprehended. Knowledge may exist, where there is no object to be known; but the object never exists without knowledge; for, knowledge if it does not exist, with reference to any particular knowable, exists in regard to other knowables; but where there is no knowledge, there can be no knowable. As there is neither knowledge nor knowable in sleep, it may be contended that even knowledge disappears where there are no knowable objects. This cannot be. As the function of knowledge, like that of light, is to illumine the knowable, it cannot be inferred that there is no knowledge in sleep, as there is no knowable to be illumined by it, as the absence of light cannot be argued from the absence of objects which it could illumine; for, the non-existence of sight cannot be argued by the Vainasikas from the fact that no form is seen in the midst of darkness.\nIt may be urged that the Vainasika postulates the absence of knowledge in the absence of the knowable. But the Vainasika must reply by what process he could argue out the absence of that knowledge, by which he was able to posit the absence of all knowables. The absence of the knowable, being itself a fact to be known, it cannot be known in the absence of knowledge. It may be argued that as knowledge is not distinct from the knowable, there can be no knowledge where there is no knowable. This cannot hold, as it is admitted, that abhava (non-existence) is as much a knowable. The Vainasikas concede that abhava (non-existence) is permanent and knowable. If, therefore, knowledge is not distinct from the knowable, knowledge will be made permanent. As the non-existence ( abhava ) of knowables is ex hypothesi of the nature of knowledge, the term \u2018non-existence\u2019 is only a misnomer , not a reality; as also the transient nature of knowledge. There is no harm done to knowledge which is permanent by its being verbally described as non-existence, i.e. , abhava . If it be said that though non-existence, i.e., abhava is knowable, it is distinct from knowledge; then, it comes to this, that absence of knowledge does not follow from absence of all knowables.\nIt may be urged that the knowable is distinct from knowledge, but that knowledge is not distinct from knowable. But this statement is merely one of words. If the identity of the knowable and knowledge is conceded, it is mere word to say that the knowable is distinct from knowledge, and that knowledge is not distinct from knowable, as is the statement that vahni (fire) is distinct from agni (fire), though agni is not distinct from vahni . If knowledge is distinct from the knowable, the statement is inappropriate, that where there is no knowable, there is no knowledge. Nor can it be said that where there is no knowable there is no knowledge, as it is not perceived; for, they concede that in sleep knowledge exists. It is well-known that Vainasikas admit the existence of knowledge even in sleep. But the existence of a knowable is also admitted. If it be said that in that case, knowledge is knowable by itself, we say \u2018no\u2019; for, the distinction between knowledge and knowable exists then. As the knowledge which perceives the non-existence of all things is distinct from the non-existence of the things themselves, the distinction between knowledge and knowable is inevitable even then; and a hundred Vainasikas cannot get over this objection and make knowledge itself a knowable, as surely as they cannot revive a dead man. It may be objected that, according to our theory, one knowledge has to be known by another and so on without limit. We answer \u2018no\u2019: for, all things can be classified as \u2018knowledge\u2019 and \u2018knowable,\u2019 and those that are not Vainasikas concede only a two-fold classification of \u2018knowledge\u2019 and \u2018knowable,\u2019 and do not admit a third knowledge, which perceives the other knowledge.\nIt may be contended, if knowledge could not know itself, there can be no omniscience. We answer, \u2018let that blame attach to the Vainasikas themselves.\u2019 We gain nothing by refuting that objection. Not only this, their theory is vitiated by the absence of finality; for, according to them knowledge is know-able by another knowledge. If knowledge, therefore, cannot know itself, then the objection of the absence of finality to their theory is irrefutable. If it be urged that this fault is observable alike in our theory also, we say \u2018no\u2019; for, according to us knowledge is one. Knowledge which is one in all places, times and men, is reflected and seen diverse, in diverse conditions of name and form, as the sun, etc., is seen when reflected in water, etc. Therefore, the above-named objection has no force; and so, the following is here stated. Nor could it be contended that from the sruti here, that the Purusha is limited within our body, like an apple in a pit; because the Purusha is the cause of Prana and other kalas. For, the Purusha limited by the body alone cannot be understood to be the cause of kalas , such as Prana , Sraddha, etc.; for, the body itself is produced by kalas. This body produced by kalas which have their origin in Purusha cannot contain within it, as an apple within the pit, the Purusha who is the cause of its cause.\nIt may be urged that on the analogy of the seed and tree, this is quite possible. As the tree of which the seed is the cause, yields fruits containing within them, the seed, the cause of their cause, (for instance, the mango fruit), it may be urged that similarly the body may contain within it the Purusha which is the cause of its cause. This cannot be for a two-fold reason, i.e., difference and divisibility. In the illustration, the seeds contained in the fruits are different from those which produced the tree. In the case to which the analogy is sought to be applied, the same Purusha who is the cause of the cause of the body is said, by the srutis, to be contained within the body. Again, as the seed and the tree are composed of parts, the relation of the container and the contained may there obtain. But here, the Purusha is one and indivisible; and the ka\u00ecas and the body are both composed of parts. From this, it follows that the body cannot contain even the akasa . How can it then contain the Purusha , the cause of the akasa ? Therefore, the analogy is false.\nIt may be urged: \u2018Let go the analogy, we have the text.\u2019 We answer that texts cannot make and unmake things. The office of the texts is not to metamorphose existing things, but only to make existing things clear. So, the passage, which says that the Purusha i s within the body, must be construed, just in the same way as the passage which says that the akasa is within the globe. Besides, the statement that the Purusha is within the body, is intended to serve as a help to his realization; for, in our experience the Purusha is realized as if within the body, by the process of seeing, hearing, thinking, knowing, etc. Therefore, it is said, that Purusha is within the body. Even a fool will not allow himself to say, even in his mind, that the Purusha who is the cause of the akasa is really within the body, as the apple is within the pit. Much less would the authoritative sruti say so."
+        "text": "तस्मै स होवाच । इहैव अन्तःशरीरे हृदयपुण्डरीकाकाशमध्ये हे सोम्य स पुरुषः, न देशान्तरे विज्ञेयः । यस्मिन् एताः उच्यमानाः षोडश कलाः प्राणाद्याः प्रभवन्ति उत्पद्यन्त इति षोडशभिः कलाभिरुपाधिभूताभिः सकल इव निष्कलः पुरुषो लक्ष्यतेऽविद्ययेति; तदुपाधिकलाध्यारोपापनयनेन विद्यया स पुरुषः केवलो दर्शयितव्य इति कलानां तत्प्रभवत्वमुच्यते प्राणादीनाम् । अत्यन्तनिर्विशेषे ह्यद्वये विशुद्धे तत्त्वे न शक्योऽध्यारोपमन्तरेण प्रतिपाद्यप्रतिपादनादिव्यवहारः कर्तुमिति कलानां प्रभवस्थित्यप्यया आरोप्यन्तेऽविद्याविषयाः । चैतन्याव्यतिरेकेणैव हि कला जायमानास्तिष्ठन्त्यः प्रलीयमानाश्च सर्वदा लक्ष्यन्ते । अत एव भ्रान्ताः केचित् — अग्निसंयोगाद्धृतमिव घटाद्याकारेण चैतन्यमेव प्रतिक्षणं जायते नश्यतीति । तन्निरोधे शून्यमेव सर्वमिति अपरे । घटादिविषयं चैतन्यं चेतयिदुर्नित्यस्यात्मनोऽनित्यं जायते विनश्यतीत्यपरे । चैतन्यं भूतधर्म इति लौकायतिकाः । अनपायोपजनधर्मकचैतन्यमात्मैव नामरूपाद्युपाधिधर्मैः प्रत्यवभासते ‘सत्यं ज्ञानमनन्तं ब्रह्म’ (तै. उ. २ । १ । १) ‘प्रज्ञानं ब्रह्म’ (ऐ. उ. ३ । १ । ३) ‘विज्ञानमानन्दं ब्रह्म’ (बृ. उ. ३ । ९ । २८) ‘विज्ञानघन एव’ (बृ. उ. २ । ४ । १२) इत्यादिश्रुतिभ्यः । स्वरूपव्यभिचारिषु पदार्थेषु चैतन्यस्याव्यभिचाराद्यथा यथा यो यः पदार्थो ज्ञायते, तथा तथा ज्ञायमानत्वादेव तस्य तस्य चैतन्यस्याव्यभिचारित्वम् । वस्तुतत्त्वं भवति किञ्चित्, न ज्ञायत इति चानुपपन्नम्; रूपं च दृश्यते, न चास्ति चक्षुरिति यथा । व्यभिचरति तु ज्ञेयम्; न ज्ञानं व्यभिचरति कदाचिदपि ज्ञेयम्, ज्ञेयाभावेऽपि ज्ञेयान्तरे भावाज्ज्ञानस्य । न हि ज्ञानेऽसति ज्ञेयं नाम भवति कस्यचित्; सुषुप्तेऽदर्शनात् — ज्ञानस्यापि सुषुप्तेऽभावाज्ज्ञेयवज्ज्ञानस्वरूपस्य व्यभिचार इति चेत्, न; ज्ञेयावभासकस्य ज्ञानस्यालोकवज्ज्ञेयाभिव्यक्त्यर्थत्वात्स्वव्यङ्ग्याभावे आलोकाभावानुपपत्तिवत् अप्रतीतेषु वस्तुषु सुषुप्ते विज्ञानाभावानुपपत्तेः । न ह्यन्धकारे चक्षुषो रूपानुपलब्धौ चक्षुषोऽभावः शक्यः कल्पयितुमवैनाशिकेन । वैनाशिको ज्ञेयाभावे ज्ञानाभावं कल्पयत्येवेति चेत्, येन तदभावं कल्पयेत्तस्याभावः केन कल्प्यत इति वक्तव्यं वैनाशिकेन; तदभावस्यापि ज्ञेयत्वाज्ज्ञानाभावे तदनुपपत्तेः । ज्ञानस्य ज्ञेयाव्यतिरिक्तत्वाज्ज्ञेयाभावे ज्ञानाभाव इति चेत्, न; अभावस्यापि ज्ञेयत्वाभ्युपगमात् — अभावोऽपि ज्ञेयोऽभ्युपगम्यते वैनाशिकैर्नित्यश्च । तदव्यतिरिक्तं चेज्ज्ञानं नित्यं कल्पितं स्यात् । तदभावस्य च ज्ञानात्मकत्वादभावत्वं च वाङ्मात्रमेव; न परमार्थतोऽभावत्वमनित्यत्वं च ज्ञानस्य । न च नित्यस्य ज्ञानस्याभावनाममात्राध्यारोपे किञ्चिन्नश्छिन्नम् । अथाभावो ज्ञेयोऽपि सन् ज्ञानव्यतिरिक्त इति चेत्, न तर्हि ज्ञेयाभावो ज्ञानाभावः । ज्ञेयं ज्ञानव्यतिरिक्तम्; न तु ज्ञानं ज्ञेयव्यतिरिक्तमिति चेत्, न; शब्दमात्रत्वाद्विशेषानुपपत्तेः । ज्ञेयज्ञानयोरेकत्वं चेदभ्युपगम्यते, ज्ञेयं ज्ञानव्यातिरिक्तम्, न ज्ञेयव्यतिरिक्तं ज्ञानम् इति तु शब्दमात्रमेव तत् — वह्निरग्निव्यतिरिक्तः, अग्निर्न वह्निव्यतिरिक्त इति यद्वत् — अभ्युपगम्यम् । ज्ञेयव्यतिरेके तु ज्ञानस्य ज्ञेयाभावे ज्ञानाभावानुपपत्तिः सिद्धा । ज्ञेयाभावेऽदर्शनादभावो ज्ञानस्येति चेत्, न; सुषुप्ते ज्ञप्त्यभ्युपगमात् — वैनाशिकैरभ्युपगम्यते हि सुषुप्तेऽपि विज्ञानास्तित्वम् । तत्रापि ज्ञेयत्वमभ्युपगम्यते ज्ञानस्य स्वेनैवेति चेत्, न; भेदस्य सिद्धत्वात् — सिद्धं ह्यभावविज्ञेयविषयस्य ज्ञानस्याभावज्ञेयव्यतिरेकाज्ज्ञेयज्ञानयोरन्यत्वम् । न हि तत्सिद्धं मृतमिवोज्जीवयितुं पुनरन्यथा कर्तुं शक्यते वैनाशिकशतैरपि । ज्ञानस्य स्वाज्ञेयत्वे तदप्यन्येन तदप्यन्येनेति त्वत्पक्षेऽतिप्रसङ्ग इति चेत्, न; तद्विभागोपपत्तेः सर्वस्य — यदा हि सर्वं ज्ञेयं कस्यचित्, तदा तद्व्यतिरिक्तं ज्ञानं ज्ञानमेवेति द्वितीयो विभाग एवाभ्युपगम्यतेऽवैनाशिकैः । न तृतीयस्तद्विषय इत्यनवस्थानुपपत्तिः । ज्ञानस्य स्वेनैवाविज्ञेयत्वे सर्वज्ञत्वहानिरिति चेत्, सोऽपि दोषस्तस्यैवास्तु; किं तन्निबर्हणेनास्माकम्? अनवस्थादोषश्च ज्ञानस्य ज्ञेयत्वाभ्युपगमात् — अवश्यं च वैनाशिकानां ज्ञानं ज्ञेयम् । स्वात्मना चाविज्ञेयत्वेनानवस्था अनिवार्या । समान एवायं दोष इति चेत्, न; ज्ञानस्यैकत्वोपपत्तेः — सर्वदेशकालपुरुषाद्यवस्थास्वेकमेव ज्ञानं नामरूपाद्यनेकोपाधिभेदात् सवित्रादिजलादिप्रतिबिम्बवदनेकधावभासत इति । नासौ दोषः । तथा चेहेदमुच्यते । ननु श्रुतेरिहैवान्तःशरीरे परिच्छिन्नः कुण्डबदरवत्पुरुष इति, न; प्राणादिकलाकारणत्वात् — न हि शरीरमात्रपरिच्छिन्नः प्राणश्रद्धादीनां कलानां कारणत्वं प्रतिपत्तुं शक्नुयात् । कलाकार्यत्वाच्च शरीरस्य — न हि पुरुषकार्याणां कलानां कार्यं सच्छरीरं कारणकारणं स्वस्य पुरुषं कुण्डबदरमिवाभ्यन्तरीकुर्यात् । बीजवृक्षादिवत्स्यादिति चेत् — यथा बीजकार्यं वृक्षस्तत्कार्यं च फलं स्वकारणकारणं बीजमभ्यन्तरीकरोत्याम्रादि, तद्वत्पुरुषमभ्यन्तरीकुर्याच्छरीरं स्वकारणकारणमपीति चेत्, न; अन्यत्वात्सावयवत्वाच्च — दृष्टान्ते कारणाद्बीजाद्वृक्षफलसंवृत्तान्यन्यान्येव बीजानि; दार्ष्टान्तिके तु स्वकारणकारणभूतः स एव पुरुषः शरीरेऽभ्यन्तरीकृतः श्रूयते । बीजवृक्षादीनां सावयवत्वाच्च स्यादाधाराधेयत्वम्; निरवयवश्च पुरुषः, सावयवाश्च कलाः शरीरं च । एतेनाकाशस्यापि शरीराधारत्वमनुपपन्नम्; किमुताकाशकारणस्य पुरुषस्य? तस्मादसमानो दृष्टान्तः । किं दृष्टान्तेन? वचनात्स्यादिति चेत्, न; वचनस्याकारकत्वात् — न हि वचनं वस्तुनोऽन्यथाकरणे व्याप्रियते; किं तर्हि, यथाभूतार्थावद्योतने । तस्मादन्तःशरीर इत्येतद्वचनम् ‘अण्डस्यान्तर्व्योम’ इतिवद्द्रष्टव्यम् । उपलब्धिनिमित्तत्वाच्च — दर्शनश्रवणमननविज्ञानादिलिङ्गैरन्तःशरीरे परिच्छिन्न इव ह्युपलभ्यते पुरुष उपलभ्यते चात्र । अत उच्यते — अन्तःशरीरे सोम्य स पुरुष इति । न पुनराकाशकारणभूतः सन्कुण्डबदरवच्छरीरपरिच्छिन्न इति मनसापीच्छति वक्तुं मूढोऽपि; किमुत प्रमाणभूता श्रुतिः ॥"
       }
     ],
     "commentary_faqs": []
@@ -77,32 +369,79 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-6",
-      "chapter_name": "Chapter 6",
+      "chapter_name": "Question 6: Sixteen Kalās",
       "verse_number": 3,
       "chapter_number": 6,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145342.html"
+      "mantra_ref": "6.3",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0938 \u0908\u0915\u094d\u0937\u093e\u091e\u094d\u091a\u0915\u094d\u0930\u0947 \u0915\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0939\u092e\u0941\u0924\u094d\u0915\u094d\u0930\u093e\u0928\u094d\u0924 \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u0928\u094d\u0924\u094b \u092d\u0935\u093f\u0937\u094d\u092f\u093e\u092e\u093f \u0915\u0938\u094d\u092e\u093f\u0928\u094d\u0935\u093e \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u0947 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e\u0938\u094d\u092f\u093e\u092e\u0940\u0924\u093f \u0965 \u0969 \u0965",
-    "transliteration": "sa \u012bk\u015b\u0101cakre | kasminnahamutkr\u0101nta utkr\u0101nto bhavi\u1e63y\u0101mi kasmit v\u0101 prati\u1e63\u1e6dite prati\u1e63\u1e6dasy\u0101m\u012bti || 3 ||",
-    "translation": "3. He thought, \u2018what going out, shall I go out; or, what staying shall I stay?\u2019",
-    "word_by_word": [],
+    "section_title": "Question 6: Sixteen Kalās",
+    "sanskrit_shloka": "स ईक्षाञ्चक्रे कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन्वा प्रतिष्ठिते प्रतिष्ठास्यामीति ॥ ३ ॥",
+    "transliteration": "sa īkṣāñcakre kasminnahamutkrānta utkrānto bhaviṣyāmi kasminvā pratiṣṭhite pratiṣṭhāsyāmīti || 3 ||",
+    "translation": "3. He thought, ‘what going out, shall I go out; or, what staying shall I stay?’",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (that ṣoḍaśakala Puruṣa, questioned by Bhāradvāja)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ईक्षाञ्चक्रे",
+        "word_english": "he reflected / made a viewing — ईक्षणं दर्शनं चक्रे, kṛtavān (he considered the order of creation and its fruit)",
+        "grammar_role": "√ईक्ष् · लिट्·प्रथमपुरुष·एकवचन·आत्मनेपद (परिफ्रासिक)",
+        "root": "ईक्षाञ्चक्रे"
+      },
+      {
+        "word_sanskrit": "कस्मिन्नहमुत्क्रान्त",
+        "word_english": "on what — i.e. on what particular agent / body (kartṛviśeṣe dehe) having departed — I…",
+        "grammar_role": "किम् · सप्तमी·एकवचन·पुंलिङ्ग + अस्मद् · प्रथमा·एकवचन + उत्क्रान्त · सप्तमी·एकवचन·पुंलिङ्ग (सति सप्तमी)",
+        "root": "कस्मिन् + अहम् + उत्क्रान्ते"
+      },
+      {
+        "word_sanskrit": "उत्क्रान्तो",
+        "word_english": "shall (I myself) be departed — उत्क्रान्तो भविष्यामि अहमेव",
+        "grammar_role": "उत्क्रान्त (उत्-√क्रम्, क्त) · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "उत्क्रान्तः"
+      },
+      {
+        "word_sanskrit": "भविष्यामि",
+        "word_english": "I shall become / I shall be",
+        "grammar_role": "√भू · लृट्·उत्तमपुरुष·एकवचन·परस्मैपद",
+        "root": "भविष्यामि"
+      },
+      {
+        "word_sanskrit": "कस्मिन्वा",
+        "word_english": "or on what — i.e. on what śarīra (body)",
+        "grammar_role": "किम् · सप्तमी·एकवचन·पुंलिङ्ग + वा · अव्यय (विकल्पे)",
+        "root": "कस्मिन् + वा"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठिते",
+        "word_english": "(the body) being established / staying firm — कस्मिन्वा शरीरे प्रतिष्ठिते",
+        "grammar_role": "प्रतिष्ठित (प्रति-√स्था, क्त) · सप्तमी·एकवचन·नपुंसकलिङ्ग (सति सप्तमी, शरीरे)",
+        "root": "प्रतिष्ठिते"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठास्यामीति",
+        "word_english": "shall I remain established — प्रतिष्ठितः स्याम् — thus (he reflected)",
+        "grammar_role": "प्रति-√स्था · लृट्·उत्तमपुरुष·एकवचन·परस्मैपद + इति · अव्यय (समाप्तौ)",
+        "root": "प्रतिष्ठास्यामि + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "3. He thought, \u2018what going out, shall I go out; or, what staying shall I stay?\u2019"
+        "text": "3. He thought, ‘what going out, shall I go out; or, what staying shall I stay?’"
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0947\u0924\u093e\u0903 \u0937\u094b\u0921\u0936 \u0915\u0932\u093e\u0903 \u092a\u094d\u0930\u092d\u0935\u0928\u094d\u0924\u0940\u0924\u094d\u092f\u0941\u0915\u094d\u0924\u0903 \u092a\u0941\u0930\u0941\u0937\u0935\u093f\u0936\u0947\u0937\u0923\u093e\u0930\u094d\u0925\u0903 \u0915\u0932\u093e\u0928\u093e\u0902 \u092a\u094d\u0930\u092d\u0935\u0903, \u0938 \u091a\u093e\u0928\u094d\u092f\u093e\u0930\u094d\u0925\u094b\u093d\u092a\u093f \u0936\u094d\u0930\u0941\u0924\u0903 \u0915\u0947\u0928 \u0915\u094d\u0930\u092e\u0947\u0923 \u0938\u094d\u092f\u093e\u0926\u093f\u0924\u094d\u092f\u0924 \u0907\u0926\u092e\u0941\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \u091a\u0947\u0924\u0928\u092a\u0942\u0930\u094d\u0935\u093f\u0915\u093e \u091a \u0938\u0943\u0937\u094d\u091f\u093f\u0930\u093f\u0924\u094d\u092f\u0947\u0935\u092e\u0930\u094d\u0925\u0902 \u091a\u00a0\u0964 \u0938 \u092a\u0941\u0930\u0941\u0937\u0903 \u0937\u094b\u0921\u0936\u0915\u0932\u0903 \u092a\u0943\u0937\u094d\u091f\u094b \u092f\u094b \u092d\u093e\u0930\u0926\u094d\u0935\u093e\u091c\u0947\u0928 \u0938\u0903 \u0908\u0915\u094d\u0937\u093e\u091e\u094d\u091a\u0915\u094d\u0930\u0947 \u0908\u0915\u094d\u0937\u0923\u0902 \u0926\u0930\u094d\u0936\u0928\u0902 \u091a\u0915\u094d\u0930\u0947 \u2014 \u0915\u0943\u0924\u0935\u093e\u0928\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u2014 \u0938\u0943\u0937\u094d\u091f\u093f\u092b\u0932\u0915\u094d\u0930\u092e\u093e\u0926\u093f\u0935\u093f\u0937\u092f\u092e\u094d\u00a0\u0964 \u0915\u0925\u092e\u093f\u0924\u093f, \u0909\u091a\u094d\u092f\u0924\u0947 \u2014 \u0915\u0938\u094d\u092e\u093f\u0928\u094d \u0915\u0930\u094d\u0924\u0943\u0935\u093f\u0936\u0947\u0937\u0947 \u0926\u0947\u0939\u093e\u0926\u0941\u0924\u094d\u0915\u094d\u0930\u093e\u0928\u094d\u0924\u0947 \u0909\u0924\u094d\u0915\u094d\u0930\u093e\u0928\u094d\u0924\u094b \u092d\u0935\u093f\u0937\u094d\u092f\u093e\u092e\u093f \u0905\u0939\u092e\u0947\u0935 ; \u0915\u0938\u094d\u092e\u093f\u0928\u094d\u0935\u093e \u0936\u0930\u0940\u0930\u0947 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u0947 \u0905\u0939\u0902 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e\u0938\u094d\u092f\u093e\u092e\u093f \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u0903 \u0938\u094d\u092f\u093e\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0928\u0928\u094d\u0935\u093e\u0924\u094d\u092e\u093e \u0905\u0915\u0930\u094d\u0924\u093e \u092a\u094d\u0930\u0927\u093e\u0928\u0902 \u0915\u0930\u094d\u0924\u0943 ; \u0905\u0924\u0903 \u092a\u0941\u0930\u0941\u0937\u093e\u0930\u094d\u0925\u0902 \u092a\u094d\u0930\u092f\u094b\u091c\u0928\u092e\u0941\u0930\u0930\u0940\u0915\u0943\u0924\u094d\u092f \u092a\u094d\u0930\u0927\u093e\u0928\u0902 \u092a\u094d\u0930\u0935\u0930\u094d\u0924\u0924\u0947 \u092e\u0939\u0926\u093e\u0926\u094d\u092f\u093e\u0915\u093e\u0930\u0947\u0923 ; \u0924\u0924\u094d\u0930\u0947\u0926\u092e\u0928\u0941\u092a\u092a\u0928\u094d\u0928\u0902 \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u0938\u094d\u0935\u093e\u0924\u0928\u094d\u0924\u094d\u0930\u094d\u092f\u0947\u0923\u0947\u0915\u094d\u0937\u093e\u092a\u0942\u0930\u094d\u0935\u0915\u0902 \u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u0935\u091a\u0928\u092e\u094d , \u0938\u0924\u094d\u0924\u094d\u0935\u093e\u0926\u093f\u0917\u0941\u0923\u0938\u093e\u092e\u094d\u092f\u0947 \u092a\u094d\u0930\u0927\u093e\u0928\u0947 \u092a\u094d\u0930\u092e\u093e\u0923\u094b\u092a\u092a\u0928\u094d\u0928\u0947 \u0938\u0943\u0937\u094d\u091f\u093f\u0915\u0930\u094d\u0924\u0930\u093f \u0938\u0924\u093f \u0908\u0936\u094d\u0935\u0930\u0947\u091a\u094d\u091b\u093e\u0928\u0941\u0935\u0930\u094d\u0924\u093f\u0937\u0941 \u0935\u093e \u092a\u0930\u092e\u093e\u0923\u0941\u0937\u0941 \u0938\u0924\u094d\u0938\u0941 \u0906\u0924\u094d\u092e\u0928\u094b\u093d\u092a\u094d\u092f\u0947\u0915\u0924\u094d\u0935\u0947\u0928 \u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u0947 \u0938\u093e\u0927\u0928\u093e\u092d\u093e\u0935\u093e\u0926\u093e\u0924\u094d\u092e\u0928 \u0906\u0924\u094d\u092e\u0928\u094d\u092f\u0928\u0930\u094d\u0925\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u0947\u0936\u094d\u091a\u00a0\u0964 \u0928 \u0939\u093f \u091a\u0947\u0924\u0928\u093e\u0935\u093e\u0928\u094d\u092c\u0941\u0926\u094d\u0927\u093f\u092a\u0942\u0930\u094d\u0935\u0915\u093e\u0930\u0940 \u0906\u0924\u094d\u092e\u0928\u0903 \u0905\u0928\u0930\u094d\u0925\u0902 \u0915\u0941\u0930\u094d\u092f\u093e\u0924\u094d \u0924\u0938\u094d\u092e\u093e\u0924\u094d\u092a\u0941\u0930\u0941\u0937\u093e\u0930\u094d\u0925\u0947\u0928 \u092a\u094d\u0930\u092f\u094b\u091c\u0928\u0947\u0928\u0947\u0915\u094d\u0937\u093e\u092a\u0942\u0930\u094d\u0935\u0915\u092e\u093f\u0935 \u0928\u093f\u092f\u0924\u0915\u094d\u0930\u092e\u0947\u0923 \u092a\u094d\u0930\u0935\u0930\u094d\u0924\u092e\u093e\u0928\u0947\u093d\u091a\u0947\u0924\u0928\u0947\u093d\u092a\u093f \u092a\u094d\u0930\u0927\u093e\u0928\u0947 \u091a\u0947\u0924\u0928\u0935\u0926\u0941\u092a\u091a\u093e\u0930\u094b\u093d\u092f\u0902 \u0938 \u0908\u0915\u094d\u0937\u093e\u091e\u094d\u091a\u0915\u094d\u0930\u0947 \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0903 ; \u092f\u0925\u093e \u0930\u093e\u091c\u094d\u091e\u0903 \u0938\u0930\u094d\u0935\u093e\u0930\u094d\u0925\u0915\u093e\u0930\u093f\u0923\u093f \u092d\u0943\u0924\u094d\u092f\u0947 \u0930\u093e\u091c\u0947\u0924\u093f, \u0924\u0926\u094d\u0935\u0924\u094d\u00a0\u0964 \u0928 ; \u0906\u0924\u094d\u092e\u0928\u094b \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0935\u0924\u094d\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u094b\u092a\u092a\u0924\u094d\u0924\u0947\u0903 \u2014 \u092f\u0925\u093e \u0938\u093e\u0919\u094d\u200d\u0916\u094d\u092f\u0938\u094d\u092f \u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u0938\u094d\u092f\u093e\u092a\u0930\u093f\u0923\u093e\u092e\u093f\u0928\u094b\u093d\u092a\u094d\u092f\u093e\u0924\u094d\u092e\u0928\u094b \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u092e\u094d , \u0924\u0926\u094d\u0935\u0926\u094d\u0935\u0947\u0926\u0935\u093e\u0926\u093f\u0928\u093e\u092e\u0940\u0915\u094d\u0937\u093e\u092a\u0942\u0930\u094d\u0935\u0915\u0902 \u091c\u0917\u0924\u094d\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u092e\u0941\u092a\u092a\u0928\u094d\u0928\u0902 \u0936\u094d\u0930\u0941\u0924\u093f\u092a\u094d\u0930\u093e\u092e\u093e\u0923\u094d\u092f\u093e\u0924\u094d\u00a0\u0964 \u0924\u0924\u094d\u0924\u094d\u0935\u093e\u0928\u094d\u0924\u0930\u092a\u0930\u093f\u0923\u093e\u092e\u093e\u0926\u093e\u0924\u094d\u092e\u0928\u094b\u093d\u0928\u093f\u0924\u094d\u092f\u0924\u094d\u0935\u093e\u0936\u0941\u0926\u094d\u0927\u0924\u094d\u0935\u093e\u0928\u0947\u0915\u0924\u094d\u0935\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u0902 \u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u0938\u094d\u0935\u0930\u0942\u092a\u0935\u093f\u0915\u094d\u0930\u093f\u092f\u093e\u0924\u0903 \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u0928\u094d\u092f\u0947\u0935 \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0947 \u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u0938\u094d\u0935\u0930\u0942\u092a\u0935\u093f\u0915\u094d\u0930\u093f\u092f\u093e \u0928 \u0926\u094b\u0937\u093e\u092f\u00a0\u0964 \u092d\u0935\u0924\u093e\u0902 \u092a\u0941\u0928\u0930\u094d\u0935\u0947\u0926\u0935\u093e\u0926\u093f\u0928\u093e\u0902 \u0938\u0943\u0937\u094d\u091f\u093f\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u0947 \u0924\u0924\u094d\u0924\u094d\u0935\u093e\u0928\u094d\u0924\u0930\u092a\u0930\u093f\u0923\u093e\u092e \u090f\u0935\u0947\u0924\u094d\u092f\u093e\u0924\u094d\u092e\u0928\u094b\u093d\u0928\u093f\u0924\u094d\u092f\u0924\u094d\u0935\u093e\u0926\u093f\u0938\u0930\u094d\u0935\u0926\u094b\u0937\u092a\u094d\u0930\u0938\u0919\u094d\u0917 \u0907\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u090f\u0915\u0938\u094d\u092f\u093e\u092a\u094d\u092f\u093e\u0924\u094d\u092e\u0928\u094b\u093d\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0937\u092f\u0928\u093e\u092e\u0930\u0942\u092a\u094b\u092a\u093e\u0927\u094d\u092f\u0928\u0941\u092a\u093e\u0927\u093f\u0915\u0943\u0924\u0935\u093f\u0936\u0947\u0937\u093e\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u093e\u0924\u094d\u00a0\u0964 \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u0943\u0924\u0928\u093e\u092e\u0930\u0942\u092a\u094b\u092a\u093e\u0927\u093f\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u094b \u0939\u093f \u0935\u093f\u0936\u0947\u0937\u094b\u093d\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u094d\u092f\u0924\u0947 \u0906\u0924\u094d\u092e\u0928\u094b \u092c\u0928\u094d\u0927\u092e\u094b\u0915\u094d\u0937\u093e\u0926\u093f\u0936\u093e\u0938\u094d\u0924\u094d\u0930\u0915\u0943\u0924\u0938\u0902\u0935\u094d\u092f\u0935\u0939\u093e\u0930\u093e\u092f\u00a0\u0964 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0924\u094b\u093d\u0928\u0941\u092a\u093e\u0927\u093f\u0915\u0943\u0924\u0902 \u091a \u0924\u0924\u094d\u0924\u094d\u0935\u092e\u0947\u0915\u092e\u0947\u0935\u093e\u0926\u094d\u0935\u093f\u0924\u0940\u092f\u092e\u0941\u092a\u093e\u0926\u0947\u092f\u0902 \u0938\u0930\u094d\u0935\u0924\u093e\u0930\u094d\u0915\u093f\u0915\u092c\u0941\u0926\u094d\u0927\u094d\u092f\u0928\u0935\u0917\u092e\u094d\u092f\u0902 \u0939\u094d\u092f\u091c\u092e\u092d\u092f\u0902 \u0936\u093f\u0935\u092e\u093f\u0937\u094d\u092f\u0924\u0947\u00a0\u0964 \u0928 \u0924\u0924\u094d\u0930 \u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u0902 \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0902 \u0935\u093e \u0915\u094d\u0930\u093f\u092f\u093e\u0915\u093e\u0930\u0915\u092b\u0932\u0902 \u0935\u093e\u0938\u094d\u0924\u093f, \u0905\u0926\u094d\u0935\u0948\u0924\u0924\u094d\u0935\u093e\u0924\u094d\u0938\u0930\u094d\u0935\u092d\u093e\u0935\u093e\u0928\u093e\u092e\u094d\u00a0\u0964 \u0938\u093e\u0919\u094d\u200d\u0916\u094d\u092f\u093e\u0938\u094d\u0924\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0927\u094d\u092f\u093e\u0930\u094b\u092a\u093f\u0924\u092e\u0947\u0935 \u092a\u0941\u0930\u0941\u0937\u0947 \u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u0902 \u0915\u094d\u0930\u093f\u092f\u093e\u0915\u093e\u0930\u0915\u0902 \u092b\u0932\u0902 \u091a\u0947\u0924\u093f \u0915\u0932\u094d\u092a\u092f\u093f\u0924\u094d\u0935\u093e \u0906\u0917\u092e\u092c\u093e\u0939\u094d\u092f\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u0941\u0928\u0938\u094d\u0924\u0924\u0938\u094d\u0924\u094d\u0930\u0938\u094d\u092f\u0928\u094d\u0924\u0903 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0924 \u090f\u0935 \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0902 \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f\u0947\u091a\u094d\u091b\u0928\u094d\u0924\u093f\u00a0\u0964 \u0924\u0924\u094d\u0924\u094d\u0935\u093e\u0928\u094d\u0924\u0930\u0902 \u091a \u092a\u094d\u0930\u0927\u093e\u0928\u0902 \u092a\u0941\u0930\u0941\u0937\u093e\u0926\u094d\u092c\u093e\u0939\u094d\u092f\u0902 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0935\u0938\u094d\u0924\u0941\u092d\u0942\u0924\u092e\u0947\u0935 \u0915\u0932\u094d\u092a\u092f\u0928\u094d\u0924\u094b\u093d\u0928\u094d\u092f\u0924\u093e\u0930\u094d\u0915\u093f\u0915\u0915\u0943\u0924\u092c\u0941\u0926\u094d\u0927\u093f\u0935\u093f\u0937\u092f\u093e\u0903 \u0938\u0928\u094d\u0924\u094b \u0935\u093f\u0939\u0928\u094d\u092f\u0928\u094d\u0924\u0947\u00a0\u0964 \u0924\u0925\u0947\u0924\u0930\u0947\u0924\u093e\u0930\u094d\u0915\u093f\u0915\u093e\u0903 \u0938\u093e\u0919\u094d\u0916\u094d\u092f\u0948\u0903 ; \u0907\u0924\u094d\u092f\u0947\u0935\u0902 \u092a\u0930\u0938\u094d\u092a\u0930\u0935\u093f\u0930\u0941\u0926\u094d\u0927\u093e\u0930\u094d\u0925\u0915\u0932\u094d\u092a\u0928\u093e\u0924 \u0906\u092e\u093f\u0937\u093e\u0930\u094d\u0925\u093f\u0928 \u0907\u0935 \u092a\u094d\u0930\u093e\u0923\u093f\u0928\u094b\u093d\u0928\u094d\u092f\u094b\u0928\u094d\u092f\u0935\u093f\u0930\u0941\u0927\u094d\u092f\u092e\u093e\u0928\u093e\u0930\u094d\u0925\u0926\u0930\u094d\u0936\u093f\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0924\u0924\u094d\u0924\u094d\u0935\u093e\u0926\u094d\u0926\u0942\u0930\u092e\u0947\u0935\u093e\u092a\u0915\u0943\u0937\u094d\u092f\u0928\u094d\u0924\u0947\u00a0\u0964 \u0905\u0924\u0938\u094d\u0924\u0928\u094d\u092e\u0924\u092e\u0928\u093e\u0926\u0943\u0924\u094d\u092f \u0935\u0947\u0926\u093e\u0928\u094d\u0924\u093e\u0930\u094d\u0925\u0924\u0924\u094d\u0924\u094d\u0935\u092e\u0947\u0915\u0924\u094d\u0935\u0926\u0930\u094d\u0936\u0928\u0902 \u092a\u094d\u0930\u0924\u094d\u092f\u093e\u0926\u0930\u0935\u0928\u094d\u0924\u094b \u092e\u0941\u092e\u0941\u0915\u094d\u0937\u0935\u0903 \u0938\u094d\u092f\u0941\u0930\u093f\u0924\u093f \u0924\u093e\u0930\u094d\u0915\u093f\u0915\u092e\u0924\u0926\u094b\u0937\u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928\u0902 \u0915\u093f\u091e\u094d\u091a\u093f\u0926\u0941\u091a\u094d\u092f\u0924\u0947\u093d\u0938\u094d\u092e\u093e\u092d\u093f\u0903 ; \u0928 \u0924\u0941 \u0924\u093e\u0930\u094d\u0915\u093f\u0915\u0935\u0924\u094d\u0924\u093e\u0924\u094d\u092a\u0930\u094d\u092f\u0947\u0923\u00a0\u0964 \u0924\u0925\u0948\u0924\u0926\u0924\u094d\u0930\u094b\u0915\u094d\u0924\u092e\u094d \u2014 \u0935\u093f\u0935\u0926\u0924\u094d\u0938\u094d\u0935\u0947\u0935 \u0928\u093f\u0915\u094d\u0937\u093f\u092a\u094d\u092f \u0935\u093f\u0930\u094b\u0927\u094b\u0926\u094d\u092d\u0935\u0915\u093e\u0930\u0923\u092e\u094d\u00a0\u0964 \u0924\u0948\u0903 \u0938\u0902\u0930\u0915\u094d\u0937\u093f\u0924\u0938\u0926\u094d\u092c\u0941\u0926\u094d\u0927\u093f\u0903 \u0938\u0941\u0916\u0902 \u0928\u093f\u0930\u094d\u0935\u093e\u0924\u093f \u0935\u0947\u0926\u0935\u093f\u0924\u094d \u0965 \u0915\u093f\u091e\u094d\u091a, \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u092f\u094b\u0930\u094d\u0935\u093f\u0915\u094d\u0930\u093f\u092f\u092f\u094b\u0930\u094d\u0935\u093f\u0936\u0947\u0937\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u093f\u0903\u00a0\u0964 \u0915\u093e \u0928\u093e\u092e\u093e\u0938\u094c \u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u093e\u091c\u094d\u091c\u093e\u0924\u094d\u092f\u0928\u094d\u0924\u0930\u092d\u0942\u0924\u093e \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0935\u093f\u0936\u093f\u0937\u094d\u091f\u093e \u0935\u093f\u0915\u094d\u0930\u093f\u092f\u093e, \u092f\u0924\u094b \u092d\u094b\u0915\u094d\u0924\u0948\u0935 \u092a\u0941\u0930\u0941\u0937\u0903 \u0915\u0932\u094d\u092a\u094d\u092f\u0924\u0947 \u0928 \u0915\u0930\u094d\u0924\u093e ; \u092a\u094d\u0930\u0927\u093e\u0928\u0902 \u0924\u0941 \u0915\u0930\u094d\u0924\u094d\u0930\u0947\u0935 \u0928 \u092d\u094b\u0915\u094d\u0924\u0943 \u0907\u0924\u093f\u00a0\u0964 \u0928\u0928\u0941 \u0909\u0915\u094d\u0924\u0902 \u092a\u0941\u0930\u0941\u0937\u0936\u094d\u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930 \u090f\u0935 ; \u0938 \u091a \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u0938\u094d\u0925\u094b \u0935\u093f\u0915\u094d\u0930\u093f\u092f\u0924\u0947 \u092d\u0941\u091e\u094d\u091c\u093e\u0928\u0903, \u0928 \u0924\u0924\u094d\u0924\u094d\u0935\u093e\u0928\u094d\u0924\u0930\u092a\u0930\u093f\u0923\u093e\u092e\u0947\u0928\u00a0\u0964 \u092a\u094d\u0930\u0927\u093e\u0928\u0902 \u0924\u0941 \u0924\u0924\u094d\u0924\u094d\u0935\u093e\u0928\u094d\u0924\u0930\u092a\u0930\u093f\u0923\u093e\u092e\u0947\u0928 \u0935\u093f\u0915\u094d\u0930\u093f\u092f\u0924\u0947 ; \u0905\u0924\u094b \u0928\u0948\u0915\u092e\u0936\u0941\u0926\u094d\u0927\u092e\u091a\u0947\u0924\u0928\u0902 \u091a\u0947\u0924\u094d\u092f\u093e\u0926\u093f\u0927\u0930\u094d\u092e\u0935\u0924\u094d\u00a0\u0964 \u0924\u0926\u094d\u0935\u093f\u092a\u0930\u0940\u0924\u0903 \u092a\u0941\u0930\u0941\u0937\u0903\u00a0\u0964 \u0928\u093e\u0938\u094c \u0935\u093f\u0936\u0947\u0937\u0903, \u0935\u093e\u0919\u094d\u092e\u093e\u0924\u094d\u0930\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u092a\u094d\u0930\u093e\u0917\u094d\u092d\u094b\u0917\u094b\u0924\u094d\u092a\u0924\u094d\u0924\u0947\u0903 \u0915\u0947\u0935\u0932\u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u0938\u094d\u092f \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0902 \u0928\u093e\u092e \u0935\u093f\u0936\u0947\u0937\u094b \u092d\u094b\u0917\u094b\u0924\u094d\u092a\u0924\u094d\u0924\u093f\u0915\u093e\u0932\u0947 \u091a\u0947\u0924\u094d \u091c\u093e\u092f\u0924\u0947, \u0928\u093f\u0935\u0943\u0924\u094d\u0924\u0947 \u091a \u092d\u094b\u0917\u0947 \u092a\u0941\u0928\u0938\u094d\u0924\u0926\u094d\u0935\u093f\u0936\u0947\u0937\u093e\u0926\u092a\u0947\u0924\u0936\u094d\u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930 \u090f\u0935 \u092d\u0935\u0924\u0940\u0924\u093f \u091a\u0947\u0924\u094d ; \u092e\u0939\u0926\u093e\u0926\u094d\u092f\u093e\u0915\u093e\u0930\u0947\u0923 \u091a \u092a\u0930\u093f\u0923\u092e\u094d\u092f \u092a\u094d\u0930\u0927\u093e\u0928\u0902 \u0924\u0924\u094b\u093d\u092a\u0947\u0924\u094d\u092f \u092a\u0941\u0928\u0903 \u092a\u094d\u0930\u0927\u093e\u0928\u0938\u094d\u0935\u0930\u0942\u092a\u0947\u0923 \u0935\u094d\u092f\u0935\u0924\u093f\u0937\u094d\u0920\u0924 \u0907\u0924\u093f \u0905\u0938\u094d\u092f\u093e\u0902 \u0915\u0932\u094d\u092a\u0928\u093e\u092f\u093e\u0902 \u0928 \u0915\u0936\u094d\u091a\u093f\u0926\u094d\u0935\u093f\u0936\u0947\u0937 \u0907\u0924\u093f \u0935\u093e\u0919\u094d\u092e\u093e\u0924\u094d\u0930\u0947\u0923 \u092a\u094d\u0930\u0927\u093e\u0928\u092a\u0941\u0930\u0941\u0937\u092f\u094b\u0930\u094d\u0935\u093f\u0936\u093f\u0937\u094d\u091f\u0935\u093f\u0915\u094d\u0930\u093f\u092f\u093e \u0915\u0932\u094d\u092a\u094d\u092f\u0924\u0947\u00a0\u0964 \u0905\u0925 \u092d\u094b\u0917\u0915\u093e\u0932\u0947\u093d\u092a\u093f \u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930 \u090f\u0935 \u092a\u094d\u0930\u093e\u0917\u094d\u0935\u0924\u094d\u092a\u0941\u0930\u0941\u0937 \u0907\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 \u0924\u0930\u094d\u0939\u093f \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0924\u094b \u092d\u094b\u0917\u0903 \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f\u00a0\u0964 \u0905\u0925 \u092d\u094b\u0917\u0915\u093e\u0932\u0947 \u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u0938\u094d\u092f \u0935\u093f\u0915\u094d\u0930\u093f\u092f\u093e \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0948\u0935, \u0924\u0947\u0928 \u092d\u094b\u0917\u0903 \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f\u0947\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u092a\u094d\u0930\u0927\u093e\u0928\u0938\u094d\u092f\u093e\u092a\u093f \u092d\u094b\u0917\u0915\u093e\u0932\u0947 \u0935\u093f\u0915\u094d\u0930\u093f\u092f\u093e\u0935\u0924\u094d\u0924\u094d\u0935\u093e\u0926\u094d\u092d\u094b\u0915\u094d\u0924\u0943\u0915\u0924\u094d\u0935\u092a\u094d\u0930\u0938\u0919\u094d\u0917\u0903\u00a0\u0964 \u091a\u093f\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u0938\u094d\u092f\u0948\u0935 \u0935\u093f\u0915\u094d\u0930\u093f\u092f\u093e \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u092e\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u0914\u0937\u094d\u0923\u094d\u092f\u093e\u0926\u094d\u092f\u0938\u093e\u0927\u093e\u0930\u0923\u0927\u0930\u094d\u092e\u0935\u0924\u093e\u092e\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u0940\u0928\u093e\u092e\u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0947 \u0939\u0947\u0924\u094d\u0935\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u093f\u0903\u00a0\u0964 \u092a\u094d\u0930\u0927\u093e\u0928\u092a\u0941\u0930\u0941\u0937\u092f\u094b\u0930\u094d\u0926\u094d\u0935\u092f\u094b\u0930\u094d\u092f\u0941\u0917\u092a\u0926\u094d\u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u092e\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u092a\u094d\u0930\u0927\u093e\u0928\u0938\u094d\u092f \u092a\u093e\u0930\u093e\u0930\u094d\u0925\u094d\u092f\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u0947\u0903 \u2014 \u0928 \u0939\u093f \u092d\u094b\u0915\u094d\u0924\u094d\u0930\u094b\u0930\u094d\u0926\u094d\u0935\u092f\u094b\u0930\u093f\u0924\u0930\u0947\u0924\u0930\u0917\u0941\u0923\u092a\u094d\u0930\u0927\u093e\u0928\u092d\u093e\u0935 \u0909\u092a\u092a\u0926\u094d\u092f\u0924\u0947 \u092a\u094d\u0930\u0915\u093e\u0936\u092f\u094b\u0930\u093f\u0935\u0947\u0924\u0930\u0947\u0924\u0930\u092a\u094d\u0930\u0915\u093e\u0936\u0928\u0947\u00a0\u0964 \u092d\u094b\u0917\u0927\u0930\u094d\u092e\u0935\u0924\u093f \u0938\u0924\u094d\u0924\u094d\u0935\u093e\u0919\u094d\u0917\u093f\u0928\u093f \u091a\u0947\u0924\u0938\u093f \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u091a\u0948\u0924\u0928\u094d\u092f\u092a\u094d\u0930\u0924\u093f\u092c\u093f\u092e\u094d\u092c\u094b\u0926\u092f\u093e\u0926\u0935\u093f\u0915\u094d\u0930\u093f\u092f\u0938\u094d\u092f \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u092e\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u0935\u093f\u0936\u0947\u0937\u093e\u092d\u093e\u0935\u0947 \u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0915\u0932\u094d\u092a\u0928\u093e\u0928\u0930\u094d\u0925\u0915\u094d\u092f\u093e\u0924\u094d\u00a0\u0964 \u092d\u094b\u0917\u0930\u0942\u092a\u0936\u094d\u091a\u0947\u0926\u0928\u0930\u094d\u0925\u0903 \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u0928\u093e\u0938\u094d\u092e\u093f \u0938\u0926\u093e \u0928\u093f\u0930\u094d\u0935\u093f\u0936\u0947\u0937\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f, \u0915\u0938\u094d\u092f\u093e\u092a\u0928\u092f\u0928\u093e\u0930\u094d\u0925\u0902 \u092e\u094b\u0915\u094d\u0937\u0938\u093e\u0927\u0928\u0902 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u0902 \u092a\u094d\u0930\u0923\u0940\u092f\u0924\u0947 ? \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0927\u094d\u092f\u093e\u0930\u094b\u092a\u093f\u0924\u093e\u0928\u0930\u094d\u0925\u093e\u092a\u0928\u092f\u0928\u093e\u092f \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u092a\u094d\u0930\u0923\u092f\u0928\u092e\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0924\u0903 \u092a\u0941\u0930\u0941\u0937\u094b \u092d\u094b\u0915\u094d\u0924\u0948\u0935, \u0928 \u0915\u0930\u094d\u0924\u093e ; \u092a\u094d\u0930\u0927\u093e\u0928\u0902 \u0915\u0930\u094d\u0924\u094d\u0930\u0947\u0935 \u0928 \u092d\u094b\u0915\u094d\u0924\u0943 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0938\u0926\u094d\u0935\u0938\u094d\u0924\u094d\u0935\u0928\u094d\u0924\u0930\u0902 \u092a\u0941\u0930\u0941\u0937\u093e\u091a\u094d\u091a \u0907\u0924\u0940\u092f\u0902 \u0915\u0932\u094d\u092a\u0928\u093e \u0906\u0917\u092e\u092c\u093e\u0939\u094d\u092f\u093e \u0935\u094d\u092f\u0930\u094d\u0925\u093e\u0928\u093f\u0930\u094d\u0939\u0947\u0924\u0941\u0915\u093e \u091a \u0907\u0924\u093f \u0928\u093e\u0926\u0930\u094d\u0924\u0935\u094d\u092f\u093e \u092e\u0941\u092e\u0941\u0915\u094d\u0937\u0941\u092d\u093f\u0903\u00a0\u0964 \u090f\u0915\u0924\u094d\u0935\u0947\u093d\u092a\u093f \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u092a\u094d\u0930\u0923\u092f\u0928\u093e\u0926\u094d\u092f\u093e\u0928\u0930\u094d\u0925\u0915\u094d\u092f\u092e\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0905\u092d\u093e\u0935\u093e\u0924\u094d \u2014 \u0938\u0924\u094d\u0938\u0941 \u0939\u093f \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u092a\u094d\u0930\u0923\u0947\u0924\u094d\u0930\u093e\u0926\u093f\u0937\u0941 \u0924\u0924\u094d\u092b\u0932\u093e\u0930\u094d\u0925\u093f\u0937\u0941 \u091a \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u0938\u094d\u092f \u092a\u094d\u0930\u0923\u092f\u0928\u092e\u0930\u094d\u0925\u0935\u0926\u0928\u0930\u094d\u0925\u0915\u0902 \u0935\u0947\u0924\u093f \u0935\u093f\u0915\u0932\u094d\u092a\u0928\u093e \u0938\u094d\u092f\u093e\u0924\u094d\u00a0\u0964 \u0928 \u0939\u094d\u092f\u093e\u0924\u094d\u092e\u0948\u0915\u0924\u094d\u0935\u0947 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u092a\u094d\u0930\u0923\u0947\u0924\u094d\u0930\u093e\u0926\u092f\u0938\u094d\u0924\u0924\u094b \u092d\u093f\u0928\u094d\u0928\u093e\u0903 \u0938\u0928\u094d\u0924\u093f ; \u0924\u0926\u092d\u093e\u0935\u0947 \u090f\u0935\u0902 \u0935\u093f\u0915\u0932\u094d\u092a\u0928\u0948\u0935\u093e\u0928\u0941\u092a\u092a\u0928\u094d\u0928\u093e\u00a0\u0964 \u0905\u092d\u094d\u092f\u0941\u092a\u0917\u0924\u0947 \u0906\u0924\u094d\u092e\u0948\u0915\u0924\u094d\u0935\u0947 \u092a\u094d\u0930\u092e\u093e\u0923\u093e\u0930\u094d\u0925\u0936\u094d\u091a\u093e\u092d\u094d\u092f\u0941\u092a\u0917\u0924\u094b \u092d\u0935\u0924\u093e \u092f\u0926\u093e\u0924\u094d\u092e\u0948\u0915\u0924\u094d\u0935\u092e\u092d\u094d\u092f\u0941\u092a\u0917\u091a\u094d\u091b\u0924\u093e\u00a0\u0964 \u0924\u0926\u092d\u094d\u092f\u0941\u092a\u0917\u092e\u0947 \u091a \u0935\u093f\u0915\u0932\u094d\u092a\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u093f\u092e\u093e\u0939 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u092e\u094d \n\u2018\u092f\u0924\u094d\u0930 \u0924\u094d\u0935\u0938\u094d\u092f \u0938\u0930\u094d\u0935\u092e\u093e\u0924\u094d\u092e\u0948\u0935\u093e\u092d\u0942\u0924\u094d\u0924\u0924\u094d\u0915\u0947\u0928 \u0915\u0902 \u092a\u0936\u094d\u092f\u0947\u0924\u094d\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u096b\u00a0\u0964 \u0967\u096a)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f ; \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u092a\u094d\u0930\u0923\u092f\u0928\u093e\u0926\u094d\u092f\u0941\u092a\u092a\u0924\u094d\u0924\u093f\u0902 \u091a\u093e\u0939 \u0905\u0928\u094d\u092f\u0924\u094d\u0930 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0935\u0938\u094d\u0924\u0941\u0938\u094d\u0935\u0930\u0942\u092a\u093e\u0926\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0937\u092f\u0947 \n\u2018\u092f\u0924\u094d\u0930 \u0939\u093f \u0926\u094d\u0935\u0948\u0924\u092e\u093f\u0935 \u092d\u0935\u0924\u093f\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u096b\u00a0\u0964 \u0967\u096a)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f \u0935\u093f\u0938\u094d\u0924\u0930\u0924\u094b \u0935\u093e\u091c\u0938\u0928\u0947\u092f\u0915\u0947\u00a0\u0964 \u0905\u0924\u094d\u0930 \u091a \u0935\u093f\u092d\u0915\u094d\u0924\u0947 \u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0926\u094d\u092f\u0947 \u092a\u0930\u093e\u092a\u0930\u0947 \u0907\u0924\u094d\u092f\u093e\u0926\u093e\u0935\u0947\u0935 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u0938\u094d\u092f\u00a0\u0964 \u0905\u0924\u094b \u0928 \u0924\u093e\u0930\u094d\u0915\u093f\u0915\u0935\u093e\u0926\u092d\u091f\u092a\u094d\u0930\u0935\u0947\u0936\u094b \u0935\u0947\u0926\u093e\u0928\u094d\u0924\u0930\u093e\u091c\u092a\u094d\u0930\u092e\u093e\u0923\u092c\u093e\u0939\u0941\u0917\u0941\u092a\u094d\u0924\u0947 \u0907\u0939\u093e\u0924\u094d\u092e\u0948\u0915\u0924\u094d\u0935\u0935\u093f\u0937\u092f\u0947 \u0907\u0924\u093f\u00a0\u0964 \u090f\u0924\u0947\u0928\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u0943\u0924\u0928\u093e\u092e\u0930\u0942\u092a\u093e\u0926\u094d\u092f\u0941\u092a\u093e\u0927\u093f\u0915\u0943\u0924\u093e\u0928\u0947\u0915\u0936\u0915\u094d\u0924\u093f\u0938\u093e\u0927\u0928\u0915\u0943\u0924\u092d\u0947\u0926\u0935\u0924\u094d\u0924\u094d\u0935\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0923\u0903 \u0938\u0943\u0937\u094d\u091f\u094d\u092f\u093e\u0926\u093f\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u0947 \u0938\u093e\u0927\u0928\u093e\u0926\u094d\u092f\u092d\u093e\u0935\u094b \u0926\u094b\u0937\u0903 \u092a\u094d\u0930\u0924\u094d\u092f\u0941\u0915\u094d\u0924\u094b \u0935\u0947\u0926\u093f\u0924\u0935\u094d\u092f\u0903, \u092a\u0930\u0948\u0930\u0941\u0915\u094d\u0924 \u0906\u0924\u094d\u092e\u093e\u0928\u0930\u094d\u0925\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u093e\u0926\u093f\u0926\u094b\u0937\u0936\u094d\u091a\u00a0\u0964 \u092f\u0938\u094d\u0924\u0941 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u094b \u0930\u093e\u091c\u094d\u091e\u0903 \u0938\u0930\u094d\u0935\u093e\u0930\u094d\u0925\u0915\u093e\u0930\u093f\u0923\u093f \u0915\u0930\u094d\u0924\u0930\u093f \u092d\u0943\u0924\u094d\u092f\u0947 \u0909\u092a\u091a\u093e\u0930\u094b \u0930\u093e\u091c\u093e \u0915\u0930\u094d\u0924\u0947\u0924\u093f, \u0938\u094b\u093d\u0924\u094d\u0930\u093e\u0928\u0941\u092a\u092a\u0928\u094d\u0928\u0903 ; \u2018\u0938 \u0908\u0915\u094d\u0937\u093e\u091e\u094d\u091a\u0915\u094d\u0930\u0947\u2019 \u0907\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u0947\u0930\u094d\u092e\u0941\u0916\u094d\u092f\u093e\u0930\u094d\u0925\u092c\u093e\u0927\u0928\u093e\u0924\u094d\u092a\u094d\u0930\u092e\u093e\u0923\u092d\u0942\u0924\u093e\u092f\u093e\u0903\u00a0\u0964 \u0924\u0924\u094d\u0930 \u0939\u093f \u0917\u094c\u0923\u0940 \u0915\u0932\u094d\u092a\u0928\u093e \u0936\u092c\u094d\u0926\u0938\u094d\u092f, \u092f\u0924\u094d\u0930 \u092e\u0941\u0916\u094d\u092f\u093e\u0930\u094d\u0925\u094b \u0928 \u0938\u092e\u094d\u092d\u0935\u0924\u093f\u00a0\u0964 \u0907\u0939 \u0924\u094d\u0935\u091a\u0947\u0924\u0928\u0938\u094d\u092f \u092e\u0941\u0915\u094d\u0924\u092c\u0926\u094d\u0927\u092a\u0941\u0930\u0941\u0937\u0935\u093f\u0936\u0947\u0937\u093e\u092a\u0947\u0915\u094d\u0937\u092f\u093e \u0915\u0930\u094d\u0924\u0943\u0915\u0930\u094d\u092e\u0926\u0947\u0936\u0915\u093e\u0932\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u093e\u092a\u0947\u0915\u094d\u0937\u092f\u093e \u091a \u092c\u0928\u094d\u0927\u092e\u094b\u0915\u094d\u0937\u093e\u0926\u093f\u092b\u0932\u093e\u0930\u094d\u0925\u093e \u0928\u093f\u092f\u0924\u093e \u092a\u0941\u0930\u0941\u0937\u0902 \u092a\u094d\u0930\u0924\u093f \u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093f\u0930\u094d\u0928\u094b\u092a\u092a\u0926\u094d\u092f\u0924\u0947 ; \u092f\u0925\u094b\u0915\u094d\u0924\u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0947\u0936\u094d\u0935\u0930\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u092a\u0915\u094d\u0937\u0947 \u0924\u0941 \u0909\u092a\u092a\u0928\u094d\u0928\u093e  \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014The kalas were stated to have their origin in Purusha in order that the Purusha may be distinctly described. In what order these kalas come out of their origin was stated for another purpose. That the creation was preceded by intelligence is shown by this statement, i.e., the Purusha of sixteen kalas, asked for by Bharadvaja \u2018saw ,\u2019 i.e. , \u2018 thought .\u2019 The fruit and order of creation are thus explained. On what agent going out of my body I myself will be going out. On what staying in the body, I myself shall stay. Herein, it is objected, that the \u00c2tman is not the creator, and that Pradhana or Prakriti is the creator. Prakriti , therefore, converts itself into mahat and other forms, for the benefit of the Purusha. It does not stand to reason to say that the Purusha created the universe by his thought of himself; while there is the Prakriti , the state of equilibrium of the three Gunas , satva , etc., competent according to recognised authorities, to create the world; or, while there are the atoms, acting agreeably to the divine will; because, the \u00c2tman being one, has not the necessary materials to create the universe, and further, to attribute creation to the \u00c2tman , is to make the \u00c2tman the author of evils to himself. For, no intelligent being, it is well-known, will do anything to his own trouble. Therefore, the assertion he saw, (thought), etc., is meant to dignify the unintelligent creator Prakriti into an intelligent entity, seeing how the Prakriti in view to bene lit the Purusha acts in an established order, as if possessed of intelligence.\nThe Purusha is said to create, just as a king is said to do things, when the king\u2019s factotum does all. This contention has no force. It is equally appropriate to view the \u00c2tman as the creator of the universe, as to look upon him as the enjoyer. As, according to the Sankhya , the \u00c2tman which is mere intelligence and not liable to any change can, be the enjoyer, so according to the follower of the Vedas, he can be also the author of creation preceded by thought; for, there is the authority of the sruti on the point. It is urged that, if the \u00c2tman is transformed into a diligent entity, it must be subject to the faults of transiency, impurity and diversity; but where there is a mere change in the intelligence of the \u00c2tman, as during enjoyment, without a change of entity, there can be no fault. It is also urged that in the case of the followers of the Vedas who attribute to the \u00c2tman the function of the creation of the universe, they make the \u00c2tman transient and subject to such other faults, by attributing to him a change of entities. This objection is not sound; for, it is admitted that the \u00c2tman has two aspects, one unconditioned and the other assuming distinguishing conditions of name and form imposed upon it by ignorance ( avidya).\nThe aspect of the \u00c2tman well-known to be the result of the conditions of name and form, due to ignorance, is admitted, only because it is talked about in the sastras which deal with the so-called bondage and the emancipation of the atman . But the entity, in its real nature, is unconditioned, one without a second, incomprehensible to the intellect of all logicians, fearless and pure. It cannot, therefore, be the creator or enjoyer, nor could there be actions, agent or fruit, with reference to it. For, everything is identical with the \u00c2tman. But the Sankhyas who found that creation, act, agent and fruits were all super-imposed upon the Purusha , by ignorance ( avidya ) recoiled from their position, because of their non-allegiance to the sastras, and postulated that the Purusha is really the enjoyer. They postulated also the existence of Prakriti , as an entity really distinct from the Purusha and have been overcome by the reasonings of other logicians; similarly, have other logicians been overcome by the Sankhyas . Thus engaged in supporting conflicting theories and fighting each other like creatures, striving to get at the same piece of flesh, they have all of them been continually drawn away from the truth finding the authorities against each other. In order that those desirous of emancipation may disregard all their theories and strive with zeal to realize the true drift of the Vedanta, i.e ., universal identity, we point out the flaws in the theory of the logicians but we do not do it in the spirit of a logician. It has been accordingly observed \u2018having left the causes of all disputes to other disputants, the knower of the Vedas, with his intelligence well protected by them, reposes in happiness.\u2019 Again, there is no difference in the nature of the changes required to make the Purusha the creator and the enjoyer respectively. What is that kind or change which would support the theory that the Purusha could be said to be only the enjoyer but not the creator and the Pradhana to be only the creator and not the enjoyer.\nIt was said that the intelligent \u00c2tman changes in itself and enjoys but is not converted to anything distinct from itself; whereas Prakriti is converted into different entities and thus acquires the characters of diversity, impurity and dullness, but not so Purusha . To this we answer that this is really no distinction, being purely verbal. If it be urged that the \u00c2tman , which is purely intelligent, undergoes a change when the time of enjoyment comes and that when the enjoyment is over, it gives up the change becoming purely intelligent again, it may be said similarly that Prakriti is changed into forms, like mahat, withdraws itself from them, and becomes Prakriti again, and the distinction in respect of the changes undergone by Purusha , and Pradhana is, therefore, verbal. If it be urged that even during the time of enjoyment, the Purusha is purely intelligent as before it, then it is plain that the enjoyment attributed to the Purusha is not real. If it be urged that the intelligent Purusha undergoes real change during enjoyment and enjoys by means of that change, this enjoyment may be attributed to Pradhana as well, seeing that it also undergoes change during enjoyment. If it be urged that the change in the intelligence of Purusha alone is enjoyment, we see no reason why fire, etc., which possess special attributes such as heat, etc., are not said to enjoy. Nor could it be said that Pradhana and Purusha enjoy simultaneously; for, it would be then inappropriate to hold that Pradhana is working for another. It is well-known that of two enjoyers, one cannot be dependent upon the other as chief, in the same way that two lights cannot be, in enlightening each other.\nIf it be said that the reflection of the intelligence of the Purusha in the mind, which is essentially satvic in its nature and has the attribute of enjoyment, is what is meant by the capacity to enjoy, of the Purusha which is really not subject to any modification, we say \u2018no\u2019; for, if such capacity does not affect the Purusha, the making him the enjoyer is meaningless. If the misery of enjoyment does not attach to the Purusha , he being always devoid of changes, to remove what, is the sastra leading to emancipation made? If it be said that the sastra is made to remove the evil, merely superposed by ignorance, on the Purusha , then the theory that Purusha is really the enjoyer alone, not creator, that Pradhana is the creator alone, not enjoyer; that there is a real and distinct entity other than the Purusha should not be respected by those wishing for emancipation, as it is unsupported by agamas , superfluous and unreasonable. If it be urged that even if there were but one entity, i.e., the \u00c2tman, the compiling of the sastra is superfluous, we say \u2018no.\u2019 There is no such defect. The alternative doubt, whether the compilation of the sastras is superfluous or otherwise, can arise only if there be those who compose the sastras and those who seek its fruits. If the \u00c2tman were one, there can be no composer of the sastras , etc., different from that. In their absence, this alternative question is itself inappropriate. When the oneness of the \u00c2tman is admitted, the use of the sastras is also admitted by you. When that is admitted, the sruti points out the inappropriateness of the alternative supposition. \u2018But, where to him all becomes surely \u00c2tman, there who could see what and by whom, etc.\u2019\nThe appropriateness of compiling the sastra is also pointed out, when Sealing from the standpoint of ignorance, without the knowledge of the real existing entity. Thus at length, in the Vajasaneyaka \u2018where he sees as if quality exists, etc.\u2019 In this Atharvamantropanishad also, a division of the sastra is made at the very beginning, as that relating to Para (higher) Vidya and to Apara (lower) Vidya. Therefore, there is no scope for the army of the arguments of logicians entering into this domain of oneness of the \u00c2tman well-guarded by the hand of the royal authority of Vedanta. By this, it must be understood that the fault of \u2018want of materials\u2019 in creating, pointed out in the Brahman by others, has been refuted, as the Brahman appears possessed of a diversity of many powers and means, due to conditions of name and form produced by ignorance; as also the objection that the atman brings misery on itself, etc. As for the illustration that the king is by courtesy called the doer, when the king\u2019s factotum is the real doer, that is not here in point. For, then, the primary import of the authoritative sruti \u2018he saw, etc.,\u2019 will be affected. Where the primary meaning of a word cannot be possibly accepted, there alone is a secondary meaning allowed. But here to say that a non-intelligent thing puts forth well-regulated activity in the cause of Purusha taking note of persons emancipated and bound, of doer, deed, place, time and causes and for the purposes of securing such results as bondage, emancipation, etc., does not stand to reason. But on the view already stated that the omniscient lord is the creator, this stands to reason."
+        "text": "यस्मिन्नेताः षोडश कलाः प्रभवन्तीत्युक्तः पुरुषविशेषणार्थः कलानां प्रभवः, स चान्यार्थोऽपि श्रुतः केन क्रमेण स्यादित्यत इदमुच्यते । चेतनपूर्विका च सृष्टिरित्येवमर्थं च । स पुरुषः षोडशकलः पृष्टो यो भारद्वाजेन सः ईक्षाञ्चक्रे ईक्षणं दर्शनं चक्रे — कृतवानित्यर्थः — सृष्टिफलक्रमादिविषयम् । कथमिति, उच्यते — कस्मिन् कर्तृविशेषे देहादुत्क्रान्ते उत्क्रान्तो भविष्यामि अहमेव; कस्मिन्वा शरीरे प्रतिष्ठिते अहं प्रतिष्ठास्यामि प्रतिष्ठितः स्यामित्यर्थः । नन्वात्मा अकर्ता प्रधानं कर्तृ; अतः पुरुषार्थं प्रयोजनमुररीकृत्य प्रधानं प्रवर्तते महदाद्याकारेण; तत्रेदमनुपपन्नं पुरुषस्य स्वातन्त्र्येणेक्षापूर्वकं कर्तृत्ववचनम्, सत्त्वादिगुणसाम्ये प्रधाने प्रमाणोपपन्ने सृष्टिकर्तरि सति ईश्वरेच्छानुवर्तिषु वा परमाणुषु सत्सु आत्मनोऽप्येकत्वेन कर्तृत्वे साधनाभावादात्मन आत्मन्यनर्थकर्तृत्वानुपपत्तेश्च । न हि चेतनावान्बुद्धिपूर्वकारी आत्मनः अनर्थं कुर्यात् तस्मात्पुरुषार्थेन प्रयोजनेनेक्षापूर्वकमिव नियतक्रमेण प्रवर्तमानेऽचेतनेऽपि प्रधाने चेतनवदुपचारोऽयं स ईक्षाञ्चक्रे इत्यादिः; यथा राज्ञः सर्वार्थकारिणि भृत्ये राजेति, तद्वत् । न; आत्मनो भोक्तृत्ववत्कर्तृत्वोपपत्तेः — यथा साङ्ख्यस्य चिन्मात्रस्यापरिणामिनोऽप्यात्मनो भोक्तृत्वम्, तद्वद्वेदवादिनामीक्षापूर्वकं जगत्कर्तृत्वमुपपन्नं श्रुतिप्रामाण्यात् । तत्त्वान्तरपरिणामादात्मनोऽनित्यत्वाशुद्धत्वानेकत्वनिमित्तं चिन्मात्रस्वरूपविक्रियातः पुरुषस्य स्वात्मन्येव भोक्तृत्वे चिन्मात्रस्वरूपविक्रिया न दोषाय । भवतां पुनर्वेदवादिनां सृष्टिकर्तृत्वे तत्त्वान्तरपरिणाम एवेत्यात्मनोऽनित्यत्वादिसर्वदोषप्रसङ्ग इति चेत्, न; एकस्याप्यात्मनोऽविद्याविषयनामरूपोपाध्यनुपाधिकृतविशेषाभ्युपगमात् । अविद्याकृतनामरूपोपाधिनिमित्तो हि विशेषोऽभ्युपगम्यते आत्मनो बन्धमोक्षादिशास्त्रकृतसंव्यवहाराय । परमार्थतोऽनुपाधिकृतं च तत्त्वमेकमेवाद्वितीयमुपादेयं सर्वतार्किकबुद्ध्यनवगम्यं ह्यजमभयं शिवमिष्यते । न तत्र कर्तृत्वं भोक्तृत्वं वा क्रियाकारकफलं वास्ति, अद्वैतत्वात्सर्वभावानाम् । साङ्ख्यास्त्वविद्याध्यारोपितमेव पुरुषे कर्तृत्वं क्रियाकारकं फलं चेति कल्पयित्वा आगमबाह्यत्वात्पुनस्ततस्त्रस्यन्तः परमार्थत एव भोक्तृत्वं पुरुषस्येच्छन्ति । तत्त्वान्तरं च प्रधानं पुरुषाद्बाह्यं परमार्थवस्तुभूतमेव कल्पयन्तोऽन्यतार्किककृतबुद्धिविषयाः सन्तो विहन्यन्ते । तथेतरेतार्किकाः साङ्ख्यैः; इत्येवं परस्परविरुद्धार्थकल्पनात आमिषार्थिन इव प्राणिनोऽन्योन्यविरुध्यमानार्थदर्शित्वात्परमार्थतत्त्वाद्दूरमेवापकृष्यन्ते । अतस्तन्मतमनादृत्य वेदान्तार्थतत्त्वमेकत्वदर्शनं प्रत्यादरवन्तो मुमुक्षवः स्युरिति तार्किकमतदोषप्रदर्शनं किञ्चिदुच्यतेऽस्माभिः; न तु तार्किकवत्तात्पर्येण । तथैतदत्रोक्तम् — विवदत्स्वेव निक्षिप्य विरोधोद्भवकारणम् । तैः संरक्षितसद्बुद्धिः सुखं निर्वाति वेदवित् ॥ किञ्च, भोक्तृत्वकर्तृत्वयोर्विक्रिययोर्विशेषानुपपत्तिः । का नामासौ कर्तृत्वाज्जात्यन्तरभूता भोक्तृत्वविशिष्टा विक्रिया, यतो भोक्तैव पुरुषः कल्प्यते न कर्ता; प्रधानं तु कर्त्रेव न भोक्तृ इति । ननु उक्तं पुरुषश्चिन्मात्र एव; स च स्वात्मस्थो विक्रियते भुञ्जानः, न तत्त्वान्तरपरिणामेन । प्रधानं तु तत्त्वान्तरपरिणामेन विक्रियते; अतो नैकमशुद्धमचेतनं चेत्यादिधर्मवत् । तद्विपरीतः पुरुषः । नासौ विशेषः, वाङ्मात्रत्वात् । प्राग्भोगोत्पत्तेः केवलचिन्मात्रस्य पुरुषस्य भोक्तृत्वं नाम विशेषो भोगोत्पत्तिकाले चेत् जायते, निवृत्ते च भोगे पुनस्तद्विशेषादपेतश्चिन्मात्र एव भवतीति चेत्; महदाद्याकारेण च परिणम्य प्रधानं ततोऽपेत्य पुनः प्रधानस्वरूपेण व्यवतिष्ठत इति अस्यां कल्पनायां न कश्चिद्विशेष इति वाङ्मात्रेण प्रधानपुरुषयोर्विशिष्टविक्रिया कल्प्यते । अथ भोगकालेऽपि चिन्मात्र एव प्राग्वत्पुरुष इति चेत्, न तर्हि परमार्थतो भोगः पुरुषस्य । अथ भोगकाले चिन्मात्रस्य विक्रिया परमार्थैव, तेन भोगः पुरुषस्येति चेत्, न; प्रधानस्यापि भोगकाले विक्रियावत्त्वाद्भोक्तृकत्वप्रसङ्गः । चिन्मात्रस्यैव विक्रिया भोक्तृत्वमिति चेत्, औष्ण्याद्यसाधारणधर्मवतामग्न्यादीनामभोक्तृत्वे हेत्वनुपपत्तिः । प्रधानपुरुषयोर्द्वयोर्युगपद्भोक्तृत्वमिति चेत्, न; प्रधानस्य पारार्थ्यानुपपत्तेः — न हि भोक्त्रोर्द्वयोरितरेतरगुणप्रधानभाव उपपद्यते प्रकाशयोरिवेतरेतरप्रकाशने । भोगधर्मवति सत्त्वाङ्गिनि चेतसि पुरुषस्य चैतन्यप्रतिबिम्बोदयादविक्रियस्य पुरुषस्य भोक्तृत्वमिति चेत्, न; पुरुषस्य विशेषाभावे भोक्तृत्वकल्पनानर्थक्यात् । भोगरूपश्चेदनर्थः पुरुषस्य नास्मि सदा निर्विशेषत्वात्पुरुषस्य, कस्यापनयनार्थं मोक्षसाधनं शास्त्रं प्रणीयते? अविद्याध्यारोपितानर्थापनयनाय शास्त्रप्रणयनमिति चेत्, परमार्थतः पुरुषो भोक्तैव, न कर्ता; प्रधानं कर्त्रेव न भोक्तृ परमार्थसद्वस्त्वन्तरं पुरुषाच्च इतीयं कल्पना आगमबाह्या व्यर्थानिर्हेतुका च इति नादर्तव्या मुमुक्षुभिः । एकत्वेऽपि शास्त्रप्रणयनाद्यानर्थक्यमिति चेत्, न; अभावात् — सत्सु हि शास्त्रप्रणेत्रादिषु तत्फलार्थिषु च शास्त्रस्य प्रणयनमर्थवदनर्थकं वेति विकल्पना स्यात् । न ह्यात्मैकत्वे शास्त्रप्रणेत्रादयस्ततो भिन्नाः सन्ति; तदभावे एवं विकल्पनैवानुपपन्ना । अभ्युपगते आत्मैकत्वे प्रमाणार्थश्चाभ्युपगतो भवता यदात्मैकत्वमभ्युपगच्छता । तदभ्युपगमे च विकल्पानुपपत्तिमाह शास्त्रम् ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. ४ । ५ । १४) इत्यादि; शास्त्रप्रणयनाद्युपपत्तिं चाह अन्यत्र परमार्थवस्तुस्वरूपादविद्याविषये ‘यत्र हि द्वैतमिव भवति’ (बृ. उ. ४ । ५ । १४) इत्यादि विस्तरतो वाजसनेयके । अत्र च विभक्ते विद्याविद्ये परापरे इत्यादावेव शास्त्रस्य । अतो न तार्किकवादभटप्रवेशो वेदान्तराजप्रमाणबाहुगुप्ते इहात्मैकत्वविषये इति । एतेनाविद्याकृतनामरूपाद्युपाधिकृतानेकशक्तिसाधनकृतभेदवत्त्वाद्ब्रह्मणः सृष्ट्यादिकर्तृत्वे साधनाद्यभावो दोषः प्रत्युक्तो वेदितव्यः, परैरुक्त आत्मानर्थकर्तृत्वादिदोषश्च । यस्तु दृष्टान्तो राज्ञः सर्वार्थकारिणि कर्तरि भृत्ये उपचारो राजा कर्तेति, सोऽत्रानुपपन्नः; ‘स ईक्षाञ्चक्रे’ इति श्रुतेर्मुख्यार्थबाधनात्प्रमाणभूतायाः । तत्र हि गौणी कल्पना शब्दस्य, यत्र मुख्यार्थो न सम्भवति । इह त्वचेतनस्य मुक्तबद्धपुरुषविशेषापेक्षया कर्तृकर्मदेशकालनिमित्तापेक्षया च बन्धमोक्षादिफलार्था नियता पुरुषं प्रति प्रवृत्तिर्नोपपद्यते; यथोक्तसर्वज्ञेश्वरकर्तृत्वपक्षे तु उपपन्ना ॥"
       }
     ],
     "commentary_faqs": []
@@ -113,15 +452,114 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-6",
-      "chapter_name": "Chapter 6",
+      "chapter_name": "Question 6: Sixteen Kalās",
       "verse_number": 4,
       "chapter_number": 6,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145343.html"
+      "mantra_ref": "6.4",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0938 \u092a\u094d\u0930\u093e\u0923\u092e\u0938\u0943\u091c\u0924 \u092a\u094d\u0930\u093e\u0923\u093e\u091a\u094d\u091b\u094d\u0930\u0926\u094d\u0927\u093e \u0916\u0902 \u0935\u093e\u092f\u0941\u0930\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0930\u093e\u092a\u0903 \u092a\u0943\u0925\u093f\u0935\u0940\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0902 \u092e\u0928\u0903\u00a0\u0964 \u0905\u0928\u094d\u0928\u092e\u0928\u094d\u0928\u093e\u0926\u094d\u0935\u0940\u0930\u094d\u092f\u0902 \u0924\u092a\u094b \u092e\u0928\u094d\u0924\u094d\u0930\u093e\u0903 \u0915\u0930\u094d\u092e \u0932\u094b\u0915\u093e \u0932\u094b\u0915\u0947\u0937\u0941 \u091a \u0928\u093e\u092e \u091a \u0965 \u096a \u0965",
-    "transliteration": "sa pr\u0101\u1e47amas\u1e5bjata pr\u0101\u1e47\u0101cchraddh\u0101\u1e43 kha\u1e43 v\u0101yurjyotir\u0101pa\u1e25 p\u1e5bthiv\u012bndriya\u1e43 mana\u1e25 annamann\u0101dv\u012brya\u1e43 tapo mantr\u0101\u1e25 karmalok\u0101 loke\u1e63u ca n\u0101ma ca || 4 ||",
+    "section_title": "Question 6: Sixteen Kalās",
+    "sanskrit_shloka": "स प्राणमसृजत प्राणाच्छ्रद्धा खं वायुर्ज्योतिरापः पृथिवीन्द्रियं मनः । अन्नमन्नाद्वीर्यं तपो मन्त्राः कर्म लोका लोकेषु च नाम च ॥ ४ ॥",
+    "transliteration": "sa prāṇamasṛjata prāṇācchraddhā khaṃ vāyurjyotirāpaḥ pṛthivīndriyaṃ manaḥ | annamannādvīryaṃ tapo mantrāḥ karma lokā lokeṣu ca nāma ca || 4 ||",
     "translation": "4. He created Prana; from Prana faith, akasa , air, fire, water, earth, senses, mind and food; and from food, strength, contemplation, mantras, karma and worlds; and in worlds name also.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "He (that Puruṣa, the creator)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "प्राणमसृजत",
+        "word_english": "He created prāṇa (Hiraṇyagarbha, the all-sustaining inner self)",
+        "grammar_role": "प्राण · द्वितीया·एक·पुं + √सृज् · लङ्·प्रथमपुरुष·एक·आत्मनेपद",
+        "root": "प्राणम् + असृजत"
+      },
+      {
+        "word_sanskrit": "प्राणाच्छ्रद्धा",
+        "word_english": "from prāṇa, śraddhā (faith, the impulse to good works)",
+        "grammar_role": "प्राण · पञ्चमी·एक·पुं + श्रद्धा · प्रथमा·एक·स्त्री",
+        "root": "प्राणात् + श्रद्धा"
+      },
+      {
+        "word_sanskrit": "खं",
+        "word_english": "ether/space (created; having sound as its quality)",
+        "grammar_role": "ख · द्वितीया·एक·नपुं",
+        "root": "खम्"
+      },
+      {
+        "word_sanskrit": "वायुर्ज्योतिरापः",
+        "word_english": "air, fire (light), waters",
+        "grammar_role": "वायु · प्रथमा·एक·पुं + ज्योतिस् · प्रथमा·एक·नपुं + अप् · प्रथमा·बहु·स्त्री",
+        "root": "वायुः + ज्योतिः + आपः"
+      },
+      {
+        "word_sanskrit": "पृथिवीन्द्रियं",
+        "word_english": "earth; the (ten-fold) sense-organs",
+        "grammar_role": "पृथिवी · प्रथमा·एक·स्त्री + इन्द्रिय · द्वितीया·एक·नपुं",
+        "root": "पृथिवी + इन्द्रियम्"
+      },
+      {
+        "word_sanskrit": "मनः",
+        "word_english": "mind (inner organ of doubt/option)",
+        "grammar_role": "मनस् · प्रथमा·एक·नपुं",
+        "root": "मनः"
+      },
+      {
+        "word_sanskrit": "अन्नमन्नाद्वीर्यं",
+        "word_english": "food; from eaten food, vigour (strength)",
+        "grammar_role": "अन्न · द्वितीया·एक·नपुं + अन्न · पञ्चमी·एक·नपुं + वीर्य · द्वितीया·एक·नपुं",
+        "root": "अन्नम् + अन्नात् + वीर्यम्"
+      },
+      {
+        "word_sanskrit": "तपो",
+        "word_english": "austerity (means of purification)",
+        "grammar_role": "तपस् · प्रथमा·एक·नपुं",
+        "root": "तपः"
+      },
+      {
+        "word_sanskrit": "मन्त्राः",
+        "word_english": "the mantras",
+        "grammar_role": "मन्त्र · प्रथमा·बहु·पुं",
+        "root": "मन्त्राः"
+      },
+      {
+        "word_sanskrit": "कर्म",
+        "word_english": "action (ritual work)",
+        "grammar_role": "कर्मन् · प्रथमा·एक·नपुं",
+        "root": "कर्म"
+      },
+      {
+        "word_sanskrit": "लोका",
+        "word_english": "the worlds",
+        "grammar_role": "लोक · प्रथमा·बहु·पुं",
+        "root": "लोकाः"
+      },
+      {
+        "word_sanskrit": "लोकेषु",
+        "word_english": "in the worlds",
+        "grammar_role": "लोक · सप्तमी·बहु·पुं",
+        "root": "लोकेषु"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "नाम",
+        "word_english": "name",
+        "grammar_role": "नामन् · प्रथमा·एक·नपुं",
+        "root": "नाम"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -132,13 +570,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0908\u0936\u094d\u0935\u0930\u0947\u0923\u0948\u0935 \u0938\u0930\u094d\u0935\u093e\u0927\u093f\u0915\u093e\u0930\u0940 \u092a\u094d\u0930\u093e\u0923\u0903 \u092a\u0941\u0930\u0941\u0937\u0947\u0923 \u0938\u0943\u091c\u094d\u092f\u0924\u0947 - \u0915\u0925\u092e\u094d ? \u0938\u0903 \u092a\u0941\u0930\u0941\u0937\u0903 \u0909\u0915\u094d\u0924\u092a\u094d\u0930\u0915\u093e\u0930\u0947\u0923\u0947\u0915\u094d\u0937\u093f\u0924\u094d\u0935\u093e \u0938\u0930\u094d\u0935\u092a\u094d\u0930\u093e\u0923\u0902 \u0939\u093f\u0930\u0923\u094d\u092f\u0917\u0930\u094d\u092d\u093e\u0916\u094d\u092f\u0902 \u0938\u0930\u094d\u0935\u092a\u094d\u0930\u093e\u0923\u093f\u0915\u0930\u0923\u093e\u0927\u093e\u0930\u092e\u0928\u094d\u0924\u0930\u093e\u0924\u094d\u092e\u093e\u0928\u092e\u094d \u0905\u0938\u0943\u091c\u0924 \u0938\u0943\u0937\u094d\u091f\u0935\u093e\u0928\u094d\u00a0\u0964 \u0924\u0924\u0903 \u092a\u094d\u0930\u093e\u0923\u093e\u0924\u094d \u0936\u094d\u0930\u0926\u094d\u0927\u093e\u0902 \u0938\u0930\u094d\u0935\u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u0902 \u0936\u0941\u092d\u0915\u0930\u094d\u092e\u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093f\u0939\u0947\u0924\u0941\u092d\u0942\u0924\u093e\u092e\u094d ; \u0924\u0924\u0903 \u0915\u0930\u094d\u092e\u092b\u0932\u094b\u092a\u092d\u094b\u0917\u0938\u093e\u0927\u0928\u093e\u0927\u093f\u0937\u094d\u0920\u093e\u0928\u093e\u0928\u093f \u0915\u093e\u0930\u0923\u092d\u0942\u0924\u093e\u0928\u093f \u092e\u0939\u093e\u092d\u0942\u0924\u093e\u0928\u093f \u0905\u0938\u0943\u091c\u0924 \u2014 \u0916\u0902 \u0936\u092c\u094d\u0926\u0917\u0941\u0923\u0915\u092e\u094d , \u0935\u093e\u092f\u0941\u0903 \u0938\u094d\u0935\u0947\u0928 \u0938\u094d\u092a\u0930\u094d\u0936\u0917\u0941\u0923\u0947\u0928 \u0936\u092c\u094d\u0926\u0917\u0941\u0923\u0947\u0928 \u091a \u0935\u093f\u0936\u093f\u0937\u094d\u091f\u094b \u0926\u094d\u0935\u093f\u0917\u0941\u0923\u0903, \u0924\u0925\u093e \u091c\u094d\u092f\u094b\u0924\u093f\u0903 \u0938\u094d\u0935\u0947\u0928 \u0930\u0942\u092a\u0947\u0923 \u092a\u0942\u0930\u094d\u0935\u0917\u0941\u0923\u093e\u092d\u094d\u092f\u093e\u0902 \u091a \u0935\u093f\u0936\u093f\u0937\u094d\u091f\u0902 \u0936\u092c\u094d\u0926\u0938\u094d\u092a\u0930\u094d\u0936\u093e\u092d\u094d\u092f\u093e\u0902 \u0924\u094d\u0930\u093f\u0917\u0941\u0923\u092e\u094d , \u0924\u0925\u093e \u0906\u092a\u094b \u0930\u0938\u0917\u0941\u0923\u0947\u0928\u093e\u0938\u093e\u0927\u093e\u0930\u0923\u0947\u0928 \u092a\u0942\u0930\u094d\u0935\u0917\u0941\u0923\u093e\u0928\u0941\u092a\u094d\u0930\u0935\u0947\u0936\u0947\u0928 \u091a \u091a\u0924\u0941\u0930\u094d\u0917\u0941\u0923\u093e\u0903, \u0924\u0925\u093e \u0917\u0928\u094d\u0927\u0917\u0941\u0923\u0947\u0928 \u092a\u0942\u0930\u094d\u0935\u0917\u0941\u0923\u093e\u0928\u0941\u092a\u094d\u0930\u0935\u0947\u0936\u0947\u0928 \u091a \u092a\u091e\u094d\u091a\u0917\u0941\u0923\u093e \u092a\u0943\u0925\u093f\u0935\u0940, \u0924\u0925\u093e \u0924\u0948\u0930\u0947\u0935 \u092d\u0942\u0924\u0948\u0930\u093e\u0930\u092c\u094d\u0927\u092e\u094d \u0907\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0902 \u0926\u094d\u0935\u093f\u092a\u094d\u0930\u0915\u093e\u0930\u0902 \u092c\u0941\u0926\u094d\u0927\u094d\u092f\u0930\u094d\u0925\u0902 \u0915\u0930\u094d\u092e\u093e\u0930\u094d\u0925\u0902 \u091a \u0926\u0936\u0938\u0919\u094d\u200d\u0916\u094d\u092f\u093e\u0915\u092e\u094d , \u0924\u0938\u094d\u092f \u091a\u0947\u0936\u094d\u0935\u0930\u092e\u0928\u094d\u0924\u0903\u0938\u094d\u0925\u0902 \u0938\u0902\u0936\u092f\u0935\u093f\u0915\u0932\u094d\u092a\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u0902 \u092e\u0928\u0903\u00a0\u0964 \u090f\u0935\u0902 \u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u0902 \u0915\u093e\u0930\u094d\u092f\u0902 \u0915\u0930\u0923\u0902 \u091a \u0938\u0943\u0937\u094d\u091f\u094d\u0935\u093e \u0924\u0924\u094d\u0938\u094d\u0925\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0902 \u0935\u094d\u0930\u0940\u0939\u093f\u092f\u0935\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u092e\u094d \u0905\u0928\u094d\u0928\u092e\u094d , \u0924\u0924\u0936\u094d\u091a \u0905\u0928\u094d\u0928\u093e\u0924\u094d \u0905\u0926\u094d\u092f\u092e\u093e\u0928\u093e\u0924\u094d \u0935\u0940\u0930\u094d\u092f\u0902 \u0938\u093e\u092e\u0930\u094d\u0925\u094d\u092f\u0902 \u092c\u0932\u0902 \u0938\u0930\u094d\u0935\u0915\u0930\u094d\u092e\u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093f\u0938\u093e\u0927\u0928\u092e\u094d , \u0924\u0926\u094d\u0935\u0940\u0930\u094d\u092f\u0935\u0924\u093e\u0902 \u091a \u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u0902 \u0924\u092a\u0903 \u0935\u093f\u0936\u0941\u0926\u094d\u0927\u093f\u0938\u093e\u0927\u0928\u0902 \u0938\u0919\u094d\u0915\u0940\u0930\u094d\u092f\u092e\u093e\u0923\u093e\u0928\u093e\u092e\u094d , \u092e\u0928\u094d\u0924\u094d\u0930\u093e\u0903 \u0924\u092a\u094b\u0935\u093f\u0936\u0941\u0926\u094d\u0927\u093e\u0928\u094d\u0924\u0930\u094d\u092c\u0939\u093f\u0903\u0915\u0930\u0923\u0947\u092d\u094d\u092f\u0903 \u0915\u0930\u094d\u092e\u0938\u093e\u0927\u0928\u092d\u0942\u0924\u093e \u090b\u0917\u094d\u092f\u091c\u0941\u0903\u0938\u093e\u092e\u093e\u0925\u0930\u094d\u0935\u093e\u0919\u094d\u0917\u093f\u0930\u0938\u0903 ; \u0924\u0924\u0903 \u0915\u0930\u094d\u092e \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u092e\u094d , \u0924\u0924\u094b \u0932\u094b\u0915\u093e\u0903 \u0915\u0930\u094d\u092e\u0923\u093e\u0902 \u092b\u0932\u092e\u094d , \u0924\u0947\u0937\u0941 \u091a \u0932\u094b\u0915\u0947\u0937\u0941 \u0938\u0943\u0937\u094d\u091f\u093e\u0928\u093e\u0902 \u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u0902 \u0928\u093e\u092e \u091a \u0926\u0947\u0935\u0926\u0924\u094d\u0924\u094b \u092f\u091c\u094d\u091e\u0926\u0924\u094d\u0924 \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u00a0\u0964 \u090f\u0935\u092e\u0947\u0924\u093e\u0903 \u0915\u0932\u093e\u0903 \u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u0926\u093f\u0926\u094b\u0937\u092c\u0940\u091c\u093e\u092a\u0947\u0915\u094d\u0937\u092f\u093e \u0938\u0943\u0937\u094d\u091f\u093e\u0938\u094d\u0924\u0948\u092e\u093f\u0930\u093f\u0915\u0926\u0943\u0937\u094d\u091f\u093f\u0938\u0943\u0937\u094d\u091f\u093e \u0907\u0935 \u0926\u094d\u0935\u093f\u091a\u0928\u094d\u0926\u094d\u0930\u092e\u0936\u0915\u092e\u0915\u094d\u0937\u093f\u0915\u093e\u0926\u094d\u092f\u093e\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u0926\u0943\u0915\u094d\u0938\u0943\u0937\u094d\u091f\u093e \u0907\u0935 \u091a \u0938\u0930\u094d\u0935\u092a\u0926\u093e\u0930\u094d\u0925\u093e\u0903 \u092a\u0941\u0928\u0938\u094d\u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0947\u0935 \u092a\u0941\u0930\u0941\u0937\u0947 \u092a\u094d\u0930\u0932\u0940\u092f\u0928\u094d\u0924\u0947 \u0939\u093f\u0924\u094d\u0935\u093e \u0928\u093e\u092e\u0930\u0942\u092a\u093e\u0926\u093f\u0935\u093f\u092d\u093e\u0917\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014By the Purusha, i.e., Isvara alone, is Prana the chief functionary created. How? He, the Purusha by seeing, i.e., contemplating as explained, created Prana called Hiranyagarbha , the support of the active instruments of all living beings and the internal \u00c2tman of all. From Prana, he created faith, which is the stimulus for all living beings, to perform good karma. Then he created the great Bhutas which help to the enjoyment of the fruits of karma in here and which are causes in themselves; the akasa having the attribute of sound; air having two attributes, its own\u2014touch\u2014and that of its cause; so, fire having three attributes, its own\u2014form\u2014and the two previous\u2014sound and touch; so, water having four attributes, its own peculiar one\u2014taste\u2014and the three previously named; so, earth having five attributes, its own\u2014smell\u2014combined with the previous four; so the senses formed by these, \u2018 Bhutas (rudiments) ten in number, of two classes\u2014intelligent and active; the mind, lord of these, situate within and characterised by doubt and volition. Having thus created for living beings the effects and causes, he created for their support food consisting of grain, corn, etc.; from the food eaten, efficiency\u2014strength\u2014a help towards the performance of all karma ; and for the living beings having such strength, and being led astray from virtue, tapas contemplation\u2014a help to the purification of the mind. Mantras , for those whose internal and external senses have been purified by tapas, the Riks , Yajus , Sama , Atharva and Angirasa mantras , helps to karma from them karma consisting in agnihotra , etc.; from them, worlds, fruits of karma ; and of living beings therein created, names, such as Devadatta , Yagnadatta , etc.; thus all these kalas created with the aid of the seed, the faults of ignorance, etc., in living beings, as the vision of the double moon, gnats, fly, etc., created by the pressure of the finger on the eyes, and as the vision of all objects created in dreams, are again absorbed into Him alone, having dropped all distinctions of name and form."
+        "text": "ईश्वरेणैव सर्वाधिकारी प्राणः पुरुषेण सृज्यते - कथम्? सः पुरुषः उक्तप्रकारेणेक्षित्वा सर्वप्राणं हिरण्यगर्भाख्यं सर्वप्राणिकरणाधारमन्तरात्मानम् असृजत सृष्टवान् । ततः प्राणात् श्रद्धां सर्वप्राणिनां शुभकर्मप्रवृत्तिहेतुभूताम्; ततः कर्मफलोपभोगसाधनाधिष्ठानानि कारणभूतानि महाभूतानि असृजत — खं शब्दगुणकम्, वायुः स्वेन स्पर्शगुणेन शब्दगुणेन च विशिष्टो द्विगुणः, तथा ज्योतिः स्वेन रूपेण पूर्वगुणाभ्यां च विशिष्टं शब्दस्पर्शाभ्यां त्रिगुणम्, तथा आपो रसगुणेनासाधारणेन पूर्वगुणानुप्रवेशेन च चतुर्गुणाः, तथा गन्धगुणेन पूर्वगुणानुप्रवेशेन च पञ्चगुणा पृथिवी, तथा तैरेव भूतैरारब्धम् इन्द्रियं द्विप्रकारं बुद्ध्यर्थं कर्मार्थं च दशसङ्ख्याकम्, तस्य चेश्वरमन्तःस्थं संशयविकल्पादिलक्षणं मनः । एवं प्राणिनां कार्यं करणं च सृष्ट्वा तत्स्थित्यर्थं व्रीहियवादिलक्षणम् अन्नम्, ततश्च अन्नात् अद्यमानात् वीर्यं सामर्थ्यं बलं सर्वकर्मप्रवृत्तिसाधनम्, तद्वीर्यवतां च प्राणिनां तपः विशुद्धिसाधनं सङ्कीर्यमाणानाम्, मन्त्राः तपोविशुद्धान्तर्बहिःकरणेभ्यः कर्मसाधनभूता ऋग्यजुःसामाथर्वाङ्गिरसः; ततः कर्म अग्निहोत्रादिलक्षणम्, ततो लोकाः कर्मणां फलम्, तेषु च लोकेषु सृष्टानां प्राणिनां नाम च देवदत्तो यज्ञदत्त इत्यादि । एवमेताः कलाः प्राणिनामविद्यादिदोषबीजापेक्षया सृष्टास्तैमिरिकदृष्टिसृष्टा इव द्विचन्द्रमशकमक्षिकाद्याः स्वप्नदृक्सृष्टा इव च सर्वपदार्थाः पुनस्तस्मिन्नेव पुरुषे प्रलीयन्ते हित्वा नामरूपादिविभागम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -149,15 +583,216 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-6",
-      "chapter_name": "Chapter 6",
+      "chapter_name": "Question 6: Sixteen Kalās",
       "verse_number": 5,
       "chapter_number": 6,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145344.html"
+      "mantra_ref": "6.5",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0938 \u092f\u0925\u0947\u092e\u093e \u0928\u0926\u094d\u092f\u0903 \u0938\u094d\u092f\u0928\u094d\u0926\u092e\u093e\u0928\u093e\u0903 \u0938\u092e\u0941\u0926\u094d\u0930\u093e\u092f\u0923\u093e\u0903 \u0938\u092e\u0941\u0926\u094d\u0930\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u092f\u093e\u0938\u094d\u0924\u0902 \u0917\u091a\u094d\u091b\u0928\u094d\u0924\u093f \u092d\u093f\u0926\u094d\u092f\u0947\u0924\u0947 \u0924\u093e\u0938\u093e\u0902 \u0928\u093e\u092e\u0930\u0942\u092a\u0947 \u0938\u092e\u0941\u0926\u094d\u0930 \u0907\u0924\u094d\u092f\u0947\u0935\u0902 \u092a\u094d\u0930\u094b\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \u090f\u0935\u092e\u0947\u0935\u093e\u0938\u094d\u092f \u092a\u0930\u093f\u0926\u094d\u0930\u0937\u094d\u091f\u0941\u0930\u093f\u092e\u093e\u0903 \u0937\u094b\u0921\u0936 \u0915\u0932\u093e\u0903 \u092a\u0941\u0930\u0941\u0937\u093e\u092f\u0923\u093e\u0903 \u092a\u0941\u0930\u0941\u0937\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u092f\u093e\u0938\u094d\u0924\u0902 \u0917\u091a\u094d\u091b\u0928\u094d\u0924\u093f \u092d\u093f\u0926\u094d\u092f\u0947\u0924\u0947 \u091a\u093e\u0938\u093e\u0902 \u0928\u093e\u092e\u0930\u0942\u092a\u0947 \u092a\u0941\u0930\u0941\u0937 \u0907\u0924\u094d\u092f\u0947\u0935\u0902 \u092a\u094d\u0930\u094b\u091a\u094d\u092f\u0924\u0947 \u0938 \u090f\u0937\u094b\u093d\u0915\u0932\u094b\u093d\u092e\u0943\u0924\u094b \u092d\u0935\u0924\u093f \u0924\u0926\u0947\u0937 \u0936\u094d\u0932\u094b\u0915\u0903 \u0965 \u096b \u0965",
-    "transliteration": "sa yathem\u0101 nadhya\u1e25 syandam\u0101n\u0101\u1e25 samudr\u0101ya\u1e47\u0101\u1e25 samudra\u1e43 pr\u0101py\u0101sta\u1e43 gacchanti bhidhyete t\u0101s\u0101\u1e43 n\u0101marupe samudra ityeva\u1e43 procyate | evamev\u0101sya paridra\u1e63\u1e6durim\u0101\u1e25 \u1e63o\u1e0da\u015bakal\u0101\u1e25 puru\u1e63\u0101ya\u1e47\u0101\u1e25 puru\u1e63a\u1e43 pr\u0101py\u0101sta\u1e43 gacchanti bhidhyete c\u0101s\u0101\u1e43 n\u0101marupe puru\u1e63a ityeva\u1e43 procyate sa e\u1e63o'kalo'm\u1e5bto bhavati tade\u1e63a \u015bloka\u1e25 || 5 ||",
+    "section_title": "Question 6: Sixteen Kalās",
+    "sanskrit_shloka": "स यथेमा नद्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं गच्छन्ति भिद्येते तासां नामरूपे समुद्र इत्येवं प्रोच्यते । एवमेवास्य परिद्रष्टुरिमाः षोडश कलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति भिद्येते चासां नामरूपे पुरुष इत्येवं प्रोच्यते स एषोऽकलोऽमृतो भवति तदेष श्लोकः ॥ ५ ॥",
+    "transliteration": "sa yathemā nadyaḥ syandamānāḥ samudrāyaṇāḥ samudraṃ prāpyāstaṃ gacchanti bhidyete tāsāṃ nāmarūpe samudra ityevaṃ procyate | evamevāsya paridraṣṭurimāḥ ṣoḍaśa kalāḥ puruṣāyaṇāḥ puruṣaṃ prāpyāstaṃ gacchanti bhidyete cāsāṃ nāmarūpe puruṣa ityevaṃ procyate sa eṣo'kalo'mṛto bhavati tadeṣa ślokaḥ || 5 ||",
     "translation": "5. Just as these rivers flowing towards the sea, their goal, having reached the sea, disappear, their name and form are destroyed and all is called sea; so of him that sees the Purusha around, the sixteen kalas whose goal is the Purusha, having reached Purusha , disappear; their name and form are destroyed and all is called, Purusha alone. He becomes devoid of parts and immortal. There is this verse.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "that (the illustration / he)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यथेमा",
+        "word_english": "just as these (rivers)",
+        "grammar_role": "यथा · अव्यय (उपमार्थक) + इदम् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "यथा + इमाः"
+      },
+      {
+        "word_sanskrit": "नद्यः",
+        "word_english": "rivers",
+        "grammar_role": "नदी · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "नद्यः"
+      },
+      {
+        "word_sanskrit": "स्यन्दमानाः",
+        "word_english": "flowing (= स्रवन्त्यः)",
+        "grammar_role": "√स्यन्द् · शानच् (वर्तमान कृदन्त), प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "स्यन्दमानाः"
+      },
+      {
+        "word_sanskrit": "समुद्रायणाः",
+        "word_english": "whose goal/refuge is the ocean (समुद्र एव अयनं यासाम्)",
+        "grammar_role": "समुद्रायण (बहुव्रीहि) · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "समुद्र-अयनाः"
+      },
+      {
+        "word_sanskrit": "समुद्रं",
+        "word_english": "the ocean",
+        "grammar_role": "समुद्र · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "समुद्रम्"
+      },
+      {
+        "word_sanskrit": "प्राप्यास्तं",
+        "word_english": "having reached (it), to disappearance (अस्तम् = अदर्शनं, नामरूपतिरस्कारम्)",
+        "grammar_role": "√आप्<प्र> · ल्यबन्त (पूर्वकालिक अव्यय) + अस्त · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "प्राप्य + अस्तम्"
+      },
+      {
+        "word_sanskrit": "गच्छन्ति",
+        "word_english": "they go",
+        "grammar_role": "√गम् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "गच्छन्ति"
+      },
+      {
+        "word_sanskrit": "भिद्येते",
+        "word_english": "the two (name-and-form) are destroyed (= विनश्येते)",
+        "grammar_role": "√भिद् · लट्·प्रथमपुरुष·द्विवचन·आत्मनेपद (कर्मणि)",
+        "root": "भिद्येते"
+      },
+      {
+        "word_sanskrit": "तासां",
+        "word_english": "of those (rivers)",
+        "grammar_role": "तद् · षष्ठी·बहुवचन·स्त्रीलिङ्ग (सर्वनाम)",
+        "root": "तासाम्"
+      },
+      {
+        "word_sanskrit": "नामरूपे",
+        "word_english": "name and form (the two)",
+        "grammar_role": "नामरूप (द्वन्द्व) · प्रथमा·द्विवचन·नपुंसकलिङ्ग",
+        "root": "नाम-रूपे"
+      },
+      {
+        "word_sanskrit": "समुद्र",
+        "word_english": "\"ocean\"",
+        "grammar_role": "समुद्र · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "समुद्रः"
+      },
+      {
+        "word_sanskrit": "इत्येवं",
+        "word_english": "thus, in this way",
+        "grammar_role": "इति · अव्यय (उद्धरणार्थक) + एवम् · अव्यय (प्रकारार्थक)",
+        "root": "इति + एवम्"
+      },
+      {
+        "word_sanskrit": "प्रोच्यते",
+        "word_english": "it is called / spoken of",
+        "grammar_role": "√वच्<प्र> · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद (कर्मणि)",
+        "root": "प्रोच्यते"
+      },
+      {
+        "word_sanskrit": "एवमेवास्य",
+        "word_english": "so indeed, of this (puruṣa)",
+        "grammar_role": "एवम् · अव्यय + एव · अव्यय (अवधारण) + इदम् · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "एवम् + एव + अस्य"
+      },
+      {
+        "word_sanskrit": "परिद्रष्टुरिमाः",
+        "word_english": "of the all-round seer (परि समन्ताद् द्रष्टुः), these (kalās)",
+        "grammar_role": "परिद्रष्टृ · षष्ठी·एकवचन·पुंलिङ्ग + इदम् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "परिद्रष्टुः + इमाः"
+      },
+      {
+        "word_sanskrit": "षोडश",
+        "word_english": "sixteen",
+        "grammar_role": "षोडशन् · संख्या (कलाः इत्यनेन सह प्रथमा·बहुवचन·स्त्रीलिङ्ग)",
+        "root": "षोडश"
+      },
+      {
+        "word_sanskrit": "कलाः",
+        "word_english": "parts/digits (prāṇa etc.)",
+        "grammar_role": "कला · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "कलाः"
+      },
+      {
+        "word_sanskrit": "पुरुषायणाः",
+        "word_english": "whose goal/refuge is the puruṣa (पुरुष एव अयनं यासाम्)",
+        "grammar_role": "पुरुषायण (बहुव्रीहि) · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "पुरुष-अयनाः"
+      },
+      {
+        "word_sanskrit": "पुरुषं",
+        "word_english": "the puruṣa",
+        "grammar_role": "पुरुष · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "पुरुषम्"
+      },
+      {
+        "word_sanskrit": "प्राप्यास्तं",
+        "word_english": "having reached (it), to disappearance",
+        "grammar_role": "√आप्<प्र> · ल्यबन्त (पूर्वकालिक अव्यय) + अस्त · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "प्राप्य + अस्तम्"
+      },
+      {
+        "word_sanskrit": "गच्छन्ति",
+        "word_english": "they go",
+        "grammar_role": "√गम् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "गच्छन्ति"
+      },
+      {
+        "word_sanskrit": "भिद्येते",
+        "word_english": "the two (name-and-form) are destroyed (= विनश्येते)",
+        "grammar_role": "√भिद् · लट्·प्रथमपुरुष·द्विवचन·आत्मनेपद (कर्मणि)",
+        "root": "भिद्येते"
+      },
+      {
+        "word_sanskrit": "चासां",
+        "word_english": "and of these (kalās)",
+        "grammar_role": "च · अव्यय (समुच्चय) + तद् · षष्ठी·बहुवचन·स्त्रीलिङ्ग (सर्वनाम)",
+        "root": "च + आसाम्"
+      },
+      {
+        "word_sanskrit": "नामरूपे",
+        "word_english": "name and form (the two)",
+        "grammar_role": "नामरूप (द्वन्द्व) · प्रथमा·द्विवचन·नपुंसकलिङ्ग",
+        "root": "नाम-रूपे"
+      },
+      {
+        "word_sanskrit": "पुरुष",
+        "word_english": "\"puruṣa\" (the imperishable essence, तत्त्वम्)",
+        "grammar_role": "पुरुष · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "इत्येवं",
+        "word_english": "thus, in this way",
+        "grammar_role": "इति · अव्यय (उद्धरणार्थक) + एवम् · अव्यय (प्रकारार्थक)",
+        "root": "इति + एवम्"
+      },
+      {
+        "word_sanskrit": "प्रोच्यते",
+        "word_english": "it is called / spoken of (by the knowers of brahman)",
+        "grammar_role": "√वच्<प्र> · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद (कर्मणि)",
+        "root": "प्रोच्यते"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the knower)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "एषोऽकलोऽमृतो",
+        "word_english": "this one (becomes) part-less, immortal",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं + अकल · प्रथमा·एक·पुं + अमृत · प्रथमा·एक·पुं",
+        "root": "एषः + अकलः + अमृतः"
+      },
+      {
+        "word_sanskrit": "भवति",
+        "word_english": "becomes / is",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "भवति"
+      },
+      {
+        "word_sanskrit": "तदेष",
+        "word_english": "as to that, this (verse)",
+        "grammar_role": "तद् · अव्यय (संबन्धार्थक, \"as to that\") + एतद् · प्रथमा·एक·पुं",
+        "root": "तत् + एषः"
+      },
+      {
+        "word_sanskrit": "श्लोकः",
+        "word_english": "verse",
+        "grammar_role": "श्लोक · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "श्लोकः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -168,13 +803,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u0925\u092e\u094d ? \u0938\u0903 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0903, \u092f\u0925\u093e \u0932\u094b\u0915\u0947 \u0907\u092e\u093e \u0928\u0926\u094d\u092f\u0903 \u0938\u094d\u092f\u0928\u094d\u0926\u092e\u093e\u0928\u093e\u0903 \u0938\u094d\u0930\u0935\u0928\u094d\u0924\u094d\u092f\u0903 \u0938\u092e\u0941\u0926\u094d\u0930\u093e\u092f\u0923\u093e\u0903, \u0938\u092e\u0941\u0926\u094d\u0930 \u090f\u0935 \u0905\u092f\u0928\u0902 \u0917\u0924\u093f\u0930\u093e\u0924\u094d\u092e\u092d\u093e\u0935\u094b \u092f\u093e\u0938\u093e\u0902 \u0924\u093e\u0903 \u0938\u092e\u0941\u0926\u094d\u0930\u093e\u092f\u0923\u093e\u0903, \u0938\u092e\u0941\u0926\u094d\u0930\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u092f \u0909\u092a\u0917\u092e\u094d\u092f \u0905\u0938\u094d\u0924\u092e\u094d \u0905\u0926\u0930\u094d\u0936\u0928\u0902 \u0928\u093e\u092e\u0930\u0942\u092a\u0924\u093f\u0930\u0938\u094d\u0915\u093e\u0930\u0902 \u0917\u091a\u094d\u091b\u0928\u094d\u0924\u093f ; \u0924\u093e\u0938\u093e\u0902 \u091a\u093e\u0938\u094d\u0924\u0902 \u0917\u0924\u093e\u0928\u093e\u0902 \u092d\u093f\u0926\u094d\u092f\u0947\u0924\u0947 \u0935\u093f\u0928\u0936\u094d\u092f\u0947\u0924\u0947 \u0928\u093e\u092e\u0930\u0942\u092a\u0947 \u0917\u0919\u094d\u0917\u093e \u092f\u092e\u0941\u0928\u0947\u0924\u094d\u092f\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u0947 ; \u0924\u0926\u092d\u0947\u0926\u0947\u0928 \u0938\u092e\u0941\u0926\u094d\u0930 \u0907\u0924\u094d\u092f\u0947\u0935\u0902 \u092a\u094d\u0930\u094b\u091a\u094d\u092f\u0924\u0947 \u0924\u0926\u094d\u0935\u0938\u094d\u0924\u0942\u0926\u0915\u0932\u0915\u094d\u0937\u0923\u092e\u094d ; \u090f\u0935\u0902 \u092f\u0925\u093e\u092f\u0902 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0903 \u0909\u0915\u094d\u0924\u0932\u0915\u094d\u0937\u0923\u0938\u094d\u092f \u092a\u094d\u0930\u0915\u0943\u0924\u0938\u094d\u092f \u0905\u0938\u094d\u092f \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u092a\u0930\u093f\u0926\u094d\u0930\u0937\u094d\u091f\u0941\u0903 \u092a\u0930\u093f \u0938\u092e\u0928\u094d\u0924\u093e\u0926\u094d\u0926\u094d\u0930\u0937\u094d\u091f\u0941\u0930\u094d\u0926\u0930\u094d\u0936\u0928\u0938\u094d\u092f \u0915\u0930\u094d\u0924\u0941\u0903 \u0938\u094d\u0935\u0930\u0942\u092a\u092d\u0942\u0924\u0938\u094d\u092f\u00a0\u0964 \u092f\u0925\u093e \u0905\u0930\u094d\u0915\u0903 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u092a\u094d\u0930\u0915\u093e\u0936\u0938\u094d\u092f \u0915\u0930\u094d\u0924\u093e \u0938\u0930\u094d\u0935\u0924\u0903, \u0924\u0926\u094d\u0935\u0924\u094d \u0907\u092e\u093e\u0903 \u0937\u094b\u0921\u0936 \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u094d\u092f\u093e \u0909\u0915\u094d\u0924\u093e\u0903 \u0915\u0932\u093e\u0903 \u092a\u0941\u0930\u0941\u0937\u093e\u092f\u0923\u093e\u0903 \u0928\u0926\u0940\u0928\u093e\u092e\u093f\u0935 \u0938\u092e\u0941\u0926\u094d\u0930\u0903 \u092a\u0941\u0930\u0941\u0937\u094b\u093d\u092f\u0928\u092e\u093e\u0924\u094d\u092e\u092d\u093e\u0935\u0917\u092e\u0928\u0902 \u092f\u093e\u0938\u093e\u0902 \u0915\u0932\u093e\u0928\u093e\u0902 \u0924\u093e\u0903 \u092a\u0941\u0930\u0941\u0937\u093e\u092f\u0923\u093e\u0903 \u092a\u0941\u0930\u0941\u0937\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u092f \u092a\u0941\u0930\u0941\u0937\u093e\u0924\u094d\u092e\u092d\u093e\u0935\u092e\u0941\u092a\u0917\u092e\u094d\u092f \u0924\u0925\u0948\u0935\u093e\u0938\u094d\u0924\u0902 \u0917\u091a\u094d\u091b\u0928\u094d\u0924\u093f\u00a0\u0964 \u092d\u093f\u0926\u094d\u092f\u0947\u0924\u0947 \u091a \u0906\u0938\u093e\u0902 \u0928\u093e\u092e\u0930\u0942\u092a\u0947 \u0915\u0932\u093e\u0928\u093e\u0902 \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u094d\u092f\u093e\u0916\u094d\u092f\u093e \u0930\u0942\u092a\u0902 \u091a \u092f\u0925\u093e\u0938\u094d\u0935\u092e\u094d\u00a0\u0964 \u092d\u0947\u0926\u0947 \u091a \u0928\u093e\u092e\u0930\u0942\u092a\u092f\u094b\u0930\u094d\u092f\u0926\u0928\u0937\u094d\u091f\u0902 \u0924\u0924\u094d\u0924\u0924\u094d\u0924\u094d\u0935\u0902 \u092a\u0941\u0930\u0941\u0937\u0903 \u0907\u0924\u094d\u092f\u0947\u0935\u0902 \u092a\u094d\u0930\u094b\u091a\u094d\u092f\u0924\u0947 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092d\u093f\u0903\u00a0\u0964 \u092f \u090f\u0935\u0902 \u0935\u093f\u0926\u094d\u0935\u093e\u0928\u094d\u0917\u0941\u0930\u0941\u0923\u093e \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u093f\u0924\u0915\u0932\u093e\u092a\u094d\u0930\u0932\u092f\u092e\u093e\u0930\u094d\u0917\u0903, \u0938 \u090f\u0937\u0903 \u0935\u093f\u0926\u094d\u092f\u092f\u093e \u092a\u094d\u0930\u0935\u093f\u0932\u093e\u092a\u093f\u0924\u093e\u0938\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u092e\u0915\u0930\u094d\u092e\u091c\u0928\u093f\u0924\u093e\u0938\u0941 \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u093f\u0915\u0932\u093e\u0938\u0941 \u0905\u0915\u0932\u0903 \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u0943\u0924\u0915\u0932\u093e\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u094b \u0939\u093f \u092e\u0943\u0924\u094d\u092f\u0941\u0903 ; \u0924\u0926\u092a\u0917\u092e\u0947\u093d\u0915\u0932\u0924\u094d\u0935\u093e\u0926\u0947\u0935 \u0905\u092e\u0943\u0924\u0903 \u092d\u0935\u0924\u093f\u00a0\u0964 \u0924\u0926\u0947\u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0930\u094d\u0925\u0947 \u090f\u0937\u0903 \u0936\u094d\u0932\u094b\u0915\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014How is that illustrated? Just as in this world, these rivers flowing, whose goal is the sea, having reached the sea, suffer a disappearance of their name and form, and when they so disappear their name and form as the Ganges, the Jumna, etc., disappear, and in the absence of all distinction is called \u2018the sea,\u2019 and expanse of water; as in this illustration, so of the seer who sees around the Purusha already described treated of here and who has become the self (the active agent \u2018seer\u2019 is here used, as the sun is said to be the giver of light everywhere, although his form is light itself) the sixteen kalas, Prana and the rest already described, whose goal is Purusha, as the sea is of the rivers, having reached Purusha , i.e., being absorbed into Purusha , disappear; accordingly, their name and form, i.e., their name as Prana , etc., and their distinct nature are destroyed. The entity that survives understroyed when name and form are destroyed is called Purusha by the knowers of Brahman . He who knows thus, being instructed by the preceptor, how the kalas are absorbed, becomes devoid of kalas, when the kalas produced by ignorance, desire, and karma have been absorbed by knowledge, and becomes immortal, the kalas produced by ignorance, the cause of death, having been destroyed. To convey that drift is the following verse."
+        "text": "कथम्? सः दृष्टान्तः, यथा लोके इमा नद्यः स्यन्दमानाः स्रवन्त्यः समुद्रायणाः, समुद्र एव अयनं गतिरात्मभावो यासां ताः समुद्रायणाः, समुद्रं प्राप्य उपगम्य अस्तम् अदर्शनं नामरूपतिरस्कारं गच्छन्ति; तासां चास्तं गतानां भिद्येते विनश्येते नामरूपे गङ्गा यमुनेत्यादिलक्षणे; तदभेदेन समुद्र इत्येवं प्रोच्यते तद्वस्तूदकलक्षणम्; एवं यथायं दृष्टान्तः उक्तलक्षणस्य प्रकृतस्य अस्य पुरुषस्य परिद्रष्टुः परि समन्ताद्द्रष्टुर्दर्शनस्य कर्तुः स्वरूपभूतस्य । यथा अर्कः स्वात्मप्रकाशस्य कर्ता सर्वतः, तद्वत् इमाः षोडश प्राणाद्या उक्ताः कलाः पुरुषायणाः नदीनामिव समुद्रः पुरुषोऽयनमात्मभावगमनं यासां कलानां ताः पुरुषायणाः पुरुषं प्राप्य पुरुषात्मभावमुपगम्य तथैवास्तं गच्छन्ति । भिद्येते च आसां नामरूपे कलानां प्राणाद्याख्या रूपं च यथास्वम् । भेदे च नामरूपयोर्यदनष्टं तत्तत्त्वं पुरुषः इत्येवं प्रोच्यते ब्रह्मविद्भिः । य एवं विद्वान्गुरुणा प्रदर्शितकलाप्रलयमार्गः, स एषः विद्यया प्रविलापितास्वविद्याकामकर्मजनितासु प्राणादिकलासु अकलः अविद्याकृतकलानिमित्तो हि मृत्युः; तदपगमेऽकलत्वादेव अमृतः भवति । तदेतस्मिन्नर्थे एषः श्लोकः ॥"
       }
     ],
     "commentary_faqs": []
@@ -185,15 +816,108 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-6",
-      "chapter_name": "Chapter 6",
+      "chapter_name": "Question 6: Sixteen Kalās",
       "verse_number": 6,
       "chapter_number": 6,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145345.html"
+      "mantra_ref": "6.6",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0930\u093e \u0907\u0935 \u0930\u0925\u0928\u093e\u092d\u094c \u0915\u0932\u093e \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e\u0903\u00a0\u0964 \n \u0924\u0902 \u0935\u0947\u0926\u094d\u092f\u0902 \u092a\u0941\u0930\u0941\u0937\u0902 \u0935\u0947\u0926 \u092f\u0925\u093e \u092e\u093e \u0935\u094b \u092e\u0943\u0924\u094d\u092f\u0941\u0903 \u092a\u0930\u093f\u0935\u094d\u092f\u0925\u093e \u0907\u0924\u093f \u0965 \u096c \u0965",
-    "transliteration": "ar\u0101 iva rathan\u0101bhau kal\u0101 yasmin prati\u1e63\u1e6dit\u0101\u1e25 | ta\u1e43 vedhya\u1e43 puru\u1e63a\u1e43 veda yatha m\u0101 vo m\u1e5btyu\u1e25 parivyath\u0101 iti || 6 ||",
+    "section_title": "Question 6: Sixteen Kalās",
+    "sanskrit_shloka": "अरा इव रथनाभौ कला यस्मिन्प्रतिष्ठिताः । तं वेद्यं पुरुषं वेद यथा मा वो मृत्युः परिव्यथा इति ॥ ६ ॥",
+    "transliteration": "arā iva rathanābhau kalā yasminpratiṣṭhitāḥ | taṃ vedyaṃ puruṣaṃ veda yathā mā vo mṛtyuḥ parivyathā iti || 6 ||",
     "translation": "6. Know that knowable Purusha in whom the kalas are centred like spokes in the nave of a wheel. So, death, may not harm you.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "अरा",
+        "word_english": "like spokes (of a chariot wheel)",
+        "grammar_role": "अर · प्रथमा·बहु·पुं",
+        "root": "अराः"
+      },
+      {
+        "word_sanskrit": "इव",
+        "word_english": "like, as if",
+        "grammar_role": "अव्यय (उपमावाचक) — like, as",
+        "root": "इव"
+      },
+      {
+        "word_sanskrit": "रथनाभौ",
+        "word_english": "in the chariot-wheel's nave (hub)",
+        "grammar_role": "रथनाभि · सप्तमी·एक·स्त्री",
+        "root": "रथ-नाभौ"
+      },
+      {
+        "word_sanskrit": "कला",
+        "word_english": "the parts (prāṇa and the rest)",
+        "grammar_role": "कला · प्रथमा·बहु·स्त्री",
+        "root": "कलाः"
+      },
+      {
+        "word_sanskrit": "यस्मिन्प्रतिष्ठिताः",
+        "word_english": "in which (Puruṣa) they are established",
+        "grammar_role": "यद् · सप्तमी·एक·पुं + प्रतिष्ठित (प्रति+√स्था, क्तान्त) · प्रथमा·बहु·स्त्री",
+        "root": "यस्मिन् + प्रतिष्ठिताः"
+      },
+      {
+        "word_sanskrit": "तं",
+        "word_english": "him, that (Puruṣa)",
+        "grammar_role": "तद् · द्वितीया·एक·पुं",
+        "root": "तम्"
+      },
+      {
+        "word_sanskrit": "वेद्यं",
+        "word_english": "the knowable, to-be-known",
+        "grammar_role": "वेद्य · द्वितीया·एक·पुं (कृत्य/ण्यत्)",
+        "root": "वेद्यम्"
+      },
+      {
+        "word_sanskrit": "पुरुषं",
+        "word_english": "the Puruṣa (Person)",
+        "grammar_role": "पुरुष · द्वितीया·एक·पुं",
+        "root": "पुरुषम्"
+      },
+      {
+        "word_sanskrit": "वेद",
+        "word_english": "knows (let one know)",
+        "grammar_role": "√विद् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद (वर्तमानार्थे)",
+        "root": "वेद"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "so that, in order that",
+        "grammar_role": "अव्यय (प्रयोजनार्थक) — so that",
+        "root": "यथा"
+      },
+      {
+        "word_sanskrit": "मा",
+        "word_english": "let not (prohibitive particle)",
+        "grammar_role": "अव्यय (निषेधार्थक) — let not",
+        "root": "मा"
+      },
+      {
+        "word_sanskrit": "वो",
+        "word_english": "you (all)",
+        "grammar_role": "युष्मद् · द्वितीया·बहु (युष्मान्, संहितायां वः)",
+        "root": "वः"
+      },
+      {
+        "word_sanskrit": "मृत्युः",
+        "word_english": "Death (the subject)",
+        "grammar_role": "मृत्यु · प्रथमा·एक·पुं",
+        "root": "मृत्युः"
+      },
+      {
+        "word_sanskrit": "परिव्यथा",
+        "word_english": "(may Death not) afflict / distress you",
+        "grammar_role": "परि+√व्यथ् · लुङ् (माङ्योगे)·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "परिव्यथाः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (end of teaching)",
+        "grammar_role": "अव्यय (समाप्ति/इतिकरण) — thus",
+        "root": "इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -204,13 +928,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0930\u093e \u0907\u0935 \u0930\u0925\u091a\u0915\u094d\u0930\u092a\u0930\u093f\u0935\u093e\u0930\u093e \u0907\u0935 \u0930\u0925\u0928\u093e\u092d\u094c \u0930\u0925\u091a\u0915\u094d\u0930\u0938\u094d\u092f \u0928\u093e\u092d\u094c \u092f\u0925\u093e\u092a\u094d\u0930\u0935\u0947\u0936\u093f\u0924\u093e\u0903 \u0924\u0926\u093e\u0936\u094d\u0930\u092f\u093e \u092d\u0935\u0928\u094d\u0924\u093f \u092f\u0925\u093e, \u0924\u0925\u0947\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0915\u0932\u093e\u0903 \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u094d\u092f\u093e\u0903 \u092f\u0938\u094d\u092e\u093f\u0928\u094d \u092a\u0941\u0930\u0941\u0937\u0947 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e\u0903 \u0909\u0924\u094d\u092a\u0924\u094d\u0924\u093f\u0938\u094d\u0925\u093f\u0924\u093f\u0932\u092f\u0915\u093e\u0932\u0947\u0937\u0941, \u0924\u0902 \u092a\u0941\u0930\u0941\u0937\u0902 \u0915\u0932\u093e\u0928\u093e\u092e\u093e\u0924\u094d\u092e\u092d\u0942\u0924\u0902 \u0935\u0947\u0926\u094d\u092f\u0902 \u0935\u0947\u0926\u0928\u0940\u092f\u0902 \u092a\u0942\u0930\u094d\u0923\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u0941\u0930\u0941\u0937\u0902 \u092a\u0941\u0930\u093f \u0936\u092f\u0928\u093e\u0926\u094d\u0935\u093e \u0935\u0947\u0926 \u091c\u093e\u0928\u093e\u0924\u093f ; \u092f\u0925\u093e \u0939\u0947 \u0936\u093f\u0937\u094d\u092f\u093e\u0903, \u092e\u093e \u0935\u093e\u0903 \u092f\u0941\u0937\u094d\u092e\u093e\u0928\u094d \u092e\u0943\u0924\u094d\u092f\u0941\u0903 \u092a\u0930\u093f\u0935\u094d\u092f\u0925\u093e\u0903 \u092e\u093e \u092a\u0930\u093f\u0935\u094d\u092f\u0925\u092f\u0924\u0941\u00a0\u0964 \u0928 \u091a\u0947\u0926\u094d\u0935\u093f\u091c\u094d\u091e\u093e\u092f\u0947\u0924 \u092a\u0941\u0930\u0941\u0937\u094b \u092e\u0943\u0924\u094d\u092f\u0941\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u093e\u0902 \u0935\u094d\u092f\u0925\u093e\u092e\u093e\u092a\u0928\u094d\u0928\u093e \u0926\u0941\u0903\u0916\u093f\u0928 \u090f\u0935 \u092f\u0942\u092f\u0902 \u0938\u094d\u0925\u00a0\u0964 \u0905\u0924\u0938\u094d\u0924\u0928\u094d\u092e\u093e\u092d\u0942\u0926\u094d\u092f\u0941\u0937\u094d\u092e\u093e\u0915\u092e\u093f\u0924\u094d\u092f\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014As the spokes of a wheel are centred in the nave of the wheel, and depend on it, so the kalas, Prana, etc., are centred in the Purusha during their creation, support and destruction. Know that Purusha the \u00c2tman of all kalas, worthy to be known ( Purusha, because he is all-pervading, or because he stays in the heart); so, O disciples! death may not harm you. If the Purusha be not known, you will certainly become miserable, subject to the grief caused by death. The drift is that it may not so befall them."
+        "text": "अरा इव रथचक्रपरिवारा इव रथनाभौ रथचक्रस्य नाभौ यथाप्रवेशिताः तदाश्रया भवन्ति यथा, तथेत्यर्थः । कलाः प्राणाद्याः यस्मिन् पुरुषे प्रतिष्ठिताः उत्पत्तिस्थितिलयकालेषु, तं पुरुषं कलानामात्मभूतं वेद्यं वेदनीयं पूर्णत्वात्पुरुषं पुरि शयनाद्वा वेद जानाति; यथा हे शिष्याः, मा वाः युष्मान् मृत्युः परिव्यथाः मा परिव्यथयतु । न चेद्विज्ञायेत पुरुषो मृत्युनिमित्तां व्यथामापन्ना दुःखिन एव यूयं स्थ । अतस्तन्माभूद्युष्माकमित्यभिप्रायः ॥"
       }
     ],
     "commentary_faqs": []
@@ -221,32 +941,61 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-6",
-      "chapter_name": "Chapter 6",
+      "chapter_name": "Question 6: Sixteen Kalās",
       "verse_number": 7,
       "chapter_number": 6,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145333.html"
+      "mantra_ref": "6.7",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u093e\u0928\u094d\u0939\u094b\u0935\u093e\u091a\u0948\u0924\u093e\u0935\u0926\u0947\u0935\u093e\u0939\u092e\u0947\u0924\u0924\u094d\u092a\u0930\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0935\u0947\u0926 \u0928\u093e\u0924\u0903 \u092a\u0930\u092e\u0938\u094d\u0924\u0940\u0924\u093f \u0965 \u096d \u0965",
-    "transliteration": "etadvai satyak\u0101ma para\u1e43 c\u0101para\u1e43 ca brahma yado\u1e45k\u0101ra\u1e25 | tasm\u0101dvidv\u0101netenaiv\u0101yatanenaikataramanveti || 2 ||",
-    "translation": "2. The syllable \u2018Om\u2019 is verily the higher and lower Brahman . Therefore, the knower, by this means, surely reaches either of them.",
-    "word_by_word": [],
+    "section_title": "Question 6: Sixteen Kalās",
+    "sanskrit_shloka": "तान्होवाचैतावदेवाहमेतत्परं ब्रह्म वेद नातः परमस्तीति ॥ ७ ॥",
+    "transliteration": "tānhovācaitāvadevāhametatparaṃ brahma veda nātaḥ paramastīti || 7 ||",
+    "translation": "2. The syllable ‘Om’ is verily the higher and lower Brahman . Therefore, the knower, by this means, surely reaches either of them.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तान्होवाचैतावदेवाहमेतत्परं",
+        "word_english": "To them (the disciples) he (Pippalāda) said: just this much (is the knowable), I (know) this supreme...",
+        "grammar_role": "तद् · द्वितीया · बहु · पुं + ह अव्यय + √वच् · लिट् · प्रथमपुरुष · एक · परस्मैपद + एतावत् · द्वितीया · एक · नपुं (इयत्ता-वाचक; वेद्यं/ब्रह्म-विशेषणम्) + एव अव्यय (अवधारणे) + अस्मद् · प्रथमा · एक + एतद् · द्वितीया · एक · नपुं + पर · द्वितीया · एक · नपुं (ब्रह्म-विशेषणम्)",
+        "root": "तान् + ह + उवाच + एतावत् + एव + अहम् + एतत् + परम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "the supreme Brahman (object of वेद 'I know')",
+        "grammar_role": "ब्रह्मन् · द्वितीया · एक · नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "वेद",
+        "word_english": "I know (bhāṣya: विजानामि अहम्; perfect with present sense)",
+        "grammar_role": "√विद् · लिट् · उत्तमपुरुष · एक · परस्मैपद",
+        "root": "वेद"
+      },
+      {
+        "word_sanskrit": "नातः",
+        "word_english": "not; than this (beyond this) — bhāṣya: न अतः अस्मात् परम्",
+        "grammar_role": "न अव्यय (निषेध) + अतस् अव्यय (पञ्चमी-अर्थे; = अस्मात्)",
+        "root": "न + अतस्"
+      },
+      {
+        "word_sanskrit": "परमस्तीति",
+        "word_english": "anything higher (a more excellent thing to be known) exists — thus (he spoke)",
+        "grammar_role": "पर · प्रथमा · एक · नपुं (प्रकृष्टतरं वेदितव्यम्) + √अस् · लट् · प्रथमपुरुष · एक · परस्मैपद + इति अव्यय",
+        "root": "परम् + अस्ति + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "2. The syllable \u2018Om\u2019 is verily the higher and lower Brahman . Therefore, the knower, by this means, surely reaches either of them."
+        "text": "2. The syllable ‘Om’ is verily the higher and lower Brahman . Therefore, the knower, by this means, surely reaches either of them."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u093e\u0928\u094d \u090f\u0935\u092e\u0928\u0941\u0936\u093f\u0937\u094d\u092f \u0936\u093f\u0937\u094d\u092f\u093e\u0928\u094d \u0924\u093e\u0928\u094d \u0939\u094b\u0935\u093e\u091a \u092a\u093f\u092a\u094d\u092a\u0932\u093e\u0926\u0903 \u0915\u093f\u0932 \u090f\u0924\u093e\u0935\u0926\u0947\u0935 \u0935\u0947\u0926\u094d\u092f\u0902 \u092a\u0930\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0935\u0947\u0926 \u0935\u093f\u091c\u093e\u0928\u093e\u092e\u094d\u092f\u0939\u092e\u0947\u0924\u0924\u094d\u00a0\u0964 \u0928 \u0905\u0924\u0903 \u0905\u0938\u094d\u092e\u093e\u0924\u094d \u092a\u0930\u092e\u094d \u0905\u0938\u094d\u0924\u093f \u092a\u094d\u0930\u0915\u0943\u0937\u094d\u091f\u0924\u0930\u0902 \u0935\u0947\u0926\u093f\u0924\u0935\u094d\u092f\u092e\u094d \u0907\u0924\u094d\u092f\u0947\u0935\u092e\u0941\u0915\u094d\u0924\u0935\u093e\u0928\u094d \u0936\u093f\u0937\u094d\u092f\u093e\u0923\u093e\u092e\u0935\u093f\u0926\u093f\u0924\u0936\u0947\u0937\u093e\u0938\u094d\u0924\u093f\u0924\u094d\u0935\u093e\u0936\u0919\u094d\u0915\u093e\u0928\u093f\u0935\u0943\u0924\u094d\u0924\u092f\u0947 \u0915\u0943\u0924\u093e\u0930\u094d\u0925\u092c\u0941\u0926\u094d\u0927\u093f\u091c\u0928\u0928\u093e\u0930\u094d\u0925\u0902 \u091a \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014This Brahman \u2014the higher Brahman , true, undecaying, known as Purusha, and the lower Brahman known as Prana , the first-born\u2014is, indeed, the syllable \u2018Om\u2019; for, the syllable \u2018Om\u2019 is its Pratika, substitute. The higher Brahman , not capable of being indicated by words, etc., and devoid of all distinguishing attributes, is, therefore, being beyond the reach of the senses, incapable of being comprehended by the mere mind. But to those worshippers who contemplate on the syllable \u2018Om\u2019 as upon the image of Vishnu , etc., and regard it as a substitute for Brahman , the Para Brahman is understood to reveal itself, from the authority of the sastras; so too the lower Brahman . Therefore, it is by courtesy, that Brahman , the higher and the lower, is said to be the syllable \u2018 Om .\u2019 Therefore, he who knows thus, attains either the higher or the lower Brahman, by this very means to the attainment of the atman, i.e., by the meditation on \u2018Om.\u2019 For the syllable \u2018Om\u2019 is the nearest stay of Brahman ."
+        "text": "तान् एवमनुशिष्य शिष्यान् तान् होवाच पिप्पलादः किल एतावदेव वेद्यं परं ब्रह्म वेद विजानाम्यहमेतत् । न अतः अस्मात् परम् अस्ति प्रकृष्टतरं वेदितव्यम् इत्येवमुक्तवान् शिष्याणामविदितशेषास्तित्वाशङ्कानिवृत्तये कृतार्थबुद्धिजननार्थं च ॥"
       }
     ],
     "commentary_faqs": []
@@ -257,32 +1006,109 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-6",
-      "chapter_name": "Chapter 6",
+      "chapter_name": "Question 6: Sixteen Kalās",
       "verse_number": 8,
       "chapter_number": 6,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145346.html"
+      "mantra_ref": "6.8",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0947 \u0924\u092e\u0930\u094d\u091a\u092f\u0928\u094d\u0924\u0938\u094d\u0924\u094d\u0935\u0902 \u0939\u093f \u0928\u0903 \u092a\u093f\u0924\u093e \u092f\u094b\u093d\u0938\u094d\u092e\u093e\u0915\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u0903 \u092a\u0930\u0902 \u092a\u093e\u0930\u0902 \u0924\u093e\u0930\u092f\u0938\u0940\u0924\u093f\u00a0\u0964 \u0928\u092e\u0903 \u092a\u0930\u092e\u090b\u0937\u093f\u092d\u094d\u092f\u094b \u0928\u092e\u0903 \u092a\u0930\u092e\u090b\u0937\u093f\u092d\u094d\u092f\u0903 \u0965 \u096e \u0965",
-    "transliteration": "t\u0101n hov\u0101cait\u0101vadev\u0101hametatpara\u1e43 brahma veda | n\u0101ta\u1e25 paramast\u012bti || 7 || te tamarcayantastva\u1e43 hi na\u1e25 pit\u0101 yo'sm\u0101kamavidhy\u0101y\u0101\u1e25 para\u1e43 para\u1e43 t\u0101rayas\u012bti | nama\u1e25 parama\u1e5b\u1e63ibhyo nama\u1e25 parama\u1e5b\u1e63ibhya\u1e25 || 8 ||",
-    "translation": "7. He said to them, \u2018Thus much alone I know, this supreme Brahman; there is nothing beyond this.\u2019 8. They worshipping him, said: \u2018you are our father who helps us to cross to the other shore of ignorance; adoration to the great sages; adoration to the great sages.\u2019",
-    "word_by_word": [],
+    "section_title": "Question 6: Sixteen Kalās",
+    "sanskrit_shloka": "ते तमर्चयन्तस्त्वं हि नः पिता योऽस्माकमविद्यायाः परं पारं तारयसीति । नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥ ८ ॥",
+    "transliteration": "te tamarcayantastvaṃ hi naḥ pitā yo'smākamavidyāyāḥ paraṃ pāraṃ tārayasīti | namaḥ paramaṛṣibhyo namaḥ paramaṛṣibhyaḥ || 8 ||",
+    "translation": "7. He said to them, ‘Thus much alone I know, this supreme Brahman; there is nothing beyond this.’ 8. They worshipping him, said: ‘you are our father who helps us to cross to the other shore of ignorance; adoration to the great sages; adoration to the great sages.’",
+    "word_by_word": [
+      {
+        "word_sanskrit": "ते",
+        "word_english": "they (the disciples, śiṣyāḥ)",
+        "grammar_role": "तद् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "तमर्चयन्तस्त्वं",
+        "word_english": "him (the guru), (they) worshipping; you",
+        "grammar_role": "तद् · द्वितीया·एकवचन·पुंलिङ्ग + √अर्च् (पूजायाम्, चुरादि; शतृ-कृदन्त अर्चयत्) · प्रथमा·बहुवचन·पुंलिङ्ग + युष्मद् · प्रथमा·एकवचन",
+        "root": "तम् + अर्चयन्तः + त्वम्"
+      },
+      {
+        "word_sanskrit": "हि",
+        "word_english": "indeed, for",
+        "grammar_role": "अव्यय (निपात, हेतु/अवधारण)",
+        "root": "हि"
+      },
+      {
+        "word_sanskrit": "नः",
+        "word_english": "our",
+        "grammar_role": "अस्मद् · षष्ठी·बहुवचन (= अस्माकम्)",
+        "root": "नः"
+      },
+      {
+        "word_sanskrit": "पिता",
+        "word_english": "father",
+        "grammar_role": "पितृ · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "पिता"
+      },
+      {
+        "word_sanskrit": "योऽस्माकमविद्यायाः",
+        "word_english": "who (= thou); our (us); of (our) ignorance",
+        "grammar_role": "यद् · प्रथमा·एकवचन·पुंलिङ्ग + अस्मद् · षष्ठी·बहुवचन + अविद्या · षष्ठी·एकवचन·स्त्रीलिङ्ग",
+        "root": "यः + अस्माकम् + अविद्यायाः"
+      },
+      {
+        "word_sanskrit": "परं",
+        "word_english": "the further / highest (shore), beyond",
+        "grammar_role": "पर · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "परम्"
+      },
+      {
+        "word_sanskrit": "पारं",
+        "word_english": "shore, far bank",
+        "grammar_role": "पार · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "पारम्"
+      },
+      {
+        "word_sanskrit": "तारयसीति",
+        "word_english": "you carry (us) across — thus (they said)",
+        "grammar_role": "√तॄ (णिच्, तारयति) · लट्·मध्यमपुरुष·एकवचन·परस्मैपद + अव्यय (इति)",
+        "root": "तारयसि + इति"
+      },
+      {
+        "word_sanskrit": "नमः",
+        "word_english": "salutation",
+        "grammar_role": "नमस् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "नमः"
+      },
+      {
+        "word_sanskrit": "परमऋषिभ्यो",
+        "word_english": "to the supreme seers (makers of the brahma-vidyā tradition)",
+        "grammar_role": "परमर्षि (परम + ऋषि, कर्मधारय) · चतुर्थी·बहुवचन·पुंलिङ्ग",
+        "root": "परम-ऋषिभ्यः"
+      },
+      {
+        "word_sanskrit": "नमः",
+        "word_english": "salutation",
+        "grammar_role": "नमस् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "नमः"
+      },
+      {
+        "word_sanskrit": "परमऋषिभ्यः",
+        "word_english": "to the supreme seers (repeated for reverence, ādarārtham)",
+        "grammar_role": "परमर्षि (परम + ऋषि, कर्मधारय) · चतुर्थी·बहुवचन·पुंलिङ्ग",
+        "root": "परम-ऋषिभ्यः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "7. He said to them, \u2018Thus much alone I know, this supreme Brahman; there is nothing beyond this.\u2019 8. They worshipping him, said: \u2018you are our father who helps us to cross to the other shore of ignorance; adoration to the great sages; adoration to the great sages.\u2019"
+        "text": "7. He said to them, ‘Thus much alone I know, this supreme Brahman; there is nothing beyond this.’ 8. They worshipping him, said: ‘you are our father who helps us to cross to the other shore of ignorance; adoration to the great sages; adoration to the great sages.’"
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0924\u0903 \u0924\u0947 \u0936\u093f\u0937\u094d\u092f\u093e \u0917\u0941\u0930\u0941\u0923\u093e\u0928\u0941\u0936\u093f\u0937\u094d\u091f\u093e\u0903 \u0924\u0902 \u0917\u0941\u0930\u0941\u0902 \u0915\u0943\u0924\u093e\u0930\u094d\u0925\u093e\u0903 \u0938\u0928\u094d\u0924\u094b \u0935\u093f\u0926\u094d\u092f\u093e\u0928\u093f\u0937\u094d\u0915\u094d\u0930\u092f\u092e\u0928\u094d\u092f\u0926\u092a\u0936\u094d\u092f\u0928\u094d\u0924\u0903 \u0915\u093f\u0902 \u0915\u0943\u0924\u0935\u0928\u094d\u0924 \u0907\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u0905\u0930\u094d\u091a\u092f\u0928\u094d\u0924\u0903 \u092a\u0942\u091c\u092f\u0928\u094d\u0924\u0903 \u092a\u093e\u0926\u092f\u094b\u0903 \u092a\u0941\u0937\u094d\u092a\u093e\u091e\u094d\u091c\u0932\u093f\u092a\u094d\u0930\u0915\u093f\u0930\u0923\u0947\u0928 \u092a\u094d\u0930\u0923\u093f\u092a\u093e\u0924\u0947\u0928 \u091a \u0936\u093f\u0930\u0938\u093e\u00a0\u0964 \u0915\u093f\u092e\u0942\u091a\u0941\u0930\u093f\u0924\u094d\u092f\u093e\u0939 \u2014 \u0924\u094d\u0935\u0902 \u0939\u093f \u0928\u0903 \u0905\u0938\u094d\u092e\u093e\u0915\u0902 \u092a\u093f\u0924\u093e \u092c\u094d\u0930\u0939\u094d\u092e\u0936\u0930\u0940\u0930\u0938\u094d\u092f \u0935\u093f\u0926\u094d\u092f\u092f\u093e \u091c\u0928\u092f\u093f\u0924\u0943\u0924\u094d\u0935\u093e\u0928\u094d\u0928\u093f\u0924\u094d\u092f\u0938\u094d\u092f\u093e\u091c\u0930\u093e\u092e\u0930\u0923\u0938\u094d\u092f\u093e\u092d\u092f\u0938\u094d\u092f\u00a0\u0964 \u092f\u0903 \u0924\u094d\u0935\u092e\u0947\u0935 \u0905\u0938\u094d\u092e\u093e\u0915\u092e\u094d \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u0903 \u0935\u093f\u092a\u0930\u0940\u0924\u091c\u094d\u091e\u093e\u0928\u093e\u091c\u094d\u091c\u0928\u094d\u092e\u091c\u0930\u093e\u092e\u0930\u0923\u0930\u094b\u0917\u0926\u0941\u0903\u0916\u093e\u0926\u093f\u0917\u094d\u0930\u093e\u0939\u093e\u0926\u092a\u093e\u0930\u093e\u0926\u0935\u093f\u0926\u094d\u092f\u093e\u092e\u0939\u094b\u0926\u0927\u0947\u0930\u094d\u0935\u093f\u0926\u094d\u092f\u093e\u092a\u094d\u0932\u0935\u0947\u0928 \u092a\u0930\u092e\u094d \u0905\u092a\u0941\u0928\u0930\u093e\u0935\u0943\u0924\u094d\u0924\u093f\u0932\u0915\u094d\u0937\u0923\u0902 \u092e\u094b\u0915\u094d\u0937\u093e\u0916\u094d\u092f\u0902 \u092e\u0939\u094b\u0926\u0927\u0947\u0930\u093f\u0935 \u092a\u093e\u0930\u0902 \u0924\u093e\u0930\u092f\u0938\u093f \u0905\u0938\u094d\u092e\u093e\u0928\u093f\u0924\u094d\u092f\u0924\u0903 \u092a\u093f\u0924\u0943\u0924\u094d\u0935\u0902 \u0924\u0935\u093e\u0938\u094d\u092e\u093e\u0928\u094d\u092a\u094d\u0930\u0924\u094d\u092f\u0941\u092a\u092a\u0928\u094d\u0928\u092e\u093f\u0924\u0930\u0938\u094d\u092e\u093e\u0924\u094d\u00a0\u0964 \u0907\u0924\u0930\u094b\u093d\u092a\u093f \u0939\u093f \u092a\u093f\u0924\u093e \u0936\u0930\u0940\u0930\u092e\u093e\u0924\u094d\u0930\u0902 \u091c\u0928\u092f\u0924\u093f, \u0924\u0925\u093e\u092a\u093f \u0938 \u092a\u0942\u091c\u094d\u092f\u0924\u092e\u094b \u0932\u094b\u0915\u0947 ; \u0915\u093f\u092e\u0941 \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u092e\u093e\u0924\u094d\u092f\u0928\u094d\u0924\u093f\u0915\u093e\u092d\u092f\u0926\u093e\u0924\u0941\u0930\u093f\u0924\u094d\u092f\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903\u00a0\u0964 \u0928\u092e\u0903 \u092a\u0930\u092e\u090b\u0937\u093f\u092d\u094d\u092f\u0903 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u0938\u092e\u094d\u092a\u094d\u0930\u0926\u093e\u092f\u0915\u0930\u094d\u0924\u0943\u092d\u094d\u092f\u0903\u00a0\u0964 \u0928\u092e\u0903 \u092a\u0930\u092e\u090b\u0937\u093f\u092d\u094d\u092f \u0907\u0924\u093f \u0926\u094d\u0935\u093f\u0930\u094d\u0935\u091a\u0928\u092e\u093e\u0926\u0930\u093e\u0930\u094d\u0925\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Having thus instructed them, Pippalada said to them: \u201cThus far, I know the supreme Brahman worthy to be known. There is nothing beyond this, more excellent or worthy to be known. This he said to remove any doubt in the minds of disciples, that there was yet something not known and to produce a belief in their minds that their object had been accomplished. Then, what did the disciples instructed by the preceptor, their purpose accomplished and finding no return for knowledge received, do for their preceptor is explained. They worshipped him by throwing handfuls of flowers at his feet and by prostrating before him. What they said is stated: \u2018You are our father; because, you are the creator, by giving us knowledge of the Brahman \u2014body, eternal, undecaying, deathless and fearless as it were\u2014because you alone have helped us to cross by means of the boat of knowledge to the other shore (supreme emancipation characterised by the absence of return to samsara ) of the ocean of ignorance consisting in perverse knowledge and infested by such evils as birth, old age, death, sickness, misery, etc.; your being our father is more appropriate than others.\u2019 Even that other father who creates the mere physical body is still to be worshipped most of all, in the world. What need be said of him who confers thorough immunity from fear?\u201d This is the drift. Adoration to the great sages who transmitted the knowledge of Brahman . Adoration to the great sages. The repetition indicates regard."
+        "text": "ततः ते शिष्या गुरुणानुशिष्टाः तं गुरुं कृतार्थाः सन्तो विद्यानिष्क्रयमन्यदपश्यन्तः किं कृतवन्त इत्युच्यते — अर्चयन्तः पूजयन्तः पादयोः पुष्पाञ्जलिप्रकिरणेन प्रणिपातेन च शिरसा । किमूचुरित्याह — त्वं हि नः अस्माकं पिता ब्रह्मशरीरस्य विद्यया जनयितृत्वान्नित्यस्याजरामरणस्याभयस्य । यः त्वमेव अस्माकम् अविद्यायाः विपरीतज्ञानाज्जन्मजरामरणरोगदुःखादिग्राहादपारादविद्यामहोदधेर्विद्याप्लवेन परम् अपुनरावृत्तिलक्षणं मोक्षाख्यं महोदधेरिव पारं तारयसि अस्मानित्यतः पितृत्वं तवास्मान्प्रत्युपपन्नमितरस्मात् । इतरोऽपि हि पिता शरीरमात्रं जनयति, तथापि स पूज्यतमो लोके; किमु वक्तव्यमात्यन्तिकाभयदातुरित्यभिप्रायः । नमः परमऋषिभ्यः ब्रह्मविद्यासम्प्रदायकर्तृभ्यः । नमः परमऋषिभ्य इति द्विर्वचनमादरार्थम् ॥"
       }
     ],
     "commentary_faqs": []

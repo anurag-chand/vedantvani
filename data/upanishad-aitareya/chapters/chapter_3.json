@@ -1,0 +1,730 @@
+[
+  {
+    "id": "upanishad-aitareya_3_1",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-3",
+      "chapter_name": "Adhyāya 3: Prajñānaṃ Brahma",
+      "verse_number": 1,
+      "chapter_number": 3,
+      "mantra_ref": "3.1.1",
+      "source_url": ""
+    },
+    "section_title": "पञ्चमः खण्डः",
+    "sanskrit_shloka": "कोऽयमात्मेति वयमुपास्महे कतरः स आत्मा येन वा पश्यति येन वा शृणोति येन वा गन्धानाजिघ्रति येन वा वाचं व्याकरोति येन वा स्वादु चास्वादु च विजानाति ॥ १ ॥",
+    "transliteration": "ko'yamātmeti vayamupāsmahe kataraḥ sa ātmā yena vā paśyati yena vā śṛṇoti yena vā gandhānājighrati yena vā vācaṃ vyākaroti yena vā svādu cāsvādu ca vijānāti || 1 ||",
+    "translation": "\"Who is this that is the Self?\" — thus — we worship / meditate upon — which (of the two) — he / that — the Self — by which (instrument) — or — one sees (form) — by which (instrument) — or — one hears (sound) — by which (instrument) — or — one smells odours — by which (instrument) — or — speech — one articulates / utters — by which (instrument) — or — the tasty (sweet) — and the not-tasty — and — one discerns / knows distinctly",
+    "word_by_word": [
+      {
+        "word_sanskrit": "कोऽयमात्मेति",
+        "word_english": "\"Who is this that is the Self?\" — thus",
+        "grammar_role": "किम् · प्रथमा·एक·पुं (कः) + इदम् · प्रथमा·एक·पुं (अयम्) + आत्मन् · प्रथमा·एक·पुं (आत्मा) + इति · अव्यय (उद्धरणे)",
+        "root": "कः + अयम् + आत्मा + इति"
+      },
+      {
+        "word_sanskrit": "वयमुपास्महे",
+        "word_english": "we worship / meditate upon",
+        "grammar_role": "अस्मद् · प्रथमा·बहु (वयम्) + √आस् (उप+आस्) · लट्·उत्तमपुरुष·बहु·आत्मनेपद",
+        "root": "वयम् + उपास्महे"
+      },
+      {
+        "word_sanskrit": "कतरः",
+        "word_english": "which (of the two)",
+        "grammar_role": "कतर · प्रथमा·एक·पुं",
+        "root": "कतरः"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he / that",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "आत्मा",
+        "word_english": "the Self",
+        "grammar_role": "आत्मन् · प्रथमा·एक·पुं",
+        "root": "आत्मा"
+      },
+      {
+        "word_sanskrit": "येन",
+        "word_english": "by which (instrument)",
+        "grammar_role": "यद् · तृतीया·एक·नपुं (करणे)",
+        "root": "येन"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "or",
+        "grammar_role": "वा · अव्यय (विकल्पे)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "पश्यति",
+        "word_english": "one sees (form)",
+        "grammar_role": "√दृश् · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "पश्यति"
+      },
+      {
+        "word_sanskrit": "येन",
+        "word_english": "by which (instrument)",
+        "grammar_role": "यद् · तृतीया·एक·नपुं (करणे)",
+        "root": "येन"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "or",
+        "grammar_role": "वा · अव्यय (विकल्पे)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "शृणोति",
+        "word_english": "one hears (sound)",
+        "grammar_role": "√श्रु · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "शृणोति"
+      },
+      {
+        "word_sanskrit": "येन",
+        "word_english": "by which (instrument)",
+        "grammar_role": "यद् · तृतीया·एक·नपुं (करणे)",
+        "root": "येन"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "or",
+        "grammar_role": "वा · अव्यय (विकल्पे)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "गन्धानाजिघ्रति",
+        "word_english": "one smells odours",
+        "grammar_role": "गन्ध · द्वितीया·बहु·पुं (गन्धान्) + √घ्रा (आ+घ्रा) · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "गन्धान् + आजिघ्रति"
+      },
+      {
+        "word_sanskrit": "येन",
+        "word_english": "by which (instrument)",
+        "grammar_role": "यद् · तृतीया·एक·नपुं (करणे)",
+        "root": "येन"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "or",
+        "grammar_role": "वा · अव्यय (विकल्पे)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "वाचं",
+        "word_english": "speech",
+        "grammar_role": "वाच् · द्वितीया·एक·स्त्री",
+        "root": "वाचम्"
+      },
+      {
+        "word_sanskrit": "व्याकरोति",
+        "word_english": "one articulates / utters",
+        "grammar_role": "√कृ (वि+आ+कृ) · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "व्याकरोति"
+      },
+      {
+        "word_sanskrit": "येन",
+        "word_english": "by which (instrument)",
+        "grammar_role": "यद् · तृतीया·एक·नपुं (करणे)",
+        "root": "येन"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "or",
+        "grammar_role": "वा · अव्यय (विकल्पे)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "स्वादु",
+        "word_english": "the tasty (sweet)",
+        "grammar_role": "स्वादु · द्वितीया·एक·नपुं",
+        "root": "स्वादु"
+      },
+      {
+        "word_sanskrit": "चास्वादु",
+        "word_english": "and the not-tasty",
+        "grammar_role": "च · अव्यय (समुच्चये) + अस्वादु · द्वितीया·एक·नपुं",
+        "root": "च + अस्वादु"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च · अव्यय (समुच्चये)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "विजानाति",
+        "word_english": "one discerns / knows distinctly",
+        "grammar_role": "√ज्ञा (वि+ज्ञा) · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "विजानाति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "\"Who is this that is the Self?\" — thus — we worship / meditate upon — which (of the two) — he / that — the Self — by which (instrument) — or — one sees (form) — by which (instrument) — or — one hears (sound) — by which (instrument) — or — one smells odours — by which (instrument) — or — speech — one articulates / utters — by which (instrument) — or — the tasty (sweet) — and the not-tasty — and — one discerns / knows distinctly"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "【उपोद्घातभाष्यम्】\nब्रह्मविद्यासाधनकृतसर्वात्मभावफलावाप्तिं वामदेवाद्याचार्यपरम्परया पारम्पर्यश्रुत्यावद्योत्यमानां ब्रह्मवित्परिषद्यत्यन्तप्रसिद्धाम् उपलभमाना मुमुक्षवो ब्राह्मणा अधुनातनाः ब्रह्म जिज्ञासवः अनित्यात्साध्यसाधनलक्षणात्संसारात् आ जीवभावाद्व्याविवृत्सवो विचारयन्तः अन्योन्यं पृच्छन्ति । कथम्? —\n\nयमात्मानम् अयमात्मा इति साक्षात् वयमुपास्महे कः स आत्मेति; यं चात्मानमयमात्मेति साक्षादुपासीनो वामदेवः अमृतः समभवत्; तमेव वयमप्युपास्महे को नु खलु स आत्मेति एवं जिज्ञासापूर्वमन्योन्यं पृच्छताम् अतिक्रान्तविशेषविषयश्रुतिसंस्कारजनिता स्मृतिरजायत — तम् ‘प्रपदाभ्यां प्रापद्यत ब्रह्मेमं पुरुषम्’ ‘स एतमेव सीमानं विदार्य एतया द्वारा प्रापद्यत’ एतमेव पुरुषं द्वे ब्रह्मणी इतरेतरप्रातिकूल्येन प्रतिपन्ने — इति । ते चास्य पिण्डस्यात्मभूते । तयोरन्यतर आत्मोपास्यो भवितुमर्हति । योऽत्रोपास्यः, कतरः स आत्मा इति विशेषनिर्धारणार्थं पुनरन्योन्यं पप्रच्छुर्विचारयन्तः । पुनस्तेषां विचारयतां विशेषविचारणास्पदविषया मतिरभूत् । कथम्? द्वे वस्तुनी अस्मिन्पिण्डे उपलभ्येते — अनेकभेदभिन्नेन करणेन येनोपलभते, यश्चैक उपलभते, करणान्तरोपलब्धिविषयस्मृतिप्रतिसन्धानात् । तत्र न तावत् येनोपलभते, स आत्मा भवितुमर्हति । केन पुनरुपलभत इति, उच्यते — येन वा चक्षुर्भूतेन रूपं पश्यति, येन वा शृणोति श्रोत्रभूतेन शब्दम्, येन वा घ्राणभूतेन गन्धानाजिघ्रति, येन वा वाक्करणभूतेन वाचं नामात्मिकां व्याकरोति गौरश्व इत्येवमाद्याम्, साध्वसाध्विति च, येन वा जिह्वाभूतेन स्वादु च अस्वादु च विजानातीति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_3_2",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-3",
+      "chapter_name": "Adhyāya 3: Prajñānaṃ Brahma",
+      "verse_number": 2,
+      "chapter_number": 3,
+      "mantra_ref": "3.1.2",
+      "source_url": ""
+    },
+    "section_title": "पञ्चमः खण्डः",
+    "sanskrit_shloka": "यदेतद्धृदयं मनश्चैतत् । संज्ञानमाज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिर्धृतिर्मतिर्मनीषा जूतिः स्मृतिः सङ्कल्पः क्रतुरसुः कामो वश इति । सर्वाण्येवैतानि प्रज्ञानस्य नामधेयानि भवन्ति ॥ २ ॥",
+    "transliteration": "yadetaddhṛdayaṃ manaścaitat | saṃjñānamājñānaṃ vijñānaṃ prajñānaṃ medhā dṛṣṭirdhṛtirmatirmanīṣā jūtiḥ smṛtiḥ saṅkalpaḥ kraturasuḥ kāmo vaśa iti | sarvāṇyevaitāni prajñānasya nāmadheyāni bhavanti || 2 ||",
+    "translation": "this which is the heart — and this mind — consciousness (perception), comprehension (noticing, perceiving) — discriminative cognition, understanding — consciousness, intelligence — retentive intellect, mental power — sight, firmness (resolve), thought, reflection — impulse, quickness — memory — resolve, mental determination — intention (will, purpose), vital breath (life) — desire — will (wish), control — thus (ends the list) — all these very ones — of consciousness (prajñāna, i.e. Brahman) — names, designations — they are, become",
+    "word_by_word": [
+      {
+        "word_sanskrit": "यदेतद्धृदयं",
+        "word_english": "this which is the heart",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + हृदय · प्रथमा·एक·नपुं",
+        "root": "यत् + एतत् + हृदयम्"
+      },
+      {
+        "word_sanskrit": "मनश्चैतत्",
+        "word_english": "and this mind",
+        "grammar_role": "मनस् · प्रथमा·एक·नपुं + च · अव्यय (समुच्चय) + एतद् · प्रथमा·एक·नपुं",
+        "root": "मनः + च + एतत्"
+      },
+      {
+        "word_sanskrit": "संज्ञानमाज्ञानं",
+        "word_english": "consciousness (perception), comprehension (noticing, perceiving)",
+        "grammar_role": "संज्ञान · प्रथमा·एक·नपुं + आज्ञान · प्रथमा·एक·नपुं",
+        "root": "संज्ञानम् + आज्ञानम्"
+      },
+      {
+        "word_sanskrit": "विज्ञानं",
+        "word_english": "discriminative cognition, understanding",
+        "grammar_role": "विज्ञान · प्रथमा·एक·नपुं",
+        "root": "विज्ञानम्"
+      },
+      {
+        "word_sanskrit": "प्रज्ञानं",
+        "word_english": "consciousness, intelligence",
+        "grammar_role": "प्रज्ञान · प्रथमा·एक·नपुं",
+        "root": "प्रज्ञानम्"
+      },
+      {
+        "word_sanskrit": "मेधा",
+        "word_english": "retentive intellect, mental power",
+        "grammar_role": "मेधा · प्रथमा·एक·स्त्री",
+        "root": "मेधा"
+      },
+      {
+        "word_sanskrit": "दृष्टिर्धृतिर्मतिर्मनीषा",
+        "word_english": "sight, firmness (resolve), thought, reflection",
+        "grammar_role": "दृष्टि · प्रथमा·एक·स्त्री + धृति · प्रथमा·एक·स्त्री + मति · प्रथमा·एक·स्त्री + मनीषा · प्रथमा·एक·स्त्री",
+        "root": "दृष्टिः + धृतिः + मतिः + मनीषा"
+      },
+      {
+        "word_sanskrit": "जूतिः",
+        "word_english": "impulse, quickness",
+        "grammar_role": "जूति · प्रथमा·एक·स्त्री",
+        "root": "जूतिः"
+      },
+      {
+        "word_sanskrit": "स्मृतिः",
+        "word_english": "memory",
+        "grammar_role": "स्मृति · प्रथमा·एक·स्त्री",
+        "root": "स्मृतिः"
+      },
+      {
+        "word_sanskrit": "सङ्कल्पः",
+        "word_english": "resolve, mental determination",
+        "grammar_role": "सङ्कल्प · प्रथमा·एक·पुं",
+        "root": "सङ्कल्पः"
+      },
+      {
+        "word_sanskrit": "क्रतुरसुः",
+        "word_english": "intention (will, purpose), vital breath (life)",
+        "grammar_role": "क्रतु · प्रथमा·एक·पुं + असु · प्रथमा·एक·पुं",
+        "root": "क्रतुः + असुः"
+      },
+      {
+        "word_sanskrit": "कामो",
+        "word_english": "desire",
+        "grammar_role": "काम · प्रथमा·एक·पुं",
+        "root": "कामः"
+      },
+      {
+        "word_sanskrit": "वश",
+        "word_english": "will (wish), control",
+        "grammar_role": "वश · प्रथमा·एक·पुं",
+        "root": "वशः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (ends the list)",
+        "grammar_role": "अव्यय (इयत्तावाचक / उपसंहार)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "सर्वाण्येवैतानि",
+        "word_english": "all these very ones",
+        "grammar_role": "सर्व · प्रथमा·बहु·नपुं + एव · अव्यय (अवधारण) + एतद् · प्रथमा·बहु·नपुं",
+        "root": "सर्वाणि + एव + एतानि"
+      },
+      {
+        "word_sanskrit": "प्रज्ञानस्य",
+        "word_english": "of consciousness (prajñāna, i.e. Brahman)",
+        "grammar_role": "प्रज्ञान · षष्ठी·एक·नपुं",
+        "root": "प्रज्ञानस्य"
+      },
+      {
+        "word_sanskrit": "नामधेयानि",
+        "word_english": "names, designations",
+        "grammar_role": "नामधेय · प्रथमा·बहु·नपुं",
+        "root": "नामधेयानि"
+      },
+      {
+        "word_sanskrit": "भवन्ति",
+        "word_english": "they are, become",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·बहु·परस्मैपद",
+        "root": "भवन्ति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "this which is the heart — and this mind — consciousness (perception), comprehension (noticing, perceiving) — discriminative cognition, understanding — consciousness, intelligence — retentive intellect, mental power — sight, firmness (resolve), thought, reflection — impulse, quickness — memory — resolve, mental determination — intention (will, purpose), vital breath (life) — desire — will (wish), control — thus (ends the list) — all these very ones — of consciousness (prajñāna, i.e. Brahman) — names, designations — they are, become"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "किं पुनस्तदेकमनेकधा भिन्नं करणमिति, उच्यते । यदुक्तं पुरस्तात् प्रजानां रेतो हृदयं हृदयस्य रेतो मनः मनसा सृष्टा आपश्च वरुणश्च हृदयान्मनो मनसश्चन्द्रमाः, तदेवैतद्धृदयं मनश्च, एकमेव तदनेकधा । एतेनान्तःकरणेनैकेन चक्षुर्भूतेन रूपं पश्यति, श्रोत्रभूतेन शृणोति, घ्राणभूतेन जिघ्रति, वाग्भूतेन वदति, जिह्वाभूतेन रसयति, स्वेनैव विकल्पनारूपेण मनसा सङ्कल्पयति, हृदयरूपेणाध्यवस्यति । तस्मात्सर्वकरणविषयव्यापारकमेकमिदं करणं सर्वोपलब्ध्यर्थमुपलब्धुः । तथा च कौषीतकिनाम् ‘प्रज्ञया वाचं समारुह्य वाचा सर्वाणि नामान्याप्नोति प्रज्ञया चक्षुः समारुह्य चक्षुषा सर्वाणि रूपाण्याप्नोति’ (कौ. उ. ३ । ६) इत्यादि । वाजसनेयके च — ‘मनसा ह्येव पश्यति मनसा शृणोति हृदयेन हि रूपाणि विजानाति’ (बृ. उ. १ । ५ । ३) इत्यादि । तस्माद्धृदयमनोवाच्यस्य सर्वोपलब्धिकरणत्वं प्रसिद्धम् । तदात्मकश्च प्राणः ‘यो वै प्राणः, सा प्रज्ञा या वै प्रज्ञा स प्राणः’ (कौ. उ. ३ । ३) इति हि ब्राह्मणम् । करणसंहतिरूपश्च प्राण इत्यवोचाम प्राणसंवादादौ । तस्माद्यत्पद्भ्यां प्रापद्यत, तद्ब्रह्म तदुपलब्धुरुपलब्धिकरणत्वेन गुणभूतत्वान्नैव तद्वस्तु ब्रह्म उपास्य आत्मा भवितुमर्हति । पारिशेष्याद्यस्योपलब्धुरुपलब्ध्यर्था एतस्य हृदयमनोरूपस्य करणस्य वृत्तयो वक्ष्यमाणाः, स उपलब्धा उपास्य आत्मा नोऽस्माकं भवितुमर्हतीति निश्चयं कृतवन्तः । तदन्तःकरणोपाधिस्थस्योपलब्धुः प्रज्ञानरूपस्य ब्रह्मण उपलब्ध्यर्था या अन्तःकरणवृत्तयो बाह्यान्तर्वर्तिविषयविषयाः, ता इमा उच्यन्ते — संज्ञानं संज्ञप्तिः चेतनभावः; आज्ञानम् आज्ञप्तिः ईश्वरभावः; विज्ञानं कलादिपरिज्ञानम्; प्रज्ञानं प्रज्ञप्तिः प्रज्ञता; मेधा ग्रन्थधारणसामर्थ्यम्; दृष्टिः इन्द्रियद्वारा सर्वविषयोपलब्धिः; धृतिः धारणम् अवसन्नानां शरीरेन्द्रियाणां ययोत्तम्भनं भवति; ‘धृत्या शरीरमुद्वहन्ति’ इति हि वदन्ति; मतिः मननम्; मनीषा तत्र स्वातन्त्र्यम्; जूतिः चेतसो रुजादिदुःखित्वभावः; स्मृतिः स्मरणम्; सङ्कल्पः शुक्लकृष्णादिभावेन सङ्कल्पनं रूपादीनाम्; क्रतुः अध्यवसायः; असुः प्राणनादिजीवनक्रियानिमित्ता वृत्तिः; कामः असंनिहितविषयाकाङ्क्षा तृष्णा; वशः स्त्रीव्यतिकराद्यभिलाषः; इत्येवमाद्या अन्तःकरणवृत्तयः उपलब्धुरुपलब्ध्यर्थत्वाच्छुद्धप्रज्ञानरूपस्य ब्रह्मण उपाधिभूतास्तदुपाधिजनितगुणनामधेयानि संज्ञानादीनि सर्वाण्येवैतानि प्रज्ञप्तिमात्रस्य प्रज्ञानस्य नामधेयानि भवन्ति, न स्वतः साक्षात् । तथा चोक्तम् ‘प्राणन्नेव प्राणो नाम भवति’ (बृ. उ. १ । ४ । ७) इत्यादि ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_3_3",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-3",
+      "chapter_name": "Adhyāya 3: Prajñānaṃ Brahma",
+      "verse_number": 3,
+      "chapter_number": 3,
+      "mantra_ref": "3.1.3",
+      "source_url": ""
+    },
+    "section_title": "पञ्चमः खण्डः",
+    "sanskrit_shloka": "एष ब्रह्मैष इन्द्र एष प्रजापतिरेते सर्वे देवा इमानि च पञ्च महाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्षुद्रमिश्राणीव । बीजानीतराणि चेतराणि चाण्डजानि च जारुजानि च स्वेदजानि चोद्भिज्जानि चाश्वा गावः पुरुषा हस्तिनो यत्किञ्चेदं प्राणि जङ्गमं च पतत्रि च यच्च स्थावरम् । सर्वं तत्प्रज्ञानेत्रं प्रज्ञाने प्रतिष्ठितं प्रज्ञानेत्रो लोकः प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म ॥ ३ ॥",
+    "transliteration": "eṣa brahmaiṣa indra eṣa prajāpatirete sarve devā imāni ca pañca mahābhūtāni pṛthivī vāyurākāśa āpo jyotīṃṣītyetānīmāni ca kṣudramiśrāṇīva | bījānītarāṇi cetarāṇi cāṇḍajāni ca jārujāni ca svedajāni codbhijjāni cāśvā gāvaḥ puruṣā hastino yatkiñcedaṃ prāṇi jaṅgamaṃ ca patatri ca yacca sthāvaram | sarvaṃ tatprajñānetraṃ prajñāne pratiṣṭhitaṃ prajñānetro lokaḥ prajñā pratiṣṭhā prajñānaṃ brahma || 3 ||",
+    "translation": "this (= the prajñāna-Self, brahman) — is brahman; this (one) — Indra (so called by quality, or as king of the gods) — this (one) — Prajāpati (the first-born embodied one); these — all — gods (Agni and the rest) — these — and — five — great elements (the material cause of all bodies) — earth — wind; ether/space — waters — lights/fire — thus these; and these — and — mixed with the small ones (i.e. tiny creatures, snakes etc.); 'iva' is expletive — seeds (i.e. causes), the one set — and the other set (twofold division) — and egg-born (birds etc.) — and — womb-born (= jarāyuja: humans etc.) — and — sweat-born (lice etc.) — and sprout-born (trees etc.) — and horses — cows — men — elephants — whatever this is — living being — moving (what walks/goes on feet) — and — winged/flying (moving through the air) — and — and whatever — immovable (motionless) — all that — that — having consciousness as its guide (led by prajñāna) — in consciousness — established/grounded — guided by consciousness — the world — consciousness (prajñapti) — the foundation/support — consciousness — is brahman",
+    "word_by_word": [
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this (= the prajñāna-Self, brahman)",
+        "grammar_role": "एतद् · प्रथमा·एक·पुंलिङ्ग (सर्वनाम)",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "ब्रह्मैष",
+        "word_english": "is brahman; this (one)",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुंसक + एतद् · प्रथमा·एक·पुंलिङ्ग (सर्वनाम)",
+        "root": "ब्रह्म + एषः"
+      },
+      {
+        "word_sanskrit": "इन्द्र",
+        "word_english": "Indra (so called by quality, or as king of the gods)",
+        "grammar_role": "इन्द्र · प्रथमा·एक·पुंलिङ्ग",
+        "root": "इन्द्रः"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this (one)",
+        "grammar_role": "एतद् · प्रथमा·एक·पुंलिङ्ग (सर्वनाम)",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "प्रजापतिरेते",
+        "word_english": "Prajāpati (the first-born embodied one); these",
+        "grammar_role": "प्रजापति · प्रथमा·एक·पुंलिङ्ग + एतद् · प्रथमा·बहु·पुंलिङ्ग (सर्वनाम)",
+        "root": "प्रजापतिः + एते"
+      },
+      {
+        "word_sanskrit": "सर्वे",
+        "word_english": "all",
+        "grammar_role": "सर्व · प्रथमा·बहु·पुंलिङ्ग (सर्वनाम)",
+        "root": "सर्वे"
+      },
+      {
+        "word_sanskrit": "देवा",
+        "word_english": "gods (Agni and the rest)",
+        "grammar_role": "देव · प्रथमा·बहु·पुंलिङ्ग",
+        "root": "देवाः"
+      },
+      {
+        "word_sanskrit": "इमानि",
+        "word_english": "these",
+        "grammar_role": "इदम् · प्रथमा·बहु·नपुंसक (सर्वनाम)",
+        "root": "इमानि"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "पञ्च",
+        "word_english": "five",
+        "grammar_role": "पञ्चन् · प्रथमा·बहु (सङ्ख्या; नित्यबहुवचन, लिङ्गभेदरहित)",
+        "root": "पञ्च"
+      },
+      {
+        "word_sanskrit": "महाभूतानि",
+        "word_english": "great elements (the material cause of all bodies)",
+        "grammar_role": "महाभूत · प्रथमा·बहु·नपुंसक (कर्मधारय)",
+        "root": "महा-भूतानि"
+      },
+      {
+        "word_sanskrit": "पृथिवी",
+        "word_english": "earth",
+        "grammar_role": "पृथिवी · प्रथमा·एक·स्त्रीलिङ्ग",
+        "root": "पृथिवी"
+      },
+      {
+        "word_sanskrit": "वायुराकाश",
+        "word_english": "wind; ether/space",
+        "grammar_role": "वायु · प्रथमा·एक·पुंलिङ्ग + आकाश · प्रथमा·एक·पुंलिङ्ग",
+        "root": "वायुः + आकाशः"
+      },
+      {
+        "word_sanskrit": "आपो",
+        "word_english": "waters",
+        "grammar_role": "अप् · प्रथमा·बहु·स्त्रीलिङ्ग (नित्यबहुवचन)",
+        "root": "आपः"
+      },
+      {
+        "word_sanskrit": "ज्योतींषीत्येतानीमानि",
+        "word_english": "lights/fire — thus these; and these",
+        "grammar_role": "ज्योतिस् · प्रथमा·बहु·नपुंसक + अव्यय (इति) + एतद् · प्रथमा·बहु·नपुंसक (सर्वनाम) + इदम् · प्रथमा·बहु·नपुंसक (सर्वनाम)",
+        "root": "ज्योतींषि + इति + एतानि + इमानि"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "क्षुद्रमिश्राणीव",
+        "word_english": "mixed with the small ones (i.e. tiny creatures, snakes etc.); 'iva' is expletive",
+        "grammar_role": "क्षुद्रमिश्र · प्रथमा·बहु·नपुंसक (तृतीयातत्पुरुष) + अव्यय (इव, अनर्थक)",
+        "root": "क्षुद्र-मिश्राणि + इव"
+      },
+      {
+        "word_sanskrit": "बीजानीतराणि",
+        "word_english": "seeds (i.e. causes), the one set",
+        "grammar_role": "बीज · प्रथमा·बहु·नपुंसक + इतर · प्रथमा·बहु·नपुंसक (सर्वनाम)",
+        "root": "बीजानि + इतराणि"
+      },
+      {
+        "word_sanskrit": "चेतराणि",
+        "word_english": "and the other set (twofold division)",
+        "grammar_role": "अव्यय (च) + इतर · प्रथमा·बहु·नपुंसक (सर्वनाम)",
+        "root": "च + इतराणि"
+      },
+      {
+        "word_sanskrit": "चाण्डजानि",
+        "word_english": "and egg-born (birds etc.)",
+        "grammar_role": "अव्यय (च) + अण्डज · प्रथमा·बहु·नपुंसक (उपपदतत्पुरुष)",
+        "root": "च + अण्डजानि"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "जारुजानि",
+        "word_english": "womb-born (= jarāyuja: humans etc.)",
+        "grammar_role": "जारुज · प्रथमा·बहु·नपुंसक (= जरायुज, उपपदतत्पुरुष)",
+        "root": "जारुजानि"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "स्वेदजानि",
+        "word_english": "sweat-born (lice etc.)",
+        "grammar_role": "स्वेदज · प्रथमा·बहु·नपुंसक (उपपदतत्पुरुष)",
+        "root": "स्वेद-जानि"
+      },
+      {
+        "word_sanskrit": "चोद्भिज्जानि",
+        "word_english": "and sprout-born (trees etc.)",
+        "grammar_role": "अव्यय (च) + उद्भिज्ज · प्रथमा·बहु·नपुंसक (उपपदतत्पुरुष)",
+        "root": "च + उद्भिज्जानि"
+      },
+      {
+        "word_sanskrit": "चाश्वा",
+        "word_english": "and horses",
+        "grammar_role": "अव्यय (च) + अश्व · प्रथमा·बहु·पुंलिङ्ग",
+        "root": "च + अश्वाः"
+      },
+      {
+        "word_sanskrit": "गावः",
+        "word_english": "cows",
+        "grammar_role": "गो · प्रथमा·बहु·पुंलिङ्ग",
+        "root": "गावः"
+      },
+      {
+        "word_sanskrit": "पुरुषा",
+        "word_english": "men",
+        "grammar_role": "पुरुष · प्रथमा·बहु·पुंलिङ्ग",
+        "root": "पुरुषाः"
+      },
+      {
+        "word_sanskrit": "हस्तिनो",
+        "word_english": "elephants",
+        "grammar_role": "हस्तिन् · प्रथमा·बहु·पुंलिङ्ग",
+        "root": "हस्तिनः"
+      },
+      {
+        "word_sanskrit": "यत्किञ्चेदं",
+        "word_english": "whatever this is",
+        "grammar_role": "यद् · प्रथमा·एक·नपुंसक (सर्वनाम) + किम् · प्रथमा·एक·नपुंसक (सर्वनाम) + अव्यय (च) + इदम् · प्रथमा·एक·नपुंसक (सर्वनाम)",
+        "root": "यत् + किम् + च + इदम्"
+      },
+      {
+        "word_sanskrit": "प्राणि",
+        "word_english": "living being",
+        "grammar_role": "प्राणिन् · प्रथमा·एक·नपुंसक",
+        "root": "प्राणि"
+      },
+      {
+        "word_sanskrit": "जङ्गमं",
+        "word_english": "moving (what walks/goes on feet)",
+        "grammar_role": "जङ्गम · प्रथमा·एक·नपुंसक",
+        "root": "जङ्गमम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "पतत्रि",
+        "word_english": "winged/flying (moving through the air)",
+        "grammar_role": "पतत्रिन् · प्रथमा·एक·नपुंसक",
+        "root": "पतत्रि"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "यच्च",
+        "word_english": "and whatever",
+        "grammar_role": "यद् · प्रथमा·एक·नपुंसक (सर्वनाम) + अव्यय (च)",
+        "root": "यत् + च"
+      },
+      {
+        "word_sanskrit": "स्थावरम्",
+        "word_english": "immovable (motionless)",
+        "grammar_role": "स्थावर · प्रथमा·एक·नपुंसक",
+        "root": "स्थावरम्"
+      },
+      {
+        "word_sanskrit": "सर्वं",
+        "word_english": "all that",
+        "grammar_role": "सर्व · प्रथमा·एक·नपुंसक (सर्वनाम)",
+        "root": "सर्वम्"
+      },
+      {
+        "word_sanskrit": "तत्प्रज्ञानेत्रं",
+        "word_english": "that — having consciousness as its guide (led by prajñāna)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुंसक (सर्वनाम) + प्रज्ञानेत्र · प्रथमा·एक·नपुंसक (बहुव्रीहि: प्रज्ञानं नेत्रं यस्य)",
+        "root": "तत् + प्रज्ञान-नेत्रम्"
+      },
+      {
+        "word_sanskrit": "प्रज्ञाने",
+        "word_english": "in consciousness",
+        "grammar_role": "प्रज्ञान · सप्तमी·एक·नपुंसक",
+        "root": "प्रज्ञाने"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठितं",
+        "word_english": "established/grounded",
+        "grammar_role": "प्रति·√स्था · क्तप्रत्यय (कर्तरि) · प्रथमा·एक·नपुंसक",
+        "root": "प्रतिष्ठितम्"
+      },
+      {
+        "word_sanskrit": "प्रज्ञानेत्रो",
+        "word_english": "guided by consciousness",
+        "grammar_role": "प्रज्ञानेत्र · प्रथमा·एक·पुंलिङ्ग (बहुव्रीहि)",
+        "root": "प्रज्ञान-नेत्रः"
+      },
+      {
+        "word_sanskrit": "लोकः",
+        "word_english": "the world",
+        "grammar_role": "लोक · प्रथमा·एक·पुंलिङ्ग",
+        "root": "लोकः"
+      },
+      {
+        "word_sanskrit": "प्रज्ञा",
+        "word_english": "consciousness (prajñapti)",
+        "grammar_role": "प्रज्ञा · प्रथमा·एक·स्त्रीलिङ्ग",
+        "root": "प्रज्ञा"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठा",
+        "word_english": "the foundation/support",
+        "grammar_role": "प्रतिष्ठा · प्रथमा·एक·स्त्रीलिङ्ग",
+        "root": "प्रतिष्ठा"
+      },
+      {
+        "word_sanskrit": "प्रज्ञानं",
+        "word_english": "consciousness",
+        "grammar_role": "प्रज्ञान · प्रथमा·एक·नपुंसक",
+        "root": "प्रज्ञानम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "is brahman",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुंसक",
+        "root": "ब्रह्म"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "this (= the prajñāna-Self, brahman) — is brahman; this (one) — Indra (so called by quality, or as king of the gods) — this (one) — Prajāpati (the first-born embodied one); these — all — gods (Agni and the rest) — these — and — five — great elements (the material cause of all bodies) — earth — wind; ether/space — waters — lights/fire — thus these; and these — and — mixed with the small ones (i.e. tiny creatures, snakes etc.); 'iva' is expletive — seeds (i.e. causes), the one set — and the other set (twofold division) — and egg-born (birds etc.) — and — womb-born (= jarāyuja: humans etc.) — and — sweat-born (lice etc.) — and sprout-born (trees etc.) — and horses — cows — men — elephants — whatever this is — living being — moving (what walks/goes on feet) — and — winged/flying (moving through the air) — and — and whatever — immovable (motionless) — all that — that — having consciousness as its guide (led by prajñāna) — in consciousness — established/grounded — guided by consciousness — the world — consciousness (prajñapti) — the foundation/support — consciousness — is brahman"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "स एषः प्रज्ञानरूप आत्मा ब्रह्म अपरं सर्वशरीरस्थः प्राणः प्रज्ञात्मा अन्तःकरणोपाधिष्वनुप्रविष्टो जलभेदगतसूर्यप्रतिबिम्बवत् हिरण्यगर्भः प्राणः प्रज्ञात्मा । एष एव इन्द्रः गुणात्, देवराजो वा । एष प्रजापतिः यः प्रथमजः शरीरी; यतो मुखादिनिर्भेदद्वारेणाग्न्यादयो लोकपाला जाताः, स प्रजापतिरेष एव । येऽपि एते अग्न्यादयः सर्वे देवा एष एव । इमानि च सर्वशरीरोपादानभूतानि पञ्च पृथिव्यादीनि महाभूतानि अन्नान्नादत्वलक्षणानि एतानि । किञ्च, इमानि च क्षुद्रमिश्राणि क्षुद्रैरल्पकैर्मिश्राणि, इवशब्दः अनर्थकः, सर्पादीनि । बीजानि कारणानि इतराणि चेतराणि च द्वैराश्येन निर्दिश्यमानानि । कानि तानि? उच्यन्ते — अण्डजानि पक्ष्यादीनि, जारुजानि जरायुजानि मनुष्यादीनि, स्वेदजानि यूकादीनि, उद्भिज्जानि च वृक्षादीनि । अश्वाः गावः पुरुषाः हस्तिनः अन्यच्च यत्किञ्चेदं प्राणि । किं तत्? जङ्गमं यच्चलति पद्भ्यां गच्छति; यच्च पतत्रि आकाशेन पतनशीलम्; यच्च स्थावरम् अचलम्; सर्वं तत् अशेषतः प्रज्ञानेत्रम्, प्रज्ञप्तिः प्रज्ञा, तच्च ब्रह्मैव, नीयतेऽनेनेति नेत्रम्, प्रज्ञा नेत्रं यस्य तदिदं प्रज्ञानेत्रम्; प्रज्ञाने ब्रह्मण्युत्पत्तिस्थितिलयकालेषु प्रतिष्ठितम्, प्रज्ञाश्रयमित्यर्थः । प्रज्ञानेत्रो लोकः पूर्ववत्; प्रज्ञाचक्षुर्वा सर्व एव लोकः । प्रज्ञा प्रतिष्ठा सर्वस्य जगतः । तस्मात् प्रज्ञानं ब्रह्म । तदेतत्प्रत्यस्तमितसर्वोपाधिविशेषं सत् निरञ्जनं निर्मलं निष्क्रियं शान्तम् एकम् अद्वयं ‘नेति नेति’ (बृ. उ. ३ । ९ । २६) इति सर्वविशेषापोहसंवेद्यं सर्वशब्दप्रत्ययागोचरं तदत्यन्तविशुद्धप्रज्ञोपाधिसम्बन्धेन सर्वज्ञमीश्वरं सर्वसाधारणाव्याकृतजगद्बीजप्रवर्तकं नियन्तृत्वादन्तर्यामिसंज्ञं भवति । तदेव व्याकृतजगद्बीजभूतबुद्ध्यात्माभिमानलक्षणं हिरण्यगर्भसंज्ञं भवति । तदेव अन्तरण्डोद्भूतप्रथमशरीरोपाधिमत् विराट्प्रजापतिसंज्ञं भवति । तदुद्भूताग्न्याद्युपाधिमत् देवतासंज्ञं भवति । तथा विशेषशरीरोपाधिष्वपि ब्रह्मादिस्तम्बपर्यन्तेषु तत्तन्नामरूपलाभो ब्रह्मणः । तदेवैकं सर्वोपाधिभेदभिन्नं सर्वैः प्राणिभिस्तार्किकैश्च सर्वप्रकारेण ज्ञायते विकल्प्यते च अनेकधा । ‘एतमेके वदन्त्यग्निं मनुमन्ये प्रजापतिम् । इन्द्रमेकेऽपरे प्राणमपरे ब्रह्म शाश्वतम्’ (मनु. १२ । १२३) इत्याद्या स्मृतिः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_3_4",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-3",
+      "chapter_name": "Adhyāya 3: Prajñānaṃ Brahma",
+      "verse_number": 4,
+      "chapter_number": 3,
+      "mantra_ref": "3.1.4",
+      "source_url": ""
+    },
+    "section_title": "पञ्चमः खण्डः",
+    "sanskrit_shloka": "स एतेन प्रज्ञेनात्मनास्माल्लोकादुत्क्रम्यामुष्मिन्स्वर्गे लोके सर्वान्कामानाप्त्वामृतः समभवत्समभवत् ॥ ४ ॥ इति पञ्चमः खण्डः ॥",
+    "transliteration": "sa etena prajñenātmanāsmāllokādutkramyāmuṣminsvarge loke sarvānkāmānāptvāmṛtaḥ samabhavatsamabhavat || 4 || iti pañcamaḥ khaṇḍaḥ ||",
+    "translation": "He (Vāmadeva, or another who thus knows Brahman) — by this (aforesaid) — by this conscious Self (prajña ātman), ascending from this world, in that heavenly... — in the (heavenly) world — having attained all desires, immortal — he became, he became (repetition marks the end of the section) — thus (marks conclusion) — the fifth — section (khaṇḍa)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "He (Vāmadeva, or another who thus knows Brahman)",
+        "grammar_role": "तद् · प्रथमा·एक·पुंलिङ्ग (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "एतेन",
+        "word_english": "by this (aforesaid)",
+        "grammar_role": "एतद् · तृतीया·एक·पुंलिङ्ग (सर्वनाम)",
+        "root": "एतेन"
+      },
+      {
+        "word_sanskrit": "प्रज्ञेनात्मनास्माल्लोकादुत्क्रम्यामुष्मिन्स्वर्गे",
+        "word_english": "by this conscious Self (prajña ātman), ascending from this world, in that heavenly...",
+        "grammar_role": "प्रज्ञ · तृतीया·एक·पुंलिङ्ग + आत्मन् · तृतीया·एक·पुंलिङ्ग + इदम् · पञ्चमी·एक·पुंलिङ्ग (सर्वनाम) + लोक · पञ्चमी·एक·पुंलिङ्ग + √क्रम् (उत्) · पूर्वकालिक·ल्यप् (ल्यबन्त अव्यय) + अदस् · सप्तमी·एक·पुंलिङ्ग (सर्वनाम) + स्वर्ग · सप्तमी·एक·पुंलिङ्ग",
+        "root": "प्रज्ञेन + आत्मना + अस्मात् + लोकात् + उत्क्रम्य + अमुष्मिन् + स्वर्गे"
+      },
+      {
+        "word_sanskrit": "लोके",
+        "word_english": "in the (heavenly) world",
+        "grammar_role": "लोक · सप्तमी·एक·पुंलिङ्ग",
+        "root": "लोके"
+      },
+      {
+        "word_sanskrit": "सर्वान्कामानाप्त्वामृतः",
+        "word_english": "having attained all desires, immortal",
+        "grammar_role": "सर्व · द्वितीया·बहु·पुंलिङ्ग (सर्वनाम) + काम · द्वितीया·बहु·पुंलिङ्ग + √आप् · पूर्वकालिक·क्त्वा (अव्यय) + अमृत · प्रथमा·एक·पुंलिङ्ग",
+        "root": "सर्वान् + कामान् + आप्त्वा + अमृतः"
+      },
+      {
+        "word_sanskrit": "समभवत्समभवत्",
+        "word_english": "he became, he became (repetition marks the end of the section)",
+        "grammar_role": "√भू (सम्) · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद + √भू (सम्) · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "समभवत् + समभवत्"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (marks conclusion)",
+        "grammar_role": "अव्यय (समाप्ति-द्योतक)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "पञ्चमः",
+        "word_english": "the fifth",
+        "grammar_role": "पञ्चम · प्रथमा·एक·पुंलिङ्ग",
+        "root": "पञ्चमः"
+      },
+      {
+        "word_sanskrit": "खण्डः",
+        "word_english": "section (khaṇḍa)",
+        "grammar_role": "खण्ड · प्रथमा·एक·पुंलिङ्ग",
+        "root": "खण्डः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "He (Vāmadeva, or another who thus knows Brahman) — by this (aforesaid) — by this conscious Self (prajña ātman), ascending from this world, in that heavenly... — in the (heavenly) world — having attained all desires, immortal — he became, he became (repetition marks the end of the section) — thus (marks conclusion) — the fifth — section (khaṇḍa)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "स वामदेवोऽन्यो वा एवं यथोक्तं ब्रह्म वेद प्रज्ञेनात्मना, येनैव प्रज्ञेन आत्मना पूर्वे विद्वांसोऽमृता अभूवन् तथा अयमपि विद्वान् एतेनैव प्रज्ञेन आत्मना अस्मात् लोकात् उत्क्रम्येत्यादि व्याख्यातम् । अस्माल्लोकादुत्क्रम्य अमुष्मिन् स्वर्गे लोके सर्वान्कामान् आप्त्वा अमृतः समभवत्समभवदित्योमिति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  }
+]

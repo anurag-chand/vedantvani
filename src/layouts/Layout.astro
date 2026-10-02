@@ -1,0 +1,116 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import BottomNav from '../components/BottomNav.astro';
+import SearchModal from '../components/SearchModal.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+  hideFooter?: boolean;
+}
+
+const {
+  title = 'VedāntVāṇī - Sacred Vedāntic & Scriptural Explorer',
+  description = 'Immerse in the eternal wisdom of the Bhagavad Gītā, Upaniṣads, Prakaraṇa Granthas, Śrī Rudram, and Patañjali Yoga Sūtras with multi-lineage commentaries and translations.',
+  ogImage = '/assets/sacred_lotus_gold.png',
+  hideFooter = false
+} = Astro.props;
+
+const currentPath = Astro.url.pathname;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🕉️</text></svg>" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#080a0f" />
+
+    <!-- SEO Meta Tags -->
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Preconnect to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Instant Theme Detection to prevent flash -->
+    <script is:inline>
+      (function() {
+        const theme = localStorage.getItem('vv_theme') || 'dark';
+        if (theme === 'light') {
+          document.documentElement.classList.add('light-theme');
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <!-- Sacred Animated Aurora Glow -->
+    <div class="sacred-glow-aura" aria-hidden="true"></div>
+
+    <div class="app-layout">
+      <!-- Site Header -->
+      <Header currentPath={currentPath} />
+
+      <!-- Main Slot Content -->
+      <main class="page-main" id="pageMainContent">
+        <slot />
+      </main>
+
+      <!-- Site Footer -->
+      {!hideFooter && <Footer />}
+
+      <!-- Mobile Bottom Navigation Bar -->
+      <BottomNav currentPath={currentPath} />
+
+      <!-- Global Search Modal Dialog -->
+      <SearchModal />
+
+      <!-- Global Toast Feedback Element -->
+      <div id="saffronToast" class="saffron-toast" role="status" aria-live="polite">
+        <span class="toast-icon">✨</span>
+        <span id="toastMessage" class="toast-text">Action completed successfully</span>
+      </div>
+    </div>
+
+    <!-- Global Toast Script Helper -->
+    <script is:inline>
+      window.showToast = function(message) {
+        const toast = document.getElementById('saffronToast');
+        const text = document.getElementById('toastMessage');
+        if (!toast || !text) return;
+        text.textContent = message;
+        toast.classList.add('show');
+        clearTimeout(window.__toastTimeout);
+        window.__toastTimeout = setTimeout(() => {
+          toast.classList.remove('show');
+        }, 2600);
+      };
+    </script>
+  </body>
+</html>
+
+<style>
+  .app-layout {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .page-main {
+    flex: 1;
+  }
+</style>

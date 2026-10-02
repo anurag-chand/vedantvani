@@ -5,32 +5,145 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 1,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145320.html"
+      "mantra_ref": "4.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0925 \u0939\u0948\u0928\u0902 \u0938\u094c\u0930\u094d\u092f\u093e\u092f\u0923\u0940 \u0917\u093e\u0930\u094d\u0917\u094d\u092f\u0903 \u092a\u092a\u094d\u0930\u091a\u094d\u091b \u092d\u0917\u0935\u0928\u094d\u0928\u0947\u0924\u0938\u094d\u092e\u093f\u0928\u094d\u092a\u0941\u0930\u0941\u0937\u0947 \u0915\u093e\u0928\u093f \u0938\u094d\u0935\u092a\u0928\u094d\u0924\u093f \u0915\u093e\u0928\u094d\u092f\u0938\u094d\u092e\u093f\u091e\u094d\u091c\u093e\u0917\u094d\u0930\u0924\u093f \u0915\u0924\u0930 \u090f\u0937 \u0926\u0947\u0935\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u093e\u0928\u094d\u092a\u0936\u094d\u092f\u0924\u093f \u0915\u0938\u094d\u092f\u0948\u0924\u0924\u094d\u0938\u0941\u0916\u0902 \u092d\u0935\u0924\u093f \u0915\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0941 \u0938\u0930\u094d\u0935\u0947 \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e \u092d\u0935\u0928\u094d\u0924\u0940\u0924\u093f \u0965 \u0967 \u0965",
-    "transliteration": "atha haina\u1e43 saury\u0101ya\u1e47i g\u0101rgya\u1e25 papraccha | bhagavannetasminpuru\u1e63e k\u0101ni svapanti k\u0101nyasmi\u00f1j\u0101grati katara e\u1e63a deva\u1e25 svapn\u0101npa\u015byati kasyaitatsukha\u1e43 bhavati kasminnu sarve sa\u1e43prati\u1e63\u1e6dit\u0101 bhavant\u012bti || 1 ||",
-    "translation": "1. Next Sauryayani Gargya questioned him \u2018Oh Bhagavan ! What in the man sleep? What wake in him? Which is the Deva who sees dreams? Whose is this bliss? In which of them again are all of them fixed?\u2019",
-    "word_by_word": [],
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "अथ हैनं सौर्यायणी गार्ग्यः पप्रच्छ भगवन्नेतस्मिन्पुरुषे कानि स्वपन्ति कान्यस्मिञ्जाग्रति कतर एष देवः स्वप्नान्पश्यति कस्यैतत्सुखं भवति कस्मिन्नु सर्वे सम्प्रतिष्ठिता भवन्तीति ॥ १ ॥",
+    "transliteration": "atha hainaṃ sauryāyaṇī gārgyaḥ papraccha bhagavannetasminpuruṣe kāni svapanti kānyasmiñjāgrati katara eṣa devaḥ svapnānpaśyati kasyaitatsukhaṃ bhavati kasminnu sarve sampratiṣṭhitā bhavantīti || 1 ||",
+    "translation": "1. Next Sauryayani Gargya questioned him ‘Oh Bhagavan ! What in the man sleep? What wake in him? Which is the Deva who sees dreams? Whose is this bliss? In which of them again are all of them fixed?’",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अथ",
+        "word_english": "now, then (introducing the fourth questioner's turn)",
+        "grammar_role": "अथ · अव्यय (आनन्तर्ये/आरम्भे)",
+        "root": "अथ"
+      },
+      {
+        "word_sanskrit": "हैनं",
+        "word_english": "and him indeed — i.e. Pippalāda, the sage being questioned",
+        "grammar_role": "ह · अव्यय (वाक्यालङ्कारे/पादपूरणे) + एनद् (≈इदम्/एतद्) · द्वितीया·एक·पुं",
+        "root": "ह + एनम्"
+      },
+      {
+        "word_sanskrit": "सौर्यायणी",
+        "word_english": "Sauryāyaṇi — the patronymic of the questioner (a descendant of Sūrya/Sūri)",
+        "grammar_role": "सौर्यायणि · प्रथमा·एक·पुं (गोत्रापत्यम्)",
+        "root": "सौर्यायणी"
+      },
+      {
+        "word_sanskrit": "गार्ग्यः",
+        "word_english": "Gārgya (descendant of Garga); the fourth questioner, who asks",
+        "grammar_role": "गार्ग्य · प्रथमा·एक·पुं",
+        "root": "गार्ग्यः"
+      },
+      {
+        "word_sanskrit": "पप्रच्छ",
+        "word_english": "asked, questioned (subject: Sauryāyaṇi Gārgya)",
+        "grammar_role": "√प्रच्छ् · लिट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "पप्रच्छ"
+      },
+      {
+        "word_sanskrit": "भगवन्नेतस्मिन्पुरुषे",
+        "word_english": "O Lord, in this person (one having head, hands, etc., per the bhāṣya)",
+        "grammar_role": "भगवत् · सम्बोधन·एक·पुं + एतद् · सप्तमी·एक·पुं + पुरुष · सप्तमी·एक·पुं",
+        "root": "भगवन् + एतस्मिन् + पुरुषे"
+      },
+      {
+        "word_sanskrit": "कानि",
+        "word_english": "which (organs, करणानि — bhāṣya gloss)?",
+        "grammar_role": "किम् · प्रथमा·बहु·नपुं",
+        "root": "कानि"
+      },
+      {
+        "word_sanskrit": "स्वपन्ति",
+        "word_english": "sleep — i.e. cease their own activity (स्वव्यापारादुपरमन्ते)",
+        "grammar_role": "√स्वप् · लट्·प्रथमपुरुष·बहु·परस्मैपद",
+        "root": "स्वपन्ति"
+      },
+      {
+        "word_sanskrit": "कान्यस्मिञ्जाग्रति",
+        "word_english": "which (organs) keep waking in this (person) — i.e. perform their own activity?",
+        "grammar_role": "किम् · प्रथमा·बहु·नपुं + इदम् · सप्तमी·एक·पुं + √जागृ · लट्·प्रथमपुरुष·बहु·परस्मैपद",
+        "root": "कानि + अस्मिन् + जाग्रति"
+      },
+      {
+        "word_sanskrit": "कतर",
+        "word_english": "which one of the two (of the pair characterized as effect=body and instrument=organs, कार्यकरणलक्षणयोः)?",
+        "grammar_role": "कतर · प्रथमा·एक·पुं",
+        "root": "कतरः"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "देवः",
+        "word_english": "shining one (the deva/self that sees dreams)",
+        "grammar_role": "देव · प्रथमा·एक·पुं",
+        "root": "देवः"
+      },
+      {
+        "word_sanskrit": "स्वप्नान्पश्यति",
+        "word_english": "sees dreams (perception within the body after withdrawal from waking sight)",
+        "grammar_role": "स्वप्न · द्वितीया·बहु·पुं + √दृश् (पश्य) · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "स्वप्नान् + पश्यति"
+      },
+      {
+        "word_sanskrit": "कस्यैतत्सुखं",
+        "word_english": "of whom does this happiness (of deep sleep) belong / arise?",
+        "grammar_role": "किम् · षष्ठी·एक·पुं + एतद् · प्रथमा·एक·नपुं + सुख · प्रथमा·एक·नपुं",
+        "root": "कस्य + एतत् + सुखम्"
+      },
+      {
+        "word_sanskrit": "भवति",
+        "word_english": "is, occurs, belongs",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "भवति"
+      },
+      {
+        "word_sanskrit": "कस्मिन्नु",
+        "word_english": "in whom, then? (i.e. in which imperishable)",
+        "grammar_role": "किम् · सप्तमी·एक·पुं + नु · अव्यय (प्रश्ने/जिज्ञासायाम्)",
+        "root": "कस्मिन् + नु"
+      },
+      {
+        "word_sanskrit": "सर्वे",
+        "word_english": "all (beings/भावाः that arise from the akṣara like sparks — bhāṣya)",
+        "grammar_role": "सर्व · प्रथमा·बहु·पुं",
+        "root": "सर्वे"
+      },
+      {
+        "word_sanskrit": "सम्प्रतिष्ठिता",
+        "word_english": "firmly established / come to rest (re-merge, अपियन्ति)",
+        "grammar_role": "सम्प्रतिष्ठित · प्रथमा·बहु·पुं (कर्मणि क्तः)",
+        "root": "सम्प्रतिष्ठिताः"
+      },
+      {
+        "word_sanskrit": "भवन्तीति",
+        "word_english": "do they become / are — thus (he asked)",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·बहु·परस्मैपद + इति · अव्यय (इतिकरणे/उद्धरणे)",
+        "root": "भवन्ति + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "1. Next Sauryayani Gargya questioned him \u2018Oh Bhagavan ! What in the man sleep? What wake in him? Which is the Deva who sees dreams? Whose is this bliss? In which of them again are all of them fixed?\u2019"
+        "text": "1. Next Sauryayani Gargya questioned him ‘Oh Bhagavan ! What in the man sleep? What wake in him? Which is the Deva who sees dreams? Whose is this bliss? In which of them again are all of them fixed?’"
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0925 \u0939 \u090f\u0928\u0902 \u0938\u094c\u0930\u094d\u092f\u093e\u092f\u0923\u0940 \u0917\u093e\u0930\u094d\u0917\u094d\u092f\u0903 \u092a\u092a\u094d\u0930\u091a\u094d\u091b \u092a\u094d\u0930\u0936\u094d\u0928\u0924\u094d\u0930\u092f\u0947\u0923\u093e\u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0917\u094b\u091a\u0930\u0902 \u0938\u0930\u094d\u0935\u0902 \u092a\u0930\u093f\u0938\u092e\u093e\u092a\u094d\u092f \u0938\u0902\u0938\u093e\u0930\u0902 \u0935\u094d\u092f\u093e\u0915\u0943\u0924\u0935\u093f\u0937\u092f\u0902 \u0938\u093e\u0927\u094d\u092f\u0938\u093e\u0927\u0928\u0932\u0915\u094d\u0937\u0923\u092e\u0928\u093f\u0924\u094d\u092f\u092e\u094d\u00a0\u0964 \u0905\u0925\u0947\u0926\u093e\u0928\u0940\u0902 \u0938\u093e\u0927\u094d\u092f\u0938\u093e\u0927\u0928\u0935\u093f\u0932\u0915\u094d\u0937\u0923\u092e\u092a\u094d\u0930\u093e\u0923\u092e\u092e\u0928\u094b\u0917\u094b\u091a\u0930\u092e\u0924\u0940\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u092e\u0935\u093f\u0937\u092f\u0902 \u0936\u093f\u0935\u0902 \u0936\u093e\u0928\u094d\u0924\u092e\u0935\u093f\u0915\u0943\u0924\u092e\u0915\u094d\u0937\u0930\u0902 \u0938\u0924\u094d\u092f\u0902 \u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0917\u092e\u094d\u092f\u0902 \u092a\u0941\u0930\u0941\u0937\u093e\u0916\u094d\u092f\u0902 \u0938\u092c\u093e\u0939\u094d\u092f\u093e\u092d\u094d\u092f\u0928\u094d\u0924\u0930\u092e\u091c\u0902 \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u092e\u093f\u0924\u094d\u092f\u0941\u0924\u094d\u0924\u0930\u0902 \u092a\u094d\u0930\u0936\u094d\u0928\u0924\u094d\u0930\u092f\u092e\u093e\u0930\u092d\u094d\u092f\u0924\u0947\u00a0\u0964 \u0924\u0924\u094d\u0930 \u0938\u0941\u0926\u0940\u092a\u094d\u0924\u093e\u0926\u093f\u0935\u093e\u0917\u094d\u0928\u0947\u0930\u094d\u092f\u0938\u094d\u092e\u093e\u0924\u094d\u092a\u0930\u0938\u094d\u092e\u093e\u0926\u0915\u094d\u0937\u0930\u093e\u0924\u094d\u0938\u0930\u094d\u0935\u0947 \u092d\u093e\u0935\u093e \u0935\u093f\u0938\u094d\u092b\u0941\u0932\u093f\u0919\u094d\u0917\u093e \u0907\u0935 \u091c\u093e\u092f\u0928\u094d\u0924\u0947 \u0924\u0924\u094d\u0930 \u091a\u0948\u0935\u093e\u092a\u093f\u092f\u0928\u094d\u0924\u0940\u0924\u094d\u092f\u0941\u0915\u094d\u0924\u0902 \u0926\u094d\u0935\u093f\u0924\u0940\u092f\u0947 \u092e\u0941\u0923\u094d\u0921\u0915\u0947 ; \u0915\u0947 \u0924\u0947 \u0938\u0930\u094d\u0935\u0947 \u092d\u093e\u0935\u093e \u0905\u0915\u094d\u0937\u0930\u093e\u0926\u094d\u0935\u093f\u0938\u094d\u092b\u0941\u0932\u093f\u0919\u094d\u0917\u093e \u0907\u0935 \u0935\u093f\u092d\u091c\u094d\u092f\u0928\u094d\u0924\u0947\u00a0\u0964 \u0915\u0925\u0902 \u0935\u093e \u0935\u093f\u092d\u0915\u094d\u0924\u093e\u0903 \u0938\u0928\u094d\u0924\u0938\u094d\u0924\u0924\u094d\u0930\u0948\u0935\u093e\u092a\u093f\u092f\u0928\u094d\u0924\u093f\u00a0\u0964 \u0915\u093f\u0902\u0932\u0915\u094d\u0937\u0923\u0902 \u0935\u093e \u0924\u0926\u0915\u094d\u0937\u0930\u092e\u093f\u0924\u093f\u00a0\u0964 \u090f\u0924\u0926\u094d\u0935\u093f\u0935\u0915\u094d\u0937\u092f\u093e \u0905\u0927\u0941\u0928\u093e \u092a\u094d\u0930\u0936\u094d\u0928\u093e\u0928\u0941\u0926\u094d\u092d\u093e\u0935\u092f\u0924\u093f \u2014 \u092d\u0917\u0935\u0928\u094d , \u090f\u0924\u0938\u094d\u092e\u093f\u0928\u094d \u092a\u0941\u0930\u0941\u0937\u0947 \u0936\u093f\u0930\u0903\u092a\u093e\u0923\u094d\u092f\u093e\u0926\u093f\u092e\u0924\u093f \u0915\u093e\u0928\u093f \u0915\u0930\u0923\u093e\u0928\u093f \u0938\u094d\u0935\u092a\u0928\u094d\u0924\u093f \u0938\u094d\u0935\u093e\u092a\u0902 \u0915\u0941\u0930\u094d\u0935\u0928\u094d\u0924\u093f \u0938\u094d\u0935\u0935\u094d\u092f\u093e\u092a\u093e\u0930\u093e\u0926\u0941\u092a\u0930\u092e\u0928\u094d\u0924\u0947 ; \u0915\u093e\u0928\u093f \u091a \u0905\u0938\u094d\u092e\u093f\u0928\u094d \u091c\u093e\u0917\u094d\u0930\u0924\u093f \u091c\u093e\u0917\u0930\u0923\u092e\u0928\u093f\u0926\u094d\u0930\u093e\u0935\u0938\u094d\u0925\u093e\u0902 \u0938\u094d\u0935\u0935\u094d\u092f\u093e\u092a\u093e\u0930\u0902 \u0915\u0941\u0930\u094d\u0935\u0928\u094d\u0924\u093f\u00a0\u0964 \u0915\u0924\u0930\u0903 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u0932\u0915\u094d\u0937\u0923\u092f\u094b\u0903 \u090f\u0937 \u0926\u0947\u0935\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u093e\u0928\u094d\u092a\u0936\u094d\u092f\u0924\u093f\u00a0\u0964 \u0938\u094d\u0935\u092a\u094d\u0928\u094b \u0928\u093e\u092e \u091c\u093e\u0917\u094d\u0930\u0926\u094d\u0926\u0930\u094d\u0936\u0928\u093e\u0928\u094d\u0928\u093f\u0935\u0943\u0924\u094d\u0924\u0938\u094d\u092f \u091c\u093e\u0917\u094d\u0930\u0926\u094d\u0935\u0926\u0928\u094d\u0924\u0903\u0936\u0930\u0940\u0930\u0947 \u092f\u0926\u094d\u0926\u0930\u094d\u0936\u0928\u092e\u094d\u00a0\u0964 \u0924\u0924\u094d\u0915\u093f\u0902 \u0915\u093e\u0930\u094d\u092f\u0932\u0915\u094d\u0937\u0923\u0947\u0928 \u0926\u0947\u0935\u0947\u0928 \u0928\u093f\u0930\u094d\u0935\u0930\u094d\u0924\u094d\u092f\u0924\u0947, \u0915\u093f\u0902 \u0935\u093e \u0915\u0930\u0923\u0932\u0915\u094d\u0937\u0923\u0947\u0928 \u0915\u0947\u0928\u091a\u093f\u0926\u093f\u0924\u094d\u092f\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903\u00a0\u0964 \u0909\u092a\u0930\u0924\u0947 \u091a \u091c\u093e\u0917\u094d\u0930\u0924\u094d\u0938\u094d\u0935\u092a\u094d\u0928\u0935\u094d\u092f\u093e\u092a\u093e\u0930\u0947 \u092f\u0924\u094d\u092a\u094d\u0930\u0938\u0928\u094d\u0928\u0902 \u0928\u093f\u0930\u093e\u092f\u093e\u0938\u0932\u0915\u094d\u0937\u0923\u092e\u0928\u093e\u092c\u093e\u0927\u0902 \u0938\u0941\u0916\u0902 \u0915\u0938\u094d\u092f \u090f\u0924\u0924\u094d \u092d\u0935\u0924\u093f\u00a0\u0964 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0915\u093e\u0932\u0947 \u091c\u093e\u0917\u094d\u0930\u0924\u094d\u0938\u094d\u0935\u092a\u094d\u0928\u0935\u094d\u092f\u093e\u092a\u093e\u0930\u093e\u0926\u0941\u092a\u0930\u0924\u093e\u0903 \u0938\u0928\u094d\u0924\u0903 \u0915\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0941 \u0938\u0930\u094d\u0935\u0947 \u0938\u092e\u094d\u092f\u0917\u0947\u0915\u0940\u092d\u0942\u0924\u093e\u0903 \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e\u0903\u00a0\u0964 \u092e\u0927\u0941\u0928\u093f \u0930\u0938\u0935\u0924\u094d\u0938\u092e\u0941\u0926\u094d\u0930\u092a\u094d\u0930\u0935\u093f\u0937\u094d\u091f\u0928\u0926\u094d\u092f\u093e\u0926\u093f\u0935\u091a\u094d\u091a \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0930\u094d\u0939\u093e\u0903 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e \u092d\u0935\u0928\u094d\u0924\u093f \u0938\u0919\u094d\u0917\u0924\u093e\u0903 \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e \u092d\u0935\u0928\u094d\u0924\u0940\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0928\u0928\u0941 \u0928\u094d\u092f\u0938\u094d\u0924\u0926\u093e\u0924\u094d\u0930\u093e\u0926\u093f\u0915\u0930\u0923\u0935\u0924\u094d\u0938\u094d\u0935\u0935\u094d\u092f\u093e\u092a\u093e\u0930\u093e\u0926\u0941\u092a\u0930\u0924\u093e\u0928\u093f \u092a\u0943\u0925\u0915\u094d\u092a\u0943\u0925\u0917\u0947\u0935 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u0928\u094d\u092f\u0935\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924 \u0907\u0924\u094d\u092f\u0947\u0924\u0926\u094d\u092f\u0941\u0915\u094d\u0924\u092e\u094d ; \u0915\u0941\u0924\u0903 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093f\u0903 \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u092a\u0941\u0930\u0941\u0937\u093e\u0923\u093e\u0902 \u0915\u0930\u0923\u093e\u0928\u093e\u0902 \u0915\u0938\u094d\u092e\u093f\u0902\u0936\u094d\u091a\u093f\u0926\u0947\u0915\u0940\u092d\u093e\u0935\u0917\u092e\u0928\u093e\u0936\u0919\u094d\u0915\u093e\u092f\u093e\u0903 \u092a\u094d\u0930\u0937\u094d\u091f\u0941\u0903 ? \u092f\u0941\u0915\u094d\u0924\u0948\u0935 \u0924\u094d\u0935\u093e\u0936\u0919\u094d\u0915\u093e ; \u092f\u0924\u0903 \u0938\u0902\u0939\u0924\u093e\u0928\u093f \u0915\u0930\u0923\u093e\u0928\u093f \u0938\u094d\u0935\u093e\u092e\u094d\u092f\u0930\u094d\u0925\u093e\u0928\u093f \u092a\u0930\u0924\u0928\u094d\u0924\u094d\u0930\u093e\u0923\u093f \u091a \u091c\u093e\u0917\u094d\u0930\u0926\u094d\u0935\u093f\u0937\u092f\u0947 ; \u0924\u0938\u094d\u092e\u093e\u0924\u094d\u0938\u094d\u0935\u093e\u092a\u0947\u093d\u092a\u093f \u0938\u0902\u0939\u0924\u093e\u0928\u093e\u0902 \u092a\u093e\u0930\u0924\u0928\u094d\u0924\u094d\u0930\u094d\u092f\u0947\u0923\u0948\u0935 \u0915\u0938\u094d\u092e\u093f\u0902\u0936\u094d\u091a\u093f\u0924\u094d\u0938\u0919\u094d\u0917\u0924\u093f\u0930\u094d\u0928\u094d\u092f\u093e\u092f\u094d\u092f\u0947\u0924\u093f ; \u0924\u0938\u094d\u092e\u093e\u0926\u093e\u0936\u0919\u094d\u0915\u093e\u0928\u0941\u0930\u0942\u092a \u090f\u0935 \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u093d\u092f\u092e\u094d\u00a0\u0964 \u0905\u0924\u094d\u0930 \u0924\u0941 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u0938\u0919\u094d\u0918\u093e\u0924\u094b \u092f\u0938\u094d\u092e\u093f\u0902\u0936\u094d\u091a \u092a\u094d\u0930\u0932\u0940\u0928\u0903 \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u092a\u094d\u0930\u0932\u092f\u0915\u093e\u0932\u092f\u094b\u0903, \u0924\u0926\u094d\u0935\u093f\u0936\u0947\u0937\u0902 \u092c\u0941\u092d\u0941\u0924\u094d\u0938\u094b\u0903 \u0938 \u0915\u094b \u0928\u0941 \u0938\u094d\u092f\u093e\u0926\u093f\u0924\u093f \u0915\u0938\u094d\u092e\u093f\u0928\u094d\u0938\u0930\u094d\u0935\u0947 \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e \u092d\u0935\u0928\u094d\u0924\u0940\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Cow.\u2014Next Sauryayani Gargya questioned him: Having thus exhausted by these three questions, all about Samsara, the subject of Apara (lower) Vidya subject to modification, partaking of the nature of causes and effects and of ephemeral existence, the next three questions are asked in order that the Brahman , not partaking of the nature of causes and effects devoid of prana, not perceivable by the mind, beyond the shot of the senses, bliss in its nature, free from misery, not subject to modification, undecaying, true, knowable by Para Vidya (higher knowledge), known as purusha, without and within all and unborn, may be known. Now, it was stated in the second Mundaka, that everything known to exist, proceeded from the undecaying Brahman , as sparks from the flaming fire, and that everything is absorbed into Brahman . What are all those existences which diverge from the Brahman ? How again, thus existing in divergence are absorbed into it ( Brahman ) alone? What again are the characteristics of that Brahman ? Now, in order to explain, these questions are imagined to be raised: \u2018Oh Bhagavan , in this man, having head, hands, etc., what senses sleep, i.e., cease to perform their functions? What again in this man wake, i.e., do not sleep, i.e., perform their functions? Of these distinguishable as effects and instruments, which Deva sees dreams? Dream is seeing within the body, as if he were awake, by one who has turned away from waking consciousness. The drift is whether, that is accomplished by any Deva, in the nature of an effect, or any in the nature of an instrument. And who enjoys the bliss (arising when the activity of the waking and the dreaming state ceases) clear, i.e., free from the stain of contact with the objects of the senses, consisting in the absence of all trouble (distraction) and unobstructed? Then, where are all these, their waking and dreaming activities having ceased, centred? i.e., where do these blend indistinguishably, like juice in honey and like rivers entering the ocean. It is but reasonable that these turned away from their own activities, like the scythe and other instruments, which have ceased to do their work, should separately rest, each in its own place. Whence does the supposition then arise, that the senses of man in sleep become all blended in one. The supposition of the questioner is certainly reasonable. As all the senses together, during waking, act on behalf of some lord and are dependent (on him), therefore their coalition in one is reasonable even in sleep, because of their dependence and acting together. Therefore, this question is certainly consistent with the supposition. Here the question \u2018in which are all these centred?\u2019 is asked by the questioner who wishes to know him, in whom all this bundle of effects and instruments is absorbed during sleep and Pralaya ."
+        "text": "अथ ह एनं सौर्यायणी गार्ग्यः पप्रच्छ प्रश्नत्रयेणापरविद्यागोचरं सर्वं परिसमाप्य संसारं व्याकृतविषयं साध्यसाधनलक्षणमनित्यम् । अथेदानीं साध्यसाधनविलक्षणमप्राणममनोगोचरमतीन्द्रियमविषयं शिवं शान्तमविकृतमक्षरं सत्यं परविद्यागम्यं पुरुषाख्यं सबाह्याभ्यन्तरमजं वक्तव्यमित्युत्तरं प्रश्नत्रयमारभ्यते । तत्र सुदीप्तादिवाग्नेर्यस्मात्परस्मादक्षरात्सर्वे भावा विस्फुलिङ्गा इव जायन्ते तत्र चैवापियन्तीत्युक्तं द्वितीये मुण्डके; के ते सर्वे भावा अक्षराद्विस्फुलिङ्गा इव विभज्यन्ते । कथं वा विभक्ताः सन्तस्तत्रैवापियन्ति । किंलक्षणं वा तदक्षरमिति । एतद्विवक्षया अधुना प्रश्नानुद्भावयति — भगवन्, एतस्मिन् पुरुषे शिरःपाण्यादिमति कानि करणानि स्वपन्ति स्वापं कुर्वन्ति स्वव्यापारादुपरमन्ते; कानि च अस्मिन् जाग्रति जागरणमनिद्रावस्थां स्वव्यापारं कुर्वन्ति । कतरः कार्यकरणलक्षणयोः एष देवः स्वप्नान्पश्यति । स्वप्नो नाम जाग्रद्दर्शनान्निवृत्तस्य जाग्रद्वदन्तःशरीरे यद्दर्शनम् । तत्किं कार्यलक्षणेन देवेन निर्वर्त्यते, किं वा करणलक्षणेन केनचिदित्यभिप्रायः । उपरते च जाग्रत्स्वप्नव्यापारे यत्प्रसन्नं निरायासलक्षणमनाबाधं सुखं कस्य एतत् भवति । तस्मिन्काले जाग्रत्स्वप्नव्यापारादुपरताः सन्तः कस्मिन्नु सर्वे सम्यगेकीभूताः सम्प्रतिष्ठिताः । मधुनि रसवत्समुद्रप्रविष्टनद्यादिवच्च विवेकानर्हाः प्रतिष्ठिता भवन्ति सङ्गताः सम्प्रतिष्ठिता भवन्तीत्यर्थः । ननु न्यस्तदात्रादिकरणवत्स्वव्यापारादुपरतानि पृथक्पृथगेव स्वात्मन्यवतिष्ठन्त इत्येतद्युक्तम्; कुतः प्राप्तिः सुषुप्तपुरुषाणां करणानां कस्मिंश्चिदेकीभावगमनाशङ्कायाः प्रष्टुः? युक्तैव त्वाशङ्का; यतः संहतानि करणानि स्वाम्यर्थानि परतन्त्राणि च जाग्रद्विषये; तस्मात्स्वापेऽपि संहतानां पारतन्त्र्येणैव कस्मिंश्चित्सङ्गतिर्न्याय्येति; तस्मादाशङ्कानुरूप एव प्रश्नोऽयम् । अत्र तु कार्यकरणसङ्घातो यस्मिंश्च प्रलीनः सुषुप्तप्रलयकालयोः, तद्विशेषं बुभुत्सोः स को नु स्यादिति कस्मिन्सर्वे सम्प्रतिष्ठिता भवन्तीति ॥"
       }
     ],
     "commentary_faqs": []
@@ -41,32 +154,271 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 2,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145321.html"
+      "mantra_ref": "4.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u0948 \u0938 \u0939\u094b\u0935\u093e\u091a \u092f\u0925\u093e \u0917\u093e\u0930\u094d\u0917\u094d\u092f \u092e\u0930\u0940\u091a\u092f\u094b\u093d\u0930\u094d\u0915\u0938\u094d\u092f\u093e\u0938\u094d\u0924\u0902 \u0917\u091a\u094d\u091b\u0924\u0903 \u0938\u0930\u094d\u0935\u093e \u090f\u0924\u0938\u094d\u092e\u093f\u0902\u0938\u094d\u0924\u0947\u091c\u094b\u092e\u0923\u094d\u0921\u0932 \u090f\u0915\u0940\u092d\u0935\u0928\u094d\u0924\u093f \u0924\u093e\u0903 \u092a\u0941\u0928\u0903 \u092a\u0941\u0928\u0930\u0941\u0926\u092f\u0924\u0903 \u092a\u094d\u0930\u091a\u0930\u0928\u094d\u0924\u094d\u092f\u0947\u0935\u0902 \u0939 \u0935\u0948 \u0924\u0924\u094d\u0938\u0930\u094d\u0935\u0902 \u092a\u0930\u0947 \u0926\u0947\u0935\u0947 \u092e\u0928\u0938\u094d\u092f\u0947\u0915\u0940\u092d\u0935\u0924\u093f\u00a0\u0964 \u0924\u0947\u0928 \u0924\u0930\u094d\u0939\u094d\u092f\u0947\u0937 \u092a\u0941\u0930\u0941\u0937\u094b \u0928 \u0936\u0943\u0923\u094b\u0924\u093f \u0928 \u092a\u0936\u094d\u092f\u0924\u093f \u0928 \u091c\u093f\u0918\u094d\u0930\u0924\u093f \u0928 \u0930\u0938\u092f\u0924\u0947 \u0928 \u0938\u094d\u092a\u0943\u0936\u0924\u0947 \u0928\u093e\u092d\u093f\u0935\u0926\u0924\u0947 \u0928\u093e\u0926\u0924\u094d\u0924\u0947 \u0928\u093e\u0928\u0928\u094d\u0926\u092f\u0924\u0947 \u0928 \u0935\u093f\u0938\u0943\u091c\u0924\u0947 \u0928\u0947\u092f\u093e\u092f\u0924\u0947 \u0938\u094d\u0935\u092a\u093f\u0924\u0940\u0924\u094d\u092f\u093e\u091a\u0915\u094d\u0937\u0924\u0947 \u0965 \u0968 \u0965",
-    "transliteration": "tasmai sa ho vaca | yatha g\u0101rgya mar\u012bcayo'rkasy\u0101sta\u1e43 gacchata\u1e25 sarv\u0101 etasmi\u1e43stejoma\u1e47\u1e0dala ek\u012bbhavanti | t\u0101\u1e25 puna\u1e25 punarudayata\u1e25 pracarantyeva\u1e43 ha vai tat sarva\u1e43 pare deve manasyek\u012bbhavati | tena tarhye\u1e63a puru\u1e63o na \u015b\u1e5b\u1e47oti na pa\u015byati na jighrati na rasayate na sp\u1e5b\u015bate n\u0101bhivadate n\u0101datte n\u0101nandayate na vis\u1e5bjate ney\u0101yate svapit\u012bty\u0101cak\u015bate || 2 ||",
-    "translation": "2. To him, he said: \u2018Just as, O Gargya , the rays of the setting sun all become one in this orb of light and go out again when he rises again, so all of these become one in the highest Deva, i.e., the mind; then, therefore, the man hears not, sees not, smells not, tastes not, feels not, speaks not, takes not, delights mot, abandons not, moves not; they say \u2018he sleeps.\u2019",
-    "word_by_word": [],
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "तस्मै स होवाच यथा गार्ग्य मरीचयोऽर्कस्यास्तं गच्छतः सर्वा एतस्मिंस्तेजोमण्डल एकीभवन्ति ताः पुनः पुनरुदयतः प्रचरन्त्येवं ह वै तत्सर्वं परे देवे मनस्येकीभवति । तेन तर्ह्येष पुरुषो न शृणोति न पश्यति न जिघ्रति न रसयते न स्पृशते नाभिवदते नादत्ते नानन्दयते न विसृजते नेयायते स्वपितीत्याचक्षते ॥ २ ॥",
+    "transliteration": "tasmai sa hovāca yathā gārgya marīcayo'rkasyāstaṃ gacchataḥ sarvā etasmiṃstejomaṇḍala ekībhavanti tāḥ punaḥ punarudayataḥ pracarantyevaṃ ha vai tatsarvaṃ pare deve manasyekībhavati | tena tarhyeṣa puruṣo na śṛṇoti na paśyati na jighrati na rasayate na spṛśate nābhivadate nādatte nānandayate na visṛjate neyāyate svapitītyācakṣate || 2 ||",
+    "translation": "2. To him, he said: ‘Just as, O Gargya , the rays of the setting sun all become one in this orb of light and go out again when he rises again, so all of these become one in the highest Deva, i.e., the mind; then, therefore, the man hears not, sees not, smells not, tastes not, feels not, speaks not, takes not, delights mot, abandons not, moves not; they say ‘he sleeps.’",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मै",
+        "word_english": "to him (Gārgya, the pupil)",
+        "grammar_role": "तद् · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "तस्मै"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the teacher / ācārya)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "होवाच",
+        "word_english": "verily said",
+        "grammar_role": "ह · अव्यय (निपात) + √वच् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "ह + उवाच"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "just as",
+        "grammar_role": "अव्यय (दृष्टान्तार्थक)",
+        "root": "यथा"
+      },
+      {
+        "word_sanskrit": "गार्ग्य",
+        "word_english": "O Gārgya",
+        "grammar_role": "गार्ग्य · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "गार्ग्य"
+      },
+      {
+        "word_sanskrit": "मरीचयोऽर्कस्यास्तं",
+        "word_english": "the rays — as the sun goes to its setting",
+        "grammar_role": "मरीचि · प्रथमा·बहुवचन·स्त्रीलिङ्ग (मरीचि लक्षणतः पुं./स्त्री.; अत्र सर्वाः-ताः-सामानाधिकरण्यात् स्त्री.) + अर्क · षष्ठी·एकवचन·पुंलिङ्ग + अस्त · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "मरीचयः + अर्कस्य + अस्तम्"
+      },
+      {
+        "word_sanskrit": "गच्छतः",
+        "word_english": "of (the sun) going (to disappearance/setting)",
+        "grammar_role": "√गम् · शतृ-कृदन्त · षष्ठी·एकवचन·पुंलिङ्ग (अर्कस्य-विशेषणम्)",
+        "root": "गच्छतः"
+      },
+      {
+        "word_sanskrit": "सर्वा",
+        "word_english": "all (the rays), entirely",
+        "grammar_role": "सर्व · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "सर्वाः"
+      },
+      {
+        "word_sanskrit": "एतस्मिंस्तेजोमण्डल",
+        "word_english": "in this orb of light (mass of brightness)",
+        "grammar_role": "एतद् · सप्तमी·एकवचन·नपुंसकलिङ्ग + तेजस्-मण्डल · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "एतस्मिन् + तेजः-मण्डले"
+      },
+      {
+        "word_sanskrit": "एकीभवन्ति",
+        "word_english": "they become one (merge, losing distinction)",
+        "grammar_role": "√एकीभू (एकी-√भू) · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "एकीभवन्ति"
+      },
+      {
+        "word_sanskrit": "ताः",
+        "word_english": "they (those same rays)",
+        "grammar_role": "तद् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "ताः"
+      },
+      {
+        "word_sanskrit": "पुनः",
+        "word_english": "again",
+        "grammar_role": "अव्यय",
+        "root": "पुनः"
+      },
+      {
+        "word_sanskrit": "पुनरुदयतः",
+        "word_english": "again, of (the sun) rising",
+        "grammar_role": "पुनर् · अव्यय + उत्-√इ (उदयत्) · शतृ-कृदन्त · षष्ठी·एकवचन·पुंलिङ्ग (अर्कस्य-विशेषणम्)",
+        "root": "पुनर् + उदयतः"
+      },
+      {
+        "word_sanskrit": "प्रचरन्त्येवं",
+        "word_english": "they spread forth (are scattered); thus",
+        "grammar_role": "प्र-√चर् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद + एवम् · अव्यय",
+        "root": "प्रचरन्ति + एवम्"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "verily",
+        "grammar_role": "ह · अव्यय (निपात)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "indeed",
+        "grammar_role": "वै · अव्यय (निपात)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "तत्सर्वं",
+        "word_english": "all that (the whole aggregate of sense-objects and organs)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + सर्व · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "तत् + सर्वम्"
+      },
+      {
+        "word_sanskrit": "परे",
+        "word_english": "in the supreme (exalted)",
+        "grammar_role": "पर · सप्तमी·एकवचन·पुंलिङ्ग (देवे-विशेषणम्)",
+        "root": "परे"
+      },
+      {
+        "word_sanskrit": "देवे",
+        "word_english": "in the shining deva (which is the mind)",
+        "grammar_role": "देव · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "देवे"
+      },
+      {
+        "word_sanskrit": "मनस्येकीभवति",
+        "word_english": "in the mind it becomes one (merges)",
+        "grammar_role": "मनस् · सप्तमी·एकवचन·नपुंसकलिङ्ग + √एकीभू (एकी-√भू) · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "मनसि + एकीभवति"
+      },
+      {
+        "word_sanskrit": "तेन",
+        "word_english": "by that reason / therefore",
+        "grammar_role": "तद् · तृतीया·एकवचन·नपुंसकलिङ्ग (हेत्वर्थे = तस्मात्)",
+        "root": "तेन"
+      },
+      {
+        "word_sanskrit": "तर्ह्येष",
+        "word_english": "then this (person)",
+        "grammar_role": "तर्हि · अव्यय (कालवाचक) + एतद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "तर्हि + एषः"
+      },
+      {
+        "word_sanskrit": "पुरुषो",
+        "word_english": "the person (e.g. Devadatta)",
+        "grammar_role": "पुरुष · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "अव्यय (निषेधार्थक)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "शृणोति",
+        "word_english": "hears",
+        "grammar_role": "√श्रु · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "शृणोति"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "अव्यय (निषेधार्थक)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "पश्यति",
+        "word_english": "sees",
+        "grammar_role": "√दृश् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "पश्यति"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "अव्यय (निषेधार्थक)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "जिघ्रति",
+        "word_english": "smells",
+        "grammar_role": "√घ्रा · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "जिघ्रति"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "अव्यय (निषेधार्थक)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "रसयते",
+        "word_english": "tastes",
+        "grammar_role": "√रस् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "रसयते"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "अव्यय (निषेधार्थक)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "स्पृशते",
+        "word_english": "touches",
+        "grammar_role": "√स्पृश् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद (आर्षम्; सामान्यतः परस्मैपद)",
+        "root": "स्पृशते"
+      },
+      {
+        "word_sanskrit": "नाभिवदते",
+        "word_english": "does not speak",
+        "grammar_role": "न · अव्यय + अभि-√वद् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "न + अभिवदते"
+      },
+      {
+        "word_sanskrit": "नादत्ते",
+        "word_english": "does not take/grasp",
+        "grammar_role": "न · अव्यय + आ-√दा · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "न + आदत्ते"
+      },
+      {
+        "word_sanskrit": "नानन्दयते",
+        "word_english": "does not take pleasure / procreate",
+        "grammar_role": "न · अव्यय + आ-√नन्द् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "न + आनन्दयते"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "अव्यय (निषेधार्थक)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "विसृजते",
+        "word_english": "excretes (emits)",
+        "grammar_role": "वि-√सृज् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "विसृजते"
+      },
+      {
+        "word_sanskrit": "नेयायते",
+        "word_english": "does not move about (to and fro)",
+        "grammar_role": "न · अव्यय + √या/√इ यङन्त (इयायते) · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "न + इयायते"
+      },
+      {
+        "word_sanskrit": "स्वपितीत्याचक्षते",
+        "word_english": "\"he sleeps\" — thus they (worldly people) say",
+        "grammar_role": "√स्वप् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद + इति · अव्यय + आ-√चक्ष् · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "स्वपिति + इति + आचक्षते"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "2. To him, he said: \u2018Just as, O Gargya , the rays of the setting sun all become one in this orb of light and go out again when he rises again, so all of these become one in the highest Deva, i.e., the mind; then, therefore, the man hears not, sees not, smells not, tastes not, feels not, speaks not, takes not, delights mot, abandons not, moves not; they say \u2018he sleeps.\u2019"
+        "text": "2. To him, he said: ‘Just as, O Gargya , the rays of the setting sun all become one in this orb of light and go out again when he rises again, so all of these become one in the highest Deva, i.e., the mind; then, therefore, the man hears not, sees not, smells not, tastes not, feels not, speaks not, takes not, delights mot, abandons not, moves not; they say ‘he sleeps.’"
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0938\u094d\u092e\u0948 \u0938 \u0939 \u0909\u0935\u093e\u091a \u0906\u091a\u093e\u0930\u094d\u092f\u0903\u00a0\u0964 \u0936\u0943\u0923\u0941 \u0939\u0947 \u0917\u093e\u0930\u094d\u0917\u094d\u092f, \u092f\u0924\u094d\u0924\u094d\u0935\u092f\u093e \u092a\u0943\u0937\u094d\u091f\u092e\u094d\u00a0\u0964 \u092f\u0925\u093e \u092e\u0930\u0940\u091a\u092f\u0903 \u0930\u0936\u094d\u092e\u092f\u0903 \u0905\u0930\u094d\u0915\u0938\u094d\u092f \u0906\u0926\u093f\u0924\u094d\u092f\u0938\u094d\u092f \u0905\u0938\u094d\u0924\u092e\u094d \u0905\u0926\u0930\u094d\u0936\u0928\u0902 \u0917\u091a\u094d\u091b\u0924\u0903 \u0938\u0930\u094d\u0935\u093e\u0903 \u0905\u0936\u0947\u0937\u0924\u0903 \u090f\u0924\u0938\u094d\u092e\u093f\u0928\u094d \u0924\u0947\u091c\u094b\u092e\u0923\u094d\u0921\u0932\u0947 \u0924\u0947\u091c\u094b\u0930\u093e\u0936\u093f\u0930\u0942\u092a\u0947 \u090f\u0915\u0940\u092d\u0935\u0928\u094d\u0924\u093f \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0930\u094d\u0939\u0924\u094d\u0935\u092e\u0935\u093f\u0936\u0947\u0937\u0924\u093e\u0902 \u0917\u091a\u094d\u091b\u0928\u094d\u0924\u093f, \u0924\u093e\u0903 \u092e\u0930\u0940\u091a\u092f\u0938\u094d\u0924\u0938\u094d\u092f\u0948\u0935\u093e\u0930\u094d\u0915\u0938\u094d\u092f \u092a\u0941\u0928\u0903 \u092a\u0941\u0928\u0903 \u0909\u0926\u092f\u0924\u0903 \u0909\u0926\u094d\u0917\u091a\u094d\u091b\u0924\u0903 \u092a\u094d\u0930\u091a\u0930\u0928\u094d\u0924\u093f \u0935\u093f\u0915\u0940\u0930\u094d\u092f\u0928\u094d\u0924\u0947 \u092f\u0925\u093e\u092f\u0902 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0903\u00a0\u0964 \u090f\u0935\u0902 \u0939 \u0935\u0948 \u0924\u0924\u094d \u0938\u0930\u094d\u0935\u0902 \u0935\u093f\u0937\u092f\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u093e\u0926\u093f\u091c\u093e\u0924\u0902 \u092a\u0930\u0947 \u092a\u094d\u0930\u0915\u0943\u0937\u094d\u091f\u0947 \u0926\u0947\u0935\u0947 \u0926\u094d\u092f\u094b\u0924\u0928\u0935\u0924\u093f \u092e\u0928\u0938\u093f \u091a\u0915\u094d\u0937\u0941\u0930\u093e\u0926\u093f\u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u092e\u0928\u0938\u094d\u0924\u0928\u094d\u0924\u094d\u0930\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u0930\u094b \u0926\u0947\u0935\u094b \u092e\u0928\u0903, \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0938\u094d\u0935\u092a\u094d\u0928\u0915\u093e\u0932\u0947 \u090f\u0915\u0940\u092d\u0935\u0924\u093f \u092e\u0923\u094d\u0921\u0932\u0947 \u092e\u0930\u0940\u091a\u093f\u0935\u0926\u0935\u093f\u0936\u0947\u0937\u0924\u093e\u0902 \u0917\u091a\u094d\u091b\u0924\u093f\u00a0\u0964 \u091c\u093f\u091c\u093e\u0917\u0930\u093f\u0937\u094b\u0936\u094d\u091a \u0930\u0936\u094d\u092e\u093f\u0935\u0928\u094d\u092e\u0923\u094d\u0921\u0932\u093e\u0928\u094d\u092e\u0928\u0938 \u090f\u0935 \u092a\u094d\u0930\u091a\u0930\u0928\u094d\u0924\u093f \u0938\u094d\u0935\u0935\u094d\u092f\u093e\u092a\u093e\u0930\u093e\u092f \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u0947 \u092f\u0938\u094d\u092e\u093e\u0924\u094d\u0938\u094d\u0935\u092a\u094d\u0928\u0915\u093e\u0932\u0947 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u093e\u0926\u0940\u0928\u093f \u0936\u092c\u094d\u0926\u093e\u0926\u094d\u092f\u0941\u092a\u0932\u092c\u094d\u0927\u093f\u0915\u0930\u0923\u093e\u0928\u093f \u092e\u0928\u0938\u094d\u092f\u0947\u0915\u0940\u092d\u0942\u0924\u093e\u0928\u0940\u0935 \u0915\u0930\u0923\u0935\u094d\u092f\u093e\u092a\u093e\u0930\u093e\u0926\u0941\u092a\u0930\u0924\u093e\u0928\u093f \u0924\u0947\u0928 \u0924\u0938\u094d\u092e\u093e\u0924\u094d \u0924\u0930\u094d\u0939\u093f \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0938\u094d\u0935\u093e\u092a\u0915\u093e\u0932\u0947 \u090f\u0937\u0903 \u0926\u0947\u0935\u0926\u0924\u094d\u0924\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u0903 \u092a\u0941\u0930\u0941\u0937\u0903 \u0928 \u0936\u0943\u0923\u094b\u0924\u093f \u0928 \u092a\u0936\u094d\u092f\u0924\u093f \u0928 \u091c\u093f\u0918\u094d\u0930\u0924\u093f \u0928 \u0930\u0938\u092f\u0924\u0947 \u0928 \u0938\u094d\u092a\u0943\u0936\u0924\u0947 \u0928 \u0905\u092d\u093f\u0935\u0926\u0924\u0947 \u0928 \u0906\u0926\u0924\u094d\u0924\u0947 \u0928 \u0906\u0928\u0928\u094d\u0926\u092f\u0924\u0947 \u0928 \u0935\u093f\u0938\u0943\u091c\u0924\u0947 \u0928 \u0907\u092f\u093e\u092f\u0924\u0947 \u0938\u094d\u0935\u092a\u093f\u0924\u093f \u0907\u0924\u093f \u0906\u091a\u0915\u094d\u0937\u0924\u0947 \u0932\u094c\u0915\u093f\u0915\u093e\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014To him, the preceptor said: \u2018O Gargya, hear what you ask for; just as the rays of the suit disappearing become all one in the orb of light, i.e., become one and indistinguishable, and when the same sun rises again and again become dispersed; as in this illustration, so all that crowd of objects and senses become one in the highest Deva (having light) i.e., mind (as the eye and other senses are under the control of the mind, mind is said to be the highest sense), during sleep and become indistinguishable, like the rays in the orb of light, and when he wakes go out of the mind to perform their own functions, as the rays from the orb of light. As during sleep, the ear and other senses capable of knowing sound, etc., become, as it were, one in the mind, their activity as senses having ceased, therefore, during sleep this man called Devadatta , etc., hears not, sees not, smells not, tastes not, feels not, speaks not, takes not, delights not, abandons not, moves not; men of worldly understanding say \u2018he sleeps.\u2019"
+        "text": "तस्मै स ह उवाच आचार्यः । शृणु हे गार्ग्य, यत्त्वया पृष्टम् । यथा मरीचयः रश्मयः अर्कस्य आदित्यस्य अस्तम् अदर्शनं गच्छतः सर्वाः अशेषतः एतस्मिन् तेजोमण्डले तेजोराशिरूपे एकीभवन्ति विवेकानर्हत्वमविशेषतां गच्छन्ति, ताः मरीचयस्तस्यैवार्कस्य पुनः पुनः उदयतः उद्गच्छतः प्रचरन्ति विकीर्यन्ते यथायं दृष्टान्तः । एवं ह वै तत् सर्वं विषयेन्द्रियादिजातं परे प्रकृष्टे देवे द्योतनवति मनसि चक्षुरादिदेवानां मनस्तन्त्रत्वात्परो देवो मनः, तस्मिन्स्वप्नकाले एकीभवति मण्डले मरीचिवदविशेषतां गच्छति । जिजागरिषोश्च रश्मिवन्मण्डलान्मनस एव प्रचरन्ति स्वव्यापाराय प्रतिष्ठन्ते यस्मात्स्वप्नकाले श्रोत्रादीनि शब्दाद्युपलब्धिकरणानि मनस्येकीभूतानीव करणव्यापारादुपरतानि तेन तस्मात् तर्हि तस्मिन्स्वापकाले एषः देवदत्तादिलक्षणः पुरुषः न शृणोति न पश्यति न जिघ्रति न रसयते न स्पृशते न अभिवदते न आदत्ते न आनन्दयते न विसृजते न इयायते स्वपिति इति आचक्षते लौकिकाः ॥"
       }
     ],
     "commentary_faqs": []
@@ -77,15 +429,84 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 3,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145322.html"
+      "mantra_ref": "4.3",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092a\u094d\u0930\u093e\u0923\u093e\u0917\u094d\u0928\u092f \u090f\u0935\u0948\u0924\u0938\u094d\u092e\u093f\u0928\u094d\u092a\u0941\u0930\u0947 \u091c\u093e\u0917\u094d\u0930\u0924\u093f\u00a0\u0964 \u0917\u093e\u0930\u094d\u0939\u092a\u0924\u094d\u092f\u094b \u0939 \u0935\u093e \u090f\u0937\u094b\u093d\u092a\u093e\u0928\u094b \u0935\u094d\u092f\u093e\u0928\u094b\u093d\u0928\u094d\u0935\u093e\u0939\u093e\u0930\u094d\u092f\u092a\u091a\u0928\u094b \u092f\u0926\u094d\u0917\u093e\u0930\u094d\u0939\u092a\u0924\u094d\u092f\u093e\u0924\u094d\u092a\u094d\u0930\u0923\u0940\u092f\u0924\u0947 \u092a\u094d\u0930\u0923\u092f\u0928\u093e\u0926\u093e\u0939\u0935\u0928\u0940\u092f\u0903 \u092a\u094d\u0930\u093e\u0923\u0903 \u0965 \u0969 \u0965",
-    "transliteration": "pr\u0101\u1e47\u0101graya evaitasminpure j\u0101grati | g\u0101rhapatyo ha v\u0101 e\u1e63o'p\u0101no vy\u0101no'nv\u0101h\u0101ryapacano yadg\u0101rhapaty\u0101tpra\u1e47\u012byate pra\u1e47ayan\u0101d\u0101havan\u012bya\u1e25 pr\u0101\u1e47a\u1e25 || 3 ||",
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "प्राणाग्नय एवैतस्मिन्पुरे जाग्रति । गार्हपत्यो ह वा एषोऽपानो व्यानोऽन्वाहार्यपचनो यद्गार्हपत्यात्प्रणीयते प्रणयनादाहवनीयः प्राणः ॥ ३ ॥",
+    "transliteration": "prāṇāgnaya evaitasminpure jāgrati | gārhapatyo ha vā eṣo'pāno vyāno'nvāhāryapacano yadgārhapatyātpraṇīyate praṇayanādāhavanīyaḥ prāṇaḥ || 3 ||",
     "translation": "3. The fires of prana alone wake in this city. This apana is the garhapatya fire. Vyana is the anvaharyopachana fire. The prana is the ahavaniya- fire, as it is taken from the garhapatya fire.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्राणाग्नय",
+        "word_english": "the prāṇas (vital breaths), which are like fires",
+        "grammar_role": "प्राणाग्नि (अग्नय इव अग्नयः = प्राणाः) · प्रथमा·बहु·पुं",
+        "root": "प्राण-अग्नयः"
+      },
+      {
+        "word_sanskrit": "एवैतस्मिन्पुरे",
+        "word_english": "indeed, in this city (the nine-gated body)",
+        "grammar_role": "एव · अव्यय (अवधारण) + एतद् · सप्तमी·एक·नपुं + पुर · सप्तमी·एक·नपुं",
+        "root": "एव + एतस्मिन् + पुरे"
+      },
+      {
+        "word_sanskrit": "जाग्रति",
+        "word_english": "they wake / keep watch",
+        "grammar_role": "√जागृ · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "जाग्रति"
+      },
+      {
+        "word_sanskrit": "गार्हपत्यो",
+        "word_english": "the gārhapatya (householder's) fire",
+        "grammar_role": "गार्हपत्य · प्रथमा·एक·पुं",
+        "root": "गार्हपत्यः"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed (emphatic particle)",
+        "grammar_role": "ह · अव्यय (वाक्यालङ्कार/स्मरण)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "verily (emphatic, with ha; not 'or' here)",
+        "grammar_role": "वा · अव्यय (here = वै, emphatic with ह)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "एषोऽपानो",
+        "word_english": "this (gārhapatya) is the apāna",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं + अपान · प्रथमा·एक·पुं",
+        "root": "एषः + अपानः"
+      },
+      {
+        "word_sanskrit": "व्यानोऽन्वाहार्यपचनो",
+        "word_english": "the vyāna is the anvāhāryapacana (= dakṣiṇa/southern) fire",
+        "grammar_role": "व्यान · प्रथमा·एक·पुं + अन्वाहार्यपचन · प्रथमा·एक·पुं",
+        "root": "व्यानः + अन्वाहार्यपचनः"
+      },
+      {
+        "word_sanskrit": "यद्गार्हपत्यात्प्रणीयते",
+        "word_english": "because (the āhavanīya) is led forth from the gārhapatya",
+        "grammar_role": "यद् · अव्यय (= यस्मात्, since/because) + गार्हपत्य · पञ्चमी·एक·पुं + √नी (प्र) · लट्·प्रथमपुरुष·एक·आत्मनेपद (कर्मणि/passive)",
+        "root": "यत् + गार्हपत्यात् + प्रणीयते"
+      },
+      {
+        "word_sanskrit": "प्रणयनादाहवनीयः",
+        "word_english": "from the leading-forth (it is named) the āhavanīya fire",
+        "grammar_role": "प्रणयन · पञ्चमी·एक·नपुं + आहवनीय · प्रथमा·एक·पुं",
+        "root": "प्रणयनात् + आहवनीयः"
+      },
+      {
+        "word_sanskrit": "प्राणः",
+        "word_english": "is the prāṇa (breath = āhavanīya)",
+        "grammar_role": "प्राण · प्रथमा·एक·पुं",
+        "root": "प्राणः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -96,13 +517,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0938\u0941\u092a\u094d\u0924\u0935\u0924\u094d\u0938\u0941 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u093e\u0926\u093f\u0937\u0941 \u0915\u0930\u0923\u0947\u0937\u0941 \u090f\u0924\u0938\u094d\u092e\u093f\u0928\u094d \u092a\u0941\u0930\u0947 \u0928\u0935\u0926\u094d\u0935\u093e\u0930\u0947 \u0926\u0947\u0939\u0947 \u092a\u094d\u0930\u093e\u0923\u093e\u0917\u094d\u0928\u092f\u0903 \u092a\u094d\u0930\u093e\u0923\u093e \u090f\u0935 \u092a\u091e\u094d\u091a \u0935\u093e\u092f\u0935\u094b\u093d\u0917\u094d\u0928\u092f \u0907\u0935\u093e\u0917\u094d\u0928\u092f\u0903 \u091c\u093e\u0917\u094d\u0930\u0924\u093f\u00a0\u0964 \u0905\u0917\u094d\u0928\u093f\u0938\u093e\u092e\u093e\u0928\u094d\u092f\u0902 \u0939\u093f \u0906\u0939 \u2014 \u0917\u093e\u0930\u094d\u0939\u092a\u0924\u094d\u092f\u094b \u0939 \u0935\u093e \u090f\u0937\u094b\u093d\u092a\u093e\u0928\u0903 \u0915\u0925\u092e\u093f\u0924\u093f, \u0906\u0939\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u0924\u094d \u0917\u093e\u0930\u094d\u0939\u092a\u0924\u094d\u092f\u093e\u0924\u094d \u0905\u0917\u094d\u0928\u0947\u0930\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0915\u093e\u0932\u0947 \u0907\u0924\u0930\u094b\u093d\u0917\u094d\u0928\u093f\u0930\u093e\u0939\u0935\u0928\u0940\u092f\u0903 \u092a\u094d\u0930\u0923\u0940\u092f\u0924\u0947 \u092a\u094d\u0930\u0923\u092f\u0928\u093e\u0924\u094d , \u092a\u094d\u0930\u0923\u0940\u092f\u0924\u0947 \u0905\u0938\u094d\u092e\u093e\u0926\u093f\u0924\u093f \u092a\u094d\u0930\u0923\u092f\u0928\u094b \u0917\u093e\u0930\u094d\u0939\u092a\u0924\u094d\u092f\u094b\u093d\u0917\u094d\u0928\u093f\u0903, \u0924\u0925\u093e \u0938\u0941\u092a\u094d\u0924\u0938\u094d\u092f\u093e\u092a\u093e\u0928\u0935\u0943\u0924\u094d\u0924\u0947\u0903 \u092a\u094d\u0930\u0923\u0940\u092f\u0924 \u0907\u0935 \u092a\u094d\u0930\u093e\u0923\u094b \u092e\u0941\u0916\u0928\u093e\u0938\u093f\u0915\u093e\u092d\u094d\u092f\u093e\u0902 \u0938\u091e\u094d\u091a\u0930\u0924\u093f \u0905\u0924 \u0906\u0939\u0935\u0928\u0940\u092f\u0938\u094d\u0925\u093e\u0928\u0940\u092f\u0903 \u092a\u094d\u0930\u093e\u0923\u0903\u00a0\u0964 \u0935\u094d\u092f\u093e\u0928\u0938\u094d\u0924\u0941 \u0939\u0943\u0926\u092f\u093e\u0926\u094d\u0926\u0915\u094d\u0937\u093f\u0923\u0938\u0941\u0937\u093f\u0930\u0926\u094d\u0935\u093e\u0930\u0947\u0923 \u0928\u093f\u0930\u094d\u0917\u092e\u093e\u0926\u094d\u0926\u0915\u094d\u0937\u093f\u0923\u0926\u093f\u0915\u094d\u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093e\u0924\u094d \u0905\u0928\u094d\u0935\u093e\u0939\u093e\u0930\u094d\u092f\u092a\u091a\u0928\u0903 \u0926\u0915\u094d\u0937\u093f\u0923\u093e\u0917\u094d\u0928\u093f\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014When the senses, the ear and the rest, are gone to sleep in this city, i.e. , in this body of nine apertures, the five winds, prana and the rest, called fires, being like fire, keep watch. This is their similitude with fires. This apana is the garhapatya fire. How is explained; just as, at the time of performing the agnihotra , another fire named ahavaniya is obtained from the garhapatya , so from the apana during sleep, prana, as it were, the ahavaniya fire is obtained. But Vyana, emerging from the southern cavity of the heart is called the anvaharyapachana, or the southern fire, from its connection with the south."
+        "text": "सुप्तवत्सु श्रोत्रादिषु करणेषु एतस्मिन् पुरे नवद्वारे देहे प्राणाग्नयः प्राणा एव पञ्च वायवोऽग्नय इवाग्नयः जाग्रति । अग्निसामान्यं हि आह — गार्हपत्यो ह वा एषोऽपानः कथमिति, आह । यस्मात् गार्हपत्यात् अग्नेरग्निहोत्रकाले इतरोऽग्निराहवनीयः प्रणीयते प्रणयनात्, प्रणीयते अस्मादिति प्रणयनो गार्हपत्योऽग्निः, तथा सुप्तस्यापानवृत्तेः प्रणीयत इव प्राणो मुखनासिकाभ्यां सञ्चरति अत आहवनीयस्थानीयः प्राणः । व्यानस्तु हृदयाद्दक्षिणसुषिरद्वारेण निर्गमाद्दक्षिणदिक्सम्बन्धात् अन्वाहार्यपचनः दक्षिणाग्निः ॥"
       }
     ],
     "commentary_faqs": []
@@ -113,15 +530,102 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 4,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145323.html"
+      "mantra_ref": "4.4",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u0926\u0941\u091a\u094d\u091b\u094d\u0935\u093e\u0938\u0928\u093f\u0903\u0936\u094d\u0935\u093e\u0938\u093e\u0935\u0947\u0924\u093e\u0935\u093e\u0939\u0941\u0924\u0940 \u0938\u092e\u0902 \u0928\u092f\u0924\u0940\u0924\u093f \u0938 \u0938\u092e\u093e\u0928\u0903\u00a0\u0964 \u092e\u0928\u094b \u0939 \u0935\u093e\u0935 \u092f\u091c\u092e\u093e\u0928 \u0907\u0937\u094d\u091f\u092b\u0932\u092e\u0947\u0935\u094b\u0926\u093e\u0928\u0903 \u0938 \u090f\u0928\u0902 \u092f\u091c\u092e\u093e\u0928\u092e\u0939\u0930\u0939\u0930\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0917\u092e\u092f\u0924\u093f \u0965 \u096a \u0965",
-    "transliteration": "yaducchv\u0101sani\u1e25\u015bv\u0101s\u0101vet\u0101v\u0101hut\u012b sama\u1e43 nayat\u012bti sa sam\u0101na\u1e25 | mano ha v\u0101va yajam\u0101na i\u1e63\u1e6daphalamevod\u0101na\u1e25 sa ena\u1e43 yajam\u0101namaharaharbrahma gamayati || 4 ||",
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "यदुच्छ्वासनिःश्वासावेतावाहुती समं नयतीति स समानः । मनो ह वाव यजमान इष्टफलमेवोदानः स एनं यजमानमहरहर्ब्रह्म गमयति ॥ ४ ॥",
+    "transliteration": "yaducchvāsaniḥśvāsāvetāvāhutī samaṃ nayatīti sa samānaḥ | mano ha vāva yajamāna iṣṭaphalamevodānaḥ sa enaṃ yajamānamaharaharbrahma gamayati || 4 ||",
     "translation": "4. (The priest) is he, samana , since he distributes equally the oblations which are inspiration and expiration. The mind is the sacrificer; the udana is the fruit of sacrifice; he leads the sacrificer every day to Brahman .",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "यदुच्छ्वासनिःश्वासावेतावाहुती",
+        "word_english": "since these two — out-breath and in-breath — (which he leads) as the two oblations",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं (यस्मात् इत्यर्थे, अव्ययवत्) + उच्छ्वास-निःश्वास · प्रथमा·द्वि·पुं + एतद् · प्रथमा·द्वि·पुं + आहुति · द्वितीया·द्वि·स्त्री",
+        "root": "यत् + उच्छ्वास-निःश्वासौ + एतौ + आहुती"
+      },
+      {
+        "word_sanskrit": "समं",
+        "word_english": "equally, in equal measure (for the body's sustenance)",
+        "grammar_role": "सम · द्वितीया·एक·नपुं (क्रियाविशेषणम्, साम्येन)",
+        "root": "समम्"
+      },
+      {
+        "word_sanskrit": "नयतीति",
+        "word_english": "(it) leads, carries — thus",
+        "grammar_role": "√नी (भ्वादि, उभयपद; अत्र परस्मैपदम्) · लट्·प्रथमपुरुष·एक·वचन + इति · अव्यय (उद्धरणे)",
+        "root": "नयति + इति"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "that (one)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "समानः",
+        "word_english": "is the samāna-breath (the equalizing vital air, here air/fire-stationed, the leader of the two oblations)",
+        "grammar_role": "समान · प्रथमा·एक·पुं",
+        "root": "समानः"
+      },
+      {
+        "word_sanskrit": "मनो",
+        "word_english": "the mind",
+        "grammar_role": "मनस् · प्रथमा·एक·नपुं",
+        "root": "मनः"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "verily, indeed",
+        "grammar_role": "ह · अव्यय (प्रसिद्धौ, अवधारणे)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वाव",
+        "word_english": "truly, indeed (emphatic)",
+        "grammar_role": "वाव · अव्यय (अवधारणे, एव इत्यर्थे)",
+        "root": "वाव"
+      },
+      {
+        "word_sanskrit": "यजमान",
+        "word_english": "is the sacrificer (the mind, figured as the patron of the rite)",
+        "grammar_role": "यजमान · प्रथमा·एक·पुं",
+        "root": "यजमानः"
+      },
+      {
+        "word_sanskrit": "इष्टफलमेवोदानः",
+        "word_english": "udāna is verily the desired (sacrificial) reward — the yāga-fruit",
+        "grammar_role": "इष्ट-फल · प्रथमा·एक·नपुं + एव · अव्यय (अवधारणे) + उदान · प्रथमा·एक·पुं",
+        "root": "इष्ट-फलम् + एव + उदानः"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "that (udāna)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "एनं",
+        "word_english": "this (one), him (the sacrificer)",
+        "grammar_role": "एनद् (इदम्/एतद् इत्यस्य अन्वादेशे आदेशः) · द्वितीया·एक·पुं",
+        "root": "एनम्"
+      },
+      {
+        "word_sanskrit": "यजमानमहरहर्ब्रह्म",
+        "word_english": "the sacrificer, day by day, to brahman (the imperishable, in deep sleep)",
+        "grammar_role": "यजमान · द्वितीया·एक·पुं + अहरहस् · अव्यय (दिने दिने, प्रत्यहम्) + ब्रह्मन् · द्वितीया·एक·नपुं",
+        "root": "यजमानम् + अहरहः + ब्रह्म"
+      },
+      {
+        "word_sanskrit": "गमयति",
+        "word_english": "(it/udāna) makes (him) go, leads (him to brahman)",
+        "grammar_role": "√गम् (णिच् = causative) · लट्·प्रथमपुरुष·एक·वचन·परस्मैपद",
+        "root": "गमयति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -132,13 +636,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0924\u094d\u0930 \u091a \u0939\u094b\u0924\u093e \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0938\u094d\u092f \u092f\u0924\u094d \u092f\u0938\u094d\u092e\u093e\u0924\u094d \u0909\u091a\u094d\u091b\u094d\u0935\u093e\u0938\u0928\u093f\u0903\u0936\u094d\u0935\u093e\u0938\u094c \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0939\u0941\u0924\u0940 \u0907\u0935 \u0928\u093f\u0924\u094d\u092f\u0902 \u0926\u094d\u0935\u093f\u0924\u094d\u0935\u0938\u093e\u092e\u093e\u0928\u094d\u092f\u093e\u0926\u0947\u0935 \u0924\u0941 \u090f\u0924\u094c \u0906\u0939\u0941\u0924\u0940 \u0938\u092e\u0902 \u0938\u093e\u092e\u094d\u092f\u0947\u0928 \u0936\u0930\u0940\u0930\u0938\u094d\u0925\u093f\u0924\u093f\u092d\u093e\u0935\u093e\u092f \u0928\u092f\u0924\u093f \u092f\u094b \u0935\u093e\u092f\u0941\u0930\u0917\u094d\u0928\u093f\u0938\u094d\u0925\u093e\u0928\u0940\u092f\u094b\u093d\u092a\u093f \u0939\u094b\u0924\u093e \u091a\u093e\u0939\u0941\u0924\u094d\u092f\u094b\u0930\u094d\u0928\u0947\u0924\u0943\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u0915\u094b\u093d\u0938\u094c ? \u0938 \u0938\u092e\u093e\u0928\u0903\u00a0\u0964 \u0905\u0924\u0936\u094d\u091a \u0935\u093f\u0926\u0941\u0937\u0903 \u0938\u094d\u0935\u093e\u092a\u094b\u093d\u092a\u094d\u092f\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0939\u0935\u0928\u092e\u0947\u0935\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0926\u094d\u0935\u093f\u0926\u094d\u0935\u093e\u0928\u094d\u0928\u093e\u0915\u0930\u094d\u092e\u0940\u0924\u094d\u092f\u0947\u0935\u0902 \u092e\u0928\u094d\u0924\u0935\u094d\u092f \u0907\u0924\u094d\u092f\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903\u00a0\u0964 \u0938\u0930\u094d\u0935\u0926\u093e \u0938\u0930\u094d\u0935\u093e\u0923\u093f \u091a \u092d\u0942\u0924\u093e\u0928\u093f \u0935\u093f\u091a\u093f\u0928\u094d\u0935\u0928\u094d\u0924\u094d\u092f\u092a\u093f \u0938\u094d\u0935\u092a\u0924 \u0907\u0924\u093f \u0939\u093f \u0935\u093e\u091c\u0938\u0928\u0947\u092f\u0915\u0947\u00a0\u0964 \u0905\u0924\u094d\u0930 \u0939\u093f \u091c\u093e\u0917\u094d\u0930\u0924\u094d\u0938\u0941 \u092a\u094d\u0930\u093e\u0923\u093e\u0917\u094d\u0928\u093f\u0937\u0942\u092a\u0938\u0902\u0939\u0943\u0924\u094d\u092f \u092c\u093e\u0939\u094d\u092f\u0915\u0930\u0923\u093e\u0928\u093f \u0935\u093f\u0937\u092f\u093e\u0902\u0936\u094d\u091a\u093e\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u092b\u0932\u092e\u093f\u0935 \u0938\u094d\u0935\u0930\u094d\u0917\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u091c\u093f\u0917\u092e\u093f\u0937\u0941\u0903 \u092e\u0928\u094b \u0939 \u0935\u093e\u0935 \u092f\u091c\u092e\u093e\u0928\u0903 \u091c\u093e\u0917\u0930\u094d\u0924\u093f\u00a0\u0964 \u092f\u091c\u092e\u093e\u0928\u0935\u0924\u094d\u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u0947\u0937\u0941 \u092a\u094d\u0930\u093e\u0927\u093e\u0928\u094d\u092f\u0947\u0928 \u0938\u0902\u0935\u094d\u092f\u0935\u0939\u093e\u0930\u093e\u0924\u094d\u0938\u094d\u0935\u0930\u094d\u0917\u092e\u093f\u0935 \u092c\u094d\u0930\u0939\u094d\u092e \u092a\u094d\u0930\u0924\u093f \u092a\u094d\u0930\u0938\u094d\u0925\u093f\u0924\u0924\u094d\u0935\u093e\u0926\u094d\u092f\u091c\u092e\u093e\u0928\u094b \u092e\u0928\u0903 \u0915\u0932\u094d\u092a\u094d\u092f\u0924\u0947\u00a0\u0964 \u0907\u0937\u094d\u091f\u092b\u0932\u0902 \u092f\u093e\u0917\u092b\u0932\u092e\u0947\u0935 \u0909\u0926\u093e\u0928\u0903 \u0935\u093e\u092f\u0941\u0903\u00a0\u0964 \u0909\u0926\u093e\u0928\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u0924\u094d\u0935\u093e\u0926\u093f\u0937\u094d\u091f\u092b\u0932\u092a\u094d\u0930\u093e\u092a\u094d\u0924\u0947\u0903\u00a0\u0964 \u0915\u0925\u092e\u094d ? \u0938\u0903 \u0909\u0926\u093e\u0928\u0903 \u090f\u0928\u0902 \u092e\u0928\u0906\u0916\u094d\u092f\u0902 \u092f\u091c\u092e\u093e\u0928\u0902 \u0938\u094d\u0935\u092a\u094d\u0928\u0935\u0943\u0924\u094d\u0924\u093f\u0930\u0942\u092a\u093e\u0926\u092a\u093f \u092a\u094d\u0930\u091a\u094d\u092f\u093e\u0935\u094d\u092f \u0905\u0939\u0930\u0939\u0903 \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u093f\u0915\u093e\u0932\u0947 \u0938\u094d\u0935\u0930\u094d\u0917\u092e\u093f\u0935 \u092c\u094d\u0930\u0939\u094d\u092e \u0905\u0915\u094d\u0937\u0930\u0902 \u0917\u092e\u092f\u0924\u093f\u00a0\u0964 \u0905\u0924\u094b \u092f\u093e\u0917\u092b\u0932\u0938\u094d\u0925\u093e\u0928\u0940\u092f\u0903 \u0909\u0926\u093e\u0928\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Here also, there is the priest officiating at the agnihotra . Because, he distributes inspiration and expiration (which are, as it were, the agnihotra oblations which are always double) for the support of the body; he is the officiating priest, as the carrier of the oblations, though already said to occupy the position of the fire (also). Who is this? He is samana ; therefore, even the sleep of the knower is the giving of oblation in agnihotra. The drift, therefore, is that the knower should not be regarded as one performing no karma ; for, it is said in the Vajasaneyakopanishad \u2018even of him sleeping, all the Bhutas always perform sacrifices.\u2019 Here, having thrown the external senses and objects as oblations into the wakeful Prana-fires and wishing to reach the Brahman, as one who would wish to reach heaven, the fruit of the performance of agnihotra, the mind, as sacrificer, wakes. Being known like the sacrifices as the most important of the effects and instruments, and having set out towards Brahman , as sacrificer to heaven, the mind is made the sacrificer. The fruit of the sacrifice is udana ; because, the realization of the fruits of sacrifice is due to udana . How? The udana causing the mind, the sacrificer, to cease his own activity, conducts him every day during sleep to the undecaying Brahman, as to heaven. Therefore, udana occupies the place of the fruits of sacrifices."
+        "text": "अत्र च होता अग्निहोत्रस्य यत् यस्मात् उच्छ्वासनिःश्वासौ अग्निहोत्राहुती इव नित्यं द्वित्वसामान्यादेव तु एतौ आहुती समं साम्येन शरीरस्थितिभावाय नयति यो वायुरग्निस्थानीयोऽपि होता चाहुत्योर्नेतृत्वात् । कोऽसौ? स समानः । अतश्च विदुषः स्वापोऽप्यग्निहोत्रहवनमेव । तस्माद्विद्वान्नाकर्मीत्येवं मन्तव्य इत्यभिप्रायः । सर्वदा सर्वाणि च भूतानि विचिन्वन्त्यपि स्वपत इति हि वाजसनेयके । अत्र हि जाग्रत्सु प्राणाग्निषूपसंहृत्य बाह्यकरणानि विषयांश्चाग्निहोत्रफलमिव स्वर्गं ब्रह्म जिगमिषुः मनो ह वाव यजमानः जागर्ति । यजमानवत्कार्यकरणेषु प्राधान्येन संव्यवहारात्स्वर्गमिव ब्रह्म प्रति प्रस्थितत्वाद्यजमानो मनः कल्प्यते । इष्टफलं यागफलमेव उदानः वायुः । उदाननिमित्तत्वादिष्टफलप्राप्तेः । कथम्? सः उदानः एनं मनआख्यं यजमानं स्वप्नवृत्तिरूपादपि प्रच्याव्य अहरहः सुषुप्तिकाले स्वर्गमिव ब्रह्म अक्षरं गमयति । अतो यागफलस्थानीयः उदानः ॥"
       }
     ],
     "commentary_faqs": []
@@ -149,15 +649,174 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 5,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145324.html"
+      "mantra_ref": "4.5",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0924\u094d\u0930\u0948\u0937 \u0926\u0947\u0935\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u0947 \u092e\u0939\u093f\u092e\u093e\u0928\u092e\u0928\u0941\u092d\u0935\u0924\u093f\u00a0\u0964 \u092f\u0926\u094d\u0926\u0943\u0937\u094d\u091f\u0902 \u0926\u0943\u0937\u094d\u091f\u092e\u0928\u0941\u092a\u0936\u094d\u092f\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u0902 \u0936\u094d\u0930\u0941\u0924\u092e\u0947\u0935\u093e\u0930\u094d\u0925\u092e\u0928\u0941\u0936\u0943\u0923\u094b\u0924\u093f \u0926\u0947\u0936\u0926\u093f\u0917\u0928\u094d\u0924\u0930\u0948\u0936\u094d\u091a \u092a\u094d\u0930\u0924\u094d\u092f\u0928\u0941\u092d\u0942\u0924\u0902 \u092a\u0941\u0928\u0903 \u092a\u0941\u0928\u0903 \u092a\u094d\u0930\u0924\u094d\u092f\u0928\u0941\u092d\u0935\u0924\u093f \u0926\u0943\u0937\u094d\u091f\u0902 \u091a\u093e\u0926\u0943\u0937\u094d\u091f\u0902 \u091a \u0936\u094d\u0930\u0941\u0924\u0902 \u091a\u093e\u0936\u094d\u0930\u0941\u0924\u0902 \u091a\u093e\u0928\u0941\u092d\u0942\u0924\u0902 \u091a\u093e\u0928\u0928\u0941\u092d\u0942\u0924\u0902 \u091a \u0938\u091a\u094d\u091a\u093e\u0938\u091a\u094d\u091a \u0938\u0930\u094d\u0935\u0902 \u092a\u0936\u094d\u092f\u0924\u093f \u0938\u0930\u094d\u0935\u0903 \u092a\u0936\u094d\u092f\u0924\u093f \u0965 \u096b \u0965",
-    "transliteration": "atrai\u1e63a deva\u1e25 svapne mahim\u0101namanubhavati | yadd\u1e5b\u1e63\u1e6da\u1e43 d\u1e5b\u1e63\u1e6damanupa\u015byati \u015bruta\u1e43 \u015brutamev\u0101rthamanu\u015b\u1e5b\u1e47oti de\u015badigantarai\u015bca pratyanubh\u016bta\u1e43 puna\u1e25 puna\u1e25 pratyanubhavati d\u1e5b\u1e63\u1e6da\u1e43 c\u0101d\u1e5b\u1e63\u1e6da\u1e43ca \u015bruta\u1e43 c\u0101\u015bruta\u1e43 c\u0101nubh\u016bta\u1e43 c\u0101nanubh\u016bta\u1e43 ca scc\u0101sacca sarva\u1e43 pa\u015byati sarva\u1e25 pasyati || 5 ||",
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "अत्रैष देवः स्वप्ने महिमानमनुभवति । यद्दृष्टं दृष्टमनुपश्यति श्रुतं श्रुतमेवार्थमनुशृणोति देशदिगन्तरैश्च प्रत्यनुभूतं पुनः पुनः प्रत्यनुभवति दृष्टं चादृष्टं च श्रुतं चाश्रुतं चानुभूतं चाननुभूतं च सच्चासच्च सर्वं पश्यति सर्वः पश्यति ॥ ५ ॥",
+    "transliteration": "atraiṣa devaḥ svapne mahimānamanubhavati | yaddṛṣṭaṃ dṛṣṭamanupaśyati śrutaṃ śrutamevārthamanuśṛṇoti deśadigantaraiśca pratyanubhūtaṃ punaḥ punaḥ pratyanubhavati dṛṣṭaṃ cādṛṣṭaṃ ca śrutaṃ cāśrutaṃ cānubhūtaṃ cānanubhūtaṃ ca saccāsacca sarvaṃ paśyati sarvaḥ paśyati || 5 ||",
     "translation": "5. In this state, this Deva (mind) undergoes a variety of changes, sees again what it has seen, hears again whatever was heard, experiences again what it had experienced in different lands, and directions. What was seen and not seen, heard and not heard, experienced and not experienced, existent and non-existent, it sees; being all, it sees.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "अत्रैष",
+        "word_english": "here (in this interval, when senses are withdrawn), this (god/self)",
+        "grammar_role": "अत्र · अव्यय (देशवाचक) + एतद् · प्रथमा·एक·पुं (सर्वनाम)",
+        "root": "अत्र + एषः"
+      },
+      {
+        "word_sanskrit": "देवः",
+        "word_english": "the shining one, the self (kṣetrajña)",
+        "grammar_role": "देव · प्रथमा·एक·पुं",
+        "root": "देवः"
+      },
+      {
+        "word_sanskrit": "स्वप्ने",
+        "word_english": "in the dream state",
+        "grammar_role": "स्वप्न · सप्तमी·एक·पुं",
+        "root": "स्वप्ने"
+      },
+      {
+        "word_sanskrit": "महिमानमनुभवति",
+        "word_english": "experiences (its) greatness/glory (vibhūti)",
+        "grammar_role": "महिमन् · द्वितीया·एक·पुं + भू (अनु) · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "महिमानम् + अनुभवति"
+      },
+      {
+        "word_sanskrit": "यद्दृष्टं",
+        "word_english": "whatever was seen",
+        "grammar_role": "यद् · द्वितीया·एक·नपुं (सर्वनाम) + दृश् → दृष्ट · द्वितीया·एक·नपुं (क्तप्रत्यय)",
+        "root": "यत् + दृष्टम्"
+      },
+      {
+        "word_sanskrit": "दृष्टमनुपश्यति",
+        "word_english": "(that) seen he sees again (in dream)",
+        "grammar_role": "दृश् → दृष्ट · द्वितीया·एक·नपुं (क्तप्रत्यय) + दृश् (अनु) · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "दृष्टम् + अनुपश्यति"
+      },
+      {
+        "word_sanskrit": "श्रुतं",
+        "word_english": "(what was) heard",
+        "grammar_role": "श्रु → श्रुत · द्वितीया·एक·नपुं (क्तप्रत्यय)",
+        "root": "श्रुतम्"
+      },
+      {
+        "word_sanskrit": "श्रुतमेवार्थमनुशृणोति",
+        "word_english": "the very heard matter he hears again",
+        "grammar_role": "श्रु → श्रुत · द्वितीया·एक·पुं (क्तप्रत्यय; विशेषण of अर्थम्) + एव · अव्यय + अर्थ · द्वितीया·एक·पुं + श्रु (अनु) · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "श्रुतम् + एव + अर्थम् + अनुशृणोति"
+      },
+      {
+        "word_sanskrit": "देशदिगन्तरैश्च",
+        "word_english": "and in (different) places and directions",
+        "grammar_role": "देशदिगन्तर · तृतीया·बहु·नपुं (समास) + च · अव्यय",
+        "root": "देश-दिक्-अन्तरैः + च"
+      },
+      {
+        "word_sanskrit": "प्रत्यनुभूतं",
+        "word_english": "(what was) directly experienced",
+        "grammar_role": "भू → प्रत्यनुभूत · द्वितीया·एक·नपुं (प्रति-अनु, क्तप्रत्यय)",
+        "root": "प्रत्यनुभूतम्"
+      },
+      {
+        "word_sanskrit": "पुनः",
+        "word_english": "again",
+        "grammar_role": "पुनर् · अव्यय",
+        "root": "पुनः"
+      },
+      {
+        "word_sanskrit": "पुनः",
+        "word_english": "again (and again)",
+        "grammar_role": "पुनर् · अव्यय",
+        "root": "पुनः"
+      },
+      {
+        "word_sanskrit": "प्रत्यनुभवति",
+        "word_english": "directly experiences again",
+        "grammar_role": "भू (प्रति-अनु) · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "प्रत्यनुभवति"
+      },
+      {
+        "word_sanskrit": "दृष्टं",
+        "word_english": "the seen",
+        "grammar_role": "दृश् → दृष्ट · द्वितीया·एक·नपुं (क्तप्रत्यय)",
+        "root": "दृष्टम्"
+      },
+      {
+        "word_sanskrit": "चादृष्टं",
+        "word_english": "and the unseen",
+        "grammar_role": "च · अव्यय + दृश् → अदृष्ट · द्वितीया·एक·नपुं (नञ्, क्तप्रत्यय)",
+        "root": "च + अदृष्टम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च · अव्यय",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "श्रुतं",
+        "word_english": "the heard",
+        "grammar_role": "श्रु → श्रुत · द्वितीया·एक·नपुं (क्तप्रत्यय)",
+        "root": "श्रुतम्"
+      },
+      {
+        "word_sanskrit": "चाश्रुतं",
+        "word_english": "and the unheard",
+        "grammar_role": "च · अव्यय + श्रु → अश्रुत · द्वितीया·एक·नपुं (नञ्, क्तप्रत्यय)",
+        "root": "च + अश्रुतम्"
+      },
+      {
+        "word_sanskrit": "चानुभूतं",
+        "word_english": "and the experienced",
+        "grammar_role": "च · अव्यय + भू → अनुभूत · द्वितीया·एक·नपुं (अनु, क्तप्रत्यय)",
+        "root": "च + अनुभूतम्"
+      },
+      {
+        "word_sanskrit": "चाननुभूतं",
+        "word_english": "and the unexperienced",
+        "grammar_role": "च · अव्यय + भू → अननुभूत · द्वितीया·एक·नपुं (नञ्-अनु, क्तप्रत्यय)",
+        "root": "च + अननुभूतम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च · अव्यय",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "सच्चासच्च",
+        "word_english": "both the existent and the non-existent",
+        "grammar_role": "अस् → सत् · द्वितीया·एक·नपुं (शतृ, the existent) + च · अव्यय + अस् → असत् · द्वितीया·एक·नपुं (नञ्-शतृ, the non-existent) + च · अव्यय",
+        "root": "सत् + च + असत् + च"
+      },
+      {
+        "word_sanskrit": "सर्वं",
+        "word_english": "everything (as object)",
+        "grammar_role": "सर्व · द्वितीया·एक·नपुं (सर्वनाम)",
+        "root": "सर्वम्"
+      },
+      {
+        "word_sanskrit": "पश्यति",
+        "word_english": "he sees",
+        "grammar_role": "दृश् · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "पश्यति"
+      },
+      {
+        "word_sanskrit": "सर्वः",
+        "word_english": "being all (himself becomes/is all)",
+        "grammar_role": "सर्व · प्रथमा·एक·पुं (सर्वनाम)",
+        "root": "सर्वः"
+      },
+      {
+        "word_sanskrit": "पश्यति",
+        "word_english": "he sees",
+        "grammar_role": "दृश् · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "पश्यति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -168,13 +827,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u090f\u0935\u0902 \u0935\u093f\u0926\u0941\u0937\u0903 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u093e\u0926\u094d\u092f\u0941\u092a\u0930\u092e\u0915\u093e\u0932\u093e\u0926\u093e\u0930\u092d\u094d\u092f \u092f\u093e\u0935\u0924\u094d\u0938\u0941\u092a\u094d\u0924\u094b\u0924\u094d\u0925\u093f\u0924\u094b \u092d\u0935\u0924\u093f \u0924\u093e\u0935\u0924\u094d\u0938\u0930\u094d\u0935\u092f\u093e\u0917\u092b\u0932\u093e\u0928\u0941\u092d\u0935 \u090f\u0935, \u0928\u093e\u0935\u093f\u0926\u0941\u0937\u093e\u092e\u093f\u0935\u093e\u0928\u0930\u094d\u0925\u093e\u092f\u0947\u0924\u093f \u0935\u093f\u0926\u094d\u0935\u0924\u094d\u0924\u093e \u0938\u094d\u0924\u0942\u092f\u0924\u0947\u00a0\u0964 \u0928 \u0939\u093f \u0935\u093f\u0926\u0941\u0937 \u090f\u0935 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u093e\u0926\u0940\u0928\u093f \u0938\u094d\u0935\u092a\u0928\u094d\u0924\u093f, \u092a\u094d\u0930\u093e\u0923\u093e\u0917\u094d\u0928\u092f\u094b \u0935\u093e \u091c\u093e\u0917\u094d\u0930\u0924\u093f\u00a0\u0964 \u091c\u093e\u0917\u094d\u0930\u0924\u094d\u0938\u094d\u0935\u092a\u094d\u0928\u092f\u094b\u0930\u094d\u092e\u0928\u0903 \u0938\u094d\u0935\u093e\u0924\u0928\u094d\u0924\u094d\u0930\u094d\u092f\u092e\u0928\u0941\u092d\u0935\u0926\u0939\u0930\u0939\u0903 \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u0902 \u0935\u093e \u092a\u094d\u0930\u0924\u093f\u092a\u0926\u094d\u092f\u0924\u0947\u00a0\u0964 \u0938\u092e\u093e\u0928\u0902 \u0939\u093f \u0938\u0930\u094d\u0935\u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u0902 \u092a\u0930\u094d\u092f\u093e\u092f\u0947\u0923 \u091c\u093e\u0917\u094d\u0930\u0924\u094d\u0938\u094d\u0935\u092a\u094d\u0928\u0938\u0941\u0937\u0941\u092a\u094d\u0924\u0917\u092e\u0928\u092e\u094d ; \u0905\u0924\u094b \u0935\u093f\u0926\u094d\u0935\u0924\u094d\u0924\u093e\u0938\u094d\u0924\u0941\u0924\u093f\u0930\u0947\u0935\u0947\u092f\u092e\u0941\u092a\u092a\u0926\u094d\u092f\u0924\u0947\u00a0\u0964 \u092f\u0924\u094d\u092a\u0943\u0937\u094d\u091f\u0902 \u0915\u0924\u0930 \u090f\u0937 \u0926\u0947\u0935\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u093e\u0928\u094d\u092a\u0936\u094d\u092f\u0924\u0940\u0924\u093f ; \u0924\u0926\u093e\u0939 \u2014 \u0905\u0924\u094d\u0930 \u0909\u092a\u0930\u0924\u0947\u0937\u0941 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u093e\u0926\u093f\u0937\u0941 \u0926\u0947\u0939\u0930\u0915\u094d\u0937\u093e\u092f\u0948 \u091c\u093e\u0917\u094d\u0930\u0924\u094d\u0938\u0941 \u092a\u094d\u0930\u093e\u0923\u093e\u0926\u093f\u0935\u093e\u092f\u0941\u0937\u0941 \u092a\u094d\u0930\u093e\u0915\u094d\u0938\u0941\u0937\u0941\u092a\u094d\u0924\u093f\u092a\u094d\u0930\u0924\u093f\u092a\u0924\u094d\u0924\u0947\u0903 \u090f\u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0928\u094d\u0924\u0930\u093e\u0932 \u090f\u0937\u0903 \u0926\u0947\u0935\u0903 \u0905\u0930\u094d\u0915\u0930\u0936\u094d\u092e\u093f\u0935\u0924\u094d\u0938\u094d\u0935\u093e\u0924\u094d\u092e\u0928\u093f \u0938\u0902\u0939\u0943\u0924\u0936\u094d\u0930\u094b\u0924\u094d\u0930\u093e\u0926\u093f\u0915\u0930\u0923\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u0947 \u092e\u0939\u093f\u092e\u093e\u0928\u0902 \u0935\u093f\u092d\u0942\u0924\u093f\u0902 \u0935\u093f\u0937\u092f\u0935\u093f\u0937\u092f\u093f\u0932\u0915\u094d\u0937\u0923\u092e\u0928\u0947\u0915\u093e\u0924\u094d\u092e\u092d\u093e\u0935\u0917\u092e\u0928\u092e\u094d \u0905\u0928\u0941\u092d\u0935\u0924\u093f \u092a\u094d\u0930\u0924\u093f\u092a\u0926\u094d\u092f\u0924\u0947\u00a0\u0964 \u0928\u0928\u0941 \u092e\u0939\u093f\u092e\u093e\u0928\u0941\u092d\u0935\u0928\u0947 \u0915\u0930\u0923\u0902 \u092e\u0928\u094b\u093d\u0928\u0941\u092d\u0935\u093f\u0924\u0941\u0903 ; \u0924\u0924\u094d\u0915\u0925\u0902 \u0938\u094d\u0935\u093e\u0924\u0928\u094d\u0924\u094d\u0930\u094d\u092f\u0947\u0923\u093e\u0928\u0941\u092d\u0935\u0924\u0940\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947 ? \u0938\u094d\u0935\u0924\u0928\u094d\u0924\u094d\u0930 \u0939\u093f \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u091c\u094d\u091e\u0903\u00a0\u0964 \u0928\u0948\u0937 \u0926\u094b\u0937\u0903\u00a0\u0964 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u091c\u094d\u091e\u0938\u094d\u092f \u0938\u094d\u0935\u093e\u0924\u0928\u094d\u0924\u094d\u0930\u094d\u092f\u0938\u094d\u092f \u092e\u0928\u0909\u092a\u093e\u0927\u093f\u0915\u0943\u0924\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u0928 \u0939\u093f \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u091c\u094d\u091e\u0903 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0924\u0903 \u0938\u094d\u0935\u0924\u0903 \u0938\u094d\u0935\u092a\u093f\u0924\u093f \u091c\u093e\u0917\u0930\u094d\u0924\u093f \u0935\u093e\u00a0\u0964 \u092e\u0928\u0909\u092a\u093e\u0927\u093f\u0915\u0943\u0924\u092e\u0947\u0935 \u0924\u0938\u094d\u092f \u091c\u093e\u0917\u0930\u0923\u0902 \u0938\u094d\u0935\u092a\u094d\u0928\u0936\u094d\u091a\u00a0\u0964 \u0909\u0915\u094d\u0924\u0902 \u0935\u093e\u091c\u0938\u0928\u0947\u092f\u0915\u0947 \n\u2018\u0938\u0927\u0940\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u094b \u092d\u0942\u0924\u094d\u0935\u093e\u2019 (\u092c\u0943. \u092e\u093e. \u096a\u00a0\u0964 \u0969\u00a0\u0964 \u096d)\n\u2018\u0927\u094d\u092f\u093e\u092f\u0924\u0940\u0935 \u0932\u0947\u0932\u093e\u092f\u0924\u0940\u0935\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u0969\u00a0\u0964 \u096d)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0928\u094d\u092e\u0928\u0938\u094b \u0935\u093f\u092d\u0942\u0924\u094d\u092f\u0928\u0941\u092d\u0935\u0947 \u0938\u094d\u0935\u093e\u0924\u0928\u094d\u0924\u094d\u0930\u094d\u092f\u0935\u091a\u0928\u0902 \u0928\u094d\u092f\u093e\u092f\u094d\u092f\u092e\u0947\u0935\u00a0\u0964 \u092e\u0928\u0909\u092a\u093e\u0927\u093f\u0938\u0939\u093f\u0924\u0924\u094d\u0935\u0947 \u0938\u094d\u0935\u092a\u094d\u0928\u0915\u093e\u0932\u0947 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u091c\u094d\u091e\u0938\u094d\u092f \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u0902 \u092c\u093e\u0927\u094d\u092f\u0947\u0924 \u0907\u0924\u093f \u0915\u0947\u091a\u093f\u0924\u094d\u00a0\u0964 \u0924\u0928\u094d\u0928\u00a0\u0964 \u0936\u094d\u0930\u0941\u0924\u094d\u092f\u0930\u094d\u0925\u093e\u092a\u0930\u093f\u091c\u094d\u091e\u093e\u0928\u0915\u0943\u0924\u093e \u092d\u094d\u0930\u093e\u0928\u094d\u0924\u093f\u0938\u094d\u0924\u0947\u0937\u093e\u092e\u094d\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u0924\u094d\u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u093e\u0926\u093f\u0935\u094d\u092f\u0935\u0939\u093e\u0930\u094b\u093d\u092a\u094d\u092f\u093e\u092e\u094b\u0915\u094d\u0937\u093e\u0928\u094d\u0924\u0903 \u0938\u0930\u094d\u0935\u094b\u093d\u092a\u094d\u092f\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0937\u092f \u090f\u0935 \u092e\u0928\u0906\u0926\u094d\u092f\u0941\u092a\u093e\u0927\u093f\u091c\u0928\u093f\u0924\u0903 ; \n\u2018\u092f\u0924\u094d\u0930 \u0935\u093e \u0905\u0928\u094d\u092f\u0926\u093f\u0935 \u0938\u094d\u092f\u093e\u0924\u094d\u0924\u0924\u094d\u0930\u093e\u0928\u094d\u092f\u094b\u093d\u0928\u094d\u092f\u0924\u094d\u092a\u0936\u094d\u092f\u0947\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u093e\u0938\u0902\u0938\u0930\u094d\u0917\u0938\u094d\u0924\u094d\u0935\u0938\u094d\u092f \u092d\u0935\u0924\u093f\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u0969\u00a0\u0964 \u0969\u0967)\n, \n(\u092c\u0943. \u092e\u093e. \u096a\u00a0\u0964 \u096b\u00a0\u0964 \u0967\u096a)\n\u2018\u092f\u0924\u094d\u0930 \u0924\u094d\u0935\u0938\u094d\u092f \u0938\u0930\u094d\u0935\u092e\u093e\u0924\u094d\u092e\u0948\u0935\u093e\u092d\u0942\u0924\u094d\u0924\u0924\u094d\u0915\u0947\u0928 \u0915\u0902 \u092a\u0936\u094d\u092f\u0947\u0924\u094d\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u096b\u00a0\u0964 \u0967\u096b)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0936\u094d\u0930\u0941\u0924\u093f\u092d\u094d\u092f\u0903\u00a0\u0964 \u0905\u0924\u094b \u092e\u0928\u094d\u0926\u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u093e\u092e\u0947\u0935\u0947\u092f\u092e\u093e\u0936\u0919\u094d\u0915\u093e, \u0928 \u0924\u094d\u0935\u0947\u0915\u093e\u0924\u094d\u092e\u0935\u093f\u0926\u093e\u092e\u094d\u00a0\u0964 \u0928\u0928\u094d\u0935\u0947\u0935\u0902 \u0938\u0924\u093f \n\u2018\u0905\u0924\u094d\u0930\u093e\u092f\u0902 \u092a\u0941\u0930\u0941\u0937\u0903 \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0903\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u0969\u00a0\u0964 \u0967\u096a)\n \u0907\u0924\u093f \u0935\u093f\u0936\u0947\u0937\u0923\u092e\u0928\u0930\u094d\u0925\u0915\u0902 \u092d\u0935\u0924\u093f\u00a0\u0964 \u0905\u0924\u094d\u0930\u094b\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \u0905\u0924\u094d\u092f\u0932\u094d\u092a\u092e\u093f\u0926\u092e\u0941\u091a\u094d\u092f\u0924\u0947 \n\u2018\u092f \u090f\u0937\u094b\u093d\u0928\u094d\u0924\u0930\u094d\u0939\u0943\u0926\u092f \u0906\u0915\u093e\u0936\u0938\u094d\u0924\u0938\u094d\u092e\u093f\u091e\u094d\u0936\u0947\u0924\u0947\u2019 (\u092c\u0943. \u0909. \u0968\u00a0\u0964 \u0967\u00a0\u0964 \u0967\u096d)\n \u0907\u0924\u093f \u0905\u0928\u094d\u0924\u0930\u094d\u0939\u0943\u0926\u092f\u092a\u0930\u093f\u091a\u094d\u091b\u0947\u0926\u0915\u0930\u0923\u0947 \u0938\u0941\u0924\u0930\u093e\u0902 \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u0902 \u092c\u093e\u0927\u094d\u092f\u0947\u0924\u00a0\u0964 \u0938\u0924\u094d\u092f\u092e\u0947\u0935\u092e\u094d ; \u0905\u092f\u0902 \u0926\u094b\u0937\u094b \u092f\u0926\u094d\u092f\u092a\u093f \u0938\u094d\u092f\u093e\u0924\u094d\u0938\u094d\u0935\u092a\u094d\u0928\u0947 \u0915\u0947\u0935\u0932\u0924\u092f\u093e \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u0947\u0928\u093e\u0930\u094d\u0927\u0902 \u0924\u093e\u0935\u0926\u092a\u0928\u0940\u0924\u0902 \u092d\u093e\u0930\u0938\u094d\u092f\u0947\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0924\u0924\u094d\u0930\u093e\u092a\u093f \u2018\u092a\u0941\u0930\u0940\u0924\u0924\u093f \u0928\u093e\u0921\u0940\u0937\u0941 \u0936\u0947\u0924\u0947\u2019 \u0907\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u0947\u0903 \u092a\u0941\u0930\u0940\u0924\u0928\u094d\u0928\u093e\u0921\u0940\u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093e\u0926\u0924\u094d\u0930\u093e\u092a\u093f \u092a\u0941\u0930\u0941\u0937\u0938\u094d\u092f \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u0947\u0928\u093e\u0930\u094d\u0927\u092d\u093e\u0930\u093e\u092a\u0928\u092f\u093e\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u094b \u092e\u0943\u0937\u0948\u0935\u00a0\u0964 \u0915\u0925\u0902 \u0924\u0930\u094d\u0939\u093f \n\u2018\u0905\u0924\u094d\u0930\u093e\u092f\u0902 \u092a\u0941\u0930\u0941\u0937\u0903 \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0903\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u0969\u00a0\u0964 \u0967\u096a)\n \u0907\u0924\u093f ? \u0905\u0928\u094d\u092f\u0936\u093e\u0916\u093e\u0924\u094d\u0935\u093e\u0926\u0928\u092a\u0947\u0915\u094d\u0937\u093e \u0938\u093e \u0936\u094d\u0930\u0941\u0924\u093f\u0930\u093f\u0924\u093f \u091a\u0947\u0924\u094d , \u0928 ; \u0905\u0930\u094d\u0925\u0948\u0915\u0924\u094d\u0935\u0938\u094d\u092f\u0947\u0937\u094d\u091f\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u090f\u0915\u094b \u0939\u094d\u092f\u093e\u0924\u094d\u092e\u093e \u0938\u0930\u094d\u0935\u0935\u0947\u0926\u093e\u0928\u094d\u0924\u093e\u0928\u093e\u092e\u0930\u094d\u0925\u094b \u0935\u093f\u091c\u093f\u091c\u094d\u091e\u093e\u092a\u092f\u093f\u0937\u093f\u0924\u094b \u092c\u0941\u092d\u0941\u0924\u094d\u0938\u093f\u0924\u0936\u094d\u091a\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0926\u094d\u092f\u0941\u0915\u094d\u0924\u093e \u0938\u094d\u0935\u092a\u094d\u0928 \u0906\u0924\u094d\u092e\u0928\u0903 \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u094b\u092a\u092a\u0924\u094d\u0924\u093f\u0930\u094d\u0935\u0915\u094d\u0924\u0941\u092e\u094d , \u0936\u094d\u0930\u0941\u0924\u0947\u0930\u094d\u092f\u0925\u093e\u0930\u094d\u0925\u0924\u0924\u094d\u0924\u094d\u0935\u092a\u094d\u0930\u0915\u093e\u0936\u0915\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u090f\u0935\u0902 \u0924\u0930\u094d\u0939\u093f \u0936\u0943\u0923\u0941 \u0936\u094d\u0930\u0941\u0924\u094d\u092f\u0930\u094d\u0925\u0902 \u0939\u093f\u0924\u094d\u0935\u093e \u0938\u0930\u094d\u0935\u092e\u092d\u093f\u092e\u093e\u0928\u092e\u094d ; \u0928 \u0939\u094d\u092f\u092d\u093f\u092e\u093e\u0928\u0947\u0928 \u0935\u0930\u094d\u0937\u0936\u0924\u0947\u0928\u093e\u092a\u093f \u0936\u094d\u0930\u0941\u0924\u094d\u092f\u0930\u094d\u0925\u094b \u091c\u094d\u091e\u093e\u0924\u0941\u0902 \u0936\u0915\u094d\u092f\u0924\u0947 \u0938\u0930\u094d\u0935\u0948\u0903 \u092a\u0923\u094d\u0921\u093f\u0924\u0902\u092e\u0928\u094d\u092f\u0948\u0903\u00a0\u0964 \u092f\u0925\u093e \u0939\u0943\u0926\u092f\u093e\u0915\u093e\u0936\u0947 \u092a\u0941\u0930\u0940\u0924\u0924\u093f \u0928\u093e\u0921\u0940\u0937\u0941 \u091a \u0938\u094d\u0935\u092a\u0924\u0938\u094d\u0924\u0924\u094d\u0938\u092e\u094d\u092c\u0928\u094d\u0927\u093e\u092d\u093e\u0935\u093e\u0924\u094d\u0924\u0924\u094b \u0935\u093f\u0935\u093f\u091a\u094d\u092f \u0926\u0930\u094d\u0936\u092f\u093f\u0924\u0941\u0902 \u0936\u0915\u094d\u092f\u0924 \u0907\u0924\u093f \u0906\u0924\u094d\u092e\u0928\u0903 \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u0902 \u0928 \u092c\u093e\u0927\u094d\u092f\u0924\u0947\u00a0\u0964 \u090f\u0935\u0902 \u092e\u0928\u0938\u094d\u092f\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u092e\u0915\u0930\u094d\u092e\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u094b\u0926\u094d\u092d\u0942\u0924\u0935\u093e\u0938\u0928\u093e\u0935\u0924\u093f \u0915\u0930\u094d\u092e\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u093e \u0935\u093e\u0938\u0928\u093e \u0905\u0935\u093f\u0926\u094d\u092f\u092f\u093e \u0905\u0928\u094d\u092f\u0926\u094d\u0935\u0938\u094d\u0924\u094d\u0935\u0928\u094d\u0924\u0930\u092e\u093f\u0935 \u092a\u0936\u094d\u092f\u0924\u0903 \u0938\u0930\u094d\u0935\u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u0947\u092d\u094d\u092f\u0903 \u092a\u094d\u0930\u0935\u093f\u0935\u093f\u0915\u094d\u0924\u0938\u094d\u092f \u0926\u094d\u0930\u0937\u094d\u091f\u0941\u0930\u094d\u0935\u093e\u0938\u0928\u093e\u092d\u094d\u092f\u094b \u0926\u0943\u0936\u094d\u092f\u0930\u0942\u092a\u093e\u092d\u094d\u092f\u094b\u093d\u0928\u094d\u092f\u0924\u094d\u0935\u0947\u0928 \u0938\u094d\u0935\u092f\u091e\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u0902 \u0938\u0941\u0926\u0930\u094d\u092a\u093f\u0924\u0947\u0928\u093e\u092a\u093f \u0924\u093e\u0930\u094d\u0915\u093f\u0915\u0947\u0923 \u0915\u0947\u0928 \u0935\u093e\u0930\u092f\u093f\u0924\u0941\u0902 \u0936\u0915\u094d\u092f\u0924\u0947 ? \u0924\u0938\u094d\u092e\u093e\u0924\u094d\u0938\u093e\u0927\u0942\u0915\u094d\u0924\u0902 \u092e\u0928\u0938\u093f \u092a\u094d\u0930\u0932\u0940\u0928\u0947\u0937\u0941 \u0915\u0930\u0923\u0947\u0937\u094d\u0935\u092a\u094d\u0930\u0932\u0940\u0928\u0947 \u091a \u092e\u0928\u0938\u093f \u092e\u0928\u094b\u092e\u092f\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u093e\u0928\u094d\u092a\u0936\u094d\u092f\u0924\u0940\u0924\u093f\u00a0\u0964 \u0915\u0925\u0902 \u092e\u0939\u093f\u092e\u093e\u0928\u092e\u0928\u0941\u092d\u0935\u0924\u0940\u0924\u093f \u0909\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \u092f\u0928\u094d\u092e\u093f\u0924\u094d\u0930\u0902 \u092a\u0941\u0924\u094d\u0930\u093e\u0926\u093f \u0935\u093e \u092a\u0942\u0930\u094d\u0935\u0902 \u0926\u0943\u0937\u094d\u091f\u0902 \u0924\u0926\u094d\u0935\u093e\u0938\u0928\u093e\u0935\u093e\u0938\u093f\u0924\u0903 \u092a\u0941\u0924\u094d\u0930\u092e\u093f\u0924\u094d\u0930\u093e\u0926\u093f\u0935\u093e\u0938\u0928\u093e\u0938\u092e\u0941\u0926\u094d\u092d\u0942\u0924\u0902 \u092a\u0941\u0924\u094d\u0930\u0902 \u092e\u093f\u0924\u094d\u0930\u092e\u093f\u0935 \u0935\u093e \u0905\u0935\u093f\u0926\u094d\u092f\u092f\u093e \u092a\u0936\u094d\u092f\u0924\u0940\u0924\u094d\u092f\u0947\u0935\u0902 \u092e\u0928\u094d\u092f\u0924\u0947\u00a0\u0964 \u0936\u0943\u0923\u094b\u0924\u093f \u0924\u0925\u093e \u0936\u094d\u0930\u0941\u0924\u092e\u0930\u094d\u0925\u0902 \u0924\u0926\u094d\u0935\u093e\u0938\u0928\u092f\u093e\u0928\u0941 \u0936\u0943\u0923\u094b\u0924\u0940\u0935\u00a0\u0964 \u0926\u0947\u0936\u0926\u093f\u0917\u0928\u094d\u0924\u0930\u0948\u0936\u094d\u091a \u0926\u0947\u0936\u093e\u0928\u094d\u0924\u0930\u0948\u0930\u094d\u0926\u093f\u0917\u0928\u094d\u0924\u0930\u0948\u0936\u094d\u091a \u092a\u094d\u0930\u0924\u094d\u092f\u0928\u0941\u092d\u0942\u0924\u0902 \u092a\u0941\u0928\u0903 \u092a\u0941\u0928\u0938\u094d\u0924\u0924\u094d\u092a\u094d\u0930\u0924\u094d\u092f\u0928\u0941\u092d\u0935\u0924\u0940\u0935 \u0905\u0935\u093f\u0926\u094d\u092f\u092f\u093e\u00a0\u0964 \u0924\u0925\u093e \u0926\u0943\u0937\u094d\u091f\u0902 \u091a\u093e\u0938\u094d\u092e\u093f\u091e\u094d\u091c\u0928\u094d\u092e\u0928\u094d\u092f\u0926\u0943\u0937\u094d\u091f\u0902 \u091a \u091c\u0928\u094d\u092e\u093e\u0928\u094d\u0924\u0930\u0926\u0943\u0937\u094d\u091f\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0905\u0924\u094d\u092f\u0928\u094d\u0924\u093e\u0926\u0943\u0937\u094d\u091f\u0947 \u0935\u093e\u0938\u0928\u093e\u0928\u0941\u092a\u092a\u0924\u094d\u0924\u0947\u0903\u00a0\u0964 \u090f\u0935\u0902 \u0936\u094d\u0930\u0941\u0924\u0902 \u091a\u093e\u0936\u094d\u0930\u0941\u0924\u0902 \u091a\u093e\u0928\u0941\u092d\u0942\u0924\u0902 \u091a\u093e\u0938\u094d\u092e\u093f\u091e\u094d\u091c\u0928\u094d\u092e\u0928\u093f \u0915\u0947\u0935\u0932\u0947\u0928 \u092e\u0928\u0938\u093e \u0905\u0928\u0928\u0941\u092d\u0942\u0924\u0902 \u091a \u092e\u0928\u0938\u0948\u0935 \u091c\u0928\u094d\u092e\u093e\u0928\u094d\u0924\u0930\u0947\u093d\u0928\u0941\u092d\u0942\u0924\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0938\u091a\u094d\u091a \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u094b\u0926\u0915\u093e\u0926\u093f\u00a0\u0964 \u0905\u0938\u091a\u094d\u091a \u092e\u0930\u0940\u091a\u094d\u092f\u0941\u0926\u0915\u093e\u0926\u093f\u00a0\u0964 \u0915\u093f\u0902 \u092c\u0939\u0941\u0928\u093e, \u0909\u0915\u094d\u0924\u093e\u0928\u0941\u0915\u094d\u0924\u0902 \u0938\u0930\u094d\u0935\u0902 \u092a\u0936\u094d\u092f\u0924\u093f \u0938\u0930\u094d\u0935\u0903 \u092a\u0936\u094d\u092f\u0924\u093f \u0938\u0930\u094d\u0935\u092e\u0928\u094b\u0935\u093e\u0938\u0928\u094b\u092a\u093e\u0927\u093f\u0903 \u0938\u0928\u094d\u0928\u0947\u0935\u0902 \u0938\u0930\u094d\u0935\u0915\u0930\u0923\u093e\u0924\u094d\u092e\u093e \u092e\u0928\u094b\u0926\u0947\u0935\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u093e\u0928\u094d\u092a\u0936\u094d\u092f\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Thus, of the knower, from the time of the cessation of the activity of the ear to the time of his waking from sleep, till then he enjoys all the fruits of a sacrifice and not misery, as in the case of the ignorant. Thus, being a knower, is eulogised. For, it is not, alone, in the case of the knower, that the ear, etc., cease from activity, or the Prana-fires keep watch, or the mind being free in the waking and dreaming conditions merges in the condition of sleep every day. It is well known that all living creatures pass through the waking, dreaming and sleeping conditions by turns. Therefore, this context must be regarded as praising the state of a knower (and not as laying down any rules). As regards the question, which of the devas sees, dreams, he replies: \u2018When the ear, etc., cease activity\u2019 and prana and other airs keep watch for the support of the body before reaching the condition of sleep, during this interim, this deva (mind) with the ear and other senses absorbed in it, like rays of the sun sees in dreams his own greatness, i.e., assumes diverse forms in the nature of subject and object. It may be urged that the mind is only the instrument of the enjoyer, i.e., the \u00c2tman is enjoying the various forms and that it cannot be said to enjoy independently; for, it is the \u00c2tman that is independent. This is no fault; for, the independence of the \u00c2tman is due to its conditioning mind; for, the \u00c2tman does not really in its own nature dream or wake. It has been said in the Vajasaneyakopanishad that its waking and dreaming are caused by its condition, mind. Combined with mind and becoming a dream, it seems to think and to move, etc. Therefore, the statement that the mind is independent in enjoying diverse forms is only logical.\nSome say that the selfluminosity of the \u00c2tman will be marred during dreams owing to its combination with the condition, mind. That is not so. This false notion of theirs is caused by their ignorance of the drift of the srutis ; because even all the talk that the \u00c2tman is self-luminous, which endures only till emancipation, is produced by conditions such as mind and is within the pale of ignorance. Where there is something like another, then one sees something distinct from himself; of him there is no connexion with what is visible according to the sruti \u2018 but where all becomes the \u00c2tman alone, there who could be seen by whom, etc.?\u2019 Therefore, this doubt arises only in those who know only the lower Brahman and not in those who know the one \u00c2tman . It may be urged that, if this be so, then the distinction in \u2018here, i.e., in dreams, this Purusha is self-luminous\u2019 will become meaningless. It is here replied that what is stated is very little. The self-luminosity of the \u00c2tman , enclosed in the cavity of the heart, according to the text \u2018he who sleeps in the akasa, within the cavity of the heart, will be marred in a greater degree. If it be urged that though this is really a fault, still that half the burden, i.e., half the obstacle will be removed in the matter of the selfluminosity of the \u00c2tman by assuming the absence of mind during dreams. This is not sound; for, even on that supposition, from the sruti, \u2018 he sleeps in the nerve called, Puritati ,\u2019 the notion of removing half the hindrance, in the matter of self-luminosity of the \u00c2tman , is certainly false; because, even in sleep, the \u00c2tman rests in the nerve called \u2018 Puritati .\u2019 How then is it said, \u2018here, this Purusha is self-luminous.\u2019 If it be said that as that sruti is found in another branch of the Vedas , it is not in point here, that is unsound; for, it is admitted that the purport of the srutis must be identical; and one \u00c2tman being the subject of all Vedantas is desired to be taught and to be known. Therefore, it is right that the appropriateness of the assertion that the \u00c2tman is self-luminous in dreams should be explained. Because, srutis serve to reveal the real truth. If this be so, hear the purport of the sruti, abandoning all conceit. Not by all who think themselves learned, could the drift of the srutis be known, even in a hundred years, by mere conceit.\nJust as the self-luminosity of the \u00c2tman is not affected in sleep, because it is possible to represent him as distinguished from the akas of the heart, and the puritati nerve where he sleeps, because he is not connected with them; so, the self-luminosity of the Atman, as distinct from the visible reminiscences of the observer, who is different from all effects and instruments and who sees, on account of ignorance, as separate objects, the reminiscences, which, as the result of karma, are left in the mind full of tendencies due to ignorance, desire and karma , cannot be marred even by the proudest logician. Therefore, it is properly said that when all the senses are absorbed in the mind and when the mind is not absorbed, the \u00c2tman , as manomaya, sees dreams. How it realizes a diversity of experiences is explained. Whatever has been seen, such as friend, son, etc., the mind influenced by unconscious impressions thinks from ignorance that it sees the son, the friend, etc., produced from such impressions. Similarly, it seems to hear what has been heard, owing to such impressions; and from ignorance, it seems to experience what it has experienced in different lands and directions. Similaily, what was seen in this birth and what was not seen, i.e., what was seen in previous births; for, there can be no unconscious impressions of what was never seen; similarly, what was heard and not heard, and what was experienced in this birth by the mind alone, and what was not experienced, i.e., what was not experienced by mind alone in previous births what is existent such as real water and what is non-existent such as waters of the mirage; in short, sees all said and not said; being all, i.e., being conditioned by all the unconscious impressions of the mind, sees all. Thus, the mind, being in itself all the senses, sees dreams."
+        "text": "एवं विदुषः श्रोत्राद्युपरमकालादारभ्य यावत्सुप्तोत्थितो भवति तावत्सर्वयागफलानुभव एव, नाविदुषामिवानर्थायेति विद्वत्ता स्तूयते । न हि विदुष एव श्रोत्रादीनि स्वपन्ति, प्राणाग्नयो वा जाग्रति । जाग्रत्स्वप्नयोर्मनः स्वातन्त्र्यमनुभवदहरहः सुषुप्तं वा प्रतिपद्यते । समानं हि सर्वप्राणिनां पर्यायेण जाग्रत्स्वप्नसुषुप्तगमनम्; अतो विद्वत्तास्तुतिरेवेयमुपपद्यते । यत्पृष्टं कतर एष देवः स्वप्नान्पश्यतीति; तदाह — अत्र उपरतेषु श्रोत्रादिषु देहरक्षायै जाग्रत्सु प्राणादिवायुषु प्राक्सुषुप्तिप्रतिपत्तेः एतस्मिन्नन्तराल एषः देवः अर्करश्मिवत्स्वात्मनि संहृतश्रोत्रादिकरणः स्वप्ने महिमानं विभूतिं विषयविषयिलक्षणमनेकात्मभावगमनम् अनुभवति प्रतिपद्यते । ननु महिमानुभवने करणं मनोऽनुभवितुः; तत्कथं स्वातन्त्र्येणानुभवतीत्युच्यते? स्वतन्त्र हि क्षेत्रज्ञः । नैष दोषः । क्षेत्रज्ञस्य स्वातन्त्र्यस्य मनउपाधिकृतत्वात् । न हि क्षेत्रज्ञः परमार्थतः स्वतः स्वपिति जागर्ति वा । मनउपाधिकृतमेव तस्य जागरणं स्वप्नश्च । उक्तं वाजसनेयके ‘सधीः स्वप्नो भूत्वा’ (बृ. मा. ४ । ३ । ७) ‘ध्यायतीव लेलायतीव’ (बृ. उ. ४ । ३ । ७) इत्यादि । तस्मान्मनसो विभूत्यनुभवे स्वातन्त्र्यवचनं न्याय्यमेव । मनउपाधिसहितत्वे स्वप्नकाले क्षेत्रज्ञस्य स्वयञ्ज्योतिष्ट्वं बाध्येत इति केचित् । तन्न । श्रुत्यर्थापरिज्ञानकृता भ्रान्तिस्तेषाम् । यस्मात्स्वयञ्ज्योतिष्ट्वादिव्यवहारोऽप्यामोक्षान्तः सर्वोऽप्यविद्याविषय एव मनआद्युपाधिजनितः; ‘यत्र वा अन्यदिव स्यात्तत्रान्योऽन्यत्पश्येन्मात्रासंसर्गस्त्वस्य भवति’ (बृ. उ. ४ । ३ । ३१), (बृ. मा. ४ । ५ । १४) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. ४ । ५ । १५) इत्यादिश्रुतिभ्यः । अतो मन्दब्रह्मविदामेवेयमाशङ्का, न त्वेकात्मविदाम् । नन्वेवं सति ‘अत्रायं पुरुषः स्वयञ्ज्योतिः’ (बृ. उ. ४ । ३ । १४) इति विशेषणमनर्थकं भवति । अत्रोच्यते । अत्यल्पमिदमुच्यते ‘य एषोऽन्तर्हृदय आकाशस्तस्मिञ्शेते’ (बृ. उ. २ । १ । १७) इति अन्तर्हृदयपरिच्छेदकरणे सुतरां स्वयञ्ज्योतिष्ट्वं बाध्येत । सत्यमेवम्; अयं दोषो यद्यपि स्यात्स्वप्ने केवलतया स्वयञ्ज्योतिष्ट्वेनार्धं तावदपनीतं भारस्येति चेत्, न; तत्रापि ‘पुरीतति नाडीषु शेते’ इति श्रुतेः पुरीतन्नाडीसम्बन्धादत्रापि पुरुषस्य स्वयञ्ज्योतिष्ट्वेनार्धभारापनयाभिप्रायो मृषैव । कथं तर्हि ‘अत्रायं पुरुषः स्वयञ्ज्योतिः’ (बृ. उ. ४ । ३ । १४) इति? अन्यशाखात्वादनपेक्षा सा श्रुतिरिति चेत्, न; अर्थैकत्वस्येष्टत्वात् । एको ह्यात्मा सर्ववेदान्तानामर्थो विजिज्ञापयिषितो बुभुत्सितश्च । तस्माद्युक्ता स्वप्न आत्मनः स्वयञ्ज्योतिष्ट्वोपपत्तिर्वक्तुम्, श्रुतेर्यथार्थतत्त्वप्रकाशकत्वात् । एवं तर्हि शृणु श्रुत्यर्थं हित्वा सर्वमभिमानम्; न ह्यभिमानेन वर्षशतेनापि श्रुत्यर्थो ज्ञातुं शक्यते सर्वैः पण्डितंमन्यैः । यथा हृदयाकाशे पुरीतति नाडीषु च स्वपतस्तत्सम्बन्धाभावात्ततो विविच्य दर्शयितुं शक्यत इति आत्मनः स्वयञ्ज्योतिष्ट्वं न बाध्यते । एवं मनस्यविद्याकामकर्मनिमित्तोद्भूतवासनावति कर्मनिमित्ता वासना अविद्यया अन्यद्वस्त्वन्तरमिव पश्यतः सर्वकार्यकरणेभ्यः प्रविविक्तस्य द्रष्टुर्वासनाभ्यो दृश्यरूपाभ्योऽन्यत्वेन स्वयञ्ज्योतिष्ट्वं सुदर्पितेनापि तार्किकेण केन वारयितुं शक्यते? तस्मात्साधूक्तं मनसि प्रलीनेषु करणेष्वप्रलीने च मनसि मनोमयः स्वप्नान्पश्यतीति । कथं महिमानमनुभवतीति उच्यते । यन्मित्रं पुत्रादि वा पूर्वं दृष्टं तद्वासनावासितः पुत्रमित्रादिवासनासमुद्भूतं पुत्रं मित्रमिव वा अविद्यया पश्यतीत्येवं मन्यते । शृणोति तथा श्रुतमर्थं तद्वासनयानु शृणोतीव । देशदिगन्तरैश्च देशान्तरैर्दिगन्तरैश्च प्रत्यनुभूतं पुनः पुनस्तत्प्रत्यनुभवतीव अविद्यया । तथा दृष्टं चास्मिञ्जन्मन्यदृष्टं च जन्मान्तरदृष्टमित्यर्थः । अत्यन्तादृष्टे वासनानुपपत्तेः । एवं श्रुतं चाश्रुतं चानुभूतं चास्मिञ्जन्मनि केवलेन मनसा अननुभूतं च मनसैव जन्मान्तरेऽनुभूतमित्यर्थः । सच्च परमार्थोदकादि । असच्च मरीच्युदकादि । किं बहुना, उक्तानुक्तं सर्वं पश्यति सर्वः पश्यति सर्वमनोवासनोपाधिः सन्नेवं सर्वकरणात्मा मनोदेवः स्वप्नान्पश्यति ॥"
       }
     ],
     "commentary_faqs": []
@@ -185,15 +840,78 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 6,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145325.html"
+      "mantra_ref": "4.6",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0938 \u092f\u0926\u093e \u0924\u0947\u091c\u0938\u093e\u092d\u093f\u092d\u0942\u0924\u094b \u092d\u0935\u0924\u093f\u00a0\u0964 \u0905\u0924\u094d\u0930\u0948\u0937 \u0926\u0947\u0935\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u093e\u0928\u094d\u0928 \u092a\u0936\u094d\u092f\u0924\u094d\u092f\u0925\u0948\u0924\u0926\u0938\u094d\u092e\u093f\u091e\u094d\u0936\u0930\u0940\u0930\u0947 \u090f\u0924\u0924\u094d\u0938\u0941\u0916\u0902 \u092d\u0935\u0924\u093f \u0965 \u096c \u0965",
-    "transliteration": "sa yad\u0101 tejas\u0101'bhibh\u016bto bhavati | atrai\u1e63a deva\u1e25 svapn\u0101nna pa\u015byatyatha tadaitasmi\u00f1\u015bar\u012bra etatsukha\u1e43 bhavati || 6 ||",
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "स यदा तेजसाभिभूतो भवति । अत्रैष देवः स्वप्नान्न पश्यत्यथैतदस्मिञ्शरीरे एतत्सुखं भवति ॥ ६ ॥",
+    "transliteration": "sa yadā tejasābhibhūto bhavati | atraiṣa devaḥ svapnānna paśyatyathaitadasmiñśarīre etatsukhaṃ bhavati || 6 ||",
     "translation": "6. When it is overpowered with light, then this mind sees no dreams; thus then, the bliss arises in this body.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the mind-deity)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यदा",
+        "word_english": "when, at the time when",
+        "grammar_role": "अव्यय (कालवाचकम्)",
+        "root": "यदा"
+      },
+      {
+        "word_sanskrit": "तेजसाभिभूतो",
+        "word_english": "overpowered by the (solar, bilious) heat",
+        "grammar_role": "तेजस् · तृतीया·एकवचन·नपुंसकलिङ्ग + अभिभूत · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "तेजसा + अभिभूतः"
+      },
+      {
+        "word_sanskrit": "भवति",
+        "word_english": "becomes, is",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "भवति"
+      },
+      {
+        "word_sanskrit": "अत्रैष",
+        "word_english": "here (at this time) this (deity)",
+        "grammar_role": "अव्यय (देशकालवाचकम्) + एतद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "अत्र + एषः"
+      },
+      {
+        "word_sanskrit": "देवः",
+        "word_english": "the deity (the mind)",
+        "grammar_role": "देव · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "देवः"
+      },
+      {
+        "word_sanskrit": "स्वप्नान्न",
+        "word_english": "dreams ... not",
+        "grammar_role": "स्वप्न · द्वितीया·बहुवचन·पुंलिङ्ग + अव्यय (निषेधार्थः)",
+        "root": "स्वप्नान् + न"
+      },
+      {
+        "word_sanskrit": "पश्यत्यथैतदस्मिञ्शरीरे",
+        "word_english": "sees; then, at this (time), in this body",
+        "grammar_role": "√दृश् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद + अव्यय (आनन्तर्ये) + एतद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + इदम् · सप्तमी·एकवचन·नपुंसकलिङ्ग + शरीर · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "पश्यति + अथ + एतत् + अस्मिन् + शरीरे"
+      },
+      {
+        "word_sanskrit": "एतत्सुखं",
+        "word_english": "this happiness",
+        "grammar_role": "एतद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + सुख · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "एतत् + सुखम्"
+      },
+      {
+        "word_sanskrit": "भवति",
+        "word_english": "arises, comes to be",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "भवति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -204,13 +922,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0938\u0903 \u092f\u0926\u093e \u092e\u0928\u094b\u0930\u0942\u092a\u094b \u0926\u0947\u0935\u094b \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0915\u093e\u0932\u0947 \u0938\u094c\u0930\u0947\u0923 \u092a\u093f\u0924\u094d\u0924\u093e\u0916\u094d\u092f\u0947\u0928 \u0924\u0947\u091c\u0938\u093e \u0928\u093e\u0921\u0940\u0936\u092f\u0947\u0928 \u0938\u0930\u094d\u0935\u0924\u0903 \u0905\u092d\u093f\u092d\u0942\u0924\u094b \u092d\u0935\u0924\u093f \u0924\u093f\u0930\u0938\u094d\u0915\u0943\u0924\u0935\u093e\u0938\u0928\u093e\u0926\u094d\u0935\u093e\u0930\u094b \u092d\u0935\u0924\u093f, \u0924\u0926\u093e \u0938\u0939 \u0915\u0930\u0923\u0948\u0930\u094d\u092e\u0928\u0938\u094b \u0930\u0936\u094d\u092e\u092f\u094b \u0939\u0943\u0926\u094d\u092f\u0941\u092a\u0938\u0902\u0939\u0943\u0924\u093e \u092d\u0935\u0928\u094d\u0924\u093f\u00a0\u0964 \u092f\u0926\u093e \u092e\u0928\u094b \u0926\u093e\u0930\u094d\u0935\u0917\u094d\u0928\u093f\u0935\u0926\u0935\u093f\u0936\u0947\u0937\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0930\u0942\u092a\u0947\u0923 \u0915\u0943\u0924\u094d\u0938\u094d\u0928\u0902 \u0936\u0930\u0940\u0930\u0902 \u0935\u094d\u092f\u093e\u092a\u094d\u092f\u093e\u0935\u0924\u093f\u0937\u094d\u0920\u0924\u0947, \u0924\u0926\u093e \u0938\u0941\u0937\u0941\u092a\u094d\u0924\u094b \u092d\u0935\u0924\u093f\u00a0\u0964 \u0905\u0924\u094d\u0930 \u090f\u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0915\u093e\u0932\u0947 \u090f\u0937\u0903 \u092e\u0928\u0906\u0916\u094d\u092f\u094b \u0926\u0947\u0935\u0903 \u0938\u094d\u0935\u092a\u094d\u0928\u093e\u0928\u094d \u0928 \u092a\u0936\u094d\u092f\u0924\u093f \u0926\u0930\u094d\u0936\u0928\u0926\u094d\u0935\u093e\u0930\u0938\u094d\u092f \u0928\u093f\u0930\u0941\u0926\u094d\u0927\u0924\u094d\u0935\u093e\u0924\u094d\u0924\u0947\u091c\u0938\u093e\u00a0\u0964 \u0905\u0925 \u0924\u0926\u093e \u090f\u0924\u0938\u094d\u092e\u093f\u0928\u094d \u0936\u0930\u0940\u0930\u0947 \u090f\u0924\u0924\u094d\u0938\u0941\u0916\u0902 \u092d\u0935\u0924\u093f \u092f\u0926\u094d\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0902 \u0928\u093f\u0930\u093e\u092c\u093e\u0927\u092e\u0935\u093f\u0936\u0947\u0937\u0947\u0923 \u0936\u0930\u0940\u0930\u0935\u094d\u092f\u093e\u092a\u0915\u0902 \u092a\u094d\u0930\u0938\u0928\u094d\u0928\u0902 \u092d\u0935\u0924\u0940\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014When the Deva, i.e ., the mind, becomes overpowered, i.e., has all the outlets of these impressions closed by the light (lodged in the nerve) known as Pitta and pertaining to the sun, then the rays, i.e., the tendencies of the mind, become absorbed into the heart along with the senses. When the mind, like fire in a log of wood, pervades the whole body in its form, as general knowledge (as opposed to a special modification) then he sleeps. All that time, this Deva named mind, does not see dreams, the door of vision being closed by light. Then, in this body, this bliss arises, which is knowledge unimpeded, pervading all body without distinction and clear."
+        "text": "सः यदा मनोरूपो देवो यस्मिन्काले सौरेण पित्ताख्येन तेजसा नाडीशयेन सर्वतः अभिभूतो भवति तिरस्कृतवासनाद्वारो भवति, तदा सह करणैर्मनसो रश्मयो हृद्युपसंहृता भवन्ति । यदा मनो दार्वग्निवदविशेषविज्ञानरूपेण कृत्स्नं शरीरं व्याप्यावतिष्ठते, तदा सुषुप्तो भवति । अत्र एतस्मिन्काले एषः मनआख्यो देवः स्वप्नान् न पश्यति दर्शनद्वारस्य निरुद्धत्वात्तेजसा । अथ तदा एतस्मिन् शरीरे एतत्सुखं भवति यद्विज्ञानं निराबाधमविशेषेण शरीरव्यापकं प्रसन्नं भवतीत्यर्थः ॥"
       }
     ],
     "commentary_faqs": []
@@ -221,32 +935,109 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 7,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145326.html"
+      "mantra_ref": "4.7",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0938 \u092f\u0925\u093e \u0938\u094b\u092e\u094d\u092f \u0935\u092f\u093e\u0902\u0938\u093f \u0935\u093e\u0938\u094b\u0935\u0943\u0915\u094d\u0937\u0902 \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924 \u090f\u0935\u0902 \u0939 \u0935\u0948 \u0924\u0924\u094d\u0938\u0930\u094d\u0935\u0902 \u092a\u0930 \u0906\u0924\u094d\u092e\u0928\u093f \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0924\u0947 \u0965 \u096d \u0965",
-    "transliteration": "sa yath\u0101 sobhya vay\u0101\u1e43si vasov\u1e5bk\u015ba\u1e43 sa\u1e43prati\u1e63\u1e6dhante | eva\u1e43 ha vai tat sarva\u1e43 para \u0101tmani sa\u1e43prati\u1e63\u1e6dhate || 7 ||",
-    "translation": "7. Just as, good youth I birds go towards the tree intended for their abode, so, all this goes to the supreme \u00c2tman.",
-    "word_by_word": [],
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "स यथा सोम्य वयांसि वासोवृक्षं सम्प्रतिष्ठन्त एवं ह वै तत्सर्वं पर आत्मनि सम्प्रतिष्ठते ॥ ७ ॥",
+    "transliteration": "sa yathā somya vayāṃsi vāsovṛkṣaṃ sampratiṣṭhanta evaṃ ha vai tatsarvaṃ para ātmani sampratiṣṭhate || 7 ||",
+    "translation": "7. Just as, good youth I birds go towards the tree intended for their abode, so, all this goes to the supreme Âtman.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "that (the illustrative example; स दृष्टान्तः)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "just as, in which manner (येन प्रकारेण)",
+        "grammar_role": "अव्यय (उपमावाचक)",
+        "root": "यथा"
+      },
+      {
+        "word_sanskrit": "सोम्य",
+        "word_english": "O dear one (pleasant to behold; प्रियदर्शन)",
+        "grammar_role": "सौम्य · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "सोम्य"
+      },
+      {
+        "word_sanskrit": "वयांसि",
+        "word_english": "birds (पक्षिणः)",
+        "grammar_role": "वयस् · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "वयांसि"
+      },
+      {
+        "word_sanskrit": "वासोवृक्षं",
+        "word_english": "the tree for dwelling (वासार्थं वृक्षम्, roosting-tree)",
+        "grammar_role": "वासस्-वृक्ष · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "वासस्-वृक्षम्"
+      },
+      {
+        "word_sanskrit": "सम्प्रतिष्ठन्त",
+        "word_english": "they resort to, go to (सम्प्रतिष्ठन्ते गच्छन्ति)",
+        "grammar_role": "√स्था · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद (सम्+प्र)",
+        "root": "सम्प्रतिष्ठन्ते"
+      },
+      {
+        "word_sanskrit": "एवं",
+        "word_english": "thus, in this very way",
+        "grammar_role": "अव्यय (उपमोपसंहारवाचक)",
+        "root": "एवम्"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed (emphatic particle)",
+        "grammar_role": "अव्यय (निपात, अवधारणे)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "verily (emphatic particle)",
+        "grammar_role": "अव्यय (निपात, अवधारणे)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "तत्सर्वं",
+        "word_english": "all that (the to-be-described totality; तत् सर्वम्)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + सर्व · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "तत् + सर्वम्"
+      },
+      {
+        "word_sanskrit": "पर",
+        "word_english": "in the supreme (imperishable; परे अक्षरे)",
+        "grammar_role": "पर · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "परे"
+      },
+      {
+        "word_sanskrit": "आत्मनि",
+        "word_english": "in the Self (आत्मनि)",
+        "grammar_role": "आत्मन् · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "आत्मनि"
+      },
+      {
+        "word_sanskrit": "सम्प्रतिष्ठते",
+        "word_english": "becomes wholly established (सम्प्रतिष्ठते)",
+        "grammar_role": "√स्था · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद (सम्+प्र)",
+        "root": "सम्प्रतिष्ठते"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "7. Just as, good youth I birds go towards the tree intended for their abode, so, all this goes to the supreme \u00c2tman."
+        "text": "7. Just as, good youth I birds go towards the tree intended for their abode, so, all this goes to the supreme Âtman."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u090f\u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0915\u093e\u0932\u0947 \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u092e\u0915\u0930\u094d\u092e\u0928\u093f\u092c\u0928\u094d\u0927\u0928\u093e\u0928\u093f \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u093e\u0928\u093f \u0936\u093e\u0928\u094d\u0924\u093e\u0928\u093f \u092d\u0935\u0928\u094d\u0924\u093f\u00a0\u0964 \u0924\u0947\u0937\u0941 \u0936\u093e\u0928\u094d\u0924\u0947\u0937\u094d\u0935\u093e\u0924\u094d\u092e\u0938\u094d\u0935\u0930\u0942\u092a\u092e\u0941\u092a\u093e\u0927\u093f\u092d\u093f\u0930\u0928\u094d\u092f\u0925\u093e \u0935\u093f\u092d\u093e\u0935\u094d\u092f\u092e\u093e\u0928\u092e\u0926\u094d\u0935\u092f\u092e\u0947\u0915\u0902 \u0936\u093f\u0935\u0902 \u0936\u093e\u0928\u094d\u0924\u0902 \u092d\u0935\u0924\u0940\u0924\u094d\u092f\u0947\u0924\u093e\u092e\u0947\u0935\u093e\u0935\u0938\u094d\u0925\u093e\u0902 \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u0926\u094d\u092f\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u0943\u0924\u092e\u093e\u0924\u094d\u0930\u093e\u0928\u0941\u092a\u094d\u0930\u0935\u0947\u0936\u0947\u0928 \u0926\u0930\u094d\u0936\u092f\u093f\u0924\u0941\u0902 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u092e\u093e\u0939 \u2014 \u0938 \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0903 \u092f\u0925\u093e \u092f\u0947\u0928 \u092a\u094d\u0930\u0915\u093e\u0930\u0947\u0923 \u0939\u093f \u0938\u094b\u092e\u094d\u092f \u092a\u094d\u0930\u093f\u092f\u0926\u0930\u094d\u0936\u0928, \u0935\u092f\u093e\u0902\u0938\u093f \u092a\u0915\u094d\u0937\u093f\u0923\u0903 \u0935\u093e\u0938\u093e\u0930\u094d\u0925\u0902 \u0935\u0943\u0915\u094d\u0937\u0902 \u0935\u093e\u0938\u094b\u0935\u0943\u0915\u094d\u0937\u0902 \u092a\u094d\u0930\u0924\u093f \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u0947 \u0917\u091a\u094d\u091b\u0928\u094d\u0924\u093f, \u090f\u0935\u0902 \u092f\u0925\u093e \u0926\u0943\u0937\u094d\u091f\u093e\u0928\u094d\u0924\u0903 \u0939 \u0935\u0948 \u0924\u0924\u094d \u0935\u0915\u094d\u0937\u094d\u092f\u092e\u093e\u0923\u0902 \u0938\u0930\u094d\u0935\u0902 \u092a\u0930\u0947 \u0906\u0924\u094d\u092e\u0928\u093f \u0905\u0915\u094d\u0937\u0930\u0947 \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0924\u0947 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014Then at this time, all the effects and instruments depending on ignorance, desire and karma become quiet. When they are quieted, the entity of the \u00c2tman, misunderstood on account of its conditions, becomes one without a second, free from trouble and calm. To indicate this condition by the entering into the \u00c2tman of the earth and other objects, produced by ignorance, the Sruti offers an illustration. This is the illustration. In the same manner, good-looking youth! that birds go to the tree intended for their abode; so, as in the illustration, all that will be said hereafter becomes absorbed into the supreme and undecaying \u00c2tman ."
+        "text": "एतस्मिन्काले अविद्याकामकर्मनिबन्धनानि कार्यकरणानि शान्तानि भवन्ति । तेषु शान्तेष्वात्मस्वरूपमुपाधिभिरन्यथा विभाव्यमानमद्वयमेकं शिवं शान्तं भवतीत्येतामेवावस्थां पृथिव्याद्यविद्याकृतमात्रानुप्रवेशेन दर्शयितुं दृष्टान्तमाह — स दृष्टान्तः यथा येन प्रकारेण हि सोम्य प्रियदर्शन, वयांसि पक्षिणः वासार्थं वृक्षं वासोवृक्षं प्रति सम्प्रतिष्ठन्ते गच्छन्ति, एवं यथा दृष्टान्तः ह वै तत् वक्ष्यमाणं सर्वं परे आत्मनि अक्षरे सम्प्रतिष्ठते ॥"
       }
     ],
     "commentary_faqs": []
@@ -257,15 +1048,378 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 8,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145327.html"
+      "mantra_ref": "4.8",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092a\u0943\u0925\u093f\u0935\u0940 \u091a \u092a\u0943\u0925\u093f\u0935\u0940\u092e\u093e\u0924\u094d\u0930\u093e \u091a\u093e\u092a\u0936\u094d\u091a\u093e\u092a\u094b\u092e\u093e\u0924\u094d\u0930\u093e \u091a \u0924\u0947\u091c\u0936\u094d\u091a \u0924\u0947\u091c\u094b\u092e\u093e\u0924\u094d\u0930\u093e \u091a \u0935\u093e\u092f\u0941\u0936\u094d\u091a \u0935\u093e\u092f\u0941\u092e\u093e\u0924\u094d\u0930\u093e \u091a\u093e\u0915\u093e\u0936\u0936\u094d\u091a\u093e\u0915\u093e\u0936\u092e\u093e\u0924\u094d\u0930\u093e \u091a \u091a\u0915\u094d\u0937\u0941\u0936\u094d\u091a \u0926\u094d\u0930\u0937\u094d\u091f\u0935\u094d\u092f\u0902 \u091a \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u0902 \u091a \u0936\u094d\u0930\u094b\u0924\u0935\u094d\u092f\u0902 \u091a \u0918\u094d\u0930\u093e\u0923\u0902 \u091a \u0918\u094d\u0930\u093e\u0924\u0935\u094d\u092f\u0902 \u091a \u0930\u0938\u0936\u094d\u091a \u0930\u0938\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a \u0924\u094d\u0935\u0915\u094d\u091a \u0938\u094d\u092a\u0930\u094d\u0936\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a \u0935\u093e\u0915\u094d\u091a \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u0902 \u091a \u0939\u0938\u094d\u0924\u094c \u091a\u093e\u0926\u093e\u0924\u0935\u094d\u092f\u0902 \u091a\u094b\u092a\u0938\u094d\u0925\u0936\u094d\u091a\u093e\u0928\u0928\u094d\u0926\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a \u092a\u093e\u092f\u0941\u0936\u094d\u091a \u0935\u093f\u0938\u0930\u094d\u091c\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a \u092a\u093e\u0926\u094c \u091a \u0917\u0928\u094d\u0924\u0935\u094d\u092f\u0902 \u091a \u092e\u0928\u0936\u094d\u091a \u092e\u0928\u094d\u0924\u0935\u094d\u092f\u0902 \u091a \u092c\u0941\u0926\u094d\u0927\u093f\u0936\u094d\u091a \u092c\u094b\u0926\u094d\u0927\u0935\u094d\u092f\u0902 \u091a\u093e\u0939\u0919\u094d\u0915\u093e\u0930\u0936\u094d\u091a\u093e\u0939\u0919\u094d\u0915\u0930\u094d\u0924\u0935\u094d\u092f\u0902 \u091a \u091a\u093f\u0924\u094d\u0924\u0902 \u091a \u091a\u0947\u0924\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a \u0924\u0947\u091c\u0936\u094d\u091a \u0935\u093f\u0926\u094d\u092f\u094b\u0924\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a \u092a\u094d\u0930\u093e\u0923\u0936\u094d\u091a \u0935\u093f\u0927\u093e\u0930\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a \u0965 \u096e \u0965",
-    "transliteration": "p\u1e5bthiv\u012b ca p\u1e5bthiv\u012bm\u0101tr\u0101 c\u0101pa\u015bc\u0101pom\u0101tr\u0101 ca teja\u015bca tejom\u0101tr\u0101 ca v\u0101yu\u015bca v\u0101yum\u0101tr\u0101 c\u0101k\u0101\u015ba\u015bc\u0101k\u0101\u015bam\u0101tr\u0101 ca cak\u015bu\u015bca dra\u1e63\u1e6davya\u1e43 ca \u015brotra\u1e43 ca \u015brotavya\u1e43 ca ghr\u0101\u1e47a\u1e43 ca ghr\u0101tavya\u1e43 ca rasa\u015bca rasayitavya\u1e43 ca tvakca spar\u015bayitavya\u1e43 ca v\u0101kca vaktavya\u1e43 ca hastau c\u0101d\u0101tavya\u1e43 copastha\u015bc\u0101nandayitavya\u1e43 ca p\u0101yu\u015bca visarjayitavya\u1e43 ca y\u0101dau ca gantavya\u1e43 ca mana\u015bca mantavya\u1e43 ca buddhi\u015bca boddhivya\u1e43 c\u0101ha\u1e45k\u0101ra\u015bc\u0101ha\u1e45kartavya\u1e43 ca citta\u1e43 ca cetayitavya\u1e43 ca teja\u015bca vidyotayitavya\u1e43 ca pr\u0101\u1e47a\u015bca vidy\u0101rayitavya\u1e43 ca || 8 ||",
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "पृथिवी च पृथिवीमात्रा चापश्चापोमात्रा च तेजश्च तेजोमात्रा च वायुश्च वायुमात्रा चाकाशश्चाकाशमात्रा च चक्षुश्च द्रष्टव्यं च श्रोत्रं च श्रोतव्यं च घ्राणं च घ्रातव्यं च रसश्च रसयितव्यं च त्वक्च स्पर्शयितव्यं च वाक्च वक्तव्यं च हस्तौ चादातव्यं चोपस्थश्चानन्दयितव्यं च पायुश्च विसर्जयितव्यं च पादौ च गन्तव्यं च मनश्च मन्तव्यं च बुद्धिश्च बोद्धव्यं चाहङ्कारश्चाहङ्कर्तव्यं च चित्तं च चेतयितव्यं च तेजश्च विद्योतयितव्यं च प्राणश्च विधारयितव्यं च ॥ ८ ॥",
+    "transliteration": "pṛthivī ca pṛthivīmātrā cāpaścāpomātrā ca tejaśca tejomātrā ca vāyuśca vāyumātrā cākāśaścākāśamātrā ca cakṣuśca draṣṭavyaṃ ca śrotraṃ ca śrotavyaṃ ca ghrāṇaṃ ca ghrātavyaṃ ca rasaśca rasayitavyaṃ ca tvakca sparśayitavyaṃ ca vākca vaktavyaṃ ca hastau cādātavyaṃ copasthaścānandayitavyaṃ ca pāyuśca visarjayitavyaṃ ca pādau ca gantavyaṃ ca manaśca mantavyaṃ ca buddhiśca boddhavyaṃ cāhaṅkāraścāhaṅkartavyaṃ ca cittaṃ ca cetayitavyaṃ ca tejaśca vidyotayitavyaṃ ca prāṇaśca vidhārayitavyaṃ ca || 8 ||",
     "translation": "8. Earth and its subtle form, water and its subtle form, fire and its subtle form, air and its subtle form, akasa and its subtle form, sight and its objects, taste and its objects, touch and its objects, speech and object, hands and what is to be handled, the organ of generation and what is to be enjoyed, the organ of excretion and what must be excreted, the feet and what is to be trodden on by them, mind and what must be thought, the intellect and what must be determined, egotism and its object, Chitta and its object, light and its object, and Prana and what must be supported by it.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "पृथिवी",
+        "word_english": "earth (the gross element)",
+        "grammar_role": "पृथिवी · प्रथमा·एक·स्त्री",
+        "root": "पृथिवी"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "पृथिवीमात्रा",
+        "word_english": "earth's subtle essence (smell-tanmātra)",
+        "grammar_role": "पृथिवीमात्रा · प्रथमा·एक·स्त्री",
+        "root": "पृथिवी-मात्रा"
+      },
+      {
+        "word_sanskrit": "चापश्चापोमात्रा",
+        "word_english": "and water, and water's subtle essence",
+        "grammar_role": "अव्यय (समुच्चय) + अप् · प्रथमा·बहु·स्त्री + अव्यय (समुच्चय) + अप्-मात्रा · प्रथमा·एक·स्त्री",
+        "root": "च + आपः + च + आपोमात्रा"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "तेजश्च",
+        "word_english": "and fire (the gross element)",
+        "grammar_role": "तेजस् · प्रथमा·एक·नपुं + अव्यय (समुच्चय)",
+        "root": "तेजः + च"
+      },
+      {
+        "word_sanskrit": "तेजोमात्रा",
+        "word_english": "fire's subtle essence",
+        "grammar_role": "तेजोमात्रा · प्रथमा·एक·स्त्री",
+        "root": "तेजस्-मात्रा"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "वायुश्च",
+        "word_english": "and wind (the gross element)",
+        "grammar_role": "वायु · प्रथमा·एक·पुं + अव्यय (समुच्चय)",
+        "root": "वायुः + च"
+      },
+      {
+        "word_sanskrit": "वायुमात्रा",
+        "word_english": "wind's subtle essence",
+        "grammar_role": "वायुमात्रा · प्रथमा·एक·स्त्री",
+        "root": "वायु-मात्रा"
+      },
+      {
+        "word_sanskrit": "चाकाशश्चाकाशमात्रा",
+        "word_english": "and ether, and ether's subtle essence",
+        "grammar_role": "अव्यय (समुच्चय) + आकाश · प्रथमा·एक·नपुं + अव्यय (समुच्चय) + आकाश-मात्रा · प्रथमा·एक·स्त्री",
+        "root": "च + आकाशः + च + आकाशमात्रा"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "चक्षुश्च",
+        "word_english": "and the eye (the organ)",
+        "grammar_role": "चक्षुस् · प्रथमा·एक·नपुं + अव्यय (समुच्चय)",
+        "root": "चक्षुः + च"
+      },
+      {
+        "word_sanskrit": "द्रष्टव्यं",
+        "word_english": "that which is to be seen (form)",
+        "grammar_role": "√दृश् · द्रष्टव्य · प्रथमा·एक·नपुं",
+        "root": "द्रष्टव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "श्रोत्रं",
+        "word_english": "the ear (organ of hearing)",
+        "grammar_role": "श्रोत्र · प्रथमा·एक·नपुं",
+        "root": "श्रोत्रम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "श्रोतव्यं",
+        "word_english": "that which is to be heard (sound)",
+        "grammar_role": "√श्रु · श्रोतव्य · प्रथमा·एक·नपुं",
+        "root": "श्रोतव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "घ्राणं",
+        "word_english": "the nose (organ of smell)",
+        "grammar_role": "घ्राण · प्रथमा·एक·नपुं",
+        "root": "घ्राणम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "घ्रातव्यं",
+        "word_english": "that which is to be smelled (odour)",
+        "grammar_role": "√घ्रा · घ्रातव्य · प्रथमा·एक·नपुं",
+        "root": "घ्रातव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "रसश्च",
+        "word_english": "and taste (the organ)",
+        "grammar_role": "रस · प्रथमा·एक·पुं + अव्यय (समुच्चय)",
+        "root": "रसः + च"
+      },
+      {
+        "word_sanskrit": "रसयितव्यं",
+        "word_english": "that which is to be tasted (flavour)",
+        "grammar_role": "√रस् · रसयितव्य · प्रथमा·एक·नपुं",
+        "root": "रसयितव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "त्वक्च",
+        "word_english": "and the skin (organ of touch)",
+        "grammar_role": "त्वच् · प्रथमा·एक·स्त्री + अव्यय (समुच्चय)",
+        "root": "त्वक् + च"
+      },
+      {
+        "word_sanskrit": "स्पर्शयितव्यं",
+        "word_english": "that which is to be touched (contact)",
+        "grammar_role": "√स्पृश् · स्पर्शयितव्य · प्रथमा·एक·नपुं",
+        "root": "स्पर्शयितव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "वाक्च",
+        "word_english": "and speech (the organ)",
+        "grammar_role": "वाच् · प्रथमा·एक·स्त्री + अव्यय (समुच्चय)",
+        "root": "वाक् + च"
+      },
+      {
+        "word_sanskrit": "वक्तव्यं",
+        "word_english": "that which is to be spoken (utterance)",
+        "grammar_role": "√वच् · वक्तव्य · प्रथमा·एक·नपुं",
+        "root": "वक्तव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "हस्तौ",
+        "word_english": "the two hands (organ of grasping)",
+        "grammar_role": "हस्त · प्रथमा·द्वि·पुं",
+        "root": "हस्तौ"
+      },
+      {
+        "word_sanskrit": "चादातव्यं",
+        "word_english": "and that which is to be grasped",
+        "grammar_role": "अव्यय (समुच्चय) + आ-√दा · आदातव्य · प्रथमा·एक·नपुं",
+        "root": "च + आदातव्यम्"
+      },
+      {
+        "word_sanskrit": "चोपस्थश्चानन्दयितव्यं",
+        "word_english": "and the genital, and that to be enjoyed",
+        "grammar_role": "अव्यय (समुच्चय) + उपस्थ · प्रथमा·एक·पुं + अव्यय (समुच्चय) + आ-√नन्द् · आनन्दयितव्य · प्रथमा·एक·नपुं",
+        "root": "च + उपस्थः + च + आनन्दयितव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "पायुश्च",
+        "word_english": "and the anus (organ of excretion)",
+        "grammar_role": "पायु · प्रथमा·एक·पुं + अव्यय (समुच्चय)",
+        "root": "पायुः + च"
+      },
+      {
+        "word_sanskrit": "विसर्जयितव्यं",
+        "word_english": "that which is to be excreted",
+        "grammar_role": "वि-√सृज् · विसर्जयितव्य · प्रथमा·एक·नपुं",
+        "root": "विसर्जयितव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "पादौ",
+        "word_english": "the two feet (organ of locomotion)",
+        "grammar_role": "पाद · प्रथमा·द्वि·पुं",
+        "root": "पादौ"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "गन्तव्यं",
+        "word_english": "that which is to be gone to (destination)",
+        "grammar_role": "√गम् · गन्तव्य · प्रथमा·एक·नपुं",
+        "root": "गन्तव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "मनश्च",
+        "word_english": "and mind (the inner organ)",
+        "grammar_role": "मनस् · प्रथमा·एक·नपुं + अव्यय (समुच्चय)",
+        "root": "मनः + च"
+      },
+      {
+        "word_sanskrit": "मन्तव्यं",
+        "word_english": "that which is to be thought (its object)",
+        "grammar_role": "√मन् · मन्तव्य · प्रथमा·एक·नपुं",
+        "root": "मन्तव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "बुद्धिश्च",
+        "word_english": "and intellect (the determinative faculty)",
+        "grammar_role": "बुद्धि · प्रथमा·एक·स्त्री + अव्यय (समुच्चय)",
+        "root": "बुद्धिः + च"
+      },
+      {
+        "word_sanskrit": "बोद्धव्यं",
+        "word_english": "that which is to be known (its object)",
+        "grammar_role": "√बुध् · बोद्धव्य · प्रथमा·एक·नपुं",
+        "root": "बोद्धव्यम्"
+      },
+      {
+        "word_sanskrit": "चाहङ्कारश्चाहङ्कर्तव्यं",
+        "word_english": "and the ego (self-conceit inner organ), and that to be self-appropriated",
+        "grammar_role": "अव्यय (समुच्चय) + अहंकार · प्रथमा·एक·पुं + अव्यय (समुच्चय) + अहम्-√कृ · अहंकर्तव्य · प्रथमा·एक·नपुं",
+        "root": "च + अहङ्कारः + च + अहङ्कर्तव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "चित्तं",
+        "word_english": "the mind-stuff (sentient inner organ)",
+        "grammar_role": "चित्त · प्रथमा·एक·नपुं",
+        "root": "चित्तम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "चेतयितव्यं",
+        "word_english": "that which is to be cognized (its object)",
+        "grammar_role": "√चित् · चेतयितव्य · प्रथमा·एक·नपुं",
+        "root": "चेतयितव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "तेजश्च",
+        "word_english": "and tejas (here the luminous skin, distinct from the touch-organ)",
+        "grammar_role": "तेजस् · प्रथमा·एक·नपुं + अव्यय (समुच्चय)",
+        "root": "तेजः + च"
+      },
+      {
+        "word_sanskrit": "विद्योतयितव्यं",
+        "word_english": "the object to be illumined by it",
+        "grammar_role": "वि-√द्युत् · विद्योतयितव्य · प्रथमा·एक·नपुं",
+        "root": "विद्योतयितव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "प्राणश्च",
+        "word_english": "and prāṇa (the sūtra, thread-self)",
+        "grammar_role": "प्राण · प्रथमा·एक·पुं + अव्यय (समुच्चय)",
+        "root": "प्राणः + च"
+      },
+      {
+        "word_sanskrit": "विधारयितव्यं",
+        "word_english": "that which is to be held/strung together",
+        "grammar_role": "वि-√धृ · विधारयितव्य · प्रथमा·एक·नपुं",
+        "root": "विधारयितव्यम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -276,13 +1430,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u0902 \u0924\u0924\u094d\u0938\u0930\u094d\u0935\u092e\u094d ? \u092a\u0943\u0925\u093f\u0935\u0940 \u091a \u0938\u094d\u0925\u0942\u0932\u093e \u092a\u091e\u094d\u091a\u0917\u0941\u0923\u093e \u0924\u0924\u094d\u0915\u093e\u0930\u0923\u0902 \u091a \u092a\u0943\u0925\u093f\u0935\u0940\u092e\u093e\u0924\u094d\u0930\u093e \u0917\u0928\u094d\u0927\u0924\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u093e, \u0924\u0925\u093e \u0906\u092a\u0936\u094d\u091a \u0906\u092a\u094b\u092e\u093e\u0924\u094d\u0930\u093e \u091a, \u0924\u0947\u091c\u0936\u094d\u091a \u0924\u0947\u091c\u094b\u092e\u093e\u0924\u094d\u0930\u093e \u091a, \u0935\u093e\u092f\u0941\u0936\u094d\u091a \u0935\u093e\u092f\u0941\u092e\u093e\u0924\u094d\u0930\u093e \u091a, \u0906\u0915\u093e\u0936\u0936\u094d\u091a\u093e\u0915\u093e\u0936\u092e\u093e\u0924\u094d\u0930\u093e \u091a, \u0938\u094d\u0925\u0942\u0932\u093e\u0928\u093f \u091a \u0938\u0942\u0915\u094d\u0937\u094d\u092e\u093e\u0923\u093f \u091a \u092d\u0942\u0924\u093e\u0928\u0940\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0924\u0925\u093e \u091a\u0915\u094d\u0937\u0941\u0936\u094d\u091a \u0907\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0902 \u0930\u0942\u092a\u0902 \u091a \u0926\u094d\u0930\u0937\u094d\u091f\u0935\u094d\u092f\u0902 \u091a, \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u0902 \u091a \u0936\u094d\u0930\u094b\u0924\u0935\u094d\u092f\u0902 \u091a, \u0918\u094d\u0930\u093e\u0923\u0902 \u091a \u0918\u094d\u0930\u093e\u0924\u0935\u094d\u092f\u0902 \u091a, \u0930\u0938\u0936\u094d\u091a \u0930\u0938\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a, \u0924\u094d\u0935\u0915\u094d\u091a \u0938\u094d\u092a\u0930\u094d\u0936\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a, \u0935\u093e\u0915\u094d\u091a \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u0902 \u091a, \u0939\u0938\u094d\u0924\u094c \u091a \u0906\u0926\u093e\u0924\u0935\u094d\u092f\u0902 \u091a, \u0909\u092a\u0938\u094d\u0925\u0936\u094d\u091a \u0906\u0928\u0928\u094d\u0926\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a, \u092a\u093e\u092f\u0941\u0936\u094d\u091a \u0935\u093f\u0938\u0930\u094d\u091c\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a, \u092a\u093e\u0926\u094c \u091a \u0917\u0928\u094d\u0924\u0935\u094d\u092f\u0902 \u091a ; \u092c\u0941\u0926\u094d\u0927\u0940\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u093e\u0923\u093f \u0915\u0930\u094d\u092e\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u093e\u0923\u093f \u0924\u0926\u0930\u094d\u0925\u093e\u0936\u094d\u091a\u094b\u0915\u094d\u0924\u093e\u0903\u00a0\u0964 \u092e\u0928\u0936\u094d\u091a \u092a\u0942\u0930\u094d\u0935\u094b\u0915\u094d\u0924\u092e\u094d\u00a0\u0964 \u092e\u0928\u094d\u0924\u0935\u094d\u092f\u0902 \u091a \u0924\u0926\u094d\u0935\u093f\u0937\u092f\u0903\u00a0\u0964 \u092c\u0941\u0926\u094d\u0927\u093f\u0936\u094d\u091a \u0928\u093f\u0936\u094d\u091a\u092f\u093e\u0924\u094d\u092e\u093f\u0915\u093e\u00a0\u0964 \u092c\u094b\u0926\u094d\u0927\u0935\u094d\u092f\u0902 \u091a \u0924\u0926\u094d\u0935\u093f\u0937\u092f\u0903\u00a0\u0964 \u0905\u0939\u0919\u094d\u0915\u093e\u0930\u0936\u094d\u091a \u0905\u092d\u093f\u092e\u093e\u0928\u0932\u0915\u094d\u0937\u0923\u092e\u0928\u094d\u0924\u0903\u0915\u0930\u0923\u092e\u094d\u00a0\u0964 \u0905\u0939\u0919\u094d\u0915\u0930\u094d\u0924\u0935\u094d\u092f\u0902 \u091a \u0924\u0926\u094d\u0935\u093f\u0937\u092f\u0903\u00a0\u0964 \u091a\u093f\u0924\u094d\u0924\u0902 \u091a \u091a\u0947\u0924\u0928\u093e\u0935\u0926\u0928\u094d\u0924\u0903\u0915\u0930\u0923\u092e\u094d\u00a0\u0964 \u091a\u0947\u0924\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u091a \u0924\u0926\u094d\u0935\u093f\u0937\u092f\u0903\u00a0\u0964 \u0924\u0947\u091c\u0936\u094d\u091a \u0924\u094d\u0935\u0917\u093f\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0935\u094d\u092f\u0924\u093f\u0930\u0947\u0915\u0947\u0923 \u092a\u094d\u0930\u0915\u093e\u0936\u0935\u093f\u0936\u093f\u0937\u094d\u091f\u093e \u092f\u093e \u0924\u094d\u0935\u0915\u094d\u00a0\u0964 \u0924\u092f\u093e \u0928\u093f\u0930\u094d\u092d\u093e\u0938\u094d\u092f\u094b \u0935\u093f\u0937\u092f\u094b \u0935\u093f\u0926\u094d\u092f\u094b\u0924\u092f\u093f\u0924\u0935\u094d\u092f\u092e\u094d\u00a0\u0964 \u092a\u094d\u0930\u093e\u0923\u0936\u094d\u091a \u0938\u0942\u0924\u094d\u0930\u0902 \u092f\u0926\u093e\u091a\u0915\u094d\u0937\u0924\u0947 \u0924\u0947\u0928 \u0935\u093f\u0927\u093e\u0930\u092f\u093f\u0924\u0935\u094d\u092f\u0902 \u0938\u0919\u094d\u0917\u094d\u0930\u0925\u0928\u0940\u092f\u092e\u094d\u00a0\u0964 \u0938\u0930\u094d\u0935\u0902 \u0939\u093f \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u091c\u093e\u0924\u0902 \u092a\u093e\u0930\u093e\u0930\u094d\u0925\u094d\u092f\u0947\u0928 \u0938\u0902\u0939\u0924\u0902 \u0928\u093e\u092e\u0930\u0942\u092a\u093e\u0924\u094d\u092e\u0915\u092e\u0947\u0924\u093e\u0935\u0926\u0947\u0935 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014What is that all? The earth gross, having five attributes and its cause, the rudiment of earth, i.e., the subtle form of smell, so water and the subtle form of water, fire and its subtle form, air and its subtle form, akasa and its subtle form, i.e., all gross and subtle Bhutas ; similarly, the sense of sight and its objects, ear and its objects, nose and its objects, the palate and its objects, touch and its objects, speech and what must be said, hands and what must be handled, the organ of generation and what must be enjoyed, the organ of excretion and what must be excreted, feet and what must be reached; thus, all the intellectual and active senses have been mentioned. The mind already stated and its objects, the intellect consisting in determination and its objects, ahankara, i.e., the mind characterised by egotism and its objects, Chittam, i.e., the intelligent mind and its objects. Tejas ] The skin apart from the sense of touch, having light. Vidyotayitavyam ] the objects enlightened by it. Prana, what is called the sutra, and what is strung on it, i.e., all the bundle of effects and instruments combined for the benefit of some other entity, having name, form, etc."
+        "text": "किं तत्सर्वम्? पृथिवी च स्थूला पञ्चगुणा तत्कारणं च पृथिवीमात्रा गन्धतन्मात्रा, तथा आपश्च आपोमात्रा च, तेजश्च तेजोमात्रा च, वायुश्च वायुमात्रा च, आकाशश्चाकाशमात्रा च, स्थूलानि च सूक्ष्माणि च भूतानीत्यर्थः । तथा चक्षुश्च इन्द्रियं रूपं च द्रष्टव्यं च, श्रोत्रं च श्रोतव्यं च, घ्राणं च घ्रातव्यं च, रसश्च रसयितव्यं च, त्वक्च स्पर्शयितव्यं च, वाक्च वक्तव्यं च, हस्तौ च आदातव्यं च, उपस्थश्च आनन्दयितव्यं च, पायुश्च विसर्जयितव्यं च, पादौ च गन्तव्यं च; बुद्धीन्द्रियाणि कर्मेन्द्रियाणि तदर्थाश्चोक्ताः । मनश्च पूर्वोक्तम् । मन्तव्यं च तद्विषयः । बुद्धिश्च निश्चयात्मिका । बोद्धव्यं च तद्विषयः । अहङ्कारश्च अभिमानलक्षणमन्तःकरणम् । अहङ्कर्तव्यं च तद्विषयः । चित्तं च चेतनावदन्तःकरणम् । चेतयितव्यं च तद्विषयः । तेजश्च त्वगिन्द्रियव्यतिरेकेण प्रकाशविशिष्टा या त्वक् । तया निर्भास्यो विषयो विद्योतयितव्यम् । प्राणश्च सूत्रं यदाचक्षते तेन विधारयितव्यं सङ्ग्रथनीयम् । सर्वं हि कार्यकरणजातं पारार्थ्येन संहतं नामरूपात्मकमेतावदेव ॥"
       }
     ],
     "commentary_faqs": []
@@ -293,32 +1443,127 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 9,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145328.html"
+      "mantra_ref": "4.9",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u090f\u0937 \u0939\u093f \u0926\u094d\u0930\u0937\u094d\u091f\u093e \u0938\u094d\u092a\u094d\u0930\u0937\u094d\u091f\u093e \u0936\u094d\u0930\u094b\u0924\u093e \u0918\u094d\u0930\u093e\u0924\u093e \u0930\u0938\u092f\u093f\u0924\u093e \u092e\u0928\u094d\u0924\u093e \u092c\u094b\u0926\u094d\u0927\u093e \u0915\u0930\u094d\u0924\u093e \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u092e\u093e \u092a\u0941\u0930\u0941\u0937\u0903\u00a0\u0964 \u0938 \u092a\u0930\u0947\u093d\u0915\u094d\u0937\u0930 \u0906\u0924\u094d\u092e\u0928\u093f \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0924\u0947 \u0965 \u096f \u0965",
-    "transliteration": "e\u1e63a hi dra\u1e63\u1e6da spra\u1e63\u1e6d\u0101 \u015brot\u0101 ghr\u0101t\u0101 rasayit\u0101 mant\u0101 boddh\u0101 kart\u0101 vij\u00f1\u0101n\u0101tm\u0101 puru\u1e63a\u1e25 \u0964 sa pare'k\u015bara \u0101tmani sa\u1e43prati\u1e63\u1e6dhate || 9 ||",
-    "translation": "9. This is the seer, toucher, hearer, smeller, taster, the thinker, the knower, the doer, the intelligent entity, Purusha . He becomes merged in the Supreme, undecaying \u00c2tman.",
-    "word_by_word": [],
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "एष हि द्रष्टा स्प्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः । स परेऽक्षर आत्मनि सम्प्रतिष्ठते ॥ ९ ॥",
+    "transliteration": "eṣa hi draṣṭā spraṣṭā śrotā ghrātā rasayitā mantā boddhā kartā vijñānātmā puruṣaḥ | sa pare'kṣara ātmani sampratiṣṭhate || 9 ||",
+    "translation": "9. This is the seer, toucher, hearer, smeller, taster, the thinker, the knower, the doer, the intelligent entity, Purusha . He becomes merged in the Supreme, undecaying Âtman.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this (very one)",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "हि",
+        "word_english": "for, indeed",
+        "grammar_role": "अव्यय (हेतु-निपात; 'for, indeed')",
+        "root": "हि"
+      },
+      {
+        "word_sanskrit": "द्रष्टा",
+        "word_english": "the seer",
+        "grammar_role": "द्रष्टृ · प्रथमा·एक·पुं",
+        "root": "द्रष्टा"
+      },
+      {
+        "word_sanskrit": "स्प्रष्टा",
+        "word_english": "the toucher",
+        "grammar_role": "स्प्रष्टृ · प्रथमा·एक·पुं",
+        "root": "स्प्रष्टा"
+      },
+      {
+        "word_sanskrit": "श्रोता",
+        "word_english": "the hearer",
+        "grammar_role": "श्रोतृ · प्रथमा·एक·पुं",
+        "root": "श्रोता"
+      },
+      {
+        "word_sanskrit": "घ्राता",
+        "word_english": "the smeller",
+        "grammar_role": "घ्रातृ · प्रथमा·एक·पुं",
+        "root": "घ्राता"
+      },
+      {
+        "word_sanskrit": "रसयिता",
+        "word_english": "the taster",
+        "grammar_role": "रसयितृ · प्रथमा·एक·पुं",
+        "root": "रसयिता"
+      },
+      {
+        "word_sanskrit": "मन्ता",
+        "word_english": "the thinker",
+        "grammar_role": "मन्तृ · प्रथमा·एक·पुं",
+        "root": "मन्ता"
+      },
+      {
+        "word_sanskrit": "बोद्धा",
+        "word_english": "the knower (one who understands)",
+        "grammar_role": "बोद्धृ · प्रथमा·एक·पुं",
+        "root": "बोद्धा"
+      },
+      {
+        "word_sanskrit": "कर्ता",
+        "word_english": "the doer (agent)",
+        "grammar_role": "कर्तृ · प्रथमा·एक·पुं",
+        "root": "कर्ता"
+      },
+      {
+        "word_sanskrit": "विज्ञानात्मा",
+        "word_english": "whose nature is the knowing (cognizing-agent) self",
+        "grammar_role": "विज्ञान-आत्मन् · प्रथमा·एक·पुं",
+        "root": "विज्ञान-आत्मा"
+      },
+      {
+        "word_sanskrit": "पुरुषः",
+        "word_english": "the Person (puruṣa)",
+        "grammar_role": "पुरुष · प्रथमा·एक·पुं",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he, that one",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "परेऽक्षर",
+        "word_english": "in the supreme imperishable (qualifying ātman)",
+        "grammar_role": "पर · सप्तमी·एक·पुं + अक्षर · सप्तमी·एक·पुं",
+        "root": "परे + अक्षरे"
+      },
+      {
+        "word_sanskrit": "आत्मनि",
+        "word_english": "in the Self",
+        "grammar_role": "आत्मन् · सप्तमी·एक·पुं",
+        "root": "आत्मनि"
+      },
+      {
+        "word_sanskrit": "सम्प्रतिष्ठते",
+        "word_english": "becomes wholly established, finds full rest",
+        "grammar_role": "√स्था (सम्+प्र) · लट्·प्रथम·एक·आत्मनेपद",
+        "root": "सम्प्रतिष्ठते"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "9. This is the seer, toucher, hearer, smeller, taster, the thinker, the knower, the doer, the intelligent entity, Purusha . He becomes merged in the Supreme, undecaying \u00c2tman."
+        "text": "9. This is the seer, toucher, hearer, smeller, taster, the thinker, the knower, the doer, the intelligent entity, Purusha . He becomes merged in the Supreme, undecaying Âtman."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0924\u0903 \u092a\u0930\u0902 \u092f\u0926\u093e\u0924\u094d\u092e\u0938\u094d\u0935\u0930\u0942\u092a\u0902 \u091c\u0932\u0938\u0942\u0930\u094d\u092f\u0915\u093e\u0926\u093f\u0935\u0926\u094d\u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u0947\u0928\u0947\u0939\u093e\u0928\u0941\u092a\u094d\u0930\u0935\u093f\u0937\u094d\u091f\u092e\u094d , \u090f\u0937\u0903 \u0939\u093f \u0926\u094d\u0930\u0937\u094d\u091f\u093e \u0938\u094d\u092a\u094d\u0930\u0937\u094d\u091f\u093e \u0936\u094d\u0930\u094b\u0924\u093e \u0918\u094d\u0930\u093e\u0924\u093e \u0930\u0938\u092f\u093f\u0924\u093e \u092e\u0928\u094d\u0924\u093e \u092c\u094b\u0926\u094d\u0927\u093e \u0915\u0930\u094d\u0924\u093e \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u092e\u093e, \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u092f\u0924\u0947\u093d\u0928\u0947\u0928\u0947\u0924\u093f \u0915\u0930\u0923\u092d\u0942\u0924\u0902 \u092c\u0941\u0926\u094d\u0927\u094d\u092f\u093e\u0926\u093f, \u0907\u0926\u0902 \u0924\u0941 \u0935\u093f\u091c\u093e\u0928\u093e\u0924\u0940\u0924\u093f \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0902 \u0915\u0930\u094d\u0924\u0943\u0915\u093e\u0930\u0915\u0930\u0942\u092a\u092e\u094d , \u0924\u0926\u093e\u0924\u094d\u092e\u093e \u0924\u0924\u094d\u0938\u094d\u0935\u092d\u093e\u0935\u094b \u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0943\u0938\u094d\u0935\u092d\u093e\u0935 \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092a\u0941\u0930\u0941\u0937\u0903 \u0915\u093e\u0930\u094d\u092f\u0915\u0930\u0923\u0938\u0919\u094d\u0918\u093e\u0924\u094b\u0915\u094d\u0924\u094b\u092a\u093e\u0927\u093f\u092a\u0942\u0930\u0923\u093e\u0924\u094d\u092a\u0941\u0930\u0941\u0937\u0903\u00a0\u0964 \u0938 \u091a \u091c\u0932\u0938\u0942\u0930\u094d\u092f\u0915\u093e\u0926\u093f\u092a\u094d\u0930\u0924\u093f\u092c\u093f\u092e\u094d\u092c\u0938\u094d\u092f \u0938\u0942\u0930\u094d\u092f\u093e\u0926\u093f\u092a\u094d\u0930\u0935\u0947\u0936\u0935\u091c\u094d\u091c\u0932\u093e\u0926\u094d\u092f\u093e\u0927\u093e\u0930\u0936\u094b\u0937\u0947 \u092a\u0930\u0947 \u0905\u0915\u094d\u0937\u0930\u0947 \u0906\u0924\u094d\u092e\u0928\u093f \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0924\u0947 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Then, the self which has entered here, like the sun in the water, etc., with the attributes of enjoyer and doer; this is the seer, toucher, hearer, smeller, taster, thinker, knower, doer, the intelligent self ( Vignana means the intellect being the instrument by which things are known). Here, it means, he who knows, i.e., the knower. Vignanatma, of the nature of knower. The meaning is that he is a knower by his nature. Purusha , because full of, i.e. , subject to the conditions above described, i.e., the nature of effects and instruments. And he enters into the supreme undecaying \u00c2tman, the supporter of the universe, as the reflected image of the sun, etc., in water enters into the sun, etc."
+        "text": "अतः परं यदात्मस्वरूपं जलसूर्यकादिवद्भोक्तृत्वकर्तृत्वेनेहानुप्रविष्टम्, एषः हि द्रष्टा स्प्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता विज्ञानात्मा, विज्ञानं विज्ञायतेऽनेनेति करणभूतं बुद्ध्यादि, इदं तु विजानातीति विज्ञानं कर्तृकारकरूपम्, तदात्मा तत्स्वभावो विज्ञातृस्वभाव इत्यर्थः । पुरुषः कार्यकरणसङ्घातोक्तोपाधिपूरणात्पुरुषः । स च जलसूर्यकादिप्रतिबिम्बस्य सूर्यादिप्रवेशवज्जलाद्याधारशोषे परे अक्षरे आत्मनि सम्प्रतिष्ठते ॥"
       }
     ],
     "commentary_faqs": []
@@ -329,15 +1574,120 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 10,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145329.html"
+      "mantra_ref": "4.10",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092a\u0930\u092e\u0947\u0935\u093e\u0915\u094d\u0937\u0930\u0902 \u092a\u094d\u0930\u0924\u093f\u092a\u0926\u094d\u092f\u0924\u0947 \u0938 \u092f\u094b \u0939 \u0935\u0948 \u0924\u0926\u091a\u094d\u091b\u093e\u092f\u092e\u0936\u0930\u0940\u0930\u092e\u0932\u094b\u0939\u093f\u0924\u0902 \u0936\u0941\u092d\u094d\u0930\u092e\u0915\u094d\u0937\u0930\u0902 \u0935\u0947\u0926\u092f\u0924\u0947 \u092f\u0938\u094d\u0924\u0941 \u0938\u094b\u092e\u094d\u092f\u00a0\u0964 \u0938 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0903 \u0938\u0930\u094d\u0935\u094b \u092d\u0935\u0924\u093f \u0924\u0926\u0947\u0937 \u0936\u094d\u0932\u094b\u0915\u0903 \u0965 \u0967\u0966 \u0965",
-    "transliteration": "paramev\u0101k\u015bara\u1e43 pratipadyate sa yo ha vai tadacch\u0101yama\u015bar\u012bramlohita\u1e43 \u015bubhramak\u015bara\u1e43 vedayate yastu somya | sa sarvaj\u00f1a\u1e25 sarvo bhavati tade\u1e63a \u015bloka\u1e25 || 10 ||",
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "परमेवाक्षरं प्रतिपद्यते स यो ह वै तदच्छायमशरीरमलोहितं शुभ्रमक्षरं वेदयते यस्तु सोम्य । स सर्वज्ञः सर्वो भवति तदेष श्लोकः ॥ १० ॥",
+    "transliteration": "paramevākṣaraṃ pratipadyate sa yo ha vai tadacchāyamaśarīramalohitaṃ śubhramakṣaraṃ vedayate yastu somya | sa sarvajñaḥ sarvo bhavati tadeṣa ślokaḥ || 10 ||",
     "translation": "10. The supreme, undecaying one, he surely attains. Who knows that, shadowless, bodiless, devoid of attributes, pure and undecaying. Who knows that good-looking youth! becomes omniscient and becomes all. There is this verse.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "परमेवाक्षरं",
+        "word_english": "the supreme Imperishable indeed (as object of attaining)",
+        "grammar_role": "परम · द्वितीया·एक·नपुं + एव · अव्यय (अवधारणे) + अक्षर · द्वितीया·एक·नपुं",
+        "root": "परम् + एव + अक्षरम्"
+      },
+      {
+        "word_sanskrit": "प्रतिपद्यते",
+        "word_english": "he attains",
+        "grammar_role": "√पद् (प्रति) · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "प्रतिपद्यते"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यो",
+        "word_english": "who",
+        "grammar_role": "यद् · प्रथमा·एक·पुं",
+        "root": "यः"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed (emphatic particle)",
+        "grammar_role": "अव्यय (वाक्यालङ्कारे, प्रसिद्धौ)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "verily, indeed",
+        "grammar_role": "अव्यय (निश्चये, स्मरणे)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "तदच्छायमशरीरमलोहितं",
+        "word_english": "that shadowless (free of darkness), bodiless (free of all name-form upādhi), colorless (free of redness and all qualities)",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + अच्छाय · द्वितीया·एक·नपुं + अशरीर · द्वितीया·एक·नपुं + अलोहित · द्वितीया·एक·नपुं",
+        "root": "तत् + अच्छायम् + अशरीरम् + अलोहितम्"
+      },
+      {
+        "word_sanskrit": "शुभ्रमक्षरं",
+        "word_english": "pure, the Imperishable (as object)",
+        "grammar_role": "शुभ्र · द्वितीया·एक·नपुं + अक्षर · द्वितीया·एक·नपुं",
+        "root": "शुभ्रम् + अक्षरम्"
+      },
+      {
+        "word_sanskrit": "वेदयते",
+        "word_english": "knows, fully realizes (= विजानाति)",
+        "grammar_role": "√विद् (वेदयति-गण; णिजन्तवत्) · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "वेदयते"
+      },
+      {
+        "word_sanskrit": "यस्तु",
+        "word_english": "and he who (the all-renouncer)",
+        "grammar_role": "यद् · प्रथमा·एक·पुं + तु · अव्यय (विशेषणे/अवधारणे)",
+        "root": "यः + तु"
+      },
+      {
+        "word_sanskrit": "सोम्य",
+        "word_english": "O gentle one (Saumya)",
+        "grammar_role": "सोम्य · सम्बोधन·एक·पुं",
+        "root": "सोम्य"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "सर्वज्ञः",
+        "word_english": "all-knowing, omniscient (nothing remains unknown to him)",
+        "grammar_role": "सर्वज्ञ · प्रथमा·एक·पुं",
+        "root": "सर्वज्ञः"
+      },
+      {
+        "word_sanskrit": "सर्वो",
+        "word_english": "all / the whole (he becomes everything)",
+        "grammar_role": "सर्व · प्रथमा·एक·पुं",
+        "root": "सर्वः"
+      },
+      {
+        "word_sanskrit": "भवति",
+        "word_english": "becomes",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "भवति"
+      },
+      {
+        "word_sanskrit": "तदेष",
+        "word_english": "on this matter, this (following verse)",
+        "grammar_role": "तद् · नपुं·अव्ययवत् ('अस्मिन् अर्थे' — regarding this) + एतद् · प्रथमा·एक·पुं",
+        "root": "तत् + एषः"
+      },
+      {
+        "word_sanskrit": "श्लोकः",
+        "word_english": "verse, mantra (that sums up the meaning)",
+        "grammar_role": "श्लोक · प्रथमा·एक·पुं",
+        "root": "श्लोकः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -348,13 +1698,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0926\u0947\u0915\u0924\u094d\u0935\u0935\u093f\u0926\u0903 \u092b\u0932\u092e\u093e\u0939 \u2014 \u092a\u0930\u092e\u0947\u0935 \u0905\u0915\u094d\u0937\u0930\u0902 \u0935\u0915\u094d\u0937\u094d\u092f\u092e\u093e\u0923\u0935\u093f\u0936\u0947\u0937\u0923\u0902 \u092a\u094d\u0930\u0924\u093f\u092a\u0926\u094d\u092f\u0924\u0947 \u0907\u0924\u093f\u00a0\u0964 \u090f\u0924\u0926\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u0938 \u092f\u094b \u0939 \u0935\u0948 \u0924\u0924\u094d \u0938\u0930\u094d\u0935\u0948\u0937\u0923\u093e\u0935\u093f\u0928\u093f\u0930\u094d\u092e\u0941\u0915\u094d\u0924\u0903 \u0905\u091a\u094d\u091b\u093e\u092f\u0902 \u0924\u092e\u094b\u0935\u0930\u094d\u091c\u093f\u0924\u092e\u094d , \u0905\u0936\u0930\u0940\u0930\u0902 \u0928\u093e\u092e\u0930\u0942\u092a\u0938\u0930\u094d\u0935\u094b\u092a\u093e\u0927\u093f\u0936\u0930\u0940\u0930\u0935\u0930\u094d\u091c\u093f\u0924\u092e\u094d , \u0905\u0932\u094b\u0939\u093f\u0924\u0902 \u0932\u094b\u0939\u093f\u0924\u093e\u0926\u093f\u0938\u0930\u094d\u0935\u0917\u0941\u0923\u0935\u0930\u094d\u091c\u093f\u0924\u092e\u094d , \u092f\u0924 \u090f\u0935\u092e\u0924\u0903 \u0936\u0941\u092d\u094d\u0930\u0902 \u0936\u0941\u0926\u094d\u0927\u092e\u094d , \u0938\u0930\u094d\u0935\u0935\u093f\u0936\u0947\u0937\u0923\u0930\u0939\u093f\u0924\u0924\u094d\u0935\u093e\u0926\u0915\u094d\u0937\u0930\u092e\u094d , \u0938\u0924\u094d\u092f\u0902 \u092a\u0941\u0930\u0941\u0937\u093e\u0916\u094d\u092f\u092e\u092a\u094d\u0930\u093e\u0923\u092e\u092e\u0928\u094b\u0917\u094b\u091a\u0930\u0902 \u0936\u093f\u0935\u0902 \u0936\u093e\u0928\u094d\u0924\u0902 \u0938\u092c\u093e\u0939\u094d\u092f\u093e\u092d\u094d\u092f\u0928\u094d\u0924\u0930\u092e\u091c\u0902 \u0935\u0947\u0926\u092f\u0924\u0947 \u0935\u093f\u091c\u093e\u0928\u093e\u0924\u093f \u092f\u0938\u094d\u0924\u0941 \u0938\u0930\u094d\u0935\u0924\u094d\u092f\u093e\u0917\u0940 \u0939\u0947 \u0938\u094b\u092e\u094d\u092f, \u0938\u0903 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0903 \u0928 \u0924\u0947\u0928\u093e\u0935\u093f\u0926\u093f\u0924\u0902 \u0915\u093f\u091e\u094d\u091a\u093f\u0924\u094d\u0938\u092e\u094d\u092d\u0935\u0924\u093f\u00a0\u0964 \u092a\u0942\u0930\u094d\u0935\u092e\u0935\u093f\u0926\u094d\u092f\u092f\u093e \u0905\u0938\u0930\u094d\u0935\u091c\u094d\u091e \u0906\u0938\u0940\u0924\u094d\u00a0\u0964 \u092a\u0941\u0928\u0930\u094d\u0935\u093f\u0926\u094d\u092f\u092f\u093e \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u092a\u0928\u092f\u0947 \u0938\u0930\u094d\u0935\u0903 \u092d\u0935\u0924\u093f\u00a0\u0964 \u0924\u0924\u094d \u0905\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0930\u094d\u0925\u0947 \u090f\u0937\u0903 \u0936\u094d\u0932\u094b\u0915\u0903 \u092e\u0928\u094d\u0924\u094d\u0930\u094b \u092d\u0935\u0924\u093f \u0909\u0915\u094d\u0924\u093e\u0930\u094d\u0925\u0938\u0919\u094d\u0917\u094d\u0930\u093e\u0939\u0915\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014The fruits of one who realises the oneness of the atman are stated. He surely attains the supreme, undecaying atman , hereafter described. He who being freed from all desires, knows that, shadowless, i.e., free from Tamas or ignorance, bodiless, i.e., devoid of body subject to conditions of name, form, etc., alohitam, i.e., devoid of all gunas (attributes) such as Rajas ; because thus, therefore, pure; undecaying, because devoid of all attributes the eternal known as purusha having no Prana, not perceivable by the mind, bliss in its nature and free from all misery, existing without and within all, unborn. Who renounces everything, good-looking youth! there can be nothing which is not known by him. Owing to ignorance he was not omniscient before; subsequently, by the removal of ignorance, by knowledge, he becomes all. The following verse briefly conveys the drift stated."
+        "text": "तदेकत्वविदः फलमाह — परमेव अक्षरं वक्ष्यमाणविशेषणं प्रतिपद्यते इति । एतदुच्यते — स यो ह वै तत् सर्वैषणाविनिर्मुक्तः अच्छायं तमोवर्जितम्, अशरीरं नामरूपसर्वोपाधिशरीरवर्जितम्, अलोहितं लोहितादिसर्वगुणवर्जितम्, यत एवमतः शुभ्रं शुद्धम्, सर्वविशेषणरहितत्वादक्षरम्, सत्यं पुरुषाख्यमप्राणममनोगोचरं शिवं शान्तं सबाह्याभ्यन्तरमजं वेदयते विजानाति यस्तु सर्वत्यागी हे सोम्य, सः सर्वज्ञः न तेनाविदितं किञ्चित्सम्भवति । पूर्वमविद्यया असर्वज्ञ आसीत् । पुनर्विद्यया अविद्यापनये सर्वः भवति । तत् अस्मिन्नर्थे एषः श्लोकः मन्त्रो भवति उक्तार्थसङ्ग्राहकः ॥"
       }
     ],
     "commentary_faqs": []
@@ -365,32 +1711,121 @@
       "scripture_name": "Prashna Upanishad",
       "scripture_slug": "upanishad-prashna",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Question 4: Dream and Deep Sleep",
       "verse_number": 11,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/prashna-upanishad-shankara-bhashya/d/doc145330.html"
+      "mantra_ref": "4.11",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u092e\u093e \u0938\u0939 \u0926\u0947\u0935\u0948\u0936\u094d\u091a \u0938\u0930\u094d\u0935\u0948\u0903 \u092a\u094d\u0930\u093e\u0923\u093e \u092d\u0942\u0924\u093e\u0928\u093f \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u093f \u092f\u0924\u094d\u0930\u00a0\u0964 \n \u0924\u0926\u0915\u094d\u0937\u0930\u0902 \u0935\u0947\u0926\u092f\u0924\u0947 \u092f\u0938\u094d\u0924\u0941 \u0938\u094b\u092e\u094d\u092f \u0938 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0903 \u0938\u0930\u094d\u0935\u092e\u0947\u0935\u093e\u0935\u093f\u0935\u0947\u0936\u0947\u0924\u093f \u0965 \u0967\u0967 \u0965",
-    "transliteration": "vij\u00f1\u0101n\u0101tm\u0101 saha devai\u015bca sarvai\u1e25 pr\u0101\u1e47\u0101bhut\u0101ni sa\u1e43prati\u1e63\u1e6dhanti yatra | tadak\u015bara\u1e43 vedayate yastu somya sa sarvaj\u00f1a\u1e25 sarvamev\u0101vive\u015beti || 11 ||",
-    "translation": "11. Who knows, good-looking youth ! the undecaying \u00c2tman in whom the knowing self with all the devas, the Pranas, and the five elements are centred. He, the omniscient, enters, indeed, into all.",
-    "word_by_word": [],
+    "section_title": "Question 4: Dream and Deep Sleep",
+    "sanskrit_shloka": "विज्ञानात्मा सह देवैश्च सर्वैः प्राणा भूतानि सम्प्रतिष्ठन्ति यत्र । तदक्षरं वेदयते यस्तु सोम्य स सर्वज्ञः सर्वमेवाविवेशेति ॥ ११ ॥",
+    "transliteration": "vijñānātmā saha devaiśca sarvaiḥ prāṇā bhūtāni sampratiṣṭhanti yatra | tadakṣaraṃ vedayate yastu somya sa sarvajñaḥ sarvamevāviveśeti || 11 ||",
+    "translation": "11. Who knows, good-looking youth ! the undecaying Âtman in whom the knowing self with all the devas, the Pranas, and the five elements are centred. He, the omniscient, enters, indeed, into all.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "विज्ञानात्मा",
+        "word_english": "the knowing self (jīva); subject of the sentence",
+        "grammar_role": "विज्ञानात्मन् · प्रथमा·एक·पुं",
+        "root": "विज्ञानात्मा"
+      },
+      {
+        "word_sanskrit": "सह",
+        "word_english": "together with",
+        "grammar_role": "अव्यय (सहार्थक; with)",
+        "root": "सह"
+      },
+      {
+        "word_sanskrit": "देवैश्च",
+        "word_english": "and with the gods (Agni, etc.)",
+        "grammar_role": "देव · तृतीया·बहु·पुं + अव्यय (च, and)",
+        "root": "देवैः + च"
+      },
+      {
+        "word_sanskrit": "सर्वैः",
+        "word_english": "with all (the gods)",
+        "grammar_role": "सर्व · तृतीया·बहु·पुं",
+        "root": "सर्वैः"
+      },
+      {
+        "word_sanskrit": "प्राणा",
+        "word_english": "the vital breaths / senses (eye, etc.)",
+        "grammar_role": "प्राण · प्रथमा·बहु·पुं",
+        "root": "प्राणाः"
+      },
+      {
+        "word_sanskrit": "भूतानि",
+        "word_english": "the elements (earth, etc.)",
+        "grammar_role": "भूत · प्रथमा·बहु·नपुं",
+        "root": "भूतानि"
+      },
+      {
+        "word_sanskrit": "सम्प्रतिष्ठन्ति",
+        "word_english": "are firmly established / enter (bhāṣya: प्रविशन्ति) — wherein all these come to rest",
+        "grammar_role": "√स्था (सम्+प्रति) · लट्·प्रथमपुरुष·बहु·परस्मैपद",
+        "root": "सम्प्रतिष्ठन्ति"
+      },
+      {
+        "word_sanskrit": "यत्र",
+        "word_english": "wherein, in which (imperishable)",
+        "grammar_role": "अव्यय (यद्-आधारे; in which akṣara)",
+        "root": "यत्र"
+      },
+      {
+        "word_sanskrit": "तदक्षरं",
+        "word_english": "that imperishable (Akṣara) — object of वेदयते",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + अक्षर · द्वितीया·एक·नपुं",
+        "root": "तत् + अक्षरम्"
+      },
+      {
+        "word_sanskrit": "वेदयते",
+        "word_english": "knows / realizes (that imperishable)",
+        "grammar_role": "√विद् · लट्·प्रथमपुरुष·एक·आत्मनेपद",
+        "root": "वेदयते"
+      },
+      {
+        "word_sanskrit": "यस्तु",
+        "word_english": "but whoever (knows)",
+        "grammar_role": "यद् · प्रथमा·एक·पुं + अव्यय (तु, but/indeed)",
+        "root": "यः + तु"
+      },
+      {
+        "word_sanskrit": "सोम्य",
+        "word_english": "O gentle one (of fair aspect, प्रियदर्शन)",
+        "grammar_role": "सोम्य · सम्बोधन·एक·पुं",
+        "root": "सोम्य"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (that knower)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "सर्वज्ञः",
+        "word_english": "omniscient, all-knowing",
+        "grammar_role": "सर्वज्ञ · प्रथमा·एक·पुं",
+        "root": "सर्व-ज्ञः"
+      },
+      {
+        "word_sanskrit": "सर्वमेवाविवेशेति",
+        "word_english": "has entered into all — thus",
+        "grammar_role": "सर्व · द्वितीया·एक·नपुं + अव्यय (एव) + √विश् (आ) · लिट्·प्रथमपुरुष·एक·परस्मैपद + अव्यय (इति)",
+        "root": "सर्वम् + एव + आविवेश + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "11. Who knows, good-looking youth ! the undecaying \u00c2tman in whom the knowing self with all the devas, the Pranas, and the five elements are centred. He, the omniscient, enters, indeed, into all."
+        "text": "11. Who knows, good-looking youth ! the undecaying Âtman in whom the knowing self with all the devas, the Pranas, and the five elements are centred. He, the omniscient, enters, indeed, into all."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u092e\u093e, \u0938\u0939 \u0926\u0947\u0935\u0948\u0936\u094d\u091a \u0905\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u093f\u092d\u093f\u0903 \u092a\u094d\u0930\u093e\u0923\u093e\u0903 \u091a\u0915\u094d\u0937\u0941\u0930\u093e\u0926\u092f\u0903 \u092d\u0942\u0924\u093e\u0928\u093f \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u0926\u0940\u0928\u093f \u0938\u092e\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0928\u094d\u0924\u093f \u092a\u094d\u0930\u0935\u093f\u0936\u0928\u094d\u0924\u093f \u092f\u0924\u094d\u0930 \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0915\u094d\u0937\u0930\u0947, \u0924\u0924\u094d \u0905\u0915\u094d\u0937\u0930\u0902 \u0935\u0947\u0926\u092f\u0924\u0947 \u092f\u0938\u094d\u0924\u0941 \u0939\u0947 \u0938\u094b\u092e\u094d\u092f \u092a\u094d\u0930\u093f\u092f\u0926\u0930\u094d\u0936\u0928, \u0938 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0903 \u0938\u0930\u094d\u0935\u092e\u0947\u0935 \u0906\u0935\u093f\u0935\u0947\u0936 \u0906\u0935\u093f\u0936\u0924\u0940\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Who knows good-looking youth! the undecaying \u00c2tman, into which the knowing self with alt the Devas, such as fire and the rest, the Pranas, i.e., the eye and the rest and the Bhutas, such as the earth, etc., enter; he being omniscient enters, indeed, into all.\n\u2014\u2014\u2014\n\u0965 \u0907\u0924\u093f \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u091a\u0924\u0941\u0930\u094d\u0925\u0903 \u092a\u094d\u0930\u0936\u094d\u0928\u0903 \u0965\n|| iti pra\u015bnopani\u1e63adi caturtha\u1e25 pra\u015bna\u1e25 ||\nHere ends the Fourth Prasna.\n\u2014\u2014\u2014"
+        "text": "विज्ञानात्मा, सह देवैश्च अग्न्यादिभिः प्राणाः चक्षुरादयः भूतानि पृथिव्यादीनि सम्प्रतिष्ठन्ति प्रविशन्ति यत्र यस्मिन्नक्षरे, तत् अक्षरं वेदयते यस्तु हे सोम्य प्रियदर्शन, स सर्वज्ञः सर्वमेव आविवेश आविशतीत्यर्थः ॥"
       }
     ],
     "commentary_faqs": []

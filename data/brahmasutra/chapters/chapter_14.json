@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "brahmasutra_14_1",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 1,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.1",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "वाङ्मनसि दर्शनाच्छब्दाच्च ॥ १ ॥",
+    "transliteration": "vāṅmanasi darśanācchabdācca || 1 ||",
+    "translation": "the function of speech (merges) into the mind — because it is observed and because of scripture",
+    "word_by_word": [
+      {
+        "word_sanskrit": "वाङ्मनसि",
+        "word_english": "the function of speech (merges) into the mind",
+        "grammar_role": "वाच् · प्रथमा·एक·स्त्री (कर्तृ; वृत्तिः विवक्षिता) + मनस् · सप्तमी·एक·नपुं (अधिकरण)",
+        "root": "वाक् + मनसि"
+      },
+      {
+        "word_sanskrit": "दर्शनाच्छब्दाच्च",
+        "word_english": "because it is observed and because of scripture",
+        "grammar_role": "दर्शन · पञ्चमी·एक·नपुं (हेतौ) + शब्द · पञ्चमी·एक·पुं (हेतौ) + च · अव्यय (समुच्चये)",
+        "root": "दर्शनात् + शब्दात् + च"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "the function of speech (merges) into the mind — because it is observed and because of scripture"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "【पादपीठा / उपोद्घातः】\nअथ अपरासु विद्यासु फलप्राप्तये देवयानं पन्थानमवतारयिष्यन् प्रथमं तावत् यथाशास्त्रमुत्क्रान्तिक्रममन्वाचष्टे । समाना हि विद्वदविदुषोरुत्क्रान्तिरिति वक्ष्यति —\n\nअस्ति प्रायणविषया श्रुतिः — ‘अस्य सोम्य पुरुषस्य प्रयतो वाङ्मनसि सम्पद्यते मनः प्राणे प्राणस्तेजसि तेजः परस्यां देवतायाम्’ (छा. उ. ६ । ८ । ६) इति । किमिह वाच एव वृत्तिमत्त्या मनसि सम्पत्तिरुच्यते, उत वाग्वृत्तेरिति विशयः । तत्र वागेव तावत् मनसि सम्पद्यत इति प्राप्तम् । तथा हि श्रुतिरनुगृहीता भवति । इतरथा लक्षणा स्यात् । श्रुतिलक्षणाविशये च श्रुतिर्न्याय्या, न लक्षणा । तस्मात् वाच एव अयं मनसि प्रलय इति ॥\n\nएवं प्राप्ते, ब्रूमः — वाग्वृत्तिर्मनसि सम्पद्यत इति । कथं वाग्वृत्तिरिति व्याख्यायते, यावता ‘वाङ्मनसि’ इत्येव आचार्यः पठति? सत्यमेतत्; पठिष्यति तु परस्तात् — ‘अविभागो वचनात्’ (ब्र. सू. ४ । २ । १६) इति । तस्मादत्र वृत्त्युपशममात्रं विवक्षितमिति गम्यते । तत्त्वप्रलयविवक्षायां तु सर्वत्रैव अविभागसाम्यात् किं परत्रैव विशिंष्यात् — ‘अविभागः’ इति । तस्मादत्र वृत्त्युपसंहारविवक्षा । वाग्वृत्तिः पूर्वमुपसंह्रियते मनोवृत्ताववस्थितायामित्यर्थः । कस्मात्? दर्शनात् — दृश्यते हि वाग्वृत्तेः पूर्वोपसंहारो मनोवृत्तौ विद्यमानायाम् । न तु वाच एव वृत्तिमत्त्या मनस्युपसंहारः केनचिदपि द्रष्टुं शक्यते । ननु श्रुतिसामर्थ्यात् वाच एवायं मनस्यप्ययो युक्त इत्युक्तम् — नेत्याह, अतत्प्रकृतित्वात् । यस्य हि यत उत्पत्तिः, तस्य तत्र प्रलयो न्याय्यः, मृदीव शरावस्य । न च मनसो वागुत्पद्यत इति किञ्चन प्रमाणमस्ति । वृत्त्युद्भवाभिभवौ तु अप्रकृतिसमाश्रयावपि दृश्येते । पार्थिवेभ्यो हि इन्धनेभ्यः तैजसस्याग्नेर्वृत्तिरुद्भवति, अप्सु च उपशाम्यति । कथं तर्हि अस्मिन्पक्षे शब्दः ‘वाङ्मनसि सम्पद्यते’ इति? अत आह — शब्दाच्चेति । शब्दोऽप्यस्मिन्पक्षेऽवकल्पते, वृत्तिवृत्तिमतोरभेदोपचारादित्यर्थः ॥ १ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_2",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 2,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.2",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "अत एव च सर्वाण्यनु ॥ २ ॥",
+    "transliteration": "ata eva ca sarvāṇyanu || 2 ||",
+    "translation": "hence, for this very reason — very, precisely (emphatic) — and — all (the sense-organs) follow (the mind)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अत",
+        "word_english": "hence, for this very reason",
+        "grammar_role": "अतस् · अव्यय (पञ्चम्यर्थे; हेतौ)",
+        "root": "अतस्"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "very, precisely (emphatic)",
+        "grammar_role": "एव · अव्यय (अवधारणे)",
+        "root": "एव"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च · अव्यय (समुच्चये)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "सर्वाण्यनु",
+        "word_english": "all (the sense-organs) follow (the mind)",
+        "grammar_role": "सर्व · प्रथमा·बहु·नपुं + अनु · अव्यय (अनुवर्तने; गम्योपसर्गः)",
+        "root": "सर्वाणि + अनु"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "hence, for this very reason — very, precisely (emphatic) — and — all (the sense-organs) follow (the mind)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "‘तस्मादुपशान्ततेजाः पुनर्भवमिन्द्रियैर्मनसि सम्पद्यमानैः’ (प्र. उ. ३ । ९) इत्यत्र अविशेषेण सर्वेषामेवेन्द्रियाणां मनसि सम्पत्तिः श्रूयते । तत्रापि अत एव वाच इव चक्षुरादीनामपि सवृत्तिके मनस्यवस्थिते वृत्तिलोपदर्शनात् तत्त्वप्रलयासम्भवात् शब्दोपपत्तेश्च वृत्तिद्वारेणैव सर्वाणीन्द्रियाणि मनोऽनुवर्तन्ते । सर्वेषां करणानां मनस्युपसंहाराविशेषे सति वाचः पृथग्ग्रहणम् ‘वाङ्मनसि सम्पद्यते’ इत्युदाहरणानुरोधेन ॥ २ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_3",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 3,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.3",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "तन्मनः प्राण उत्तरात् ॥ ३ ॥",
+    "transliteration": "tanmanaḥ prāṇa uttarāt || 3 ||",
+    "translation": "that mind — (merges) into the vital breath — from the latter statement",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तन्मनः",
+        "word_english": "that mind",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + मनस् · प्रथमा·एक·नपुं",
+        "root": "तत् + मनः"
+      },
+      {
+        "word_sanskrit": "प्राण",
+        "word_english": "(merges) into the vital breath",
+        "grammar_role": "प्राण · सप्तमी·एक·पुं",
+        "root": "प्राणे"
+      },
+      {
+        "word_sanskrit": "उत्तरात्",
+        "word_english": "from the latter statement",
+        "grammar_role": "उत्तर · पञ्चमी·एक·नपुं (उत्तराद् वाक्यात्)",
+        "root": "उत्तरात्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "that mind — (merges) into the vital breath — from the latter statement"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "समधिगतमेतत् — ‘वाङ्मनसि सम्पद्यते’ (छा. उ. ६ । ८ । ६) इत्यत्र वृत्तिसम्पत्तिविवक्षेति । अथ यदुत्तरं वाक्यम् ‘मनः प्राणे’ (छा. उ. ६ । ८ । ६) इति, किमत्रापि वृत्तिसम्पत्तिरेव विवक्ष्यते, उत वृत्तिमत्सम्पत्तिः — इति विचिकित्सायाम्, वृत्तिमत्सम्पत्तिरेव अत्र इति प्राप्तम्, श्रुत्यनुग्रहात् । तत्प्रकृतित्वोपपत्तेश्च । तथा हि — ‘अन्नमयꣳ हि सोम्य मन आपोमयः प्राणः’ (छा. उ. ६ । ५ । ४) इत्यन्नयोनि मन आमनन्ति, अब्योनिं च प्राणम् । ‘आपश्चान्नमसृजन्त’ — इति श्रुतिः । अतश्च यन्मनः प्राणे प्रलीयते, अन्नमेव तदप्सु प्रलीयते । अन्नं हि मनः, आपश्च प्राणः, प्रकृतिविकाराभेदादिति । एवं प्राप्ते, ब्रूमः — तदपि आगृहीतबाह्येन्द्रियवृत्ति मनो वृत्तिद्वारेणैव प्राणे प्रलीयत इति उत्तराद्वाक्यादवगन्तव्यम् । तथा हि सुषुप्सोर्मुमूर्षोश्च प्राणवृत्तौ परिस्पन्दात्मिकायामवस्थितायाम्, मनोवृत्तीनामुपशमो दृश्यते । न च मनसः स्वरूपाप्ययः प्राणे सम्भवति; अतत्प्रकृतित्वात् । ननु दर्शितं मनसः प्राणप्रकृतिकत्वम् — नैतत्सारम् । न हि ईदृशेन प्राणाडिकेन तत्प्रकृतित्वेन मनः प्राणे सम्पत्तुमर्हति । एवमपि हि अन्ने मनः सम्पद्येत, अप्सु चान्नम्, अप्स्वेव च प्राणः । न ह्येतस्मिन्नपि पक्षे प्राणभावपरिणताभ्योऽद्भ्यो मनो जायत इति किञ्चन प्रमाणमस्ति । तस्मात् न मनसः प्राणे स्वरूपाप्ययः । वृत्त्यप्ययेऽपि तु शब्दोऽवकल्पते, वृत्तिवृत्तिमतोरभेदोपचारात् इति दर्शितम् ॥ ३ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_4",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 4,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.4",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "सोऽध्यक्षे तदुपगमादिभ्यः ॥ ४ ॥",
+    "transliteration": "so'dhyakṣe tadupagamādibhyaḥ || 4 ||",
+    "translation": "that (prāṇa) abides in the overseer (vijñānātman) — because of (prāṇas') approaching that overseer, and such reasons",
+    "word_by_word": [
+      {
+        "word_sanskrit": "सोऽध्यक्षे",
+        "word_english": "that (prāṇa) abides in the overseer (vijñānātman)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं (सः) + अध्यक्ष · सप्तमी·एक·पुं (अध्यक्षे)",
+        "root": "सः + अध्यक्षे"
+      },
+      {
+        "word_sanskrit": "तदुपगमादिभ्यः",
+        "word_english": "because of (prāṇas') approaching that overseer, and such reasons",
+        "grammar_role": "तद्-उपगम-आदि · पञ्चमी·बहु·पुं (हेतौ)",
+        "root": "तद्-उपगम-आदिभ्यः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "that (prāṇa) abides in the overseer (vijñānātman) — because of (prāṇas') approaching that overseer, and such reasons"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "स्थितमे तत् — यस्य यतो नोत्पत्तिः, तस्य तस्मिन्वृत्तिप्रलयः, न स्वरूपप्रलय इति । इदमिदानीम् ‘प्राणस्तेजसि’ इत्यत्र चिन्त्यते — किं यथाश्रुति प्राणस्य तेजस्येव वृत्त्युपसंहारः, किं वा देहेन्द्रियपञ्जराध्यक्षे जीव इति । तत्र श्रुतेरनतिशङ्क्यत्वात् प्राणस्य तेजस्येव सम्पत्तिः स्यात्, अश्रुतकल्पनाया अन्याय्यत्वात् — इत्येवं प्राप्ते प्रतिपद्यते सोऽध्यक्ष इति । स प्रकृतः प्राणः, अध्यक्षे अविद्याकर्मपूर्वप्रज्ञोपाधिके विज्ञानात्मनि अवतिष्ठते; तत्प्रधाना प्राणवृत्तिर्भवतीत्यर्थः । कुतः? तदुपगमादिभ्यः — ‘एवमेवेममात्मानमन्तकाले सर्वे प्राणा अभिसमायन्ति यत्रैतदूर्ध्वोच्छ्वासी भवति’ इति हि श्रुत्यन्तरम् अध्यक्षोपगामिनः सर्वान्प्राणान् अविशेषेण दर्शयति । विशेषेण च ‘तमुत्क्रामन्तं प्राणोऽनूत्क्रामति’ (बृ. उ. ४ । ४ । २) इति पञ्चवृत्तेः प्राणस्य अध्यक्षानुगामितां दर्शयति, तदनुवृत्तितां च इतरेषाम् ‘प्राणमनूत्क्रामन्तꣳ सर्वे प्राणा अनूत्क्रामन्ति’ (बृ. उ. ४ । ४ । २) इति । ‘सविज्ञानो भवति’ इति च अध्यक्षस्य अन्तर्विज्ञानवत्त्वप्रदर्शनेन तस्मिन् अपीतकरणग्रामस्य प्राणस्य अवस्थानं गमयति । ननु ‘प्राणस्तेजसि’ इति श्रूयते; कथं प्राणोऽध्यक्षे इत्यधिकावापः क्रियते? नैष दोषः, अध्यक्षप्रधानत्वादुत्क्रमणादिव्यवहारस्य, श्रुत्यन्तरगतस्यापि च विशेषस्यापेक्षणीयत्वात् ॥ ४ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_5",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 5,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.5",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "भूतेषु तच्छ्रुतेः ॥ ५ ॥",
+    "transliteration": "bhūteṣu tacchruteḥ || 5 ||",
+    "translation": "in the (subtle, tejas-accompanied) elements — because of the śruti to that effect",
+    "word_by_word": [
+      {
+        "word_sanskrit": "भूतेषु",
+        "word_english": "in the (subtle, tejas-accompanied) elements",
+        "grammar_role": "भूत · सप्तमी·बहु·नपुं",
+        "root": "भूतेषु"
+      },
+      {
+        "word_sanskrit": "तच्छ्रुतेः",
+        "word_english": "because of the śruti to that effect",
+        "grammar_role": "तत्-श्रुति · पञ्चमी·एक·स्त्री (षष्ठीतत्पुरुष: तस्याः श्रुतेः; हेतौ)",
+        "root": "तत्-श्रुतेः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "in the (subtle, tejas-accompanied) elements — because of the śruti to that effect"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "【अवतरणिका】\nकथं तर्हि ‘प्राणस्तेजसि’ इति श्रुतिरित्यत आह —\n\nस प्राणसम्पृक्तोऽध्यक्षः तेजःसहचरितेषु भूतेषु देहबीजभूतेषु सूक्ष्मेषु अवतिष्ठत इत्यवगन्तव्यम्, ‘प्राणस्तेजसि’ इति श्रुतेः । ननु च इयं श्रुतिः प्राणस्य तेजसि स्थितिं दर्शयति, न प्राणसम्पृक्तस्याध्यक्षस्य — नैष दोषः, सोऽध्यक्षे — इति अध्यक्षस्याप्यन्तराल उपसंख्यातत्वात् । योऽपि हि स्रुघ्नान्मथुरां गत्वा मथुरायाः पाटलिपुत्रं व्रजति, सोऽपि स्रुघ्नात्पाटलिपुत्रं यातीति शक्यते वदितुम् । तस्मात् ‘प्राणस्तेजसि’ इति प्राणसम्पृक्तस्याध्यक्षस्यैव एतत् तेजःसहचरितेषु भूतेष्ववस्थानम् ॥ ५ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_6",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 6,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.6",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "नैकस्मिन्दर्शयतो हि ॥ ६ ॥",
+    "transliteration": "naikasmindarśayato hi || 6 ||",
+    "translation": "Not in one (tejas) alone; the two (śruti-smṛti) show this — for; indeed (giving the reason)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "नैकस्मिन्दर्शयतो",
+        "word_english": "Not in one (tejas) alone; the two (śruti-smṛti) show this",
+        "grammar_role": "न (अव्यय, निषेध) + एक · सप्तमी·एकवचन·नपुं (तेजसि-विशेषणम्) + √दृश् (णिच्) · लट्·प्रथमपुरुष·द्विवचन·परस्मैपद (दर्शयतः = श्रुतिस्मृती कर्तृ)",
+        "root": "न + एकस्मिन् + दर्शयतः"
+      },
+      {
+        "word_sanskrit": "हि",
+        "word_english": "for; indeed (giving the reason)",
+        "grammar_role": "हि · अव्यय (हेत्वर्थे)",
+        "root": "हि"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "Not in one (tejas) alone; the two (śruti-smṛti) show this — for; indeed (giving the reason)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "【अवतरणिका】\nकथं तेजःसहचरितेषु भूतेष्वित्युच्यते, यावता एकमेव तेजः श्रूयते — ‘प्राणस्तेजसि’ इति? अत आह —\n\nन एकस्मिन्नेव तेजसि शरीरान्तरप्रेप्सावेलायां जीवोऽवतिष्ठते, कार्यस्य शरीरस्यानेकात्मकत्वदर्शनात् । दर्शयतश्च एतमर्थं प्रश्नप्रतिवचने ‘आपः पुरुषवचसः’ (छा. उ. ५ । ३ । ३) इति । तद्व्याख्यातम् ‘त्र्यात्मकत्वात्तु भूयस्त्वात्’ (ब्र. सू. ३ । १ । २) इत्यत्र । श्रुतिस्मृती च एतमर्थं दर्शयतः । श्रुतिः — ‘पृथिवीमय आपोमयो वायुमय आकाशमयस्तेजोमयः’ इत्याद्या; स्मृतिरपि — ‘अण्व्यो मात्राऽविनाशिन्यो दशार्धानां तु याः स्मृताः । ताभिः सार्धमिदं सर्वं सम्भवत्यनुपूर्वशः’ (म. स्मृ. १ । २७) इत्याद्या । ननु च उपसंहृतेषु वागादिषु करणेषु शरीरान्तरप्रेप्सावेलायाम् ‘क्वायं तदा पुरुषो भवति’ (बृ. उ. ३ । २ । १३) इत्युपक्रम्य श्रुत्यन्तरं कर्माश्रयतां निरूपयति — ‘तौ ह यदूचतुः कर्म हैव तदूचतुरथ ह यत्प्रशशꣳसतुः कर्म हैव तत्प्रशशꣳसतुः’ (बृ. उ. ३ । २ । १३) इति । अत्रोच्यते — तत्र कर्मप्रयुक्तस्य ग्रहातिग्रहसंज्ञकस्य इन्द्रियविषयात्मकस्य बन्धनस्य प्रवृत्तिरिति कर्माश्रयतोक्ता । इह पुनः भूतोपादानाद्देहान्तरोत्पत्तिरिति भूताश्रयत्वमुक्तम् । प्रशंसाशब्दादपि तत्र प्राधान्यमात्रं कर्मणः प्रदर्शितम्, न त्वाश्रयान्तरं निवारितम् । तस्मादविरोधः ॥ ६ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_7",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 7,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.7",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "समाना चासृत्युपक्रमादमृतत्वं चानुपोष्य ॥ ७ ॥",
+    "transliteration": "samānā cāsṛtyupakramādamṛtatvaṃ cānupoṣya || 7 ||",
+    "translation": "identical (departure same for knower and non-knower) — and up to the start of the path; and immortality — and without having burnt away (the body/bonds)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "समाना",
+        "word_english": "identical (departure same for knower and non-knower)",
+        "grammar_role": "समान · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "समाना"
+      },
+      {
+        "word_sanskrit": "चासृत्युपक्रमादमृतत्वं",
+        "word_english": "and up to the start of the path; and immortality",
+        "grammar_role": "च · अव्यय (समुच्चय) + आ · अव्यय (मर्यादायाम्, 'up to') + सृति-उपक्रम · पञ्चमी·एकवचन·पुंलिङ्ग + अमृतत्व · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "च + आ + सृति-उपक्रमात् + अमृतत्वम्"
+      },
+      {
+        "word_sanskrit": "चानुपोष्य",
+        "word_english": "and without having burnt away (the body/bonds)",
+        "grammar_role": "च · अव्यय (समुच्चय) + अनुपोष्य · अव्यय (नञ्-पूर्वक ल्यबन्त, न उप-√उष्)",
+        "root": "च + अनुपोष्य"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "identical (departure same for knower and non-knower) — and up to the start of the path; and immortality — and without having burnt away (the body/bonds)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "सेयमु त्क्रान्तिः किं विद्वदविदुषोः समाना, किं वा विशेषवती — इति विशयानानां विशेषवतीति तावत्प्राप्तम् । भूताश्रयविशिष्टा ह्येषा । पुनर्भवाय च भूतान्याश्रीयन्ते । न च विदुषः पुनर्भवः सम्भवति; अमृतत्वं हि विद्वानश्नुते — इति स्थितिः । तस्मादविदुष एव एषा उत्क्रान्तिः । ननु विद्या प्रकरणे समाम्नानात् विदुष एव एषा भवेत् — न, स्वापादिवत् यथाप्राप्तानुकीर्तनात् । यथा हि ‘यत्रैतत्पुरुषः स्वपिति नाम’ (छा. उ. ६ । ८ । १), ‘अशिशिषति नाम’ (छा. उ. ६ । ८ । ३), ‘पिपासति नाम’ (छा. उ. ६ । ८ । ५) इति च सर्वप्राणिसाधारणा एव स्वापादयोऽनुकीर्त्यन्ते विद्याप्रकरणेऽपि प्रतिपिपादयिषितवस्तुप्रतिपादनानुगुण्येन, न तु विदुषो विशेषवन्तो विधित्स्यन्ते; एवम् इयमपि उत्क्रान्तिः महाजनगतैवानुकीर्त्यते, यस्यां परस्यां देवतायां पुरुषस्य प्रयतः तेजः सम्पद्यते स आत्मा तत्त्वमसि — इत्येतत्प्रतिपादयितुम् । प्रतिषिद्धा च एषा विदुषः — ‘न तस्य प्राणा उत्क्रामन्ति’ (बृ. उ. ४ । ४ । ६) इति । तस्मात् अविदुष एवैषेति ॥\n\nएवं प्राप्ते, ब्रूमः — समाना चैषा उत्क्रान्तिः ‘वाङ्मनसि’ इत्याद्या विद्वदविदुषोः आसृत्युपक्रमात् भवितुमर्हति, अविशेषश्रवणात् । अविद्वान् देहबीजभूतानि भूतसूक्ष्माण्याश्रित्य कर्मप्रयुक्तो देहग्रहणमनुभवितुं संसरति, विद्वांस्तु ज्ञानप्रकाशितं मोक्षनाडीद्वारमाश्रयते — तदेतत् ‘आसृत्युपक्रमात्’ इत्युक्तम् । ननु अमृतत्वं विदुषा प्राप्तव्यम्, न च तद्देशान्तरायत्तम्, तत्र कुतो भूताश्रयत्वं सृत्युपक्रमो वेति? अत्रोच्यते — अनुपोष्य च, इदम्, अदग्ध्वा अत्यन्तमविद्यादीन्क्लेशान्, अपरविद्यासामर्थ्यात् आपेक्षिकममृतत्वं प्रेप्सते, सम्भवति तत्र सृत्युपक्रमः भूताश्रयत्वं च — न हि निराश्रयाणां प्राणानां गतिरुपपद्यते; तस्माददोषः ॥ ७ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_8",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 8,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.8",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "तदाऽपीतेः संसारव्यपदेशात् ॥ ८ ॥",
+    "transliteration": "tadā'pīteḥ saṃsāravyapadeśāt || 8 ||",
+    "translation": "That (subtle element) abides until dissolution/liberation from saṃsāra — because of the scriptural designation of transmigration",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदाऽपीतेः",
+        "word_english": "That (subtle element) abides until dissolution/liberation from saṃsāra",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं (तत् तेजः ‘भूतसूक्ष्मम्’) + आपीति · पञ्चमी·एक·स्त्री (आ ‘यावत्’ + √पा/प्यै ‘प्रलयः, अविभागापत्तिः’; भाष्ये ‘आसंसारमोक्षात्’)",
+        "root": "तत् + आपीतेः"
+      },
+      {
+        "word_sanskrit": "संसारव्यपदेशात्",
+        "word_english": "because of the scriptural designation of transmigration",
+        "grammar_role": "संसार-व्यपदेश · पञ्चमी·एक·पुं (षष्ठीतत्पुरुष)",
+        "root": "संसार-व्यपदेशात्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "That (subtle element) abides until dissolution/liberation from saṃsāra — because of the scriptural designation of transmigration"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "‘तेजः परस्यां देवतायाम्’ (छा. उ. ६ । ८ । ६) इत्यत्र प्रकरणसामर्थ्यात् तत् यथाप्रकृतं तेजः साध्यक्षं सप्राणं सकरणग्रामं भूतान्तरसहितं प्रयतः पुंसः परस्यां देवतायां सम्पद्यत इत्येतदुक्तं भवति । कीदृशी पुनरियं सम्पत्तिः स्यादिति चिन्त्यते । तत्र आत्यन्तिक एव तावत् स्वरूपप्रविलय इति प्राप्तम्, तत्प्रकृतित्वोपपत्तेः । सर्वस्य हि जनिमतो वस्तुजातस्य प्रकृतिः परा देवतेति प्रतिष्ठापितम् । तस्मात् आत्यन्तिकी इयमविभागापत्तिरिति । एवं प्राप्ते ब्रूमः — तत् तेजआदि भूतसूक्ष्मं श्रोत्रादिकरणाश्रयभूतम् आपीतेः आसंसारमोक्षात् सम्यग्ज्ञाननिमित्तात् अवतिष्ठते — ‘योनिमन्ये प्रपद्यन्ते शरीरत्वाय देहिनः । स्थाणुमन्येऽनुसंयन्ति यथाकर्म यथाश्रुतम्’ (क. उ. २ । २ । ७) इत्यादिसंसारव्यपदेशात् । अन्यथा हि सर्वः प्रायणसमय एव उपाधिप्रत्यस्तमयादत्यन्तं ब्रह्म सम्पद्येत, तत्र विधिशास्त्रमनर्थकं स्यात्, विद्याशास्त्रं च । मिथ्याज्ञाननिमित्तश्च बन्धो न सम्यग्ज्ञानादृते विस्रंसितुमर्हति । तस्मात् तत्प्रकृतित्वेऽपि सुषुप्तप्रलयवत् बीजभावावशेषैव एषा सत्सम्पत्तिरिति ॥ ८ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_9",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 9,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.9",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "सूक्ष्मं प्रमाणतश्च तथोपलब्धेः ॥ ९ ॥",
+    "transliteration": "sūkṣmaṃ pramāṇataśca tathopalabdheḥ || 9 ||",
+    "translation": "subtle (qualifying tejas), in nature and in measure — and in respect of measure/dimension — because it is so perceived (apprehended thus)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "सूक्ष्मं",
+        "word_english": "subtle (qualifying tejas), in nature and in measure",
+        "grammar_role": "सूक्ष्म · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "सूक्ष्मम्"
+      },
+      {
+        "word_sanskrit": "प्रमाणतश्च",
+        "word_english": "and in respect of measure/dimension",
+        "grammar_role": "प्रमाण · अव्यय (तसिल्, पञ्चम्यर्थे 'by measure') + च · अव्यय (समुच्चये)",
+        "root": "प्रमाणतः + च"
+      },
+      {
+        "word_sanskrit": "तथोपलब्धेः",
+        "word_english": "because it is so perceived (apprehended thus)",
+        "grammar_role": "तथा · अव्यय + उपलब्धि · पञ्चमी·एकवचन·स्त्रीलिङ्ग (हेतौ)",
+        "root": "तथा + उपलब्धेः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "subtle (qualifying tejas), in nature and in measure — and in respect of measure/dimension — because it is so perceived (apprehended thus)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "तच्च इतरभूतसहितं तेजो जीवस्य अस्माच्छरीरात्प्रवसत आश्रयभूतं स्वरूपतः परिमाणतश्च सूक्ष्मं भवितुमर्हति । तथा हि नाडीनिष्क्रमणश्रवणादिभ्योऽस्य सौक्ष्म्यमुपलभ्यते । तत्र तनुत्वात्सञ्चारोपपत्तिः; स्वच्छत्वाच्च अप्रतीघातोपपत्तिः । अत एव च देहान्निर्गच्छन् पार्श्वस्थैर्नोपलभ्यते ॥ ९ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_10",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 10,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.10",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "नोपमर्देनातः ॥ १० ॥",
+    "transliteration": "nopamardenātaḥ || 10 ||",
+    "translation": "Not (destroyed) by (gross body's) destruction; hence, due to subtlety",
+    "word_by_word": [
+      {
+        "word_sanskrit": "नोपमर्देनातः",
+        "word_english": "Not (destroyed) by (gross body's) destruction; hence, due to subtlety",
+        "grammar_role": "न · अव्यय (निषेध) + उपमर्द · तृतीया·एकवचन·पुंलिङ्ग + अतः · अव्यय (तसिल्/हेत्वर्थे)",
+        "root": "न + उपमर्देन + अतः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "Not (destroyed) by (gross body's) destruction; hence, due to subtlety"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अत एव च सूक्ष्मत्वात् नास्य स्थूलस्य शरीरस्योपमर्देन दाहादिनिमित्तेन इतरत्सूक्ष्मं शरीरमुपमृद्यते ॥ १० ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_11",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 11,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.11",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "अस्यैव चोपपत्तेरेष ऊष्मा ॥ ११ ॥",
+    "transliteration": "asyaiva copapattereṣa ūṣmā || 11 ||",
+    "translation": "of this very (subtle body) — and, because it is fitting (so), this — heat (belonging to the subtle body)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अस्यैव",
+        "word_english": "of this very (subtle body)",
+        "grammar_role": "इदम् · षष्ठी·एकवचन·नपुंसकलिङ्ग + अव्यय (अवधारणे)",
+        "root": "अस्य + एव"
+      },
+      {
+        "word_sanskrit": "चोपपत्तेरेष",
+        "word_english": "and, because it is fitting (so), this",
+        "grammar_role": "अव्यय (समुच्चये) + उपपत्ति · पञ्चमी·एकवचन·स्त्रीलिङ्ग + एतद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "च + उपपत्तेः + एषः"
+      },
+      {
+        "word_sanskrit": "ऊष्मा",
+        "word_english": "heat (belonging to the subtle body)",
+        "grammar_role": "ऊष्मन् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "ऊष्मा"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "of this very (subtle body) — and, because it is fitting (so), this — heat (belonging to the subtle body)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अस्यैव च सूक्ष्मस्य शरीरस्य एष ऊष्मा, यमेतस्मिञ्च्छरीरे संस्पर्शेनोष्माणं विजानन्ति । तथा हि मृतावस्थायाम् अवस्थितेऽपि देहे विद्यमानेष्वपि च रूपादिषु देहगुणेषु, न ऊष्मा उपलभ्यते, जीवदवस्थायामेव तु उपलभ्यते — इत्यत उपपद्यते\n\nप्रसिद्धशरीरव्यतिरिक्तव्यपाश्रय एव एष ऊष्मेति । तथा च श्रुतिः — ‘उष्ण एव जीविष्यञ्शीतो मरिष्यन्’ इति ॥ ११ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_12",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 12,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.12",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "प्रतिषेधादिति चेन्न शारीरात् ॥ १२ ॥",
+    "transliteration": "pratiṣedhāditi cenna śārīrāt || 12 ||",
+    "translation": "because of the prohibition (of departure) — thus (objects the opponent) — if (so objected) — no (it is refuted) — from the embodied self (jīva), not from the body",
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्रतिषेधादिति",
+        "word_english": "because of the prohibition (of departure) — thus (objects the opponent)",
+        "grammar_role": "प्रतिषेध · पञ्चमी·एकवचन·पुंलिङ्ग + इति (अव्यय, उद्धरणार्थक)",
+        "root": "प्रतिषेधात् + इति"
+      },
+      {
+        "word_sanskrit": "चेन्न",
+        "word_english": "if (so objected) — no (it is refuted)",
+        "grammar_role": "चेत् (अव्यय, शर्तार्थक) + न (अव्यय, निषेधार्थक)",
+        "root": "चेत् + न"
+      },
+      {
+        "word_sanskrit": "शारीरात्",
+        "word_english": "from the embodied self (jīva), not from the body",
+        "grammar_role": "शारीर · पञ्चमी·एकवचन·पुंलिङ्ग (= शारीरादात्मनः, जीवात्)",
+        "root": "शारीरात्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "because of the prohibition (of departure) — thus (objects the opponent) — if (so objected) — no (it is refuted) — from the embodied self (jīva), not from the body"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "‘अमृतत्वं चानुपोष्य’ इत्यतो विशेषणात् आत्यन्तिकेऽमृतत्वे गत्युत्क्रान्त्योरभावोऽभ्युपगतः । तत्रापि केनचित्कारणेन उत्क्रान्तिमाशङ्क्य प्रतिषेधति — ‘अथाकामयमानो योऽकामो निष्काम आप्तकाम आत्मकामो भवति न तस्य प्राणा उत्क्रामन्ति ब्रह्मैव सन्ब्रह्माप्येति’ (बृ. उ. ४ । ४ । ६) इति । अतः परविद्याविषयात्प्रतिषेधात् न परब्रह्मविदो देहात् प्राणानामुत्क्रान्तिरस्तीति चेत्, ने त्युच्यते, यतः शारीरादात्मन एष उत्क्रान्तिप्रतिषेधः प्राणानाम्, न शरीरात् । कथमवगम्यते? ‘न तस्मात्प्राणा उत्क्रामन्ति’ इति शाखान्तरे पञ्चमीप्रयोगात् । सम्बन्धसामान्यविषया हि षष्ठी शाखान्तरगतया पञ्चम्या सम्बन्धविशेषे व्यवस्थाप्यते । ‘तस्मात्’ इति च प्राधान्यात् अभ्युदयनिःश्रेयसाधिकृतो देही सम्बध्यते, न देहः । न तस्मादुच्चिक्रमिषोर्जीवात् प्राणा अपक्रामन्ति, सहैव तेन भवन्ति — इत्यर्थः । सप्राणस्य च प्रवसतो भवत्युत्क्रान्तिर्देहादिति ॥ १२ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_13",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 13,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.13",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "स्पष्टो ह्येकेषाम् ॥ १३ ॥",
+    "transliteration": "spaṣṭo hyekeṣām || 13 ||",
+    "translation": "clear, manifest (the prohibition is plainly perceived) — for, of some (reciters/recensions)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स्पष्टो",
+        "word_english": "clear, manifest (the prohibition is plainly perceived)",
+        "grammar_role": "स्पष्ट · प्रथमा·एक·पुं (adj., प्रतिषेधः-विशेषणम्)",
+        "root": "स्पष्टः"
+      },
+      {
+        "word_sanskrit": "ह्येकेषाम्",
+        "word_english": "for, of some (reciters/recensions)",
+        "grammar_role": "हि · अव्यय (निपात, hetau) + एक · षष्ठी·बहु·पुं (सर्वनाम)",
+        "root": "हि + एकेषाम्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "clear, manifest (the prohibition is plainly perceived) — for, of some (reciters/recensions)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "【अवतरणिका】\nएवं प्राप्ते, प्रत्युच्यते —\n\nनैतदस्ति — यदुक्तम्, परब्रह्मविदोऽपि देहात् अस्त्युत्क्रान्तिः उत्क्रान्तिप्रतिषेधस्य देह्यपादानत्वादिति; यतो देहापादान एव उत्क्रान्तिप्रतिषेध एकेषां समाम्नातॄणां स्पष्ट उपलभ्यते । तथा हि — आर्तभागप्रश्ने ‘यत्रायं पुरुषो म्रियत उदस्मात्प्राणाः क्रामन्त्याहो नेति’ (बृ. उ. ३ । २ । ११) इत्यत्र, ‘नेति होवाच याज्ञवल्क्यः’ (बृ. उ. ३ । २ । ११) इत्यनुत्क्रान्तिपक्षं परिगृह्य, न तर्ह्ययमनुत्क्रान्तेषु प्राणेषु मृतः — इत्यस्यामाशङ्कायाम् ‘अत्रैव समवनीयन्ते’ इति प्रविलयं प्राणानां प्रतिज्ञाय, तत्सिद्धये ‘स उच्छ्वयत्याध्मायत्याध्मातो मृतः शेते’ (बृ. उ. ३ । २ । ११) इति सशब्दपरामृष्टस्य प्रकृतस्य उत्क्रान्त्यवधेः उच्छ्वयनादीनि समामनन्ति । देहस्य च एतानि स्युः न देहिनः; तत्सामान्यात्, ‘न तस्मात्प्राणा उत्क्रामन्त्यत्रैव समवनीयन्ते’ इत्यत्रापि — अभेदोपचारेण देहापादानस्यैव उत्क्रमणस्य प्रतिषेधः — यद्यपि प्राधान्यं देहिनः — इति व्याख्येयम्, येषां पञ्चमीपाठः । येषां तु षष्ठीपाठः, तेषां विद्वत्सम्बन्धिनी उत्क्रान्तिः प्रतिषिध्यत इति, प्राप्तोत्क्रान्तिप्रतिषेधार्थत्वात् अस्य वाक्यस्य, देहापादानैव सा प्रतिषिद्धा भवति, देहादुत्क्रान्तिः प्राप्ता, न देहिनः; अपि च ‘चक्षुष्टो वा मूर्ध्नो वान्येभ्यो वा शरीरदेशेभ्यस्तमुत्क्रामन्तं प्राणोऽनूत्क्रामति प्राणमनूत्क्रामन्तꣳ सर्वे प्राणा अनूत्क्रामन्ति’ (बृ. उ. ४ । ४ । २) इत्येवमविद्वद्विषये सप्रपञ्चमुत्क्रमणं संसारगमनं च दर्शयित्वा, ‘इति नु कामयमानः’ (बृ. उ. ४ । ४ । ६) इति उपसंहृत्य अविद्वत्कथाम्, ‘अथाकामयमानः’ (बृ. उ. ४ । ४ । ६) इति व्यपदिश्य विद्वांसम् — यदि तद्विषयेऽप्युत्क्रान्तिमेव प्रापयेत्, असमञ्जस एव व्यपदेशः स्यात्; तस्मात् अविद्वद्विषये प्राप्तयोर्गत्युत्क्रान्त्योः विद्वद्विषये प्रतिषेधः — इत्येवमेव व्याख्येयम्, व्यपदेशार्थवत्त्वाय । न च ब्रह्मविदः सर्वगतब्रह्मात्मभूतस्य प्रक्षीणकामकर्मणः उत्क्रान्तिः गतिर्वा उपपद्यते, निमित्ताभावात् । ‘अत्र ब्रह्म समश्नुते’ इति च एवंजातीयकाः श्रुतयो गत्युत्क्रान्त्योरभावं सूचयन्ति ॥ १३ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_14",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 14,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.14",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "स्मर्यते च ॥ १४ ॥",
+    "transliteration": "smaryate ca || 14 ||",
+    "translation": "it is also recorded in smṛti (Mahābhārata) — and (likewise)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स्मर्यते",
+        "word_english": "it is also recorded in smṛti (Mahābhārata)",
+        "grammar_role": "√स्मृ · लट्·प्रथमपुरुष·एकवचन·कर्मणि (passive, आत्मनेपद)",
+        "root": "स्मर्यते"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and (likewise)",
+        "grammar_role": "अव्यय (समुच्चयार्थक) — conjunction",
+        "root": "च"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "it is also recorded in smṛti (Mahābhārata) — and (likewise)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "स्मर्यतेऽपि च महाभारते गत्युत्क्रान्त्योरभावः — ‘सर्वभूतात्मभूतस्य सम्यग्भूतानि पश्यतः । देवा अपि मार्गे मुह्यन्त्यपदस्य पदैषिणः’ (म. भा. १२ । २३९ । २३) इति । ननु गतिरपि ब्रह्मविदः सर्वगतब्रह्मात्मभूतस्य स्मर्यते — ‘शुकः किल वैयासकिर्मुमुक्षुरादित्यमण्डलमभिप्रतस्थे पित्रा चानुगम्याहूतो भो इति प्रतिशुश्राव’ इति — न; सशरीरस्यै व अयं योगबलेन विशिष्टदेशप्राप्तिपूर्वकः शरीरोत्सर्ग इति द्रष्टव्यम्, सर्वभूतदृश्यत्वाद्युपन्यासात् । न हि अशरीरं गच्छन्तं सर्वभूतानि द्रष्टुं शक्नुयुः । तथा च तत्रैवोपसंहृतम् — ‘शुकस्तु मारुताच्छीघ्रां गतिं कृत्वान्तरिक्षगः ।’ (म. भा. १२ । ३३३ । १९), ‘दर्शयित्वा प्रभावं स्वं सर्वभूतगतोऽभवत्’ (म. भा. १२ । ३३३ । २०) इति । तस्मादभावः परब्रह्मविदो गत्युत्क्रान्त्योः । गति श्रुतीनां तु विषयमुपरिष्टाद्व्याख्यास्यामः ॥ १४ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_15",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 15,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.15",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "तानि परे तथा ह्याह ॥ १५ ॥",
+    "transliteration": "tāni pare tathā hyāha || 15 ||",
+    "translation": "those (the senses and elements) — in the supreme (Self) — thus, so — for so (the śruti) says",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तानि",
+        "word_english": "those (the senses and elements)",
+        "grammar_role": "तद् · प्रथमा·बहु·नपुं",
+        "root": "तानि"
+      },
+      {
+        "word_sanskrit": "परे",
+        "word_english": "in the supreme (Self)",
+        "grammar_role": "पर · सप्तमी·एक·पुं",
+        "root": "परे"
+      },
+      {
+        "word_sanskrit": "तथा",
+        "word_english": "thus, so",
+        "grammar_role": "अव्यय (क्रियाविशेषण)",
+        "root": "तथा"
+      },
+      {
+        "word_sanskrit": "ह्याह",
+        "word_english": "for so (the śruti) says",
+        "grammar_role": "हि · अव्यय (निपात) + √ब्रू(आह) · लिट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "हि + आह"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "those (the senses and elements) — in the supreme (Self) — thus, so — for so (the śruti) says"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "तानि पुनः प्राणशब्दोदितानि इन्द्रियाणि भूतानि च परब्रह्मविदः तस्मिन्नेव परस्मिन्नात्मनि प्रलीयन्ते । कस्मात्? तथा हि आह श्रुतिः — ‘एवमेवास्य परिद्रष्टुरिमाः षोडश कलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति’ (प्र. उ. ६ । ५) इति । ननु ‘गताः कलाः पञ्चदश प्रतिष्ठाः’ (मु. उ. ३ । २ । ७) इति विद्वद्विषयैवापरा श्रुतिः परस्मादात्मनोऽन्यत्रापि कलानां प्रलयम् आह स्म — न; सा खलु व्यवहारापेक्षा — पार्थिवाद्याः कलाः पृथिव्यादीरेव स्वप्रकृतीरपियन्तीति । इतरा तु विद्वत्प्रतिपत्त्यपेक्षा — कृत्स्नं कलाजातं परब्रह्मविदो ब्रह्मैव सम्पद्यत इति । तस्माददोषः ॥ १५ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_16",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 16,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.16",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "अविभागो वचनात् ॥ १६ ॥",
+    "transliteration": "avibhāgo vacanāt || 16 ||",
+    "translation": "non-separation; merging without residue into the supreme — because of the (scriptural) statement",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अविभागो",
+        "word_english": "non-separation; merging without residue into the supreme",
+        "grammar_role": "अविभाग (नञ्-तत्पुरुष; अ-विभाग) · कर्ता · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "अविभागः"
+      },
+      {
+        "word_sanskrit": "वचनात्",
+        "word_english": "because of the (scriptural) statement",
+        "grammar_role": "वचन · हेतु/अपादान · पञ्चमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "वचनात्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "non-separation; merging without residue into the supreme — because of the (scriptural) statement"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "स पुन र्विदुषः कलाप्रलयः किम् इतरेषामिव सावशेषो भवति, आहोस्विन्निरवशेष इति । तत्र प्रलयसामान्यात् शक्त्यवशेषताप्रसक्तौ ब्रवीति — अविभागापत्तिरेवेति । कुतः? वचनात् । तथा हि कलाप्रलयमुक्त्वा वक्ति — ‘भिद्येते तासां नामरूपे पुरुष इत्येवं प्रोच्यते स एषोऽकलोऽमृतो भवति’ (प्र. उ. ६ । ५) इति । अविद्यानिमित्तानां च कलानां न विद्यानिमित्ते प्रलये सावशेषत्वोपपत्तिः । तस्मादविभाग एवेति ॥ १६ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_17",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 17,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.17",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "तदोकोऽग्रज्वलनं तत्प्रकाशितद्वारो विद्यासामर्थ्यात्तच्छेषगत्यनुस्मृतियोगाच्च हार्दानुगृहीतः शताधिकया ॥ १७ ॥",
+    "transliteration": "tadoko'grajvalanaṃ tatprakāśitadvāro vidyāsāmarthyāttaccheṣagatyanusmṛtiyogācca hārdānugṛhītaḥ śatādhikayā || 17 ||",
+    "translation": "the blazing of the tip of its abode, the heart — having the egress-doors illumined by that (blazing tip) — from power of knowledge and union with recollecting its onward course — favoured by the one seated in the heart (the Lord) — by the hundred-and-first nāḍī (suṣumnā), exceeding the hundred",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदोकोऽग्रज्वलनं",
+        "word_english": "the blazing of the tip of its abode, the heart",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + ओकस्-अग्र-ज्वलन · प्रथमा·एक·नपुं",
+        "root": "तत् + ओकः-अग्र-ज्वलनम्"
+      },
+      {
+        "word_sanskrit": "तत्प्रकाशितद्वारो",
+        "word_english": "having the egress-doors illumined by that (blazing tip)",
+        "grammar_role": "तत्प्रकाशित-द्वार · प्रथमा·एक·पुं (बहुव्रीहि)",
+        "root": "तत्-प्रकाशित-द्वारः"
+      },
+      {
+        "word_sanskrit": "विद्यासामर्थ्यात्तच्छेषगत्यनुस्मृतियोगाच्च",
+        "word_english": "from power of knowledge and union with recollecting its onward course",
+        "grammar_role": "विद्या-सामर्थ्य · पञ्चमी·एक·नपुं + तत्-शेष-गति-अनुस्मृति-योग · पञ्चमी·एक·पुं + च · अव्यय (समुच्चय)",
+        "root": "विद्या-सामर्थ्यात् + तत्-शेष-गति-अनुस्मृति-योगात् + च"
+      },
+      {
+        "word_sanskrit": "हार्दानुगृहीतः",
+        "word_english": "favoured by the one seated in the heart (the Lord)",
+        "grammar_role": "हार्द-अनुगृहीत · प्रथमा·एक·पुं",
+        "root": "हार्द-अनुगृहीतः"
+      },
+      {
+        "word_sanskrit": "शताधिकया",
+        "word_english": "by the hundred-and-first nāḍī (suṣumnā), exceeding the hundred",
+        "grammar_role": "शताधिक · तृतीया·एक·स्त्री",
+        "root": "शत-अधिकया"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "the blazing of the tip of its abode, the heart — having the egress-doors illumined by that (blazing tip) — from power of knowledge and union with recollecting its onward course — favoured by the one seated in the heart (the Lord) — by the hundred-and-first nāḍī (suṣumnā), exceeding the hundred"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "समाप्ता प्रासङ्गिकी परविद्यागता चिन्ता; सम्प्रति तु अपरविद्याविषयामेव चिन्तामनुवर्तयति । समाना च आसृत्युपक्रमात् विद्वदविदुषोरुत्क्रान्तिः — इत्युक्तम् । तम् इदानीं सृत्युपक्रमं दर्शयति । तस्य उपसंहृतवागादिकलापस्योच्चिक्रमिषतो विज्ञानात्मनः, ओकः आयतनं हृदयम् — ‘स एतास्तेजोमात्राः समभ्याददानो हृदयमेवान्ववक्रामति’ इति श्रुतेः, तदग्रप्रज्वलनपूर्विका चक्षुरादिस्थानापादाना च उत्क्रान्तिः श्रूयते — ‘तस्य हैतस्य हृदयस्याग्रं प्रद्योतते तेन प्रद्योतेनैष आत्मा निष्क्रामति चक्षुष्टो वा मूर्ध्नो वान्येभ्यो वा शरीरदेशेभ्यः’ (बृ. उ. ४ । ४ । २) इति । सा किमनियमेनैव विद्वदविदुषोर्भवति, अथास्ति कश्चिद्विदुषो विशेषनियमः — इति विचिकित्सायाम्, श्रुत्यविशेषादनियमप्राप्तौ, आचष्टे — समानेऽपि हि विद्वदविदुषोर्हृदयाग्रप्रद्योतने तत्प्रकाशितद्वारत्वे च, मूर्धस्थानादेव विद्वान्निष्क्रामति, स्थानान्तरेभ्यस्तु इतरे । कुतः? विद्यासामर्थ्यात् । यदि विद्वानपि इतरवत् यतः कुतश्चिद्देहदेशात् उत्क्रामेत्, नैव उत्कृष्टं लोकं लभेत, तत्र अनर्थिकैव विद्या स्यात् । तच्छेषगत्यनुस्मृतियोगाच्च — विद्याशेषभूता च मूर्धन्यनाडीसम्बद्धा गतिः अनुशीलयितव्या विद्याविशेषेषु विहिता । तामभ्यस्यन् तयैव प्रतिष्ठत इति युक्तम् । तस्मात् हृदयालयेन ब्रह्मणा सूपासितेन अनुगृहीतः तद्भावं समापन्नो विद्वान् मूर्धन्ययैव शताधिकया शतादतिरिक्तया एकशततम्या नाड्या निष्क्रामति, इतराभिरितरे । तथा हि हार्दविद्यां प्रकृत्य समामनन्ति — ‘शतं चैका च हृदयस्य नाड्यस्तासां मूर्धानमभिनिःसृतैका । तयोर्ध्वमायन्नमृतत्वमेति विष्वङ्ङन्या उत्क्रमणे भवन्ति’ (छा. उ. ८ । ६ । ६) इति ॥ १७ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_18",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 18,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.18",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "रश्म्यनुसारी ॥ १८ ॥",
+    "transliteration": "raśmyanusārī || 18 ||",
+    "translation": "ray-following (departing soul follows the sun's rays)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "रश्म्यनुसारी",
+        "word_english": "ray-following (departing soul follows the sun's rays)",
+        "grammar_role": "रश्म्यनुसारिन् (रश्मि-अनुसारिन्; अनु + √सृ + णिनि कृत्) · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "रश्मि-अनुसारी"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "ray-following (departing soul follows the sun's rays)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अस्ति हार्दविद्या ‘अथ यदिदमस्मिन्ब्रह्मपुरे दहरं पुण्डरीकं वेश्म’ (छा. उ. ८ । १ । १) इत्युपक्रम्य विहिता । तत्प्रक्रियायाम् ‘अथ या एता हृदयस्य नाड्यः’ (छा. उ. ८ । ६ । १) इत्युपक्रम्य सप्रपञ्चं नाडीरश्मिसम्बन्धमुक्त्वा उक्तम् — ‘अथ यत्रैतदस्माच्छरीरादुत्क्रामत्यथैतैरेव रश्मिभिरूर्ध्वमाक्रमते’ (छा. उ. ८ । ६ । ५) इति । पुनश्चोक्तम् — ‘तयोर्ध्वमायन्नमृतत्वमेति’ (छा. उ. ८ । ६ । ६) इति । तस्मात् शताधिकया नाड्या निष्क्रामन् रश्म्यनुसारी निष्क्रामतीति गम्यते । तत् किम् अविशेषेणै व अहनि रात्रौ वा म्रियमाणस्य रश्म्यनुसारित्वम्, आहोस्विदहन्येव — इति संशये सति, अविशेषश्रवणात् अविशेषेणैव तावत् रश्म्यनुसारीति प्रतिज्ञायते ॥ १८ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_19",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 19,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.19",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "निशि नेति चेन्न सम्बन्धस्य यावद्देहभावित्वाद्दर्शयति च ॥ १९ ॥",
+    "transliteration": "niśi neti cenna sambandhasya yāvaddehabhāvitvāddarśayati ca || 19 ||",
+    "translation": "at night — \"not (so)\" — thus (the objector says) — if (so urged), no — of the (nāḍī-ray) connection — because it lasts as long as the body; (śruti) shows — and (also)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "निशि",
+        "word_english": "at night",
+        "grammar_role": "निशा · सप्तमी·एकवचन·स्त्रीलिङ्ग",
+        "root": "निशि"
+      },
+      {
+        "word_sanskrit": "नेति",
+        "word_english": "\"not (so)\" — thus (the objector says)",
+        "grammar_role": "न (अव्यय, निषेध) + इति (अव्यय, समाप्ति/उद्धरण)",
+        "root": "न + इति"
+      },
+      {
+        "word_sanskrit": "चेन्न",
+        "word_english": "if (so urged), no",
+        "grammar_role": "चेद् (अव्यय, उपन्यास/शङ्का) + न (अव्यय, निषेध)",
+        "root": "चेद् + न"
+      },
+      {
+        "word_sanskrit": "सम्बन्धस्य",
+        "word_english": "of the (nāḍī-ray) connection",
+        "grammar_role": "सम्बन्ध · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "सम्बन्धस्य"
+      },
+      {
+        "word_sanskrit": "यावद्देहभावित्वाद्दर्शयति",
+        "word_english": "because it lasts as long as the body; (śruti) shows",
+        "grammar_role": "यावद्देहभावित्व · पञ्चमी·एकवचन·नपुंसकलिङ्ग + √दृश् (णिच्) · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "यावद्-देह-भाविन्-त्व + दर्शयति"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and (also)",
+        "grammar_role": "च · अव्यय (समुच्चय)",
+        "root": "च"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "at night — \"not (so)\" — thus (the objector says) — if (so urged), no — of the (nāḍī-ray) connection — because it lasts as long as the body; (śruti) shows — and (also)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अस्ति अहनि नाडीरश्मिसम्बन्ध इति अहनि मृतस्य स्यात् रश्म्यनुसारित्वम् । रात्रौ तु प्रेतस्य न स्यात्, नाडीरश्मिसम्बन्धविच्छेदात् — इति चेत्, न, नाडीरश्मिसम्बन्धस्य यावद्देहभावित्वात् । यावद्देहभावी हि शिराकिरणसम्पर्कः । दर्शयति चैतमर्थं श्रुतिः — ‘अमुष्मादादित्यात्प्रतायन्ते ता आसु नाडीषु सृप्ता आभ्यो नाडीभ्यः प्रतायन्ते तेऽमुष्मिन्नादित्ये सृप्ताः’ (छा. उ. ८ । ६ । २) इति । निदाघ समये च निशास्वपि किरणानुवृत्तिरुपलभ्यते, प्रतापादिकार्यदर्शनात् । स्तोका नुवृत्तेस्तु दुर्लक्ष्यत्वम् ऋत्वन्तररजनीषु, शैशिरेष्विव दुर्दिनेषु । ‘अहरेवैतद्रात्रौ दधाति’ इति च एतदेव दर्शयति । यदि च रात्रौ प्रेतः विनैव रश्म्यनुसारेण ऊर्ध्वमाक्रमेत, रश्म्यनुसारानर्थक्यं भवेत् । न ह्येतत् विशिष्य अधीयते — यो दिवा प्रैति, स रश्मीनपेक्ष्योर्ध्वमाक्रमते, यस्तु रात्रौ सोऽनपेक्ष्यैवेति । अथ तु विद्वानपि रात्रिप्रायणापराधमात्रेण नोर्ध्वमाक्रमेत, पाक्षिकफला विद्येति अप्रवृत्तिरेव तस्यां स्यात् । मृत्युकालानियमात् । अथापि रात्रावुपरतोऽहरागमम् उदीक्षेत, अहरागमेऽप्यस्य कदाचित् अरश्मिसम्बन्धार्हं शरीरं स्यात् पावकादिसम्पर्कात् । ‘स यावत्क्षिप्येन्मनस्तावदादित्यं गच्छति’ (छा. उ. ८ । ६ । ५) इति च श्रुतिः अनुदीक्षां दर्शयति । तस्मात् अविशेषेणैव इदं रात्रिंदिवं रश्म्यनुसारित्वम् ॥ १९ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_20",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 20,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.20",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "अतश्चायनेऽपि दक्षिणे ॥ २० ॥",
+    "transliteration": "ataścāyane'pi dakṣiṇe || 20 ||",
+    "translation": "And therefore even when (one dies) in the (solstitial) course — in the southern (course), i.e. dakṣiṇāyana",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अतश्चायनेऽपि",
+        "word_english": "And therefore even when (one dies) in the (solstitial) course",
+        "grammar_role": "अतस् · अव्यय (तसिल्-प्रत्ययान्त, हेतौ) + च · अव्यय (समुच्चये) + अयन · सप्तमी·एकवचन·नपुंसक + अपि · अव्यय (अपिशब्दः, गर्हासमुच्चयादौ)",
+        "root": "अतः + च + अयने + अपि"
+      },
+      {
+        "word_sanskrit": "दक्षिणे",
+        "word_english": "in the southern (course), i.e. dakṣiṇāyana",
+        "grammar_role": "दक्षिण · सप्तमी·एकवचन·नपुंसक (अयनविशेषणम्)",
+        "root": "दक्षिणे"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "And therefore even when (one dies) in the (solstitial) course — in the southern (course), i.e. dakṣiṇāyana"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अत एव च उदीक्षानुपपत्तेः, अपाक्षिकफलत्वाच्च विद्यायाः, अनियतकालत्वाच्च मृत्योः, दक्षिणायनेऽपि म्रियमाणो विद्वान् प्राप्नोत्येव विद्याफलम् । उत्तरायणमरणप्राशस्त्यप्रसिद्धेः, भीष्मस्य च प्रतीक्षादर्शनात्, ‘आपूर्यमाणपक्षाद्यान्षडुदङ्ङेति मासाꣳस्तान्’ (छा. उ. ४ । १५ । ५) इति च श्रुतेः, अपेक्षितव्यमुत्तरायणम् — इतीमामाशङ्काम् अनेन सूत्रेणापनुदति । प्राशस्त्यप्रसिद्धिः अविद्वद्विषया । भीष्मस्य तूत्तरायण प्रतिपालनम् आचारपरिपालनार्थं पितृप्रसादलब्धस्वच्छन्दमृत्युताख्यापनार्थं च । श्रुतेस्तु अर्थं वक्ष्यति ‘आतिवाहिकास्तल्लिङ्गात्’ (ब्र. सू. ४ । ३ । ४) इति ॥ २० ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "brahmasutra_14_21",
+    "metadata": {
+      "scripture_name": "Brahma Sutras",
+      "scripture_slug": "brahmasutra",
+      "chapter_slug": "chapter-14",
+      "chapter_name": "Adhyāya 4, Pāda 2: Phala",
+      "verse_number": 21,
+      "chapter_number": 14,
+      "sutra_ref": "4.2.21",
+      "source_url": ""
+    },
+    "section_title": "Adhyāya 4, Pāda 2: Phala",
+    "sanskrit_shloka": "योगिनः प्रति च स्मर्यते स्मार्ते चैते ॥ २१ ॥",
+    "transliteration": "yoginaḥ prati ca smaryate smārte caite || 21 ||",
+    "translation": "the yogins (object of प्रति: toward the yogins) — toward, with regard to (the yogins) — and — is remembered, is taught in smṛti — the two are smārta (smṛti-based): Yoga and Sāṅkhya — and these two (the Yoga and Sāṅkhya paths)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "योगिनः",
+        "word_english": "the yogins (object of प्रति: toward the yogins)",
+        "grammar_role": "योगिन् · द्वितीया·बहुवचन·पुंलिङ्ग (प्रति-कर्मप्रवचनीय-योगे)",
+        "root": "योगिनः"
+      },
+      {
+        "word_sanskrit": "प्रति",
+        "word_english": "toward, with regard to (the yogins)",
+        "grammar_role": "अव्यय (कर्मप्रवचनीय; द्वितीयायुक्तम्)",
+        "root": "प्रति"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चये)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "स्मर्यते",
+        "word_english": "is remembered, is taught in smṛti",
+        "grammar_role": "√स्मृ · लट्·प्रथमपुरुष·एकवचन·कर्मणि (आत्मनेपद)",
+        "root": "स्मर्यते"
+      },
+      {
+        "word_sanskrit": "स्मार्ते",
+        "word_english": "the two are smārta (smṛti-based): Yoga and Sāṅkhya",
+        "grammar_role": "स्मार्त · प्रथमा·द्विवचन·नपुंसकलिङ्ग",
+        "root": "स्मार्ते"
+      },
+      {
+        "word_sanskrit": "चैते",
+        "word_english": "and these two (the Yoga and Sāṅkhya paths)",
+        "grammar_role": "च · अव्यय (समुच्चये) + एतद् · प्रथमा·द्विवचन·नपुंसकलिङ्ग",
+        "root": "च + एते"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "the yogins (object of प्रति: toward the yogins) — toward, with regard to (the yogins) — and — is remembered, is taught in smṛti — the two are smārta (smṛti-based): Yoga and Sāṅkhya — and these two (the Yoga and Sāṅkhya paths)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "【अवतरणिका】\nननु च ‘यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः । प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ’ (भ. गी. ८ । २३) इति कालप्राधान्येन उपक्रम्य अहरादिकालविशेषः स्मृतावनावृत्तये नियमितः । कथं रात्रौ दक्षिणायने वा प्रयातोऽनावृत्तिं यायात् — इत्यत्रोच्यते —\n\nयोगिनः प्रति च अयम् अहरादिकालविनियोगः अनावृत्तये स्मर्यते । स्मार्ते चै ते योगसाङ्ख्ये, न श्रौते । अतो विषयभेदात् प्रमाणविशेषाच्च नास्य स्मार्तस्य कालविनियोगस्य श्रौतेषु विज्ञानेषु अवतारः । ननु ‘अग्नि र्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम् ।’ (भ. गी. ८ । २४) ‘धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम्’ (भ. गी. ८ । २५) इति च श्रौतावेतौ देवयानपितृयाणौ प्रत्यभिज्ञायेते स्मृतावपीति, उच्यते — ‘तं कालं वक्ष्यामि’ (भ. गी. ८ । २३) इति स्मृतौ कालप्रतिज्ञानात् विरोधमाशङ्क्य अयं परिहारः उक्तः । यदा पुनः स्मृतावपि अग्न्याद्या देवता एव आतिवाहिक्यो गृह्यन्ते, तदा न कश्चिद्विरोध इति ॥ २१ ॥"
+      }
+    ],
+    "commentary_faqs": []
+  }
+]

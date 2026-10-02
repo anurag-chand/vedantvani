@@ -1,0 +1,2996 @@
+---
+import type { Scripture } from '../data/scriptures';
+
+interface Props {
+  scripture: Scripture;
+  initialChapter?: number;
+  initialVerse?: number;
+}
+
+const { scripture, initialChapter = 1, initialVerse = 1 } = Astro.props;
+---
+
+<div class="verse-reader-root" id="verseReaderApp" data-scripture-id={scripture.id}>
+  <div class="reader-container">
+    
+    <!-- Reader Sub-Header / Control Strip -->
+    <div class="reader-sub-header">
+      <div class="reader-header-left">
+        <a href={`/read/${scripture.id}`} class="scripture-badge-link">
+          <span class="scripture-mini-icon">📜</span>
+          <span class="scripture-mini-title">{scripture.name}</span>
+        </a>
+        <div class="chapter-badge font-cinzel" id="activeChapterTitle">
+          Chapter {initialChapter}
+        </div>
+      </div>
+
+      <div class="reader-header-right">
+        <!-- On-Screen Dictionary Lookup Trigger Button -->
+        <button id="openDictDrawerBtn" class="drawer-trigger-btn font-cinzel dict-trigger-accent" aria-label="Open On-Screen Dictionary Lookup" title="On-Screen Dictionary Lookup (132,466 terms: Śāṅkara Bhāṣya & Mūla)">
+          <span>📖</span>
+          <span>Dictionary</span>
+        </button>
+
+        <!-- Drawer Trigger Button -->
+        <button id="openDrawerBtn" class="drawer-trigger-btn" aria-label="Open Chapter and Verse Navigator">
+          <span>📑</span>
+          <span>Verses</span>
+        </button>
+
+        <!-- Font Resizer Controls -->
+        <div class="font-controls">
+          <button id="decFontBtn" class="font-ctrl-btn" aria-label="Decrease Font Size" title="Smaller font">A−</button>
+          <button id="incFontBtn" class="font-ctrl-btn" aria-label="Increase Font Size" title="Larger font">A+</button>
+        </div>
+
+        <!-- Copy Verse Button -->
+        <button id="copyVerseBtn" class="action-btn-sm" aria-label="Copy Verse Text" title="Copy formatted verse">
+          <span>📋</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Chapter Summary Card (Collapsible) -->
+    <details class="chapter-summary-details" id="chapterSummaryAccordion">
+      <summary class="summary-toggle-bar">
+        <span class="summary-label font-cinzel">
+          <span id="summaryChapterName">Chapter Summary</span>
+          <span class="summary-sanskrit font-devanagari" id="summaryChapterSanskrit"></span>
+        </span>
+        <span class="summary-arrow">▾</span>
+      </summary>
+      <div class="summary-content font-lora" id="summaryChapterText">
+        Loading chapter description...
+      </div>
+    </details>
+
+    <!-- Main Shloka Presentation Box -->
+    <div class="shloka-box" id="shlokaBox">
+      <div class="shloka-coord-strip">
+        <span class="coord-pill font-cinzel" id="verseCoordLabel">
+          Chapter {initialChapter} • Verse {initialVerse}
+        </span>
+        <span class="meta-section-pill font-cinzel" id="verseSectionTag" style="display: none;"></span>
+        <span class="meta-stage-pill font-cinzel" id="verseStageTag" style="display: none;"></span>
+        <button id="lookupHintBtn" class="lookup-hint-pill font-cinzel" title="Click any Sanskrit word to inspect root, grammar and definition">
+          <span>💡</span> Tap word for dictionary
+        </button>
+      </div>
+
+      <div class="shloka-sanskrit font-devanagari" id="sanskritText">
+        Loading Sanskrit text...
+      </div>
+
+      <div class="shloka-transliteration font-lora" id="transliterationText">
+        Loading transliteration...
+      </div>
+
+      <!-- Contemplation Summary Line (when summary_line is available) -->
+      <div class="verse-contemplation-banner font-lora" id="verseSummaryLine" style="display: none;">
+        <div class="contemplation-text" id="verseSummaryText"></div>
+      </div>
+
+      <!-- Philosophical Metadata Chips Strip -->
+      <div class="verse-meta-strip" id="verseMetaStrip" style="display: none;"></div>
+
+      <!-- Audio Chanting Recitation Bar (when audio_link is available) -->
+      <div class="audio-chanting-bar" id="audioChantingBar" style="display: none;">
+        <button id="playAudioBtn" class="audio-play-btn" aria-label="Listen to Chanting Recitation">
+          <span id="audioPlayIcon">🔊</span>
+          <span id="audioPlayText">Play Sacred Recitation</span>
+        </button>
+        <audio id="sutraAudioEl" preload="none"></audio>
+      </div>
+    </div>
+
+    <!-- Reader Tabs (Translations, Commentaries, Word Breakdown, Insights & Inquiries) -->
+    <div class="reader-tabs" role="tablist">
+      <button class="tab-btn active" data-tab="translations" role="tab" id="tabBtnTranslations">
+        Translations
+      </button>
+      <button class="tab-btn" data-tab="commentaries" role="tab" id="tabBtnCommentaries">
+        Commentaries
+      </button>
+      <button class="tab-btn" data-tab="wordBreakdown" role="tab" id="tabBtnWords">
+        Word Breakdown
+      </button>
+      <button class="tab-btn" data-tab="faqs" role="tab" id="tabBtnFaqs">
+        Insights & Inquiries
+      </button>
+    </div>
+
+    <!-- Tab Panels Container -->
+    <div class="tab-panels-wrapper">
+      
+      <!-- Panel 1: Translations -->
+      <section class="tab-panel active" id="panelTranslations" role="tabpanel">
+        <div id="translationsList" class="interpretations-stream">
+          <!-- Populated dynamically -->
+        </div>
+      </section>
+
+      <!-- Panel 2: Commentaries -->
+      <section class="tab-panel" id="panelCommentaries" role="tabpanel">
+        <div class="school-filter-bar" id="schoolFilterBar">
+          <button class="school-chip active" data-school="all">All Commentaries</button>
+          {scripture.id === 'yogasutras' ? (
+            <>
+              <button class="school-chip" data-school="Vyasa">Vyāsa Bhāṣya</button>
+              <button class="school-chip" data-school="Bhoja">Rājāmārtāṇḍa</button>
+              <button class="school-chip" data-school="Vacaspati">Tattva Vaiśāradī</button>
+              <button class="school-chip" data-school="Sarasvati">Yoga Sudhākara</button>
+              <button class="school-chip" data-school="Hindi">Hindi Bhāṣyas</button>
+            </>
+          ) : (
+            <>
+              <button class="school-chip" data-school="Advaita">Advaita</button>
+              <button class="school-chip" data-school="Vishishtadvaita">Viśiṣṭādvaita</button>
+              <button class="school-chip" data-school="Dvaita">Dvaita</button>
+              <button class="school-chip" data-school="Suddhadvaita">Śuddhādvaita</button>
+            </>
+          )}
+        </div>
+        <div id="commentariesList" class="interpretations-stream">
+          <!-- Populated dynamically -->
+        </div>
+      </section>
+
+      <!-- Panel 3: Word Breakdown -->
+      <section class="tab-panel" id="panelWordBreakdown" role="tabpanel">
+        <div id="wordBreakdownContent" class="word-breakdown-grid">
+          <!-- Populated dynamically -->
+        </div>
+      </section>
+
+      <!-- Panel 4: Inquiries & Philosophical Insights -->
+      <section class="tab-panel" id="panelFaqs" role="tabpanel">
+        <div id="metadataOverviewCard" class="metadata-overview-card" style="display: none;"></div>
+        <div id="faqsList" class="faqs-stream">
+          <!-- Populated dynamically -->
+        </div>
+      </section>
+
+    </div>
+
+  </div>
+
+  <!-- Mobile Bottom Floating Navigation -->
+  <div class="reader-bottom-controls" id="readerBottomControls">
+    <button id="prevVerseBtn" class="reader-control-btn" aria-label="Previous Verse">
+      <span>◀</span>
+      <span class="btn-text">Prev</span>
+    </button>
+
+    <button id="dictToggleBottomBtn" class="reader-control-btn" aria-label="Open On-Screen Dictionary">
+      <span>📖</span>
+      <span class="btn-text">Dict</span>
+    </button>
+
+    <button id="drawerToggleBottomBtn" class="reader-control-btn primary" aria-label="Select Chapter and Verse">
+      <span>📑</span>
+      <span id="verseIndicatorBottom">Ch 1 : V 1</span>
+    </button>
+
+    <button id="nextVerseBtn" class="reader-control-btn" aria-label="Next Verse">
+      <span class="btn-text">Next</span>
+      <span>▶</span>
+    </button>
+  </div>
+
+  <!-- Chapter & Verse Selector Drawer / Bottom Sheet -->
+  <div id="chapterVerseDrawer" class="drawer-backdrop" aria-hidden="true">
+    <div class="drawer-content">
+      <div class="drawer-header">
+        <div>
+          <h3 class="font-cinzel" style="font-size: 1.1rem; color: var(--text-primary);">Select Chapter & Verse</h3>
+          <span style="font-size: 0.75rem; color: var(--saffron);">{scripture.name}</span>
+        </div>
+        <button id="closeDrawerBtn" class="action-btn-sm" aria-label="Close Navigator">✕</button>
+      </div>
+
+      <div class="drawer-body">
+        <!-- Chapter Dropdown -->
+        <div class="drawer-field">
+          <label for="drawerChapterSelect" class="drawer-label font-cinzel">Chapter / Section</label>
+          <select id="drawerChapterSelect" class="drawer-select font-sans">
+            {scripture.chapters.map((ch) => (
+              <option value={ch.chapter_number} selected={ch.chapter_number === initialChapter}>
+                {ch.chapter_number}. {ch.name} {ch.name_sanskrit ? `(${ch.name_sanskrit})` : ''} - {ch.verses_count} Verses
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <!-- Verses Grid Title -->
+        <div class="drawer-field" style="margin-top: 1.25rem;">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <label class="drawer-label font-cinzel">Verses in Chapter</label>
+            <span id="drawerVerseTotal" style="font-size: 0.75rem; color: var(--text-muted);">
+              {scripture.chapters[0]?.verses_count || 0} Verses
+            </span>
+          </div>
+
+          <div class="verse-grid" id="drawerVerseGrid">
+            <!-- Programmatically populated buttons -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- On-Screen Dictionary Slide Drawer / Panel -->
+  <div id="onScreenDictDrawer" class="dict-drawer-backdrop" aria-hidden="true">
+    <div class="dict-drawer-panel">
+      <!-- Panel Header -->
+      <div class="dict-drawer-header">
+        <div class="dict-drawer-title-group">
+          <div class="dict-drawer-heading font-cinzel">
+            <span class="dict-header-icon">📖</span>
+            <span>Prasthānatrayī Lexicon</span>
+          </div>
+          <div class="dict-drawer-subheading font-cinzel">
+            132,466 Terms • Śāṅkara Bhāṣya & Mūla
+          </div>
+        </div>
+        <div class="dict-drawer-actions">
+          <a href="/bhashya-dictionary" target="_blank" class="dict-full-link font-cinzel" title="Open full Lexicon Explorer in new tab">
+            <span>Explorer</span> ↗
+          </a>
+          <button id="closeDictDrawerBtn" class="action-btn-sm" aria-label="Close Dictionary">✕</button>
+        </div>
+      </div>
+
+      <!-- Live Search & Scope Bar -->
+      <div class="dict-drawer-search-area">
+        <div class="dict-search-field">
+          <span class="dict-search-icon">🔍</span>
+          <input 
+            type="text" 
+            id="onScreenDictInput" 
+            class="dict-search-input font-devanagari" 
+            placeholder="Search Sanskrit or English (e.g. brahman, अविद्या)..."
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button id="clearDictInputBtn" class="dict-clear-btn" aria-label="Clear search" style="display: none;">✕</button>
+        </div>
+        
+        <div class="dict-scope-pills" id="dictScopePills">
+          <button class="dict-scope-btn active" data-scope="all">All (132k)</button>
+          <button class="dict-scope-btn" data-scope="mula">Mūla (36k)</button>
+          <button class="dict-scope-btn" data-scope="bhasya">Bhāṣya (95k)</button>
+        </div>
+      </div>
+
+      <!-- Current Verse Vocabulary Strip -->
+      <div class="dict-vocab-section">
+        <div class="dict-vocab-heading font-cinzel">
+          <span>Words in this Verse / Sūtra</span>
+          <span class="vocab-badge" id="vocabCountBadge">0 words</span>
+        </div>
+        <div class="dict-vocab-chips" id="verseVocabChips">
+          <!-- Populated dynamically with chips for words in current verse -->
+        </div>
+      </div>
+
+      <!-- Main Display Area: Active Word or Search Results -->
+      <div class="dict-content-scroll" id="dictContentScroll">
+        <!-- Card for Selected Word -->
+        <div id="dictActiveEntryCard" class="dict-active-card" style="display: none;">
+          <!-- Populated when a word is active -->
+        </div>
+
+        <!-- Search Results List -->
+        <div id="dictSearchResultsList" class="dict-results-list" style="display: none;">
+          <!-- Populated when typing a search query -->
+        </div>
+
+        <!-- Initial Placeholder State -->
+        <div id="dictEmptyState" class="dict-empty-state">
+          <div class="empty-icon">🕉️</div>
+          <h4 class="font-cinzel">On-Screen Lexicon Ready</h4>
+          <p class="font-lora">
+            Tap any Sanskrit word in the sacred verse, word-by-word breakdown, or commentary to view its exact root (dhātu/prātipadika), grammatical case (vibhakti/lakāra), and philosophical exposition.
+          </p>
+          <div class="dict-quick-examples">
+            <span class="examples-label font-cinzel">Quick examples:</span>
+            <button class="example-chip font-devanagari" data-term="ब्रह्म">ब्रह्म</button>
+            <button class="example-chip font-devanagari" data-term="अविद्या">अविद्या</button>
+            <button class="example-chip font-devanagari" data-term="आनन्द">आनन्द</button>
+            <button class="example-chip font-devanagari" data-term="माया">माया</button>
+            <button class="example-chip font-devanagari" data-term="अध्यास">अध्यास</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer Edge Connection Status -->
+      <div class="dict-panel-footer">
+        <span class="edge-dot"></span>
+        <span class="edge-text font-cinzel" id="dictEdgeStatusLabel">Cloudflare Edge D1 API • 132,466 terms</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating Morphological Lexicon Popover for Quick In-Place Lookup -->
+  <div id="bhasyaWordPopover" class="bhasya-word-popover" style="display: none;" role="tooltip">
+    <div class="popover-header">
+      <div class="popover-title-row">
+        <span class="popover-surface font-devanagari" id="popoverSurface"></span>
+        <span class="popover-source-tag font-cinzel" id="popoverSourceTag" style="display: none;"></span>
+      </div>
+      <button id="closePopoverBtn" class="popover-close" aria-label="Close popover">✕</button>
+    </div>
+    <div class="popover-padaccheda font-devanagari" id="popoverPadaccheda"></div>
+    <div class="popover-grammar" id="popoverGrammar"></div>
+    <div class="popover-meaning font-lora" id="popoverMeaning"></div>
+    <div class="popover-footer">
+      <button id="expandInDictDrawerBtn" class="popover-expand-btn font-cinzel">Open in Panel ↗</button>
+      <a id="popoverFullLink" href="/bhashya-dictionary" target="_blank" class="popover-link font-cinzel">Full Explorer</a>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  .verse-reader-root {
+    width: 100%;
+    position: relative;
+    padding-bottom: 5.5rem;
+  }
+
+  .reader-header-left {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .scripture-badge-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--saffron);
+    background: var(--saffron-subtle);
+    border: 1px solid var(--border-subtle);
+    padding: 0.25rem 0.65rem;
+    border-radius: var(--radius-pill);
+    text-decoration: none;
+    transition: all var(--transition-fast);
+  }
+
+  .scripture-badge-link:hover {
+    border-color: var(--saffron);
+  }
+
+  .chapter-badge {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    letter-spacing: 0.05em;
+  }
+
+  .reader-header-right {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .drawer-trigger-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.8rem;
+    border-radius: var(--radius-md);
+    background: var(--bg-surface-elevated);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-primary);
+    font-size: 0.8rem;
+    font-weight: 600;
+    transition: all var(--transition-fast);
+  }
+
+  .drawer-trigger-btn:hover {
+    border-color: var(--saffron);
+    color: var(--saffron);
+  }
+
+  .font-controls {
+    display: flex;
+    align-items: center;
+    background: var(--bg-surface-elevated);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+  }
+
+  .font-ctrl-btn {
+    padding: 0.35rem 0.65rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--text-secondary);
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+
+  .font-ctrl-btn:hover {
+    background: var(--bg-surface);
+    color: var(--saffron);
+  }
+
+  .action-btn-sm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    border-radius: var(--radius-md);
+    background: var(--bg-surface-elevated);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    transition: all var(--transition-fast);
+  }
+
+  .action-btn-sm:hover {
+    border-color: var(--saffron);
+    color: var(--saffron);
+  }
+
+  /* Audio Chanting Bar */
+  .audio-chanting-bar {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px dashed var(--border-subtle);
+  }
+
+  .audio-play-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.45rem 1rem;
+    border-radius: var(--radius-pill);
+    background: var(--gold-subtle);
+    border: 1px solid var(--gold);
+    color: var(--gold);
+    font-size: 0.82rem;
+    font-weight: 600;
+    transition: all var(--transition-fast);
+  }
+
+  .audio-play-btn:hover {
+    background: var(--gold);
+    color: #080a0f;
+    box-shadow: 0 0 12px var(--gold-glow);
+  }
+
+  /* Chapter Summary Accordion */
+  .chapter-summary-details {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    margin-bottom: 1.25rem;
+    overflow: hidden;
+    transition: border-color var(--transition-fast);
+  }
+
+  .summary-toggle-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 600;
+    list-style: none;
+    user-select: none;
+  }
+
+  .summary-toggle-bar::-webkit-details-marker {
+    display: none;
+  }
+
+  .summary-label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--text-primary);
+  }
+
+  .summary-sanskrit {
+    color: var(--gold);
+    font-size: 0.9rem;
+  }
+
+  .summary-arrow {
+    color: var(--saffron);
+    transition: transform var(--transition-fast);
+  }
+
+  .chapter-summary-details[open] .summary-arrow {
+    transform: rotate(180deg);
+  }
+
+  .summary-content {
+    padding: 0.5rem 1rem 1rem 1rem;
+    font-size: 0.88rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    border-top: 1px dashed var(--border-subtle);
+  }
+
+  .shloka-coord-strip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .coord-pill {
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--saffron);
+    background: var(--saffron-subtle);
+    border: 1px solid var(--border-subtle);
+    padding: 0.25rem 0.85rem;
+    border-radius: var(--radius-pill);
+  }
+
+  .meta-section-pill {
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--accent-gold);
+    background: rgba(212, 175, 55, 0.08);
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    padding: 0.25rem 0.85rem;
+    border-radius: var(--radius-pill);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    max-width: 90%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .meta-stage-pill {
+    font-size: 0.74rem;
+    font-weight: 600;
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.08);
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    padding: 0.25rem 0.75rem;
+    border-radius: var(--radius-pill);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  /* Contemplation Banner */
+  .verse-contemplation-banner {
+    margin-top: 1.25rem;
+    padding: 0.75rem 1.25rem;
+    background: rgba(212, 175, 55, 0.04);
+    border-left: 3px solid var(--accent-gold);
+    border-radius: 2px var(--radius-md) var(--radius-md) 2px;
+    text-align: left;
+    transition: all var(--transition-fast);
+  }
+
+  .contemplation-text {
+    font-size: 0.95rem;
+    font-style: italic;
+    line-height: 1.6;
+    color: var(--text-primary);
+    opacity: 0.95;
+  }
+
+  /* Meta Chips Strip in Shloka Box */
+  .verse-meta-strip {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px dashed var(--border-subtle);
+  }
+
+  .meta-chip {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.72rem;
+    font-weight: 500;
+    padding: 0.2rem 0.65rem;
+    border-radius: var(--radius-pill);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-muted);
+    letter-spacing: 0.02em;
+    transition: all var(--transition-fast);
+  }
+
+  .meta-chip.doctrine {
+    color: var(--accent-gold);
+    border-color: rgba(212, 175, 55, 0.35);
+    background: rgba(212, 175, 55, 0.05);
+  }
+
+  .meta-chip.prakriya {
+    color: #818cf8;
+    border-color: rgba(129, 140, 248, 0.35);
+    background: rgba(129, 140, 248, 0.05);
+  }
+
+  .meta-chip.stage {
+    color: #38bdf8;
+    border-color: rgba(56, 189, 248, 0.35);
+    background: rgba(56, 189, 248, 0.05);
+  }
+
+  .meta-chip.obstacle {
+    color: #f87171;
+    border-color: rgba(248, 113, 113, 0.35);
+    background: rgba(248, 113, 113, 0.05);
+  }
+
+  .meta-chip.keyword {
+    color: #34d399;
+    border-color: rgba(52, 211, 153, 0.35);
+    background: rgba(52, 211, 153, 0.05);
+  }
+
+  /* Metadata Overview Card in Insights Panel */
+  .metadata-overview-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    padding: 1.25rem;
+    margin-bottom: 1.25rem;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .meta-overview-header {
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent-gold);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .meta-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.85rem;
+  }
+
+  .meta-item {
+    background: var(--bg-surface-elevated, rgba(0,0,0,0.1));
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-sm);
+    padding: 0.65rem 0.85rem;
+  }
+
+  .meta-item-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 0.25rem;
+  }
+
+  .meta-item-value {
+    font-size: 0.88rem;
+    color: var(--text-primary);
+    font-weight: 500;
+  }
+
+  /* Tab Panels */
+  .tab-panel {
+    display: none;
+  }
+
+  .tab-panel.active {
+    display: block;
+    animation: fadeIn 0.25s ease;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .school-filter-bar {
+    display: flex;
+    gap: 0.4rem;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+    scrollbar-width: none;
+  }
+
+  .school-filter-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .school-chip {
+    padding: 0.35rem 0.75rem;
+    border-radius: var(--radius-pill);
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-secondary);
+    white-space: nowrap;
+    transition: all var(--transition-fast);
+  }
+
+  .school-chip:hover,
+  .school-chip.active {
+    background: var(--saffron);
+    color: #fff;
+    border-color: var(--saffron);
+  }
+
+  /* FAQs */
+  .faqs-stream {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+
+  .faq-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    padding: 1rem;
+  }
+
+  .faq-question {
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+  }
+
+  .faq-answer {
+    font-size: 0.88rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+  }
+
+  /* Drawer Form Styles */
+  .drawer-field {
+    margin-bottom: 1rem;
+  }
+
+  .drawer-label {
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--saffron);
+    margin-bottom: 0.4rem;
+  }
+
+  .drawer-select {
+    width: 100%;
+    padding: 0.75rem;
+    background: var(--bg-input);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    font-size: 0.9rem;
+    outline: none;
+    transition: border-color var(--transition-fast);
+  }
+
+  .drawer-select:focus {
+    border-color: var(--saffron);
+  }
+
+  /* Header & Shloka Lexicon Elements */
+  .dict-trigger-accent {
+    background: rgba(242, 111, 34, 0.12) !important;
+    border-color: rgba(242, 111, 34, 0.45) !important;
+    color: var(--saffron) !important;
+    font-weight: 700;
+  }
+  .dict-trigger-accent:hover {
+    background: var(--saffron) !important;
+    color: #fff !important;
+    box-shadow: 0 0 14px rgba(242, 111, 34, 0.4);
+  }
+
+  .lookup-hint-pill {
+    background: rgba(212, 175, 55, 0.08);
+    border: 1px solid rgba(212, 175, 55, 0.35);
+    color: var(--gold);
+    font-size: 0.74rem;
+    padding: 0.2rem 0.65rem;
+    border-radius: var(--radius-pill);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    transition: all var(--transition-fast);
+  }
+  .lookup-hint-pill:hover {
+    background: rgba(212, 175, 55, 0.2);
+    border-color: var(--gold);
+  }
+
+  /* Shloka Interactive Words */
+  .shloka-word-token {
+    display: inline;
+    cursor: pointer;
+    padding: 0.05rem 0.18rem;
+    border-radius: 4px;
+    border-bottom: 1.5px dotted rgba(242, 111, 34, 0.45);
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .shloka-word-token:hover {
+    background: rgba(242, 111, 34, 0.14);
+    color: var(--gold);
+    border-bottom-color: var(--saffron);
+  }
+  .shloka-word-token.active-token {
+    background: rgba(242, 111, 34, 0.28);
+    color: #fff;
+    border-bottom: 2px solid var(--saffron);
+    box-shadow: 0 0 10px rgba(242, 111, 34, 0.4);
+  }
+
+  /* Interactive Word Cards in Word Breakdown */
+  .interactive-word-card {
+    cursor: pointer;
+    transition: transform var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+  .interactive-word-card:hover {
+    border-color: var(--saffron);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(242, 111, 34, 0.15);
+  }
+  .word-header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.25rem;
+  }
+  .card-lookup-icon {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    opacity: 0.7;
+    transition: opacity 0.2s ease;
+  }
+  .interactive-word-card:hover .card-lookup-icon {
+    opacity: 1;
+    color: var(--saffron);
+  }
+
+  /* Commentary Selectable / Clickable Words */
+  .bhasya-selectable {
+    cursor: text;
+  }
+  .bhasya-selectable span.bhasya-clickable-word {
+    cursor: pointer;
+    border-bottom: 1px dashed rgba(242, 111, 34, 0.3);
+  }
+  .bhasya-selectable span.bhasya-clickable-word:hover {
+    background: rgba(242, 111, 34, 0.12);
+    color: var(--gold);
+  }
+
+  /* On-Screen Dictionary Slide Drawer */
+  .dict-drawer-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.65);
+    backdrop-filter: blur(4px);
+    z-index: 1200;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s ease, visibility 0.25s ease;
+  }
+  .dict-drawer-backdrop.open {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .dict-drawer-panel {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 440px;
+    max-width: 100vw;
+    height: 100%;
+    background: var(--bg-surface-elevated, #161922);
+    border-left: 1px solid var(--border-medium, rgba(242, 111, 34, 0.3));
+    box-shadow: -8px 0 32px rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    transform: translateX(100%);
+    transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .dict-drawer-backdrop.open .dict-drawer-panel {
+    transform: translateX(0);
+  }
+
+  @media (max-width: 768px) {
+    .dict-drawer-panel {
+      top: auto;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 86vh;
+      border-left: none;
+      border-top: 1px solid var(--border-medium, rgba(242, 111, 34, 0.4));
+      border-radius: 18px 18px 0 0;
+      transform: translateY(100%);
+    }
+    .dict-drawer-backdrop.open .dict-drawer-panel {
+      transform: translateY(0);
+    }
+  }
+
+  .dict-drawer-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.1rem 1.25rem;
+    border-bottom: 1px solid var(--border-subtle);
+    background: rgba(0, 0, 0, 0.25);
+  }
+  .dict-drawer-title-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+  .dict-drawer-heading {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--saffron);
+  }
+  .dict-drawer-subheading {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    letter-spacing: 0.04em;
+  }
+  .dict-drawer-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+  }
+  .dict-full-link {
+    font-size: 0.76rem;
+    padding: 0.3rem 0.65rem;
+    border-radius: var(--radius-pill);
+    background: rgba(242, 111, 34, 0.1);
+    border: 1px solid rgba(242, 111, 34, 0.3);
+    color: var(--saffron);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all var(--transition-fast);
+  }
+  .dict-full-link:hover {
+    background: var(--saffron);
+    color: #fff;
+  }
+
+  /* Live Search Area in Drawer */
+  .dict-drawer-search-area {
+    padding: 1rem 1.25rem 0.75rem;
+    background: rgba(0, 0, 0, 0.15);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+  .dict-search-field {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+  .dict-search-icon {
+    position: absolute;
+    left: 0.85rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    pointer-events: none;
+  }
+  .dict-search-input {
+    width: 100%;
+    padding: 0.65rem 2.2rem 0.65rem 2.4rem;
+    background: var(--bg-input, #0d1017);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    font-size: 0.95rem;
+    outline: none;
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+  .dict-search-input:focus {
+    border-color: var(--saffron);
+    box-shadow: 0 0 10px rgba(242, 111, 34, 0.25);
+  }
+  .dict-clear-btn {
+    position: absolute;
+    right: 0.75rem;
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 0.85rem;
+    padding: 0.2rem;
+  }
+
+  .dict-scope-pills {
+    display: flex;
+    gap: 0.4rem;
+  }
+  .dict-scope-btn {
+    flex: 1;
+    padding: 0.32rem 0.5rem;
+    font-size: 0.72rem;
+    font-weight: 600;
+    border-radius: var(--radius-pill);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+  }
+  .dict-scope-btn:hover,
+  .dict-scope-btn.active {
+    background: var(--saffron);
+    color: #fff;
+    border-color: var(--saffron);
+  }
+
+  /* Current Verse Vocabulary Chips Strip */
+  .dict-vocab-section {
+    padding: 0.75rem 1.25rem;
+    border-bottom: 1px solid var(--border-subtle);
+    background: rgba(212, 175, 55, 0.03);
+  }
+  .dict-vocab-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    color: var(--gold);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.5rem;
+  }
+  .vocab-badge {
+    font-size: 0.68rem;
+    color: var(--text-muted);
+    background: rgba(255, 255, 255, 0.05);
+    padding: 0.1rem 0.45rem;
+    border-radius: var(--radius-pill);
+  }
+  .dict-vocab-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    max-height: 80px;
+    overflow-y: auto;
+    scrollbar-width: thin;
+  }
+  .vocab-chip {
+    font-size: 0.82rem;
+    padding: 0.2rem 0.55rem;
+    border-radius: var(--radius-sm);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all 0.15s ease;
+    white-space: nowrap;
+  }
+  .vocab-chip:hover {
+    border-color: var(--saffron);
+    background: rgba(242, 111, 34, 0.12);
+    color: var(--gold);
+  }
+  .vocab-chip.active {
+    background: var(--saffron);
+    color: #fff;
+    border-color: var(--saffron);
+  }
+
+  /* Main Content Scroll in Drawer */
+  .dict-content-scroll {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1.25rem;
+  }
+
+  /* Active Word Detailed Card */
+  .dict-active-card {
+    background: var(--bg-surface);
+    border: 1px solid rgba(242, 111, 34, 0.3);
+    border-radius: var(--radius-md);
+    padding: 1.25rem;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.3);
+    animation: fadeInCard 0.2s ease-out;
+  }
+  @keyframes fadeInCard {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .active-card-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.65rem;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+  .active-card-surface {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--saffron);
+    line-height: 1.2;
+  }
+  .active-card-source-tag {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.55rem;
+    border-radius: var(--radius-pill);
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+  }
+  .active-card-source-tag.bhasya {
+    background: rgba(242, 111, 34, 0.12);
+    border: 1px solid rgba(242, 111, 34, 0.3);
+    color: var(--saffron);
+  }
+  .active-card-source-tag.mula {
+    background: rgba(212, 175, 55, 0.12);
+    border: 1px solid rgba(212, 175, 55, 0.35);
+    color: var(--gold);
+  }
+
+  .active-card-row {
+    margin-bottom: 0.75rem;
+  }
+  .active-card-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 0.2rem;
+  }
+  .active-card-padaccheda {
+    font-size: 1.1rem;
+    color: var(--gold);
+    font-weight: 600;
+  }
+  .active-card-grammar {
+    display: inline-block;
+    font-size: 0.82rem;
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-subtle);
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    font-family: var(--font-devanagari);
+    line-height: 1.5;
+  }
+  .active-card-meaning-en {
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    line-height: 1.6;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 0.75rem 0.9rem;
+    border-radius: var(--radius-sm);
+    border-left: 3px solid var(--saffron);
+  }
+  .active-card-meaning-bn {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    line-height: 1.5;
+    margin-top: 0.5rem;
+    padding-left: 0.9rem;
+    font-style: italic;
+  }
+  .active-card-context {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 0.75rem;
+    padding-top: 0.65rem;
+    border-top: 1px dashed var(--border-subtle);
+  }
+
+  /* Search Results in Drawer */
+  .dict-results-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+  .dict-result-item {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    padding: 0.85rem 1rem;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .dict-result-item:hover {
+    border-color: var(--saffron);
+    background: rgba(242, 111, 34, 0.05);
+  }
+  .result-item-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.3rem;
+  }
+  .result-item-surface {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--saffron);
+  }
+  .result-item-padaccheda {
+    font-size: 0.88rem;
+    color: var(--gold);
+    margin-bottom: 0.25rem;
+  }
+  .result-item-meaning {
+    font-size: 0.84rem;
+    color: var(--text-secondary);
+    line-height: 1.4;
+  }
+
+  /* Empty State */
+  .dict-empty-state {
+    text-align: center;
+    padding: 2.5rem 1rem;
+  }
+  .dict-empty-state .empty-icon {
+    font-size: 2.5rem;
+    margin-bottom: 0.75rem;
+  }
+  .dict-empty-state h4 {
+    font-size: 1.15rem;
+    color: var(--gold);
+    margin-bottom: 0.6rem;
+  }
+  .dict-empty-state p {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  .dict-quick-examples {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .examples-label {
+    font-size: 0.74rem;
+    color: var(--text-muted);
+    width: 100%;
+    margin-bottom: 0.25rem;
+  }
+  .example-chip {
+    padding: 0.25rem 0.65rem;
+    font-size: 0.85rem;
+    border-radius: var(--radius-pill);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--saffron);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .example-chip:hover {
+    background: var(--saffron);
+    color: #fff;
+  }
+
+  /* Drawer Footer */
+  .dict-panel-footer {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.65rem 1.25rem;
+    border-top: 1px solid var(--border-subtle);
+    background: rgba(0, 0, 0, 0.35);
+    font-size: 0.72rem;
+    color: var(--text-muted);
+  }
+  .edge-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #10b981;
+    box-shadow: 0 0 6px #10b981;
+  }
+
+  /* Enhanced Floating Popover */
+  .bhasya-word-popover {
+    position: fixed;
+    z-index: 1100;
+    max-width: 330px;
+    width: calc(100vw - 2rem);
+    background: var(--bg-surface-elevated, #1c1f2b);
+    border: 1px solid rgba(242, 111, 34, 0.45);
+    border-radius: var(--radius-md, 8px);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.6);
+    padding: 0.85rem 1rem;
+    pointer-events: auto;
+    backdrop-filter: blur(10px);
+    animation: popoverFadeIn 0.15s ease-out;
+  }
+  @keyframes popoverFadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .popover-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.35rem;
+  }
+  .popover-title-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .popover-surface {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--saffron);
+  }
+  .popover-source-tag {
+    font-size: 0.68rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: var(--radius-pill);
+    background: rgba(242, 111, 34, 0.1);
+    border: 1px solid rgba(242, 111, 34, 0.25);
+    color: var(--saffron);
+  }
+  .popover-close {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    cursor: pointer;
+    padding: 0.2rem;
+  }
+  .popover-padaccheda {
+    font-size: 0.9rem;
+    color: var(--gold);
+    margin-bottom: 0.35rem;
+  }
+  .popover-grammar {
+    display: inline-block;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-subtle);
+    padding: 0.15rem 0.45rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    font-family: var(--font-devanagari);
+  }
+  .popover-meaning {
+    font-size: 0.88rem;
+    color: var(--text-primary);
+    line-height: 1.45;
+  }
+  .popover-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0.6rem;
+    padding-top: 0.45rem;
+    border-top: 1px solid var(--border-subtle);
+  }
+  .popover-expand-btn {
+    background: rgba(242, 111, 34, 0.15);
+    border: 1px solid rgba(242, 111, 34, 0.35);
+    color: var(--saffron);
+    font-size: 0.74rem;
+    font-weight: 600;
+    padding: 0.25rem 0.6rem;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .popover-expand-btn:hover {
+    background: var(--saffron);
+    color: #fff;
+  }
+  .popover-link {
+    font-size: 0.74rem;
+    color: var(--text-muted);
+    text-decoration: none;
+  }
+  .popover-link:hover {
+    color: var(--gold);
+    text-decoration: underline;
+  }
+
+  .dict-quick-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.72rem;
+    color: var(--saffron);
+    background: rgba(242, 111, 34, 0.1);
+    border: 1px solid rgba(242, 111, 34, 0.25);
+    padding: 0.15rem 0.5rem;
+    border-radius: var(--radius-pill);
+    text-decoration: none;
+    margin-left: auto;
+  }
+</style>
+
+<script is:inline define:vars={{ scripture, initialChapter, initialVerse }}>
+  (function() {
+    const scriptureId = scripture.id;
+    const chaptersMeta = scripture.chapters;
+
+    let currentChapter = initialChapter;
+    let currentVerse = initialVerse;
+    let currentVersesData = [];
+    const chapterCache = {};
+
+    let activeSchool = 'all';
+    let fontSizeScale = parseFloat(localStorage.getItem('vv_font_scale') || '1.0');
+
+    // Vedantic school & commentator mapping
+    const schoolMap = {
+      'Sri Shankaracharya': 'Advaita',
+      'Adi Shankaracharya': 'Advaita',
+      'Sri Madhusudan Saraswati': 'Advaita',
+      'Sri Anandgiri': 'Advaita',
+      'Sri Ramanujacharya': 'Vishishtadvaita',
+      'Sri Vedantadeshikacharya Venkatanatha': 'Vishishtadvaita',
+      'Swami Adidevananda': 'Vishishtadvaita',
+      'Sri Madhavacharya': 'Dvaita',
+      'Sri Jayatritha': 'Dvaita',
+      'Sri Sridhara Swami': 'Suddhadvaita',
+      'Sri Vallabhacharya': 'Suddhadvaita',
+      'Sri Purushottamji': 'Suddhadvaita',
+      'Sri Abhinavgupta': 'Kashmir Shaivism',
+      'Swami Sivananda': 'Modern Vedanta',
+      'Swami Chinmayananda': 'Modern Vedanta',
+      'Swami Gambirananda': 'Advaita',
+      'Swami Ramsukhdas': 'Bhakti / Karma',
+      'Adi Shankaracharya Bhashya': 'Advaita',
+      'Adi Shankaracharya (Pada Bhashya)': 'Advaita',
+      'Adi Shankaracharya (Vakya Bhashya)': 'Advaita',
+      // Yoga Sutra Commentaries
+      'Vyāsa Bhāṣya (Maharshi Vyāsa)': 'Yoga Darśana',
+      'Vyāsa Bhāṣya (Hindi Translation)': 'Yoga Darśana (Hindi)',
+      'Rājāmārtāṇḍa (King Bhojadeva)': 'Yoga Darśana (Bhoja)',
+      'Rājāmārtāṇḍa (Hindi Translation)': 'Yoga Darśana (Hindi)',
+      'Tattva Vaiśāradī (Vācaspati Miśra)': 'Classical Yoga (Vācaspati)',
+      'Tattva Vaiśāradī (Hindi Translation)': 'Classical Yoga (Hindi)',
+      'Yoga Sudhākara (Sadāśivendra Sarasvatī)': 'Yoga Sudhākara',
+      'Yoga Sudhākara (Hindi Translation)': 'Yoga Sudhākara (Hindi)'
+    };
+
+    // DOM Elements
+    const sanskritEl = document.getElementById('sanskritText');
+    const translitEl = document.getElementById('transliterationText');
+    const coordLabel = document.getElementById('verseCoordLabel');
+    const bottomIndicator = document.getElementById('verseIndicatorBottom');
+    const prevBtn = document.getElementById('prevVerseBtn');
+    const nextBtn = document.getElementById('nextVerseBtn');
+    const copyBtn = document.getElementById('copyVerseBtn');
+    const decFont = document.getElementById('decFontBtn');
+    const incFont = document.getElementById('incFontBtn');
+    const shlokaBox = document.getElementById('shlokaBox');
+
+    // Audio elements
+    const audioBar = document.getElementById('audioChantingBar');
+    const playAudioBtn = document.getElementById('playAudioBtn');
+    const audioPlayIcon = document.getElementById('audioPlayIcon');
+    const audioPlayText = document.getElementById('audioPlayText');
+    const audioEl = document.getElementById('sutraAudioEl');
+
+    // Summary Elements
+    const summaryTitle = document.getElementById('summaryChapterName');
+    const summarySanskrit = document.getElementById('summaryChapterSanskrit');
+    const summaryText = document.getElementById('summaryChapterText');
+    const activeChTitle = document.getElementById('activeChapterTitle');
+
+    // Tabs
+    const tabButtons = document.querySelectorAll('.tab-btn');
+    const tabPanels = document.querySelectorAll('.tab-panel');
+
+    // Drawer Elements
+    const drawer = document.getElementById('chapterVerseDrawer');
+    const openDrawerBtn = document.getElementById('openDrawerBtn');
+    const drawerToggleBottomBtn = document.getElementById('drawerToggleBottomBtn');
+    const closeDrawerBtn = document.getElementById('closeDrawerBtn');
+    const drawerChSelect = document.getElementById('drawerChapterSelect');
+    const drawerVerseGrid = document.getElementById('drawerVerseGrid');
+    const drawerVerseTotal = document.getElementById('drawerVerseTotal');
+
+    // Check URL parameters on load
+    const params = new URLSearchParams(window.location.search);
+    const qC = parseInt(params.get('c'), 10);
+    const qV = parseInt(params.get('v'), 10);
+    if (!isNaN(qC) && chaptersMeta.some(ch => ch.chapter_number === qC)) {
+      currentChapter = qC;
+    }
+    if (!isNaN(qV) && qV > 0) {
+      currentVerse = qV;
+    }
+
+    applyFontSize();
+
+    // Event Listeners
+    if (openDrawerBtn) openDrawerBtn.addEventListener('click', openDrawer);
+    if (drawerToggleBottomBtn) drawerToggleBottomBtn.addEventListener('click', openDrawer);
+    if (closeDrawerBtn) closeDrawerBtn.addEventListener('click', closeDrawer);
+
+    if (drawer) {
+      drawer.addEventListener('click', (e) => {
+        if (e.target === drawer) closeDrawer();
+      });
+    }
+
+    if (drawerChSelect) {
+      drawerChSelect.addEventListener('change', (e) => {
+        const newCh = parseInt(e.target.value, 10);
+        switchChapter(newCh, 1);
+      });
+    }
+
+    if (prevBtn) {
+      prevBtn.addEventListener('click', () => {
+        if (currentVerse > 1) {
+          switchVerse(currentVerse - 1);
+        } else if (currentChapter > 1) {
+          const prevChMeta = chaptersMeta.find(c => c.chapter_number === currentChapter - 1);
+          const targetVerse = prevChMeta ? prevChMeta.verses_count : 1;
+          switchChapter(currentChapter - 1, targetVerse);
+        }
+      });
+    }
+
+    if (nextBtn) {
+      nextBtn.addEventListener('click', () => {
+        const chMeta = chaptersMeta.find(c => c.chapter_number === currentChapter);
+        const maxV = chMeta ? chMeta.verses_count : currentVersesData.length;
+        if (currentVerse < maxV) {
+          switchVerse(currentVerse + 1);
+        } else if (currentChapter < chaptersMeta.length) {
+          switchChapter(currentChapter + 1, 1);
+        }
+      });
+    }
+
+    // Audio Playback Handler
+    if (playAudioBtn && audioEl) {
+      playAudioBtn.addEventListener('click', () => {
+        if (audioEl.paused) {
+          audioEl.play().then(() => {
+            if (audioPlayIcon) audioPlayIcon.textContent = '⏸';
+            if (audioPlayText) audioPlayText.textContent = 'Pause Recitation';
+          }).catch(err => {
+            console.warn('Playback error:', err);
+          });
+        } else {
+          audioEl.pause();
+          if (audioPlayIcon) audioPlayIcon.textContent = '🔊';
+          if (audioPlayText) audioPlayText.textContent = 'Play Sacred Recitation';
+        }
+      });
+
+      audioEl.addEventListener('ended', () => {
+        if (audioPlayIcon) audioPlayIcon.textContent = '🔊';
+        if (audioPlayText) audioPlayText.textContent = 'Play Sacred Recitation';
+      });
+    }
+
+    // Keyboard Shortcuts (ArrowLeft, ArrowRight)
+    window.addEventListener('keydown', (e) => {
+      if (document.activeElement?.tagName === 'INPUT' || document.activeElement?.tagName === 'SELECT' || document.activeElement?.tagName === 'TEXTAREA') {
+        return;
+      }
+      if (e.key === 'ArrowLeft') {
+        e.preventDefault();
+        prevBtn?.click();
+      } else if (e.key === 'ArrowRight') {
+        e.preventDefault();
+        nextBtn?.click();
+      }
+    });
+
+    // Font Controls
+    if (decFont) {
+      decFont.addEventListener('click', () => {
+        fontSizeScale = Math.max(0.8, fontSizeScale - 0.1);
+        localStorage.setItem('vv_font_scale', fontSizeScale.toFixed(2));
+        applyFontSize();
+      });
+    }
+    if (incFont) {
+      incFont.addEventListener('click', () => {
+        fontSizeScale = Math.min(1.5, fontSizeScale + 0.1);
+        localStorage.setItem('vv_font_scale', fontSizeScale.toFixed(2));
+        applyFontSize();
+      });
+    }
+
+    // Copy Verse
+    if (copyBtn) {
+      copyBtn.addEventListener('click', copyVerse);
+    }
+
+    // Tabs
+    tabButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const targetTab = btn.getAttribute('data-tab');
+        tabButtons.forEach(b => b.classList.remove('active'));
+        tabPanels.forEach(p => p.classList.remove('active'));
+
+        btn.classList.add('active');
+        const panel = document.getElementById(`panel${targetTab.charAt(0).toUpperCase() + targetTab.slice(1)}`);
+        if (panel) panel.classList.add('active');
+      });
+    });
+
+    // School filter in commentaries
+    const schoolChips = document.querySelectorAll('.school-chip');
+    schoolChips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        schoolChips.forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        activeSchool = chip.getAttribute('data-school') || 'all';
+        renderCommentaries();
+      });
+    });
+
+    // Initialize
+    loadChapter(currentChapter, currentVerse);
+
+    // Core Data Fetcher
+    async function loadChapter(chNumber, targetVerse = 1) {
+      currentChapter = chNumber;
+      updateChapterMetaView();
+
+      if (chapterCache[chNumber]) {
+        currentVersesData = chapterCache[chNumber];
+        renderVerseGrid();
+        switchVerse(targetVerse);
+        return;
+      }
+
+      sanskritEl.textContent = 'Loading sacred verse...';
+      translitEl.textContent = 'Fetching data...';
+
+      try {
+        const res = await fetch(`/data/${scriptureId}/chapters/chapter_${chNumber}.json`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        chapterCache[chNumber] = data;
+        currentVersesData = data;
+        renderVerseGrid();
+        switchVerse(targetVerse);
+      } catch (err) {
+        console.error('Error loading chapter:', err);
+        sanskritEl.textContent = 'Error loading scripture text.';
+        translitEl.textContent = 'Please check connection or select another chapter.';
+      }
+    }
+
+    function switchChapter(newCh, targetVerse = 1) {
+      if (drawerChSelect) drawerChSelect.value = newCh;
+      loadChapter(newCh, targetVerse);
+    }
+
+    function switchVerse(vNumber) {
+      const chMeta = chaptersMeta.find(c => c.chapter_number === currentChapter);
+      const maxV = chMeta ? chMeta.verses_count : currentVersesData.length;
+      currentVerse = Math.min(Math.max(1, vNumber), maxV || 1);
+
+      updateUrl();
+      renderCurrentVerse();
+      updateNavigationButtons();
+      updateDrawerActiveVerse();
+    }
+
+    function updateUrl() {
+      const url = new URL(window.location.href);
+      url.searchParams.set('c', currentChapter);
+      url.searchParams.set('v', currentVerse);
+      window.history.replaceState({}, '', url.toString());
+    }
+
+    function updateChapterMetaView() {
+      const ch = chaptersMeta.find(c => c.chapter_number === currentChapter) || chaptersMeta[0];
+      if (summaryTitle) summaryTitle.textContent = `${ch.chapter_number}. ${ch.name}`;
+      if (summarySanskrit) summarySanskrit.textContent = ch.name_sanskrit ? `(${ch.name_sanskrit})` : '';
+      if (summaryText) summaryText.textContent = ch.summary || 'Summary for this sacred chapter.';
+      if (activeChTitle) activeChTitle.textContent = `Ch ${ch.chapter_number}: ${ch.name}`;
+      if (drawerVerseTotal) drawerVerseTotal.textContent = `${ch.verses_count} Verses`;
+    }
+
+    function renderVerseGrid() {
+      if (!drawerVerseGrid) return;
+      const ch = chaptersMeta.find(c => c.chapter_number === currentChapter);
+      const total = ch ? ch.verses_count : currentVersesData.length;
+
+      let html = '';
+      for (let i = 1; i <= total; i++) {
+        const vObj = currentVersesData[i - 1];
+        const displayNum = (vObj && vObj.sutra_number) ? vObj.sutra_number : i;
+        html += `<button class="verse-btn ${i === currentVerse ? 'active' : ''}" data-verse="${i}">${displayNum}</button>`;
+      }
+      drawerVerseGrid.innerHTML = html;
+
+      drawerVerseGrid.querySelectorAll('.verse-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const v = parseInt(btn.getAttribute('data-verse'), 10);
+          switchVerse(v);
+          closeDrawer();
+        });
+      });
+    }
+
+    function updateDrawerActiveVerse() {
+      drawerVerseGrid?.querySelectorAll('.verse-btn').forEach(btn => {
+        const v = parseInt(btn.getAttribute('data-verse'), 10);
+        btn.classList.toggle('active', v === currentVerse);
+      });
+    }
+
+    function renderCurrentVerse() {
+      const verseObj = currentVersesData[currentVerse - 1] || currentVersesData[0];
+      if (!verseObj) return;
+
+      const sanskrit = verseObj.sanskrit_shloka || verseObj.text || '';
+      const translit = verseObj.transliteration || '';
+
+      sanskritEl.innerHTML = formatSanskritTokens(sanskrit);
+      translitEl.textContent = translit;
+      translitEl.style.display = translit ? 'block' : 'none';
+
+      updateVerseVocabChips(verseObj);
+
+      // Coordinate Label
+      const sutraNum = verseObj.sutra_number || currentVerse;
+      const term = scriptureId === 'yogasutras' ? 'Sūtra' : 'Verse';
+      const label = `Chapter ${currentChapter} • ${term} ${sutraNum}`;
+      if (coordLabel) coordLabel.textContent = label;
+      if (bottomIndicator) bottomIndicator.textContent = `Ch ${currentChapter} : ${term[0]} ${sutraNum}`;
+
+      // Metadata elements
+      const secTagEl = document.getElementById('verseSectionTag');
+      const stageTagEl = document.getElementById('verseStageTag');
+      const summaryBannerEl = document.getElementById('verseSummaryLine');
+      const summaryTextEl = document.getElementById('verseSummaryText');
+      const metaStripEl = document.getElementById('verseMetaStrip');
+
+      const meta = verseObj.metadata || {};
+      const secTitle = verseObj.section_title || meta.section_title || '';
+      const summaryLine = verseObj.summary_line || meta.summary_line || '';
+      const stage = verseObj.sadhana_stage || meta.sadhana_stage || '';
+      const doctrine = verseObj.primary_doctrine || meta.primary_doctrine || '';
+      const prakriya = verseObj.prakriya_mapped || meta.prakriya_mapped || '';
+      const obstacle = verseObj.target_obstacle || meta.target_obstacle || '';
+      const category = meta.metaphysical_category || '';
+      const keywords = verseObj.keywords_sanskrit || meta.keywords_sanskrit || [];
+
+      // Section Tag Pill
+      if (secTagEl) {
+        if (secTitle) {
+          secTagEl.textContent = secTitle;
+          secTagEl.style.display = 'inline-flex';
+        } else {
+          secTagEl.style.display = 'none';
+        }
+      }
+
+      // Sādhana Stage Pill
+      if (stageTagEl) {
+        if (stage) {
+          stageTagEl.textContent = `Stage: ${stage}`;
+          stageTagEl.style.display = 'inline-flex';
+        } else {
+          stageTagEl.style.display = 'none';
+        }
+      }
+
+      // Contemplation Summary Line
+      if (summaryBannerEl && summaryTextEl) {
+        if (summaryLine) {
+          summaryTextEl.textContent = `"${summaryLine}"`;
+          summaryBannerEl.style.display = 'block';
+        } else {
+          summaryBannerEl.style.display = 'none';
+        }
+      }
+
+      // Meta Chips Strip in Shloka Box
+      if (metaStripEl) {
+        const chips = [];
+        if (doctrine) chips.push(`<span class="meta-chip doctrine" title="Advaita Doctrine">Doctrine: ${doctrine}</span>`);
+        if (prakriya && prakriya !== 'None') chips.push(`<span class="meta-chip prakriya" title="Teaching Methodology">Method: ${prakriya}</span>`);
+        if (category) chips.push(`<span class="meta-chip category" title="Metaphysical Sphere">Sphere: ${category}</span>`);
+        if (obstacle) chips.push(`<span class="meta-chip obstacle" title="Target Obstacle Dismantled">Dismantles: ${obstacle}</span>`);
+        if (Array.isArray(keywords)) {
+          keywords.slice(0, 4).forEach(kw => {
+            chips.push(`<span class="meta-chip keyword">${kw}</span>`);
+          });
+        }
+        if (chips.length > 0) {
+          metaStripEl.innerHTML = chips.join('');
+          metaStripEl.style.display = 'flex';
+        } else {
+          metaStripEl.style.display = 'none';
+        }
+      }
+
+      // Audio handler
+      if (audioBar && audioEl) {
+        if (verseObj.audio_link) {
+          audioBar.style.display = 'flex';
+          audioEl.src = verseObj.audio_link;
+          if (audioPlayIcon) audioPlayIcon.textContent = '🔊';
+          if (audioPlayText) audioPlayText.textContent = 'Play Sacred Recitation';
+        } else {
+          audioBar.style.display = 'none';
+          audioEl.pause();
+        }
+      }
+
+      renderTranslations();
+      renderCommentaries();
+      renderWordBreakdown();
+      renderFaqs();
+    }
+
+    function renderTranslations() {
+      const container = document.getElementById('translationsList');
+      if (!container) return;
+      const verseObj = currentVersesData[currentVerse - 1];
+      if (!verseObj) return;
+
+      const translations = (verseObj.translations && verseObj.translations.length)
+        ? verseObj.translations
+        : (verseObj.translation ? [{ author_name: 'Traditional Translation', description: verseObj.translation, language: 'English' }] : []);
+
+      if (translations.length === 0) {
+        container.innerHTML = '<p class="font-lora" style="color: var(--text-muted); padding: 1rem 0;">No translations indexed for this verse.</p>';
+        return;
+      }
+
+      container.innerHTML = translations.map(t => `
+        <div class="interpretation-card">
+          <div class="interpretation-header">
+            <span class="author-title">${t.author_name || t.author || 'Traditional Translator'}</span>
+            <span class="school-tag">${t.language || 'English'}</span>
+          </div>
+          <div class="interpretation-body font-lora">
+            ${(t.description || t.text || '').replace(/\n/g, '<br/>')}
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function renderCommentaries() {
+      const container = document.getElementById('commentariesList');
+      if (!container) return;
+      const verseObj = currentVersesData[currentVerse - 1];
+      if (!verseObj) return;
+
+      let commentaries = verseObj.commentaries || [];
+
+      if (activeSchool !== 'all') {
+        commentaries = commentaries.filter(c => {
+          const author = c.author_name || c.author || '';
+          const school = c.school || schoolMap[author] || '';
+          const lang = c.language || '';
+          return school.toLowerCase().includes(activeSchool.toLowerCase()) || 
+                 author.toLowerCase().includes(activeSchool.toLowerCase()) ||
+                 lang.toLowerCase().includes(activeSchool.toLowerCase());
+        });
+      }
+
+      if (commentaries.length === 0) {
+        container.innerHTML = `
+          <div style="padding: 1.5rem 0; color: var(--text-muted); font-size: 0.9rem;">
+            No commentaries found matching filter. Try selecting "All Commentaries".
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = commentaries.map(c => {
+        const author = c.author_name || c.author || 'Commentator';
+        const school = c.school || schoolMap[author] || c.language || 'Traditional';
+        const isBhasya = author.includes('Shankara') || author.includes('Shankaracharya') || school.includes('Advaita');
+        return `
+          <div class="interpretation-card">
+            <div class="interpretation-header">
+              <span class="author-title">${author}</span>
+              <span class="school-tag">${school}</span>
+              ${isBhasya ? `<a href="/bhashya-dictionary" target="_blank" class="dict-quick-badge font-cinzel" title="Lookup terms in the 95,585-word Śāṅkara Bhāṣya Lexicon"><span>📖</span> Lexicon</a>` : ''}
+            </div>
+            <div class="interpretation-body font-lora bhasya-selectable">
+              ${(c.description || c.text || '').replace(/\n/g, '<br/>')}
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function renderWordBreakdown() {
+      const container = document.getElementById('wordBreakdownContent');
+      if (!container) return;
+      const verseObj = currentVersesData[currentVerse - 1];
+      if (!verseObj) return;
+
+      const words = verseObj.word_by_word;
+
+      if (!words || (Array.isArray(words) && words.length === 0)) {
+        container.innerHTML = `
+          <p class="font-lora" style="grid-column: 1 / -1; color: var(--text-muted); padding: 1rem 0;">
+            Word-by-word grammatical breakdown is not indexed for this sutra. Please refer to translations and commentaries.
+          </p>
+        `;
+        return;
+      }
+
+      if (Array.isArray(words)) {
+        container.innerHTML = words.map(w => {
+          const cleanWord = (w.word_sanskrit || '').replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+          return `
+            <div class="word-card interactive-word-card" data-word="${cleanWord}" tabindex="0" role="button" title="Click to inspect dictionary analysis for ${cleanWord}">
+              <div class="word-header-row">
+                <div class="word-sanskrit">${w.word_sanskrit || ''}</div>
+                <span class="card-lookup-icon" title="On-screen lookup">🔍</span>
+              </div>
+              <div class="word-meaning font-lora">${(w.word_english || '').replace(/\n/g, '<br/>')}</div>
+              ${w.grammar_role ? `<div class="word-grammar">${w.grammar_role} ${w.root ? `• Root: ${w.root}` : ''}</div>` : ''}
+            </div>
+          `;
+        }).join('');
+      } else {
+        container.innerHTML = `<div class="interpretation-card font-lora">${String(words)}</div>`;
+      }
+    }
+
+    function renderFaqs() {
+      const container = document.getElementById('faqsList');
+      const metaOverviewEl = document.getElementById('metadataOverviewCard');
+      const verseObj = currentVersesData[currentVerse - 1];
+      if (!verseObj) return;
+
+      const meta = verseObj.metadata || {};
+      const secTitle = verseObj.section_title || meta.section_title || '';
+      const stage = verseObj.sadhana_stage || meta.sadhana_stage || '';
+      const doctrine = verseObj.primary_doctrine || meta.primary_doctrine || '';
+      const prakriya = verseObj.prakriya_mapped || meta.prakriya_mapped || '';
+      const obstacle = verseObj.target_obstacle || meta.target_obstacle || '';
+      const category = meta.metaphysical_category || '';
+      const srutiEcho = meta.sruti_smriti_echo || '';
+      const mahavakya = meta.mahavakya_correlative || '';
+      const dialogueCtx = meta.dialogue_context || '';
+      const keywords = verseObj.keywords_sanskrit || meta.keywords_sanskrit || [];
+
+      // Render Metadata Overview Card
+      if (metaOverviewEl) {
+        const gridItems = [];
+        if (secTitle) {
+          gridItems.push(`
+            <div class="meta-item">
+              <div class="meta-item-label">Thematic Section</div>
+              <div class="meta-item-value" style="color: var(--accent-gold); font-weight: 600;">${secTitle}</div>
+            </div>
+          `);
+        }
+        if (doctrine) {
+          gridItems.push(`
+            <div class="meta-item">
+              <div class="meta-item-label">Primary Doctrine</div>
+              <div class="meta-item-value">${doctrine}</div>
+            </div>
+          `);
+        }
+        if (prakriya && prakriya !== 'None') {
+          gridItems.push(`
+            <div class="meta-item">
+              <div class="meta-item-label">Methodology (Prakriyā)</div>
+              <div class="meta-item-value">${prakriya}</div>
+            </div>
+          `);
+        }
+        if (stage) {
+          gridItems.push(`
+            <div class="meta-item">
+              <div class="meta-item-label">Sādhana Stage</div>
+              <div class="meta-item-value">${stage}</div>
+            </div>
+          `);
+        }
+        if (obstacle) {
+          gridItems.push(`
+            <div class="meta-item">
+              <div class="meta-item-label">Dismantles Obstacle</div>
+              <div class="meta-item-value" style="color: #f87171;">${obstacle}</div>
+            </div>
+          `);
+        }
+        if (category) {
+          gridItems.push(`
+            <div class="meta-item">
+              <div class="meta-item-label">Ontological Sphere</div>
+              <div class="meta-item-value">${category}</div>
+            </div>
+          `);
+        }
+        if (srutiEcho) {
+          gridItems.push(`
+            <div class="meta-item" style="grid-column: 1 / -1;">
+              <div class="meta-item-label">Śruti / Smṛti Resonance</div>
+              <div class="meta-item-value font-lora" style="font-style: italic;">${srutiEcho}</div>
+            </div>
+          `);
+        }
+        if (mahavakya) {
+          gridItems.push(`
+            <div class="meta-item">
+              <div class="meta-item-label">Mahāvākya Correlation</div>
+              <div class="meta-item-value font-devanagari" style="color: var(--accent-gold);">${mahavakya}</div>
+            </div>
+          `);
+        }
+        if (dialogueCtx) {
+          gridItems.push(`
+            <div class="meta-item">
+              <div class="meta-item-label">Teaching Setting</div>
+              <div class="meta-item-value">${dialogueCtx}</div>
+            </div>
+          `);
+        }
+        if (Array.isArray(keywords) && keywords.length > 0) {
+          gridItems.push(`
+            <div class="meta-item" style="grid-column: 1 / -1;">
+              <div class="meta-item-label">Key Sanskrit Terms</div>
+              <div class="meta-item-value" style="display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.25rem;">
+                ${keywords.map(kw => `<span class="meta-chip keyword">${kw}</span>`).join('')}
+              </div>
+            </div>
+          `);
+        }
+
+        if (gridItems.length > 0) {
+          metaOverviewEl.innerHTML = `
+            <div class="meta-overview-header font-cinzel">
+              Philosophical Framework & Textual Context
+            </div>
+            <div class="meta-grid">
+              ${gridItems.join('')}
+            </div>
+          `;
+          metaOverviewEl.style.display = 'block';
+        } else {
+          metaOverviewEl.style.display = 'none';
+        }
+      }
+
+      if (!container) return;
+      const faqs = verseObj.commentary_faqs;
+
+      if (!faqs || (Array.isArray(faqs) && faqs.length === 0)) {
+        if (!metaOverviewEl || metaOverviewEl.style.display === 'none') {
+          container.innerHTML = `
+            <p class="font-lora" style="color: var(--text-muted); padding: 1rem 0; text-align: center;">
+              No philosophical inquiries or FAQ entries indexed for this verse.
+            </p>
+          `;
+        } else {
+          container.innerHTML = '';
+        }
+        return;
+      }
+
+      if (Array.isArray(faqs)) {
+        container.innerHTML = faqs.map(f => `
+          <div class="faq-card">
+            <div class="faq-question">${f.question || f.q}</div>
+            <div class="faq-answer font-lora">${(f.answer || f.a || '').replace(/\n/g, '<br/>')}</div>
+          </div>
+        `).join('');
+      }
+    }
+
+    function updateNavigationButtons() {
+      const isFirst = currentChapter === 1 && currentVerse === 1;
+      const isLast = currentChapter === chaptersMeta.length && currentVerse === (chaptersMeta[chaptersMeta.length - 1]?.verses_count || currentVersesData.length);
+
+      if (prevBtn) prevBtn.disabled = isFirst;
+      if (nextBtn) nextBtn.disabled = isLast;
+    }
+
+    function copyVerse() {
+      const verseObj = currentVersesData[currentVerse - 1];
+      if (!verseObj) return;
+
+      const sanskrit = verseObj.sanskrit_shloka || verseObj.text || '';
+      const translit = verseObj.transliteration || '';
+      const translations = verseObj.translations || [];
+      const primaryTranslation = translations[0]?.description || translations[0]?.text || verseObj.translation || '';
+      const sec = verseObj.section_title || verseObj.metadata?.section_title || '';
+      const summary = verseObj.summary_line || verseObj.metadata?.summary_line || '';
+
+      const text = `${scripture.name} — Chapter ${currentChapter}, Verse ${verseObj.sutra_number || currentVerse}${sec ? ` (${sec})` : ''}
+\n${sanskrit}
+\n${translit ? translit + '\n' : ''}
+${summary ? `Key Insight: "${summary}"\n` : ''}Translation:
+${primaryTranslation}
+\nRead more on VedāntVāṇī: ${window.location.href}`;
+
+      navigator.clipboard.writeText(text).then(() => {
+        window.showToast?.('Verse copied to clipboard!');
+      }).catch(() => {
+        window.showToast?.('Could not copy to clipboard.');
+      });
+    }
+
+    function applyFontSize() {
+      if (!shlokaBox) return;
+      shlokaBox.style.fontSize = `${fontSizeScale}rem`;
+      const sanskrit = document.getElementById('sanskritText');
+      if (sanskrit) sanskrit.style.fontSize = `${1.45 * fontSizeScale}rem`;
+    }
+
+    function openDrawer() {
+      if (!drawer) return;
+      drawer.classList.add('open');
+      drawer.setAttribute('aria-hidden', 'false');
+    }
+
+    function closeDrawer() {
+      if (!drawer) return;
+      drawer.classList.remove('open');
+      drawer.setAttribute('aria-hidden', 'true');
+    }
+
+    // ==========================================
+    // ON-SCREEN DICTIONARY & LEXICON CONTROLLER
+    // ==========================================
+    const DEFAULT_WORKER_URL = 'https://bhashya-dict-worker.anurag-chand88.workers.dev';
+
+    function getWorkerUrl() {
+      const saved = localStorage.getItem('vv_cf_worker_url');
+      if (saved !== null) return saved.trim().replace(/\/+$/, '');
+      return DEFAULT_WORKER_URL;
+    }
+
+    const ROMAN_TO_DEVA_MAP = {
+      'a': 'अ', 'aa': 'आ', 'ā': 'आ', 'i': 'इ', 'ii': 'ई', 'ī': 'ई',
+      'u': 'उ', 'uu': 'ऊ', 'ū': 'ऊ', 'ri': 'ऋ', 'ṛ': 'ऋ', 'e': 'ए',
+      'ai': 'ऐ', 'o': 'ओ', 'au': 'औ', 'am': 'ं', 'aṃ': 'ं', 'ah': 'ः', 'aḥ': 'ः',
+      'ka': 'क', 'kha': 'ख', 'ga': 'ग', 'gha': 'घ', 'nga': 'ङ',
+      'ca': 'च', 'cha': 'छ', 'ja': 'ज', 'jha': 'झ', 'nya': 'ञ',
+      'ta': 'त', 'tha': 'थ', 'da': 'द', 'dha': 'ध', 'na': 'न',
+      'pa': 'प', 'pha': 'फ', 'ba': 'ब', 'bha': 'भ', 'ma': 'म',
+      'ya': 'य', 'ra': 'र', 'la': 'ल', 'va': 'व',
+      'sha': 'श', 'śa': 'श', 'shha': 'ष', 'ṣa': 'ष', 'sa': 'स', 'ha': 'ह'
+    };
+
+    function toDevanagari(text) {
+      if (!text) return '';
+      if (/[\u0900-\u097F]/.test(text)) return text;
+      let res = text.toLowerCase().trim();
+      const keys = Object.keys(ROMAN_TO_DEVA_MAP).sort((a, b) => b.length - a.length);
+      for (const k of keys) {
+        res = res.replaceAll(k, ROMAN_TO_DEVA_MAP[k]);
+      }
+      return res;
+    }
+
+    const BIG_FIRST_SET = new Set(['प', 'स', 'अ', 'व', 'त', 'क', 'न', 'द', 'म', 'य', 'श', 'आ', 'ब', 'ज', 'उ', 'इ', 'भ', 'च', 'ए', 'ग', 'ह', 'र']);
+    function getShardFilename(term) {
+      if (!term) return '';
+      const c1 = term[0];
+      if (BIG_FIRST_SET.has(c1) && term.length > 1) {
+        return `u${c1.charCodeAt(0).toString(16).padStart(4, '0')}_u${term[1].charCodeAt(0).toString(16).padStart(4, '0')}.json`;
+      }
+      return `u${c1.charCodeAt(0).toString(16).padStart(4, '0')}.json`;
+    }
+
+    // DOM Elements for On-Screen Dictionary
+    const dictDrawer = document.getElementById('onScreenDictDrawer');
+    const openDictDrawerBtn = document.getElementById('openDictDrawerBtn');
+    const dictToggleBottomBtn = document.getElementById('dictToggleBottomBtn');
+    const closeDictDrawerBtn = document.getElementById('closeDictDrawerBtn');
+    const lookupHintBtn = document.getElementById('lookupHintBtn');
+
+    const dictInput = document.getElementById('onScreenDictInput');
+    const clearDictInputBtn = document.getElementById('clearDictInputBtn');
+    const dictScopePills = document.querySelectorAll('.dict-scope-btn');
+    const verseVocabChipsEl = document.getElementById('verseVocabChips');
+    const vocabCountBadge = document.getElementById('vocabCountBadge');
+    const dictContentScroll = document.getElementById('dictContentScroll');
+    const dictActiveEntryCard = document.getElementById('dictActiveEntryCard');
+    const dictSearchResultsList = document.getElementById('dictSearchResultsList');
+    const dictEmptyState = document.getElementById('dictEmptyState');
+
+    // Floating Popover Elements
+    const popoverEl = document.getElementById('bhasyaWordPopover');
+    const popoverSurfaceEl = document.getElementById('popoverSurface');
+    const popoverSourceTag = document.getElementById('popoverSourceTag');
+    const popoverPadacchedaEl = document.getElementById('popoverPadaccheda');
+    const popoverGrammarEl = document.getElementById('popoverGrammar');
+    const popoverMeaningEl = document.getElementById('popoverMeaning');
+    const popoverFullLinkEl = document.getElementById('popoverFullLink');
+    const expandInDictDrawerBtn = document.getElementById('expandInDictDrawerBtn');
+    const closePopoverBtn = document.getElementById('closePopoverBtn');
+
+    let activeDictScope = 'all';
+    let currentActiveLookupWord = '';
+    let popoverCurrentWord = '';
+    const dictMemoryCache = {};
+    const shardCache = {};
+    let searchDebounceTimer = null;
+
+    /**
+     * Parse Sanskrit shloka text into clickable word tokens
+     */
+    function formatSanskritTokens(rawText) {
+      if (!rawText) return '';
+      const lines = rawText.split('\n');
+      return lines.map(line => {
+        const tokens = line.split(/(\s+|[।॥\-\,\.\:\;\"\'\(\)0-9०-९]+)/g);
+        return tokens.map(tok => {
+          if (!tok || !tok.trim() || /^[।॥\-\,\.\:\;\"\'\(\)0-9०-९\s]+$/.test(tok)) {
+            return tok;
+          }
+          const cleanWord = tok.replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+          if (!cleanWord || !/[\u0900-\u097F]/.test(cleanWord)) {
+            return tok;
+          }
+          return `<span class="shloka-word-token" data-word="${cleanWord}" tabindex="0" role="button" title="Click to lookup: ${cleanWord}">${tok}</span>`;
+        }).join('');
+      }).join('<br/>');
+    }
+
+    /**
+     * Populate verse vocabulary chips inside the on-screen dictionary
+     */
+    function updateVerseVocabChips(verseObj) {
+      if (!verseVocabChipsEl) return;
+      if (!verseObj) {
+        verseVocabChipsEl.innerHTML = '<span style="font-size: 0.8rem; color: var(--text-muted);">No vocabulary loaded.</span>';
+        if (vocabCountBadge) vocabCountBadge.textContent = '0 words';
+        return;
+      }
+
+      const wordsList = [];
+      const seen = new Set();
+
+      if (Array.isArray(verseObj.word_by_word) && verseObj.word_by_word.length > 0) {
+        verseObj.word_by_word.forEach(w => {
+          const raw = (w.word_sanskrit || '').replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+          if (raw && !seen.has(raw)) {
+            seen.add(raw);
+            wordsList.push(raw);
+          }
+        });
+      }
+
+      if (wordsList.length === 0 && (verseObj.sanskrit_shloka || verseObj.text)) {
+        const text = verseObj.sanskrit_shloka || verseObj.text || '';
+        const tokens = text.split(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]+/);
+        tokens.forEach(tok => {
+          const clean = tok.trim();
+          if (clean && /[\u0900-\u097F]/.test(clean) && !seen.has(clean)) {
+            seen.add(clean);
+            wordsList.push(clean);
+          }
+        });
+      }
+
+      if (vocabCountBadge) {
+        vocabCountBadge.textContent = `${wordsList.length} words`;
+      }
+
+      if (wordsList.length === 0) {
+        verseVocabChipsEl.innerHTML = '<span style="font-size: 0.8rem; color: var(--text-muted);">No distinct terms indexed in this verse.</span>';
+        return;
+      }
+
+      verseVocabChipsEl.innerHTML = wordsList.map(w => `
+        <button class="vocab-chip font-devanagari" data-word="${w}" title="Lookup ${w}">
+          ${w}
+        </button>
+      `).join('');
+    }
+
+    /**
+     * Query Word Entry with Worker D1 primary & local shard fallback
+     */
+    async function fetchWordEntry(rawWord) {
+      const word = rawWord.replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+      if (!word) return null;
+
+      const cacheKey = `${activeDictScope}:${word}`;
+      if (dictMemoryCache[cacheKey]) return dictMemoryCache[cacheKey];
+
+      // Check current verse word_by_word for fast local contextual data
+      let localVerseMatch = null;
+      const currentVerseObj = currentVersesData[currentVerse - 1];
+      if (currentVerseObj && Array.isArray(currentVerseObj.word_by_word)) {
+        const found = currentVerseObj.word_by_word.find(w => {
+          const s = (w.word_sanskrit || '').replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+          return s === word || s.includes(word) || word.includes(s);
+        });
+        if (found) {
+          localVerseMatch = {
+            source: 'mula',
+            surface: found.word_sanskrit || word,
+            padaccheda: found.root || found.word_sanskrit || word,
+            grammar: found.grammar_role || '',
+            meaning_en: found.word_english || '',
+            confidence: 'h',
+            work_slug: scripture.name,
+            unit_key: `Ch ${currentChapter} • V ${currentVerse}`
+          };
+        }
+      }
+
+      // 1. Query Cloudflare Worker D1 API
+      const workerUrl = getWorkerUrl();
+      if (workerUrl) {
+        try {
+          const res = await fetch(`${workerUrl}/api/dict/word?term=${encodeURIComponent(word)}&scope=${activeDictScope}`);
+          if (res.ok) {
+            const data = await res.json();
+            if (data && data.surface) {
+              if (localVerseMatch && !data.meaning_en) {
+                data.meaning_en = localVerseMatch.meaning_en;
+              }
+              dictMemoryCache[cacheKey] = data;
+              return data;
+            }
+          }
+        } catch (e) {
+          console.warn('Worker word lookup error:', e);
+        }
+      }
+
+      // 2. Fallback to local static shards
+      try {
+        const shardFile = getShardFilename(word);
+        if (shardFile) {
+          let shardJson = shardCache[shardFile];
+          if (!shardJson) {
+            const res = await fetch(`/data/dict/${shardFile}`);
+            if (res.ok) {
+              shardJson = await res.json();
+              shardCache[shardFile] = shardJson;
+            }
+          }
+          if (shardJson && shardJson[word]) {
+            const val = shardJson[word];
+            const entry = {
+              source: 'bhasya',
+              surface: word,
+              padaccheda: val.p || word,
+              grammar: val.g || '',
+              meaning_en: val.m || '',
+              confidence: val.c || 'h',
+              meaning_bn: val.mb || ''
+            };
+            dictMemoryCache[cacheKey] = entry;
+            return entry;
+          }
+        }
+      } catch (e) {
+        console.warn('Local shard lookup error:', e);
+      }
+
+      // 3. Return local verse match if available
+      if (localVerseMatch) {
+        dictMemoryCache[cacheKey] = localVerseMatch;
+        return localVerseMatch;
+      }
+
+      return null;
+    }
+
+    /**
+     * Search words across dictionary (Worker + local fallback)
+     */
+    async function searchWords(query) {
+      const q = query.trim();
+      if (!q) return [];
+
+      const workerUrl = getWorkerUrl();
+      if (workerUrl) {
+        try {
+          const res = await fetch(`${workerUrl}/api/dict/search?q=${encodeURIComponent(q)}&scope=${activeDictScope}&limit=20`);
+          if (res.ok) {
+            const list = await res.json();
+            if (Array.isArray(list)) return list;
+          }
+        } catch (e) {
+          console.warn('Worker search error:', e);
+        }
+      }
+
+      // Shard search fallback
+      try {
+        const devaQ = /[\u0900-\u097F]/.test(q) ? q : toDevanagari(q);
+        const shardFile = getShardFilename(devaQ);
+        if (shardFile) {
+          let shardJson = shardCache[shardFile];
+          if (!shardJson) {
+            const res = await fetch(`/data/dict/${shardFile}`);
+            if (res.ok) {
+              shardJson = await res.json();
+              shardCache[shardFile] = shardJson;
+            }
+          }
+          if (shardJson) {
+            const matches = [];
+            for (const [term, val] of Object.entries(shardJson)) {
+              if (term.includes(devaQ) || (val.p && val.p.includes(devaQ)) || (val.m && val.m.toLowerCase().includes(q.toLowerCase()))) {
+                matches.push({
+                  source: 'bhasya',
+                  surface: term,
+                  padaccheda: val.p || term,
+                  grammar: val.g || '',
+                  meaning_en: val.m || '',
+                  confidence: val.c || 'h'
+                });
+                if (matches.length >= 20) break;
+              }
+            }
+            return matches;
+          }
+        }
+      } catch (e) {}
+
+      return [];
+    }
+
+    /**
+     * Open On-Screen Dictionary Drawer
+     */
+    function openDictDrawer(wordToLookup = null) {
+      if (!dictDrawer) return;
+      dictDrawer.classList.add('open');
+      dictDrawer.setAttribute('aria-hidden', 'false');
+
+      // Dismiss floating popover if open
+      if (popoverEl) popoverEl.style.display = 'none';
+
+      if (wordToLookup) {
+        if (dictInput) dictInput.value = wordToLookup;
+        if (clearDictInputBtn) clearDictInputBtn.style.display = 'block';
+        displayWordInDrawer(wordToLookup);
+      } else if (!currentActiveLookupWord && dictInput && dictInput.value.trim()) {
+        displayWordInDrawer(dictInput.value.trim());
+      }
+    }
+
+    /**
+     * Close On-Screen Dictionary Drawer
+     */
+    function closeDictDrawer() {
+      if (!dictDrawer) return;
+      dictDrawer.classList.remove('open');
+      dictDrawer.setAttribute('aria-hidden', 'true');
+    }
+
+    /**
+     * Render word details inside the on-screen drawer
+     */
+    async function displayWordInDrawer(rawWord) {
+      const cleanWord = rawWord.replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+      if (!cleanWord) return;
+      currentActiveLookupWord = cleanWord;
+
+      // Highlight active vocab chip
+      if (verseVocabChipsEl) {
+        verseVocabChipsEl.querySelectorAll('.vocab-chip').forEach(btn => {
+          btn.classList.toggle('active', btn.getAttribute('data-word') === cleanWord);
+        });
+      }
+
+      // Hide empty state and search results, show active card in loading state
+      if (dictEmptyState) dictEmptyState.style.display = 'none';
+      if (dictSearchResultsList) dictSearchResultsList.style.display = 'none';
+      if (dictActiveEntryCard) {
+        dictActiveEntryCard.style.display = 'block';
+        dictActiveEntryCard.innerHTML = `
+          <div style="text-align: center; padding: 2rem 0; color: var(--text-muted);">
+            <div style="font-size: 1.5rem; margin-bottom: 0.5rem; animation: spin 1s infinite linear;">🕉️</div>
+            <div class="font-cinzel" style="font-size: 0.9rem; color: var(--gold);">Querying Lexicon Edge...</div>
+            <div style="font-size: 0.8rem; margin-top: 0.25rem;">"${cleanWord}"</div>
+          </div>
+        `;
+      }
+
+      const entry = await fetchWordEntry(cleanWord);
+
+      if (entry && (entry.meaning_en || entry.grammar || entry.padaccheda)) {
+        const isBhasya = entry.source === 'bhasya';
+        const sourceLabel = isBhasya ? '🏛️ Śāṅkara Bhāṣya' : '📜 Canonical Mūla';
+        const contextStr = entry.work_slug ? `${entry.work_slug} ${entry.unit_key ? `(${entry.unit_key})` : ''}` : '';
+
+        dictActiveEntryCard.innerHTML = `
+          <div class="active-card-top">
+            <div>
+              <div class="active-card-surface font-devanagari">${entry.surface}</div>
+              ${entry.padaccheda && entry.padaccheda !== entry.surface ? `
+                <div class="active-card-padaccheda font-devanagari" style="margin-top: 0.25rem;">
+                  Root: ${entry.padaccheda}
+                </div>
+              ` : ''}
+            </div>
+            <span class="active-card-source-tag font-cinzel ${entry.source || 'bhasya'}">
+              ${sourceLabel}
+            </span>
+          </div>
+
+          ${entry.grammar ? `
+            <div class="active-card-row">
+              <div class="active-card-label font-cinzel">Grammatical Analysis (व्याकरणम्)</div>
+              <div class="active-card-grammar font-devanagari">${entry.grammar}</div>
+            </div>
+          ` : ''}
+
+          <div class="active-card-row">
+            <div class="active-card-label font-cinzel">Definition & Philosophical Meaning</div>
+            <div class="active-card-meaning-en font-lora">
+              ${(entry.meaning_en || 'Glossed term in commentary.').replace(/\n/g, '<br/>')}
+            </div>
+            ${entry.meaning_bn ? `
+              <div class="active-card-meaning-bn font-lora font-devanagari">
+                বাংলা অর্থ: ${entry.meaning_bn}
+              </div>
+            ` : ''}
+          </div>
+
+          ${contextStr ? `
+            <div class="active-card-context font-cinzel">
+              <span>Scriptural Locus:</span>
+              <strong style="color: var(--gold);">${contextStr}</strong>
+            </div>
+          ` : ''}
+
+          <div style="margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+            <a href="/bhashya-dictionary?q=${encodeURIComponent(entry.surface)}" target="_blank" class="dict-full-link font-cinzel" style="font-size: 0.72rem;">
+              Inspect in Full Lexicon Explorer →
+            </a>
+            ${entry.confidence ? `<span style="font-size: 0.7rem; color: var(--text-muted);">Confidence: ${entry.confidence.toUpperCase()}</span>` : ''}
+          </div>
+        `;
+      } else {
+        // No exact match, run search for similar terms
+        const results = await searchWords(cleanWord);
+        if (results.length > 0) {
+          renderSearchResults(results, `No exact entry for "${cleanWord}", but found ${results.length} related compound / lexical matches:`);
+        } else {
+          dictActiveEntryCard.innerHTML = `
+            <div style="text-align: center; padding: 2rem 1rem;">
+              <div style="font-size: 1.8rem; margin-bottom: 0.5rem; opacity: 0.7;">📜</div>
+              <h4 class="font-cinzel" style="color: var(--gold); margin-bottom: 0.5rem;">Word Not Directly Indexed</h4>
+              <p class="font-lora" style="font-size: 0.88rem; color: var(--text-muted); line-height: 1.5;">
+                "${cleanWord}" might be a Sandhi compound. Try breaking the compound into constituent roots or search above.
+              </p>
+              <div style="margin-top: 1rem;">
+                <a href="/bhashya-dictionary?q=${encodeURIComponent(cleanWord)}" target="_blank" class="dict-full-link font-cinzel">
+                  Search in Full Lexicon Explorer ↗
+                </a>
+              </div>
+            </div>
+          `;
+        }
+      }
+    }
+
+    /**
+     * Render search results inside the on-screen drawer
+     */
+    function renderSearchResults(results, headerNotice = null) {
+      if (!dictSearchResultsList) return;
+      if (dictEmptyState) dictEmptyState.style.display = 'none';
+      if (dictActiveEntryCard) dictActiveEntryCard.style.display = 'none';
+
+      dictSearchResultsList.style.display = 'flex';
+
+      if (!results || results.length === 0) {
+        dictSearchResultsList.innerHTML = `
+          <div style="text-align: center; padding: 2rem 1rem; color: var(--text-muted);">
+            <p class="font-lora">No lexical entries found matching your query.</p>
+          </div>
+        `;
+        return;
+      }
+
+      let html = '';
+      if (headerNotice) {
+        html += `<div class="font-cinzel" style="font-size: 0.75rem; color: var(--gold); margin-bottom: 0.5rem;">${headerNotice}</div>`;
+      }
+
+      html += results.map(item => `
+        <div class="dict-result-item" data-word="${item.surface}">
+          <div class="result-item-header">
+            <span class="result-item-surface font-devanagari">${item.surface}</span>
+            <span class="active-card-source-tag font-cinzel ${item.source || 'bhasya'}">
+              ${item.source === 'mula' ? 'Mūla' : 'Bhāṣya'}
+            </span>
+          </div>
+          ${item.padaccheda && item.padaccheda !== item.surface ? `
+            <div class="result-item-padaccheda font-devanagari">Root: ${item.padaccheda}</div>
+          ` : ''}
+          ${item.grammar ? `
+            <div class="popover-grammar" style="margin-bottom: 0.25rem;">${item.grammar}</div>
+          ` : ''}
+          <div class="result-item-meaning font-lora">
+            ${(item.meaning_en || 'Glossed term.').slice(0, 140)}${(item.meaning_en && item.meaning_en.length > 140) ? '...' : ''}
+          </div>
+        </div>
+      `).join('');
+
+      dictSearchResultsList.innerHTML = html;
+    }
+
+    /**
+     * Show compact floating popover positioned near target element or mouse coords
+     */
+    function showFloatingPopover(entry, targetEl, clientX, clientY) {
+      if (!popoverEl) return;
+      popoverCurrentWord = entry.surface;
+
+      if (popoverSurfaceEl) popoverSurfaceEl.textContent = entry.surface;
+      if (popoverSourceTag) {
+        popoverSourceTag.textContent = entry.source === 'mula' ? 'Mūla' : 'Bhāṣya';
+        popoverSourceTag.style.display = 'inline-block';
+      }
+      if (popoverPadacchedaEl) {
+        popoverPadacchedaEl.textContent = (entry.padaccheda && entry.padaccheda !== entry.surface) ? `Root: ${entry.padaccheda}` : '';
+      }
+      if (popoverGrammarEl) {
+        popoverGrammarEl.textContent = entry.grammar || '';
+        popoverGrammarEl.style.display = entry.grammar ? 'inline-block' : 'none';
+      }
+      if (popoverMeaningEl) {
+        popoverMeaningEl.textContent = entry.meaning_en || 'Glossed in sacred text.';
+      }
+      if (popoverFullLinkEl) {
+        popoverFullLinkEl.href = `/bhashya-dictionary?q=${encodeURIComponent(entry.surface)}`;
+      }
+
+      let posX = clientX;
+      let posY = clientY;
+
+      if (targetEl && targetEl.getBoundingClientRect) {
+        const rect = targetEl.getBoundingClientRect();
+        posX = rect.left + rect.width / 2;
+        posY = rect.bottom + 8;
+      }
+
+      const x = Math.min(Math.max(16, posX - 120), window.innerWidth - 340);
+      const y = Math.min(posY, window.innerHeight - 220);
+
+      popoverEl.style.left = `${x}px`;
+      popoverEl.style.top = `${y}px`;
+      popoverEl.style.display = 'block';
+    }
+
+    /**
+     * Main word lookup handler invoked by clicks on tokens, breakdown cards, or commentary
+     */
+    async function handleWordLookup(rawWord, targetEl = null, clientX = 200, clientY = 200) {
+      const cleanWord = rawWord.replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+      if (!cleanWord) return;
+
+      // If drawer is already open, show directly inside drawer
+      if (dictDrawer && dictDrawer.classList.contains('open')) {
+        displayWordInDrawer(cleanWord);
+        return;
+      }
+
+      // Otherwise fetch entry and display floating popover
+      const entry = await fetchWordEntry(cleanWord);
+      if (entry) {
+        showFloatingPopover(entry, targetEl, clientX, clientY);
+      } else {
+        // If not exact match, open drawer to display full search
+        openDictDrawer(cleanWord);
+      }
+    }
+
+    // ==========================================
+    // EVENT LISTENERS FOR ON-SCREEN DICTIONARY
+    // ==========================================
+
+    // 1. Shloka Words Token Click
+    if (sanskritEl) {
+      sanskritEl.addEventListener('click', (e) => {
+        const token = e.target.closest('.shloka-word-token');
+        if (token) {
+          const word = token.getAttribute('data-word');
+          if (word) {
+            // Visual active highlight
+            sanskritEl.querySelectorAll('.shloka-word-token').forEach(t => t.classList.remove('active-token'));
+            token.classList.add('active-token');
+
+            const rect = token.getBoundingClientRect();
+            handleWordLookup(word, token, rect.left + rect.width / 2, rect.bottom + 6);
+          }
+        }
+      });
+    }
+
+    // 2. Word Breakdown Cards Click
+    const wordBreakdownContainer = document.getElementById('wordBreakdownContent');
+    if (wordBreakdownContainer) {
+      wordBreakdownContainer.addEventListener('click', (e) => {
+        const card = e.target.closest('.interactive-word-card');
+        if (card) {
+          const word = card.getAttribute('data-word');
+          if (word) {
+            const rect = card.getBoundingClientRect();
+            handleWordLookup(word, card, rect.left + 50, rect.bottom + 6);
+          }
+        }
+      });
+    }
+
+    // 3. Vocab Chips in Drawer Click
+    if (verseVocabChipsEl) {
+      verseVocabChipsEl.addEventListener('click', (e) => {
+        const chip = e.target.closest('.vocab-chip');
+        if (chip) {
+          const word = chip.getAttribute('data-word');
+          if (word) {
+            displayWordInDrawer(word);
+          }
+        }
+      });
+    }
+
+    // 4. Search Results in Drawer Click
+    if (dictSearchResultsList) {
+      dictSearchResultsList.addEventListener('click', (e) => {
+        const item = e.target.closest('.dict-result-item');
+        if (item) {
+          const word = item.getAttribute('data-word');
+          if (word) {
+            displayWordInDrawer(word);
+          }
+        }
+      });
+    }
+
+    // 5. Example Chips Click
+    document.querySelectorAll('.example-chip').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const term = btn.getAttribute('data-term');
+        if (term) {
+          if (dictInput) dictInput.value = term;
+          if (clearDictInputBtn) clearDictInputBtn.style.display = 'block';
+          displayWordInDrawer(term);
+        }
+      });
+    });
+
+    // 6. Drawer Trigger Buttons
+    if (openDictDrawerBtn) {
+      openDictDrawerBtn.addEventListener('click', () => {
+        if (dictDrawer?.classList.contains('open')) {
+          closeDictDrawer();
+        } else {
+          openDictDrawer();
+        }
+      });
+    }
+
+    if (dictToggleBottomBtn) {
+      dictToggleBottomBtn.addEventListener('click', () => {
+        if (dictDrawer?.classList.contains('open')) {
+          closeDictDrawer();
+        } else {
+          openDictDrawer();
+        }
+      });
+    }
+
+    if (lookupHintBtn) {
+      lookupHintBtn.addEventListener('click', () => {
+        openDictDrawer();
+      });
+    }
+
+    if (closeDictDrawerBtn) {
+      closeDictDrawerBtn.addEventListener('click', closeDictDrawer);
+    }
+
+    // Close drawer when clicking outer backdrop
+    if (dictDrawer) {
+      dictDrawer.addEventListener('click', (e) => {
+        if (e.target === dictDrawer) {
+          closeDictDrawer();
+        }
+      });
+    }
+
+    // 7. Popover Handlers
+    if (closePopoverBtn && popoverEl) {
+      closePopoverBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        popoverEl.style.display = 'none';
+        sanskritEl?.querySelectorAll('.shloka-word-token').forEach(t => t.classList.remove('active-token'));
+      });
+    }
+
+    if (expandInDictDrawerBtn) {
+      expandInDictDrawerBtn.addEventListener('click', () => {
+        if (popoverCurrentWord) {
+          openDictDrawer(popoverCurrentWord);
+        } else {
+          openDictDrawer();
+        }
+      });
+    }
+
+    // Dismiss popover on outside click
+    document.addEventListener('click', (e) => {
+      if (popoverEl && popoverEl.style.display !== 'none') {
+        if (!popoverEl.contains(e.target) && !e.target.closest('.shloka-word-token') && !e.target.closest('.interactive-word-card') && !e.target.closest('.bhasya-selectable')) {
+          popoverEl.style.display = 'none';
+          sanskritEl?.querySelectorAll('.shloka-word-token').forEach(t => t.classList.remove('active-token'));
+        }
+      }
+    });
+
+    // 8. Text Selection in Commentary
+    function handleCommentarySelection(e) {
+      const selection = window.getSelection();
+      const selectedText = (selection ? selection.toString() : '').trim();
+      if (!selectedText || selectedText.length > 40) return;
+      if (!/[\u0900-\u097F]/.test(selectedText)) return;
+
+      const cleanWord = selectedText.split(/\s+/)[0].replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '');
+      if (!cleanWord) return;
+
+      const clientX = e.clientX || (e.touches && e.touches[0] ? e.touches[0].clientX : 200);
+      const clientY = e.clientY || (e.touches && e.touches[0] ? e.touches[0].clientY : 200);
+
+      handleWordLookup(cleanWord, null, clientX, clientY);
+    }
+
+    document.addEventListener('mouseup', (e) => {
+      if (e.target && e.target.closest('.bhasya-selectable')) {
+        setTimeout(() => handleCommentarySelection(e), 50);
+      }
+    });
+
+    document.addEventListener('touchend', (e) => {
+      if (e.target && e.target.closest('.bhasya-selectable')) {
+        setTimeout(() => {
+          const touch = e.changedTouches ? e.changedTouches[0] : e;
+          handleCommentarySelection(touch);
+        }, 150);
+      }
+    });
+
+    // 9. Live Search Input Debounce
+    if (dictInput) {
+      dictInput.addEventListener('input', (e) => {
+        const val = e.target.value;
+        if (clearDictInputBtn) {
+          clearDictInputBtn.style.display = val ? 'block' : 'none';
+        }
+
+        clearTimeout(searchDebounceTimer);
+        searchDebounceTimer = setTimeout(async () => {
+          const q = val.trim();
+          if (!q) {
+            if (dictActiveEntryCard) dictActiveEntryCard.style.display = 'none';
+            if (dictSearchResultsList) dictSearchResultsList.style.display = 'none';
+            if (dictEmptyState) dictEmptyState.style.display = 'block';
+            return;
+          }
+
+          const results = await searchWords(q);
+          renderSearchResults(results, `Search results for "${q}":`);
+        }, 220);
+      });
+    }
+
+    if (clearDictInputBtn) {
+      clearDictInputBtn.addEventListener('click', () => {
+        if (dictInput) {
+          dictInput.value = '';
+          dictInput.focus();
+        }
+        clearDictInputBtn.style.display = 'none';
+        if (dictActiveEntryCard) dictActiveEntryCard.style.display = 'none';
+        if (dictSearchResultsList) dictSearchResultsList.style.display = 'none';
+        if (dictEmptyState) dictEmptyState.style.display = 'block';
+      });
+    }
+
+    // 10. Scope Filter Buttons
+    dictScopePills.forEach(pill => {
+      pill.addEventListener('click', () => {
+        dictScopePills.forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        activeDictScope = pill.getAttribute('data-scope') || 'all';
+
+        if (dictInput && dictInput.value.trim()) {
+          displayWordInDrawer(dictInput.value.trim());
+        }
+      });
+    });
+
+    // 11. Keyboard Shortcuts (Escape to close, 'd' to toggle drawer)
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        if (dictDrawer?.classList.contains('open')) closeDictDrawer();
+        if (popoverEl && popoverEl.style.display !== 'none') popoverEl.style.display = 'none';
+      } else if ((e.key === 'd' || e.key === 'D') && !['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName)) {
+        if (dictDrawer?.classList.contains('open')) {
+          closeDictDrawer();
+        } else {
+          openDictDrawer();
+        }
+      }
+    });
+
+  })();
+
+</script>

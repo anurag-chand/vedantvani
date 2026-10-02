@@ -1,0 +1,18 @@
+{
+  "name": "bhashya-dict-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker providing fast edge dictionary lookups for 95,585 terms across the Śāṅkara Bhāṣya",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:create": "wrangler d1 create sankara-bhasya-db",
+    "db:init": "wrangler d1 execute sankara-bhasya-db --file=schema.sql",
+    "db:seed": "wrangler d1 execute sankara-bhasya-db --file=seed_d1.sql"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240329.0",
+    "typescript": "^5.4.5",
+    "wrangler": "^3.50.0"
+  }
+}

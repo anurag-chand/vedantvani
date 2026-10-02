@@ -1,0 +1,9 @@
+name = "bhashya-dict-worker"
+main = "src/index.ts"
+compatibility_date = "2024-04-01"
+
+# Cloudflare D1 Database binding
+[[d1_databases]]
+binding = "DB"
+database_name = "sankara-bhasya-db"
+database_id = "00b875de-4b57-419c-9332-a9bf5be8d6cc"

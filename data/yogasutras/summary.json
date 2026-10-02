@@ -2,37 +2,37 @@
   {
     "chapter_number": 1,
     "name": "Samadhi Pada",
-    "name_sanskrit": "",
-    "name_transliterated": "Samadhi Pada",
+    "name_sanskrit": "समाधिपादः",
+    "name_transliterated": "Samādhi Pāda",
     "verses_count": 51,
-    "summary": "Samadhi Pada defines yoga and describes the nature of samadhi, the obstacles to achieving it, and the means to overcome them.",
-    "summary_hindi": ""
+    "summary": "Samadhi Pada defines the essence of Yoga (citta-vṛtti-nirodha) and systematically unfolds the nature of samadhi (cognitive and ultra-cognitive absorption), the five mental modifications, practice (abhyāsa) and dispassion (vairāgya), the nature of Ishvara, obstacles (antarāyas), and methods for quieting the mind.",
+    "summary_hindi": "समाधिपाद में योग का लक्षण (चित्तवृत्तिनिरोध), चित्त की पाँच भूमियाँ, वृत्तियाँ, अभ्यास और वैराग्य, ईश्वरप्रणिधान, चित्तविक्षेप (अन्तराय) और समाधि के भेदों का विस्तारपूर्वक निरूपण किया गया है।"
   },
   {
     "chapter_number": 2,
     "name": "Sadhana Pada",
-    "name_sanskrit": "",
-    "name_transliterated": "Sadhana Pada",
+    "name_sanskrit": "साधनापादः",
+    "name_transliterated": "Sādhana Pāda",
     "verses_count": 55,
-    "summary": "Sadhana Pada explains the practice of Kriya Yoga and Ashtanga Yoga (the eight-limbed path) and its first five stages.",
-    "summary_hindi": ""
+    "summary": "Sadhana Pada details practical yoga: Kriya Yoga (tapas, svadhyaya, Ishvara-pranidhana), the five kleshas (afflictions: avidya, asmita, raga, dvesha, abhinivesha), the law of karma, and the first five exterior limbs of Ashtanga Yoga (Yama, Niyama, Asana, Pranayama, Pratyahara).",
+    "summary_hindi": "साधनापाद में क्रियायोग, पञ्चक्लेश (अविद्या, अस्मिता, राग, द्वेष, अभिनिवेश), कर्मविपाक और अष्टाङ्गयोग के प्रथम पाँच बहिरङ्ग अङ्गों (यम, नियम, आसन, प्राणायाम, प्रत्याहार) का निरूपण है।"
   },
   {
     "chapter_number": 3,
     "name": "Vibhuti Pada",
-    "name_sanskrit": "",
-    "name_transliterated": "Vibhuti Pada",
+    "name_sanskrit": "विभूतिपादः",
+    "name_transliterated": "Vibhūti Pāda",
     "verses_count": 65,
-    "summary": "Vibhuti Pada describes the inner three limbs of Yoga (Dharana, Dhyana, Samadhi) and the spiritual powers (vibhutis) that arise from samyama.",
-    "summary_hindi": ""
+    "summary": "Vibhuti Pada explores the three inner limbs of Yoga (Dharana, Dhyana, Samadhi collectively termed Samyama) and the extraordinary intuitive faculties, perceptions, and spiritual masteries (vibhutis/siddhis) that arise through master of samyama, leading towards non-attachment even to psychic powers.",
+    "summary_hindi": "विभूतिपाद में धारणा, ध्यान और समाधि (संयम) तथा संयम के अभ्यास से प्रकट होने वाली अलौकिक सिद्धियों व विभूतियों का वर्णन है।"
   },
   {
     "chapter_number": 4,
     "name": "Kaivalya Pada",
-    "name_sanskrit": "",
-    "name_transliterated": "Kaivalya Pada",
+    "name_sanskrit": "कैवल्यपादः",
+    "name_transliterated": "Kaivalya Pāda",
     "verses_count": 34,
-    "summary": "Kaivalya Pada discusses the nature of liberation (kaivalya), the mind, and the absolute reality of consciousness (purusha).",
-    "summary_hindi": ""
+    "summary": "Kaivalya Pada investigates the metaphysical roots of consciousness: the origin of siddhis, mutation of mental impressions (vasanas), the mind as an object illumined by the pure Seer (Purusha), the Dharma-megha Samadhi, and supreme liberation (Kaivalya) where the Gunas return to their source.",
+    "summary_hindi": "कैवल्यपाद में सिद्धियों के पाँच हेतु, चित्त की रचना, वासना, ज्ञाता-ज्ञेय सम्बन्ध, धर्ममेघ समाधि और परम मोक्ष (कैवल्य) का निरूपण है।"
   }
 ]

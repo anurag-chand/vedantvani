@@ -1,0 +1,842 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout 
+  title="Prasthānatrayī Lexicon & Dictionary | 132,466 Terms (Mūla & Bhāṣya) | VedāntVāṇī"
+  description="Exhaustive morphological dictionary of 132,466 Sanskrit terms across the original verses, sūtras, and Adi Shankaracharya's commentaries on the Upanishads, Brahma Sutras, and Bhagavad Gita."
+>
+  <!-- Hero Section -->
+  <section class="dict-hero">
+    <div class="container">
+      <div class="hero-content">
+        <div class="sacred-badge font-cinzel">
+          <span>📖</span> व्याकरण & शब्दकोश • Complete Canonical Lexicon
+        </div>
+        <h1 class="hero-title font-cinzel">
+          Prasthānatrayī Complete Lexicon
+        </h1>
+        <div class="sanskrit-motto font-devanagari">
+          मूल-मन्त्र-सूत्र-शाङ्करभाष्य-शब्दावली • १३२,४६६ पदानां पदच्छेद-व्याकरण-सहिता
+        </div>
+        <p class="hero-tagline font-lora">
+          Exhaustive grammatical lexicon analyzing <strong>132,466 terms</strong>: <strong>36,881 terms</strong> from original Mūla verses & sūtras, and <strong>95,585 terms</strong> from Ādi Śaṅkarācārya’s commentaries.
+        </p>
+
+        <!-- Edge Status Strip -->
+        <div class="edge-status-wrap">
+          <div class="edge-status-badge" id="edgeStatusBadge">
+            <span class="status-dot"></span>
+            <span id="statusLabel">Mode: Edge Lexicon</span>
+          </div>
+          <button id="openApiSettingsBtn" class="api-settings-btn font-cinzel" title="Configure Cloudflare Worker Endpoint">
+            <span>⚙️ Cloudflare Worker Settings</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Search & Exploration Interface -->
+  <section class="dict-search-section">
+    <div class="container">
+      <div class="glass-card dict-search-box">
+        <!-- Input Row -->
+        <div class="search-input-group">
+          <span class="search-icon">🔍</span>
+          <input 
+            type="text" 
+            id="dictSearchInput" 
+            class="dict-input font-lora" 
+            placeholder="Type Sanskrit term in Devanāgarī (e.g. जिज्ञासा, अध्यास) or English meaning (e.g. inquiry, superimposition)..." 
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button id="clearSearchBtn" class="clear-btn" style="display: none;" aria-label="Clear search">✕</button>
+        </div>
+
+        <!-- Suggestion Chips -->
+        <div class="quick-chips">
+          <span class="chips-label font-cinzel">Quick Explore:</span>
+          <button class="chip" data-term="जिज्ञासा">जिज्ञासा (Inquiry)</button>
+          <button class="chip" data-term="अध्यास">अध्यास (Superimposition)</button>
+          <button class="chip" data-term="अविद्या">अविद्या (Ignorance)</button>
+          <button class="chip" data-term="याथात्म्य">याथात्म्य (True Nature)</button>
+          <button class="chip" data-term="विवेक">विवेक (Discrimination)</button>
+          <button class="chip" data-term="कर्मण्येवाधिकारस्ते">कर्मण्येवाधिकारस्ते (Gītā 2.47)</button>
+          <button class="chip" data-term="समनवय">समन्वय (Concordance)</button>
+        </div>
+
+        <!-- Filter Tabs -->
+        <div class="filter-row">
+          <!-- Scope Filter -->
+          <div class="scope-row">
+            <span class="chips-label font-cinzel">Corpus Scope:</span>
+            <div class="filter-pills" id="scopeFilter">
+              <button class="filter-pill active" data-scope="all">All (132,466)</button>
+              <button class="filter-pill" data-scope="mula">Mūla Verses (36,881)</button>
+              <button class="filter-pill" data-scope="bhasya">Śāṅkara Bhāṣya (95,585)</button>
+            </div>
+          </div>
+
+          <!-- Grammar Filter -->
+          <div class="grammar-row">
+            <div class="filter-pills" id="categoryFilter">
+              <button class="filter-pill active" data-cat="all">All Grammar</button>
+              <button class="filter-pill" data-cat="noun">Nouns / Prātipadika (सुबन्त)</button>
+              <button class="filter-pill" data-cat="verb">Verbs & Roots (तिङन्त)</button>
+              <button class="filter-pill" data-cat="avyaya">Indeclinables (अव्यय)</button>
+            </div>
+            <div class="result-count-label font-cinzel" id="resultsCount">
+              Ready to explore
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Results Display Grid -->
+      <div id="resultsGrid" class="results-grid">
+        <div class="initial-prompt">
+          <span class="prompt-icon">🕉️</span>
+          <h3 class="font-cinzel">Search Across Mūla & Śāṅkara Bhāṣya</h3>
+          <p class="font-lora">
+            Type any Sanskrit word or English term above to view exact morphological breakdown, root/padaccheda, grammatical case (Vibhakti), and philosophical definition.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cloudflare Worker Configuration Modal -->
+  <div id="cfSettingsModal" class="modal-backdrop" aria-hidden="true">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="font-cinzel">Cloudflare Worker Configuration</h3>
+        <button id="closeModalBtn" class="modal-close">✕</button>
+      </div>
+      <div class="modal-body font-lora">
+        <p>
+          Connect this tool directly to your deployed Cloudflare Worker API backed by Cloudflare D1 (with all 132,466 terms indexed at the global edge).
+        </p>
+        <div class="form-group">
+          <label for="cfWorkerInput" class="font-cinzel">Worker URL Endpoint</label>
+          <input 
+            type="url" 
+            id="cfWorkerInput" 
+            class="cf-input" 
+            placeholder="https://bhashya-dict-worker.<subdomain>.workers.dev"
+          />
+          <span class="input-hint">Leave empty to use high-speed local static shards automatically.</span>
+        </div>
+
+        <div class="modal-actions">
+          <button id="testWorkerBtn" class="btn-secondary font-cinzel">Test Connection</button>
+          <button id="saveWorkerBtn" class="btn-primary font-cinzel">Save & Apply</button>
+        </div>
+        <div id="connectionStatus" class="connection-status" style="display: none;"></div>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .dict-hero {
+    background: radial-gradient(circle at 50% 20%, rgba(242, 111, 34, 0.12), transparent 70%),
+                linear-gradient(to bottom, var(--bg-deep), var(--bg-surface));
+    padding: 3.5rem 1rem 2.5rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .sacred-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(242, 111, 34, 0.1);
+    color: var(--saffron);
+    padding: 0.35rem 1rem;
+    border-radius: var(--radius-full);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 1.25rem;
+    border: 1px solid rgba(242, 111, 34, 0.25);
+  }
+
+  .hero-title {
+    font-size: 2.25rem;
+    font-weight: 800;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.02em;
+  }
+
+  @media (min-width: 768px) {
+    .hero-title { font-size: 3rem; }
+  }
+
+  .sanskrit-motto {
+    font-size: 1.15rem;
+    color: var(--gold);
+    margin-bottom: 1.25rem;
+  }
+
+  .hero-tagline {
+    max-width: 760px;
+    margin: 0 auto 2rem;
+    color: var(--text-secondary);
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+
+  .edge-status-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .edge-status-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0.9rem;
+    border-radius: var(--radius-full);
+    background: rgba(16, 185, 129, 0.1);
+    border: 1px solid rgba(16, 185, 129, 0.3);
+    color: #10b981;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+
+  .status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #10b981;
+    box-shadow: 0 0 8px #10b981;
+  }
+
+  .api-settings-btn {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-secondary);
+    padding: 0.4rem 0.9rem;
+    border-radius: var(--radius-full);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .api-settings-btn:hover {
+    color: var(--saffron);
+    border-color: var(--saffron);
+  }
+
+  /* Search Section */
+  .dict-search-section {
+    padding: 2.5rem 1rem 4rem;
+  }
+
+  .dict-search-box {
+    max-width: 960px;
+    margin: 0 auto 2.5rem;
+    padding: 1.5rem;
+    border-radius: var(--radius-lg);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+  }
+
+  .search-input-group {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 1.25rem;
+    font-size: 1.2rem;
+    color: var(--text-muted);
+    pointer-events: none;
+  }
+
+  .dict-input {
+    width: 100%;
+    padding: 1rem 3rem 1rem 3.25rem;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-medium);
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    font-size: 1.1rem;
+    outline: none;
+    transition: all 0.2s ease;
+  }
+
+  .dict-input:focus {
+    border-color: var(--saffron);
+    box-shadow: 0 0 0 3px rgba(242, 111, 34, 0.15);
+  }
+
+  .clear-btn {
+    position: absolute;
+    right: 1.25rem;
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    cursor: pointer;
+  }
+
+  .quick-chips {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.25rem;
+  }
+
+  .chips-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .chip {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-secondary);
+    padding: 0.25rem 0.7rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.82rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .chip:hover {
+    color: var(--saffron);
+    border-color: var(--saffron);
+    background: rgba(242, 111, 34, 0.06);
+  }
+
+  .filter-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-subtle);
+  }
+
+  .scope-row {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .grammar-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .filter-pills {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-pill {
+    background: transparent;
+    border: 1px solid var(--border-subtle);
+    color: var(--text-muted);
+    padding: 0.35rem 0.8rem;
+    border-radius: var(--radius-full);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .filter-pill.active {
+    background: var(--saffron);
+    color: #fff;
+    border-color: var(--saffron);
+  }
+
+  .result-count-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  /* Results Grid */
+  .results-grid {
+    max-width: 960px;
+    margin: 0 auto;
+    display: grid;
+    gap: 1.25rem;
+  }
+
+  .initial-prompt {
+    text-align: center;
+    padding: 4rem 1.5rem;
+    color: var(--text-muted);
+    background: var(--bg-surface);
+    border: 1px dashed var(--border-subtle);
+    border-radius: var(--radius-lg);
+  }
+
+  .prompt-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    display: inline-block;
+  }
+
+  .word-entry-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    padding: 1.5rem;
+    transition: all 0.2s ease;
+  }
+
+  .word-entry-card:hover {
+    border-color: var(--border-medium);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .card-top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .word-surface {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--saffron);
+    font-family: var(--font-devanagari);
+  }
+
+  .tags-right {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .source-tag {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.2rem 0.55rem;
+    border-radius: var(--radius-sm);
+  }
+
+  .source-tag.mula {
+    background: rgba(16, 185, 129, 0.1);
+    border: 1px solid rgba(16, 185, 129, 0.3);
+    color: #10b981;
+  }
+
+  .source-tag.bhasya {
+    background: rgba(242, 111, 34, 0.1);
+    border: 1px solid rgba(242, 111, 34, 0.3);
+    color: var(--saffron);
+  }
+
+  .word-padaccheda {
+    font-size: 1rem;
+    color: var(--gold);
+    font-family: var(--font-devanagari);
+    background: rgba(212, 175, 55, 0.08);
+    padding: 0.2rem 0.6rem;
+    border-radius: var(--radius-sm);
+    border: 1px solid rgba(212, 175, 55, 0.2);
+  }
+
+  .word-grammar-badge {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    padding: 0.35rem 0.75rem;
+    border-radius: var(--radius-sm);
+    margin-bottom: 0.75rem;
+  }
+
+  .word-meaning-en {
+    font-size: 1.05rem;
+    color: var(--text-primary);
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+  }
+
+  .word-meaning-bn {
+    font-size: 0.92rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+
+  .verse-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.8rem;
+    color: var(--saffron);
+    text-decoration: underline;
+    margin-top: 0.5rem;
+  }
+
+  /* Modal */
+  .modal-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(6px);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    padding: 1rem;
+  }
+
+  .modal-backdrop.active {
+    display: flex;
+  }
+
+  .modal-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-medium);
+    border-radius: var(--radius-lg);
+    width: 100%;
+    max-width: 520px;
+    padding: 2rem;
+    box-shadow: var(--shadow-lg);
+  }
+
+  .modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+
+  .modal-header h3 {
+    font-size: 1.25rem;
+    color: var(--saffron);
+  }
+
+  .modal-close {
+    background: none;
+    border: none;
+    font-size: 1.25rem;
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+
+  .form-group {
+    margin: 1.5rem 0;
+  }
+
+  .form-group label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+  }
+
+  .cf-input {
+    width: 100%;
+    padding: 0.75rem;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-medium);
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    font-size: 0.95rem;
+  }
+
+  .input-hint {
+    display: block;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    margin-top: 0.35rem;
+  }
+
+  .modal-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+  }
+
+  .btn-primary {
+    background: var(--saffron);
+    color: #fff;
+    border: none;
+    padding: 0.6rem 1.25rem;
+    border-radius: var(--radius-md);
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .btn-secondary {
+    background: transparent;
+    border: 1px solid var(--border-medium);
+    color: var(--text-secondary);
+    padding: 0.6rem 1.25rem;
+    border-radius: var(--radius-md);
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .connection-status {
+    margin-top: 1rem;
+    padding: 0.75rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.85rem;
+  }
+
+  .connection-status.success {
+    background: rgba(16, 185, 129, 0.1);
+    border: 1px solid rgba(16, 185, 129, 0.3);
+    color: #10b981;
+  }
+
+  .connection-status.error {
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    color: #ef4444;
+  }
+</style>
+
+<script>
+  import { lookupWord, searchDictionary, getWorkerUrl, setWorkerUrl } from '../utils/dictionaryService';
+
+  const inputEl = document.getElementById('dictSearchInput') as HTMLInputElement;
+  const clearBtn = document.getElementById('clearSearchBtn') as HTMLButtonElement;
+  const resultsGrid = document.getElementById('resultsGrid') as HTMLDivElement;
+  const resultsCount = document.getElementById('resultsCount') as HTMLDivElement;
+  const statusBadge = document.getElementById('edgeStatusBadge') as HTMLDivElement;
+  const statusLabel = document.getElementById('statusLabel') as HTMLSpanElement;
+
+  // Modal elements
+  const modal = document.getElementById('cfSettingsModal') as HTMLDivElement;
+  const openModalBtn = document.getElementById('openApiSettingsBtn') as HTMLButtonElement;
+  const closeModalBtn = document.getElementById('closeModalBtn') as HTMLButtonElement;
+  const cfWorkerInput = document.getElementById('cfWorkerInput') as HTMLInputElement;
+  const saveWorkerBtn = document.getElementById('saveWorkerBtn') as HTMLButtonElement;
+  const testWorkerBtn = document.getElementById('testWorkerBtn') as HTMLButtonElement;
+  const connStatus = document.getElementById('connectionStatus') as HTMLDivElement;
+
+  let activeScope: 'all' | 'mula' | 'bhasya' = 'all';
+  let activeCategory: 'all' | 'noun' | 'verb' | 'avyaya' = 'all';
+  let debounceTimer: any = null;
+
+  function updateStatusDisplay() {
+    const workerUrl = getWorkerUrl();
+    if (workerUrl) {
+      statusBadge.style.background = 'rgba(59, 130, 246, 0.1)';
+      statusBadge.style.borderColor = 'rgba(59, 130, 246, 0.3)';
+      statusBadge.style.color = '#3b82f6';
+      statusLabel.textContent = `Mode: Cloudflare Worker API`;
+    } else {
+      statusBadge.style.background = 'rgba(16, 185, 129, 0.1)';
+      statusBadge.style.borderColor = 'rgba(16, 185, 129, 0.3)';
+      statusBadge.style.color = '#10b981';
+      statusLabel.textContent = `Mode: Edge Sharded Lexicon (Local)`;
+    }
+  }
+
+  async function performSearch(query: string) {
+    const q = query.trim();
+    if (!q) {
+      clearBtn.style.display = 'none';
+      resultsGrid.innerHTML = `
+        <div class="initial-prompt">
+          <span class="prompt-icon">🕉️</span>
+          <h3 class="font-cinzel">Search Across Mūla & Śāṅkara Bhāṣya</h3>
+          <p class="font-lora">
+            Type any Sanskrit word or English term above to view exact morphological breakdown, root/padaccheda, grammatical case (Vibhakti), and philosophical definition.
+          </p>
+        </div>
+      `;
+      resultsCount.textContent = 'Ready to explore';
+      return;
+    }
+
+    clearBtn.style.display = 'block';
+    resultsCount.textContent = 'Searching lexicon...';
+
+    // First try exact word lookup
+    const exact = await lookupWord(q, activeScope);
+    const searchResults = await searchDictionary(q, activeScope, activeCategory, 40);
+
+    const combined: any[] = [];
+    if (exact) combined.push(exact);
+    for (const r of searchResults) {
+      if (!combined.some(c => c.surface === r.surface)) {
+        combined.push(r);
+      }
+    }
+
+    if (combined.length === 0) {
+      resultsGrid.innerHTML = `
+        <div class="initial-prompt">
+          <span class="prompt-icon">🔍</span>
+          <h3 class="font-cinzel">No matching entries found</h3>
+          <p class="font-lora">
+            No terms found matching "<strong>${q}</strong>". Try entering Devanāgarī (e.g. <em>जिज्ञासा</em>, <em>अविद्या</em>) or an English concept like <em>knowledge</em>, <em>truth</em>, or <em>action</em>.
+          </p>
+        </div>
+      `;
+      resultsCount.textContent = '0 results';
+      return;
+    }
+
+    resultsCount.textContent = `${combined.length} term${combined.length > 1 ? 's' : ''} found`;
+
+    resultsGrid.innerHTML = combined.map(entry => {
+      const isMula = entry.source === 'mula' || !!entry.work_slug;
+      const sourceBadge = isMula 
+        ? `<span class="source-tag mula font-cinzel">Mūla: ${entry.work_slug || ''} ${entry.unit_key || ''}</span>`
+        : `<span class="source-tag bhasya font-cinzel">Śāṅkara Bhāṣya</span>`;
+
+      return `
+        <div class="word-entry-card">
+          <div class="card-top">
+            <div class="word-surface">${entry.surface}</div>
+            <div class="tags-right">
+              ${sourceBadge}
+              ${entry.padaccheda ? `<div class="word-padaccheda font-devanagari">${entry.padaccheda}</div>` : ''}
+            </div>
+          </div>
+          ${entry.grammar ? `<div class="word-grammar-badge font-devanagari">${entry.grammar}</div>` : ''}
+          <div class="word-meaning-en font-lora">
+            <strong>English:</strong> ${entry.meaning_en || 'Philosophical definition in commentary.'}
+          </div>
+          ${entry.meaning_bn ? `
+            <div class="word-meaning-bn">
+              <span style="color: var(--text-muted); font-size: 0.8rem;">Bengali:</span> ${entry.meaning_bn}
+            </div>
+          ` : ''}
+        </div>
+      `;
+    }).join('');
+  }
+
+  // Input event with debouncing
+  if (inputEl) {
+    inputEl.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      const val = (e.target as HTMLInputElement).value;
+      debounceTimer = setTimeout(() => performSearch(val), 250);
+    });
+  }
+
+  if (clearBtn) {
+    clearBtn.addEventListener('click', () => {
+      inputEl.value = '';
+      performSearch('');
+      inputEl.focus();
+    });
+  }
+
+  // Quick chips
+  document.querySelectorAll('.quick-chips .chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      const term = chip.getAttribute('data-term') || '';
+      inputEl.value = term;
+      performSearch(term);
+    });
+  });
+
+  // Scope filter tabs
+  document.querySelectorAll('#scopeFilter .filter-pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      document.querySelectorAll('#scopeFilter .filter-pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      activeScope = (pill.getAttribute('data-scope') || 'all') as any;
+      if (inputEl.value.trim()) {
+        performSearch(inputEl.value);
+      }
+    });
+  });
+
+  // Category filter tabs
+  document.querySelectorAll('#categoryFilter .filter-pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      document.querySelectorAll('#categoryFilter .filter-pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      activeCategory = (pill.getAttribute('data-cat') || 'all') as any;
+      if (inputEl.value.trim()) {
+        performSearch(inputEl.value);
+      }
+    });
+  });
+
+  // Modal handlers
+  if (openModalBtn) {
+    openModalBtn.addEventListener('click', () => {
+      cfWorkerInput.value = getWorkerUrl();
+      modal.classList.add('active');
+      modal.setAttribute('aria-hidden', 'false');
+      connStatus.style.display = 'none';
+    });
+  }
+
+  if (closeModalBtn) {
+    closeModalBtn.addEventListener('click', () => {
+      modal.classList.remove('active');
+      modal.setAttribute('aria-hidden', 'true');
+    });
+  }
+
+  if (saveWorkerBtn) {
+    saveWorkerBtn.addEventListener('click', () => {
+      const val = cfWorkerInput.value.trim();
+      setWorkerUrl(val);
+      updateStatusDisplay();
+      modal.classList.remove('active');
+      modal.setAttribute('aria-hidden', 'true');
+      if (inputEl.value.trim()) performSearch(inputEl.value);
+    });
+  }
+
+  if (testWorkerBtn) {
+    testWorkerBtn.addEventListener('click', async () => {
+      const url = cfWorkerInput.value.trim().replace(/\/+$/, '');
+      if (!url) {
+        connStatus.className = 'connection-status error';
+        connStatus.textContent = 'Please enter a valid Cloudflare Worker URL.';
+        connStatus.style.display = 'block';
+        return;
+      }
+      connStatus.className = 'connection-status';
+      connStatus.textContent = 'Pinging Cloudflare Worker...';
+      connStatus.style.display = 'block';
+      try {
+        const res = await fetch(`${url}/api`);
+        if (res.ok) {
+          const json = await res.json();
+          connStatus.className = 'connection-status success';
+          connStatus.textContent = `Connected! ${json.service} (Version ${json.version}, ${json.counts?.total_terms?.toLocaleString() || '132,466'} terms indexed: ${json.counts?.mula_terms?.toLocaleString()} Mūla + ${json.counts?.bhasya_terms?.toLocaleString()} Bhāṣya).`;
+        } else {
+          throw new Error(`HTTP ${res.status}`);
+        }
+      } catch (err: any) {
+        connStatus.className = 'connection-status error';
+        connStatus.textContent = `Connection failed: ${err.message || 'Worker not reachable'}. Ensure CORS is enabled.`;
+      }
+    });
+  }
+
+  updateStatusDisplay();
+</script>

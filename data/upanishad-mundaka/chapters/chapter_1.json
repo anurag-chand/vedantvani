@@ -5,15 +5,96 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 1,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145085.html"
+      "mantra_ref": "1.1.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0926\u0947\u0924\u0924\u094d\u0938\u0924\u094d\u092f\u0902 \u092e\u0928\u094d\u0924\u094d\u0930\u0947\u0937\u0941 \u0915\u0930\u094d\u092e\u093e\u0923\u093f \u0915\u0935\u092f\u094b \u092f\u093e\u0928\u094d\u092f\u092a\u0936\u094d\u092f\u0902\u0938\u094d\u0924\u093e\u0928\u093f \u0924\u094d\u0930\u0947\u0924\u093e\u092f\u093e\u0902 \u092c\u0939\u0941\u0927\u093e \u0938\u0928\u094d\u0924\u0924\u093e\u0928\u093f\u00a0\u0964 \n \u0924\u093e\u0928\u094d\u092f\u093e\u091a\u0930\u0925 \u0928\u093f\u092f\u0924\u0902 \u0938\u0924\u094d\u092f\u0915\u093e\u092e\u093e \u090f\u0937 \u0935\u0903 \u092a\u0928\u094d\u0925\u093e\u0903 \u0938\u0941\u0915\u0943\u0924\u0938\u094d\u092f \u0932\u094b\u0915\u0947 \u0965 \u0967 \u0965",
-    "transliteration": "tadetatsatya\u1e43 mantre\u1e63u karm\u0101\u1e47i kavayo y\u0101nyapa\u015bya\u1e43st\u0101ni tret\u0101y\u0101\u1e43 bahudh\u0101 sa\u1e43tat\u0101ni | t\u0101ny\u0101caratha niyata\u1e43 satyak\u0101m\u0101 e\u1e63a va\u1e25 panth\u0101\u1e25 suk\u1e5btasya loke || 1 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "ब्रह्मा देवानां प्रथमः सम्बभूव विश्वस्य कर्ता भुवनस्य गोप्ता । स ब्रह्मविद्यां सर्वविद्याप्रतिष्ठामथर्वाय ज्येष्ठपुत्राय प्राह ॥ १ ॥",
+    "transliteration": "brahmā devānāṃ prathamaḥ sambabhūva viśvasya kartā bhuvanasya goptā | sa brahmavidyāṃ sarvavidyāpratiṣṭhāmatharvāya jyeṣṭhaputrāya prāha || 1 ||",
     "translation": "1. The various karma which seers found in the mantras are true and were much practised in the Treta age; practise them always with true wishes. This is your way to the attainment of the fruits of karma.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "ब्रह्मा",
+        "word_english": "Brahmā (the creator; in Advaita = Hiraṇyagarbha), first/greatest of gods",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·पुं",
+        "root": "ब्रह्मा"
+      },
+      {
+        "word_sanskrit": "देवानां",
+        "word_english": "of the gods (the shining ones, Indra and the rest)",
+        "grammar_role": "देव · षष्ठी·बहु·पुं",
+        "root": "देवानाम्"
+      },
+      {
+        "word_sanskrit": "प्रथमः",
+        "word_english": "first/foremost — either chief by qualities (प्रधानः) or first in order (अग्रे)",
+        "grammar_role": "प्रथम · प्रथमा·एक·पुं",
+        "root": "प्रथमः"
+      },
+      {
+        "word_sanskrit": "सम्बभूव",
+        "word_english": "came fully into being, manifested (by his own independence)",
+        "grammar_role": "सम् + √भू · लिट्·प्रथम·एक·परस्मैपद",
+        "root": "सम्बभूव"
+      },
+      {
+        "word_sanskrit": "विश्वस्य",
+        "word_english": "of all (the whole world)",
+        "grammar_role": "विश्व · षष्ठी·एक·नपुं",
+        "root": "विश्वस्य"
+      },
+      {
+        "word_sanskrit": "कर्ता",
+        "word_english": "maker, producer (उत्पादयिता of the world)",
+        "grammar_role": "कर्तृ · प्रथमा·एक·पुं",
+        "root": "कर्ता"
+      },
+      {
+        "word_sanskrit": "भुवनस्य",
+        "word_english": "of the (created/arisen) world",
+        "grammar_role": "भुवन · षष्ठी·एक·नपुं",
+        "root": "भुवनस्य"
+      },
+      {
+        "word_sanskrit": "गोप्ता",
+        "word_english": "protector, preserver (पालयिता of the world)",
+        "grammar_role": "गोप्तृ · प्रथमा·एक·पुं",
+        "root": "गोप्ता"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (that Brahmā of renowned greatness)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ब्रह्मविद्यां",
+        "word_english": "the knowledge of Brahman (the Supreme Self)",
+        "grammar_role": "ब्रह्मविद्या · द्वितीया·एक·स्त्री",
+        "root": "ब्रह्म-विद्याम्"
+      },
+      {
+        "word_sanskrit": "सर्वविद्याप्रतिष्ठामथर्वाय",
+        "word_english": "the foundation/support of all knowledge (सर्वविद्याश्रया); to Atharvan",
+        "grammar_role": "सर्वविद्याप्रतिष्ठा · द्वितीया·एक·स्त्री + अथर्व · चतुर्थी·एक·पुं",
+        "root": "सर्व-विद्या-प्रतिष्ठाम् + अथर्वाय"
+      },
+      {
+        "word_sanskrit": "ज्येष्ठपुत्राय",
+        "word_english": "to (his) eldest son",
+        "grammar_role": "ज्येष्ठपुत्र · चतुर्थी·एक·पुं",
+        "root": "ज्येष्ठ-पुत्राय"
+      },
+      {
+        "word_sanskrit": "प्राह",
+        "word_english": "declared, told, proclaimed",
+        "grammar_role": "प्र + √अह् · लिट्·प्रथम·एक·परस्मैपद",
+        "root": "प्र + आह"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -24,13 +105,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0938\u093e\u0919\u094d\u0917\u093e \u0935\u0947\u0926\u093e \u0905\u092a\u0930\u093e \u0935\u093f\u0926\u094d\u092f\u094b\u0915\u094d\u0924\u093e \n\u2018\u090b\u0917\u094d\u0935\u0947\u0926\u094b \u092f\u091c\u0941\u0930\u094d\u0935\u0947\u0926\u0903\u2019 (\u092e\u0941. \u0909. \u0967\u00a0\u0964 \u0967\u00a0\u0964 \u096b)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0928\u093e\u00a0\u0964 \n\u2018\u092f\u0924\u094d\u0924\u0926\u0926\u094d\u0930\u0947\u0936\u094d\u092f\u092e\u094d\u2019 (\u092e\u0941. \u0909. \u0967\u00a0\u0964 \u0967\u00a0\u0964 \u096c)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0928\u093e \n\u2018\u0928\u093e\u092e\u0930\u0942\u092a\u092e\u0928\u094d\u0928\u0902 \u091a \u091c\u093e\u092f\u0924\u0947\u2019 (\u092e\u0941. \u0909. \u0967\u00a0\u0964 \u0967\u00a0\u0964 \u096f)\n \u0907\u0924\u094d\u092f\u0928\u094d\u0924\u0947\u0928 \u0917\u094d\u0930\u0928\u094d\u0925\u0947\u0928\u094b\u0915\u094d\u0924\u0932\u0915\u094d\u0937\u0923\u092e\u0915\u094d\u0937\u0930\u0902 \u092f\u092f\u093e \u0935\u093f\u0926\u094d\u092f\u092f\u093e\u0927\u093f\u0917\u092e\u094d\u092f\u0924 \u0907\u0924\u093f \u0938\u093e \u092a\u0930\u093e \u0935\u093f\u0926\u094d\u092f\u093e \u0938\u0935\u093f\u0936\u0947\u0937\u0923\u094b\u0915\u094d\u0924\u093e\u00a0\u0964 \u0905\u0924\u0903 \u092a\u0930\u092e\u0928\u092f\u094b\u0930\u094d\u0935\u093f\u0926\u094d\u092f\u092f\u094b\u0930\u094d\u0935\u093f\u0937\u092f\u094c \u0935\u093f\u0935\u0947\u0915\u094d\u0924\u0935\u094d\u092f\u094c \u0938\u0902\u0938\u093e\u0930\u092e\u094b\u0915\u094d\u0937\u093e\u0935\u093f\u0924\u094d\u092f\u0941\u0924\u094d\u0924\u0930\u094b \u0917\u094d\u0930\u0928\u094d\u0925 \u0906\u0930\u092d\u094d\u092f\u0924\u0947\u00a0\u0964 \u0924\u0924\u094d\u0930\u093e\u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0937\u092f\u0903 \u0915\u0930\u094d\u0924\u094d\u0930\u093e\u0926\u093f\u0938\u093e\u0927\u0928\u0915\u094d\u0930\u093f\u092f\u093e\u092b\u0932\u092d\u0947\u0926\u0930\u0942\u092a\u0903 \u0938\u0902\u0938\u093e\u0930\u094b\u093d\u0928\u093e\u0926\u093f\u0930\u0928\u0928\u094d\u0924\u094b \u0926\u0941\u0903\u0916\u0938\u094d\u0935\u0930\u0942\u092a\u0924\u094d\u0935\u093e\u0926\u094d\u0927\u093e\u0924\u0935\u094d\u092f\u0903 \u092a\u094d\u0930\u0924\u094d\u092f\u0947\u0915\u0902 \u0936\u0930\u0940\u0930\u093f\u092d\u093f\u0903 \u0938\u093e\u092e\u0938\u094d\u0924\u094d\u092f\u0947\u0928 \u0928\u0926\u0940\u0938\u094d\u0930\u094b\u0924\u094b\u0935\u0926\u0935\u093f\u091a\u094d\u091b\u0947\u0926\u0930\u0942\u092a\u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0903 \u0924\u0926\u0941\u092a\u0936\u092e\u0932\u0915\u094d\u0937\u0923\u094b \u092e\u094b\u0915\u094d\u0937\u0903 \u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0937\u092f\u094b\u093d\u0928\u093e\u0926\u094d\u092f\u0928\u0928\u094d\u0924\u094b\u093d\u091c\u0930\u094b\u093d\u092e\u0930\u094b\u093d\u092e\u0943\u0924\u094b\u093d\u092d\u092f\u0903 \u0936\u0941\u0926\u094d\u0927\u0903 \u092a\u094d\u0930\u0938\u0928\u094d\u0928\u0903 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e\u0932\u0915\u094d\u0937\u0923\u0903 \u092a\u0930\u092e\u093e\u0928\u0928\u094d\u0926\u094b\u093d\u0926\u094d\u0935\u092f \u0907\u0924\u093f\u00a0\u0964 \u092a\u0942\u0930\u094d\u0935\u0902 \u0924\u093e\u0935\u0926\u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e \u0935\u093f\u0937\u092f\u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928\u093e\u0930\u094d\u0925\u092e\u093e\u0930\u092e\u094d\u092d\u0903\u00a0\u0964 \u0924\u0926\u094d\u0926\u0930\u094d\u0936\u0928\u0947 \u0939\u093f \u0924\u0928\u094d\u0928\u093f\u0930\u094d\u0935\u0947\u0926\u094b\u092a\u092a\u0924\u094d\u0924\u093f\u0903\u00a0\u0964 \u0924\u0925\u093e \u091a \u0935\u0915\u094d\u0937\u094d\u092f\u0924\u093f \u2014 \n\u2018\u092a\u0930\u0940\u0915\u094d\u0937\u094d\u092f \u0932\u094b\u0915\u093e\u0928\u094d\u0915\u0930\u094d\u092e\u091a\u093f\u0924\u093e\u0928\u094d\u2019 (\u092e\u0941. \u0909. \u0967\u00a0\u0964 \u0968\u00a0\u0964 \u0967\u0968)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0928\u093e\u00a0\u0964 \u0928 \u0939\u094d\u092f\u092a\u094d\u0930\u0926\u0930\u094d\u0936\u093f\u0924\u0947 \u092a\u0930\u0940\u0915\u094d\u0937\u094b\u092a\u092a\u0926\u094d\u092f\u0924 \u0907\u0924\u093f \u0924\u0924\u094d\u092a\u094d\u0930\u0926\u0930\u094d\u0936\u092f\u0928\u094d\u0928\u093e\u0939 \u2014 \u0924\u0926\u0947\u0924\u0924\u094d \u0938\u0924\u094d\u092f\u092e\u094d \u0905\u0935\u093f\u0924\u0925\u092e\u094d\u00a0\u0964 \u0915\u093f\u0902 \u0924\u0924\u094d ? \u092e\u0928\u094d\u0924\u094d\u0930\u0947\u0937\u0941 \u090b\u0917\u094d\u0935\u0947\u0926\u093e\u0926\u094d\u092f\u093e\u0916\u094d\u092f\u0947\u0937\u0941 \u0915\u0930\u094d\u092e\u093e\u0923\u093f \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0926\u0940\u0928\u093f \u092e\u0928\u094d\u0924\u094d\u0930\u0948\u0930\u0947\u0935 \u092a\u094d\u0930\u0915\u093e\u0936\u093f\u0924\u093e\u0928\u093f \u0915\u0935\u092f\u0903 \u092e\u0947\u0927\u093e\u0935\u093f\u0928\u094b \u0935\u0938\u093f\u0937\u094d\u0920\u093e\u0926\u092f\u0903 \u092f\u093e\u0928\u093f \u0905\u092a\u0936\u094d\u092f\u0928\u094d \u0926\u0943\u0937\u094d\u091f\u0935\u0928\u094d\u0924\u0903\u00a0\u0964 \u092f\u0924\u094d\u0924\u0926\u0947\u0924\u0924\u094d\u0938\u0924\u094d\u092f\u092e\u0947\u0915\u093e\u0928\u094d\u0924\u092a\u0941\u0930\u0941\u0937\u093e\u0930\u094d\u0925\u0938\u093e\u0927\u0928\u0924\u094d\u0935\u093e\u0924\u094d , \u0924\u093e\u0928\u093f \u091a \u0935\u0947\u0926\u0935\u093f\u0939\u093f\u0924\u093e\u0928\u093f \u090b\u0937\u093f\u0926\u0943\u0937\u094d\u091f\u093e\u0928\u093f \u0915\u0930\u094d\u092e\u093e\u0923\u093f \u0924\u094d\u0930\u0947\u0924\u093e\u092f\u093e\u0902 \u0924\u094d\u0930\u092f\u0940\u0938\u0902\u092f\u094b\u0917\u0932\u0915\u094d\u0937\u0923\u093e\u092f\u093e\u0902 \u0939\u094c\u0924\u094d\u0930\u093e\u0927\u094d\u0935\u0930\u094d\u092f\u0935\u094c\u0926\u094d\u0917\u093e\u0924\u094d\u0930\u092a\u094d\u0930\u0915\u093e\u0930\u093e\u092f\u093e\u092e\u0927\u093f\u0915\u0930\u0923\u092d\u0942\u0924\u093e\u092f\u093e\u0902 \u092c\u0939\u0941\u0927\u093e \u092c\u0939\u0941\u092a\u094d\u0930\u0915\u093e\u0930\u0902 \u0938\u0928\u094d\u0924\u0924\u093e\u0928\u093f \u0938\u092e\u094d\u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093e\u0928\u093f \u0915\u0930\u094d\u092e\u093f\u092d\u093f\u0903 \u0915\u094d\u0930\u093f\u092f\u092e\u093e\u0923\u093e\u0928\u093f \u0924\u094d\u0930\u0947\u0924\u093e\u092f\u093e\u0902 \u0935\u093e \u092f\u0941\u0917\u0947 \u092a\u094d\u0930\u093e\u092f\u0936\u0903 \u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093e\u0928\u093f ; \u0905\u0924\u094b \u092f\u0942\u092f\u0902 \u0924\u093e\u0928\u093f \u0906\u091a\u0930\u0925 \u0928\u093f\u0930\u094d\u0935\u0930\u094d\u0924\u092f\u0924 \u0928\u093f\u092f\u0924\u0902 \u0928\u093f\u0924\u094d\u092f\u0902 \u0938\u0924\u094d\u092f\u0915\u093e\u092e\u093e \u092f\u0925\u093e\u092d\u0942\u0924\u0915\u0930\u094d\u092e\u092b\u0932\u0915\u093e\u092e\u093e\u0903 \u0938\u0928\u094d\u0924\u0903\u00a0\u0964 \u090f\u0937\u0903 \u0935\u0903 \u092f\u0941\u0937\u094d\u092e\u093e\u0915\u0902 \u092a\u0928\u094d\u0925\u093e\u0903 \u092e\u093e\u0930\u094d\u0917\u0903 \u0938\u0941\u0915\u0943\u0924\u0938\u094d\u092f \u0938\u094d\u0935\u092f\u0902 \u0928\u093f\u0930\u094d\u0935\u0930\u094d\u0924\u093f\u0924\u0938\u094d\u092f \u0915\u0930\u094d\u092e\u0923\u0903 \u0932\u094b\u0915\u0947 \u092b\u0932\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u0902 \u0932\u094b\u0915\u094d\u092f\u0924\u0947 \u0926\u0943\u0936\u094d\u092f\u0924\u0947 \u092d\u0941\u091c\u094d\u092f\u0924 \u0907\u0924\u093f \u0915\u0930\u094d\u092e\u092b\u0932\u0902 \u0932\u094b\u0915 \u0909\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \u0924\u0926\u0930\u094d\u0925\u0902 \u0924\u0924\u094d\u092a\u094d\u0930\u093e\u092a\u094d\u0924\u092f\u0947 \u090f\u0937 \u092e\u093e\u0930\u094d\u0917 \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092f\u093e\u0928\u094d\u092f\u0947\u0924\u093e\u0928\u094d\u092f\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0926\u0940\u0928\u093f \u0924\u094d\u0930\u092f\u094d\u092f\u093e\u0902 \u0935\u093f\u0939\u093f\u0924\u093e\u0928\u093f \u0915\u0930\u094d\u092e\u093e\u0923\u093f, \u0924\u093e\u0928\u094d\u092f\u0947\u0937 \u092a\u0928\u094d\u0925\u093e \u0905\u0935\u0936\u094d\u092f\u092b\u0932\u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093f\u0938\u093e\u0927\u0928\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014By the text the Rig Veda , the Yajur Veda, etc., all Vedas with their angas (appendages) have been stated to be apara vidya ; and para vidya has been specifically stated to be that knowledge by which the akshara described in the text beginning with \u201cThat which cannot be perceived, etc,.\u201d and ending with \u201cName, form and food are produced\u201d, is known. Hereafter, the next text is begun to distinguish between the bondage of samsara and emancipation, the subjects of these two sorts of knowledge respectively. Of these, the subject of apara viyda is samsara which consists in the variety of action, its means such as doer, etc., and its results, is without beginning or end, and being misery in its nature, should be discarded by every embodied being; and in its entirety it is of an unbroken connection like the stream of a river. The subject of para vidya is emancipation which consists in the cessation of samsara , which is beginningless, endless, undecaying, immortal, deathless, fearless, pure and clear and is nothing but being centred in self and transcendant bliss without a second; first it is attempted to elucidate the subject of apara vidya; for, it is only when it is seen that it is possible to get disgusted with it; accordingly it will be said later on \u201cHaving examined the world attained by karma\u201d ; and as there can be no examination of what is not presented to the view, the text shows what it is. \u2018 Satyam .\u2019 True.\u201d What is that? Mantreshu, in the Vedas known as Rig , Yajur , etc. \u2018 Karmani \u2019, Agnihotra and the rest disclosed by texts of the Vedas ; \u2018 Kavayah ,\u2019 \u2018seers like Vasishtha and \u2018others\u2019. Apasyan have seen. This is true because they are the unfailing means of accomplishing the objects of man. These enjoined by the Vedas and seen by the Rishis were done in diverse ways by the followers of karma . Tretayam , i.e., wherein there is the combination of the three Vedas of the three inodes of rites performed with the aid of a hota , adhvaryu and udgata , or it may mean that they were generally performed in the Treta age. Therefore, you should do them always; \u2018 Satyakamah \u2019 \u2018wishing for those fruits which they can bear.\u2019 This is your route for the attainment of the fruits of Karma. Sukritasya, performed by you; Loka is what is found, or enjoyed; hence the fruits of Karma are denoted by the word \u201c LoJca .\u201d The meaning is that, to attain them, this is the route. These Karma , Agnihotra and the rest enjoined in the Vedas form the road, i.e. , the means for the attainment of the necessary fruits."
+        "text": "【उपोद्घातभाष्यम्】\n‘ब्रह्मा देवानाम्’ इत्याद्याथर्वणोपनिषत् । अस्याश्च विद्यासम्प्रदायकर्तृपारम्पर्यलक्षणं सम्बन्धमादावेवाह स्वयमेव स्तुत्यर्थम् — एवं हि महद्भिः परमपुरुषार्थसाधनत्वेन गुरुणायासेन लब्धा विद्येति । श्रोतृबुद्धिप्ररोचनाय विद्यां महीकरोति, स्तुत्या प्ररोचितायां हि विद्यायां सादराः प्रवर्तेरन्निति । प्रयोजनेन तु विद्यायाः साध्यसाधनलक्षणं सम्बन्धमुत्तरत्र वक्ष्यति ‘भिद्यते हृदयग्रन्थिः’ (मु. उ. २ । २ । ९) इत्यादिना । अत्र चापरशब्दवाच्याया ऋग्वेदादिलक्षणाया विधिप्रतिषेधमात्रपराया विद्यायाः संसारकारणाविद्यादिदोषनिवर्तकत्वं नास्तीति स्वयमेवोक्त्वा परापरेति विद्याभेदकरणपूर्वकम् ‘अविद्यायामन्तरे वर्तमानाः’ (मु. उ. १ । २ । ८) इत्यादिना, तथा परप्राप्तिसाधनं सर्वसाधनसाध्यविषयवैराग्यपूर्वकं गुरुप्रसादलभ्यां ब्रह्मविद्यामाह ‘परीक्ष्य लोकान्’ (मु. उ. १ । २ । १२) इत्यादिना । प्रयोजनं चासकृद्ब्रवीति ‘ब्रह्म वेद ब्रह्मैव भवति’ (मु. उ. ३ । २ । ९) इति ‘परामृताः परिमुच्यन्ति सर्वे’ (मु. उ. ३ । २ । ६) इति च । ज्ञानमात्रे यद्यपि सर्वाश्रमिणामधिकारः, तथापि संन्यासनिष्ठैव ब्रह्मविद्या मोक्षसाधनं न कर्मसहितेति ‘भैक्षचर्यां चरन्तः’ (मु. उ. १ । २ । ११) ‘संन्यासयोगात्’ (मु. उ. ३ । २ । ६) इति च ब्रुवन्दर्शयति । विद्याकर्मविरोधाच्च । न हि ब्रह्मात्मैकत्वदर्शनेन सह कर्म स्वप्नेऽपि सम्पादयितुं शक्यम्; विद्यायाः कालविशेषाभावादनियतनिमित्तत्वाच्च कालसङ्कोचानुपपत्तेः । यत्तु गृहस्थेषु ब्रह्मविद्यासम्प्रदायकर्तृत्वादि लिङ्गं न तत्स्थितं न्यायं बाधितुमुत्सहते; न हि विधिशतेनापि तमःप्रकाशयोरेकत्र सद्भावः शक्यते कर्तुम्, किमुत लिङ्गैः केवलैरिति । एवमुक्तसम्बन्धप्रयोजनाया उपनिषदोऽल्पग्रन्थं विवरणमारभ्यते । य इमां ब्रह्मविद्यामुपयन्त्यात्मभावेन श्रद्धाभक्तिपुरःसराः सन्तः, तेषां गर्भजन्मजरारोगाद्यनर्थपूगं निशातयति परं वा ब्रह्म गमयत्यविद्यादिसंसारकारणं वा अत्यन्तमवसादयति विनाशयतीत्युपनिषत्; उपनिपूर्वस्य सदेरेवमर्थस्मरणात् ॥\n\nब्रह्म परिबृढो महान् धर्मज्ञानवैराग्यैश्वर्यैः सर्वानन्यानतिशेत इति; देवानां द्योतनवतामिन्द्रादीनां प्रथमः गुणैः प्रधानः सन्, प्रथमः अग्रे वा सम्बभूव अभिव्यक्तः सम्यक् स्वातन्त्र्येणेत्यभिप्रायः । न तथा यथा धर्माधर्मवशात्संसारिणोऽन्ये जायन्ते, ‘योऽसावतीन्द्रियोऽग्राह्यः’ (मनु. १ । ७) इत्यादिस्मृतेः । विश्वस्य सर्वस्य जगतः कर्ता उत्पादयिता, भुवनस्य उत्पन्नस्य गोप्ता पालयितेति विशेषणं ब्रह्मणो विद्यास्तुतये । सः एवं प्रख्यातमहत्त्वो ब्रह्मा ब्रह्मविद्यां ब्रह्मणः परमात्मनो विद्यां ब्रह्मविद्याम्, ‘येनाक्षरं पुरुषं वेद सत्यम्’ (मु. उ. १ । २ । १३) इति विशेषणात् । परमात्मविषया हि सा । ब्रह्मणा वाग्रजेनोक्तेति ब्रह्मविद्या । तां ब्रह्मविद्याम्, सर्वविद्याप्रतिष्ठां सर्वविद्याभिव्यक्तिहेतुत्वात्सर्वविद्याश्रयामित्यर्थः; सर्वविद्यावेद्यं वा वस्त्वनयैव ज्ञायत इति, ‘येनाश्रुतं श्रुतं भवति अमतं मतमविज्ञातं विज्ञातम्’ (छा. उ. ६ । १ । ३) इति श्रुतेः । सर्वविद्याप्रतिष्ठामिति च स्तौति विद्याम् । अथर्वाय ज्येष्ठपुत्राय ज्येष्ठश्चासौ पुत्रश्च, अनेकेषु ब्रह्मणः सृष्टिप्रकारेष्वन्यतमस्य सृष्टिप्रकारस्य प्रमुखे पूर्वम् अथर्वा सृष्ट इति ज्येष्ठः; तस्मै ज्येष्ठपुत्राय प्राह प्रोक्तवान् ॥"
       }
     ],
     "commentary_faqs": []
@@ -41,15 +118,96 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 2,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145086.html"
+      "mantra_ref": "1.1.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u0926\u093e \u0932\u0947\u0932\u093e\u092f\u0924\u0947 \u0939\u094d\u092f\u0930\u094d\u091a\u093f\u0903 \u0938\u092e\u093f\u0926\u094d\u0927\u0947 \u0939\u0935\u094d\u092f\u0935\u093e\u0939\u0928\u0947\u00a0\u0964 \n \u0924\u0926\u093e\u091c\u094d\u092f\u092d\u093e\u0917\u093e\u0935\u0928\u094d\u0924\u0930\u0947\u0923\u093e\u0939\u0941\u0924\u0940\u0903 \u092a\u094d\u0930\u0924\u093f\u092a\u093e\u0926\u092f\u0947\u0924\u094d \u0965 \u0968 \u0965",
-    "transliteration": "yad\u0101 lel\u0101yate hyarci\u1e25 samiddhe havyav\u0101hane | tad\u0101jyabh\u0101g\u0101vantare\u1e47\u0101hut\u012b\u1e25 pratip\u0101dayet || 2 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "अथर्वणे यां प्रवदेत ब्रह्माथर्वा तां पुरोवाचाङ्गिरे ब्रह्मविद्याम् । स भारद्वाजाय सत्यवहाय प्राह भारद्वाजोऽङ्गिरसे परावराम् ॥ २ ॥",
+    "transliteration": "atharvaṇe yāṃ pravadeta brahmātharvā tāṃ purovācāṅgire brahmavidyām | sa bhāradvājāya satyavahāya prāha bhāradvājo'ṅgirase parāvarām || 2 ||",
     "translation": "2. When the flame of the fire burning high is moving, then one should perform the oblations in the space between the portions, where the ghee should be poured on either side.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "अथर्वणे",
+        "word_english": "to Atharvan (the sage); Brahmā declared it to him",
+        "grammar_role": "अथर्वन् · चतुर्थी·एक·पुं",
+        "root": "अथर्वणे"
+      },
+      {
+        "word_sanskrit": "यां",
+        "word_english": "which (Brahmavidyā), as object",
+        "grammar_role": "यद् · द्वितीया·एक·स्त्री",
+        "root": "याम्"
+      },
+      {
+        "word_sanskrit": "प्रवदेत",
+        "word_english": "[Brahmā] declared/taught (glossed प्रावदत्)",
+        "grammar_role": "√वद् (प्र) · लेट्/लिङ्·प्रथम·एक·आत्मने",
+        "root": "प्रवदेत"
+      },
+      {
+        "word_sanskrit": "ब्रह्माथर्वा",
+        "word_english": "Brahmā [declared it]; Atharvan [received it and told it onward]",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·पुं + अथर्वन् · प्रथमा·एक·पुं",
+        "root": "ब्रह्मा + अथर्वा"
+      },
+      {
+        "word_sanskrit": "तां",
+        "word_english": "that (very Brahmavidyā), as object",
+        "grammar_role": "तद् · द्वितीया·एक·स्त्री",
+        "root": "ताम्"
+      },
+      {
+        "word_sanskrit": "पुरोवाचाङ्गिरे",
+        "word_english": "[Atharvan] formerly told (it) to Aṅgir (Aṅgīs)",
+        "grammar_role": "पुरा · अव्यय (कालवाचक) + √वच् · लिट्·प्रथम·एक·परस्मै + अङ्गिर् · चतुर्थी·एक·पुं",
+        "root": "पुरा + उवाच + अङ्गिरे"
+      },
+      {
+        "word_sanskrit": "ब्रह्मविद्याम्",
+        "word_english": "the knowledge of Brahman (object)",
+        "grammar_role": "ब्रह्म-विद्या · द्वितीया·एक·स्त्री",
+        "root": "ब्रह्म-विद्याम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (that Aṅgir/Aṅgīs)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "भारद्वाजाय",
+        "word_english": "to Bhāradvāja (of Bharadvāja's line/gotra)",
+        "grammar_role": "भारद्वाज · चतुर्थी·एक·पुं",
+        "root": "भारद्वाजाय"
+      },
+      {
+        "word_sanskrit": "सत्यवहाय",
+        "word_english": "to Satyavaha (by name)",
+        "grammar_role": "सत्यवह · चतुर्थी·एक·पुं",
+        "root": "सत्यवहाय"
+      },
+      {
+        "word_sanskrit": "प्राह",
+        "word_english": "he (Aṅgīs) told/declared (it)",
+        "grammar_role": "√अह् (प्र) · लिट्·प्रथम·एक·परस्मै",
+        "root": "प्राह"
+      },
+      {
+        "word_sanskrit": "भारद्वाजोऽङ्गिरसे",
+        "word_english": "Bhāradvāja [told it] to Aṅgiras (his pupil or son)",
+        "grammar_role": "भारद्वाज · प्रथमा·एक·पुं + अङ्गिरस् · चतुर्थी·एक·पुं",
+        "root": "भारद्वाजः + अङ्गिरसे"
+      },
+      {
+        "word_sanskrit": "परावराम्",
+        "word_english": "the higher-and-lower (knowledge), object",
+        "grammar_role": "परावरा (परावर) · द्वितीया·एक·स्त्री",
+        "root": "परावराम्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -60,13 +218,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0924\u094d\u0930\u093e\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u092e\u0947\u0935 \u0924\u093e\u0935\u0924\u094d\u092a\u094d\u0930\u0925\u092e\u0902 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928\u093e\u0930\u094d\u0925\u092e\u0941\u091a\u094d\u092f\u0924\u0947, \u0938\u0930\u094d\u0935\u0915\u0930\u094d\u092e\u0923\u093e\u0902 \u092a\u094d\u0930\u093e\u0925\u092e\u094d\u092f\u093e\u0924\u094d\u00a0\u0964 \u0924\u0924\u094d\u0915\u0925\u092e\u094d ? \u092f\u0926\u0948\u0935 \u0907\u0928\u094d\u0927\u0928\u0948\u0930\u092d\u094d\u092f\u093e\u0939\u093f\u0924\u0948\u0903 \u0938\u092e\u094d\u092f\u0917\u093f\u0926\u094d\u0927\u0947 \u0938\u092e\u093f\u0926\u094d\u0927\u0947 \u0926\u0940\u092a\u094d\u0924\u0947 \u0939\u0935\u094d\u092f\u0935\u093e\u0939\u0928\u0947 \u0932\u0947\u0932\u093e\u092f\u0924\u0947 \u091a\u0932\u0924\u093f \u0905\u0930\u094d\u091a\u093f\u0903 ; \u0924\u0926\u093e \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0915\u093e\u0932\u0947 \u0932\u0947\u0932\u093e\u092f\u092e\u093e\u0928\u0947 \u091a\u0932\u0924\u094d\u092f\u0930\u094d\u091a\u093f\u0937\u093f \u0906\u091c\u094d\u092f\u092d\u093e\u0917\u094c \u0906\u091c\u094d\u092f\u092d\u093e\u0917\u092f\u094b\u0903 \u0905\u0928\u094d\u0924\u0930\u0947\u0923 \u092e\u0927\u094d\u092f\u0947 \u0906\u0935\u093e\u092a\u0938\u094d\u0925\u093e\u0928\u0947 \u0906\u0939\u0941\u0924\u0940\u0903 \u092a\u094d\u0930\u0924\u093f\u092a\u093e\u0926\u092f\u0947\u0924\u094d \u092a\u094d\u0930\u0915\u094d\u0937\u093f\u092a\u0947\u0924\u094d \u0926\u0947\u0935\u0924\u093e\u092e\u0941\u0926\u094d\u0926\u093f\u0936\u094d\u092f\u00a0\u0964 \u0905\u0928\u0947\u0915\u093e\u0939\u0903\u092a\u094d\u0930\u092f\u094b\u0917\u093e\u092a\u0947\u0915\u094d\u0937\u092f\u093e \u0906\u0939\u0941\u0924\u0940\u0930\u093f\u0924\u093f \u092c\u0939\u0941\u0935\u091a\u0928\u092e\u094d\u00a0\u0964 \u090f\u0937 \u0938\u092e\u094d\u092f\u0917\u093e\u0939\u0941\u0924\u093f\u092a\u094d\u0930\u0915\u094d\u0937\u0947\u092a\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u0903 \u0915\u0930\u094d\u092e\u092e\u093e\u0930\u094d\u0917\u094b \u0932\u094b\u0915\u092a\u094d\u0930\u093e\u092a\u094d\u0924\u092f\u0947 \u092a\u0928\u094d\u0925\u093e\u0903\u00a0\u0964 \u0924\u0938\u094d\u092f \u091a \u0938\u092e\u094d\u092f\u0915\u094d\u0915\u0930\u0923\u0902 \u0926\u0941\u0937\u094d\u0915\u0930\u092e\u094d ; \u0935\u093f\u092a\u0924\u094d\u0924\u092f\u0938\u094d\u0924\u094d\u0935\u0928\u0947\u0915\u093e \u092d\u0935\u0928\u094d\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Of the various kinds of karma , agnihotra is first explained to show what it is, because it is the first of all karma. How is that to be performed? When the flame moves, the five being well fed by fuel, then in the flame so moving between the portions where quantities of ghee are poured on either side, i.e ., in the place called avapasthana one should throw the oblations intending them for the devata. As the same has to be done during many days the plural oblations is used. This karma marga which consists in properly offering the oblations, etc., is the road to the attainment of good worlds but it is not easy to do that properly and the impediments are many."
+        "text": "याम् एताम् अथर्वणे प्रवदेत प्रावदद्ब्रह्मविद्यां ब्रह्मा, तामेव ब्रह्मणः प्राप्ताम् अथर्वां पुरा पूर्वम्; उवाच उक्तवान् अङ्गिरे अङ्गीर्नाम्ने ब्रह्मविद्याम् । स चाङ्गीः भारद्वजाय भरद्वाजगोत्राय सत्यवहाय सत्यवहनाम्ने प्राह प्रोक्तवान् । भारद्वाजः अङ्गिरसे स्वशिष्याय पुत्राय वा परावरां परस्मात्परस्मादवरेणावरेण प्राप्तेति परावरा परावरसर्वविद्याविषयव्याप्तेर्वा, तां परावरामङ्गिरसे प्राहेत्यनुषङ्गः ॥"
       }
     ],
     "commentary_faqs": []
@@ -77,15 +231,90 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 3,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145087.html"
+      "mantra_ref": "1.1.3",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u0938\u094d\u092f\u093e\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u092e\u0926\u0930\u094d\u0936\u092e\u092a\u094c\u0930\u094d\u0923\u092e\u093e\u0938\u092e\u091a\u093e\u0924\u0941\u0930\u094d\u092e\u093e\u0938\u094d\u092f\u092e\u0928\u093e\u0917\u094d\u0930\u092f\u0923\u092e\u0924\u093f\u0925\u093f\u0935\u0930\u094d\u091c\u093f\u0924\u0902 \u091a\u00a0\u0964 \n \u0905\u0939\u0941\u0924\u092e\u0935\u0948\u0936\u094d\u0935\u0926\u0947\u0935\u092e\u0935\u093f\u0927\u093f\u0928\u093e \u0939\u0941\u0924\u092e\u093e\u0938\u092a\u094d\u0924\u092e\u093e\u0902\u0938\u094d\u0924\u0938\u094d\u092f \u0932\u094b\u0915\u093e\u0928\u094d\u0939\u093f\u0928\u0938\u094d\u0924\u093f \u0965 \u0969 \u0965",
-    "transliteration": "yasy\u0101gnihotramadar\u015bamapaur\u1e47am\u0101samac\u0101turm\u0101syaman\u0101graya\u1e47amatithivarjita\u1e43 ca | ahutamavai\u015bvadevamavidhin\u0101 hutam\u0101saptam\u0101\u1e43stasya lok\u0101nhinasti || 3 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "शौनको ह वै महाशालोऽङ्गिरसं विधिवदुपसन्नः पप्रच्छ कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ॥ ३ ॥",
+    "transliteration": "śaunako ha vai mahāśālo'ṅgirasaṃ vidhivadupasannaḥ papraccha kasminnu bhagavo vijñāte sarvamidaṃ vijñātaṃ bhavatīti || 3 ||",
     "translation": "3. He whose agnihotra is without Darsa , without Paurnamasa , without Chaturmasya , without agrayana , without atithi (guests) and without oblation is without vaisvadeva , or irregularly performed, destroys his worlds till the seventh.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "शौनको",
+        "word_english": "Śaunaka, descendant of Śunaka (the questioner; bhāṣya: शुनकस्यापत्यम्)",
+        "grammar_role": "शौनक · प्रथमा·एक·पुं",
+        "root": "शौनकः"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed (emphatic recollective particle, marking a traditional account)",
+        "grammar_role": "अव्यय (निपात, स्मरणार्थक)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "verily, indeed (affirmative particle)",
+        "grammar_role": "अव्यय (निपात, अवधारणार्थक)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "महाशालोऽङ्गिरसं",
+        "word_english": "the great householder (महागृहस्थः); (approached) Aṅgiras the teacher (disciple of Bharadvāja)",
+        "grammar_role": "महाशाल · प्रथमा·एक·पुं + अङ्गिरस् · द्वितीया·एक·पुं",
+        "root": "महाशालः + अङ्गिरसम्"
+      },
+      {
+        "word_sanskrit": "विधिवदुपसन्नः",
+        "word_english": "according to rule (यथाशास्त्रम्), having duly approached (उपगतः सन्)",
+        "grammar_role": "अव्यय (तद्धित वति-प्रत्यय, यथाशास्त्रम्) + उप-√सद् · प्रथमा·एक·पुं (क्तप्रत्यय, कर्तरि)",
+        "root": "विधिवत् + उपसन्नः"
+      },
+      {
+        "word_sanskrit": "पप्रच्छ",
+        "word_english": "he asked, he inquired (पृष्टवान्)",
+        "grammar_role": "√प्रच्छ् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "पप्रच्छ"
+      },
+      {
+        "word_sanskrit": "कस्मिन्नु",
+        "word_english": "in (the knowing of) what, pray (interrogative locative in a locative-absolute; नु = deliberation)",
+        "grammar_role": "किम् · सप्तमी·एक·नपुं + अव्यय (निपात, वितर्के)",
+        "root": "कस्मिन् + नु"
+      },
+      {
+        "word_sanskrit": "भगवो",
+        "word_english": "O venerable one! (हे भगवन्, address to the teacher)",
+        "grammar_role": "भगवत् · सम्बोधन·एक·पुं (आमन्त्रितम्)",
+        "root": "भगवः"
+      },
+      {
+        "word_sanskrit": "विज्ञाते",
+        "word_english": "when (it) is known (विशेषेण ज्ञाते अवगते; locative absolute with कस्मिन्)",
+        "grammar_role": "विज्ञात · सप्तमी·एक·नपुं (वि-√ज्ञा, क्तप्रत्यय; सति सप्तमी)",
+        "root": "विज्ञाते"
+      },
+      {
+        "word_sanskrit": "सर्वमिदं",
+        "word_english": "all this (the whole knowable universe; सर्वं यदिदं विज्ञेयम्)",
+        "grammar_role": "सर्व · प्रथमा·एक·नपुं + इदम् · प्रथमा·एक·नपुं",
+        "root": "सर्वम् + इदम्"
+      },
+      {
+        "word_sanskrit": "विज्ञातं",
+        "word_english": "known, fully comprehended (विशेषेण ज्ञातम् अवगतम्)",
+        "grammar_role": "विज्ञात · प्रथमा·एक·नपुं (वि-√ज्ञा, क्तप्रत्यय; कर्मणि)",
+        "root": "विज्ञातम्"
+      },
+      {
+        "word_sanskrit": "भवतीति",
+        "word_english": "becomes — thus (he asked)",
+        "grammar_role": "√भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद + अव्यय (इति, उद्धरणार्थक)",
+        "root": "भवति + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -96,13 +325,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u0925\u092e\u094d ? \u092f\u0938\u094d\u092f \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093f\u0923\u0903 \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u092e\u094d \u0905\u0926\u0930\u094d\u0936\u0902 \u0926\u0930\u094d\u0936\u093e\u0916\u094d\u092f\u0947\u0928 \u0915\u0930\u094d\u092e\u0923\u093e \u0935\u0930\u094d\u091c\u093f\u0924\u092e\u094d\u00a0\u0964 \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093f\u092d\u093f\u0930\u0935\u0936\u094d\u092f\u0915\u0930\u094d\u0924\u0935\u094d\u092f\u0924\u094d\u0935\u093e\u0926\u094d\u0926\u0930\u094d\u0936\u0938\u094d\u092f\u00a0\u0964 \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093f\u0938\u092e\u094d\u092c\u0928\u094d\u0927\u094d\u092f\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0935\u093f\u0936\u0947\u0937\u0923\u092e\u093f\u0935 \u092d\u0935\u0924\u093f\u00a0\u0964 \u0924\u0926\u0915\u094d\u0930\u093f\u092f\u092e\u093e\u0923\u092e\u093f\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u00a0\u0964 \u0924\u0925\u093e \u0905\u092a\u094c\u0930\u094d\u0923\u092e\u093e\u0938\u092e\u094d \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0937\u094d\u0935\u092a\u094d\u092f\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0935\u093f\u0936\u0947\u0937\u0923\u0924\u094d\u0935\u0902 \u0926\u094d\u0930\u0937\u094d\u091f\u0935\u094d\u092f\u092e\u094d\u00a0\u0964 \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0919\u094d\u0917\u0924\u094d\u0935\u0938\u094d\u092f\u093e\u0935\u093f\u0936\u093f\u0937\u094d\u091f\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u0905\u092a\u094c\u0930\u094d\u0923\u092e\u093e\u0938\u0902 \u092a\u094c\u0930\u094d\u0923\u092e\u093e\u0938\u0915\u0930\u094d\u092e\u0935\u0930\u094d\u091c\u093f\u0924\u092e\u094d\u00a0\u0964 \u0905\u091a\u093e\u0924\u0941\u0930\u094d\u092e\u093e\u0938\u094d\u092f\u0902 \u091a\u093e\u0924\u0941\u0930\u094d\u092e\u093e\u0938\u094d\u092f\u0915\u0930\u094d\u092e\u0935\u0930\u094d\u091c\u093f\u0924\u092e\u094d\u00a0\u0964 \u0905\u0928\u093e\u0917\u094d\u0930\u092f\u0923\u092e\u094d \u0906\u0917\u094d\u0930\u092f\u0923\u0902 \u0936\u0930\u0926\u093e\u0926\u093f\u0937\u0941 \u0915\u0930\u094d\u0924\u0935\u094d\u092f\u092e\u094d , \u0924\u091a\u094d\u091a \u0928 \u0915\u094d\u0930\u093f\u092f\u0924\u0947 \u092f\u0938\u094d\u092f \u0924\u0924\u094d\u0924\u0925\u093e\u00a0\u0964 \u0905\u0924\u093f\u0925\u093f\u0935\u0930\u094d\u091c\u093f\u0924\u0902 \u091a \u0905\u0924\u093f\u0925\u093f\u092a\u0942\u091c\u0928\u0902 \u091a\u093e\u0939\u0928\u094d\u092f\u0939\u0928\u094d\u092f\u0915\u094d\u0930\u093f\u092f\u092e\u093e\u0923\u0902 \u092f\u0938\u094d\u092f\u00a0\u0964 \u0938\u094d\u0935\u092f\u0902 \u0938\u092e\u094d\u092f\u0917\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0915\u093e\u0932\u0947 \u0905\u0939\u0941\u0924\u092e\u094d\u00a0\u0964 \u0905\u0926\u0930\u094d\u0936\u093e\u0926\u093f\u0935\u0924\u094d \u0905\u0935\u0948\u0936\u094d\u0935\u0926\u0947\u0935\u0902 \u0935\u0948\u0936\u094d\u0935\u0926\u0947\u0935\u0915\u0930\u094d\u092e\u0935\u0930\u094d\u091c\u093f\u0924\u092e\u094d\u00a0\u0964 \u0939\u0942\u092f\u092e\u093e\u0928\u092e\u092a\u094d\u092f\u0935\u093f\u0927\u093f\u0928\u093e \u0939\u0941\u0924\u092e\u094d \u0905\u092f\u0925\u093e\u0939\u0941\u0924\u092e\u093f\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u00a0\u0964 \u090f\u0935\u0902 \u0926\u0941\u0903\u0938\u092e\u094d\u092a\u093e\u0926\u093f\u0924\u092e\u0938\u092e\u094d\u092a\u093e\u0926\u093f\u0924\u092e\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0926\u094d\u092f\u0941\u092a\u0932\u0915\u094d\u0937\u093f\u0924\u0902 \u0915\u0930\u094d\u092e \u0915\u093f\u0902 \u0915\u0930\u094b\u0924\u0940\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u0906\u0938\u092a\u094d\u0924\u092e\u093e\u0928\u094d \u0938\u092a\u094d\u0924\u092e\u0938\u0939\u093f\u0924\u093e\u0928\u094d \u0924\u0938\u094d\u092f \u0915\u0930\u094d\u0924\u0941\u0930\u094d\u0932\u094b\u0915\u093e\u0928\u094d \u0939\u093f\u0928\u0938\u094d\u0924\u093f \u0939\u093f\u0928\u0938\u094d\u0924\u0940\u0935 \u0906\u092f\u093e\u0938\u092e\u093e\u0924\u094d\u0930\u092b\u0932\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u0938\u092e\u094d\u092f\u0915\u094d \u0915\u094d\u0930\u093f\u092f\u092e\u093e\u0923\u0947\u0937\u0941 \u0939\u093f \u0915\u0930\u094d\u092e\u0938\u0941 \u0915\u0930\u094d\u092e\u092a\u0930\u093f\u0923\u093e\u092e\u093e\u0928\u0941\u0930\u0942\u092a\u094d\u092f\u0947\u0923 \u092d\u0942\u0930\u093e\u0926\u092f\u0903 \u0938\u0924\u094d\u092f\u093e\u0928\u094d\u0924\u093e\u0903 \u0938\u092a\u094d\u0924 \u0932\u094b\u0915\u093e\u0903 \u092b\u0932\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u0935\u094d\u092f\u092e\u094d\u00a0\u0964 \u0924\u0947 \u0932\u094b\u0915\u093e\u0903 \u090f\u0935\u0902\u092d\u0942\u0924\u0947\u0928\u093e\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0926\u093f\u0915\u0930\u094d\u092e\u0923\u093e \u0924\u094d\u0935\u092a\u094d\u0930\u093e\u092a\u094d\u092f\u0924\u094d\u0935\u093e\u0926\u094d\u0927\u093f\u0902\u0938\u094d\u092f\u0928\u094d\u0924 \u0907\u0935, \u0906\u092f\u093e\u0938\u092e\u093e\u0924\u094d\u0930\u0902 \u0924\u094d\u0935\u0935\u094d\u092f\u092d\u093f\u091a\u093e\u0930\u0940\u0924\u094d\u092f\u0924\u094b \u0939\u093f\u0928\u0938\u094d\u0924\u0940\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \u092a\u093f\u0923\u094d\u0921\u0926\u093e\u0928\u093e\u0926\u094d\u092f\u0928\u0941\u0917\u094d\u0930\u0939\u0947\u0923 \u0935\u093e \u0938\u092e\u094d\u092c\u0927\u094d\u092f\u092e\u093e\u0928\u093e\u0903 \u092a\u093f\u0924\u0943\u092a\u093f\u0924\u093e\u092e\u0939\u092a\u094d\u0930\u092a\u093f\u0924\u093e\u092e\u0939\u093e\u0903 \u092a\u0941\u0924\u094d\u0930\u092a\u094c\u0924\u094d\u0930\u092a\u094d\u0930\u092a\u094c\u0924\u094d\u0930\u093e\u0903 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u094b\u092a\u0915\u093e\u0930\u093e\u0903 \u0938\u092a\u094d\u0924 \u0932\u094b\u0915\u093e \u0909\u0915\u094d\u0924\u092a\u094d\u0930\u0915\u093e\u0930\u0947\u0923\u093e\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0926\u093f\u0928\u093e \u0928 \u092d\u0935\u0928\u094d\u0924\u0940\u0924\u093f \u0939\u093f\u0902\u0938\u094d\u092f\u0928\u094d\u0924 \u0907\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014How is that so? \u2018Without Darsa \u2019, without ritual named Darsa ; for, one who performs agnihotra should necessarily perform Darsa ; though connected with agnihotra (as a part of it) it becomes as it were an attribute of agnihotra. The drift is Agnihotra, without Darsa performed. The expressions \u201cwithout paurnamasa , etc., as attributes of agnihotra should be similarly noted; for, all are equally the angas (parts) of agnihotra. \u2018Without Paurnamasa ,\u2019 devoid of the Paurnamasa ritual. \u2018Without Chaturmasya ,\u2019 devoid of the Chaturmasya ritual. \u2018Without agrayana \u2019, devoid of the agrayana ritual which is to he performed in autumn, etc.; similarly \u2018without atithi \u2019, devoid of the daily propitiation of guests; \u2018 ahutam \u2019, oblation not offered well by himself at the time for agnihotra . \u201cWithout vaisvadeva \u201d, like \u201cwithout Darsa \u201d, means devoid of the vaisvadeva ritual. Is \u2018irregularly performed,\u2019 oblation though offered, not offered in the proper manner. What such karma , as agnihotra ill-performed or not performed at all, leads to, is stated immediately after. \u2018Till the seventh\u2019, inclusive of the seventh. \u2018His,\u2019 of the doer. \u2018Destroys the seven worlds of the doer\u2019, seems to destroy; because only the trouble taken is the fruit; for, it is only when karma is properly performed, the seven worlds beginning with Bhu and ending with satya are obtained as result, according to the fruition of the karma. These worlds are not obtainable by agnihotra and other karma , performed as just above stated and they are therefore said to be as it were destroyed; but the mere trouble is ever present; or, it may be construed to mean that the three ancestors (the father, the grand-father and the great-grand-father) and the three descendants (the son, the grandson and the great-grandson) connected by the offer of oblations do not confer any benefit on his soul by virtue of the agnihotra and the rest, performed as above stated."
+        "text": "शौनकः शुनकस्यापत्यं महाशालः महागृहस्थः अङ्गिरसं भारद्वाजशिष्यमाचार्यं विधिवत् यथाशास्त्रमित्येतत्; उपसन्नः उपगतः सन् पप्रच्छ पृष्टवान् । शौनकाङ्गिरसोः सम्बन्धादर्वाग्विधिवद्विशेषणाभावादुपसदनविधेः पूर्वेषामनियम इति गम्यते । मर्यादाकरणार्थं विशेषणम् । मध्यदीपिकान्यायार्थं वा विशेषणम्, अस्मदादिष्वप्युपसदनविधेरिष्टत्वात् । किमित्याह — कस्मिन्नु भगवो विज्ञाते, नु इति वितर्के, भगवः हे भगवन्, सर्वं यदिदं विज्ञेयं विज्ञातं विशेषेण ज्ञातमवगतं भवतीति ‘एकस्मिन्विज्ञाते सर्वविद्भवति’ इति शिष्टप्रवादं श्रुतवाञ्शौनकः तद्विशेषं विज्ञातुकामः सन्कस्मिन्निति वितर्कयन्पप्रच्छ । अथवा, लोकसामान्यदृष्ट्या ज्ञात्वैव पप्रच्छ । सन्ति हि लोके सुवर्णादिशकलभेदाः सुवर्णत्वाद्येकत्वविज्ञानेन विज्ञायमाना लौकिकैः; तथा किं न्वस्ति सर्वस्य जगद्भेदस्यैकं कारणम् यत्रैकस्मिन्विज्ञाते सर्वं विज्ञातं भवतीति । नन्वविदिते हि कस्मिन्निति प्रश्नोऽनुपपन्नः; किमस्ति तदिति तदा प्रश्नो युक्तः; सिद्धे ह्यस्तित्वे कस्मिन्निति स्यात्, यथा कस्मिन्निधेयमिति । न; अक्षरबाहुल्यादायासभीरुत्वात्प्रश्नः सम्भवत्येव — किं न्वस्ति तद्यस्मिन्नेकस्मिन्विज्ञाते सर्ववित्स्यादिति ॥"
       }
     ],
     "commentary_faqs": []
@@ -113,15 +338,102 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 4,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145088.html"
+      "mantra_ref": "1.1.4",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0915\u093e\u0932\u0940 \u0915\u0930\u093e\u0932\u0940 \u091a \u092e\u0928\u094b\u091c\u0935\u093e \u091a \u0938\u0941\u0932\u094b\u0939\u093f\u0924\u093e \u092f\u093e \u091a \u0938\u0941\u0927\u0942\u092e\u094d\u0930\u0935\u0930\u094d\u0923\u093e\u00a0\u0964 \n \u0938\u094d\u092b\u0941\u0932\u093f\u0919\u094d\u0917\u093f\u0928\u0940 \u0935\u093f\u0936\u094d\u0935\u0930\u0941\u091a\u0940 \u091a \u0926\u0947\u0935\u0940 \u0932\u0947\u0932\u093e\u092f\u092e\u093e\u0928\u093e \u0907\u0924\u093f \u0938\u092a\u094d\u0924 \u091c\u093f\u0939\u094d\u0935\u093e\u0903 \u0965 \u096a \u0965",
-    "transliteration": "k\u0101l\u012b kar\u0101l\u012b ca manojav\u0101 ca sulohit\u0101 y\u0101 ca sudh\u016bmravar\u1e47\u0101 | sphuli\u1e45gin\u012b vi\u015bvaruc\u012b ca dev\u012b lel\u0101yam\u0101n\u0101 iti sapta jihv\u0101\u1e25 || 4 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "तस्मै स होवाच । द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च ॥ ४ ॥",
+    "transliteration": "tasmai sa hovāca | dve vidye veditavye iti ha sma yadbrahmavido vadanti parā caivāparā ca || 4 ||",
     "translation": "4. Kali , karali, also manojava , sulothia , sudhumravarna , sphulingini , and visvaruchi are the seven moving tongues of fire.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मै",
+        "word_english": "to him (Śaunaka)",
+        "grammar_role": "तद् · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "तस्मै"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (Aṅgiras)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "होवाच",
+        "word_english": "indeed (he) said",
+        "grammar_role": "अव्यय (निपात) + √वच् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "ह + उवाच"
+      },
+      {
+        "word_sanskrit": "द्वे",
+        "word_english": "two",
+        "grammar_role": "द्वि · प्रथमा·द्विवचन·स्त्रीलिङ्ग",
+        "root": "द्वे"
+      },
+      {
+        "word_sanskrit": "विद्ये",
+        "word_english": "(two) knowledges",
+        "grammar_role": "विद्या · प्रथमा·द्विवचन·स्त्रीलिङ्ग",
+        "root": "विद्ये"
+      },
+      {
+        "word_sanskrit": "वेदितव्ये",
+        "word_english": "(the two are) to be known",
+        "grammar_role": "वेदितव्य · प्रथमा·द्विवचन·स्त्रीलिङ्ग",
+        "root": "वेदितव्ये"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus",
+        "grammar_role": "अव्यय (निपात)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed, verily",
+        "grammar_role": "अव्यय (निपात)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "स्म",
+        "word_english": "verily (with past sense)",
+        "grammar_role": "अव्यय (निपात)",
+        "root": "स्म"
+      },
+      {
+        "word_sanskrit": "यद्ब्रह्मविदो",
+        "word_english": "that which the knowers of Brahman",
+        "grammar_role": "यद् · प्रथमा·एकवचन·नपुंसकलिङ्ग (अव्ययवत्) + ब्रह्मविद् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "यत् + ब्रह्म-विदः"
+      },
+      {
+        "word_sanskrit": "वदन्ति",
+        "word_english": "they say",
+        "grammar_role": "√वद् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "वदन्ति"
+      },
+      {
+        "word_sanskrit": "परा",
+        "word_english": "the higher (knowledge), i.e. knowledge of the Supreme Self",
+        "grammar_role": "पर · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "परा"
+      },
+      {
+        "word_sanskrit": "चैवापरा",
+        "word_english": "and indeed the lower (knowledge)",
+        "grammar_role": "अव्यय (समुच्चय) + अव्यय (निपात) + अपर · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "च + एव + अपरा"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -132,13 +444,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093e\u0932\u0940 \u0915\u0930\u093e\u0932\u0940 \u091a \u092e\u0928\u094b\u091c\u0935\u093e \u091a \u0938\u0941\u0932\u094b\u0939\u093f\u0924\u093e \u092f\u093e \u091a \u0938\u0941\u0927\u0942\u092e\u094d\u0930\u0935\u0930\u094d\u0923\u093e\u00a0\u0964 \u0938\u094d\u092b\u0941\u0932\u093f\u0919\u094d\u0917\u093f\u0928\u0940 \u0935\u093f\u0936\u094d\u0935\u0930\u0941\u091a\u0940 \u091a \u0926\u0947\u0935\u0940 \u0932\u0947\u0932\u093e\u092f\u092e\u093e\u0928\u093e \u0926\u0939\u0928\u0938\u094d\u092f \u091c\u093f\u0939\u094d\u0935\u093e\u0903\u00a0\u0964 \u0915\u093e\u0932\u094d\u092f\u093e\u0926\u094d\u092f\u093e \u0935\u093f\u0936\u094d\u0935\u0930\u0941\u091a\u094d\u092f\u0928\u094d\u0924\u093e \u0932\u0947\u0932\u093e\u092f\u092e\u093e\u0928\u093e\u0903 \u0905\u0917\u094d\u0928\u0947\u0930\u094d\u0939\u0935\u093f\u0930\u093e\u0939\u0941\u0924\u093f\u0917\u094d\u0930\u0938\u0928\u093e\u0930\u094d\u0925\u093e \u090f\u0924\u093e\u0903 \u0915\u093f\u0932 \u0938\u092a\u094d\u0924 \u091c\u093f\u0939\u094d\u0935\u093e\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014The seven tongues of the (flaming) fire, from kali down to visvaruchi , are intended to swallow the oblations thrown on it."
+        "text": "तस्मै शौनकाय सः अङ्गिराः ह किल उवाच उक्तवान् । किमिति, उच्यते — द्वे विद्ये वेदितव्ये ज्ञातव्ये इति । एवं ह स्म किल यत् ब्रह्मविदः वेदार्थाभिज्ञाः परमार्थदर्शिनः वदन्ति । के ते इत्याह — परा च परमात्मविद्या, अपरा च धर्माधर्मसाधनतत्फलविषया । ननु कस्मिन्विदिते सर्वविद्भवतीति शौनकेन पृष्टम्; तस्मिन्वक्तव्येऽपृष्टमाहाङ्गिराः — द्वे विद्ये इत्यादि । नैष दोषः, क्रमापेक्षत्वात्प्रतिवचनस्य । अपरा हि विद्या अविद्या; सा निराकर्तव्या तद्विषये हि अविदिते न किञ्चित्तत्त्वतो विदितं स्यादिति; ‘निराकृत्य हि पूर्वपक्षं पश्चात्सिद्धान्तो वक्तव्यो भवति’ इति न्यायात् ॥"
       }
     ],
     "commentary_faqs": []
@@ -149,15 +457,102 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 5,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145089.html"
+      "mantra_ref": "1.1.5",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u090f\u0924\u0947\u0937\u0941 \u092f\u0936\u094d\u091a\u0930\u0924\u0947 \u092d\u094d\u0930\u093e\u091c\u092e\u093e\u0928\u0947\u0937\u0941 \u092f\u0925\u093e\u0915\u093e\u0932\u0902 \u091a\u093e\u0939\u0941\u0924\u092f\u094b \u0939\u094d\u092f\u093e\u0926\u0926\u093e\u092f\u0928\u094d\u00a0\u0964 \n \u0924\u0902 \u0928\u092f\u0928\u094d\u0924\u094d\u092f\u0947\u0924\u093e\u0903 \u0938\u0942\u0930\u094d\u092f\u0938\u094d\u092f \u0930\u0936\u094d\u092e\u092f\u094b \u092f\u0924\u094d\u0930 \u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u092a\u0924\u093f\u0930\u0947\u0915\u094b\u093d\u0927\u093f\u0935\u093e\u0938\u0903 \u0965 \u096b \u0965",
-    "transliteration": "ete\u1e63u ya\u015bcarate bhr\u0101jam\u0101ne\u1e63u yath\u0101k\u0101la\u1e43 c\u0101hutayohy\u0101dad\u0101yan | tannayantyet\u0101\u1e25 s\u016bryasya ra\u015bmayo yatra dev\u0101n\u0101\u1e43 patireko'dhiv\u0101sa\u1e25 || 5 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "तत्रापरा, ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति । अथ परा यया तदक्षरमधिगम्यते ॥ ५ ॥",
+    "transliteration": "tatrāparā, ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣamiti | atha parā yayā tadakṣaramadhigamyate || 5 ||",
     "translation": "5. Him who performed karma ( agnihotra ) in the bright flames at the proper time, these oblations, performed by him, conduct through the rays of the sun where the Lord of the Devas is sole sovereign.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तत्रापरा",
+        "word_english": "there (among those two knowledges) the lower [knowledge]",
+        "grammar_role": "तत्र · अव्यय (देशकालवाची; 'तयोः') + अपर · प्रथमा·एक·स्त्री (विशेषण, विद्या इति शेषः)",
+        "root": "तत्र + अपरा"
+      },
+      {
+        "word_sanskrit": "ऋग्वेदो",
+        "word_english": "the Ṛgveda",
+        "grammar_role": "ऋग्वेद · प्रथमा·एक·पुं",
+        "root": "ऋग्वेदः"
+      },
+      {
+        "word_sanskrit": "यजुर्वेदः",
+        "word_english": "the Yajurveda",
+        "grammar_role": "यजुर्वेद · प्रथमा·एक·पुं",
+        "root": "यजुर्वेदः"
+      },
+      {
+        "word_sanskrit": "सामवेदोऽथर्ववेदः",
+        "word_english": "the Sāmaveda; the Atharvaveda (these four are the Vedas)",
+        "grammar_role": "सामवेद · प्रथमा·एक·पुं + अथर्ववेद · प्रथमा·एक·पुं",
+        "root": "सामवेदः + अथर्ववेदः"
+      },
+      {
+        "word_sanskrit": "शिक्षा",
+        "word_english": "Śikṣā (phonetics); a Vedāṅga",
+        "grammar_role": "शिक्षा · प्रथमा·एक·स्त्री",
+        "root": "शिक्षा"
+      },
+      {
+        "word_sanskrit": "कल्पो",
+        "word_english": "Kalpa (ritual procedure); a Vedāṅga",
+        "grammar_role": "कल्प · प्रथमा·एक·पुं",
+        "root": "कल्पः"
+      },
+      {
+        "word_sanskrit": "व्याकरणं",
+        "word_english": "Vyākaraṇa (grammar); a Vedāṅga",
+        "grammar_role": "व्याकरण · प्रथमा·एक·नपुं",
+        "root": "व्याकरणम्"
+      },
+      {
+        "word_sanskrit": "निरुक्तं",
+        "word_english": "Nirukta (etymology); a Vedāṅga",
+        "grammar_role": "निरुक्त · प्रथमा·एक·नपुं",
+        "root": "निरुक्तम्"
+      },
+      {
+        "word_sanskrit": "छन्दो",
+        "word_english": "Chandas (metre); a Vedāṅga",
+        "grammar_role": "छन्दस् · प्रथमा·एक·नपुं",
+        "root": "छन्दः"
+      },
+      {
+        "word_sanskrit": "ज्योतिषमिति",
+        "word_english": "Jyotiṣa (astronomy) — thus (these are the six aṅgas); this is the lower vidyā",
+        "grammar_role": "ज्योतिष · प्रथमा·एक·नपुं + इति · अव्यय (समाप्तौ/परिगणने) — bhāṣya: 'इत्यङ्गानि षट्'",
+        "root": "ज्योतिषम् + इति"
+      },
+      {
+        "word_sanskrit": "अथ",
+        "word_english": "now (next), per bhāṣya 'idānīm'",
+        "grammar_role": "अथ · अव्यय (आनन्तर्ये; bhāṣya 'इदानीम्')",
+        "root": "अथ"
+      },
+      {
+        "word_sanskrit": "परा",
+        "word_english": "the higher [knowledge]",
+        "grammar_role": "पर · प्रथमा·एक·स्त्री (विशेषण, विद्या इति शेषः)",
+        "root": "परा"
+      },
+      {
+        "word_sanskrit": "यया",
+        "word_english": "by which (knowledge)",
+        "grammar_role": "यद् · तृतीया·एक·स्त्री (करणे; विद्या इति शेषः)",
+        "root": "यया"
+      },
+      {
+        "word_sanskrit": "तदक्षरमधिगम्यते",
+        "word_english": "that imperishable (akṣara) is attained/reached (prāpyate; per bhāṣya 'adhi+gam' chiefly = prāpti, here non-different from knowing)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं (विशेषण, 'वक्ष्यमाणविशेषणम्') + अक्षर · प्रथमा·एक·नपुं (कर्मणि कर्तृपदम्) + √गम् (अधि-) · लट्·प्रथम·एक·आत्मने (कर्मणि प्रयोगः)",
+        "root": "तत् + अक्षरम् + अधिगम्यते"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -168,13 +563,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u090f\u0924\u0947\u0937\u0941 \u0905\u0917\u094d\u0928\u093f\u091c\u093f\u0939\u094d\u0935\u093e\u092d\u0947\u0926\u0947\u0937\u0941 \u092f\u0903 \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u0940 \u091a\u0930\u0924\u0947 \u0915\u0930\u094d\u092e\u093e\u091a\u0930\u0924\u094d\u092f\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0926\u093f\u0915\u0902 \u092d\u094d\u0930\u093e\u091c\u092e\u093e\u0928\u0947\u0937\u0941 \u0926\u0940\u092a\u094d\u092f\u092e\u093e\u0928\u0947\u0937\u0941\u00a0\u0964 \u092f\u0925\u093e\u0915\u093e\u0932\u0902 \u091a \u092f\u0938\u094d\u092f \u0915\u0930\u094d\u092e\u0923\u094b \u092f\u0903 \u0915\u093e\u0932\u0938\u094d\u0924\u0902 \u0915\u093e\u0932\u092e\u0928\u0924\u093f\u0915\u094d\u0930\u092e\u094d\u092f \u092f\u0925\u093e\u0915\u093e\u0932\u0902 \u092f\u091c\u092e\u093e\u0928\u092e\u094d \u0906\u0926\u0926\u093e\u092f\u0928\u094d \u0906\u0926\u0926\u093e\u0928\u093e \u0906\u0939\u0941\u0924\u092f\u0903 \u0924\u0902 \u0928\u092f\u0928\u094d\u0924\u093f \u092a\u094d\u0930\u093e\u092a\u092f\u0928\u094d\u0924\u093f\u00a0\u0964 \u090f\u0924\u093e\u0903 \u0906\u0939\u0941\u0924\u092f\u094b \u092f\u093e \u0907\u092e\u093e \u0905\u0928\u0947\u0928 \u0928\u093f\u0930\u094d\u0935\u0930\u094d\u0924\u093f\u0924\u093e\u0903 \u0938\u0942\u0930\u094d\u092f\u0938\u094d\u092f \u0930\u0936\u094d\u092e\u092f\u0903 \u092d\u0942\u0924\u094d\u0935\u093e, \u0930\u0936\u094d\u092e\u093f\u0926\u094d\u0935\u093e\u0930\u0948\u0930\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092f\u0924\u094d\u0930 \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0938\u094d\u0935\u0930\u094d\u0917\u0947 \u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u092a\u0924\u093f\u0903 \u0907\u0928\u094d\u0926\u094d\u0930\u0903 \u090f\u0915\u0903 \u0938\u0930\u094d\u0935\u093e\u0928\u0941\u092a\u0930\u093f \u0905\u0927\u093f \u0935\u0938\u0924\u0940\u0924\u093f \u0905\u0927\u093f\u0935\u093e\u0938\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014The agnihotri who performs the karma, agnihotra and the rest, in these different bright tongues of the fire, at the time fixed for the performance of the karma , these oblations (performed by him) becoming so many rays of the sun conduct him to Heaven, where Indra , Lord of the Devas , singly rules over all. \u2018 Adadayan ,\u2019 taking (the sacrificer)."
+        "text": "तत्र का अपरेत्युच्यते — ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः इत्येते चत्वारो वेदाः । शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषम् इत्यङ्गानि षट्; एषा अपरा विद्योक्ता । अथ इदानीम् इयं परा विद्योच्यते यया तत् वक्ष्यमाणविशेषणम् अक्षरम् अधिगम्यते प्राप्यते, अधिपूर्वस्य गमेः प्रायशः प्राप्त्यर्थत्वात्; न च परप्राप्तेरवगमार्थस्य च भेदोऽस्ति; अविद्याया अपाय एव हि परप्राप्तिर्नार्थान्तरम् । ननु ऋग्वेदादिबाह्या तर्हि सा कथं परा विद्या स्यात् मोक्षसाधनं च । ‘या वेदबाह्याः स्मृतयो याश्च काश्च कुदृष्टयः. . .’ (मनु. १२ । ९५) इति हि स्मरन्ति । कुदृष्टित्वान्निष्फलत्वादनादेया स्यात्; उपनिषदां च ऋग्वेदादिबाह्यत्वं स्यात् । ऋग्वेदादित्वे तु पृथक्करणमनर्थकम् अथ परेति । न, वेद्यविषयविज्ञानस्य विवक्षितत्वात् । उपनिषद्वेद्याक्षरविषयं हि विज्ञानमिह परा विद्येति प्राधान्येन विवक्षितम्, नोपनिषच्छब्दराशिः । वेदशब्देन तु सर्वत्र शब्दराशिर्विवक्षितः । शब्दराश्यधिगमेऽपि यत्नान्तरमन्तरेण गुर्वभिगमनादिलक्षणं वैराग्यं च नाक्षराधिगमः सम्भवतीति पृथक्करणं ब्रह्मविद्याया अथ परा विद्येति ॥"
       }
     ],
     "commentary_faqs": []
@@ -185,15 +576,78 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 6,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145090.html"
+      "mantra_ref": "1.1.6",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u090f\u0939\u094d\u092f\u0947\u0939\u0940\u0924\u093f \u0924\u092e\u093e\u0939\u0941\u0924\u092f\u0903 \u0938\u0941\u0935\u0930\u094d\u091a\u0938\u0903 \u0938\u0942\u0930\u094d\u092f\u0938\u094d\u092f \u0930\u0936\u094d\u092e\u093f\u092d\u093f\u0930\u094d\u092f\u091c\u092e\u093e\u0928\u0902 \u0935\u0939\u0928\u094d\u0924\u093f\u00a0\u0964 \n \u092a\u094d\u0930\u093f\u092f\u093e\u0902 \u0935\u093e\u091a\u092e\u092d\u093f\u0935\u0926\u0928\u094d\u0924\u094d\u092f\u094b\u093d\u0930\u094d\u091a\u092f\u0928\u094d\u0924\u094d\u092f \u090f\u0937 \u0935\u0903 \u092a\u0941\u0923\u094d\u092f\u0903 \u0938\u0941\u0915\u0943\u0924\u094b \u092c\u094d\u0930\u0939\u094d\u092e\u0932\u094b\u0915\u0903 \u0965 \u096c \u0965",
-    "transliteration": "ehyeh\u012bti tam\u0101hutaya\u1e25 suvarcasa\u1e25 s\u016bryasya ra\u015bmibhiryajam\u0101na\u1e43 vahanti | priy\u0101\u1e43 v\u0101camabhivadantyo'rcayantya e\u1e63a va\u1e25 pu\u1e47ya\u1e25 suk\u1e5bto brahmaloka\u1e25 || 6 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं तदपाणिपादम् । नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः ॥ ६ ॥",
+    "transliteration": "yattadadreśyamagrāhyamagotramavarṇamacakṣuḥśrotraṃ tadapāṇipādam | nityaṃ vibhuṃ sarvagataṃ susūkṣmaṃ tadavyayaṃ yadbhūtayoniṃ paripaśyanti dhīrāḥ || 6 ||",
     "translation": "6. These oblations shining bright carry the sacrificer through the rays of the sun bidding him welcome, propitiating him and greeting him with pleasing words. This is the well-laid path of virtue leading to Brahmaloka.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं",
+        "word_english": "that which is unseeable (beyond all sense-organs), ungraspable (no object of the action-organs), rootless/sourceless (अगोत्रम् = अनन्वयम्, having no मूल to be connected to), without attributes (अवर्ण = without द्रव्यधर्माः such as size/colour), without eye or ear",
+        "grammar_role": "यद् · द्वितीया·एक·नपुं (correlative; obj. of परिपश्यन्ति) + तद् · द्वितीया·एक·नपुं + अद्रेश्य (=अदृश्य) · द्वितीया·एक·नपुं + अग्राह्य · द्वितीया·एक·नपुं + अगोत्र · द्वितीया·एक·नपुं + अवर्ण · द्वितीया·एक·नपुं + अचक्षुःश्रोत्र (चक्षुस्-श्रोत्र bahuvrīhi) · द्वितीया·एक·नपुं",
+        "root": "यत् + तत् + अद्रेश्यम् + अग्राह्यम् + अगोत्रम् + अवर्णम् + अचक्षुःश्रोत्रम्"
+      },
+      {
+        "word_sanskrit": "तदपाणिपादम्",
+        "word_english": "that which is without hands and feet",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + अपाणिपाद (अ-पाणि-पाद bahuvrīhi) · द्वितीया·एक·नपुं",
+        "root": "तत् + अपाणिपादम्"
+      },
+      {
+        "word_sanskrit": "नित्यं",
+        "word_english": "eternal",
+        "grammar_role": "नित्य · द्वितीया·एक·नपुं",
+        "root": "नित्यम्"
+      },
+      {
+        "word_sanskrit": "विभुं",
+        "word_english": "all-pervading",
+        "grammar_role": "विभु · द्वितीया·एक·नपुं",
+        "root": "विभुम्"
+      },
+      {
+        "word_sanskrit": "सर्वगतं",
+        "word_english": "present everywhere, omnipresent",
+        "grammar_role": "सर्वगत (सर्व-गत) · द्वितीया·एक·नपुं",
+        "root": "सर्व-गतम्"
+      },
+      {
+        "word_sanskrit": "सुसूक्ष्मं",
+        "word_english": "exceedingly subtle",
+        "grammar_role": "सुसूक्ष्म (सु-सूक्ष्म) · द्वितीया·एक·नपुं",
+        "root": "सु-सूक्ष्मम्"
+      },
+      {
+        "word_sanskrit": "तदव्ययं",
+        "word_english": "that imperishable (one)",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + अव्यय · द्वितीया·एक·नपुं",
+        "root": "तत् + अव्ययम्"
+      },
+      {
+        "word_sanskrit": "यद्भूतयोनिं",
+        "word_english": "which is the source/womb of (all) beings",
+        "grammar_role": "यद् · द्वितीया·एक·नपुं (correlative; obj. of परिपश्यन्ति) + भूतयोनि (भूत-योनि bahuvrīhi) · द्वितीया·एक·नपुं",
+        "root": "यत् + भूतयोनिम्"
+      },
+      {
+        "word_sanskrit": "परिपश्यन्ति",
+        "word_english": "they perceive (fully, all around)",
+        "grammar_role": "√दृश् <परि> · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "परिपश्यन्ति"
+      },
+      {
+        "word_sanskrit": "धीराः",
+        "word_english": "the wise (seers) — subject (nominative)",
+        "grammar_role": "धीर · प्रथमा·बहु·पुं",
+        "root": "धीराः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -204,13 +658,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u0925\u0902 \u0938\u0942\u0930\u094d\u092f\u0938\u094d\u092f \u0930\u0936\u094d\u092e\u093f\u092d\u093f\u0930\u094d\u092f\u091c\u092e\u093e\u0928\u0902 \u0935\u0939\u0928\u094d\u0924\u0940\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u090f\u0939\u093f \u090f\u0939\u093f \u0907\u0924\u093f \u0906\u0939\u094d\u0935\u092f\u0928\u094d\u0924\u094d\u092f\u0903 \u0924\u0902 \u092f\u091c\u092e\u093e\u0928\u092e\u094d \u0906\u0939\u0941\u0924\u092f\u0903 \u0938\u0941\u0935\u0930\u094d\u091a\u0938\u0903 \u0926\u0940\u092a\u094d\u0924\u093f\u092e\u0924\u094d\u092f\u0903 ; \u0915\u093f\u091e\u094d\u091a, \u092a\u094d\u0930\u093f\u092f\u093e\u092e\u094d \u0907\u0937\u094d\u091f\u093e\u0902 \u0935\u093e\u091a\u0902 \u0938\u094d\u0924\u0941\u0924\u094d\u092f\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u093e\u092e\u094d \u0905\u092d\u093f\u0935\u0926\u0928\u094d\u0924\u094d\u092f\u0903 \u0909\u091a\u094d\u091a\u093e\u0930\u092f\u0928\u094d\u0924\u094d\u092f\u0903 \u0905\u0930\u094d\u091a\u092f\u0928\u094d\u0924\u094d\u092f\u0903 \u092a\u0942\u091c\u092f\u0928\u094d\u0924\u094d\u092f\u0936\u094d\u091a \u090f\u0937\u0903 \u0935\u0903 \u092f\u0941\u0937\u094d\u092e\u093e\u0915\u0902 \u092a\u0941\u0923\u094d\u092f\u0903 \u0938\u0941\u0915\u0943\u0924\u0903 \u092c\u094d\u0930\u0939\u094d\u092e\u0932\u094b\u0915\u0903 \u092b\u0932\u0930\u0942\u092a\u0903, \u0907\u0924\u094d\u0925\u0902 \u092a\u094d\u0930\u093f\u092f\u093e\u0902 \u0935\u093e\u091a\u092e\u094d \u0905\u092d\u093f\u0935\u0926\u0928\u094d\u0924\u094d\u092f\u094b \u0935\u0939\u0928\u094d\u0924\u0940\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092c\u094d\u0930\u0939\u094d\u092e\u0932\u094b\u0915\u0903 \u0938\u094d\u0935\u0930\u094d\u0917\u0903 \u092a\u094d\u0930\u0915\u0930\u0923\u093e\u0924\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014How these carry the sacrificer through the sun\u2019s rays is now explained; calling \u201ccome, come,\u201d these bright oblations greeting him with pleasant words, i.e. , with words of praise, etc., and propitiating him, i.e. , addressing him with such pleasing words, as \u201cthis is your virtuous and well-laid road to Brahmaloka, the fruits of your deeds.\u201d The word Brahmaloka by the force of the context means \u201c Svarga or Heaven.\u201d"
+        "text": "यथा विधिविषये कर्त्राद्यनेककारकोपसंहारद्वारेण वाक्यार्थज्ञानकालादन्यत्रानुष्ठेयोऽर्थोऽस्त्यग्निहोत्रादिलक्षणः, न तथेह परविद्याविषये वाक्यार्थज्ञानसमकाल एव तु पर्यवसितो भवति, केवलशब्दप्रकाशितार्थज्ञानमात्रनिष्ठाव्यतिरिक्ताभावात् । तस्मादिह परां विद्यां सविशेषणेनाक्षरेण विशिनष्टि — यत्तदद्रेश्यमित्यादिना । वक्ष्यमाणं बुद्धौ संहृत्य सिद्धवत्परामृशति — यत्तदिति । अद्रेश्यम् अदृश्यं सर्वेषां बुद्धीन्द्रियाणामगम्यमित्येतत् । दृशेर्बहिःप्रवृत्तस्य पञ्चेन्द्रियद्वारकत्वात् । अग्राह्यं कर्मेन्द्रियाविषयमित्येतत् । अगोत्रम्, गोत्रमन्वयो मूलमित्यनर्थान्तरम् । अगोत्रम् अनन्वयमित्यर्थः । न हि तस्य मूलमस्ति येनान्वितं स्यात् । वर्ण्यन्त इति वर्णा द्रव्यधर्माः स्थूलत्वादयः शुक्लत्वादयो वा । अविद्यमाना वर्णा यस्य तत् अवर्णम् अक्षरम् । अचक्षुःश्रोत्रं चक्षुश्च श्रोत्रं च नामरूपविषये करणे सर्वजन्तूनाम्, ते अविद्यमाने यस्य तदचक्षुःश्रोत्रम् । ‘यः सर्वज्ञः सर्ववित्’ (मु. उ. १ । १ । ९) इति चेतनावत्त्वविशेषणात्प्राप्तं संसारिणामिव चक्षुःश्रोत्रादिभिः करणैरर्थसाधकत्वम्; तदिह अचक्षुःश्रोत्रमिति वार्यते, ‘पश्यत्यचक्षुः स शृणोत्यकर्णः’ (श्वे. उ. ३ । १९) इत्यादिदर्शनात् । किञ्च, तत् अपाणिपादं कर्मेन्द्रियरहितमित्येतत् । यत एवम् अग्राह्यमग्राहकं च अतो नित्यमविनाशि । विभुं विविधं ब्रह्मादिस्थावरान्तप्राणिभेदैर्भवतीति विभुम् । सर्वगतं व्यापकमाकाशवत्सुसूक्ष्मम् । शब्दादिस्थूलत्वकारणरहितत्वात् । शब्दादयो ह्याकाशवाय्वादीनामुत्तरोत्तरस्थूलत्वकारणानि; तदभावात्सुसूक्ष्मम्, किञ्च, तत् अव्ययम् उक्तधर्मत्वादेव न व्येतीत्यव्ययम् । न ह्यनङ्गस्य स्वाङ्गापचयलक्षणो व्ययः सम्भवति शरीरस्येव । नापि कोशापचयलक्षणो व्ययः सम्भवति राज्ञ इव । नापि गुणद्वारको व्ययः सम्भवति, अगुणत्वात्सर्वात्मकत्वाच्च । यत् एवंलक्षणं भूतयोनिं भूतानां कारणं पृथिवीव स्थावरजङ्गमानां परिपश्यन्ति सर्वत आत्मभूतं सर्वस्य अक्षरं पश्यन्ति धीराः धीमन्तो विवेकिनः । ईदृशमक्षरं यया विद्यया अधिगम्यते सा परा विद्येति समुदायार्थः ॥"
       }
     ],
     "commentary_faqs": []
@@ -221,15 +671,90 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 7,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145091.html"
+      "mantra_ref": "1.1.7",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092a\u094d\u0932\u0935\u093e \u0939\u094d\u092f\u0947\u0924\u0947 \u0905\u0926\u0943\u0922\u093e \u092f\u091c\u094d\u091e\u0930\u0942\u092a\u093e \u0905\u0937\u094d\u091f\u093e\u0926\u0936\u094b\u0915\u094d\u0924\u092e\u0935\u0930\u0902 \u092f\u0947\u0937\u0941 \u0915\u0930\u094d\u092e\u00a0\u0964 \n \u090f\u0924\u091a\u094d\u091b\u094d\u0930\u0947\u092f\u094b \u092f\u0947\u093d\u092d\u093f\u0928\u0928\u094d\u0926\u0928\u094d\u0924\u093f \u092e\u0942\u0922\u093e \u091c\u0930\u093e\u092e\u0943\u0924\u094d\u092f\u0941\u0902 \u0924\u0947 \u092a\u0941\u0928\u0930\u0947\u0935\u093e\u092a\u093f \u092f\u0928\u094d\u0924\u093f \u0965 \u096d \u0965",
-    "transliteration": "plav\u0101 hyete ad\u1e5b\u1e0dh\u0101 yaj\u00f1ar\u016bp\u0101 a\u1e63\u1e6d\u0101da\u015boktamavara\u1e43 ye\u1e63u karma | etacchreyo ye'bhina\u1e43danti m\u016b\u1e0dh\u0101 jar\u0101m\u1e5btyu\u1e43 te punarev\u0101pi yanti || 7 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "यथोर्णनाभिः सृजते गृह्णते च यथा पृथिव्यामोषधयः सम्भवन्ति । यथा सतः पुरुषात्केशलोमानि तथाक्षरात्सम्भवतीह विश्वम् ॥ ७ ॥",
+    "transliteration": "yathorṇanābhiḥ sṛjate gṛhṇate ca yathā pṛthivyāmoṣadhayaḥ sambhavanti | yathā sataḥ puruṣātkeśalomāni tathākṣarātsambhavatīha viśvam || 7 ||",
     "translation": "7. The eighteen persons necessary for the performance of sacrifice are transitory and not permanent and karma in its nature inferior, has been stated as resting upon these. Those ignorant persons who delight in this, as leading to bliss, again fall into decay and death.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "यथोर्णनाभिः",
+        "word_english": "just as a spider (the 'wool-navelled' one)",
+        "grammar_role": "यथा · अव्यय (उपमार्थ) + ऊर्णनाभि · प्रथमा·एक·पुं",
+        "root": "यथा + ऊर्णनाभिः"
+      },
+      {
+        "word_sanskrit": "सृजते",
+        "word_english": "puts forth / emits (its threads outward, from itself)",
+        "grammar_role": "√सृज् · लट्·प्रथमपुरुष·एक·आत्मनेपद (छान्दस; भाष्ये प्रसारयति)",
+        "root": "सृजते"
+      },
+      {
+        "word_sanskrit": "गृह्णते",
+        "word_english": "draws back / withdraws (the threads into itself)",
+        "grammar_role": "√ग्रह् · लट्·प्रथमपुरुष·एक·आत्मनेपद (छान्दस; नियमेन गृह्णीते; भाष्ये गृह्णाति)",
+        "root": "गृह्णते"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च · अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "grammar_role": "यथा · अव्यय (उपमार्थ)",
+        "root": "यथा"
+      },
+      {
+        "word_sanskrit": "पृथिव्यामोषधयः",
+        "word_english": "herbs (sprout) upon the earth",
+        "grammar_role": "पृथिवी · सप्तमी·एक·स्त्री + ओषधि · प्रथमा·बहु·स्त्री",
+        "root": "पृथिव्याम् + ओषधयः"
+      },
+      {
+        "word_sanskrit": "सम्भवन्ति",
+        "word_english": "arise, come forth (not different from their source)",
+        "grammar_role": "√भू (सम्) · लट्·प्रथमपुरुष·बहु·परस्मैपद",
+        "root": "सम्भवन्ति"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "grammar_role": "यथा · अव्यय (उपमार्थ)",
+        "root": "यथा"
+      },
+      {
+        "word_sanskrit": "सतः",
+        "word_english": "from a living (existing) being",
+        "grammar_role": "सत् (√अस्, शतृ) · पञ्चमी·एक·पुं (रूपं षष्ठ्या समानम्; पुरुषात् इति पञ्चम्या सामानाधिकरण्यात् पञ्चमी)",
+        "root": "सतः"
+      },
+      {
+        "word_sanskrit": "पुरुषात्केशलोमानि",
+        "word_english": "from a person, the head-hairs and body-hairs (though dissimilar to him)",
+        "grammar_role": "पुरुष · पञ्चमी·एक·पुं + केशलोमन् (केश-लोमन्, द्वन्द्व) · प्रथमा·बहु·नपुं",
+        "root": "पुरुषात् + केश-लोमानि"
+      },
+      {
+        "word_sanskrit": "तथाक्षरात्सम्भवतीह",
+        "word_english": "so, here (in this round of saṃsāra) arises from the Imperishable",
+        "grammar_role": "तथा · अव्यय + अक्षर · पञ्चमी·एक·नपुं + √भू (सम्) · लट्·प्रथमपुरुष·एक·परस्मैपद + इह · अव्यय",
+        "root": "तथा + अक्षरात् + सम्भवति + इह"
+      },
+      {
+        "word_sanskrit": "विश्वम्",
+        "word_english": "the whole universe, the entire world",
+        "grammar_role": "विश्व · प्रथमा·एक·नपुं",
+        "root": "विश्वम्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -240,13 +765,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u090f\u0924\u091a\u094d\u091a \u091c\u094d\u091e\u093e\u0928\u0930\u0939\u093f\u0924\u0902 \u0915\u0930\u094d\u092e\u0948\u0924\u093e\u0935\u0924\u094d\u092b\u0932\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u092e\u0915\u0930\u094d\u092e\u0915\u093e\u0930\u094d\u092f\u092e\u094d \u0905\u0924\u094b\u093d\u0938\u093e\u0930\u0902 \u0926\u0941\u0903\u0916\u092e\u0942\u0932\u092e\u093f\u0924\u093f \u0928\u093f\u0928\u094d\u0926\u094d\u092f\u0924\u0947 \u2014 \u092a\u094d\u0932\u0935\u093e\u0903 \u0935\u093f\u0928\u093e\u0936\u093f\u0928 \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0939\u093f \u092f\u0938\u094d\u092e\u093e\u0924\u094d \u090f\u0924\u0947 \u0905\u0926\u0943\u0922\u093e\u0903 \u0905\u0938\u094d\u0925\u093f\u0930\u093e\u0903 \u092f\u091c\u094d\u091e\u0930\u0942\u092a\u093e\u0903 \u092f\u091c\u094d\u091e\u0938\u094d\u092f \u0930\u0942\u092a\u093e\u0923\u093f \u092f\u091c\u094d\u091e\u0930\u0942\u092a\u093e\u0903 \u092f\u091c\u094d\u091e\u0928\u093f\u0930\u094d\u0935\u0930\u094d\u0924\u0915\u093e\u0903 \u0905\u0937\u094d\u091f\u093e\u0926\u0936 \u0905\u0937\u094d\u091f\u093e\u0926\u0936\u0938\u0919\u094d\u0916\u094d\u092f\u093e\u0915\u093e\u0903 \u0937\u094b\u0921\u0936\u0930\u094d\u0924\u094d\u0935\u093f\u091c\u0903 \u092a\u0924\u094d\u0928\u0940 \u092f\u091c\u092e\u093e\u0928\u0936\u094d\u091a\u0947\u0924\u094d\u092f\u0937\u094d\u091f\u093e\u0926\u0936\u00a0\u0964 \u090f\u0924\u0926\u093e\u0936\u094d\u0930\u092f\u0902 \u0915\u0930\u094d\u092e \u0909\u0915\u094d\u0924\u0902 \u0915\u0925\u093f\u0924\u0902 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u0947\u0923 \u092f\u0947\u0937\u0941 \u0905\u0937\u094d\u091f\u093e\u0926\u0936\u0938\u0941 \u0905\u0935\u0930\u0902 \u0915\u0947\u0935\u0932\u0902 \u091c\u094d\u091e\u093e\u0928\u0935\u0930\u094d\u091c\u093f\u0924\u0902 \u0915\u0930\u094d\u092e\u00a0\u0964 \u0905\u0924\u0938\u094d\u0924\u0947\u0937\u093e\u092e\u0935\u0930\u0915\u0930\u094d\u092e\u093e\u0936\u094d\u0930\u092f\u093e\u0923\u093e\u092e\u0937\u094d\u091f\u093e\u0926\u0936\u093e\u0928\u093e\u092e\u0926\u0943\u0922\u0924\u092f\u093e \u092a\u094d\u0932\u0935\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u094d\u0932\u0935\u0924\u0947 \u0938\u0939 \u092b\u0932\u0947\u0928 \u0924\u0924\u094d\u0938\u093e\u0927\u094d\u092f\u0902 \u0915\u0930\u094d\u092e ; \u0915\u0941\u0923\u094d\u0921\u0935\u093f\u0928\u093e\u0936\u093e\u0926\u093f\u0935 \u0915\u094d\u0937\u0940\u0930\u0926\u0927\u094d\u092f\u093e\u0926\u0940\u0928\u093e\u0902 \u0924\u0924\u094d\u0938\u094d\u0925\u093e\u0928\u093e\u0902 \u0928\u093e\u0936\u0903 ; \u092f\u0924 \u090f\u0935\u092e\u094d \u090f\u0924\u0924\u094d \u0915\u0930\u094d\u092e \u0936\u094d\u0930\u0947\u092f\u0903 \u0936\u094d\u0930\u0947\u092f\u0903\u0938\u093e\u0927\u0928\u092e\u093f\u0924\u093f \u092f\u0947 \u0905\u092d\u093f\u0928\u0928\u094d\u0926\u0928\u094d\u0924\u093f \u0905\u092d\u093f\u0939\u0943\u0937\u094d\u092f\u0928\u094d\u0924\u093f \u0905\u0935\u093f\u0935\u0947\u0915\u093f\u0928\u0903 \u092e\u0942\u0922\u093e\u0903, \u0905\u0924\u0903 \u0924\u0947 \u091c\u0930\u093e\u0902 \u091a \u092e\u0943\u0924\u094d\u092f\u0941\u0902 \u091a \u091c\u0930\u093e\u092e\u0943\u0924\u094d\u092f\u0941\u0902 \u0915\u091e\u094d\u091a\u093f\u0924\u094d\u0915\u093e\u0932\u0902 \u0938\u094d\u0935\u0930\u094d\u0917\u0947 \u0938\u094d\u0925\u093f\u0924\u094d\u0935\u093e \u092a\u0941\u0928\u0930\u0947\u0935 \u0905\u092a\u093f \u092f\u0928\u094d\u0924\u093f \u092d\u0942\u092f\u094b\u093d\u092a\u093f \u0917\u091a\u094d\u091b\u0928\u094d\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014This karma, devoid of knowledge, bears but this much fruit and being accomplished by ignorance, desire and action, is sapless and is the source of misery. Therefore it is condemned. \u201c Plava \u201d means \u2018ephemeral\u2019 because these are adridha , i.e. , not permanent. Yajnarupa, the forms of sacrifice, i.e. , necessary for the performance of the sacrifice. Eighteen in number, consisting of the sixteen Ritviks , the sacrificer and his wife. Karma stated in the sastras depends on these. Avaramkarma , i.e. , mere karma devoid of knowledge; and as the performance of karma which is inferior depends on these eighteen who are not permanent. The karma done by them and its fruit are ephemeral, as, when the pot is destroyed, the destruction of milk, curd, etc., in it, follows. This being so, those ignorant persons who delight in this karma as the means of bliss, fall again into decay and death, after staying some time in Heaven."
+        "text": "भूतयोनिरक्षरमित्युक्तम् । तत्कथं भूतयोनित्वमित्युच्यते दृष्टान्तैः — यथा लोके प्रसिद्धः ऊर्णनाभिः लूताकीटः किञ्चित्कारणान्तरमनपेक्ष्य स्वयमेव सृजते स्वशरीराव्यतिरिक्तानेव तन्तून्बहिः प्रसारयति पुनस्तानेव गृह्णते च गृह्णाति स्वात्मभावमेवापादयति; यथा च पृथिव्याम् ओषधयः, व्रीह्यादिस्थावराणीत्यर्थः, स्वात्माव्यतिरिक्ता एव प्रभवन्ति सम्भवन्ति; यथा च सतः विद्यमानाज्जीवतः पुरुषात् केशलोमानि केशाश्च लोमानि च सम्भवन्ति विलक्षणानि । यथैते दृष्टान्ताः, तथा विलक्षणं सलक्षणं च निमित्तान्तरानपेक्षाद्यथोक्तलक्षणात् अक्षरात् सम्भवति समुत्पद्यते इह संसारमण्डले विश्वं समस्तं जगत् । अनेकदृष्टान्तोपादानं तु सुखावबोधनार्थम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -257,15 +778,78 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 8,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145092.html"
+      "mantra_ref": "1.1.8",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u092e\u0928\u094d\u0924\u0930\u0947 \u0935\u0930\u094d\u0924\u092e\u093e\u0928\u093e\u0903 \u0938\u094d\u0935\u092f\u0902 \u0927\u0940\u0930\u093e\u0903 \u092a\u0923\u094d\u0921\u093f\u0924\u0902\u092e\u0928\u094d\u092f\u092e\u093e\u0928\u093e\u0903\u00a0\u0964 \n \u091c\u0919\u094d\u0918\u0928\u094d\u092f\u092e\u093e\u0928\u093e\u0903 \u092a\u0930\u093f\u092f\u0928\u094d\u0924\u093f \u092e\u0942\u0922\u093e \u0905\u0928\u094d\u0927\u0947\u0928\u0948\u0935 \u0928\u0940\u092f\u092e\u093e\u0928\u093e \u092f\u0925\u093e\u0928\u094d\u0927\u093e\u0903 \u0965 \u096e \u0965",
-    "transliteration": "avidy\u0101y\u0101mantare vartam\u0101n\u0101\u1e25 svaya\u1e41 dh\u012br\u0101\u1e25 pa\u1e47\u1e0dita\u1e43 manyam\u0101n\u0101\u1e25 | ja\u1e45ghanyam\u0101n\u0101\u1e25 pariyanti m\u016b\u1e0dh\u0101 andhenaiva n\u012byam\u0101n\u0101 yath\u0101ndh\u0101\u1e25 || 8 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "तपसा चीयते ब्रह्म ततोऽन्नमभिजायते । अन्नात्प्राणो मनः सत्यं लोकाः कर्मसु चामृतम् ॥ ८ ॥",
+    "transliteration": "tapasā cīyate brahma tato'nnamabhijāyate | annātprāṇo manaḥ satyaṃ lokāḥ karmasu cāmṛtam || 8 ||",
     "translation": "8. Being in the midst of ignorance and thinking in their own minds that they are intelligent and learned, the ignorant wander, afflicted with troubles, like the blind led by the blind.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तपसा",
+        "word_english": "by tapas, i.e. by knowledge (jñāna)",
+        "grammar_role": "तपस् · तृतीया·एक·नपुं",
+        "root": "तपसा"
+      },
+      {
+        "word_sanskrit": "चीयते",
+        "word_english": "swells, is built up (upacīyate) — like a seed swelling into a sprout",
+        "grammar_role": "√चि · लट्·प्रथम·एक·आत्मनेपद (कर्मणि/भावे — \"swells, is augmented\")",
+        "root": "चीयते"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman, the imperishable womb of beings (bhūtayoni akṣara)",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "ततोऽन्नमभिजायते",
+        "word_english": "from that (Brahman), food — the undifferentiated (avyākṛta) common cause — is born",
+        "grammar_role": "ततस् · अव्यय (तसिल्-प्रत्ययान्त, ablatival sense \"from that = from Brahman\") + अन्न · प्रथमा·एक·नपुं + √जन् (अभि) · लट्·प्रथम·एक·आत्मनेपद",
+        "root": "ततस् + अन्नम् + अभिजायते"
+      },
+      {
+        "word_sanskrit": "अन्नात्प्राणो",
+        "word_english": "from food, prāṇa (= Hiraṇyagarbha, the world-soul) arises",
+        "grammar_role": "अन्न · पञ्चमी·एक·नपुं + प्राण · प्रथमा·एक·पुं",
+        "root": "अन्नात् + प्राणः"
+      },
+      {
+        "word_sanskrit": "मनः",
+        "word_english": "mind, whose nature is resolve, doubt, decision, etc. (saṅkalpa-vikalpa-saṃśaya-nirṇaya)",
+        "grammar_role": "मनस् · प्रथमा·एक·नपुं",
+        "root": "मनः"
+      },
+      {
+        "word_sanskrit": "सत्यं",
+        "word_english": "the 'real' (satya) — the five elements (ākāśa and the rest)",
+        "grammar_role": "सत्य · प्रथमा·एक·नपुं",
+        "root": "सत्यम्"
+      },
+      {
+        "word_sanskrit": "लोकाः",
+        "word_english": "the (seven) worlds — bhūr and the rest",
+        "grammar_role": "लोक · प्रथमा·बहु·पुं",
+        "root": "लोकाः"
+      },
+      {
+        "word_sanskrit": "कर्मसु",
+        "word_english": "in the (ritual) actions, which serve as cause/occasion (nimitta)",
+        "grammar_role": "कर्मन् · सप्तमी·बहु·नपुं",
+        "root": "कर्मसु"
+      },
+      {
+        "word_sanskrit": "चामृतम्",
+        "word_english": "and the immortal (fruit) — (arising) within the actions",
+        "grammar_role": "च · अव्यय (समुच्चय) + अमृत · प्रथमा·एक·नपुं",
+        "root": "च + अमृतम्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -276,13 +860,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u091e\u094d\u091a, \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u092e\u094d \u0905\u0928\u094d\u0924\u0930\u0947 \u092e\u0927\u094d\u092f\u0947 \u0935\u0930\u094d\u0924\u092e\u093e\u0928\u093e\u0903 \u0905\u0935\u093f\u0935\u0947\u0915\u092a\u094d\u0930\u093e\u092f\u093e\u0903 \u0938\u094d\u0935\u092f\u0902 \u0935\u092f\u092e\u0947\u0935 \u0927\u0940\u0930\u093e\u0903 \u0927\u0940\u092e\u0928\u094d\u0924\u0903 \u092a\u0923\u094d\u0921\u093f\u0924\u093e \u0935\u093f\u0926\u093f\u0924\u0935\u0947\u0926\u093f\u0924\u0935\u094d\u092f\u093e\u0936\u094d\u091a\u0947\u0924\u093f \u092e\u0928\u094d\u092f\u092e\u093e\u0928\u093e \u0906\u0924\u094d\u092e\u093e\u0928\u0902 \u0938\u092e\u094d\u092d\u093e\u0935\u092f\u0928\u094d\u0924\u0903, \u0924\u0947 \u091a \u091c\u0919\u094d\u0918\u0928\u094d\u092f\u092e\u093e\u0928\u093e\u0903 \u091c\u0930\u093e\u0930\u094b\u0917\u093e\u0926\u094d\u092f\u0928\u0947\u0915\u093e\u0928\u0930\u094d\u0925\u0935\u094d\u0930\u093e\u0924\u0948\u0930\u094d\u0939\u0928\u094d\u092f\u092e\u093e\u0928\u093e \u092d\u0943\u0936\u0902 \u092a\u0940\u0921\u094d\u092f\u092e\u093e\u0928\u093e\u0903 \u092a\u0930\u093f\u092f\u0928\u094d\u0924\u093f \u0935\u093f\u092d\u094d\u0930\u092e\u0928\u094d\u0924\u093f \u092e\u0942\u0922\u093e\u0903\u00a0\u0964 \u0926\u0930\u094d\u0936\u0928\u0935\u0930\u094d\u091c\u093f\u0924\u0924\u094d\u0935\u093e\u0924\u094d \u0905\u0928\u094d\u0927\u0947\u0928\u0948\u0935 \u0905\u091a\u0915\u094d\u0937\u0941\u0937\u094d\u0915\u0947\u0923\u0948\u0935 \u0928\u0940\u092f\u092e\u093e\u0928\u093e\u0903 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u094d\u092f\u092e\u093e\u0928\u092e\u093e\u0930\u094d\u0917\u093e\u0903 ; \u092f\u0925\u093e \u0932\u094b\u0915\u0947 \u0905\u0928\u094d\u0927\u093e\u0903 \u091a\u0915\u094d\u0937\u0942\u0930\u0939\u093f\u0924\u093e \u0917\u0930\u094d\u0924\u0915\u0923\u094d\u091f\u0915\u093e\u0926\u094c \u092a\u0924\u0928\u094d\u0924\u093f, \u0924\u0926\u094d\u0935\u0924\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Moreover, being in the midst of ignorance, i.e ., being utterly ignorant and thinking in their own minds \u201cwe alone are intelligent and have known all that should be known.\u201d Thus flattering themselves, the ignorant wander much afflicted by old age, sickness and a lot of their troubles, being devoid of vision as the blind in this world, going the way pointed out by persons, themselves blind, fall into ditch and brambles."
+        "text": "यद्ब्रह्मण उत्पद्यमानं विश्वं तदनेन क्रमेणोत्पद्यते, न युगपद्बदरमुष्टिप्रक्षेपवदिति क्रमनियमविवक्षार्थोऽयं मन्त्र आरभ्यते — तपसा ज्ञानेन उत्पत्तिविधिज्ञतया भूतयोन्यक्षरं ब्रह्म चीयते उपचीयते उत्पादयिष्यदिदं जगत् अङ्कुरमिव बीजमुच्छूनतां गच्छति पुत्रमिव पिता हर्षेण । एवं सर्वज्ञतया सृष्टिस्थितिसंहारशक्तिविज्ञानवत्तयोपचितात् ततः ब्रह्मणः अन्नम् अद्यते भुज्यत इत्यन्नमव्याकृतं साधारणं कारणं संसारिणां व्याचिकीर्षितावस्थारूपेण अभिजायते उत्पद्यते । ततश्च अव्याकृताद्व्याचिकीर्षितावस्थात् अन्नात् प्राणः हिरण्यगर्भो ब्रह्मणो ज्ञानक्रियाशक्त्यधिष्ठितो जगत्साधारणोऽविद्याकामकर्मभूतसमुदायबीजाङ्कुरो जगदात्मा अभिजायत इत्यनुषङ्गः । तस्माच्च प्राणात् मनः मनआख्यं सङ्कल्पविकल्पसंशयनिर्णयाद्यात्मकमभिजायते । ततोऽपि सङ्कल्पाद्यात्मकान्मनसः सत्यं सत्याख्यमाकाशादिभूतपञ्चकमभिजायते । तस्मात्सत्याख्याद्भूतपञ्चकादण्डक्रमेण सप्त लोकाः भूरादयः । तेषु मनुष्यादिप्राणिवर्णाश्रमक्रमेण कर्माणि । कर्मसु च निमित्तभूतेषु अमृतं कर्मजं फलम् । यावत्कर्माणि कल्पकोटिशतैरपि न विनश्यन्ति, तावत्फलं न विनश्यतीत्यमृतम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -293,15 +873,78 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 9,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145093.html"
+      "mantra_ref": "1.1.9",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u0902 \u092c\u0939\u0941\u0927\u093e \u0935\u0930\u094d\u0924\u092e\u093e\u0928\u093e \u0935\u092f\u0902 \u0915\u0943\u0924\u093e\u0930\u094d\u0925\u093e \u0907\u0924\u094d\u092f\u092d\u093f\u092e\u0928\u094d\u092f\u0928\u094d\u0924\u093f \u092c\u093e\u0932\u093e\u0903\u00a0\u0964 \n \u092f\u0924\u094d\u0915\u0930\u094d\u092e\u093f\u0923\u094b \u0928 \u092a\u094d\u0930\u0935\u0947\u0926\u092f\u0928\u094d\u0924\u093f \u0930\u093e\u0917\u093e\u0924\u094d\u0924\u0947\u0928\u093e\u0924\u0941\u0930\u093e\u0903 \u0915\u094d\u0937\u0940\u0923\u0932\u094b\u0915\u093e\u0936\u094d\u091a\u094d\u092f\u0935\u0928\u094d\u0924\u0947 \u0965 \u096f \u0965",
-    "transliteration": "avidy\u0101ya\u1e43 bahudh\u0101 vartam\u0101n\u0101 vaya\u1e43 k\u1e5bt\u0101rth\u0101 ityabhimanyanti b\u0101l\u0101\u1e25 | yatkarmi\u1e47o na pravedayanti r\u0101g\u0101tten\u0101tur\u0101\u1e25 k\u1e63\u012b\u1e47alok\u0101\u015bcyavante || 9 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः । तस्मादेतद्ब्रह्म नाम रूपमन्नं च जायते ॥ ९ ॥",
+    "transliteration": "yaḥ sarvajñaḥ sarvavidyasya jñānamayaṃ tapaḥ | tasmādetadbrahma nāma rūpamannaṃ ca jāyate || 9 ||",
     "translation": "9. The ignorant following the diverse ways of ignorance, flatter themselves that their objects have been accomplished. As these followers of karma do not learn the truth owing to their desire, they grow miserable and after the fruits of their karma are consumed, fall from Heaven.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "यः",
+        "word_english": "who (the imperishable akṣara of stated characteristics — अक्षराख्यः)",
+        "grammar_role": "यद् · प्रथमा·एकवचन·पुंलिङ्ग (सम्बन्धवाचक सर्वनाम)",
+        "root": "यः"
+      },
+      {
+        "word_sanskrit": "सर्वज्ञः",
+        "word_english": "the all-knowing (knows all generally — सामान्येन सर्वं जानाति)",
+        "grammar_role": "सर्वज्ञ · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सर्व-ज्ञः"
+      },
+      {
+        "word_sanskrit": "सर्वविद्यस्य",
+        "word_english": "omniscient (knows all in detail — विशेषेण सर्वं वेत्ति); of whom (यस्य — begins the next clause)",
+        "grammar_role": "सर्वविद् · प्रथमा·एकवचन·पुंलिङ्ग + यद् · षष्ठी·एकवचन·पुंलिङ्ग (सम्बन्धवाचक सर्वनाम)",
+        "root": "सर्ववित् + यस्य"
+      },
+      {
+        "word_sanskrit": "ज्ञानमयं",
+        "word_english": "consisting of knowledge / a modification of knowledge (ज्ञानविकारः) — qualifies tapas",
+        "grammar_role": "ज्ञानमय · प्रथमा·एकवचन·नपुंसकलिङ्ग (विशेषणं तपसः)",
+        "root": "ज्ञानमयम्"
+      },
+      {
+        "word_sanskrit": "तपः",
+        "word_english": "is the tapas — effortless, the mark of omniscience (अनायासलक्षणं सार्वज्ञ्यलक्षणम्)",
+        "grammar_role": "तपस् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "तपः"
+      },
+      {
+        "word_sanskrit": "तस्मादेतद्ब्रह्म",
+        "word_english": "from that (aforesaid all-knower — यथोक्तात् सर्वज्ञात्) is born this Brahman (the effect, named Hiraṇyagarbha)",
+        "grammar_role": "तद् · पञ्चमी·एकवचन·पुंलिङ्ग (सर्वनाम) + एतद् · प्रथमा·एकवचन·नपुंसकलिङ्ग (सर्वनाम) + ब्रह्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "तस्मात् + एतत् + ब्रह्म"
+      },
+      {
+        "word_sanskrit": "नाम",
+        "word_english": "name (such as 'this is Devadatta, Yajñadatta')",
+        "grammar_role": "नामन् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "नाम"
+      },
+      {
+        "word_sanskrit": "रूपमन्नं",
+        "word_english": "form (this white, this blue, etc.) and food (rice, barley, etc. — व्रीहियवादि)",
+        "grammar_role": "रूप · प्रथमा·एकवचन·नपुंसकलिङ्ग + अन्न · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "रूपम् + अन्नम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "जायते",
+        "word_english": "is born / arises (in the sequence stated in the earlier mantra — पूर्वमन्त्रोक्तक्रमेण)",
+        "grammar_role": "√जन् (दिवादि) · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "जायते"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -312,13 +955,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u091e\u094d\u091a, \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u0902 \u092c\u0939\u0941\u0927\u093e \u092c\u0939\u0941\u092a\u094d\u0930\u0915\u093e\u0930\u0902 \u0935\u0930\u094d\u0924\u092e\u093e\u0928\u093e\u0903 \u0935\u092f\u092e\u0947\u0935 \u0915\u0943\u0924\u093e\u0930\u094d\u0925\u093e\u0903 \u0915\u0943\u0924\u092a\u094d\u0930\u092f\u094b\u091c\u0928\u093e\u0903 \u0907\u0924\u093f \u090f\u0935\u092e\u094d \u0905\u092d\u093f\u092e\u0928\u094d\u092f\u0928\u094d\u0924\u093f \u0905\u092d\u093f\u092e\u0928\u094d\u092f\u0928\u094d\u0924\u0947 \u0905\u092d\u093f\u092e\u093e\u0928\u0902 \u0915\u0941\u0930\u094d\u0935\u0928\u094d\u0924\u093f \u092c\u093e\u0932\u093e\u0903 \u0905\u091c\u094d\u091e\u093e\u0928\u093f\u0928\u0903\u00a0\u0964 \u092f\u0924\u094d \u092f\u0938\u094d\u092e\u093e\u0926\u0947\u0935\u0902 \u0915\u0930\u094d\u092e\u093f\u0923\u0903 \u0928 \u092a\u094d\u0930\u0935\u0947\u0926\u092f\u0928\u094d\u0924\u093f \u0924\u0924\u094d\u0924\u094d\u0935\u0902 \u0928 \u091c\u093e\u0928\u0928\u094d\u0924\u093f \u0930\u093e\u0917\u093e\u0924\u094d \u0915\u0930\u094d\u092e\u092b\u0932\u0930\u093e\u0917\u093e\u092d\u093f\u092d\u0935\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u092e\u094d , \u0924\u0947\u0928 \u0915\u093e\u0930\u0923\u0947\u0928 \u0906\u0924\u0941\u0930\u093e\u0903 \u0926\u0941\u0903\u0916\u093e\u0930\u094d\u0924\u093e\u0903 \u0938\u0928\u094d\u0924\u0903 \u0915\u094d\u0937\u0940\u0923\u0932\u094b\u0915\u093e\u0903 \u0915\u094d\u0937\u0940\u0923\u0915\u0930\u094d\u092e\u092b\u0932\u093e\u0903 \u0938\u094d\u0935\u0930\u094d\u0917\u0932\u094b\u0915\u093e\u0924\u094d \u091a\u094d\u092f\u0935\u0928\u094d\u0924\u0947 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014 The ignorant acting diversely according to ignorance, flatter themselves that they have achieved what they should. This being so, the followers of karma do not learn the truth as they are assailed with the desire for the fruits of karma ; they grow miserable for that reason and fall from heaven after the fruits of their karma are consumed."
+        "text": "उक्तमेवार्थमुपसञ्जिहीर्षुर्मन्त्रो वक्ष्यमाणार्थमाह — यः उक्तलक्षणोऽक्षराख्यः सर्वज्ञः सामान्येन सर्वं जानातीति सर्वज्ञः । विशेषेण सर्वं वेत्तीति सर्ववित् । यस्य ज्ञानमयं ज्ञानविकारमेव सार्वज्ञ्यलक्षणं तपः अनायासलक्षणम्, तस्मात् यथोक्तात्सर्वज्ञात् एतत् उक्तं कार्यलक्षणं ब्रह्म हिरण्यगर्भाख्यं जायते । किञ्च, नाम असौ देवदत्तो यज्ञदत्त इत्यादिलक्षणम्, रूपम् इदं शुक्लं नीलमित्यादि, अन्नं च व्रीहियवादिलक्षणम्, जायते पूर्वमन्त्रोक्तक्रमेणेत्यविरोधो द्रष्टव्यः ॥"
       }
     ],
     "commentary_faqs": []
@@ -329,32 +968,127 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 10,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145094.html"
+      "mantra_ref": "1.2.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0907\u0937\u094d\u091f\u093e\u092a\u0942\u0930\u094d\u0924\u0902 \u092e\u0928\u094d\u092f\u092e\u093e\u0928\u093e \u0935\u0930\u093f\u0937\u094d\u0920\u0902 \u0928\u093e\u0928\u094d\u092f\u091a\u094d\u091b\u094d\u0930\u0947\u092f\u094b \u0935\u0947\u0926\u092f\u0928\u094d\u0924\u0947 \u092a\u094d\u0930\u092e\u0942\u0922\u093e\u0903\u00a0\u0964 \n \u0928\u093e\u0915\u0938\u094d\u092f \u092a\u0943\u0937\u094d\u0920\u0947 \u0924\u0947 \u0938\u0941\u0915\u0943\u0924\u0947\u093d\u0928\u0941\u092d\u0942\u0924\u094d\u0935\u0947\u092e\u0902 \u0932\u094b\u0915\u0902 \u0939\u0940\u0928\u0924\u0930\u0902 \u0935\u093e \u0935\u093f\u0936\u0928\u094d\u0924\u093f \u0965 \u0967\u0966 \u0965",
-    "transliteration": "i\u1e63\u1e6d\u0101p\u016brta\u1e41 manyam\u0101n\u0101 vari\u1e63\u1e6dha\u1e43 n\u0101nyacchreyo vedayante pram\u016b\u1e0dh\u0101\u1e25 | n\u0101kasya p\u1e5b\u1e63\u1e6dhe te suk\u1e5bte'nubh\u016btvema\u1e43 loka\u1e43 h\u012bnatara\u1e43 v\u0101 vi\u015banti || 10 ||",
-    "translation": "10. These ignorant men regarding sacrificial and charitable acts as most important, do not know any other help to bliss; having enjoyed in the heights of Heaven the abode of pleasures, they enter again into this or even inferior world.",
-    "word_by_word": [],
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "तदेतत्सत्यं मन्त्रेषु कर्माणि कवयो यान्यपश्यंस्तानि त्रेतायां बहुधा सन्ततानि । तान्याचरथ नियतं सत्यकामा एष वः पन्थाः सुकृतस्य लोके ॥ १ ॥",
+    "transliteration": "tadetatsatyaṃ mantreṣu karmāṇi kavayo yānyapaśyaṃstāni tretāyāṃ bahudhā santatāni | tānyācaratha niyataṃ satyakāmā eṣa vaḥ panthāḥ sukṛtasya loke || 1 ||",
+    "translation": "1. The various karma which seers found in the mantras are true and were much practised in the Treta age; practise them always with true wishes. This is your way to the attainment of the fruits of karma.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदेतत्सत्यं",
+        "word_english": "this very (thing) is the truth, the unfailing (avitatha)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + सत्य · प्रथमा·एक·नपुं",
+        "root": "तत् + एतत् + सत्यम्"
+      },
+      {
+        "word_sanskrit": "मन्त्रेषु",
+        "word_english": "in the mantras (called Ṛgveda etc.)",
+        "grammar_role": "मन्त्र · सप्तमी·बहु·पुं",
+        "root": "मन्त्रेषु"
+      },
+      {
+        "word_sanskrit": "कर्माणि",
+        "word_english": "the rites (agnihotra etc.)",
+        "grammar_role": "कर्मन् · प्रथमा·बहु·नपुं",
+        "root": "कर्माणि"
+      },
+      {
+        "word_sanskrit": "कवयो",
+        "word_english": "the seers (mantra-poets)",
+        "grammar_role": "कवि · प्रथमा·बहु·पुं",
+        "root": "कवयः"
+      },
+      {
+        "word_sanskrit": "यान्यपश्यंस्तानि",
+        "word_english": "which (rites) the seers saw, those",
+        "grammar_role": "यद् · द्वितीया·बहु·नपुं + √दृश् · लङ्·प्रथम·बहु·परस्मै + तद् · प्रथमा·बहु·नपुं",
+        "root": "यानि + अपश्यन् + तानि"
+      },
+      {
+        "word_sanskrit": "त्रेतायां",
+        "word_english": "in the Tretā (age; or the triad of fires)",
+        "grammar_role": "त्रेता · सप्तमी·एक·स्त्री",
+        "root": "त्रेतायाम्"
+      },
+      {
+        "word_sanskrit": "बहुधा",
+        "word_english": "manifoldly, in many ways",
+        "grammar_role": "अव्यय (क्रियाविशेषण)",
+        "root": "बहुधा"
+      },
+      {
+        "word_sanskrit": "सन्ततानि",
+        "word_english": "spread out, extended (in practice)",
+        "grammar_role": "सन्तत (√तन्+क्त) · प्रथमा·बहु·नपुं",
+        "root": "सन्ततानि"
+      },
+      {
+        "word_sanskrit": "तान्याचरथ",
+        "word_english": "perform those (rites)",
+        "grammar_role": "तद् · द्वितीया·बहु·नपुं + आ-√चर् · लट्·मध्यम·बहु·परस्मै (आज्ञार्थे प्रयुक्त)",
+        "root": "तानि + आचरथ"
+      },
+      {
+        "word_sanskrit": "नियतं",
+        "word_english": "constantly, regularly",
+        "grammar_role": "नियत (नि-√यम्+क्त) · अव्यय (क्रियाविशेषण); द्वितीया·एक·नपुं",
+        "root": "नियतम्"
+      },
+      {
+        "word_sanskrit": "सत्यकामा",
+        "word_english": "O you whose desires are true",
+        "grammar_role": "सत्य-काम · प्रथमा·बहु·पुं (बहुव्रीहि, सम्बोधनार्थे)",
+        "root": "सत्यकामाः"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this (is)",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "वः",
+        "word_english": "your (for you)",
+        "grammar_role": "युष्मद् · षष्ठी·बहु (सर्वनाम)",
+        "root": "वः"
+      },
+      {
+        "word_sanskrit": "पन्थाः",
+        "word_english": "the path",
+        "grammar_role": "पथिन् · प्रथमा·एक·पुं",
+        "root": "पन्थाः"
+      },
+      {
+        "word_sanskrit": "सुकृतस्य",
+        "word_english": "of good deeds (the world won by meritorious work)",
+        "grammar_role": "सुकृत · षष्ठी·एक·नपुं",
+        "root": "सुकृतस्य"
+      },
+      {
+        "word_sanskrit": "लोके",
+        "word_english": "in the world",
+        "grammar_role": "लोक · सप्तमी·एक·पुं",
+        "root": "लोके"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "10. These ignorant men regarding sacrificial and charitable acts as most important, do not know any other help to bliss; having enjoyed in the heights of Heaven the abode of pleasures, they enter again into this or even inferior world."
+        "text": "1. The various karma which seers found in the mantras are true and were much practised in the Treta age; practise them always with true wishes. This is your way to the attainment of the fruits of karma."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0907\u0937\u094d\u091f\u093e\u092a\u0942\u0930\u094d\u0924\u092e\u094d \u0907\u0937\u094d\u091f\u0902 \u092f\u093e\u0917\u093e\u0926\u093f \u0936\u094d\u0930\u094c\u0924\u0902 \u0915\u0930\u094d\u092e \u092a\u0942\u0930\u094d\u0924\u0902 \u0938\u094d\u092e\u093e\u0930\u094d\u0924\u0902 \u0935\u093e\u092a\u0940\u0915\u0942\u092a\u0924\u0921\u093e\u0917\u093e\u0926\u093f\u0915\u0930\u094d\u092e \u092e\u0928\u094d\u092f\u092e\u093e\u0928\u093e\u0903 \u090f\u0924\u0926\u0947\u0935\u093e\u0924\u093f\u0936\u092f\u0947\u0928 \u092a\u0941\u0930\u0941\u0937\u093e\u0930\u094d\u0925\u0938\u093e\u0927\u0928\u0902 \u0935\u0930\u093f\u0937\u094d\u0920\u0902 \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u093f\u0924\u093f \u091a\u093f\u0928\u094d\u0924\u092f\u0928\u094d\u0924\u0903, \u0905\u0928\u094d\u092f\u0924\u094d \u0906\u0924\u094d\u092e\u091c\u094d\u091e\u093e\u0928\u093e\u0916\u094d\u092f\u0902 \u0936\u094d\u0930\u0947\u092f\u0903\u0938\u093e\u0927\u0928\u0902 \u0928 \u0935\u0947\u0926\u092f\u0928\u094d\u0924\u0947 \u0928 \u091c\u093e\u0928\u0928\u094d\u0924\u093f \u092a\u094d\u0930\u092e\u0942\u0922\u093e\u0903 \u092a\u0941\u0924\u094d\u0930\u092a\u0936\u0941\u092c\u093e\u0928\u094d\u0927\u0935\u093e\u0926\u093f\u0937\u0941 \u092a\u094d\u0930\u092e\u0924\u094d\u0924\u0924\u092f\u093e \u092e\u0942\u0922\u093e\u0903 ; \u0924\u0947 \u091a \u0928\u093e\u0915\u0938\u094d\u092f \u0938\u094d\u0935\u0930\u094d\u0917\u0938\u094d\u092f \u092a\u0943\u0937\u094d\u0920\u0947 \u0909\u092a\u0930\u093f\u0938\u094d\u0925\u093e\u0928\u0947 \u0938\u0941\u0915\u0943\u0924\u0947 \u092d\u094b\u0917\u093e\u092f\u0924\u0928\u0947 \u0905\u0928\u0941\u092d\u0942\u0924\u094d\u0935\u093e \u0905\u0928\u0941\u092d\u0942\u092f \u0915\u0930\u094d\u092e\u092b\u0932\u0902 \u092a\u0941\u0928\u0903 \u0907\u092e\u0902 \u0932\u094b\u0915\u0902 \u092e\u093e\u0928\u0941\u0937\u092e\u094d \u0905\u0938\u094d\u092e\u093e\u0924\u094d \u0939\u0940\u0928\u0924\u0930\u0902 \u0935\u093e \u0924\u093f\u0930\u094d\u092f\u0919\u094d\u0928\u0930\u0915\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u0902 \u092f\u0925\u093e\u0915\u0930\u094d\u092e\u0936\u0947\u0937\u0902 \u0935\u093f\u0936\u0928\u094d\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014\u201c Ishtam \u201d karma enjoined by the Srutis as sacrifices, etc. \u201c Purtam \u201d karma enjoined by Smritis such as the digging of pools, wells, tanks, etc. Regarding these alone as the most important aids to the attainment of human objects, these ignorant men, being infatuated with attachment to their sons, cattle and relatives, do not know the other called \u2018knowledge of self\u2019 which is the help to bliss. Having enjoyed in the top of heaven\u2014the place of pleasures\u2014the fruits of their karma , they enter again into this world of men or even inferior world, such as the world of horizontal beings, hell, etc., according to the residue of their karma."
+        "text": "साङ्गा वेदा अपरा विद्योक्ता ‘ऋग्वेदो यजुर्वेदः’ (मु. उ. १ । १ । ५) इत्यादिना । ‘यत्तदद्रेश्यम्’ (मु. उ. १ । १ । ६) इत्यादिना ‘नामरूपमन्नं च जायते’ (मु. उ. १ । १ । ९) इत्यन्तेन ग्रन्थेनोक्तलक्षणमक्षरं यया विद्ययाधिगम्यत इति सा परा विद्या सविशेषणोक्ता । अतः परमनयोर्विद्ययोर्विषयौ विवेक्तव्यौ संसारमोक्षावित्युत्तरो ग्रन्थ आरभ्यते । तत्रापरविद्याविषयः कर्त्रादिसाधनक्रियाफलभेदरूपः संसारोऽनादिरनन्तो दुःखस्वरूपत्वाद्धातव्यः प्रत्येकं शरीरिभिः सामस्त्येन नदीस्रोतोवदविच्छेदरूपसम्बन्धः तदुपशमलक्षणो मोक्षः परविद्याविषयोऽनाद्यनन्तोऽजरोऽमरोऽमृतोऽभयः शुद्धः प्रसन्नः स्वात्मप्रतिष्ठालक्षणः परमानन्दोऽद्वय इति । पूर्वं तावदपरविद्याया विषयप्रदर्शनार्थमारम्भः । तद्दर्शने हि तन्निर्वेदोपपत्तिः । तथा च वक्ष्यति — ‘परीक्ष्य लोकान्कर्मचितान्’ (मु. उ. १ । २ । १२) इत्यादिना । न ह्यप्रदर्शिते परीक्षोपपद्यत इति तत्प्रदर्शयन्नाह — तदेतत् सत्यम् अवितथम् । किं तत्? मन्त्रेषु ऋग्वेदाद्याख्येषु कर्माणि अग्निहोत्रादीनि मन्त्रैरेव प्रकाशितानि कवयः मेधाविनो वसिष्ठादयः यानि अपश्यन् दृष्टवन्तः । यत्तदेतत्सत्यमेकान्तपुरुषार्थसाधनत्वात्, तानि च वेदविहितानि ऋषिदृष्टानि कर्माणि त्रेतायां त्रयीसंयोगलक्षणायां हौत्राध्वर्यवौद्गात्रप्रकारायामधिकरणभूतायां बहुधा बहुप्रकारं सन्ततानि सम्प्रवृत्तानि कर्मिभिः क्रियमाणानि त्रेतायां वा युगे प्रायशः प्रवृत्तानि; अतो यूयं तानि आचरथ निर्वर्तयत नियतं नित्यं सत्यकामा यथाभूतकर्मफलकामाः सन्तः । एषः वः युष्माकं पन्थाः मार्गः सुकृतस्य स्वयं निर्वर्तितस्य कर्मणः लोके फलनिमित्तं लोक्यते दृश्यते भुज्यत इति कर्मफलं लोक उच्यते । तदर्थं तत्प्राप्तये एष मार्ग इत्यर्थः । यान्येतान्यग्निहोत्रादीनि त्रय्यां विहितानि कर्माणि, तान्येष पन्था अवश्यफलप्राप्तिसाधनमित्यर्थः ॥"
       }
     ],
     "commentary_faqs": []
@@ -365,32 +1099,73 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 11,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145095.html"
+      "mantra_ref": "1.2.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u092a\u0903\u0936\u094d\u0930\u0926\u094d\u0927\u0947 \u092f\u0947 \u0939\u094d\u092f\u0941\u092a\u0935\u0938\u0928\u094d\u0924\u094d\u092f\u0930\u0923\u094d\u092f\u0947 \u0936\u093e\u0928\u094d\u0924\u093e \u0935\u093f\u0926\u094d\u0935\u093e\u0902\u0938\u094b \u092d\u0948\u0915\u094d\u0937\u091a\u0930\u094d\u092f\u093e\u0902 \u091a\u0930\u0928\u094d\u0924\u0903\u00a0\u0964 \n \u0938\u0942\u0930\u094d\u092f\u0926\u094d\u0935\u093e\u0930\u0947\u0923 \u0924\u0947 \u0935\u093f\u0930\u091c\u093e\u0903 \u092a\u094d\u0930\u092f\u093e\u0928\u094d\u0924\u093f \u092f\u0924\u094d\u0930\u093e\u092e\u0943\u0924\u0903 \u0938 \u092a\u0941\u0930\u0941\u0937\u094b \u0939\u094d\u092f\u0935\u094d\u092f\u092f\u093e\u0924\u094d\u092e\u093e \u0965 \u0967\u0967 \u0965",
-    "transliteration": "tapa\u1e25\u015braddhe ye hyupavasantyara\u1e47ye \u015b\u0101nt\u0101 vidv\u0101\u1e43so bhaik\u1e63yacary\u0101\u1e43 caranta\u1e25 | s\u016bryadv\u0101re\u1e47a te viraj\u0101\u1e25 pray\u0101nti yatr\u0101m\u1e5bta\u1e25 sa puru\u1e63o hyavyay\u0101tm\u0101 || 11 ||",
-    "translation": "11. But they who perform tapas and sraddha in the forest, having a control over their senses, learned and living the life of a mendicant, go through the orb of the sun, their good and bad deeds consumed, to where the immortal and undecaying purusha is.",
-    "word_by_word": [],
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "यदा लेलायते ह्यर्चिः समिद्धे हव्यवाहने । तदाज्यभागावन्तरेणाहुतीः प्रतिपादयेत् ॥ २ ॥",
+    "transliteration": "yadā lelāyate hyarciḥ samiddhe havyavāhane | tadājyabhāgāvantareṇāhutīḥ pratipādayet || 2 ||",
+    "translation": "2. When the flame of the fire burning high is moving, then one should perform the oblations in the space between the portions, where the ghee should be poured on either side.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "यदा",
+        "word_english": "when",
+        "grammar_role": "यदा · अव्यय (कालवाचक; निपात — 'when')",
+        "root": "यदा"
+      },
+      {
+        "word_sanskrit": "लेलायते",
+        "word_english": "flickers, moves (the flame)",
+        "grammar_role": "√ली (लेल् — यङ्लुगन्त, 'चलति' इति भाष्ये) · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "लेलायते"
+      },
+      {
+        "word_sanskrit": "ह्यर्चिः",
+        "word_english": "indeed; the flame",
+        "grammar_role": "हि · अव्यय (हेतु/अवधारण-निपात) + अर्चिस् · प्रथमा·एकवचन·नपुंसक",
+        "root": "हि + अर्चिः"
+      },
+      {
+        "word_sanskrit": "समिद्धे",
+        "word_english": "(in/when) well-kindled, blazing",
+        "grammar_role": "समिद्ध (√इन्ध् 'सम्' — क्त, 'सम्यगिद्धे दीप्ते') · सप्तमी·एकवचन·नपुंसक",
+        "root": "समिद्धे"
+      },
+      {
+        "word_sanskrit": "हव्यवाहने",
+        "word_english": "in the fire (oblation-bearer)",
+        "grammar_role": "हव्यवाहन (हव्य-वाहन, 'अग्नौ') · सप्तमी·एकवचन·नपुंसक",
+        "root": "हव्य-वाहने"
+      },
+      {
+        "word_sanskrit": "तदाज्यभागावन्तरेणाहुतीः",
+        "word_english": "then, between the two ājya-portions, the oblations",
+        "grammar_role": "तदा · अव्यय (कालवाचक निपात) + आज्यभाग (आज्य-भाग; अन्तरेणयोगे द्वितीया, cf. भाष्ये 'आज्यभागयोः ... मध्ये') · द्वितीया·द्विवचन·पुंलिङ्ग + अन्तरेण · अव्यय/निपात ('मध्ये'; अन्तरेणयुक्ते द्वितीयां गृह्णाति) + आहुति · द्वितीया·बहुवचन·स्त्रीलिङ्ग",
+        "root": "तदा + आज्यभागौ + अन्तरेण + आहुतीः"
+      },
+      {
+        "word_sanskrit": "प्रतिपादयेत्",
+        "word_english": "he should offer, cast (the oblations)",
+        "grammar_role": "√पद् 'प्रति' (णिजन्त, 'प्रक्षिपेत्') · विधिलिङ्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "प्रतिपादयेत्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "11. But they who perform tapas and sraddha in the forest, having a control over their senses, learned and living the life of a mendicant, go through the orb of the sun, their good and bad deeds consumed, to where the immortal and undecaying purusha is."
+        "text": "2. When the flame of the fire burning high is moving, then one should perform the oblations in the space between the portions, where the ghee should be poured on either side."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u092f\u0947 \u092a\u0941\u0928\u0938\u094d\u0924\u0926\u094d\u0935\u093f\u092a\u0930\u0940\u0924\u091c\u094d\u091e\u093e\u0928\u092f\u0941\u0915\u094d\u0924\u093e \u0935\u093e\u0928\u092a\u094d\u0930\u0938\u094d\u0925\u093e\u0903 \u0938\u0902\u0928\u094d\u092f\u093e\u0938\u093f\u0928\u0936\u094d\u091a, \u0924\u092a\u0903\u0936\u094d\u0930\u0926\u094d\u0927\u0947 \u0939\u093f \u0924\u092a\u0903 \u0938\u094d\u0935\u093e\u0936\u094d\u0930\u092e\u0935\u093f\u0939\u093f\u0924\u0902 \u0915\u0930\u094d\u092e, \u0936\u094d\u0930\u0926\u094d\u0927\u093e \u0939\u093f\u0930\u0923\u094d\u092f\u0917\u0930\u094d\u092d\u093e\u0926\u093f\u0935\u093f\u0937\u092f\u093e \u0935\u093f\u0926\u094d\u092f\u093e, \u0924\u0947 \u0924\u092a\u0903\u0936\u094d\u0930\u0926\u094d\u0927\u0947 \u0909\u092a\u0935\u0938\u0928\u094d\u0924\u093f \u0938\u0947\u0935\u0902\u0924\u0947\u093d\u0930\u0923\u094d\u092f\u0947 \u0935\u0930\u094d\u0924\u092e\u093e\u0928\u093e\u0903 \u0938\u0928\u094d\u0924\u0903\u00a0\u0964 \u0936\u093e\u0928\u094d\u0924\u093e\u0903 \u0909\u092a\u0930\u0924\u0915\u0930\u0923\u0917\u094d\u0930\u093e\u092e\u093e\u0903\u00a0\u0964 \u0935\u093f\u0926\u094d\u0935\u093e\u0902\u0938\u0903 \u0917\u0943\u0939\u0938\u094d\u0925\u093e\u0936\u094d\u091a \u091c\u094d\u091e\u093e\u0928\u092a\u094d\u0930\u0927\u093e\u0928\u093e \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092d\u0948\u0915\u094d\u0937\u091a\u0930\u094d\u092f\u093e\u0902 \u091a\u0930\u0928\u094d\u0924\u0903 \u092a\u0930\u093f\u0917\u094d\u0930\u0939\u093e\u092d\u093e\u0935\u093e\u0926\u0941\u092a\u0935\u0938\u0928\u094d\u0924\u094d\u092f\u0930\u0923\u094d\u092f\u0947 \u0907\u0924\u093f \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0903\u00a0\u0964 \u0938\u0942\u0930\u094d\u092f\u0926\u094d\u0935\u093e\u0930\u0947\u0923 \u0938\u0942\u0930\u094d\u092f\u094b\u092a\u0932\u0915\u094d\u0937\u093f\u0924\u0947\u0928\u094b\u0924\u094d\u0924\u0930\u0947\u0923 \u092a\u0925\u093e \u0924\u0947 \u0935\u093f\u0930\u091c\u093e\u0903 \u0935\u093f\u0930\u091c\u0938\u0903, \u0915\u094d\u0937\u0940\u0923\u092a\u0941\u0923\u094d\u092f\u092a\u093e\u092a\u0915\u0930\u094d\u092e\u093e\u0923\u0903 \u0938\u0928\u094d\u0924 \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092a\u094d\u0930\u092f\u093e\u0928\u094d\u0924\u093f \u092a\u094d\u0930\u0915\u0930\u094d\u0937\u0947\u0923 \u092f\u093e\u0928\u094d\u0924\u093f \u092f\u0924\u094d\u0930 \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0938\u0924\u094d\u092f\u0932\u094b\u0915\u093e\u0926\u094c \u0905\u092e\u0943\u0924\u0903 \u0938 \u092a\u0941\u0930\u0941\u0937\u0903 \u092a\u094d\u0930\u0925\u092e\u091c\u094b \u0939\u093f\u0930\u0923\u094d\u092f\u0917\u0930\u094d\u092d\u0903 \u0939\u093f \u0905\u0935\u094d\u092f\u092f\u093e\u0924\u094d\u092e\u093e \u0905\u0935\u094d\u092f\u092f\u0938\u094d\u0935\u092d\u093e\u0935\u094b \u092f\u093e\u0935\u0924\u094d\u0938\u0902\u0938\u093e\u0930\u0938\u094d\u0925\u093e\u092f\u0940\u00a0\u0964 \u090f\u0924\u0926\u0928\u094d\u0924\u093e\u0938\u094d\u0924\u0941 \u0938\u0902\u0938\u093e\u0930\u0917\u0924\u092f\u094b\u093d\u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0917\u092e\u094d\u092f\u093e\u0903\u00a0\u0964 \u0928\u0928\u094d\u0935\u0947\u0924\u0902 \u092e\u094b\u0915\u094d\u0937\u092e\u093f\u091a\u094d\u091b\u0928\u094d\u0924\u093f \u0915\u0947\u091a\u093f\u0924\u094d\u00a0\u0964 \u0928, \n\u2018\u0907\u0939\u0948\u0935 \u0938\u0930\u094d\u0935\u0947 \u092a\u094d\u0930\u0935\u093f\u0932\u0940\u092f\u0928\u094d\u0924\u093f \u0915\u093e\u092e\u093e\u0903\u2019 (\u092e\u0941. \u0909. \u0969\u00a0\u0964 \u0968\u00a0\u0964 \u0968)\n\u2018\u0924\u0947 \u0938\u0930\u094d\u0935\u0917\u0902 \u0938\u0930\u094d\u0935\u0924\u0903 \u092a\u094d\u0930\u093e\u092a\u094d\u092f \u0927\u0940\u0930\u093e \u092f\u0941\u0915\u094d\u0924\u093e\u0924\u094d\u092e\u093e\u0928\u0903 \u0938\u0930\u094d\u0935\u092e\u0947\u0935\u093e\u0935\u093f\u0936\u0928\u094d\u0924\u093f\u2019 (\u092e\u0941. \u0909. \u0969\u00a0\u0964 \u0968\u00a0\u0964 \u096b)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0936\u094d\u0930\u0941\u0924\u093f\u092d\u094d\u092f\u0903 ; \u0905\u092a\u094d\u0930\u0915\u0930\u0923\u093e\u091a\u094d\u091a\u00a0\u0964 \u0905\u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u092a\u094d\u0930\u0915\u0930\u0923\u0947 \u0939\u093f \u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u0947 \u0928 \u0939\u094d\u092f\u0915\u0938\u094d\u092e\u093e\u0928\u094d\u092e\u094b\u0915\u094d\u0937\u092a\u094d\u0930\u0938\u0919\u094d\u0917\u094b\u093d\u0938\u094d\u0924\u093f\u00a0\u0964 \u0935\u093f\u0930\u091c\u0938\u094d\u0924\u094d\u0935\u0902 \u0924\u094d\u0935\u093e\u092a\u0947\u0915\u094d\u0937\u093f\u0915\u092e\u094d\u00a0\u0964 \u0938\u092e\u0938\u094d\u0924\u092e\u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u0930\u094d\u092f\u0902 \u0938\u093e\u0927\u094d\u092f\u0938\u093e\u0927\u0928\u0932\u0915\u094d\u0937\u0923\u0902 \u0915\u094d\u0930\u093f\u092f\u093e\u0915\u093e\u0930\u0915\u092b\u0932\u092d\u0947\u0926\u092d\u093f\u0928\u094d\u0928\u0902 \u0926\u094d\u0935\u0948\u0924\u092e\u094d \u090f\u0924\u093e\u0935\u0926\u0947\u0935 \u092f\u0926\u094d\u0927\u093f\u0930\u0923\u094d\u092f\u0917\u0930\u094d\u092d\u092a\u094d\u0930\u093e\u092a\u094d\u0924\u094d\u092f\u0935\u0938\u093e\u0928\u092e\u094d\u00a0\u0964 \u0924\u0925\u093e \u091a \u092e\u0928\u0941\u0928\u094b\u0915\u094d\u0924\u0902 \u0938\u094d\u0925\u093e\u0935\u0930\u093e\u0926\u094d\u092f\u093e\u0902 \u0938\u0902\u0938\u093e\u0930\u0917\u0924\u093f\u092e\u0928\u0941\u0915\u094d\u0930\u093e\u092e\u0924\u093e \u2014 \n\u2018\u092c\u094d\u0930\u0939\u094d\u092e\u093e \u0935\u093f\u0936\u094d\u0935\u0938\u0943\u091c\u094b \u0927\u0930\u094d\u092e\u094b \u092e\u0939\u093e\u0928\u0935\u094d\u092f\u0915\u094d\u0924\u092e\u0947\u0935 \u091a\u00a0\u0964 \u0909\u0924\u094d\u0924\u092e\u093e\u0902 \u0938\u093e\u0924\u094d\u0924\u094d\u0935\u093f\u0915\u0940\u092e\u0947\u0924\u093e\u0902 \u0917\u0924\u093f\u092e\u093e\u0939\u0941\u0930\u094d\u092e\u0928\u0940\u0937\u093f\u0923\u0903\u2019 (\u092e\u0928\u0941. \u0967\u0968\u00a0\u0964 \u096b\u0966)\n \u0907\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014But those who possess the knowledge contrary to that of persons previously mentioned, i.e ., the hermits of the forest and the Sanyasins . \u2018 Tapah ,\u2019 the karma enjoined on one\u2019s order of life. \u2018 Sraddha ,\u2019 the worship of the Hiranyagarbha and other deities. \u2018 Upavasanti ,\u2019 follow: \u2018 Aranye ,\u2019 living in the forest. \u2018 Santah ,\u2019 having control over the group of senses. \u2018Learned\u2019 includes also house-holders who possess chiefly knowledge, living by begging; because, they have nothing to call their own. \u2018Living on alms\u2019 is connected with \u2018living in the forest.\u2019 \u2018Through the orb of the sun,\u2019 through the northern route indicated by the sun. \u2018 Virajah ,\u2019 their good and bad deeds being consumed. \u2018 Prayanti ,\u2019 go with excellence. \u2018Where,\u2019 to Satyaloka where the immortal Purusha , the first born, undecaying Hiranyagarbha is. \u2018Undecaying,\u2019 because he lives to the end of samsara. With this, end the movements within the pale of samsara attainable, through apara vidya. If it be said that some regard this as emancipation, we say it is not so, because of the Srutis , \u2018All his desires are even here absorbed\u2019 and \u2018those intelligent persons whose mind is concentrated reach the all-pervading, on all sides and enter into everything, etc.,\u2019 and because of the mention of emancipation being irrelevant in this context; for, in the course of treating of the apara vidya , there is no pertinency of emancipation being brought in. The consumption of karma spoken of is only relative; all the result of the apara vidya being in the nature of ends and means and diversified by the difference of acts, requisites and fruits and partaking of duality is only this much, which ends with reaching Hiranyagarbha. Accordingly also it has been said by Manu speaking of the various stages within samsara from the immovable upwards: \u2018The wise consider this a high and pure stage to attain the world of Brahma, the Prajapatis (creators), virtue, mahat and avyakta."
+        "text": "तत्राग्निहोत्रमेव तावत्प्रथमं प्रदर्शनार्थमुच्यते, सर्वकर्मणां प्राथम्यात् । तत्कथम्? यदैव इन्धनैरभ्याहितैः सम्यगिद्धे समिद्धे दीप्ते हव्यवाहने लेलायते चलति अर्चिः; तदा तस्मिन्काले लेलायमाने चलत्यर्चिषि आज्यभागौ आज्यभागयोः अन्तरेण मध्ये आवापस्थाने आहुतीः प्रतिपादयेत् प्रक्षिपेत् देवतामुद्दिश्य । अनेकाहःप्रयोगापेक्षया आहुतीरिति बहुवचनम् । एष सम्यगाहुतिप्रक्षेपादिलक्षणः कर्ममार्गो लोकप्राप्तये पन्थाः । तस्य च सम्यक्करणं दुष्करम्; विपत्तयस्त्वनेका भवन्ति ॥"
       }
     ],
     "commentary_faqs": []
@@ -401,32 +1176,61 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 12,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145096.html"
+      "mantra_ref": "1.2.3",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092a\u0930\u0940\u0915\u094d\u0937\u094d\u092f \u0932\u094b\u0915\u093e\u0928\u094d\u0915\u0930\u094d\u092e\u091a\u093f\u0924\u093e\u0928\u094d\u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u094b \u0928\u093f\u0930\u094d\u0935\u0947\u0926\u092e\u093e\u092f\u093e\u0928\u094d\u0928\u093e\u0938\u094d\u0924\u094d\u092f\u0915\u0943\u0924\u0903 \u0915\u0943\u0924\u0947\u0928\u00a0\u0964 \n \u0924\u0926\u094d\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0930\u094d\u0925\u0902 \u0938 \u0917\u0941\u0930\u0941\u092e\u0947\u0935\u093e\u092d\u093f\u0917\u091a\u094d\u091b\u0947\u0924\u094d\u0938\u092e\u093f\u0924\u094d\u092a\u093e\u0923\u093f\u0903 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u093f\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0928\u093f\u0937\u094d\u0920\u092e\u094d \u0965 \u0967\u0968 \u0965",
-    "transliteration": "par\u012bk\u1e63ya lok\u0101nkarmacit\u0101nbr\u0101hma\u1e47o nirvedam\u0101y\u0101nn\u0101styak\u1e5bta\u1e25 k\u1e5btena | tadvij\u00f1\u0101n\u0101rtha\u1e43 sa gurumev\u0101bhigacchetsamitp\u0101\u1e47i\u1e25 \u015brotriya\u1e43 brahmani\u1e63\u1e6dham || 12 ||",
-    "translation": "12. Let a Brahmin having examined the worlds produced by karma be free from desires, thinking, \u2018there is nothing eternal produced by karma ?; and in order to acquire the knowledge of the eternal, let him Samid (sacrificial fuel) in hand, approach a perceptor (preceptor?) alone, who is versed in the Vedas and centered in the Brahman.",
-    "word_by_word": [],
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "यस्याग्निहोत्रमदर्शमपौर्णमासमचातुर्मास्यमनाग्रयणमतिथिवर्जितं च । अहुतमवैश्वदेवमविधिना हुतमासप्तमांस्तस्य लोकान्हिनस्ति ॥ ३ ॥",
+    "transliteration": "yasyāgnihotramadarśamapaurṇamāsamacāturmāsyamanāgrayaṇamatithivarjitaṃ ca | ahutamavaiśvadevamavidhinā hutamāsaptamāṃstasya lokānhinasti || 3 ||",
+    "translation": "3. He whose agnihotra is without Darsa , without Paurnamasa , without Chaturmasya , without agrayana , without atithi (guests) and without oblation is without vaisvadeva , or irregularly performed, destroys his worlds till the seventh.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "यस्याग्निहोत्रमदर्शमपौर्णमासमचातुर्मास्यमनाग्रयणमतिथिवर्जितं",
+        "word_english": "whose agnihotra is without the darśa rite, without paurṇamāsa, without cāturmāsya, without āgrayaṇa, and devoid of guest-honouring",
+        "grammar_role": "यद् · षष्ठी·एक·पुं + अग्निहोत्र · प्रथमा·एक·नपुं + अदर्श · प्रथमा·एक·नपुं + अपौर्णमास · प्रथमा·एक·नपुं + अचातुर्मास्य · प्रथमा·एक·नपुं + अनाग्रयण · प्रथमा·एक·नपुं + अतिथिवर्जित · प्रथमा·एक·नपुं",
+        "root": "यस्य + अग्निहोत्रम् + अदर्शम् + अपौर्णमासम् + अचातुर्मास्यम् + अनाग्रयणम् + अतिथि-वर्जितम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थे)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "अहुतमवैश्वदेवमविधिना",
+        "word_english": "unoffered (at the proper agnihotra time), without vaiśvadeva, (and even when offered) offered not according to rule",
+        "grammar_role": "अहुत · प्रथमा·एक·नपुं + अवैश्वदेव · प्रथमा·एक·नपुं + अविधि · तृतीया·एक·पुं",
+        "root": "अहुतम् + अवैश्वदेवम् + अविधिना"
+      },
+      {
+        "word_sanskrit": "हुतमासप्तमांस्तस्य",
+        "word_english": "offered (wrongly); up to and including the seventh (worlds); his (the doer's)",
+        "grammar_role": "हुत · प्रथमा·एक·नपुं + आसप्तम · द्वितीया·बहु·पुं + तद् · षष्ठी·एक·पुं",
+        "root": "हुतम् + आसप्तमान् + तस्य"
+      },
+      {
+        "word_sanskrit": "लोकान्हिनस्ति",
+        "word_english": "destroys (his) worlds",
+        "grammar_role": "लोक · द्वितीया·बहु·पुं + √हिंस् · लट्·प्रथम·एक·परस्मै",
+        "root": "लोकान् + हिनस्ति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "12. Let a Brahmin having examined the worlds produced by karma be free from desires, thinking, \u2018there is nothing eternal produced by karma ?; and in order to acquire the knowledge of the eternal, let him Samid (sacrificial fuel) in hand, approach a perceptor (preceptor?) alone, who is versed in the Vedas and centered in the Brahman."
+        "text": "3. He whose agnihotra is without Darsa , without Paurnamasa , without Chaturmasya , without agrayana , without atithi (guests) and without oblation is without vaisvadeva , or irregularly performed, destroys his worlds till the seventh."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0925\u0947\u0926\u093e\u0928\u0940\u092e\u0938\u094d\u092e\u093e\u0924\u094d\u0938\u093e\u0927\u094d\u092f\u0938\u093e\u0927\u0928\u0930\u0942\u092a\u093e\u0924\u094d\u0938\u0930\u094d\u0935\u0938\u094d\u092e\u093e\u0924\u094d\u0938\u0902\u0938\u093e\u0930\u093e\u0926\u094d\u0935\u093f\u0930\u0915\u094d\u0924\u0938\u094d\u092f \u092a\u0930\u0938\u094d\u092f\u093e\u0902 \u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u092e\u0927\u093f\u0915\u093e\u0930\u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928\u093e\u0930\u094d\u0925\u092e\u093f\u0926\u092e\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u092a\u0930\u0940\u0915\u094d\u0937\u094d\u092f \u092f\u0926\u0947\u0924\u0926\u0943\u0917\u094d\u0935\u0947\u0926\u093e\u0926\u094d\u092f\u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0937\u092f\u0902 \u0938\u094d\u0935\u093e\u092d\u093e\u0935\u093f\u0915\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u092e\u0915\u0930\u094d\u092e\u0926\u094b\u0937\u0935\u0924\u094d\u092a\u0941\u0930\u0941\u0937\u093e\u0928\u0941\u0937\u094d\u0920\u0947\u092f\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u0926\u093f\u0926\u094b\u0937\u0935\u0928\u094d\u0924\u092e\u0947\u0935 \u092a\u0941\u0930\u0941\u0937\u0902 \u092a\u094d\u0930\u0924\u093f \u0935\u093f\u0939\u093f\u0924\u0924\u094d\u0935\u093e\u0924\u094d\u0924\u0926\u0928\u0941\u0937\u094d\u0920\u093e\u0928\u0915\u093e\u0930\u094d\u092f\u092d\u0942\u0924\u093e\u0936\u094d\u091a \u0932\u094b\u0915\u093e \u092f\u0947 \u0926\u0915\u094d\u0937\u093f\u0923\u094b\u0924\u094d\u0924\u0930\u092e\u093e\u0930\u094d\u0917\u0932\u0915\u094d\u0937\u0923\u093e\u0903 \u092b\u0932\u092d\u0942\u0924\u093e\u0903, \u092f\u0947 \u091a \u0935\u093f\u0939\u093f\u0924\u093e\u0915\u0930\u0923\u092a\u094d\u0930\u0924\u093f\u0937\u0947\u0927\u093e\u0924\u093f\u0915\u094d\u0930\u092e\u0926\u094b\u0937\u0938\u093e\u0927\u094d\u092f\u093e \u0928\u0930\u0915\u0924\u093f\u0930\u094d\u092f\u0915\u094d\u092a\u094d\u0930\u0947\u0924\u0932\u0915\u094d\u0937\u0923\u093e\u0903, \u0924\u093e\u0928\u0947\u0924\u093e\u0928\u094d\u092a\u0930\u0940\u0915\u094d\u0937\u094d\u092f \u092a\u094d\u0930\u0924\u094d\u092f\u0915\u094d\u0937\u093e\u0928\u0941\u092e\u093e\u0928\u094b\u092a\u092e\u093e\u0928\u093e\u0917\u092e\u0948\u0903 \u0938\u0930\u094d\u0935\u0924\u094b \u092f\u093e\u0925\u093e\u0924\u094d\u092e\u094d\u092f\u0947\u0928\u093e\u0935\u0927\u093e\u0930\u094d\u092f \u0932\u094b\u0915\u093e\u0928\u094d \u0938\u0902\u0938\u093e\u0930\u0917\u0924\u093f\u092d\u0942\u0924\u093e\u0928-\u0935\u094d\u092f\u0915\u094d\u0924\u093e\u0926\u093f\u0938\u094d\u0925\u093e\u0935\u0930\u093e\u0928\u094d\u0924\u093e\u0928\u094d\u0935\u094d\u092f\u093e\u0915\u0943\u0924\u093e\u0935\u094d\u092f\u093e\u0915\u0943\u0924\u0932\u0915\u094d\u0937\u0923\u093e\u0928\u094d\u092c\u0940\u091c\u093e\u0919\u094d\u0915\u0941\u0930\u0935\u0926\u093f\u0924-\u0930\u0947\u0924\u0930\u094b\u0924\u094d\u092a\u0924\u094d\u0924\u093f\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u093e\u0928\u0928\u0947\u0915\u093e\u0928\u0930\u094d\u0925\u0936\u0924\u0938\u0939\u0938\u094d\u0930\u0938\u0919\u094d\u0915\u0941\u0932\u093e\u0928\u094d\u0915\u0926\u0932\u0940\u0917\u0930\u094d\u092d\u0935\u0926-\u0938\u093e\u0930\u093e\u0928\u094d\u092e\u093e\u092f\u093e\u092e\u0930\u0940\u091a\u094d\u092f\u0941\u0926\u0915\u0917\u0928\u094d\u0927\u0930\u094d\u0935\u0928\u0917\u0930\u093e\u0915\u093e\u0930\u0938\u094d\u0935\u092a\u094d\u0928\u091c\u0932\u092c\u0941\u0926\u094d\u092c\u0941\u0926\u092b\u0947\u0928\u0938-\u092e\u093e\u0928\u094d\u092a\u094d\u0930\u0924\u093f\u0915\u094d\u0937\u0923\u092a\u094d\u0930\u0927\u094d\u0935\u0902\u0938\u093e\u0928\u094d\u092a\u0943\u0937\u094d\u0920\u0924\u0903 \u0915\u0943\u0924\u094d\u0935\u093e \u0935\u093f\u0926\u094d\u092f\u093e\u0915\u093e\u092e\u0926\u094b\u0937\u092a\u094d\u0930\u0935\u0930\u094d\u0924\u093f\u0924\u0915\u0930\u094d\u092e\u091a\u093f\u0924\u093e\u0928\u094d\u0927\u0930\u094d\u092e\u093e\u0927\u0930\u094d\u092e\u0928\u093f\u0930\u094d\u0935\u0930\u094d\u0924\u093f\u0924\u093e\u0928\u093f\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u00a0\u0964 \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u0903, \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u0938\u094d\u092f\u0948\u0935 \u0935\u093f\u0936\u0947\u0937\u0924\u094b\u093d\u0927\u093f\u0915\u093e\u0930\u0903 \u0938\u0930\u094d\u0935\u0924\u094d\u092f\u093e\u0917\u0947\u0928 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u092e\u093f\u0924\u093f \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u0917\u094d\u0930\u0939\u0923\u092e\u094d\u00a0\u0964 \u092a\u0930\u0940\u0915\u094d\u0937\u094d\u092f \u0932\u094b\u0915\u093e\u0928\u094d\u0915\u093f\u0902 \u0915\u0941\u0930\u094d\u092f\u093e\u0926\u093f\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u0928\u093f\u0930\u094d\u0935\u0947\u0926\u092e\u094d , \u0928\u093f\u0937\u094d\u092a\u0942\u0930\u094d\u0935\u094b \u0935\u093f\u0926\u093f\u0930\u0924\u094d\u0930 \u0935\u0948\u0930\u093e\u0917\u094d\u092f\u093e\u0930\u094d\u0925\u0947, \u0935\u0948\u0930\u093e\u0917\u094d\u092f\u092e\u094d \u0906\u092f\u093e\u0924\u094d \u0915\u0941\u0930\u094d\u092f\u093e\u0926\u093f\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u00a0\u0964 \u0938 \u0935\u0948\u0930\u093e\u0917\u094d\u092f\u092a\u094d\u0930\u0915\u093e\u0930\u0903 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u094d\u092f\u0924\u0947 \u2014 \u0907\u0939 \u0938\u0902\u0938\u093e\u0930\u0947 \u0928\u093e\u0938\u094d\u0924\u093f \u0915\u0936\u094d\u091a\u093f\u0926\u092a\u093f \u0905\u0915\u0943\u0924\u0903 \u092a\u0926\u093e\u0930\u094d\u0925\u0903\u00a0\u0964 \u0938\u0930\u094d\u0935 \u090f\u0935 \u0939\u093f \u0932\u094b\u0915\u093e\u0903 \u0915\u0930\u094d\u092e\u091a\u093f\u0924\u093e\u0903 \u0915\u0930\u094d\u092e\u0915\u0943\u0924\u0924\u094d\u0935\u093e\u091a\u094d\u091a\u093e\u0928\u093f\u0924\u094d\u092f\u093e\u0903\u00a0\u0964 \u0928 \u0928\u093f\u0924\u094d\u092f\u0902 \u0915\u093f\u091e\u094d\u091a\u093f\u0926\u0938\u094d\u0924\u0940\u0924\u094d\u092f\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903\u00a0\u0964 \u0938\u0930\u094d\u0935\u0902 \u0924\u0941 \u0915\u0930\u094d\u092e\u093e\u0928\u093f\u0924\u094d\u092f\u0938\u094d\u092f\u0948\u0935 \u0938\u093e\u0927\u0928\u092e\u094d\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u091a\u094d\u091a\u0924\u0941\u0930\u094d\u0935\u093f\u0927\u092e\u0947\u0935 \u0939\u093f \u0938\u0930\u094d\u0935\u0902 \u0915\u0930\u094d\u092e \u0915\u093e\u0930\u094d\u092f\u092e\u094d \u2014 \u0909\u0924\u094d\u092a\u093e\u0926\u094d\u092f\u092e\u093e\u092a\u094d\u092f\u0902 \u0935\u093f\u0915\u093e\u0930\u094d\u092f\u0902 \u0938\u0902\u0938\u094d\u0915\u093e\u0930\u094d\u092f\u0902 \u0935\u093e\u00a0\u0964 \u0928\u093e\u0924\u0903 \u092a\u0930\u0902 \u0915\u0930\u094d\u092e\u0923\u094b \u0935\u093f\u0937\u092f\u094b\u093d\u0938\u094d\u0924\u093f\u00a0\u0964 \u0905\u0939\u0902 \u091a \u0928\u093f\u0924\u094d\u092f\u0947\u0928\u093e\u092e\u0943\u0924\u0947\u0928\u093e\u092d\u092f\u0947\u0928 \u0915\u0942\u091f\u0938\u094d\u0925\u0947\u0928\u093e\u091a\u0932\u0947\u0928 \u0927\u094d\u0930\u0941\u0935\u0947\u0923\u093e\u0930\u094d\u0925\u0947\u0928\u093e\u0930\u094d\u0925\u0940, \u0928 \u0924\u0926\u094d\u0935\u093f\u092a\u0930\u0940\u0924\u0947\u0928\u00a0\u0964 \u0905\u0924\u0903 \u0915\u093f\u0902 \u0915\u0943\u0924\u0947\u0928 \u0915\u0930\u094d\u092e\u0923\u093e \u0906\u092f\u093e\u0938\u092c\u0939\u0941\u0932\u0947\u0928\u093e\u0928\u0930\u094d\u0925\u0938\u093e\u0927\u0928\u0947\u0928 \u0907\u0924\u094d\u092f\u0947\u0935\u0902 \u0928\u093f\u0930\u094d\u0935\u093f\u0923\u094d\u0923\u094b\u093d\u092d\u092f\u0902 \u0936\u093f\u0935\u092e\u0915\u0943\u0924\u0902 \u0928\u093f\u0924\u094d\u092f\u0902 \u092a\u0926\u0902 \u092f\u0924\u094d , \u0924\u0926\u094d\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0930\u094d\u0925\u0902 \u0935\u093f\u0936\u0947\u0937\u0947\u0923\u093e\u0927\u093f\u0917\u092e\u093e\u0930\u094d\u0925\u0902 \u0938 \u0928\u093f\u0930\u094d\u0935\u093f\u0923\u094d\u0923\u094b \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u0903 \u0917\u0941\u0930\u0941\u092e\u0947\u0935 \u0906\u091a\u093e\u0930\u094d\u092f\u0902 \u0936\u092e\u0926\u092e\u093e\u0926\u093f\u0938\u092e\u094d\u092a\u0928\u094d\u0928\u092e\u094d \u0905\u092d\u093f\u0917\u091a\u094d\u091b\u0947\u0924\u094d\u00a0\u0964 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u091c\u094d\u091e\u094b\u093d\u092a\u093f \u0938\u094d\u0935\u093e\u0924\u0928\u094d\u0924\u094d\u0930\u094d\u092f\u0947\u0923 \u092c\u094d\u0930\u0939\u094d\u092e\u091c\u094d\u091e\u093e\u0928\u093e\u0928\u094d\u0935\u0947\u0937\u0923\u0902 \u0928 \u0915\u0941\u0930\u094d\u092f\u093e\u0926\u093f\u0924\u094d\u092f\u0947\u0924\u0926\u094d\u0917\u0941\u0930\u0941\u092e\u0947\u0935\u0947\u0924\u094d\u092f\u0935\u0927\u093e\u0930\u0923\u092b\u0932\u092e\u094d\u00a0\u0964 \u0938\u092e\u093f\u0924\u094d\u092a\u093e\u0923\u093f\u0903 \u0938\u092e\u093f\u0926\u094d\u092d\u093e\u0930\u0917\u0943\u0939\u0940\u0924\u0939\u0938\u094d\u0924\u0903 \u0936\u094d\u0930\u094b\u0924\u094d\u0930\u093f\u092f\u092e\u094d \u0905\u0927\u094d\u092f\u092f\u0928\u0936\u094d\u0930\u0941\u0924\u093e\u0930\u094d\u0925\u0938\u092e\u094d\u092a\u0928\u094d\u0928\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0928\u093f\u0937\u094d\u0920\u0902 \u0939\u093f\u0924\u094d\u0935\u093e \u0938\u0930\u094d\u0935\u0915\u0930\u094d\u092e\u093e\u0923\u093f \u0915\u0947\u0935\u0932\u0947\u093d\u0926\u094d\u0935\u092f\u0947 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093f \u0928\u093f\u0937\u094d\u0920\u093e \u092f\u0938\u094d\u092f \u0938\u094b\u093d\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0928\u093f\u0937\u094d\u0920\u0903 ; \u091c\u092a\u0928\u093f\u0937\u094d\u0920\u0938\u094d\u0924\u092a\u094b\u0928\u093f\u0937\u094d\u0920 \u0907\u0924\u093f \u092f\u0926\u094d\u0935\u0924\u094d\u00a0\u0964 \u0928 \u0939\u093f \u0915\u0930\u094d\u092e\u093f\u0923\u094b \u092c\u094d\u0930\u0939\u094d\u092e\u0928\u093f\u0937\u094d\u0920\u0924\u093e \u0938\u092e\u094d\u092d\u0935\u0924\u093f, \u0915\u0930\u094d\u092e\u093e\u0924\u094d\u092e\u091c\u094d\u091e\u093e\u0928\u092f\u094b\u0930\u094d\u0935\u093f\u0930\u094b\u0927\u093e\u0924\u094d\u00a0\u0964 \u0938 \u0924\u0902 \u0917\u0941\u0930\u0941\u0902 \u0935\u093f\u0927\u093f\u0935\u0926\u0941\u092a\u0938\u0928\u094d\u0928\u0903 \u092a\u094d\u0930\u0938\u093e\u0926\u094d\u092f \u092a\u0943\u091a\u094d\u091b\u0947\u0926\u0915\u094d\u0937\u0930\u0902 \u092a\u0941\u0930\u0941\u0937\u0902 \u0938\u0924\u094d\u092f\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014Now, this is said for the purpose of showing that only the person thoroughly disgusted with all samsara which is in the nature of ends and means, is entitled to acquire the para vidya . \u2018 Parikshya ,\u2019 well knowing that the subject of apara vidya consisting of the Rig, and other Vedas , performable by a person tainted with the defects of natural ignorance, desires and karma has been intended for a person possessed of such defects and after examining those worlds which are the fruits of such karma performed, attainable by the northern and southern routes and these others such as Hell, the world of beasts and the world of departed spirits, which are the result of the vices of not performing the prescribed karma and performing the forbidden karma ; after having examined these worlds with the aid of experience, inference, analogies and agamas , i.e.. determined the true nature of all these worlds attainable by one, within the pale of samsara , beginning from the avyakta down to the immovable, manifested and unmanifested in their nature, productive of each other like the seed and its sprout, agitated by a hundred thousand troubles, fragile like the womb of the plantain, similar in kind to illusion, the waters of the mirage, the shape of cities formed by the clouds in the sky, dreams, water-bubbles and foam and destroyed every moment and discarding all these as being produced by good and bad deeds and acquired by karma induced by the faults of ignorance and desire.\nThe word \u2018 Brahmana \u2019 is here used because the Brahmin is specially competent to acquire the knowledge of Brahman through wholesale renunciation. What he should do after examining these worlds is explained. \u2018 Nirvedam ,\u2019 the root vid with the prefix nih is here used in the sense of freedom from desires. The meaning is that he will get disgusted. The mode of disgust is thus shown: \u2018Here,\u2019 in samsara there is nothing which is not made; for, all worlds produced by karma are transitory. The meaning is: there is nothing eternal; for all karma is help to what is merely transitory. All that is produced by karma is one of four kinds, that which is produced, that which is reached, that which is refined and that which is modified; beyond this nothing can be done by karma. Hut I am a seeker after that consummation which is eternal, immortal, fearless, changeless, immovable and constant; but not after one of a contrary nature; of what use therefore is karma which is full of trouble and which leads to misery? Thus disgusted, the Brahmin should, for knowing that abode which is fearless, full of bliss, not made, and eternal, only approach a preceptor, possessing attributes such as control of mind, control of the external senses and mercy, etc., (the force of the word \u2018alone\u2019 is to show that even one versed in the recital of the sastras should not independently by himself seek the knowledge of the Brahman ) with a load of Samid in his hand.\n\u2018 Srotriyam ,\u2019 versed in the recital of the Vedas and the knowledge of its import. \u2018 Brahmanishtham \u2019; like japanishtha and taponishtha, this word means \u2018one who is centred in the Brahman devoid of attributes and without a second, after renouncing all karma ; for, one performing karma cannot be centred in the Brahman on account of the antagonism between karma and the knowledge of the Atman. Having duly approached the guru , let the Brahmin propitiate him and question him about the true and immortal Pursha."
+        "text": "कथम्? यस्य अग्निहोत्रिणः अग्निहोत्रम् अदर्शं दर्शाख्येन कर्मणा वर्जितम् । अग्निहोत्रिभिरवश्यकर्तव्यत्वाद्दर्शस्य । अग्निहोत्रिसम्बन्ध्यग्निहोत्रविशेषणमिव भवति । तदक्रियमाणमित्येतत् । तथा अपौर्णमासम् इत्यादिष्वप्यग्निहोत्रविशेषणत्वं द्रष्टव्यम् । अग्निहोत्राङ्गत्वस्याविशिष्टत्वात् । अपौर्णमासं पौर्णमासकर्मवर्जितम् । अचातुर्मास्यं चातुर्मास्यकर्मवर्जितम् । अनाग्रयणम् आग्रयणं शरदादिषु कर्तव्यम्, तच्च न क्रियते यस्य तत्तथा । अतिथिवर्जितं च अतिथिपूजनं चाहन्यहन्यक्रियमाणं यस्य । स्वयं सम्यगग्निहोत्रकाले अहुतम् । अदर्शादिवत् अवैश्वदेवं वैश्वदेवकर्मवर्जितम् । हूयमानमप्यविधिना हुतम् अयथाहुतमित्येतत् । एवं दुःसम्पादितमसम्पादितमग्निहोत्राद्युपलक्षितं कर्म किं करोतीत्युच्यते — आसप्तमान् सप्तमसहितान् तस्य कर्तुर्लोकान् हिनस्ति हिनस्तीव आयासमात्रफलत्वात् । सम्यक् क्रियमाणेषु हि कर्मसु कर्मपरिणामानुरूप्येण भूरादयः सत्यान्ताः सप्त लोकाः फलं प्राप्तव्यम् । ते लोकाः एवंभूतेनाग्निहोत्रादिकर्मणा त्वप्राप्यत्वाद्धिंस्यन्त इव, आयासमात्रं त्वव्यभिचारीत्यतो हिनस्तीत्युच्यते । पिण्डदानाद्यनुग्रहेण वा सम्बध्यमानाः पितृपितामहप्रपितामहाः पुत्रपौत्रप्रपौत्राः स्वात्मोपकाराः सप्त लोका उक्तप्रकारेणाग्निहोत्रादिना न भवन्तीति हिंस्यन्त इत्युच्यते ॥"
       }
     ],
     "commentary_faqs": []
@@ -437,15 +1241,1119 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-1",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
       "verse_number": 13,
       "chapter_number": 1,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145097.html"
+      "mantra_ref": "1.2.4",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u0948 \u0938 \u0935\u093f\u0926\u094d\u0935\u093e\u0928\u0941\u092a\u0938\u0928\u094d\u0928\u093e\u092f \u0938\u092e\u094d\u092f\u0915\u094d\u092a\u094d\u0930\u0936\u093e\u0928\u094d\u0924\u091a\u093f\u0924\u094d\u0924\u093e\u092f \u0936\u092e\u093e\u0928\u094d\u0935\u093f\u0924\u093e\u092f\u00a0\u0964 \n \u092f\u0947\u0928\u093e\u0915\u094d\u0937\u0930\u0902 \u092a\u0941\u0930\u0941\u0937\u0902 \u0935\u0947\u0926 \u0938\u0924\u094d\u092f\u0902 \u092a\u094d\u0930\u094b\u0935\u093e\u091a \u0924\u093e\u0902 \u0924\u0924\u094d\u0924\u094d\u0935\u0924\u094b \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u092e\u094d \u0965 \u0967\u0969 \u0965",
-    "transliteration": "tasmai sa vidv\u0101nupasann\u0101ya samyakpra\u015b\u0101ntacitt\u0101ya \u015bam\u0101nvit\u0101ya | yen\u0101k\u1e63ara\u1e43 puru\u1e63a\u1e43 veda satya\u1e43 prov\u0101ca t\u0101\u1e43 tattvato brahmavidy\u0101m || 13 ||",
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा । स्फुलिङ्गिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥ ४ ॥",
+    "transliteration": "kālī karālī ca manojavā ca sulohitā yā ca sudhūmravarṇā | sphuliṅginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ || 4 ||",
+    "translation": "4. Kali , karali, also manojava , sulothia , sudhumravarna , sphulingini , and visvaruchi are the seven moving tongues of fire.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "काली",
+        "word_english": "Kālī (the black one); name of a tongue of fire",
+        "grammar_role": "काली · प्रथमा·एक·स्त्री",
+        "root": "काली"
+      },
+      {
+        "word_sanskrit": "कराली",
+        "word_english": "Karālī (the terrible/gaping one); a tongue of fire",
+        "grammar_role": "कराली · प्रथमा·एक·स्त्री",
+        "root": "कराली"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "मनोजवा",
+        "word_english": "Manojavā, swift as thought; a tongue of fire",
+        "grammar_role": "मनोजवा (मनस्-जवा) · प्रथमा·एक·स्त्री",
+        "root": "मनोजवा"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "सुलोहिता",
+        "word_english": "Sulohitā, the very red one; a tongue of fire",
+        "grammar_role": "सुलोहिता (सु-लोहिता) · प्रथमा·एक·स्त्री",
+        "root": "सुलोहिता"
+      },
+      {
+        "word_sanskrit": "या",
+        "word_english": "and she who (is); relative pronoun",
+        "grammar_role": "यद् · प्रथमा·एक·स्त्री (सर्वनाम)",
+        "root": "या"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "सुधूम्रवर्णा",
+        "word_english": "Sudhūmravarṇā, of smoke-grey color; a tongue of fire",
+        "grammar_role": "सुधूम्रवर्णा (सु-धूम्र-वर्णा) · प्रथमा·एक·स्त्री",
+        "root": "सुधूम्रवर्णा"
+      },
+      {
+        "word_sanskrit": "स्फुलिङ्गिनी",
+        "word_english": "Sphuliṅginī, the spark-emitting one; a tongue of fire",
+        "grammar_role": "स्फुलिङ्गिनी · प्रथमा·एक·स्त्री",
+        "root": "स्फुलिङ्गिनी"
+      },
+      {
+        "word_sanskrit": "विश्वरुची",
+        "word_english": "Viśvarucī, all-illuminating; a tongue of fire",
+        "grammar_role": "विश्वरुची (विश्व-रुची) · प्रथमा·एक·स्त्री",
+        "root": "विश्वरुची"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "देवी",
+        "word_english": "the shining/divine one (qualifying these tongues)",
+        "grammar_role": "देवी · प्रथमा·एक·स्त्री",
+        "root": "देवी"
+      },
+      {
+        "word_sanskrit": "लेलायमाना",
+        "word_english": "flickering, flaming (the seven tongues of fire)",
+        "grammar_role": "√ली (लेलाय्, यङ्लुगन्त) · शानच्·प्रथमा·बहु·स्त्री",
+        "root": "लेलायमानाः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (closing the enumeration)",
+        "grammar_role": "अव्यय (समाप्तौ/एवमर्थे)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "सप्त",
+        "word_english": "seven",
+        "grammar_role": "सप्तन् · प्रथमा·बहु (संख्या, त्रिलिङ्ग)",
+        "root": "सप्त"
+      },
+      {
+        "word_sanskrit": "जिह्वाः",
+        "word_english": "tongues (flames) of the fire",
+        "grammar_role": "जिह्वा · प्रथमा·बहु·स्त्री",
+        "root": "जिह्वाः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "4. Kali , karali, also manojava , sulothia , sudhumravarna , sphulingini , and visvaruchi are the seven moving tongues of fire."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा । स्फुलिङ्गिनी विश्वरुची च देवी लेलायमाना दहनस्य जिह्वाः । काल्याद्या विश्वरुच्यन्ता लेलायमानाः अग्नेर्हविराहुतिग्रसनार्था एताः किल सप्त जिह्वाः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_14",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 14,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.5",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "एतेषु यश्चरते भ्राजमानेषु यथाकालं चाहुतयो ह्याददायन् । तं नयन्त्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः ॥ ५ ॥",
+    "transliteration": "eteṣu yaścarate bhrājamāneṣu yathākālaṃ cāhutayo hyādadāyan | taṃ nayantyetāḥ sūryasya raśmayo yatra devānāṃ patireko'dhivāsaḥ || 5 ||",
+    "translation": "5. Him who performed karma ( agnihotra ) in the bright flames at the proper time, these oblations, performed by him, conduct through the rays of the sun where the Lord of the Devas is sole sovereign.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "एतेषु",
+        "word_english": "in these (the blazing fire-tongue divisions, agnijihvābhedeṣu)",
+        "grammar_role": "एतद् · सप्तमी·बहु·पुं",
+        "root": "एतेषु"
+      },
+      {
+        "word_sanskrit": "यश्चरते",
+        "word_english": "who (the agnihotrin) performs (the agnihotra and other rites)",
+        "grammar_role": "यद् · प्रथमा·एक·पुं + √चर् · लट्·प्रथमपुरुष·एक·आत्मनेपद",
+        "root": "यः + चरते"
+      },
+      {
+        "word_sanskrit": "भ्राजमानेषु",
+        "word_english": "among (these) blazing, shining (flames) — glossed dīpyamāneṣu",
+        "grammar_role": "भ्राजमान (√भ्राज्, शानच्) · सप्तमी·बहु·पुं",
+        "root": "भ्राजमानेषु"
+      },
+      {
+        "word_sanskrit": "यथाकालं",
+        "word_english": "at the proper time, not overstepping the appointed time of each rite",
+        "grammar_role": "यथाकाल · अव्ययीभाव-समास · अव्यय (क्रियाविशेषण)",
+        "root": "यथाकालम्"
+      },
+      {
+        "word_sanskrit": "चाहुतयो",
+        "word_english": "and the oblations",
+        "grammar_role": "च · अव्यय (समुच्चय) + आहुति · प्रथमा·बहु·स्त्री",
+        "root": "च + आहुतयः"
+      },
+      {
+        "word_sanskrit": "ह्याददायन्",
+        "word_english": "for (the oblations), taking up / carrying off (the sacrificer) — bhāṣya: ādadānā āhutayaḥ",
+        "grammar_role": "हि · अव्यय (हेतौ) + आददान/आददत् (√दा, शानच्-कृदन्त) · प्रथमा·बहु·स्त्री (आहुतयः-विशेषणम्)",
+        "root": "हि + आददायन्"
+      },
+      {
+        "word_sanskrit": "तं",
+        "word_english": "him (the sacrificer, yajamāna)",
+        "grammar_role": "तद् · द्वितीया·एक·पुं",
+        "root": "तम्"
+      },
+      {
+        "word_sanskrit": "नयन्त्येताः",
+        "word_english": "these (oblations) lead (him along)",
+        "grammar_role": "√नी · लट्·प्रथमपुरुष·बहु·परस्मैपद + एतद् · प्रथमा·बहु·स्त्री",
+        "root": "नयन्ति + एताः"
+      },
+      {
+        "word_sanskrit": "सूर्यस्य",
+        "word_english": "of the sun",
+        "grammar_role": "सूर्य · षष्ठी·एक·पुं",
+        "root": "सूर्यस्य"
+      },
+      {
+        "word_sanskrit": "रश्मयो",
+        "word_english": "the rays (the oblations, having become the sun's rays, lead him by way of the rays)",
+        "grammar_role": "रश्मि · प्रथमा·बहु·पुं",
+        "root": "रश्मयः"
+      },
+      {
+        "word_sanskrit": "यत्र",
+        "word_english": "where (in which heaven)",
+        "grammar_role": "यत्र · अव्यय (अधिकरणार्थक)",
+        "root": "यत्र"
+      },
+      {
+        "word_sanskrit": "देवानां",
+        "word_english": "of the gods",
+        "grammar_role": "देव · षष्ठी·बहु·पुं",
+        "root": "देवानाम्"
+      },
+      {
+        "word_sanskrit": "पतिरेकोऽधिवासः",
+        "word_english": "(where) Indra, the one lord, is the over-dweller — he who, being the one, abides (adhi vasati) above all (adhivāsaḥ)",
+        "grammar_role": "पति · प्रथमा·एक·पुं + एक · प्रथमा·एक·पुं + अधिवास · प्रथमा·एक·पुं",
+        "root": "पतिः + एकः + अधिवासः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "5. Him who performed karma ( agnihotra ) in the bright flames at the proper time, these oblations, performed by him, conduct through the rays of the sun where the Lord of the Devas is sole sovereign."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "एतेषु अग्निजिह्वाभेदेषु यः अग्निहोत्री चरते कर्माचरत्यग्निहोत्रादिकं भ्राजमानेषु दीप्यमानेषु । यथाकालं च यस्य कर्मणो यः कालस्तं कालमनतिक्रम्य यथाकालं यजमानम् आददायन् आददाना आहुतयः तं नयन्ति प्रापयन्ति । एताः आहुतयो या इमा अनेन निर्वर्तिताः सूर्यस्य रश्मयः भूत्वा, रश्मिद्वारैरित्यर्थः । यत्र यस्मिन्स्वर्गे देवानां पतिः इन्द्रः एकः सर्वानुपरि अधि वसतीति अधिवासः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_15",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 15,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.6",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "एह्येहीति तमाहुतयः सुवर्चसः सूर्यस्य रश्मिभिर्यजमानं वहन्ति । प्रियां वाचमभिवदन्त्योऽर्चयन्त्य एष वः पुण्यः सुकृतो ब्रह्मलोकः ॥ ६ ॥",
+    "transliteration": "ehyehīti tamāhutayaḥ suvarcasaḥ sūryasya raśmibhiryajamānaṃ vahanti | priyāṃ vācamabhivadantyo'rcayantya eṣa vaḥ puṇyaḥ sukṛto brahmalokaḥ || 6 ||",
+    "translation": "6. These oblations shining bright carry the sacrificer through the rays of the sun bidding him welcome, propitiating him and greeting him with pleasing words. This is the well-laid path of virtue leading to Brahmaloka.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "एह्येहीति",
+        "word_english": "saying \"come, come!\" (the repeated imperative एहि, then इति marking the quoted call)",
+        "grammar_role": "एहि (आ + √इ) · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद + एहि (पुनरुक्तम्, तदेव) + इति (अव्यय)",
+        "root": "एहि + एहि + इति"
+      },
+      {
+        "word_sanskrit": "तमाहुतयः",
+        "word_english": "him (the sacrificer); the oblations (subject, calling him)",
+        "grammar_role": "तद् · द्वितीया·एकवचन·पुंलिङ्ग + आहुति · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "तम् + आहुतयः"
+      },
+      {
+        "word_sanskrit": "सुवर्चसः",
+        "word_english": "lustrous, radiant (दीप्तिमत्यः; the oblations)",
+        "grammar_role": "सुवर्चस् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "सुवर्चसः"
+      },
+      {
+        "word_sanskrit": "सूर्यस्य",
+        "word_english": "of the sun",
+        "grammar_role": "सूर्य · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "सूर्यस्य"
+      },
+      {
+        "word_sanskrit": "रश्मिभिर्यजमानं",
+        "word_english": "by the rays; the sacrificer (object carried)",
+        "grammar_role": "रश्मि · तृतीया·बहुवचन·पुंलिङ्ग + यजमान · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "रश्मिभिः + यजमानम्"
+      },
+      {
+        "word_sanskrit": "वहन्ति",
+        "word_english": "they (the oblations) carry, convey",
+        "grammar_role": "√वह् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "वहन्ति"
+      },
+      {
+        "word_sanskrit": "प्रियां",
+        "word_english": "dear, pleasant, desired (इष्टाम्; qualifying speech)",
+        "grammar_role": "प्रिय (स्त्री. प्रिया) · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "प्रियाम्"
+      },
+      {
+        "word_sanskrit": "वाचमभिवदन्त्योऽर्चयन्त्य",
+        "word_english": "speech; (the oblations) uttering (उच्चारयन्त्यः the dear speech) and honoring/worshipping (पूजयन्त्यः the sacrificer)",
+        "grammar_role": "वाच् · द्वितीया·एकवचन·स्त्रीलिङ्ग + √वद् (अभि-वद्) · शतृ, प्रथमा·बहुवचन·स्त्रीलिङ्ग + √अर्च् · शतृ (णिजन्त अर्चयत्), प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "वाचम् + अभिवदन्त्यः + अर्चयन्त्यः"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this",
+        "grammar_role": "एतद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "वः",
+        "word_english": "your, of you (yours)",
+        "grammar_role": "युष्मद् · षष्ठी·बहुवचन (= युष्माकम्)",
+        "root": "वः"
+      },
+      {
+        "word_sanskrit": "पुण्यः",
+        "word_english": "meritorious, holy (qualifying the brahma-world)",
+        "grammar_role": "पुण्य · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "पुण्यः"
+      },
+      {
+        "word_sanskrit": "सुकृतो",
+        "word_english": "won by good deeds, well-earned",
+        "grammar_role": "सुकृत · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सुकृतः"
+      },
+      {
+        "word_sanskrit": "ब्रह्मलोकः",
+        "word_english": "the brahma-world, i.e. heaven (स्वर्गः, by context)",
+        "grammar_role": "ब्रह्मलोक · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "ब्रह्म-लोकः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "6. These oblations shining bright carry the sacrificer through the rays of the sun bidding him welcome, propitiating him and greeting him with pleasing words. This is the well-laid path of virtue leading to Brahmaloka."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "कथं सूर्यस्य रश्मिभिर्यजमानं वहन्तीत्युच्यते — एहि एहि इति आह्वयन्त्यः तं यजमानम् आहुतयः सुवर्चसः दीप्तिमत्यः; किञ्च, प्रियाम् इष्टां वाचं स्तुत्यादिलक्षणाम् अभिवदन्त्यः उच्चारयन्त्यः अर्चयन्त्यः पूजयन्त्यश्च एषः वः युष्माकं पुण्यः सुकृतः ब्रह्मलोकः फलरूपः, इत्थं प्रियां वाचम् अभिवदन्त्यो वहन्तीत्यर्थः । ब्रह्मलोकः स्वर्गः प्रकरणात् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_16",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 16,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.7",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "प्लवा ह्येते अदृढा यज्ञरूपा अष्टादशोक्तमवरं येषु कर्म । एतच्छ्रेयो येऽभिनन्दन्ति मूढा जरामृत्युं ते पुनरेवापि यन्ति ॥ ७ ॥",
+    "transliteration": "plavā hyete adṛḍhā yajñarūpā aṣṭādaśoktamavaraṃ yeṣu karma | etacchreyo ye'bhinandanti mūḍhā jarāmṛtyuṃ te punarevāpi yanti || 7 ||",
+    "translation": "7. The eighteen persons necessary for the performance of sacrifice are transitory and not permanent and karma in its nature inferior, has been stated as resting upon these. Those ignorant persons who delight in this, as leading to bliss, again fall into decay and death.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्लवा",
+        "word_english": "frail rafts; Śaṅkara glosses as विनाशिनः 'perishable' (predicate of the rites)",
+        "grammar_role": "प्लव · प्रथमा·बहु·पुं",
+        "root": "प्लवाः"
+      },
+      {
+        "word_sanskrit": "ह्येते",
+        "word_english": "for these (rites are perishable)",
+        "grammar_role": "हि (अव्यय, हेतु) + एतद् · प्रथमा·बहु·पुं",
+        "root": "हि + एते"
+      },
+      {
+        "word_sanskrit": "अदृढा",
+        "word_english": "not firm, unstable (अस्थिराः)",
+        "grammar_role": "अदृढ · प्रथमा·बहु·पुं",
+        "root": "अदृढाः"
+      },
+      {
+        "word_sanskrit": "यज्ञरूपा",
+        "word_english": "having the form of sacrifice; i.e. effecting the sacrifice (यज्ञनिर्वर्तकाः)",
+        "grammar_role": "यज्ञरूप · प्रथमा·बहु·पुं (बहुव्रीहि)",
+        "root": "यज्ञ-रूपाः"
+      },
+      {
+        "word_sanskrit": "अष्टादशोक्तमवरं",
+        "word_english": "eighteen (the 16 priests, the wife, and the sacrificer); (the rite is) declared (by scripture); inferior/lower (mere action devoid of knowledge)",
+        "grammar_role": "अष्टादशन् · प्रथमा·बहु (सङ्ख्या) + उक्त · प्रथमा·एक·नपुं + अवर · प्रथमा·एक·नपुं",
+        "root": "अष्टादश + उक्तम् + अवरम्"
+      },
+      {
+        "word_sanskrit": "येषु",
+        "word_english": "in which (eighteen) [the inferior karma is declared]",
+        "grammar_role": "यद् · सप्तमी·बहु·पुं",
+        "root": "येषु"
+      },
+      {
+        "word_sanskrit": "कर्म",
+        "word_english": "the rite, action",
+        "grammar_role": "कर्मन् · प्रथमा·एक·नपुं",
+        "root": "कर्म"
+      },
+      {
+        "word_sanskrit": "एतच्छ्रेयो",
+        "word_english": "this (rite as) the better, the means to good (श्रेयःसाधनम्)",
+        "grammar_role": "एतद् · प्रथमा·एक·नपुं + श्रेयस् · प्रथमा·एक·नपुं",
+        "root": "एतत् + श्रेयः"
+      },
+      {
+        "word_sanskrit": "येऽभिनन्दन्ति",
+        "word_english": "(those undiscerning ones) who rejoice in / extol (it)",
+        "grammar_role": "यद् · प्रथमा·बहु·पुं + √नन्द् (अभि) · लट्·प्रथम·बहु·परस्मै",
+        "root": "ये + अभिनन्दन्ति"
+      },
+      {
+        "word_sanskrit": "मूढा",
+        "word_english": "the deluded, undiscerning (अविवेकिनः)",
+        "grammar_role": "मूढ · प्रथमा·बहु·पुं",
+        "root": "मूढाः"
+      },
+      {
+        "word_sanskrit": "जरामृत्युं",
+        "word_english": "old age and death (जरां च मृत्युं च)",
+        "grammar_role": "जरामृत्यु · द्वितीया·एक·पुं (द्वन्द्व, समाहार)",
+        "root": "जरा-मृत्युम्"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "they",
+        "grammar_role": "तद् · प्रथमा·बहु·पुं",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "पुनरेवापि",
+        "word_english": "yet again, once more (भूयोऽपि)",
+        "grammar_role": "पुनर् (अव्यय) + एव (अव्यय) + अपि (अव्यय)",
+        "root": "पुनर् + एव + अपि"
+      },
+      {
+        "word_sanskrit": "यन्ति",
+        "word_english": "they go (back), return [to old age and death, after a time in heaven]",
+        "grammar_role": "√इ (इण्, अदादि) · लट्·प्रथम·बहु·परस्मै",
+        "root": "यन्ति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "7. The eighteen persons necessary for the performance of sacrifice are transitory and not permanent and karma in its nature inferior, has been stated as resting upon these. Those ignorant persons who delight in this, as leading to bliss, again fall into decay and death."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "एतच्च ज्ञानरहितं कर्मैतावत्फलमविद्याकामकर्मकार्यम् अतोऽसारं दुःखमूलमिति निन्द्यते — प्लवाः विनाशिन इत्यर्थः । हि यस्मात् एते अदृढाः अस्थिराः यज्ञरूपाः यज्ञस्य रूपाणि यज्ञरूपाः यज्ञनिर्वर्तकाः अष्टादश अष्टादशसङ्ख्याकाः षोडशर्त्विजः पत्नी यजमानश्चेत्यष्टादश । एतदाश्रयं कर्म उक्तं कथितं शास्त्रेण येषु अष्टादशसु अवरं केवलं ज्ञानवर्जितं कर्म । अतस्तेषामवरकर्माश्रयाणामष्टादशानामदृढतया प्लवत्वात्प्लवते सह फलेन तत्साध्यं कर्म; कुण्डविनाशादिव क्षीरदध्यादीनां तत्स्थानां नाशः; यत एवम् एतत् कर्म श्रेयः श्रेयःसाधनमिति ये अभिनन्दन्ति अभिहृष्यन्ति अविवेकिनः मूढाः, अतः ते जरां च मृत्युं च जरामृत्युं कञ्चित्कालं स्वर्गे स्थित्वा पुनरेव अपि यन्ति भूयोऽपि गच्छन्ति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_17",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 17,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.8",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "अविद्यायामन्तरे वर्तमानाः स्वयं धीराः पण्डितंमन्यमानाः । जङ्घन्यमानाः परियन्ति मूढा अन्धेनैव नीयमाना यथान्धाः ॥ ८ ॥",
+    "transliteration": "avidyāyāmantare vartamānāḥ svayaṃ dhīrāḥ paṇḍitaṃmanyamānāḥ | jaṅghanyamānāḥ pariyanti mūḍhā andhenaiva nīyamānā yathāndhāḥ || 8 ||",
+    "translation": "8. Being in the midst of ignorance and thinking in their own minds that they are intelligent and learned, the ignorant wander, afflicted with troubles, like the blind led by the blind.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अविद्यायामन्तरे",
+        "word_english": "dwelling in the midst of ignorance",
+        "grammar_role": "अविद्या · सप्तमी·एक·स्त्री + अन्तर · सप्तमी·एक·नपुं (मध्ये)",
+        "root": "अविद्यायाम् + अन्तरे"
+      },
+      {
+        "word_sanskrit": "वर्तमानाः",
+        "word_english": "abiding, existing (the undiscerning ones)",
+        "grammar_role": "√वृत् (आत्मनेपद) · वर्तमान (शानच्) · प्रथमा·बहु·पुं",
+        "root": "वर्तमानाः"
+      },
+      {
+        "word_sanskrit": "स्वयं",
+        "word_english": "themselves, by oneself (we ourselves)",
+        "grammar_role": "स्वयम् · अव्यय",
+        "root": "स्वयम्"
+      },
+      {
+        "word_sanskrit": "धीराः",
+        "word_english": "wise, intelligent",
+        "grammar_role": "धीर · प्रथमा·बहु·पुं",
+        "root": "धीराः"
+      },
+      {
+        "word_sanskrit": "पण्डितंमन्यमानाः",
+        "word_english": "thinking themselves learned",
+        "grammar_role": "पण्डित · द्वितीया·एक·पुं + √मन् · मन्यमान (शानच्) · प्रथमा·बहु·पुं",
+        "root": "पण्डितम् + मन्यमानाः"
+      },
+      {
+        "word_sanskrit": "जङ्घन्यमानाः",
+        "word_english": "being repeatedly struck, sorely afflicted",
+        "grammar_role": "√हन् (यङन्त, कर्मणि) · जङ्घन्यमान · प्रथमा·बहु·पुं",
+        "root": "जङ्घन्यमानाः"
+      },
+      {
+        "word_sanskrit": "परियन्ति",
+        "word_english": "they wander about, go around",
+        "grammar_role": "परि-√इ · लट्·प्रथमपुरुष·बहु·परस्मैपद",
+        "root": "परि + यन्ति"
+      },
+      {
+        "word_sanskrit": "मूढा",
+        "word_english": "the deluded ones, fools",
+        "grammar_role": "मूढ · प्रथमा·बहु·पुं",
+        "root": "मूढाः"
+      },
+      {
+        "word_sanskrit": "अन्धेनैव",
+        "word_english": "by a blind man alone (sightless)",
+        "grammar_role": "अन्ध · तृतीया·एक·पुं + एव · अव्यय",
+        "root": "अन्धेन + एव"
+      },
+      {
+        "word_sanskrit": "नीयमाना",
+        "word_english": "being led (shown the path)",
+        "grammar_role": "√नी (कर्मणि) · नीयमान (शानच्) · प्रथमा·बहु·पुं",
+        "root": "नीयमानाः"
+      },
+      {
+        "word_sanskrit": "यथान्धाः",
+        "word_english": "just as the blind",
+        "grammar_role": "यथा · अव्यय + अन्ध · प्रथमा·बहु·पुं",
+        "root": "यथा + अन्धाः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "8. Being in the midst of ignorance and thinking in their own minds that they are intelligent and learned, the ignorant wander, afflicted with troubles, like the blind led by the blind."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "किञ्च, अविद्यायाम् अन्तरे मध्ये वर्तमानाः अविवेकप्रायाः स्वयं वयमेव धीराः धीमन्तः पण्डिता विदितवेदितव्याश्चेति मन्यमाना आत्मानं सम्भावयन्तः, ते च जङ्घन्यमानाः जरारोगाद्यनेकानर्थव्रातैर्हन्यमाना भृशं पीड्यमानाः परियन्ति विभ्रमन्ति मूढाः । दर्शनवर्जितत्वात् अन्धेनैव अचक्षुष्केणैव नीयमानाः प्रदर्श्यमानमार्गाः; यथा लोके अन्धाः चक्षूरहिता गर्तकण्टकादौ पतन्ति, तद्वत् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_18",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 18,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.9",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "अविद्यायां बहुधा वर्तमाना वयं कृतार्था इत्यभिमन्यन्ति बालाः । यत्कर्मिणो न प्रवेदयन्ति रागात्तेनातुराः क्षीणलोकाश्च्यवन्ते ॥ ९ ॥",
+    "transliteration": "avidyāyāṃ bahudhā vartamānā vayaṃ kṛtārthā ityabhimanyanti bālāḥ | yatkarmiṇo na pravedayanti rāgāttenāturāḥ kṣīṇalokāścyavante || 9 ||",
+    "translation": "9. The ignorant following the diverse ways of ignorance, flatter themselves that their objects have been accomplished. As these followers of karma do not learn the truth owing to their desire, they grow miserable and after the fruits of their karma are consumed, fall from Heaven.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अविद्यायां",
+        "word_english": "in ignorance",
+        "grammar_role": "अविद्या · सप्तमी·एकवचन·स्त्रीलिङ्ग",
+        "root": "अविद्यायाम्"
+      },
+      {
+        "word_sanskrit": "बहुधा",
+        "word_english": "in many ways, manifoldly",
+        "grammar_role": "अव्यय (क्रियाविशेषण) · बहुप्रकारम्",
+        "root": "बहुधा"
+      },
+      {
+        "word_sanskrit": "वर्तमाना",
+        "word_english": "(those) abiding, conducting themselves",
+        "grammar_role": "√वृत् · वर्तमान (शानच्) · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "वर्तमानाः"
+      },
+      {
+        "word_sanskrit": "वयं",
+        "word_english": "we ourselves",
+        "grammar_role": "अस्मद् · प्रथमा·बहुवचन",
+        "root": "वयम्"
+      },
+      {
+        "word_sanskrit": "कृतार्था",
+        "word_english": "(we) have accomplished (our) purpose",
+        "grammar_role": "कृत-अर्थ · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "कृतार्थाः"
+      },
+      {
+        "word_sanskrit": "इत्यभिमन्यन्ति",
+        "word_english": "thus they (proudly) imagine, take pride",
+        "grammar_role": "इति · अव्यय (एवम्) + √मन् (अभि) · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद (आर्ष; सामान्यतः आत्मनेपद अभिमन्यन्ते)",
+        "root": "इति + अभिमन्यन्ति"
+      },
+      {
+        "word_sanskrit": "बालाः",
+        "word_english": "the ignorant ones, fools",
+        "grammar_role": "बाल · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "बालाः"
+      },
+      {
+        "word_sanskrit": "यत्कर्मिणो",
+        "word_english": "because the doers-of-rites (ritualists)",
+        "grammar_role": "यद् · अव्यय (यस्मात्, कारणार्थे) + कर्मिन् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "यत् + कर्मिणः"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "अव्यय (निषेधे)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "प्रवेदयन्ति",
+        "word_english": "do not know (the truth)",
+        "grammar_role": "√विद् (प्र, णिच्) · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "प्रवेदयन्ति"
+      },
+      {
+        "word_sanskrit": "रागात्तेनातुराः",
+        "word_english": "from attachment (to fruits); by that cause; afflicted, pained",
+        "grammar_role": "राग · पञ्चमी·एकवचन·पुंलिङ्ग + तद् · तृतीया·एकवचन·पुंलिङ्ग + आतुर · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "रागात् + तेन + आतुराः"
+      },
+      {
+        "word_sanskrit": "क्षीणलोकाश्च्यवन्ते",
+        "word_english": "with merits spent, they fall (from heaven)",
+        "grammar_role": "क्षीण-लोक · प्रथमा·बहुवचन·पुंलिङ्ग + √च्यु · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "क्षीण-लोकाः + च्यवन्ते"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "9. The ignorant following the diverse ways of ignorance, flatter themselves that their objects have been accomplished. As these followers of karma do not learn the truth owing to their desire, they grow miserable and after the fruits of their karma are consumed, fall from Heaven."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "किञ्च, अविद्यायां बहुधा बहुप्रकारं वर्तमानाः वयमेव कृतार्थाः कृतप्रयोजनाः इति एवम् अभिमन्यन्ति अभिमन्यन्ते अभिमानं कुर्वन्ति बालाः अज्ञानिनः । यत् यस्मादेवं कर्मिणः न प्रवेदयन्ति तत्त्वं न जानन्ति रागात् कर्मफलरागाभिभवनिमित्तम्, तेन कारणेन आतुराः दुःखार्ताः सन्तः क्षीणलोकाः क्षीणकर्मफलाः स्वर्गलोकात् च्यवन्ते ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_19",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 19,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.10",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "इष्टापूर्तं मन्यमाना वरिष्ठं नान्यच्छ्रेयो वेदयन्ते प्रमूढाः । नाकस्य पृष्ठे ते सुकृतेऽनुभूत्वेमं लोकं हीनतरं वा विशन्ति ॥ १० ॥",
+    "transliteration": "iṣṭāpūrtaṃ manyamānā variṣṭhaṃ nānyacchreyo vedayante pramūḍhāḥ | nākasya pṛṣṭhe te sukṛte'nubhūtvemaṃ lokaṃ hīnataraṃ vā viśanti || 10 ||",
+    "translation": "10. These ignorant men regarding sacrificial and charitable acts as most important, do not know any other help to bliss; having enjoyed in the heights of Heaven the abode of pleasures, they enter again into this or even inferior world.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "इष्टापूर्तं",
+        "word_english": "śrauta sacrifice (iṣṭa) and smārta charitable works (pūrta: wells, tanks, etc.) — object",
+        "grammar_role": "इष्ट-पूर्त (द्वन्द्व) · द्वितीया·एकवचन·नपुंसक",
+        "root": "इष्ट + पूर्तम्"
+      },
+      {
+        "word_sanskrit": "मन्यमाना",
+        "word_english": "thinking, considering (they who consider iṣṭāpūrta to be highest)",
+        "grammar_role": "√मन् (शानच्) · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "मन्यमानाः"
+      },
+      {
+        "word_sanskrit": "वरिष्ठं",
+        "word_english": "(as) best, highest, foremost (pradhāna) — predicate of iṣṭāpūrta",
+        "grammar_role": "वरिष्ठ · द्वितीया·एकवचन·नपुंसक",
+        "root": "वरिष्ठम्"
+      },
+      {
+        "word_sanskrit": "नान्यच्छ्रेयो",
+        "word_english": "not any other (means to) the good — i.e. they do not know the ātmajñāna that is the means to śreyas",
+        "grammar_role": "अव्यय (निषेध) + अन्य · द्वितीया·एकवचन·नपुंसक + श्रेयस् · द्वितीया·एकवचन·नपुंसक",
+        "root": "न + अन्यत् + श्रेयः"
+      },
+      {
+        "word_sanskrit": "वेदयन्ते",
+        "word_english": "they know, they are aware of (bhāṣya: jānanti)",
+        "grammar_role": "√विद् (णिच्) · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "वेदयन्ते"
+      },
+      {
+        "word_sanskrit": "प्रमूढाः",
+        "word_english": "the deluded ones, fools (deluded through heedlessness toward sons, cattle, kin, etc.)",
+        "grammar_role": "प्र-मुह् (क्त) · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "प्रमूढाः"
+      },
+      {
+        "word_sanskrit": "नाकस्य",
+        "word_english": "of heaven (svarga)",
+        "grammar_role": "नाक · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "नाकस्य"
+      },
+      {
+        "word_sanskrit": "पृष्ठे",
+        "word_english": "on the back / summit, the upper region (upari-sthāna)",
+        "grammar_role": "पृष्ठ · सप्तमी·एकवचन·नपुंसक",
+        "root": "पृष्ठे"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "they (those deluded ones)",
+        "grammar_role": "तद् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "सुकृतेऽनुभूत्वेमं",
+        "word_english": "in the abode of merit (bhogāyatana), having enjoyed (the fruit of action), this",
+        "grammar_role": "सुकृत · सप्तमी·एकवचन·नपुंसक + √भू (अनु, क्त्वा) अव्यय + इदम् · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "सुकृते + अनुभूत्वा + इमम्"
+      },
+      {
+        "word_sanskrit": "लोकं",
+        "word_english": "world (this human world, mānuṣa)",
+        "grammar_role": "लोक · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "लोकम्"
+      },
+      {
+        "word_sanskrit": "हीनतरं",
+        "word_english": "(a) lower, more inferior (world) — viz. beasts, hell, etc., per remaining karma",
+        "grammar_role": "हीनतर · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "हीनतरम्"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "or",
+        "grammar_role": "अव्यय (विकल्प)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "विशन्ति",
+        "word_english": "they enter (according to the remainder of their karma)",
+        "grammar_role": "√विश् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "विशन्ति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "10. These ignorant men regarding sacrificial and charitable acts as most important, do not know any other help to bliss; having enjoyed in the heights of Heaven the abode of pleasures, they enter again into this or even inferior world."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "इष्टापूर्तम् इष्टं यागादि श्रौतं कर्म पूर्तं स्मार्तं वापीकूपतडागादिकर्म मन्यमानाः एतदेवातिशयेन पुरुषार्थसाधनं वरिष्ठं प्रधानमिति चिन्तयन्तः, अन्यत् आत्मज्ञानाख्यं श्रेयःसाधनं न वेदयन्ते न जानन्ति प्रमूढाः पुत्रपशुबान्धवादिषु प्रमत्ततया मूढाः; ते च नाकस्य स्वर्गस्य पृष्ठे उपरिस्थाने सुकृते भोगायतने अनुभूत्वा अनुभूय कर्मफलं पुनः इमं लोकं मानुषम् अस्मात् हीनतरं वा तिर्यङ्नरकादिलक्षणं यथाकर्मशेषं विशन्ति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_20",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 20,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.11",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "तपःश्रद्धे ये ह्युपवसन्त्यरण्ये शान्ता विद्वांसो भैक्षचर्यां चरन्तः । सूर्यद्वारेण ते विरजाः प्रयान्ति यत्रामृतः स पुरुषो ह्यव्ययात्मा ॥ ११ ॥",
+    "transliteration": "tapaḥśraddhe ye hyupavasantyaraṇye śāntā vidvāṃso bhaikṣacaryāṃ carantaḥ | sūryadvāreṇa te virajāḥ prayānti yatrāmṛtaḥ sa puruṣo hyavyayātmā || 11 ||",
+    "translation": "11. But they who perform tapas and sraddha in the forest, having a control over their senses, learned and living the life of a mendicant, go through the orb of the sun, their good and bad deeds consumed, to where the immortal and undecaying purusha is.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तपःश्रद्धे",
+        "word_english": "austerity and faith (the two; obj. of उपवसन्ति — 'they serve/resort to')",
+        "grammar_role": "तपस्-श्रद्धा (इतरेतरद्वन्द्वः) · प्रथमा/द्वितीया·द्वि·स्त्री",
+        "root": "तपः-श्रद्धे"
+      },
+      {
+        "word_sanskrit": "ये",
+        "word_english": "those who",
+        "grammar_role": "यद् · प्रथमा·बहु·पुं",
+        "root": "ये"
+      },
+      {
+        "word_sanskrit": "ह्युपवसन्त्यरण्ये",
+        "word_english": "for they serve/dwell (in/upon them), being in the forest",
+        "grammar_role": "हि (अव्यय, हेत्वर्थ) + √वस् (उप-) · लट्·प्रथम·बहु·परस्मै + अरण्य · सप्तमी·एक·नपुं",
+        "root": "हि + उपवसन्ति + अरण्ये"
+      },
+      {
+        "word_sanskrit": "शान्ता",
+        "word_english": "calm, with the group of senses at rest (उपरतकरणग्रामाः)",
+        "grammar_role": "शान्त · प्रथमा·बहु·पुं",
+        "root": "शान्ताः"
+      },
+      {
+        "word_sanskrit": "विद्वांसो",
+        "word_english": "the learned — i.e. knowledge-predominant householders (Śaṅkara: गृहस्थाश्च ज्ञानप्रधानाः)",
+        "grammar_role": "विद्वस् (क्वसु) · प्रथमा·बहु·पुं",
+        "root": "विद्वांसः"
+      },
+      {
+        "word_sanskrit": "भैक्षचर्यां",
+        "word_english": "the practice of mendicancy (begging; from non-acquisition, परिग्रहाभावात्)",
+        "grammar_role": "भैक्ष-चर्या (तत्पुरुषसमास) · द्वितीया·एक·स्त्री",
+        "root": "भैक्ष-चर्याम्"
+      },
+      {
+        "word_sanskrit": "चरन्तः",
+        "word_english": "practicing, going about (begging)",
+        "grammar_role": "√चर् (शतृ, चरत्) · प्रथमा·बहु·पुं",
+        "root": "चरन्तः"
+      },
+      {
+        "word_sanskrit": "सूर्यद्वारेण",
+        "word_english": "by the door of the sun — i.e. the northern path marked by the sun (सूर्योपलक्षितेन उत्तरेण पथा)",
+        "grammar_role": "सूर्य-द्वार (तत्पुरुषसमास) · तृतीया·एक·नपुं",
+        "root": "सूर्य-द्वारेण"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "they",
+        "grammar_role": "तद् · प्रथमा·बहु·पुं",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "विरजाः",
+        "word_english": "free of dust (rajas), i.e. their merit-and-demerit (puṇya-pāpa) exhausted",
+        "grammar_role": "विरजस् · प्रथमा·एक·पुं (रूपतः एकवचन; तेऽनुसारेण बहुत्वार्थः) — Śaṅkara glosses विरजसः",
+        "root": "विरजाः"
+      },
+      {
+        "word_sanskrit": "प्रयान्ति",
+        "word_english": "they go forth, proceed (प्रकर्षेण यान्ति)",
+        "grammar_role": "√या (प्र-) · लट्·प्रथम·बहु·परस्मै",
+        "root": "प्रयान्ति"
+      },
+      {
+        "word_sanskrit": "यत्रामृतः",
+        "word_english": "where (in that Satyaloka etc.) the immortal",
+        "grammar_role": "यत्र (अव्यय, स्थानवाचक) + अमृत · प्रथमा·एक·पुं",
+        "root": "यत्र + अमृतः"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "that",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "पुरुषो",
+        "word_english": "Person — the first-born Hiraṇyagarbha (प्रथमजो हिरण्यगर्भः)",
+        "grammar_role": "पुरुष · प्रथमा·एक·पुं",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "ह्यव्ययात्मा",
+        "word_english": "indeed of imperishable nature (अव्ययस्वभावः), enduring as long as saṃsāra (यावत्संसारस्थायी)",
+        "grammar_role": "हि (अव्यय, हेत्वर्थ) + अव्यय-आत्मन् (बहुव्रीहिः) · प्रथमा·एक·पुं",
+        "root": "हि + अव्ययात्मा"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "11. But they who perform tapas and sraddha in the forest, having a control over their senses, learned and living the life of a mendicant, go through the orb of the sun, their good and bad deeds consumed, to where the immortal and undecaying purusha is."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "ये पुनस्तद्विपरीतज्ञानयुक्ता वानप्रस्थाः संन्यासिनश्च, तपःश्रद्धे हि तपः स्वाश्रमविहितं कर्म, श्रद्धा हिरण्यगर्भादिविषया विद्या, ते तपःश्रद्धे उपवसन्ति सेवंतेऽरण्ये वर्तमानाः सन्तः । शान्ताः उपरतकरणग्रामाः । विद्वांसः गृहस्थाश्च ज्ञानप्रधाना इत्यर्थः । भैक्षचर्यां चरन्तः परिग्रहाभावादुपवसन्त्यरण्ये इति सम्बन्धः । सूर्यद्वारेण सूर्योपलक्षितेनोत्तरेण पथा ते विरजाः विरजसः, क्षीणपुण्यपापकर्माणः सन्त इत्यर्थः । प्रयान्ति प्रकर्षेण यान्ति यत्र यस्मिन्सत्यलोकादौ अमृतः स पुरुषः प्रथमजो हिरण्यगर्भः हि अव्ययात्मा अव्ययस्वभावो यावत्संसारस्थायी । एतदन्तास्तु संसारगतयोऽपरविद्यागम्याः । नन्वेतं मोक्षमिच्छन्ति केचित् । न, ‘इहैव सर्वे प्रविलीयन्ति कामाः’ (मु. उ. ३ । २ । २) ‘ते सर्वगं सर्वतः प्राप्य धीरा युक्तात्मानः सर्वमेवाविशन्ति’ (मु. उ. ३ । २ । ५) इत्यादिश्रुतिभ्यः; अप्रकरणाच्च । अपरविद्याप्रकरणे हि प्रवृत्ते न ह्यकस्मान्मोक्षप्रसङ्गोऽस्ति । विरजस्त्वं त्वापेक्षिकम् । समस्तमपरविद्याकार्यं साध्यसाधनलक्षणं क्रियाकारकफलभेदभिन्नं द्वैतम् एतावदेव यद्धिरण्यगर्भप्राप्त्यवसानम् । तथा च मनुनोक्तं स्थावराद्यां संसारगतिमनुक्रामता — ‘ब्रह्मा विश्वसृजो धर्मो महानव्यक्तमेव च । उत्तमां सात्त्विकीमेतां गतिमाहुर्मनीषिणः’ (मनु. १२ । ५०) इति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_21",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 21,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.12",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "परीक्ष्य लोकान्कर्मचितान्ब्राह्मणो निर्वेदमायान्नास्त्यकृतः कृतेन । तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत्समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम् ॥ १२ ॥",
+    "transliteration": "parīkṣya lokānkarmacitānbrāhmaṇo nirvedamāyānnāstyakṛtaḥ kṛtena | tadvijñānārthaṃ sa gurumevābhigacchetsamitpāṇiḥ śrotriyaṃ brahmaniṣṭham || 12 ||",
+    "translation": "12. Let a Brahmin having examined the worlds produced by karma be free from desires, thinking, ‘there is nothing eternal produced by karma ?; and in order to acquire the knowledge of the eternal, let him Samid (sacrificial fuel) in hand, approach a perceptor (preceptor?) alone, who is versed in the Vedas and centered in the Brahman.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "परीक्ष्य",
+        "word_english": "having examined / scrutinised thoroughly (the worlds, by perception, inference, comparison, scripture)",
+        "grammar_role": "परि + √ईक्ष् · ल्यप् (पूर्वकालिक क्त्वान्त) · अव्यय",
+        "root": "परीक्ष्य"
+      },
+      {
+        "word_sanskrit": "लोकान्कर्मचितान्ब्राह्मणो",
+        "word_english": "the worlds, heaped up / built up by works (i.e. produced by dharma-adharma); the brāhmaṇa (qualified for brahmavidyā)",
+        "grammar_role": "लोक · द्वितीया·बहुवचन·पुंलिङ्ग + कर्मचित (कर्मभिः चित — तृतीया-तत्पुरुष) · द्वितीया·बहुवचन·पुंलिङ्ग + ब्राह्मण · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "लोकान् + कर्मचितान् + ब्राह्मणः"
+      },
+      {
+        "word_sanskrit": "निर्वेदमायान्नास्त्यकृतः",
+        "word_english": "should attain dispassion / world-weariness (vairāgya); the uncreated (akṛta = the eternal Brahman) is not (got)",
+        "grammar_role": "निर्वेद (निस्-पूर्वक √विद्, वैराग्यार्थे = वैराग्यम्) · द्वितीया·एकवचन·पुंलिङ्ग + आ + √या · विधिलिङ्·प्रथमपुरुष·एकवचन·परस्मैपद + न · अव्यय (निषेध) + √अस् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद + अकृत · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "निर्वेदम् + आयात् + न + अस्ति + अकृतः"
+      },
+      {
+        "word_sanskrit": "कृतेन",
+        "word_english": "by the created / by work done (karma) — i.e. the eternal cannot be reached by what is made",
+        "grammar_role": "कृत · तृतीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कृतेन"
+      },
+      {
+        "word_sanskrit": "तद्विज्ञानार्थं",
+        "word_english": "for the sake of knowing That (Brahman)",
+        "grammar_role": "तद्विज्ञानार्थ (तद्-विज्ञान-अर्थ · तत्पुरुष) · द्वितीया·एकवचन·पुंलिङ्ग (क्रियाविशेषण — adverbial accusative)",
+        "root": "तद्-विज्ञान-अर्थम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (that brāhmaṇa)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "गुरुमेवाभिगच्छेत्समित्पाणिः",
+        "word_english": "should approach a guru indeed, with sacrificial fuel in hand",
+        "grammar_role": "गुरु · द्वितीया·एकवचन·पुंलिङ्ग + एव · अव्यय (अवधारण) + अभि + √गम् · विधिलिङ्·प्रथमपुरुष·एकवचन·परस्मैपद + समित्पाणि (समिध्-पाणि · बहुव्रीहि) · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "गुरुम् + एव + अभिगच्छेत् + समित्पाणिः"
+      },
+      {
+        "word_sanskrit": "श्रोत्रियं",
+        "word_english": "versed in the Veda / śruti (a śrotriya)",
+        "grammar_role": "श्रोत्रिय · द्वितीया·एकवचन·पुंलिङ्ग (गुरुम् विशेषणम्)",
+        "root": "श्रोत्रियम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्मनिष्ठम्",
+        "word_english": "established / firmly grounded in Brahman",
+        "grammar_role": "ब्रह्मनिष्ठ (ब्रह्मणि निष्ठा यस्य — बहुव्रीहि; वा सप्तमी-तत्पुरुष) · द्वितीया·एकवचन·पुंलिङ्ग (गुरुम् विशेषणम्)",
+        "root": "ब्रह्म-निष्ठम्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "12. Let a Brahmin having examined the worlds produced by karma be free from desires, thinking, ‘there is nothing eternal produced by karma ?; and in order to acquire the knowledge of the eternal, let him Samid (sacrificial fuel) in hand, approach a perceptor (preceptor?) alone, who is versed in the Vedas and centered in the Brahman."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अथेदानीमस्मात्साध्यसाधनरूपात्सर्वस्मात्संसाराद्विरक्तस्य परस्यां विद्यायामधिकारप्रदर्शनार्थमिदमुच्यते — परीक्ष्य यदेतदृग्वेदाद्यपरविद्याविषयं स्वाभाविकाविद्याकामकर्मदोषवत्पुरुषानुष्ठेयमविद्यादिदोषवन्तमेव पुरुषं प्रति विहितत्वात्तदनुष्ठानकार्यभूताश्च लोका ये दक्षिणोत्तरमार्गलक्षणाः फलभूताः, ये च विहिताकरणप्रतिषेधातिक्रमदोषसाध्या नरकतिर्यक्प्रेतलक्षणाः, तानेतान्परीक्ष्य प्रत्यक्षानुमानोपमानागमैः सर्वतो याथात्म्येनावधार्य लोकान् संसारगतिभूतान-व्यक्तादिस्थावरान्तान्व्याकृताव्याकृतलक्षणान्बीजाङ्कुरवदित-रेतरोत्पत्तिनिमित्ताननेकानर्थशतसहस्रसङ्कुलान्कदलीगर्भवद-सारान्मायामरीच्युदकगन्धर्वनगराकारस्वप्नजलबुद्बुदफेनस-मान्प्रतिक्षणप्रध्वंसान्पृष्ठतः कृत्वा विद्याकामदोषप्रवर्तितकर्मचितान्धर्माधर्मनिर्वर्तितानित्येतत् । ब्राह्मणः, ब्राह्मणस्यैव विशेषतोऽधिकारः सर्वत्यागेन ब्रह्मविद्यायामिति ब्राह्मणग्रहणम् । परीक्ष्य लोकान्किं कुर्यादित्युच्यते — निर्वेदम्, निष्पूर्वो विदिरत्र वैराग्यार्थे, वैराग्यम् आयात् कुर्यादित्येतत् । स वैराग्यप्रकारः प्रदर्श्यते — इह संसारे नास्ति कश्चिदपि अकृतः पदार्थः । सर्व एव हि लोकाः कर्मचिताः कर्मकृतत्वाच्चानित्याः । न नित्यं किञ्चिदस्तीत्यभिप्रायः । सर्वं तु कर्मानित्यस्यैव साधनम् । यस्माच्चतुर्विधमेव हि सर्वं कर्म कार्यम् — उत्पाद्यमाप्यं विकार्यं संस्कार्यं वा । नातः परं कर्मणो विषयोऽस्ति । अहं च नित्येनामृतेनाभयेन कूटस्थेनाचलेन ध्रुवेणार्थेनार्थी, न तद्विपरीतेन । अतः किं कृतेन कर्मणा आयासबहुलेनानर्थसाधनेन इत्येवं निर्विण्णोऽभयं शिवमकृतं नित्यं पदं यत्, तद्विज्ञानार्थं विशेषेणाधिगमार्थं स निर्विण्णो ब्राह्मणः गुरुमेव आचार्यं शमदमादिसम्पन्नम् अभिगच्छेत् । शास्त्रज्ञोऽपि स्वातन्त्र्येण ब्रह्मज्ञानान्वेषणं न कुर्यादित्येतद्गुरुमेवेत्यवधारणफलम् । समित्पाणिः समिद्भारगृहीतहस्तः श्रोत्रियम् अध्ययनश्रुतार्थसम्पन्नं ब्रह्मनिष्ठं हित्वा सर्वकर्माणि केवलेऽद्वये ब्रह्मणि निष्ठा यस्य सोऽयं ब्रह्मनिष्ठः; जपनिष्ठस्तपोनिष्ठ इति यद्वत् । न हि कर्मिणो ब्रह्मनिष्ठता सम्भवति, कर्मात्मज्ञानयोर्विरोधात् । स तं गुरुं विधिवदुपसन्नः प्रसाद्य पृच्छेदक्षरं पुरुषं सत्यम् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_1_22",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Muṇḍaka 1: Aparā & Parā Vidyā",
+      "verse_number": 22,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.13",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "तस्मै स विद्वानुपसन्नाय सम्यक्प्रशान्तचित्ताय शमान्विताय । येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् ॥ १३ ॥",
+    "transliteration": "tasmai sa vidvānupasannāya samyakpraśāntacittāya śamānvitāya | yenākṣaraṃ puruṣaṃ veda satyaṃ provāca tāṃ tattvato brahmavidyām || 13 ||",
     "translation": "13. To him who has thus approached, whose heart is well subdued and who has control over his senses, let him truly teach that Brahmavidya by which the true immortal purusha is known.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मै",
+        "word_english": "to him (the disciple who has approached)",
+        "grammar_role": "तद् · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "तस्मै"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the teacher, the knower of Brahman — गुरुर्ब्रह्मवित्)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "विद्वानुपसन्नाय",
+        "word_english": "the learned one (teacher); to (the disciple) who has approached (उपगताय)",
+        "grammar_role": "विद्वस् · प्रथमा·एकवचन·पुंलिङ्ग + उपसन्न · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "विद्वान् + उपसन्नाय"
+      },
+      {
+        "word_sanskrit": "सम्यक्प्रशान्तचित्ताय",
+        "word_english": "duly (यथाशास्त्रम्); to one whose mind is wholly tranquil (free of pride and other faults)",
+        "grammar_role": "अव्यय (क्रियाविशेषण) + प्रशान्त-चित्त · चतुर्थी·एकवचन·पुंलिङ्ग (बहुव्रीहि)",
+        "root": "सम्यक् + प्रशान्त-चित्ताय"
+      },
+      {
+        "word_sanskrit": "शमान्विताय",
+        "word_english": "to one endowed with restraint of the outer senses, wholly dispassionate",
+        "grammar_role": "शम-अन्वित · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "शम + अन्विताय"
+      },
+      {
+        "word_sanskrit": "येनाक्षरं",
+        "word_english": "by which (knowledge/vidyā); the imperishable",
+        "grammar_role": "यद् · तृतीया·एकवचन·नपुंसकलिङ्ग + अक्षर · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "येन + अक्षरम्"
+      },
+      {
+        "word_sanskrit": "पुरुषं",
+        "word_english": "the Puruṣa (so called from filling all and dwelling in the city)",
+        "grammar_role": "पुरुष · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "पुरुषम्"
+      },
+      {
+        "word_sanskrit": "वेद",
+        "word_english": "he knows (विजानाति)",
+        "grammar_role": "√विद् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "वेद"
+      },
+      {
+        "word_sanskrit": "सत्यं",
+        "word_english": "the true (being of the nature of the highest reality, imperishable)",
+        "grammar_role": "सत्य · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "सत्यम्"
+      },
+      {
+        "word_sanskrit": "प्रोवाच",
+        "word_english": "declared — read by the bhāṣya as प्रब्रूयात्, 'should fully impart'",
+        "grammar_role": "प्र-√वच् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "प्र + उवाच"
+      },
+      {
+        "word_sanskrit": "तां",
+        "word_english": "that (brahma-knowledge)",
+        "grammar_role": "तद् · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "ताम्"
+      },
+      {
+        "word_sanskrit": "तत्त्वतो",
+        "word_english": "truly, as it really is (यथावत्)",
+        "grammar_role": "अव्यय (तसिल्-प्रत्ययान्त)",
+        "root": "तत्त्वतः"
+      },
+      {
+        "word_sanskrit": "ब्रह्मविद्याम्",
+        "word_english": "the knowledge of Brahman",
+        "grammar_role": "ब्रह्म-विद्या · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "ब्रह्म-विद्याम्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -456,13 +2364,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0938\u094d\u092e\u0948 \u0938\u0903 \u0935\u093f\u0926\u094d\u0935\u093e\u0928\u094d \u0917\u0941\u0930\u0941\u0930\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0924\u094d , \u0909\u092a\u0938\u0928\u094d\u0928\u093e\u092f \u0909\u092a\u0917\u0924\u093e\u092f\u00a0\u0964 \u0938\u092e\u094d\u092f\u0915\u094d \u092f\u0925\u093e\u0936\u093e\u0938\u094d\u0924\u094d\u0930\u092e\u093f\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u00a0\u0964 \u092a\u094d\u0930\u0936\u093e\u0928\u094d\u0924\u091a\u093f\u0924\u094d\u0924\u093e\u092f \u0909\u092a\u0930\u0924\u0926\u0930\u094d\u092a\u093e\u0926\u093f\u0926\u094b\u0937\u093e\u092f\u00a0\u0964 \u0936\u092e\u093e\u0928\u094d\u0935\u093f\u0924\u093e\u092f \u092c\u093e\u0939\u094d\u092f\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u094b\u092a\u0930\u092e\u0947\u0923 \u091a \u092f\u0941\u0915\u094d\u0924\u093e\u092f, \u0938\u0930\u094d\u0935\u0924\u094b \u0935\u093f\u0930\u0915\u094d\u0924\u093e\u092f\u0947\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u00a0\u0964 \u092f\u0947\u0928 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0947\u0928 \u092f\u092f\u093e \u0935\u093f\u0926\u094d\u092f\u092f\u093e \u091a \u092a\u0930\u092f\u093e \u0905\u0915\u094d\u0937\u0930\u092e\u094d \u0905\u0926\u094d\u0930\u0947\u0936\u094d\u092f\u093e\u0926\u093f\u0935\u093f\u0936\u0947\u0937\u0923\u0902 \u0924\u0926\u0947\u0935\u093e\u0915\u094d\u0937\u0930\u0902 \u092a\u0941\u0930\u0941\u0937\u0936\u092c\u094d\u0926\u0935\u093e\u091a\u094d\u092f\u0902 \u092a\u0942\u0930\u094d\u0923\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u0941\u0930\u093f \u0936\u092f\u0928\u093e\u091a\u094d\u091a, \u0938\u0924\u094d\u092f\u0902 \u0924\u0926\u0947\u0935 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0938\u094d\u0935\u093e\u092d\u093e\u0935\u094d\u092f\u093e\u0926\u0935\u094d\u092f\u092f\u092e\u094d , \u0905\u0915\u094d\u0937\u0930\u0902 \u091a\u093e\u0915\u094d\u0937\u0930\u0923\u093e\u0926\u0915\u094d\u0937\u0924\u0924\u094d\u0935\u093e\u0926\u0915\u094d\u0937\u092f\u0924\u094d\u0935\u093e\u091a\u094d\u091a, \u0935\u0947\u0926 \u0935\u093f\u091c\u093e\u0928\u093e\u0924\u093f \u0924\u093e\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u0902 \u0924\u0924\u094d\u0924\u094d\u0935\u0924\u0903 \u092f\u0925\u093e\u0935\u0924\u094d \u092a\u094d\u0930\u094b\u0935\u093e\u091a \u092a\u094d\u0930\u092c\u094d\u0930\u0942\u092f\u093e\u0926\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0906\u091a\u093e\u0930\u094d\u092f\u0938\u094d\u092f\u093e\u092a\u094d\u092f\u092f\u092e\u0947\u0935 \u0928\u093f\u092f\u092e\u094b \u092f\u0928\u094d\u0928\u094d\u092f\u093e\u092f\u092a\u094d\u0930\u093e\u092a\u094d\u0924\u0938\u091a\u094d\u091b\u093f\u0937\u094d\u092f\u0928\u093f\u0938\u094d\u0924\u093e\u0930\u0923\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u092e\u0939\u094b\u0926\u0927\u0947\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014\u2018He,\u2019 the learned preceptor who knows the Brahman; \u2018 Upasannaya ' who has approached him. \u2018 Samyak, i.e., well, according to the sastras ; \u2018 Prasanta chittaya ,\u2019 i.e. , whose heart is subdued, who is free from such faults as pride, etc. \u2018 Samanvitaya ,\u2019 who has control also over the external senses, i.e. , who has turned away from everything in the world. \u2018By which knowledge,\u2019 by the para vidya , \u2018 Aksharam \u2019 that which has been described as imperceivable, etc., and denoted by the word Parasha, because it is all pervading; or, because it is seated in the city of the body. \u2018 Satyam ,\u2019 the same, because it is truth in its nature. \u2018 Akshara ,\u2019 because it knows no decay, because it is scathless, and because it knows no destruction. \u2018 Veda \u2019 means \u2018know.\u2019 The meaning is \u2018let him teach that knowledge of the Brahman, as it should be taught. This is the duty of also the preceptor, that he should make the good pupil duly approaching him, cross the sea of ignorance.\n\u2014\u2014o\u2014\u2014\n|| \u0907\u0924\u093f \u092e\u0941\u0923\u094d\u0921\u0915\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u092a\u094d\u0930\u0925\u092e\u092e\u0941\u0923\u094d\u0921\u0915\u0947 \u0926\u094d\u0935\u093f\u0924\u0940\u092f\u0903 \u0916\u0923\u094d\u0921\u0903 ||\n|| iti mu\u1e47\u1e0dakopani\u1e63adi prathamamu\u1e47\u1e0dake dvit\u012bya\u1e25 kha\u1e47\u1e0da\u1e25 ||\nHere ends the commentary on the second part of the First Mundaka.\n\u2014\u2014o\u2014\u2014"
+        "text": "तस्मै सः विद्वान् गुरुर्ब्रह्मवित्, उपसन्नाय उपगताय । सम्यक् यथाशास्त्रमित्येतत् । प्रशान्तचित्ताय उपरतदर्पादिदोषाय । शमान्विताय बाह्येन्द्रियोपरमेण च युक्ताय, सर्वतो विरक्तायेत्येतत् । येन विज्ञानेन यया विद्यया च परया अक्षरम् अद्रेश्यादिविशेषणं तदेवाक्षरं पुरुषशब्दवाच्यं पूर्णत्वात्पुरि शयनाच्च, सत्यं तदेव परमार्थस्वाभाव्यादव्ययम्, अक्षरं चाक्षरणादक्षतत्वादक्षयत्वाच्च, वेद विजानाति तां ब्रह्मविद्यां तत्त्वतः यथावत् प्रोवाच प्रब्रूयादित्यर्थः । आचार्यस्याप्ययमेव नियमो यन्न्यायप्राप्तसच्छिष्यनिस्तारणमविद्यामहोदधेः ॥"
       }
     ],
     "commentary_faqs": []

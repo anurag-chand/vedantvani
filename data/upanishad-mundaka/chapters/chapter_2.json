@@ -5,32 +5,103 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 1,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145110.html"
+      "mantra_ref": "2.1.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0906\u0935\u093f\u0903 \u0938\u0902\u0928\u093f\u0939\u093f\u0924\u0902 \u0917\u0941\u0939\u093e\u091a\u0930\u0902 \u0928\u093e\u092e \u092e\u0939\u0924\u094d\u092a\u0926\u092e\u0924\u094d\u0930\u0948\u0924\u0924\u094d\u0938\u092e\u0930\u094d\u092a\u093f\u0924\u092e\u094d\u00a0\u0964 \n \u090f\u091c\u0924\u094d\u092a\u094d\u0930\u093e\u0923\u0928\u094d\u0928\u093f\u092e\u093f\u0937\u091a\u094d\u091a \u092f\u0926\u0947\u0924\u091c\u094d\u091c\u093e\u0928\u0925 \u0938\u0926\u0938\u0926\u094d\u0935\u0930\u0947\u0923\u094d\u092f\u0902 \u092a\u0930\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0926\u094d\u092f\u0926\u094d\u0935\u0930\u093f\u0937\u094d\u0920\u0902 \u092a\u094d\u0930\u091c\u093e\u0928\u093e\u092e\u094d \u0965 \u0967 \u0965",
-    "transliteration": "\u0101vi\u1e25 sa\u1e43nihita\u1e43 guh\u0101carann\u0101ma mahatpadamatraitatsamarpitam | ejatpr\u0101\u1e47annimi\u1e63acca yadetajj\u0101natha sadasadvare\u1e47ya\u1e43 para\u1e43 vij\u00f1\u0101n\u0101dyadvari\u1e63\u1e6dha\u1e43 praj\u0101n\u0101m || 1 ||",
-    "translation": "1. Bright, well-fixed, moving in the heart, great and the support of all; in him is all this universe centred, what moves, breathes and winks. Know this which is all that has form and all that is formless, which is to be sought after by all, which is beyond the reach of man\u2019s knowledge, and the highest of all.",
-    "word_by_word": [],
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "तदेतत्सत्यं यथा सुदीप्तात्पावकाद्विस्फुलिङ्गाः सहस्रशः प्रभवन्ते सरूपाः । तथाक्षराद्विविधाः सोम्य भावाः प्रजायन्ते तत्र चैवापियन्ति ॥ १ ॥",
+    "transliteration": "tadetatsatyaṃ yathā sudīptātpāvakādvisphuliṅgāḥ sahasraśaḥ prabhavante sarūpāḥ | tathākṣarādvividhāḥ somya bhāvāḥ prajāyante tatra caivāpiyanti || 1 ||",
+    "translation": "1. Bright, well-fixed, moving in the heart, great and the support of all; in him is all this universe centred, what moves, breathes and winks. Know this which is all that has form and all that is formless, which is to be sought after by all, which is beyond the reach of man’s knowledge, and the highest of all.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदेतत्सत्यं",
+        "word_english": "That this is true — the real (paramārtha-sat), the object of the higher knowledge (paravidyā), as opposed to the unreal object of avidyā",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + सत्य · प्रथमा·एक·नपुं",
+        "root": "तत् + एतत् + सत्यम्"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "just as",
+        "grammar_role": "अव्यय (उपमावाचक)",
+        "root": "यथा"
+      },
+      {
+        "word_sanskrit": "सुदीप्तात्पावकाद्विस्फुलिङ्गाः",
+        "word_english": "from a well-kindled (suṣṭhu dīpta, blazing) fire, sparks — the parts of the fire (agny-avayavāḥ)",
+        "grammar_role": "सुदीप्त · पञ्चमी·एक·पुं + पावक · पञ्चमी·एक·पुं + विस्फुलिङ्ग · प्रथमा·बहु·पुं",
+        "root": "सुदीप्तात् + पावकात् + विस्फुलिङ्गाः"
+      },
+      {
+        "word_sanskrit": "सहस्रशः",
+        "word_english": "by thousands, i.e. manifoldly (anekaśaḥ)",
+        "grammar_role": "अव्यय (शस्-प्रत्ययान्त)",
+        "root": "सहस्रशः"
+      },
+      {
+        "word_sanskrit": "प्रभवन्ते",
+        "word_english": "come forth, issue forth (nirgacchanti)",
+        "grammar_role": "√भू (प्र) · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद (आर्ष; classical प्रभवन्ति)",
+        "root": "प्रभवन्ते"
+      },
+      {
+        "word_sanskrit": "सरूपाः",
+        "word_english": "of like form — having the same character as the fire (agni-salakṣaṇāḥ)",
+        "grammar_role": "सरूप · प्रथमा·बहु·पुं",
+        "root": "सरूपाः"
+      },
+      {
+        "word_sanskrit": "तथाक्षराद्विविधाः",
+        "word_english": "so from the Imperishable (akṣara), manifold (vividhāḥ, varied through diverse body-adjuncts)",
+        "grammar_role": "तथा · अव्यय + अक्षर · पञ्चमी·एक·नपुं + विविध · प्रथमा·बहु·पुं",
+        "root": "तथा + अक्षरात् + विविधाः"
+      },
+      {
+        "word_sanskrit": "सोम्य",
+        "word_english": "O gentle one (he somya)",
+        "grammar_role": "सोम्य · सम्बोधन·एक·पुं (छान्दस; classical सौम्य)",
+        "root": "सोम्य"
+      },
+      {
+        "word_sanskrit": "भावाः",
+        "word_english": "beings — the jīvas (living souls), like space delimited by pots and the like",
+        "grammar_role": "भाव · प्रथमा·बहु·पुं",
+        "root": "भावाः"
+      },
+      {
+        "word_sanskrit": "प्रजायन्ते",
+        "word_english": "are born / come into being, following the rise of the body-adjuncts made of diverse names-and-forms",
+        "grammar_role": "√जन् (प्र) · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "प्रजायन्ते"
+      },
+      {
+        "word_sanskrit": "तत्र",
+        "word_english": "there — in that very Imperishable (tasminn eva akṣare)",
+        "grammar_role": "अव्यय (त्रल्-प्रत्ययान्त, अधिकरणार्थ)",
+        "root": "तत्र"
+      },
+      {
+        "word_sanskrit": "चैवापियन्ति",
+        "word_english": "and verily merge back — dissolve (vilīyante) following the dissolution of the body-adjunct, as the hollow-spaces dissolve when the pots dissolve",
+        "grammar_role": "च · अव्यय + एव · अव्यय + √इ (अपि) · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "च + एव + अपियन्ति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "1. Bright, well-fixed, moving in the heart, great and the support of all; in him is all this universe centred, what moves, breathes and winks. Know this which is all that has form and all that is formless, which is to be sought after by all, which is beyond the reach of man\u2019s knowledge, and the highest of all."
+        "text": "1. Bright, well-fixed, moving in the heart, great and the support of all; in him is all this universe centred, what moves, breathes and winks. Know this which is all that has form and all that is formless, which is to be sought after by all, which is beyond the reach of man’s knowledge, and the highest of all."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0930\u0942\u092a\u0902 \u0938\u0926\u0915\u094d\u0937\u0930\u0902 \u0915\u0947\u0928 \u092a\u094d\u0930\u0915\u093e\u0930\u0947\u0923 \u0935\u093f\u091c\u094d\u091e\u0947\u092f\u092e\u093f\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u0906\u0935\u093f\u0903 \u092a\u094d\u0930\u0915\u093e\u0936\u0902, \u0938\u0902\u0928\u093f\u0939\u093f\u0924\u092e\u094d , \u0935\u093e\u0917\u093e\u0926\u094d\u092f\u0941\u092a\u093e\u0927\u093f\u092d\u093f\u0903 \u2014 \u091c\u094d\u0935\u0932\u0924\u093f \u092d\u094d\u0930\u093e\u091c\u0924\u0940\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u094d\u092f\u0928\u094d\u0924\u0930\u093e\u0924\u094d \u2014 \u0936\u092c\u094d\u0926\u093e\u0926\u0940\u0928\u0941\u092a\u0932\u092d\u092e\u093e\u0928\u0935\u0926\u0935\u092d\u093e\u0938\u0924\u0947 ; \u0926\u0930\u094d\u0936\u0928\u0936\u094d\u0930\u0935\u0923\u092e\u0928\u0928\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0926\u094d\u092f\u0941\u092a\u093e\u0927\u093f\u0927\u0930\u094d\u092e\u0948\u0930\u093e\u0935\u093f\u0930\u094d\u092d\u0942\u0924\u0902 \u0938\u0932\u094d\u0932\u0915\u094d\u0937\u094d\u092f\u0924\u0947 \u0939\u0943\u0926\u093f \u0938\u0930\u094d\u0935\u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u092e\u094d\u00a0\u0964 \u092f\u0926\u0947\u0924\u0926\u093e\u0935\u093f\u0930\u094d\u092d\u0942\u0924\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0938\u0902\u0928\u093f\u0939\u093f\u0924\u0902 \u0938\u092e\u094d\u092f\u0915\u094d \u0938\u094d\u0925\u093f\u0924\u0902 \u0939\u0943\u0926\u093f, \u0924\u0924\u094d \u0917\u0941\u0939\u093e\u091a\u0930\u0902 \u0928\u093e\u092e \u0917\u0941\u0939\u093e\u092f\u093e\u0902 \u091a\u0930\u0924\u0940\u0924\u093f \u0926\u0930\u094d\u0936\u0928\u0936\u094d\u0930\u0935\u0923\u093e\u0926\u093f\u092a\u094d\u0930\u0915\u093e\u0930\u0948\u0930\u094d\u0917\u0941\u0939\u093e\u091a\u0930\u092e\u093f\u0924\u093f \u092a\u094d\u0930\u0916\u094d\u092f\u093e\u0924\u092e\u094d\u00a0\u0964 \u092e\u0939\u0924\u094d \u0938\u0930\u094d\u0935\u092e\u0939\u0924\u094d\u0924\u094d\u0935\u093e\u0924\u094d , \u092a\u0926\u0902 \u092a\u0926\u094d\u092f\u0924\u0947 \u0938\u0930\u094d\u0935\u0947\u0923\u0947\u0924\u093f, \u0938\u0930\u094d\u0935\u092a\u0926\u093e\u0930\u094d\u0925\u093e\u0938\u094d\u092a\u0926\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u0915\u0925\u0902 \u0924\u0928\u094d\u092e\u0939\u0924\u094d\u092a\u0926\u092e\u093f\u0924\u093f, \u0909\u091a\u094d\u092f\u0924\u0947 ? \u092f\u0924\u0903 \u0905\u0924\u094d\u0930 \u0905\u0938\u094d\u092e\u093f\u0928\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093f \u090f\u0924\u0924\u094d\u0938\u0930\u094d\u0935\u0902 \u0938\u092e\u0930\u094d\u092a\u093f\u0924\u0902 \u0938\u092e\u094d\u092a\u094d\u0930\u0935\u0947\u0936\u093f\u0924\u0902 \u0930\u0925\u0928\u093e\u092d\u093e\u0935\u093f\u0935\u093e\u0930\u093e\u0903 \u2014 \u090f\u091c\u0924\u094d \u091a\u0932\u0924\u094d\u092a\u0915\u094d\u0937\u094d\u092f\u093e\u0926\u093f, \u092a\u094d\u0930\u093e\u0923\u0924\u094d \u092a\u094d\u0930\u093e\u0923\u093f\u0924\u0940\u0924\u093f \u092a\u094d\u0930\u093e\u0923\u093e\u092a\u093e\u0928\u093e\u0926\u093f\u092e\u0928\u094d\u092e\u0928\u0941\u0937\u094d\u092f\u092a\u0936\u094d\u0935\u093e\u0926\u093f, \u0928\u093f\u092e\u093f\u0937\u091a\u094d\u091a \u092f\u0928\u094d\u0928\u093f\u092e\u0947\u0937\u093e\u0926\u093f\u0915\u094d\u0930\u093f\u092f\u093e\u0935\u0924\u094d , \u092f\u091a\u094d\u091a\u093e\u0928\u093f\u092e\u093f\u0937\u0924\u094d ; \u091a - \u0936\u092c\u094d\u0926\u093e\u0924\u094d \u0938\u092e\u0938\u094d\u0924\u092e\u0947\u0924\u0926\u0924\u094d\u0930\u0948\u0935 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093f \u0938\u092e\u0930\u094d\u092a\u093f\u0924\u092e\u094d\u00a0\u0964 \u090f\u0924\u0924\u094d \u092f\u0926\u093e\u0938\u094d\u092a\u0926\u0902 \u0938\u0930\u094d\u0935\u0902 \u091c\u093e\u0928\u0925 \u0939\u0947 \u0936\u093f\u0937\u094d\u092f\u093e\u0903, \u0905\u0935\u0917\u091a\u094d\u091b\u0924 \u0924\u0926\u093e\u0924\u094d\u092e\u092d\u0942\u0924\u0902 \u092d\u0935\u0924\u093e\u092e\u094d ; \u0938\u0926\u0938\u0924\u094d \u0938\u0926\u0938\u0924\u094d\u0938\u094d\u0935\u0930\u0942\u092a\u0902 \u0938\u0926\u0938\u0924\u094b\u0930\u094d\u092e\u0942\u0930\u094d\u0924\u093e\u092e\u0942\u0930\u094d\u0924\u092f\u094b\u0903 \u0938\u094d\u0925\u0942\u0932\u0938\u0942\u0915\u094d\u0937\u094d\u092e\u092f\u094b\u0903, \u0924\u0926\u094d\u0935\u094d\u092f\u0924\u093f\u0930\u0947\u0915\u0947\u0923\u093e\u092d\u093e\u0935\u093e\u0924\u094d\u00a0\u0964 \u0935\u0930\u0947\u0923\u094d\u092f\u0902 \u0935\u0930\u0923\u0940\u092f\u092e\u094d , \u0924\u0926\u0947\u0935 \u0939\u093f \u0938\u0930\u094d\u0935\u0938\u094d\u092f \u0928\u093f\u0924\u094d\u092f\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u094d\u0930\u093e\u0930\u094d\u0925\u0928\u0940\u092f\u092e\u094d ; \u092a\u0930\u0902 \u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u092a\u094d\u0930\u091c\u093e\u0928\u093e\u092e\u093f\u0924\u093f \u0935\u094d\u092f\u0935\u0939\u093f\u0924\u0947\u0928 \u0938\u092e\u094d\u092c\u0928\u094d\u0927\u0903 ; \u092f\u0932\u094d\u0932\u094c\u0915\u093f\u0915\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0917\u094b\u091a\u0930\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092f\u0924\u094d \u0935\u0930\u093f\u0937\u094d\u0920\u0902 \u0935\u0930\u0924\u092e\u0902 \u0938\u0930\u094d\u0935\u092a\u0926\u093e\u0930\u094d\u0925\u0947\u0937\u0941 \u0935\u0930\u0947\u0937\u0941 ; \u0924\u0926\u094d\u0927\u094d\u092f\u0947\u0915\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0905\u0924\u093f\u0936\u092f\u0947\u0928 \u0935\u0930\u0902 \u0938\u0930\u094d\u0935\u0926\u094b\u0937\u0930\u0939\u093f\u0924\u0924\u094d\u0935\u093e\u0924\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014It is now explained how the akshara which is formless, could be known. Avihi , bright, shining as the percipient of sound, etc., according to the Sruti , \u201cIt shines through its conditions of speech, etc.\u201d It is seen in the heart of all living beings appearing there with the attributes of seeing, hearing, thinking, knowing, etc. This Brahman shining is Sannihita , i.e. , well seated in the heart. It is celebrated as guhacha- ran because it moves in the cavity in modes of seeing, hearing, etc. \u2018Great\u2019, because it is greater than all. Padam, reached by all, because it is the seat of all objects. How is it said to be great, etc? Because in the Brahman all this universe is centred as the various spokes are in the wheel-ring of the chariot. Ejat , moving, i.e. , birds, etc; pranet , breathes, i.e., men, cattle, etc., having prana , a puna, etc; and \u2018winks\u2019, all that winks and all that winks not, from the force of the particle cha ; this in which all is centred, know, O disciple, that that is your own atman ; both sat and asat ; for without it, sat and asat, that which has form and that which has not, i.e., the gross and subtle do not exist. Varenyam, covetable; because of all objects it is the only eternal entity. Param, distinct from, or, beyond; this is connected with the expression \u201cknowledge of men\u201d though remote; the meaning is that it is beyond the reach of wordly knowledge. Varishtham, the highest of all; because of all that is high, the Brahman is pre-eminently high, being free from all faults."
+        "text": "【उपोद्घातभाष्यम्】\nअपरविद्यायाः सर्वं कार्यमुक्तम् । स च संसारो यत्सारो यस्मान्मूलादक्षरात्सम्भवति यस्मिंश्च प्रलीयते, तदक्षरं पुरुषाख्यं सत्यम् । यस्मिन्विज्ञाते सर्वमिदं विज्ञातं भवति, तत्परस्या ब्रह्मविद्याया विषयः । स वक्तव्य इत्युत्तरो ग्रन्थ आरभ्यते —\n\nयदपरविद्याविषयं कर्मफललक्षणम्, सत्यं तदापेक्षिकम् । इदं तु परविद्याविषयम्, परमार्थसल्लक्षणत्वात् । तदेतत् सत्यं यथाभूतं विद्याविषयम्; अविद्याविषयत्वाच्च अनृतमितरत् । अत्यन्तपरोक्षत्वात्कथं नाम प्रत्यक्षवत्सत्यमक्षरं प्रतिपद्येरन्निति दृष्टान्तमाह — यथा सुदीप्तात् सुष्ठु दीप्तादिद्धात् पावकात् अग्नेः विस्फुलिङ्गाः अग्न्यवयवाः सहस्रशः अनेकशः प्रभवन्ते निर्गच्छन्ति सरूपाः अग्निसलक्षणा एव, तथा उक्तलक्षणात् अक्षरात् विविधाः नानादेहोपाधिभेदमनुविधीयमानत्वाद्विविधाः हे सोम्य, भावाः जीवाः आकाशादिवद्घटादिपरिच्छिन्नाः सुषिरभेदा घटाद्युपाधिप्रभेदमनु भवन्ति; एवं नानानामरूपकृतदेहोपाधिप्रभवमनु प्रजायन्ते, तत्र चैव तस्मिन्नेव चाक्षरे अपियन्ति देहोपाधिविलयमनु विलीयन्ते घटादिविलयमन्विव सुषिरभेदाः । यथाऽऽकाशस्य सुषिरभेदोत्पत्तिप्रलयनिमित्तत्वं घटाद्युपाधिकृतमेव, तद्वदक्षरस्यापि नामरूपकृतदेहोपाधिनिमित्तमेव जीवोत्पत्तिप्रलयनिमित्तत्वम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -41,15 +112,78 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 2,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145111.html"
+      "mantra_ref": "2.1.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u0926\u0930\u094d\u091a\u093f\u092e\u0926\u094d\u092f\u0926\u0923\u0941\u092d\u094d\u092f\u094b\u093d\u0923\u0941 \u091a \u092f\u0938\u094d\u092e\u093f\u0902\u0932\u094d\u0932\u094b\u0915\u093e \u0928\u093f\u0939\u093f\u0924\u093e \u0932\u094b\u0915\u093f\u0928\u0936\u094d\u091a\u00a0\u0964 \n \u0924\u0926\u0947\u0924\u0926\u0915\u094d\u0937\u0930\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0938 \u092a\u094d\u0930\u093e\u0923\u0938\u094d\u0924\u0926\u0941 \u0935\u093e\u0919\u094d\u092e\u0928\u0903\u00a0\u0964 \n \u0924\u0926\u0947\u0924\u0924\u094d\u0938\u0924\u094d\u092f\u0902 \u0924\u0926\u092e\u0943\u0924\u0902 \u0924\u0926\u094d\u0935\u0947\u0926\u094d\u0927\u0935\u094d\u092f\u0902 \u0938\u094b\u092e\u094d\u092f \u0935\u093f\u0926\u094d\u0927\u093f \u0965 \u0968 \u0965",
-    "transliteration": "yadarcimadyada\u1e47ubhyo\u1e47u ca yasmi\u0271llok\u0101'nihit\u0101 lokina\u015bca | tadetadak\u1e63ara\u1e43 brahma sa pr\u0101\u1e47astadu v\u0101\u1e45mana\u1e25 | tadetatsatya\u1e43 tadam\u1e5bta\u1e43 tadveddhavya\u1e43 somya viddhi || 2 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "दिव्यो ह्यमूर्तः पुरुषः सबाह्याभ्यन्तरो ह्यजः । अप्राणो ह्यमनाः शुभ्रो ह्यक्षरात्परतः परः ॥ २ ॥",
+    "transliteration": "divyo hyamūrtaḥ puruṣaḥ sabāhyābhyantaro hyajaḥ | aprāṇo hyamanāḥ śubhro hyakṣarātparataḥ paraḥ || 2 ||",
     "translation": "2. What is bright, what is smaller than the small, in what are centred all the world and those that live in them is this immortal Brahman. That is prana, that is speech and mind. That is true and immortal; good looking youth. Strike thy mind upon that which should be struck by the mind.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "दिव्यो",
+        "word_english": "divine, self-luminous (द्योतनवान्, being self-effulgent)",
+        "grammar_role": "दिव्य · प्रथमा·एक·पुं",
+        "root": "दिव्यः"
+      },
+      {
+        "word_sanskrit": "ह्यमूर्तः",
+        "word_english": "for (he is) formless, devoid of all form (सर्वमूर्तिवर्जितः)",
+        "grammar_role": "हि · अव्यय (कारण/निपात) + अमूर्त · प्रथमा·एक·पुं",
+        "root": "हि + अमूर्तः"
+      },
+      {
+        "word_sanskrit": "पुरुषः",
+        "word_english": "the Puruṣa — the full one (पूर्णः) / the one lying in the city of the body (पुरिशयः)",
+        "grammar_role": "पुरुष · प्रथमा·एक·पुं",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "सबाह्याभ्यन्तरो",
+        "word_english": "existing together with the outer and the inner (सह बाह्याभ्यन्तरेण वर्तते)",
+        "grammar_role": "सबाह्याभ्यन्तर (बहुव्रीहि) · प्रथमा·एक·पुं",
+        "root": "स-बाह्य-अभ्यन्तरः"
+      },
+      {
+        "word_sanskrit": "ह्यजः",
+        "word_english": "for (he is) unborn — not produced from anything, there being no self-birth and no cause of birth",
+        "grammar_role": "हि · अव्यय (कारण/निपात) + अज · प्रथमा·एक·पुं",
+        "root": "हि + अजः"
+      },
+      {
+        "word_sanskrit": "अप्राणो",
+        "word_english": "breathless — he in whom there is no prāṇa (the moving vital air / activity-power)",
+        "grammar_role": "अप्राण (बहुव्रीहि) · प्रथमा·एक·पुं",
+        "root": "अप्राणः"
+      },
+      {
+        "word_sanskrit": "ह्यमनाः",
+        "word_english": "for (he is) mindless — he in whom even the mind (with its many cognition-powers, made of saṅkalpa etc.) is non-existent",
+        "grammar_role": "हि · अव्यय (कारण/निपात) + अमनस् (बहुव्रीहि) · प्रथमा·एक·पुं",
+        "root": "हि + अमनाः"
+      },
+      {
+        "word_sanskrit": "शुभ्रो",
+        "word_english": "pure, bright (untainted)",
+        "grammar_role": "शुभ्र · प्रथमा·एक·पुं",
+        "root": "शुभ्रः"
+      },
+      {
+        "word_sanskrit": "ह्यक्षरात्परतः",
+        "word_english": "for (he is) higher / beyond the Akṣara (the unmanifest name-and-form seed, itself 'para' relative to its modifications)",
+        "grammar_role": "हि · अव्यय (कारण/निपात) + अक्षर · पञ्चमी·एक·नपुं + परतस् · अव्यय (पञ्चम्यर्थे)",
+        "root": "हि + अक्षरात् + परतः"
+      },
+      {
+        "word_sanskrit": "परः",
+        "word_english": "supreme, the highest (higher than that Akṣara)",
+        "grammar_role": "पर · प्रथमा·एक·पुं",
+        "root": "परः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -60,13 +194,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u091e\u094d\u091a, \u092f\u0924\u094d \u0905\u0930\u094d\u091a\u093f\u092e\u0924\u094d \u0926\u0940\u092a\u094d\u0924\u093f\u092e\u0924\u094d ; \u0924\u0926\u094d\u0926\u0940\u092a\u094d\u0924\u094d\u092f\u093e \u0939\u094d\u092f\u093e\u0926\u093f\u0924\u094d\u092f\u093e\u0926\u093f \u0926\u0940\u092a\u094d\u092f\u0924 \u0907\u0924\u093f \u0926\u0940\u092a\u094d\u0924\u093f\u092e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u00a0\u0964 \u0915\u093f\u091e\u094d\u091a, \u092f\u0924\u094d \u0905\u0923\u0941\u092d\u094d\u092f\u0903 \u0936\u094d\u092f\u093e\u092e\u093e\u0915\u093e\u0926\u093f\u092d\u094d\u092f\u094b\u093d\u092a\u093f \u0905\u0923\u0941 \u091a \u0938\u0942\u0915\u094d\u0937\u094d\u092e\u092e\u094d\u00a0\u0964 \u091a - \u0936\u092c\u094d\u0926\u093e\u0924\u094d\u0938\u094d\u0925\u0942\u0932\u0947\u092d\u094d\u092f\u094b\u093d\u092a\u094d\u092f\u0924\u093f\u0936\u092f\u0947\u0928 \u0938\u094d\u0925\u0942\u0932\u0902 \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u0926\u093f\u092d\u094d\u092f\u0903\u00a0\u0964 \u092f\u0938\u094d\u092e\u093f\u0928\u094d \u0932\u094b\u0915\u093e\u0903 \u092d\u0942\u0930\u093e\u0926\u092f\u0903 \u0928\u093f\u0939\u093f\u0924\u093e\u0903 \u0938\u094d\u0925\u093f\u0924\u093e\u0903, \u092f\u0947 \u091a \u0932\u094b\u0915\u093f\u0928\u0903 \u0932\u094b\u0915\u0928\u093f\u0935\u093e\u0938\u093f\u0928\u0903 \u092e\u0928\u0941\u0937\u094d\u092f\u093e\u0926\u092f\u0903 ; \u091a\u0948\u0924\u0928\u094d\u092f\u093e\u0936\u094d\u0930\u092f\u093e \u0939\u093f \u0938\u0930\u094d\u0935\u0947 \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927\u093e\u0903 ; \u0924\u0926\u0947\u0924\u0924\u094d \u0938\u0930\u094d\u0935\u093e\u0936\u094d\u0930\u092f\u0902 \u0905\u0915\u094d\u0937\u0930\u092e\u094d \u092c\u094d\u0930\u0939\u094d\u092e \u0938 \u092a\u094d\u0930\u093e\u0923\u0903 \u0924\u0926\u0941 \u0935\u093e\u0919\u094d\u092e\u0928\u0903 \u0935\u093e\u0915\u094d\u091a \u092e\u0928\u0936\u094d\u091a \u0938\u0930\u094d\u0935\u093e\u0923\u093f \u091a \u0915\u0930\u0923\u093e\u0928\u093f \u0924\u0926\u0941 \u0905\u0928\u094d\u0924\u0936\u094d\u091a\u0948\u0924\u0928\u094d\u092f\u092e\u094d ; \u091a\u0948\u0924\u0928\u094d\u092f\u093e\u0936\u094d\u0930\u092f\u094b \u0939\u093f \u092a\u094d\u0930\u093e\u0923\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u093e\u0926\u093f\u0938\u0930\u094d\u0935\u0938\u0919\u094d\u0918\u093e\u0924\u0903, \n\u2018\u092a\u094d\u0930\u093e\u0923\u0938\u094d\u092f \u092a\u094d\u0930\u093e\u0923\u092e\u094d\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u096a\u00a0\u0964 \u0967\u0966)\n \u0907\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u094d\u092f\u0928\u094d\u0924\u0930\u093e\u0924\u094d\u00a0\u0964 \u092f\u0924\u094d\u092a\u094d\u0930\u093e\u0923\u093e\u0926\u0940\u0928\u093e\u092e\u0928\u094d\u0924\u0936\u094d\u091a\u0948\u0924\u0928\u094d\u092f\u092e\u0915\u094d\u0937\u0930\u0902 \u0924\u0926\u0947\u0924\u0924\u094d \u0938\u0924\u094d\u092f\u092e\u094d \u0905\u0935\u093f\u0924\u0925\u092e\u094d , \u0905\u0924\u0903 \u0905\u092e\u0943\u0924\u092e\u094d \u0905\u0935\u093f\u0928\u093e\u0936\u093f \u0924\u0924\u094d \u0935\u0947\u0926\u094d\u0927\u0935\u094d\u092f\u0902 \u092e\u0928\u0938\u093e \u0924\u093e\u0921\u092f\u093f\u0924\u0935\u094d\u092f\u092e\u094d\u00a0\u0964 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u092e\u0928\u0938\u0903 \u0938\u092e\u093e\u0927\u093e\u0928\u0902 \u0915\u0930\u094d\u0924\u0935\u094d\u092f\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u0926\u0947\u0935\u0902 \u0939\u0947 \u0938\u094b\u092e\u094d\u092f, \u0935\u093f\u0926\u094d\u0927\u093f \u0905\u0915\u094d\u0937\u0930\u0947 \u091a\u0947\u0924\u0903 \u0938\u092e\u093e\u0927\u0924\u094d\u0938\u094d\u0935 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014Besides it is archimat , bright, because it is by the light of the Brahman that the sun, etc., shine; again it is subtler than the subtlest ( i.e .,) grain, etc. From the particle cha, it is suggested that it is bigger than the biggest, such as earth, etc. In whom all the worlds such as earth, etc., are fixed and men and the rest, inhabitants of those worlds; for all are well-known to depend upon \u201cIntelligence\u201d, i. e., Brahman ; this immortal Brahman on which all depend is prana , speech, mind and all the instruments. It is their internal intelligence for the whole combination of prana , senses, etc., is dependent upon that intelligence, according to the Sruti \u2018It is the prana of prana, etc. This immortal Brahman which is the internal intelligence of prana , etc., is true and, therefore, endless. Veddhavyam, should he seized by the mind. The meaning is that the mind should be concentrated upon the Brahman. This being so, O good looking youth, strike that, i.e., concentrate your mind upon that Brahman."
+        "text": "नामरूपबीजभूतादव्याकृताख्यात्स्वविकारापेक्षया परादक्षरात्परं यत्सर्वोपाधिभेदवर्जितमक्षरस्यैव स्वरूपमाकाशस्येव सर्वमूर्तिवर्जितं नेति नेतीत्यादिविशेषणं विवक्षन्नाह — दिव्यः द्योतनवान्, स्वयञ्ज्योतिष्ट्वात् । दिवि वा स्वात्मनि भवः अलौकिको वा । हि यस्मात् अमूर्तः सर्वमूर्तिवर्जितः, पुरुषः पूर्णः पुरिशयो वा, सबाह्याभ्यन्तरः सह बाह्याभ्यन्तरेण वर्तत इति । अजः न जायते कुतश्चित्, स्वतोऽजस्य जन्मनिमित्तस्य चाभावात्; यथा जलबुद्बुदादेर्वाय्वादिः, यथा नभःसुषिरभेदानां घटादिः । सर्वभावविकाराणां जनिमूलत्वात् तत्प्रतिषेधेन सर्वे प्रतिषिद्धा भवन्ति । सबाह्याभ्यन्तरो ह्यजः अतोऽजरोऽमृतोऽक्षरो ध्रुवोऽभय इत्यर्थः । यद्यपि देहाद्युपाधिभेददृष्टिभेदेषु सप्राणः समनाः सेन्द्रियः सविषय इव प्रत्यवभासते तलमलादिमदिवाकाशम्, तथापि तु स्वतः परमार्थस्वरूपदृष्टीनाम् अप्राणः अविद्यमानः क्रियाशक्तिभेदवान् चलनात्मको वायुर्यस्मिन्नसौ अप्राणः । तथा अमनाः अनेकज्ञानशक्तिभेदवत्सङ्कल्पाद्यात्मकं मनोऽप्यविद्यमानं यस्मिन्सोऽयममनाः । अप्राणो ह्यमनाश्चेति प्राणादिवायुभेदाः कर्मेन्द्रियाणि तद्विषयाश्च तथा बुद्धिमनसी बुद्धीन्द्रियाणि तद्विषयाश्च प्रतिषिद्धा वेदितव्याः; यथा श्रुत्यन्तरे — ध्यायतीव लेलायतीवेति । यस्माच्चैवं प्रतिषिद्धोपाधिद्वयस्तस्मात् शुभ्रः शुद्धः । अतोऽक्षरान्नामरूपबीजोपाधिलक्षितस्वरूपात्, सर्वकार्यकरणबीजत्वेनोपलक्ष्यमाणत्वात्परं तत्त्वं तदुपाधिलक्षणमव्याकृताख्यमक्षरं सर्वविकारेभ्यतस्मात्परतोऽक्षरात्परः निरुपाधिकः पुरुष इत्यर्थः । यस्मिंस्तदाकाशाख्यमक्षरं संव्यवहारविषयमोतं च प्रोतं च । कथं पुनरप्राणादिमत्त्वं तस्येत्युच्यते । यदि हि प्राणादयः प्रागुत्पत्तेः पुरुष इव स्वेनात्मना सन्ति, तदा पुरुषस्य प्राणदिना विद्यमानेन प्राणादिमत्त्वं स्यात्; न तु ते प्राणादयः प्रागुत्पत्तेः सन्ति । अतः प्राणादिमान्परः पुरुषः, यथाऽनुत्पन्ने पुत्रे अपुत्रो देवदत्तः ॥"
       }
     ],
     "commentary_faqs": []
@@ -77,32 +207,91 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 3,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145112.html"
+      "mantra_ref": "2.1.3",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0927\u0928\u0941\u0930\u094d\u0917\u0943\u0939\u0940\u0924\u094d\u0935\u094c\u092a\u0928\u093f\u0937\u0926\u0902 \u092e\u0939\u093e\u0938\u094d\u0924\u094d\u0930\u0902 \u0936\u0930\u0902 \u0939\u094d\u092f\u0941\u092a\u093e\u0938\u093e\u0928\u093f\u0936\u093f\u0924\u0902 \u0938\u0928\u094d\u0926\u0927\u0940\u0924\u00a0\u0964 \n \u0906\u092f\u092e\u094d\u092f \u0924\u0926\u094d\u092d\u093e\u0935\u0917\u0924\u0947\u0928 \u091a\u0947\u0924\u0938\u093e \u0932\u0915\u094d\u0937\u094d\u092f\u0902 \u0924\u0926\u0947\u0935\u093e\u0915\u094d\u0937\u0930\u0902 \u0938\u094b\u092e\u094d\u092f \u0935\u093f\u0926\u094d\u0927\u093f \u0965 \u0969 \u0965",
-    "transliteration": "dhanurg\u1e5bh\u012btvaupani\u1e63ada\u1e43 mah\u0101stra\u1e43 \u015bara\u1e43 hyup\u0101s\u0101ni\u015bita\u1e43 sa\u1e43dhay\u012bta | \u0101yamya tadbh\u0101vagatena cetas\u0101 lak\u1e63ya\u1e43 tadev\u0101k\u1e63ara\u1e43 somya viddhi || 3 ||",
-    "translation": "3. Having taken the how furnished by the Upanishads , the great weapon\u2014and fixed in it the arrow rendered pointed by constant meditation and having drawn it with the mind fixed on the Brahman, hit, good looking youth! at that mark\u2014the immortal Brahman.",
-    "word_by_word": [],
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च । खं वायुर्ज्योतिरापः पृथिवी विश्वस्य धारिणी ॥ ३ ॥",
+    "transliteration": "etasmājjāyate prāṇo manaḥ sarvendriyāṇi ca | khaṃ vāyurjyotirāpaḥ pṛthivī viśvasya dhāriṇī || 3 ||",
+    "translation": "3. Having taken the how furnished by the Upanishads , the great weapon—and fixed in it the arrow rendered pointed by constant meditation and having drawn it with the mind fixed on the Brahman, hit, good looking youth! at that mark—the immortal Brahman.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "एतस्माज्जायते",
+        "word_english": "from this (Puruṣa) is born / arises",
+        "grammar_role": "एतद् · पञ्चमी·एक·पुं (पुरुषम् उद्दिश्य) + √जन् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "एतस्मात् + जायते"
+      },
+      {
+        "word_sanskrit": "प्राणो",
+        "word_english": "vital breath (prāṇa)",
+        "grammar_role": "प्राण · प्रथमा·एक·पुं",
+        "root": "प्राणः"
+      },
+      {
+        "word_sanskrit": "मनः",
+        "word_english": "mind",
+        "grammar_role": "मनस् · प्रथमा·एक·नपुं",
+        "root": "मनः"
+      },
+      {
+        "word_sanskrit": "सर्वेन्द्रियाणि",
+        "word_english": "all the sense-organs",
+        "grammar_role": "सर्व-इन्द्रिय · प्रथमा·बहु·नपुं",
+        "root": "सर्व-इन्द्रियाणि"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयद्योतक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "खं",
+        "word_english": "ether, space (ākāśa)",
+        "grammar_role": "ख · प्रथमा·एक·नपुं",
+        "root": "खम्"
+      },
+      {
+        "word_sanskrit": "वायुर्ज्योतिरापः",
+        "word_english": "wind, fire (light), waters",
+        "grammar_role": "वायु · प्रथमा·एक·पुं + ज्योतिस् · प्रथमा·एक·नपुं + अप् · प्रथमा·बहु·स्त्री",
+        "root": "वायुः + ज्योतिः + आपः"
+      },
+      {
+        "word_sanskrit": "पृथिवी",
+        "word_english": "earth",
+        "grammar_role": "पृथिवी · प्रथमा·एक·स्त्री",
+        "root": "पृथिवी"
+      },
+      {
+        "word_sanskrit": "विश्वस्य",
+        "word_english": "of all (everything)",
+        "grammar_role": "विश्व · षष्ठी·एक·नपुं",
+        "root": "विश्वस्य"
+      },
+      {
+        "word_sanskrit": "धारिणी",
+        "word_english": "supporter, upholder (of all)",
+        "grammar_role": "धारिन् · प्रथमा·एक·स्त्री",
+        "root": "धारिणी"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "3. Having taken the how furnished by the Upanishads , the great weapon\u2014and fixed in it the arrow rendered pointed by constant meditation and having drawn it with the mind fixed on the Brahman, hit, good looking youth! at that mark\u2014the immortal Brahman."
+        "text": "3. Having taken the how furnished by the Upanishads , the great weapon—and fixed in it the arrow rendered pointed by constant meditation and having drawn it with the mind fixed on the Brahman, hit, good looking youth! at that mark—the immortal Brahman."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u0925\u0902 \u0935\u0947\u0926\u094d\u0927\u0935\u094d\u092f\u092e\u093f\u0924\u093f, \u0909\u091a\u094d\u092f\u0924\u0947 \u2014 \u0927\u0928\u0941\u0903 \u0907\u0937\u094d\u0935\u093e\u0938\u0928\u0902 \u0917\u0943\u0939\u0940\u0924\u094d\u0935\u093e \u0906\u0926\u093e\u092f \u0914\u092a\u0928\u093f\u0937\u0926\u092e\u094d \u0909\u092a\u0928\u093f\u0937\u0924\u094d\u0938\u0941 \u092d\u0935\u0902 \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927\u0902 \u092e\u0939\u093e\u0938\u094d\u0924\u094d\u0930\u0902 \u092e\u0939\u091a\u094d\u091a \u0924\u0926\u0938\u094d\u0924\u094d\u0930\u0902 \u091a \u092e\u0939\u093e\u0938\u094d\u0924\u094d\u0930\u0902 \u0927\u0928\u0941\u0903, \u0924\u0938\u094d\u092e\u093f\u0928\u094d \u0936\u0930\u092e\u094d ; \u0915\u093f\u0902\u0935\u093f\u0936\u093f\u0937\u094d\u091f\u092e\u093f\u0924\u094d\u092f\u093e\u0939 \u2014 \u0909\u092a\u093e\u0938\u093e\u0928\u093f\u0936\u093f\u0924\u0902 \u0938\u0928\u094d\u0924\u0924\u093e\u092d\u093f\u0927\u094d\u092f\u093e\u0928\u0947\u0928 \u0924\u0928\u0942\u0915\u0943\u0924\u092e\u094d , \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092e\u093f\u0924\u094d\u092f\u0947\u0924\u0924\u094d ; \u0938\u0928\u094d\u0926\u0927\u0940\u0924 \u0938\u0928\u094d\u0927\u093e\u0928\u0902 \u0915\u0941\u0930\u094d\u092f\u093e\u0924\u094d\u00a0\u0964 \u0938\u0928\u094d\u0927\u093e\u092f \u091a \u0906\u092f\u092e\u094d\u092f \u0906\u0915\u0943\u0937\u094d\u092f \u0938\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u092e\u0928\u094d\u0924\u0903\u0915\u0930\u0923\u0902 \u0938\u094d\u0935\u0935\u093f\u0937\u092f\u093e\u0926\u094d\u0935\u093f\u0928\u093f\u0935\u0930\u094d\u0924\u094d\u092f \u0932\u0915\u094d\u0937\u094d\u092f \u090f\u0935\u093e\u0935\u0930\u094d\u091c\u093f\u0924\u0902 \u0915\u0943\u0924\u094d\u0935\u0947\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0928 \u0939\u093f \u0939\u0938\u094d\u0924\u0947\u0928\u0947\u0935 \u0927\u0928\u0941\u0937 \u0906\u092f\u092e\u0928\u092e\u093f\u0939 \u0938\u092e\u094d\u092d\u0935\u0924\u093f\u00a0\u0964 \u0924\u0926\u094d\u092d\u093e\u0935\u0917\u0924\u0947\u0928 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0923\u094d\u092f\u0915\u094d\u0937\u0930\u0947 \u0932\u0915\u094d\u0937\u094d\u092f\u0947 \u092d\u093e\u0935\u0928\u093e \u092d\u093e\u0935\u0903 \u0924\u0926\u094d\u0917\u0924\u0947\u0928 \u091a\u0947\u0924\u0938\u093e, \u0932\u0915\u094d\u0937\u094d\u092f\u0902 \u0924\u0926\u0947\u0935 \u092f\u0925\u094b\u0915\u094d\u0924\u0932\u0915\u094d\u0937\u0923\u092e\u094d \u0905\u0915\u094d\u0937\u0930\u0902 \u0938\u094b\u092e\u094d\u092f, \u0935\u093f\u0926\u094d\u0927\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014How that is hit is now explained. Dhanuh. the bow. Grihitva, having taken. Upanishadam horn in, i.e., well-known in the Upanishads. Mahastram, great weapon, i.e., the arrow; fix the arrow; of what quality is stated. Upasauisltam , rendered pointed by constant meditation, i.e., purified; after fixing it and drawing it, i.e., having drawn the mind and the senses from their external objects and bending, i.e., concentrating them on the mark, for the bow here cannot be bent as by the hand; hit the mark\u2014the immortal Brahman \u2014above defined with thy mind, Oh good looking youth, engrossed by meditation upon the Brahman."
+        "text": "कथं ते न सन्ति प्राणादय इति, उच्यते — यस्मात् एतस्मादेव पुरुषान्नामरूपबीजोपाधिलक्षितात् जायते उत्पद्यतेऽविद्याविषयो विकारभूतो नामधेयोऽनृतात्मकः प्राणः, ‘वाचारम्भणं विकारो नामधेयम्’ (छा. उ. ६ । १ । ४) ‘अनृतम्’ इति श्रुत्यन्तरात् । न हि तेनाविद्याविषयेणानृतेन प्राणेन सप्राणत्वं परस्य स्यादपुत्रस्य स्वप्नदृष्टेनेव पुत्रेण सपुत्रत्वम् । एवं मनः सर्वाणि चेन्द्रियाणि विषयाश्चैतस्मादेव जायन्ते । तस्मात्सिद्धमस्य निरुपचरितमप्राणादिमत्त्वमित्यर्थः । यथा च प्रागुत्पत्तेः परमार्थतोऽसन्तस्तथा प्रलीनाश्चेति द्रष्टव्याः । यथा करणानि मनश्चेन्द्रियाणि च, तथा शरीरविषयकारणानि भूतानि खम् आकाशं, वायुः बाह्य आवहादिभेदः, ज्योतिः अग्निः, आपः उदकं, पृथिवी धरित्री विश्वस्य सर्वस्य धारिणी; एतानि च शब्दस्पर्शरूपरसगन्धोत्तरोत्तरगुणानि पूर्वपूर्वगुणसहितान्येतस्मादेव जायन्ते ॥"
       }
     ],
     "commentary_faqs": []
@@ -113,15 +302,108 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 4,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145113.html"
+      "mantra_ref": "2.1.4",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092a\u094d\u0930\u0923\u0935\u094b \u0927\u0928\u0941\u0903 \u0936\u0930\u094b \u0939\u094d\u092f\u093e\u0924\u094d\u092e\u093e \u092c\u094d\u0930\u0939\u094d\u092e \u0924\u0932\u094d\u0932\u0915\u094d\u0937\u094d\u092f\u092e\u0941\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \n \u0905\u092a\u094d\u0930\u092e\u0924\u094d\u0924\u0947\u0928 \u0935\u0947\u0926\u094d\u0927\u0935\u094d\u092f\u0902 \u0936\u0930\u0935\u0924\u094d\u0924\u0928\u094d\u092e\u092f\u094b \u092d\u0935\u0947\u0924\u094d \u0965 \u096a \u0965",
-    "transliteration": "pra\u1e47avo dhanu\u1e25 \u015b\u0101ro hy\u0101tm\u0101 brahma tallak\u1e63yamucyate | apramattena veddhavya\u1e43 \u015baravattanmayo bhavet || 4 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "अग्निर्मूर्धा चक्षुषी चन्द्रसूर्यौ दिशः श्रोत्रे वाग्विवृताश्च वेदाः । वायुः प्राणो हृदयं विश्वमस्य पद्भ्यां पृथिवी ह्येष सर्वभूतान्तरात्मा ॥ ४ ॥",
+    "transliteration": "agnirmūrdhā cakṣuṣī candrasūryau diśaḥ śrotre vāgvivṛtāśca vedāḥ | vāyuḥ prāṇo hṛdayaṃ viśvamasya padbhyāṃ pṛthivī hyeṣa sarvabhūtāntarātmā || 4 ||",
     "translation": "4. The Pranava is the how, the Atman is the arrow and the Brahman is said to be its mark. It should he hit by one who is self-collected and that which hits becomes, like the arrow, one with the mark, i.e.. Brahman.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "अग्निर्मूर्धा",
+        "word_english": "fire (= the heavenly world, dyuloka) is (his) head",
+        "grammar_role": "अग्नि · प्रथमा·एक·पुं + मूर्धन् · प्रथमा·एक·पुं",
+        "root": "अग्निः + मूर्धा"
+      },
+      {
+        "word_sanskrit": "चक्षुषी",
+        "word_english": "the two eyes (of whom)",
+        "grammar_role": "चक्षुस् · प्रथमा·द्वि·नपुं",
+        "root": "चक्षुषी"
+      },
+      {
+        "word_sanskrit": "चन्द्रसूर्यौ",
+        "word_english": "moon and sun (are his two eyes)",
+        "grammar_role": "चन्द्र-सूर्य · प्रथमा·द्वि·पुं",
+        "root": "चन्द्र-सूर्यौ"
+      },
+      {
+        "word_sanskrit": "दिशः",
+        "word_english": "the quarters (directions, are his ears)",
+        "grammar_role": "दिश् · प्रथमा·बहु·स्त्री",
+        "root": "दिशः"
+      },
+      {
+        "word_sanskrit": "श्रोत्रे",
+        "word_english": "the two ears (of whom)",
+        "grammar_role": "श्रोत्र · प्रथमा·द्वि·नपुं",
+        "root": "श्रोत्रे"
+      },
+      {
+        "word_sanskrit": "वाग्विवृताश्च",
+        "word_english": "speech, and the revealed (open, well-known Vedas)",
+        "grammar_role": "वाच् · प्रथमा·एक·स्त्री + विवृत · प्रथमा·बहु·पुं + च · अव्यय (समुच्चय)",
+        "root": "वाक् + विवृताः + च"
+      },
+      {
+        "word_sanskrit": "वेदाः",
+        "word_english": "the Vedas (are his speech, revealed)",
+        "grammar_role": "वेद · प्रथमा·बहु·पुं",
+        "root": "वेदाः"
+      },
+      {
+        "word_sanskrit": "वायुः",
+        "word_english": "the wind (is his breath)",
+        "grammar_role": "वायु · प्रथमा·एक·पुं",
+        "root": "वायुः"
+      },
+      {
+        "word_sanskrit": "प्राणो",
+        "word_english": "(his) vital breath",
+        "grammar_role": "प्राण · प्रथमा·एक·पुं",
+        "root": "प्राणः"
+      },
+      {
+        "word_sanskrit": "हृदयं",
+        "word_english": "the heart (= the inner organ / mind, of whom)",
+        "grammar_role": "हृदय · प्रथमा·एक·नपुं",
+        "root": "हृदयम्"
+      },
+      {
+        "word_sanskrit": "विश्वमस्य",
+        "word_english": "the whole universe (is his); of this (one)",
+        "grammar_role": "विश्व · प्रथमा·एक·नपुं + इदम् · षष्ठी·एक·पुं",
+        "root": "विश्वम् + अस्य"
+      },
+      {
+        "word_sanskrit": "पद्भ्यां",
+        "word_english": "from (his) two feet",
+        "grammar_role": "पद् · पञ्चमी·द्वि·पुं",
+        "root": "पद्भ्याम्"
+      },
+      {
+        "word_sanskrit": "पृथिवी",
+        "word_english": "the earth (sprang from his feet)",
+        "grammar_role": "पृथिवी · प्रथमा·एक·स्त्री",
+        "root": "पृथिवी"
+      },
+      {
+        "word_sanskrit": "ह्येष",
+        "word_english": "for this (one) indeed (is)",
+        "grammar_role": "हि · अव्यय (हेतु) + एतद् · प्रथमा·एक·पुं",
+        "root": "हि + एषः"
+      },
+      {
+        "word_sanskrit": "सर्वभूतान्तरात्मा",
+        "word_english": "the inner Self of all beings",
+        "grammar_role": "सर्व-भूत-अन्तरात्मन् · प्रथमा·एक·पुं",
+        "root": "सर्व-भूत-अन्तर्-आत्मा"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -132,13 +414,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u092f\u0926\u0941\u0915\u094d\u0924\u0902 \u0927\u0928\u0941\u0930\u093e\u0926\u093f, \u0924\u0926\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u092a\u094d\u0930\u0923\u0935\u0903 \u0913\u0919\u094d\u0915\u093e\u0930\u0903 \u0927\u0928\u0941\u0903\u00a0\u0964 \u092f\u0925\u093e \u0907\u0937\u094d\u0935\u093e\u0938\u0928\u0902 \u0932\u0915\u094d\u0937\u094d\u092f\u0947 \u0936\u0930\u0938\u094d\u092f \u092a\u094d\u0930\u0935\u0947\u0936\u0915\u093e\u0930\u0923\u092e\u094d , \u0924\u0925\u093e \u0906\u0924\u094d\u092e\u0936\u0930\u0938\u094d\u092f\u093e\u0915\u094d\u0937\u0930\u0947 \u0932\u0915\u094d\u0937\u094d\u092f\u0947 \u092a\u094d\u0930\u0935\u0947\u0936\u0915\u093e\u0930\u0923\u092e\u094b\u0919\u094d\u0915\u093e\u0930\u0903\u00a0\u0964 \u092a\u094d\u0930\u0923\u0935\u0947\u0928 \u0939\u094d\u092f\u092d\u094d\u092f\u0938\u094d\u092f\u092e\u093e\u0928\u0947\u0928 \u0938\u0902\u0938\u094d\u0915\u094d\u0930\u093f\u092f\u092e\u093e\u0923\u0938\u094d\u0924\u0926\u093e\u0932\u092e\u094d\u092c\u0928\u094b\u093d\u092a\u094d\u0930\u0924\u093f\u092c\u0928\u094d\u0927\u0947\u0928\u093e\u0915\u094d\u0937\u0930\u0947\u093d\u0935\u0924\u093f\u0937\u094d\u0920\u0924\u0947\u00a0\u0964 \u092f\u0925\u093e \u0927\u0928\u0941\u0937\u093e \u0905\u0938\u094d\u0924 \u0907\u0937\u0941\u0930\u094d\u0932\u0915\u094d\u0937\u094d\u092f\u0947\u00a0\u0964 \u0905\u0924\u0903 \u092a\u094d\u0930\u0923\u0935\u094b \u0927\u0928\u0941\u0930\u093f\u0935 \u0927\u0928\u0941\u0903\u00a0\u0964 \u0936\u0930\u094b \u0939\u094d\u092f\u093e\u0924\u094d\u092e\u093e \u0909\u092a\u093e\u0927\u093f\u0932\u0915\u094d\u0937\u0923\u0903 \u092a\u0930 \u090f\u0935 \u091c\u0932\u0947 \u0938\u0942\u0930\u094d\u092f\u093e\u0926\u093f\u0935\u0926\u093f\u0939 \u092a\u094d\u0930\u0935\u093f\u0937\u094d\u091f\u094b \u0926\u0947\u0939\u0947 \u0938\u0930\u094d\u0935\u092c\u094c\u0926\u094d\u0927\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0938\u093e\u0915\u094d\u0937\u093f\u0924\u092f\u093e ; \u0938 \u0936\u0930 \u0907\u0935 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u0928\u094d\u092f\u0947\u0935\u093e\u0930\u094d\u092a\u093f\u0924\u094b\u093d\u0915\u094d\u0937\u0930\u0947 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093f ; \u0905\u0924\u0903 \u092c\u094d\u0930\u0939\u094d\u092e \u0924\u0924\u094d \u0932\u0915\u094d\u0937\u094d\u092f\u092e\u0941\u091a\u094d\u092f\u0924\u0947 \u0932\u0915\u094d\u0937\u094d\u092f \u0907\u0935 \u092e\u0928\u0903 \u0938\u092e\u093e\u0927\u093f\u0924\u094d\u0938\u0941\u092d\u093f\u0930\u093e\u0924\u094d\u092e\u092d\u093e\u0935\u0947\u0928 \u0932\u0915\u094d\u0937\u094d\u092f\u092e\u093e\u0923\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u0924\u0924\u094d\u0930\u0948\u0935\u0902 \u0938\u0924\u093f \u0905\u092a\u094d\u0930\u092e\u0924\u094d\u0924\u0947\u0928 \u092c\u093e\u0939\u094d\u092f\u0935\u093f\u0937\u092f\u094b\u092a\u0932\u092c\u094d\u0927\u093f\u0924\u0943\u0937\u094d\u0923\u093e\u092a\u094d\u0930\u092e\u093e\u0926\u0935\u0930\u094d\u091c\u093f\u0924\u0947\u0928 \u0938\u0930\u094d\u0935\u0924\u094b \u0935\u093f\u0930\u0915\u094d\u0924\u0947\u0928 \u091c\u093f\u0924\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0947\u0923\u0948\u0915\u093e\u0917\u094d\u0930\u091a\u093f\u0924\u094d\u0924\u0947\u0928 \u0935\u0947\u0926\u094d\u0927\u0935\u094d\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0932\u0915\u094d\u0937\u094d\u092f\u092e\u094d\u00a0\u0964 \u0924\u0924\u0938\u094d\u0924\u0926\u094d\u0935\u0947\u0927\u0928\u093e\u0926\u0942\u0930\u094d\u0927\u094d\u0935\u0902 \u0936\u0930\u0935\u0924\u094d \u0924\u0928\u094d\u092e\u092f\u0903 \u092d\u0935\u0947\u0924\u094d ; \u092f\u0925\u093e \u0936\u0930\u0938\u094d\u092f \u0932\u0915\u094d\u0937\u094d\u092f\u0948\u0915\u093e\u0924\u094d\u092e\u0924\u094d\u0935\u0902 \u092b\u0932\u0902 \u092d\u0935\u0924\u093f, \u0924\u0925\u093e \u0926\u0947\u0939\u093e\u0926\u094d\u092f\u093e\u0924\u094d\u092e\u0924\u093e\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0924\u093f\u0930\u0938\u094d\u0915\u0930\u0923\u0947\u0928\u093e\u0915\u094d\u0937\u0930\u0948\u0915\u093e\u0924\u094d\u092e\u0924\u094d\u0935\u0902 \u092b\u0932\u092e\u093e\u092a\u093e\u0926\u092f\u0947\u0926\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014What the bow and the rest above referred to are, is explained. The Pranava, i.e. , the syllable \u201cOm\u201d is the bow; as the bow is the cause of the arrow entering into the mark, so the syllable \u201cOm\u201d is the cause of the Atman entering into the Brahman ; for it is only when purified, by the repetition of Pranava, that the Atman supported by it becomes fixed in the Brahman without obstruction, as the arrow by the force of the bow is fixed in the mark. Therefore the Pranava is like a bow. The arrow is the Paramatman itself conditioned as the Atman having entered the body here, as the sun enters the water, as the witness of all states of consciousness. That, like an arrow, is discharged towards itself\u2014the immortal Brahman . Therefore the Brahman is said to be its mark, because it is seen to be the Atman itself by those who fix their mind upon it as on a mark. This being so, the Brahman which is the mark should be hit by one who is self-collected, i. e., who is free from the excitement caused by a thirst to get at external objects, who is disgusted with everything, who has conquered his senses and whose mind is concentrated. When that is hit, the Atman becomes like the arrow, one with the mark, i.e., the Brahman. Just as the success of the arrow is its becoming one with the mark, so the fruit here achieved is the Atman becoming one with the immortal Brahman by the dispelling of the notion that the body, etc., is the Atman."
+        "text": "सङ्क्षेपतः परविद्याविषयमक्षरं निर्विशेषं पुरुषं सत्यम् ‘दिव्यो ह्यमूर्तः’ (मु. उ. २ । १ । २) इत्यादिना मन्त्रेणोक्त्वा, पुनस्तदेव सविशेषं विस्तरेण वक्तव्यमिति प्रववृते; सङ्क्षेपविस्तरोक्तो हि पदार्थः सुखाधिगम्यो भवति सूत्रभाष्योक्तिवदिति । यो हि प्रथमजात्प्राणाद्धिरण्यगर्भाज्जायतेऽण्डस्यान्तर्विराट्, स तत्त्वान्तरितत्त्वेन लक्ष्यमाणोऽप्येतस्मादेव पुरुषाज्जायत एतन्मयश्चेत्येतदर्थमाह, तं च विशिनष्टि — अग्निः द्युलोकः, ‘असौ वाव लोको गौतमाग्निः’ (छा. उ. ५ । ४ । १) इति श्रुतेः । मूर्धा यस्योत्तमाङ्गं शिरः, चक्षुषी चन्द्रश्च सूर्यश्चेति चन्द्रसूर्यौ; यस्येति सर्वत्रानुषङ्गः कर्तव्यः अस्येत्यस्य पदस्य वक्ष्यमाणस्य यस्येति विपरिणामं कृत्वा । दिशः श्रोत्रे यस्य । वाक् विवृताश्च उद्घाटिताः प्रसिद्धा वेदाः यस्य । वायुः प्राणो यस्य । हृदयम् अन्तःकरणं विश्वं समस्तं जगत् अस्य यस्येत्येतत् । सर्वं ह्यन्तःकरणविकारमेव जगत्, मनस्येव सुषुप्ते प्रलयदर्शनात्; जागरितेऽपि तत एवाग्निविस्फुलिङ्गवद्विप्रतिष्ठानात् । यस्य च पद्भ्यां जाता पृथिवी, एष देवो विष्णुरनन्तः प्रथमशरीरी त्रैलोक्यदेहोपाधिः सर्वेषां भूतानामन्तरात्मा । स हि सर्वभूतेषु द्रष्टा श्रोता मन्ता विज्ञाता सर्वकरणात्मा ॥"
       }
     ],
     "commentary_faqs": []
@@ -149,15 +427,96 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 5,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145114.html"
+      "mantra_ref": "2.1.5",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0926\u094d\u092f\u094c\u0903 \u092a\u0943\u0925\u093f\u0935\u0940 \u091a\u093e\u0928\u094d\u0924\u0930\u093f\u0915\u094d\u0937\u092e\u094b\u0924\u0902 \u092e\u0928\u0903 \u0938\u0939 \u092a\u094d\u0930\u093e\u0923\u0948\u0936\u094d\u091a \u0938\u0930\u094d\u0935\u0948\u0903\u00a0\u0964 \n \u0924\u092e\u0947\u0935\u0948\u0915\u0902 \u091c\u093e\u0928\u0925 \u0906\u0924\u094d\u092e\u093e\u0928\u092e\u0928\u094d\u092f\u093e \u0935\u093e\u091a\u094b \u0935\u093f\u092e\u0941\u091e\u094d\u091a\u0925\u093e\u092e\u0943\u0924\u0938\u094d\u092f\u0948\u0937 \u0938\u0947\u0924\u0941\u0903 \u0965 \u096b \u0965",
-    "transliteration": "yasmindyau\u1e25 p\u1e5bthiv\u012b c\u0101ntarik\u1e63amota\u1e43 mana\u1e25 saha pr\u0101\u1e47ai\u015bca sarvai\u1e25 | tamevaika\u1e43 j\u0101natha \u0101tm\u0101namany\u0101 v\u0101co vimu\u00f1cath\u0101m\u1e5btasyai\u1e63a setu\u1e25 || 5 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "तस्मादग्निः समिधो यस्य सूर्यः सोमात्पर्जन्य ओषधयः पृथिव्याम् । पुमान्रेतः सिञ्चति योषितायां बह्वीः प्रजाः पुरुषात्सम्प्रसूताः ॥ ५ ॥",
+    "transliteration": "tasmādagniḥ samidho yasya sūryaḥ somātparjanya oṣadhayaḥ pṛthivyām | pumānretaḥ siñcati yoṣitāyāṃ bahvīḥ prajāḥ puruṣātsamprasūtāḥ || 5 ||",
     "translation": "5. He in whom the heaven, the earth, the antariksha (sky), the mind with the pranas are centred; know him to be the one Atman of all; abandon all other speech; this is the road to immortality.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मादग्निः",
+        "word_english": "from that (Puruṣa); the (first) fire arises",
+        "grammar_role": "तद् · पञ्चमी·एकवचन·पुंलिङ्ग + अग्नि · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "तस्मात् + अग्निः"
+      },
+      {
+        "word_sanskrit": "समिधो",
+        "word_english": "the kindling-sticks (fuel); predicate — its kindling is the sun",
+        "grammar_role": "समिध् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "समिधः"
+      },
+      {
+        "word_sanskrit": "यस्य",
+        "word_english": "of which (fire)",
+        "grammar_role": "यद् · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "यस्य"
+      },
+      {
+        "word_sanskrit": "सूर्यः",
+        "word_english": "the sun (is its fuel, for the heaven-world is kindled by the sun)",
+        "grammar_role": "सूर्य · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सूर्यः"
+      },
+      {
+        "word_sanskrit": "सोमात्पर्जन्य",
+        "word_english": "from Soma, Parjanya the rain-cloud (the second fire) arises",
+        "grammar_role": "सोम · पञ्चमी·एकवचन·पुंलिङ्ग + पर्जन्य · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सोमात् + पर्जन्यः"
+      },
+      {
+        "word_sanskrit": "ओषधयः",
+        "word_english": "the herbs (arise from Parjanya)",
+        "grammar_role": "ओषधि · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "ओषधयः"
+      },
+      {
+        "word_sanskrit": "पृथिव्याम्",
+        "word_english": "on the earth",
+        "grammar_role": "पृथिवी · सप्तमी·एकवचन·स्त्रीलिङ्ग",
+        "root": "पृथिव्याम्"
+      },
+      {
+        "word_sanskrit": "पुमान्रेतः",
+        "word_english": "the man (pours) the semen",
+        "grammar_role": "पुंस् · प्रथमा·एकवचन·पुंलिङ्ग + रेतस् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "पुमान् + रेतः"
+      },
+      {
+        "word_sanskrit": "सिञ्चति",
+        "word_english": "pours, sprinkles",
+        "grammar_role": "√सिच् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "सिञ्चति"
+      },
+      {
+        "word_sanskrit": "योषितायां",
+        "word_english": "into the woman (the woman-as-fire); bhāṣya glosses योषिति/स्त्रियाम्",
+        "grammar_role": "योषिता · सप्तमी·एकवचन·स्त्रीलिङ्ग",
+        "root": "योषितायाम्"
+      },
+      {
+        "word_sanskrit": "बह्वीः",
+        "word_english": "many (subject, qualifying प्रजाः)",
+        "grammar_role": "बहु → बह्वी · प्रथमा·बहुवचन·स्त्रीलिङ्ग (Vedic nom.pl. with -ीः; Śaṅkara glosses बह्व्यः)",
+        "root": "बह्वीः"
+      },
+      {
+        "word_sanskrit": "प्रजाः",
+        "word_english": "creatures, offspring (the subject that are born forth)",
+        "grammar_role": "प्रजा · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "प्रजाः"
+      },
+      {
+        "word_sanskrit": "पुरुषात्सम्प्रसूताः",
+        "word_english": "are born forth from the (supreme) Puruṣa",
+        "grammar_role": "पुरुष · पञ्चमी·एकवचन·पुंलिङ्ग + सम्प्रसूत · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "पुरुषात् + सम्प्रसूताः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -168,13 +527,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0915\u094d\u0937\u0930\u0938\u094d\u092f\u0948\u0935 \u0926\u0941\u0930\u094d\u0932\u0915\u094d\u0937\u094d\u092f\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u0941\u0928\u0903 \u092a\u0941\u0928\u0930\u094d\u0935\u091a\u0928\u0902 \u0938\u0941\u0932\u0915\u094d\u0937\u0923\u093e\u0930\u094d\u0925\u092e\u094d\u00a0\u0964 \u092f\u0938\u094d\u092e\u093f\u0928\u094d \u0905\u0915\u094d\u0937\u0930\u0947 \u092a\u0941\u0930\u0941\u0937\u0947 \u0926\u094d\u092f\u094c\u0903 \u092a\u0943\u0925\u093f\u0935\u0940 \u091a \u0905\u0928\u094d\u0924\u0930\u093f\u0915\u094d\u0937\u0902 \u091a \u0913\u0924\u0902 \u0938\u092e\u0930\u094d\u092a\u093f\u0924\u0902 \u092e\u0928\u0936\u094d\u091a \u0938\u0939 \u092a\u094d\u0930\u093e\u0923\u0948\u0903 \u0915\u0930\u0923\u0948\u0903 \u0905\u0928\u094d\u092f\u0948\u0903 \u0938\u0930\u094d\u0935\u0948\u0903, \u0924\u092e\u0947\u0935 \u0938\u0930\u094d\u0935\u093e\u0936\u094d\u0930\u092f\u092e\u0947\u0915\u092e\u0926\u094d\u0935\u093f\u0924\u0940\u092f\u0902 \u091c\u093e\u0928\u0925 \u091c\u093e\u0928\u0940\u0924 \u0939\u0947 \u0936\u093f\u0937\u094d\u092f\u093e\u0903\u00a0\u0964 \u0906\u0924\u094d\u092e\u093e\u0928\u0902 \u092a\u094d\u0930\u0924\u094d\u092f\u0915\u094d\u0938\u094d\u0935\u0930\u0942\u092a\u0902 \u092f\u0941\u0937\u094d\u092e\u093e\u0915\u0902 \u0938\u0930\u094d\u0935\u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u0902 \u091a\u00a0\u0964 \u091c\u094d\u091e\u093e\u0924\u094d\u0935\u093e \u091a \u0905\u0928\u094d\u092f\u093e\u0903 \u0935\u093e\u091a\u0903 \u0905\u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u0942\u092a\u093e\u0903 \u0935\u093f\u092e\u0941\u091e\u094d\u091a\u0925 \u0935\u093f\u092e\u0941\u091e\u094d\u091a\u0924 \u092a\u0930\u093f\u0924\u094d\u092f\u091c\u0924\u00a0\u0964 \u0924\u0924\u094d\u092a\u094d\u0930\u0915\u093e\u0936\u094d\u092f\u0902 \u091a \u0938\u0930\u094d\u0935\u0902 \u0915\u0930\u094d\u092e \u0938\u0938\u093e\u0927\u0928\u092e\u094d\u00a0\u0964 \u092f\u0924\u0903 \u0905\u092e\u0943\u0924\u0938\u094d\u092f \u090f\u0937 \u0938\u0947\u0924\u0941\u0903, \u090f\u0924\u0926\u093e\u0924\u094d\u092e\u091c\u094d\u091e\u093e\u0928\u092e\u092e\u0943\u0924\u0938\u094d\u092f\u093e\u092e\u0943\u0924\u0924\u094d\u0935\u0938\u094d\u092f \u092e\u094b\u0915\u094d\u0937\u0938\u094d\u092f \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u092f\u0947 \u0938\u0947\u0924\u0941\u0930\u093f\u0935 \u0938\u0947\u0924\u0941\u0903, \u0938\u0902\u0938\u093e\u0930\u092e\u0939\u094b\u0926\u0927\u0947\u0930\u0941\u0924\u094d\u0924\u0930\u0923\u0939\u0947\u0924\u0941\u0924\u094d\u0935\u093e\u0924\u094d ; \u0924\u0925\u093e \u091a \u0936\u094d\u0930\u0941\u0924\u094d\u092f\u0928\u094d\u0924\u0930\u092e\u094d \u2014 \n\u2018\u0924\u092e\u0947\u0935 \u0935\u093f\u0926\u093f\u0924\u094d\u0935\u093e\u0924\u093f \u092e\u0943\u0924\u094d\u092f\u0941\u092e\u0947\u0924\u093f \u0928\u093e\u0928\u094d\u092f\u0903 \u092a\u0928\u094d\u0925\u093e \u0935\u093f\u0926\u094d\u092f\u0924\u0947\u093d\u092f\u0928\u093e\u092f\u2019 (\u0936\u094d\u0935\u0947. \u0909. \u0969\u00a0\u0964 \u096e)\n \u0907\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014As the \u201cImmortal\u201d cannot be easily grasped by the mind, the repetition is for the purpose of making it more easily cognisable. He, the immortal Brahman , in whom Dyouh , earth, and antariksha are centred, as also the mind with the other instruments; know him, O disciples as \u201cthe one,\u201d the support of all; the Atman , i.e., the internal principle of yourselves and all living beings; having known that, leave off all other speech of the nature of \u201c Apara vidya \u201d as also all Kar ma with their aids elucidated by it; for, this, i.e. , the knowledge of the Atman is the road to the attaintment of emancipation, the bridge as it were by which the great ocean of Samsara is crossed, as another Sruti says \u201chaving known him thus, one travels beyond death; there is no other road to emancipation.\u201d"
+        "text": "【अवतरणिका】\nपञ्चाग्निद्वारेण च याः संसरन्ति प्रजाः, ता अपि तस्मादेव पुरुषात्प्रजायन्त इत्युच्यते —\n\nतस्मात् परस्मात्पुरुषात् प्रजावस्थानविशेषरूपः अग्निः । स विशेष्यते — समिधो यस्य सूर्यः, समिध इव समिधः; सूर्येण हि द्युलोकः समिध्यते । ततो हि द्युलोकाग्नेर्निष्पन्नात् सोमात् पर्जन्यः द्वितीयोऽग्निः सम्भवति । तस्माच्च पर्जन्यात् ओषधयः पृथिव्यां सम्भवन्ति । ओषधिभ्यः पुरुषाग्नौ हुताभ्य उपादानभूताभ्यः पुमानग्निः रेतः सिञ्चति योषितायां योषिति योषाग्नौ स्त्रियामिति । एवं क्रमेण बह्वीः बह्व्यः प्रजाः ब्राह्मणाद्याः पुरुषात् परस्मात् सम्प्रसूताः समुत्पन्नाः ॥"
       }
     ],
     "commentary_faqs": []
@@ -185,32 +540,127 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 6,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145115.html"
+      "mantra_ref": "2.1.6",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0930\u093e \u0907\u0935 \u0930\u0925\u0928\u093e\u092d\u094c \u0938\u0902\u0939\u0924\u093e \u092f\u0924\u094d\u0930 \u0928\u093e\u0921\u094d\u092f\u0903 \u0938 \u090f\u0937\u094b\u093d\u0928\u094d\u0924\u0936\u094d\u091a\u0930\u0924\u0947 \u092c\u0939\u0941\u0927\u093e \u091c\u093e\u092f\u092e\u093e\u0928\u0903\u00a0\u0964 \n \u0913\u092e\u093f\u0924\u094d\u092f\u0947\u0935\u0902 \u0927\u094d\u092f\u093e\u092f\u0925 \u0906\u0924\u094d\u092e\u093e\u0928\u0902 \u0938\u094d\u0935\u0938\u094d\u0924\u093f \u0935\u0903 \u092a\u093e\u0930\u093e\u092f \u0924\u092e\u0938\u0903 \u092a\u0930\u0938\u094d\u0924\u093e\u0924\u094d \u0965 \u096c \u0965",
-    "transliteration": "ar\u0101 iva rathan\u0101bhau sa\u1e43hat\u0101 yatra n\u0101\u1e0dya\u1e25 sa e\u1e63o'nta\u015bcarate bahudh\u0101 j\u0101yam\u0101na\u1e25 | omityeva\u1e43 dhy\u0101yatha \u0101tm\u0101na\u1e43 svasti va\u1e25 p\u0101r\u0101ya tamasa\u1e25 parast\u0101t || 6 ||",
-    "translation": "6. Where the nerves of the body meet together as the spokes in the nave of a wheel, this Atman is within it variously horn; meditate upon \u201cOm\u201d as the Atman. May there be no obstacle to your going to the other side beyond darkness.",
-    "word_by_word": [],
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "तस्मादृचः साम यजूंषि दीक्षा यज्ञाश्च सर्वे क्रतवो दक्षिणाश्च । संवत्सरश्च यजमानश्च लोकाः सोमो यत्र पवते यत्र सूर्यः ॥ ६ ॥",
+    "transliteration": "tasmādṛcaḥ sāma yajūṃṣi dīkṣā yajñāśca sarve kratavo dakṣiṇāśca | saṃvatsaraśca yajamānaśca lokāḥ somo yatra pavate yatra sūryaḥ || 6 ||",
+    "translation": "6. Where the nerves of the body meet together as the spokes in the nave of a wheel, this Atman is within it variously horn; meditate upon “Om” as the Atman. May there be no obstacle to your going to the other side beyond darkness.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मादृचः",
+        "word_english": "from that (Puruṣa); the Ṛg-verses (arise) — bhāṣya: nityākṣara-pādāvasāna mantras in Gāyatrī etc. metres",
+        "grammar_role": "तद् · पञ्चमी·एक·पुं (तस्मात्) + ऋच् · प्रथमा·बहु·स्त्री (ऋचः)",
+        "root": "तस्मात् + ऋचः"
+      },
+      {
+        "word_sanskrit": "साम",
+        "word_english": "the Sāman chant (bhāṣya: pāñca-/sāpta-bhaktika, with stobha etc.)",
+        "grammar_role": "सामन् · प्रथमा·एक·नपुं",
+        "root": "साम"
+      },
+      {
+        "word_sanskrit": "यजूंषि",
+        "word_english": "the Yajus formulas (bhāṣya: non-fixed-syllable sentence-form mantras)",
+        "grammar_role": "यजुस् · प्रथमा·बहु·नपुं",
+        "root": "यजूंषि"
+      },
+      {
+        "word_sanskrit": "दीक्षा",
+        "word_english": "consecration-rite (bhāṣya reads collectively dīkṣāḥ: agent-restrictions like the muñja-girdle)",
+        "grammar_role": "दीक्षा · प्रथमा·एक·स्त्री",
+        "root": "दीक्षा"
+      },
+      {
+        "word_sanskrit": "यज्ञाश्च",
+        "word_english": "and the sacrifices (bhāṣya: Agnihotra etc.)",
+        "grammar_role": "यज्ञ · प्रथमा·बहु·पुं (यज्ञाः) + च · अव्यय (समुच्चय)",
+        "root": "यज्ञाः + च"
+      },
+      {
+        "word_sanskrit": "सर्वे",
+        "word_english": "all (qualifying the sacrifices)",
+        "grammar_role": "सर्व · प्रथमा·बहु·पुं",
+        "root": "सर्वे"
+      },
+      {
+        "word_sanskrit": "क्रतवो",
+        "word_english": "the Soma-rites (bhāṣya: sayūpāḥ, those with sacrificial posts)",
+        "grammar_role": "क्रतु · प्रथमा·बहु·पुं",
+        "root": "क्रतवः"
+      },
+      {
+        "word_sanskrit": "दक्षिणाश्च",
+        "word_english": "and the sacrificial fees (bhāṣya: from a single cow up to one's entire wealth)",
+        "grammar_role": "दक्षिणा · प्रथमा·बहु·स्त्री (दक्षिणाः) + च · अव्यय (समुच्चय)",
+        "root": "दक्षिणाः + च"
+      },
+      {
+        "word_sanskrit": "संवत्सरश्च",
+        "word_english": "and the year (bhāṣya: time, a constituent of the rite)",
+        "grammar_role": "संवत्सर · प्रथमा·एक·पुं (संवत्सरः) + च · अव्यय (समुच्चय)",
+        "root": "संवत्सरः + च"
+      },
+      {
+        "word_sanskrit": "यजमानश्च",
+        "word_english": "and the sacrificer (bhāṣya: the agent, kartā)",
+        "grammar_role": "यजमान · प्रथमा·एक·पुं (यजमानः) + च · अव्यय (समुच्चय)",
+        "root": "यजमानः + च"
+      },
+      {
+        "word_sanskrit": "लोकाः",
+        "word_english": "the worlds (bhāṣya: the fruits of his karma)",
+        "grammar_role": "लोक · प्रथमा·बहु·पुं",
+        "root": "लोकाः"
+      },
+      {
+        "word_sanskrit": "सोमो",
+        "word_english": "Soma (bhāṣya: that which purifies the worlds — pavate punāti lokān)",
+        "grammar_role": "सोम · प्रथमा·एक·पुं",
+        "root": "सोमः"
+      },
+      {
+        "word_sanskrit": "यत्र",
+        "word_english": "where (in which worlds)",
+        "grammar_role": "यत्र · अव्यय (देशवाचक; bhāṣya: येषु लोकेषु)",
+        "root": "यत्र"
+      },
+      {
+        "word_sanskrit": "पवते",
+        "word_english": "flows/purifies (bhāṣya: पुनाति, purifies the worlds)",
+        "grammar_role": "√पू · लट्·प्रथमपुरुष·एक·आत्मनेपद",
+        "root": "पवते"
+      },
+      {
+        "word_sanskrit": "यत्र",
+        "word_english": "where (in which worlds)",
+        "grammar_role": "यत्र · अव्यय (देशवाचक; bhāṣya: येषु लोकेषु)",
+        "root": "यत्र"
+      },
+      {
+        "word_sanskrit": "सूर्यः",
+        "word_english": "the Sun (bhāṣya: सूर्यस्तपति, shines/burns)",
+        "grammar_role": "सूर्य · प्रथमा·एक·पुं",
+        "root": "सूर्यः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "6. Where the nerves of the body meet together as the spokes in the nave of a wheel, this Atman is within it variously horn; meditate upon \u201cOm\u201d as the Atman. May there be no obstacle to your going to the other side beyond darkness."
+        "text": "6. Where the nerves of the body meet together as the spokes in the nave of a wheel, this Atman is within it variously horn; meditate upon “Om” as the Atman. May there be no obstacle to your going to the other side beyond darkness."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u093f\u091e\u094d\u091a, \u0905\u0930\u093e \u0907\u0935 \u092f\u0925\u093e \u0930\u0925\u0928\u093e\u092d\u094c \u0938\u092e\u0930\u094d\u092a\u093f\u0924\u093e \u0905\u0930\u093e\u0903, \u090f\u0935\u0902 \u0938\u0902\u0939\u0924\u093e\u0903 \u0938\u092e\u094d\u092a\u094d\u0930\u0935\u093f\u0937\u094d\u091f\u093e\u0903 \u092f\u0924\u094d\u0930 \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0939\u0943\u0926\u092f\u0947 \u0938\u0930\u094d\u0935\u0924\u094b \u0926\u0947\u0939\u0935\u094d\u092f\u093e\u092a\u093f\u0928\u094d\u092f\u0903 \u0928\u093e\u0921\u094d\u092f\u0903, \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0939\u0943\u0926\u092f\u0947 \u092c\u0941\u0926\u094d\u0927\u093f\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0938\u093e\u0915\u094d\u0937\u093f\u092d\u0942\u0924\u0903 \u0938 \u090f\u0937\u0903 \u092a\u094d\u0930\u0915\u0943\u0924 \u0906\u0924\u094d\u092e\u093e \u0905\u0928\u094d\u0924\u0903 \u092e\u0927\u094d\u092f\u0947 \u091a\u0930\u0924\u0947 \u091a\u0930\u0924\u093f \u0935\u0930\u094d\u0924\u0924\u0947\u00a0\u0964 \u092a\u0936\u094d\u092f\u0928\u094d \u0936\u0943\u0923\u094d\u0935\u0928\u094d\u092e\u0928\u094d\u0935\u093e\u0928\u094b \u0935\u093f\u091c\u093e\u0928\u0928\u094d \u092c\u0939\u0941\u0927\u093e \u0905\u0928\u0947\u0915\u0927\u093e \u0915\u094d\u0930\u094b\u0927\u0939\u0930\u094d\u0937\u093e\u0926\u093f\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0948\u0930\u094d\u091c\u093e\u092f\u092e\u093e\u0928 \u0907\u0935 \u091c\u093e\u092f\u092e\u093e\u0928\u0903 \u0905\u0928\u094d\u0924\u0903\u0915\u0930\u0923\u094b\u092a\u093e\u0927\u094d\u092f\u0928\u0941\u0935\u093f\u0927\u093e\u092f\u093f\u0924\u094d\u0935\u093e\u0924\u094d ; \u0935\u0926\u0928\u094d\u0924\u093f \u0939\u093f \u0932\u094c\u0915\u093f\u0915\u093e \u0939\u0943\u0937\u094d\u091f\u094b \u091c\u093e\u0924\u0903 \u0915\u094d\u0930\u0941\u0926\u094d\u0927\u094b \u091c\u093e\u0924 \u0907\u0924\u093f\u00a0\u0964 \u0924\u092e\u093e\u0924\u094d\u092e\u093e\u0928\u092e\u094d \u0913\u092e\u093f\u0924\u094d\u092f\u0947\u0935\u092e\u094d \u0913\u0919\u094d\u0915\u093e\u0930\u093e\u0932\u092e\u094d\u092c\u0928\u093e\u0903 \u0938\u0928\u094d\u0924\u0903 \u092f\u0925\u094b\u0915\u094d\u0924\u0915\u0932\u094d\u092a\u0928\u092f\u093e \u0927\u094d\u092f\u093e\u092f\u0925 \u091a\u093f\u0928\u094d\u0924\u092f\u0924\u00a0\u0964 \u0909\u0915\u094d\u0924\u0902 \u091a \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u0902 \u0936\u093f\u0937\u094d\u092f\u0947\u092d\u094d\u092f \u0906\u091a\u093e\u0930\u094d\u092f\u0947\u0923 \u091c\u093e\u0928\u0924\u093e\u00a0\u0964 \u0936\u093f\u0937\u094d\u092f\u093e\u0936\u094d\u091a \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0935\u093f\u0926\u093f\u0937\u0941\u0924\u094d\u0935\u093e\u0928\u094d\u0928\u093f\u0935\u0943\u0924\u094d\u0924\u0915\u0930\u094d\u092e\u093e\u0923\u094b \u092e\u094b\u0915\u094d\u0937\u092a\u0925\u0947 \u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093e\u0903\u00a0\u0964 \u0924\u0947\u0937\u093e\u0902 \u0928\u093f\u0930\u094d\u0935\u093f\u0918\u094d\u0928\u0924\u092f\u093e \u092c\u094d\u0930\u0939\u094d\u092e\u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093f\u092e\u093e\u0936\u093e\u0938\u094d\u0924\u094d\u092f\u093e\u091a\u093e\u0930\u094d\u092f\u0903 \u2014 \u0938\u094d\u0935\u0938\u094d\u0924\u093f \u0928\u093f\u0930\u094d\u0935\u093f\u0918\u094d\u0928\u092e\u0938\u094d\u0924\u0941 \u0935\u0903 \u092f\u0941\u0937\u094d\u092e\u093e\u0915\u0902 \u092a\u093e\u0930\u093e\u092f \u092a\u0930\u0915\u0942\u0932\u093e\u092f ; \u0915\u0938\u094d\u092f ? \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0924\u092e\u0938\u0903 \u092a\u0930\u0938\u094d\u0924\u093e\u0924\u094d ; \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0930\u0939\u093f\u0924\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0924\u094d\u092e\u0938\u094d\u0935\u0930\u0942\u092a\u0917\u092e\u0928\u093e\u092f\u0947\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Within the heart where all nerves running through the body meet together, as the spokes in the nave of the wheel, this Atman , spoken of, dwells within, as the witness of the states of consciousness, seeing, hearing, thinking, knowing and as it were, being variously born by the modifications of the mind, such as anger, joy, etc; men in the world say \u2018He has become angry, he has become \u201cjoyful\u201d, according to the conditions of the internal sense (mind); meditate upon Atman having the syllable \u201cOm\u201d as your support and imagining as stated. And it has been said \u201cthe preceptor who knows must instruct the disciples.\u201d The disciples are those who being desirous to acquire the knowledge of the Brahman, have renounced Karma and taken the road to emancipation. The preceptor gives his benediction that they may attain the Brahman without hindrance; svasti vah paraya , let Him be without hindrance to your reaching the other shore. Parastat, beyond; beyond what? Beyond the darkness of ignorance, i. e., for the realisation of the true nature of the Atman devoid of ignorance. He who should be reached after crossing the ocean of Samsara and who is the subject of the Para vidya."
+        "text": "किञ्च, कर्मसाधनानि फलानि च तस्मादेवेत्याह — कथम्? तस्मात् पुरुषात् ऋचः नियताक्षरपादावसानाः गायत्र्यादिच्छन्दोविशिष्टा मन्त्राः; साम पाञ्चभक्तिकं साप्तभक्तिकं च स्तोभादिगीतिविशिष्टम्; यजूंषि अनियताक्षरपादावसानानि वाक्यरूपाणि; एवं त्रिविधा मन्त्राः । दीक्षाः मौञ्ज्यादिलक्षणाः कर्तृनियमविशेषाः । यज्ञाश्च सर्वे अग्निहोत्रादयः । क्रतवः सयूपाः । दक्षिणाश्च एकगवाद्या अपरिमितसर्वस्वान्ताः । संवत्सरश्च कालः कर्माङ्गभूतः । यजमानश्च कर्ता । लोकाः तस्य कर्मफलभूताः; ते विशेष्यन्ते — सोमः यत्र येषु लोकेषु पवते पुनाति लोकान् यत्र च येषु सूर्यस्तपति । ते च दक्षिणायनोत्तरायणमार्गद्वयगम्या विद्वदविद्वत्कर्तृफलभूताः ॥"
       }
     ],
     "commentary_faqs": []
@@ -221,15 +671,108 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 7,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145116.html"
+      "mantra_ref": "2.1.7",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u0903 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0903 \u0938\u0930\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u0938\u094d\u092f\u0948\u0937 \u092e\u0939\u093f\u092e\u093e \u092d\u0941\u0935\u093f\u00a0\u0964 \n \u0926\u093f\u0935\u094d\u092f\u0947 \u092c\u094d\u0930\u0939\u094d\u092e\u092a\u0941\u0930\u0947 \u0939\u094d\u092f\u0947\u0937 \u0935\u094d\u092f\u094b\u092e\u0928\u094d\u092f\u093e\u0924\u094d\u092e\u093e \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u0903 \u0965 \u096d \u0965",
-    "transliteration": "ya\u1e25 sarvaj\u00f1a\u1e25 sarvavidyasyai\u1e63a mahim\u0101 bhuvi divyebrahmapure hye\u1e63a vyomny\u0101tm\u0101 prati\u1e63\u1e6dhita\u1e25 | manomaya\u1e25 pr\u0101\u1e47a\u015bar\u012branet\u0101 prati\u1e63\u1e6dhito'nne h\u1e5bdaya\u1e43 sannidh\u0101ya tadvij\u00f1\u0101nena paripa\u015byanti dh\u012br\u0101 \u0101nandar\u016bpamam\u1e5bta\u1e43 yad vibh\u0101ti || 7 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "तस्माच्च देवा बहुधा सम्प्रसूताः साध्या मनुष्याः पशवो वयांसि । प्राणापानौ व्रीहियवौ तपश्च श्रद्धा सत्यं ब्रह्मचर्यं विधिश्च ॥ ७ ॥",
+    "transliteration": "tasmācca devā bahudhā samprasūtāḥ sādhyā manuṣyāḥ paśavo vayāṃsi | prāṇāpānau vrīhiyavau tapaśca śraddhā satyaṃ brahmacaryaṃ vidhiśca || 7 ||",
     "translation": "7. This Atman who knows all and all of everything and whose glory is so celebrated on earth is seated in the akas of the blight city of Brahman. He is conditioned by the mind, is the leader of the prana and the body and is seated in food, i.e., the body fixing the intelligence (in the cavity of their heart). The discerning people see by means of their superior knowledge on all sides the atman which shines, all bliss and immortality.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्माच्च",
+        "word_english": "and from that (puruṣa)",
+        "grammar_role": "तद् · पञ्चमी·एकवचन·पुंलिङ्ग + च (अव्यय, समुच्चये)",
+        "root": "तस्मात् + च"
+      },
+      {
+        "word_sanskrit": "देवा",
+        "word_english": "the gods (auxiliary to rites)",
+        "grammar_role": "देव · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "देवाः"
+      },
+      {
+        "word_sanskrit": "बहुधा",
+        "word_english": "in many ways/kinds (by the divisions of the Vasus etc.)",
+        "grammar_role": "बहुधा · अव्यय (प्रकारवाचक)",
+        "root": "बहुधा"
+      },
+      {
+        "word_sanskrit": "सम्प्रसूताः",
+        "word_english": "well brought forth, fully produced",
+        "grammar_role": "सम्प्रसूत (सम्+प्र+√सू) · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "सम्प्रसूताः"
+      },
+      {
+        "word_sanskrit": "साध्या",
+        "word_english": "the Sādhyas (a special class of deities)",
+        "grammar_role": "साध्य · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "साध्याः"
+      },
+      {
+        "word_sanskrit": "मनुष्याः",
+        "word_english": "men (entitled to perform rites)",
+        "grammar_role": "मनुष्य · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "मनुष्याः"
+      },
+      {
+        "word_sanskrit": "पशवो",
+        "word_english": "animals (domestic and wild)",
+        "grammar_role": "पशु · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "पशवः"
+      },
+      {
+        "word_sanskrit": "वयांसि",
+        "word_english": "birds",
+        "grammar_role": "वयस् · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "वयांसि"
+      },
+      {
+        "word_sanskrit": "प्राणापानौ",
+        "word_english": "out-breath and in-breath (the life of men etc.)",
+        "grammar_role": "प्राण-अपान (द्वन्द्व) · प्रथमा·द्विवचन·पुंलिङ्ग",
+        "root": "प्राण + अपान"
+      },
+      {
+        "word_sanskrit": "व्रीहियवौ",
+        "word_english": "rice and barley (serving for oblation)",
+        "grammar_role": "व्रीहि-यव (द्वन्द्व) · प्रथमा·द्विवचन·पुंलिङ्ग",
+        "root": "व्रीहि + यव"
+      },
+      {
+        "word_sanskrit": "तपश्च",
+        "word_english": "and austerity (a limb of rites and an independent means of fruit)",
+        "grammar_role": "तपस् · प्रथमा·एकवचन·नपुंसकलिङ्ग + च (अव्यय, समुच्चये)",
+        "root": "तपः + च"
+      },
+      {
+        "word_sanskrit": "श्रद्धा",
+        "word_english": "faith (serenity of mind, theistic conviction, prerequisite for all human ends)",
+        "grammar_role": "श्रद्धा · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "श्रद्धा"
+      },
+      {
+        "word_sanskrit": "सत्यं",
+        "word_english": "truth (avoidance of falsehood, non-harming truthful speech of things as they are)",
+        "grammar_role": "सत्य · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "सत्यम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्मचर्यं",
+        "word_english": "continence (abstention from sexual conduct)",
+        "grammar_role": "ब्रह्मचर्य · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "ब्रह्मचर्यम्"
+      },
+      {
+        "word_sanskrit": "विधिश्च",
+        "word_english": "and the prescribed procedure (the way of doing, itikartavyatā)",
+        "grammar_role": "विधि · प्रथमा·एकवचन·पुंलिङ्ग + च (अव्यय, समुच्चये)",
+        "root": "विधिः + च"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -240,13 +783,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u092f\u094b\u093d\u0938\u094c \u0924\u092e\u0938\u0903 \u092a\u0930\u0938\u094d\u0924\u093e\u0924\u094d\u0938\u0902\u0938\u093e\u0930\u092e\u0939\u094b\u0926\u0927\u093f\u0902 \u0924\u0940\u0930\u094d\u0924\u094d\u0935\u093e \u0917\u0928\u094d\u0924\u0935\u094d\u092f\u0903 \u092a\u0930\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093f\u0937\u092f\u0903, \u0938 \u0915\u0938\u094d\u092e\u093f\u0928\u094d\u0935\u0930\u094d\u0924\u0924 \u0907\u0924\u094d\u092f\u093e\u0939 \u2014 \u092f\u0903 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0903 \u0938\u0930\u094d\u0935\u0935\u093f\u0924\u094d \u0935\u094d\u092f\u093e\u0916\u094d\u092f\u093e\u0924\u0903\u00a0\u0964 \u0924\u0902 \u092a\u0941\u0928\u0930\u094d\u0935\u093f\u0936\u093f\u0928\u0937\u094d\u091f\u093f \u2014 \u092f\u0938\u094d\u092f\u0948\u0937 \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927\u094b \u092e\u0939\u093f\u092e\u093e \u0935\u093f\u092d\u0942\u0924\u093f\u0903\u00a0\u0964 \u0915\u094b\u093d\u0938\u094c \u092e\u0939\u093f\u092e\u093e ? \u092f\u0938\u094d\u092f\u0947\u092e\u0947 \u0926\u094d\u092f\u093e\u0935\u093e\u092a\u0943\u0925\u093f\u0935\u094d\u092f\u094c \u0936\u093e\u0938\u0928\u0947 \u0935\u093f\u0927\u0943\u0924\u0947 \u0924\u093f\u0937\u094d\u0920\u0924\u0903 ; \u0938\u0942\u0930\u094d\u092f\u093e\u091a\u0928\u094d\u0926\u094d\u0930\u092e\u0938\u094c \u092f\u0938\u094d\u092f \u0936\u093e\u0938\u0928\u0947\u093d\u0932\u093e\u0924\u091a\u0915\u094d\u0930\u0935\u0926\u091c\u0938\u094d\u0930\u0902 \u092d\u094d\u0930\u092e\u0924\u0903 ; \u092f\u0938\u094d\u092f \u0936\u093e\u0938\u0928\u0947 \u0938\u0930\u093f\u0924\u0903 \u0938\u093e\u0917\u0930\u093e\u0936\u094d\u091a \u0938\u094d\u0935\u0917\u094b\u091a\u0930\u0902 \u0928\u093e\u0924\u093f\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u093f ; \u0924\u0925\u093e \u0938\u094d\u0925\u093e\u0935\u0930\u0902 \u091c\u0919\u094d\u0917\u092e\u0902 \u091a \u092f\u0938\u094d\u092f \u0936\u093e\u0938\u0928\u0947 \u0928\u093f\u092f\u0924\u092e\u094d ; \u0924\u0925\u093e \u090b\u0924\u0935\u094b\u093d\u092f\u0928\u0947 \u0905\u092c\u094d\u0926\u093e\u0936\u094d\u091a \u092f\u0938\u094d\u092f \u0936\u093e\u0938\u0928\u0902 \u0928\u093e\u0924\u093f\u0915\u094d\u0930\u093e\u092e\u0928\u094d\u0924\u093f ; \u0924\u0925\u093e \u0915\u0930\u094d\u0924\u093e\u0930\u0903 \u0915\u0930\u094d\u092e\u093e\u0923\u093f \u092b\u0932\u0902 \u091a \u092f\u091a\u094d\u091b\u093e\u0938\u0928\u093e\u0924\u094d\u0938\u094d\u0935\u0902 \u0938\u094d\u0935\u0902 \u0915\u093e\u0932\u0902 \u0928\u093e\u0924\u093f\u0935\u0930\u094d\u0924\u0928\u094d\u0924\u0947, \u0938 \u090f\u0937 \u092e\u0939\u093f\u092e\u093e ; \u092d\u0941\u0935\u093f \u0932\u094b\u0915\u0947 \u092f\u0938\u094d\u092f \u0938 \u090f\u0937 \u0938\u0930\u094d\u0935\u091c\u094d\u091e \u090f\u0935\u0902\u092e\u0939\u093f\u092e\u093e \u0926\u0947\u0935\u0903\u00a0\u0964 \u0926\u093f\u0935\u094d\u092f\u0947 \u0926\u094d\u092f\u094b\u0924\u0928\u0935\u0924\u093f \u0938\u0930\u094d\u0935\u092c\u094c\u0926\u094d\u0927\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0915\u0943\u0924\u0926\u094d\u092f\u094b\u0924\u0928\u0947 \u092c\u094d\u0930\u0939\u094d\u092e\u092a\u0941\u0930\u0947\u00a0\u0964 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u094b \u0939\u094d\u092f\u0924\u094d\u0930 \u091a\u0948\u0924\u0928\u094d\u092f\u0938\u094d\u0935\u0930\u0942\u092a\u0947\u0923 \u0928\u093f\u0924\u094d\u092f\u093e\u092d\u093f\u0935\u094d\u092f\u0915\u094d\u0924\u0924\u094d\u0935\u093e\u0924\u094d ; \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u0903 \u092a\u0941\u0930\u0902 \u0939\u0943\u0926\u092f\u092a\u0941\u0923\u094d\u0921\u0930\u0940\u0915\u0902 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u092f\u0926\u094d\u0935\u094d\u092f\u094b\u092e, \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0935\u094d\u092f\u094b\u092e\u0928\u093f \u0906\u0915\u093e\u0936\u0947 \u0939\u0943\u0924\u094d\u092a\u0941\u0923\u094d\u0921\u0930\u0940\u0915\u092e\u0927\u094d\u092f\u0938\u094d\u0925\u0947 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924 \u0907\u0935\u094b\u092a\u0932\u092d\u094d\u092f\u0924\u0947 ; \u0928 \u0939\u094d\u092f\u093e\u0915\u093e\u0936\u0935\u0924\u094d\u0938\u0930\u094d\u0935\u0917\u0924\u0938\u094d\u092f \u0917\u0924\u093f\u0930\u093e\u0917\u0924\u093f\u0903 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e \u0935\u093e\u0928\u094d\u092f\u0925\u093e \u0938\u092e\u094d\u092d\u0935\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Where He is, is now explained; the terms \u2018 sarvajna \u2019 and \u2018 sarvavit \u2019 have already been explained. He is again described; by the expression \u201cwhose glory is this\u201d is meant \u201cwhose glory is celebrated.\u201d What is that glory? By whose commands stand supported the earth and the sky, by whose command, the sun and the moon always rotate as the flaming fire-brand. By whose command the rivers and the seas do not overstep their limits, whose command all that is moveable and immoveable likewise obey, whose commands in the same way, the seasons, the solstices, and the years do not transgress; by whose commands all karma, their performers and their fruits do not likewise go beyond their appointed time; that is his glory. Bhuvi, in the world. This Deva whose is all this glory and who is omniscient. Divye , bright, i. e. , illuminated by all the states of consciousness. Brahmapure , in the lotus of the heart, so called because the Brahman is always manifesting himself there, in the form of intelligence. Vyomni , in the akas , within the cavity of the heart. He is perceived as if seated there because, otherwise, motion to or from, or fixity in a place is not possible for him who is all-pervading like the akas . Manomaya, because seated in the heart, he is perceived only by the modifications of the mind. (Thus) conditioned by the mind. Leader of the prana and the body, because lie leads the prana and the body from one gross body into another body. Pratishthitah , fixed. Anne , in the food, i.e. , in the body which is a modification of the food eaten and which grows and decays day by day. Hridayam , intellect, Sannidhaya , fixing\u2014in the cavity of the lotus; for, the Atman is really seated in the heart and not in the food. Tat , the entity of the Atman. Vijnanena , by knowledge, thorough, produced by the teachings of the sastras and the preceptor, and arising from control of the mind, control of the senses, meditation, complete renunciation and freedom from desire. Paripasyanti , see on all sides full. Dhirah , the discerning. A\u2019nandarupam , free from all dangers, miseries and troubles. Vibhati , shines much in one-self always."
+        "text": "तस्माच्च पुरुषात्कर्माङ्गभूता देवाः बहुधा वस्वादिगणभेदेन सम्प्रसूताः सम्यक् प्रसूताः — साध्याः देवविशेषाः, मनुष्याः कर्माधिकृताः, पशवः ग्राम्यारण्याः, वयांसि पक्षिणः; जीवनं च मनुष्यादीनां प्राणापानौ, व्रीहियवौ हविरर्थौ; तपश्च कर्माङ्गं पुरुषसंस्कारलक्षणं स्वतन्त्रं च फलसाधनम्; श्रद्धा यत्पूर्वकः सर्वपुरुषार्थसाधनप्रयोगश्चित्तप्रसाद आस्तिक्यबुद्धिः; तथा सत्यम् अनृतवर्जनं यथाभूतार्थवचनं चापीडाकरम्; ब्रह्मचर्यं मैथुनासमाचारः; विधिश्च इतिकर्तव्यता ॥"
       }
     ],
     "commentary_faqs": []
@@ -257,15 +796,114 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 8,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145116.html"
+      "mantra_ref": "2.1.8",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092e\u0928\u094b\u092e\u092f\u0903 \u092a\u094d\u0930\u093e\u0923\u0936\u0930\u0940\u0930\u0928\u0947\u0924\u093e \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u094b\u093d\u0928\u094d\u0928\u0947 \u0939\u0943\u0926\u092f\u0902 \u0938\u0902\u0928\u093f\u0927\u093e\u092f\u00a0\u0964 \n \u0924\u0926\u094d\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0947\u0928 \u092a\u0930\u093f\u092a\u0936\u094d\u092f\u0928\u094d\u0924\u093f \u0927\u0940\u0930\u093e \u0906\u0928\u0928\u094d\u0926\u0930\u0942\u092a\u092e\u092e\u0943\u0924\u0902 \u092f\u0926\u094d\u0935\u093f\u092d\u093e\u0924\u093f \u0965 \u096e \u0965",
-    "transliteration": "ya\u1e25 sarvaj\u00f1a\u1e25 sarvavidyasyai\u1e63a mahim\u0101 bhuvi divyebrahmapure hye\u1e63a vyomny\u0101tm\u0101 prati\u1e63\u1e6dhita\u1e25 | manomaya\u1e25 pr\u0101\u1e47a\u015bar\u012branet\u0101 prati\u1e63\u1e6dhito'nne h\u1e5bdaya\u1e43 sannidh\u0101ya tadvij\u00f1\u0101nena paripa\u015byanti dh\u012br\u0101 \u0101nandar\u016bpamam\u1e5bta\u1e43 yad vibh\u0101ti || 7 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "सप्त प्राणाः प्रभवन्ति तस्मात्सप्तार्चिषः समिधः सप्त होमाः । सप्तेमे लोका येषु चरन्ति प्राणा गुहाशया निहिताः सप्त सप्त ॥ ८ ॥",
+    "transliteration": "sapta prāṇāḥ prabhavanti tasmātsaptārciṣaḥ samidhaḥ sapta homāḥ | sapteme lokā yeṣu caranti prāṇā guhāśayā nihitāḥ sapta sapta || 8 ||",
     "translation": "7. This Atman who knows all and all of everything and whose glory is so celebrated on earth is seated in the akas of the blight city of Brahman. He is conditioned by the mind, is the leader of the prana and the body and is seated in food, i.e., the body fixing the intelligence (in the cavity of their heart). The discerning people see by means of their superior knowledge on all sides the atman which shines, all bliss and immortality.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "सप्त",
+        "word_english": "seven",
+        "grammar_role": "सप्तन् · प्रथमा·बहु (सङ्ख्या; here नपुं विशेषण with प्राणाः)",
+        "root": "सप्त"
+      },
+      {
+        "word_sanskrit": "प्राणाः",
+        "word_english": "vital airs (the seven prāṇas of the head, शीर्षण्याः)",
+        "grammar_role": "प्राण · प्रथमा·बहु·पुं",
+        "root": "प्राणाः"
+      },
+      {
+        "word_sanskrit": "प्रभवन्ति",
+        "word_english": "they arise, originate (from that same Puruṣa)",
+        "grammar_role": "√भू (प्र) · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "प्रभवन्ति"
+      },
+      {
+        "word_sanskrit": "तस्मात्सप्तार्चिषः",
+        "word_english": "from that; seven flames/lights (दीप्तयः, the illuminations of their respective sense-objects)",
+        "grammar_role": "तद् · पञ्चमी·एक·पुं + सप्तन् · प्रथमा·बहु + अर्चिस् · प्रथमा·बहु·स्त्री",
+        "root": "तस्मात् + सप्त + अर्चिषः"
+      },
+      {
+        "word_sanskrit": "समिधः",
+        "word_english": "fuel-sticks (the seven sense-objects, सप्तविषयाः, which kindle the prāṇas)",
+        "grammar_role": "समिध् · प्रथमा·बहु·स्त्री",
+        "root": "समिधः"
+      },
+      {
+        "word_sanskrit": "सप्त",
+        "word_english": "seven",
+        "grammar_role": "सप्तन् · प्रथमा·बहु (विशेषण with होमाः)",
+        "root": "सप्त"
+      },
+      {
+        "word_sanskrit": "होमाः",
+        "word_english": "oblations (the knowledge of those objects, तद्विषयविज्ञानानि)",
+        "grammar_role": "होम · प्रथमा·बहु·पुं",
+        "root": "होमाः"
+      },
+      {
+        "word_sanskrit": "सप्तेमे",
+        "word_english": "these seven",
+        "grammar_role": "सप्तन् · प्रथमा·बहु + इदम् · प्रथमा·बहु·पुं",
+        "root": "सप्त + इमे"
+      },
+      {
+        "word_sanskrit": "लोका",
+        "word_english": "worlds (the sense-locations, इन्द्रियस्थानानि)",
+        "grammar_role": "लोक · प्रथमा·बहु·पुं",
+        "root": "लोकाः"
+      },
+      {
+        "word_sanskrit": "येषु",
+        "word_english": "in which",
+        "grammar_role": "यद् · सप्तमी·बहु·पुं",
+        "root": "येषु"
+      },
+      {
+        "word_sanskrit": "चरन्ति",
+        "word_english": "they move about (the prāṇas roam, सञ्चरन्ति)",
+        "grammar_role": "√चर् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "चरन्ति"
+      },
+      {
+        "word_sanskrit": "प्राणा",
+        "word_english": "vital airs",
+        "grammar_role": "प्राण · प्रथमा·बहु·पुं",
+        "root": "प्राणाः"
+      },
+      {
+        "word_sanskrit": "गुहाशया",
+        "word_english": "resting in the cave (lying, during sleep, in the cavity — the body or the heart)",
+        "grammar_role": "गुहाशय (गुहा-शय, उपपद-तत्पुरुष) · प्रथमा·बहु·पुं",
+        "root": "गुहाशयाः"
+      },
+      {
+        "word_sanskrit": "निहिताः",
+        "word_english": "set/placed (established by the Creator, स्थापिता धात्रा)",
+        "grammar_role": "√धा (नि) · निष्ठा (कर्मणि भूतकृदन्त) · प्रथमा·बहु·पुं",
+        "root": "निहिताः"
+      },
+      {
+        "word_sanskrit": "सप्त",
+        "word_english": "seven",
+        "grammar_role": "सप्तन् · प्रथमा·बहु",
+        "root": "सप्त"
+      },
+      {
+        "word_sanskrit": "सप्त",
+        "word_english": "seven (the doubling = seven each, per living being, प्रतिप्राणिभेदम्)",
+        "grammar_role": "सप्तन् · प्रथमा·बहु",
+        "root": "सप्त"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -276,13 +914,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0938 \u0939\u094d\u092f\u093e\u0924\u094d\u092e\u093e \u0924\u0924\u094d\u0930\u0938\u094d\u0925\u094b \u092e\u0928\u094b\u0935\u0943\u0924\u094d\u0924\u093f\u092d\u093f\u0930\u0947\u0935 \u0935\u093f\u092d\u093e\u0935\u094d\u092f\u0924 \u0907\u0924\u093f \u092e\u0928\u094b\u092e\u092f\u0903, \u092e\u0928\u0909\u092a\u093e\u0927\u093f\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u092a\u094d\u0930\u093e\u0923\u0936\u0930\u0940\u0930\u0928\u0947\u0924\u093e \u092a\u094d\u0930\u093e\u0923\u0936\u094d\u091a \u0924\u091a\u094d\u091b\u0930\u0940\u0930\u0902 \u091a \u0924\u0924\u094d\u092a\u094d\u0930\u093e\u0923\u0936\u0930\u0940\u0930\u0902 \u0924\u0938\u094d\u092f\u093e\u092f\u0902 \u0928\u0947\u0924\u093e\u00a0\u0964 \u0905\u0938\u094d\u092e\u093e\u0924\u094d\u0938\u094d\u0925\u0942\u0932\u093e\u091a\u094d\u091b\u0930\u0940\u0930\u093e\u091a\u094d\u091b\u0930\u0940\u0930\u093e\u0928\u094d\u0924\u0930\u0902 \u0938\u0942\u0915\u094d\u0937\u094d\u092e\u0902 \u092a\u094d\u0930\u0924\u093f \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u0903 \u0905\u0935\u0938\u094d\u0925\u093f\u0924\u0903 \u0905\u0928\u094d\u0928\u0947 \u092d\u0941\u091c\u094d\u092f\u092e\u093e\u0928\u093e\u0928\u094d\u0928\u0935\u093f\u092a\u0930\u093f\u0923\u093e\u092e\u0947 \u092a\u094d\u0930\u0924\u093f\u0926\u093f\u0928\u092e\u0941\u092a\u091a\u0940\u092f\u092e\u093e\u0928\u0947 \u0905\u092a\u091a\u0940\u092f\u092e\u093e\u0928\u0947 \u091a \u092a\u093f\u0923\u094d\u0921\u0930\u0942\u092a\u0947\u093d\u0928\u094d\u0928\u0947 \u0939\u0943\u0926\u092f\u0902 \u092c\u0941\u0926\u094d\u0927\u093f\u0902 \u092a\u0941\u0923\u094d\u0921\u0930\u0940\u0915\u091a\u094d\u091b\u093f\u0926\u094d\u0930\u0947 \u0938\u0902\u0928\u093f\u0927\u093e\u092f \u0938\u092e\u0935\u0938\u094d\u0925\u093e\u092a\u094d\u092f ; \u0939\u0943\u0926\u092f\u093e\u0935\u0938\u094d\u0925\u093e\u0928\u092e\u0947\u0935 \u0939\u094d\u092f\u093e\u0924\u094d\u092e\u0928\u0903 \u0938\u094d\u0925\u093f\u0924\u093f\u0903, \u0928 \u0939\u094d\u092f\u093e\u0924\u094d\u092e\u0928\u0903 \u0938\u094d\u0925\u093f\u0924\u093f\u0930\u0928\u094d\u0928\u0947 ; \u0924\u0924\u094d \u0906\u0924\u094d\u092e\u0924\u0924\u094d\u0924\u094d\u0935\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0947\u0928 \u0935\u093f\u0936\u093f\u0937\u094d\u091f\u0947\u0928 \u0936\u093e\u0938\u094d\u0924\u094d\u0930\u093e\u091a\u093e\u0930\u094d\u092f\u094b\u092a\u0926\u0947\u0936\u091c\u0928\u093f\u0924\u0947\u0928 \u091c\u094d\u091e\u093e\u0928\u0947\u0928 \u0936\u092e\u0926\u092e\u0927\u094d\u092f\u093e\u0928\u0938\u0930\u094d\u0935\u0924\u094d\u092f\u093e\u0917\u0935\u0948\u0930\u093e\u0917\u094d\u092f\u094b\u0926\u094d\u092d\u0942\u0924\u0947\u0928 \u092a\u0930\u093f\u092a\u0936\u094d\u092f\u0928\u094d\u0924\u093f \u0938\u0930\u094d\u0935\u0924\u0903 \u092a\u0942\u0930\u094d\u0923\u0902 \u092a\u0936\u094d\u092f\u0928\u094d\u0924\u093f \u0909\u092a\u0932\u092d\u0928\u094d\u0924\u0947 \u0927\u0940\u0930\u093e\u0903 \u0935\u093f\u0935\u0947\u0915\u093f\u0928\u0903\u00a0\u0964 \u0906\u0928\u0928\u094d\u0926\u0930\u0942\u092a\u0902 \u0938\u0930\u094d\u0935\u093e\u0928\u0930\u094d\u0925\u0926\u0941\u0903\u0916\u093e\u092f\u093e\u0938\u092a\u094d\u0930\u0939\u0940\u0923\u0902 \u0938\u0941\u0916\u0930\u0942\u092a\u092e\u094d \u0905\u092e\u0943\u0924\u0902 \u092f\u0926\u094d\u0935\u093f\u092d\u093e\u0924\u093f \u0935\u093f\u0936\u0947\u0937\u0947\u0923 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u0928\u094d\u092f\u0947\u0935 \u092d\u093e\u0924\u093f \u0938\u0930\u094d\u0935\u0926\u093e \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014Where He is, is now explained; the terms \u2018 sarvajna \u2019 and \u2018 sarvavit \u2019 have already been explained. He is again described; by the expression \u201cwhose glory is this\u201d is meant \u201cwhose glory is celebrated.\u201d What is that glory? By whose commands stand supported the earth and the sky, by whose command, the sun and the moon always rotate as the flaming fire-brand. By whose command the rivers and the seas do not overstep their limits, whose command all that is moveable and immoveable likewise obey, whose commands in the same way, the seasons, the solstices, and the years do not transgress; by whose commands all karma, their performers and their fruits do not likewise go beyond their appointed time; that is his glory. Bhuvi, in the world. This Deva whose is all this glory and who is omniscient. Divye , bright, i. e. , illuminated by all the states of consciousness. Brahmapure , in the lotus of the heart, so called because the Brahman is always manifesting himself there, in the form of intelligence. Vyomni , in the akas , within the cavity of the heart. He is perceived as if seated there because, otherwise, motion to or from, or fixity in a place is not possible for him who is all-pervading like the akas . Manomaya, because seated in the heart, he is perceived only by the modifications of the mind. (Thus) conditioned by the mind. Leader of the prana and the body, because lie leads the prana and the body from one gross body into another body. Pratishthitah , fixed. Anne , in the food, i.e. , in the body which is a modification of the food eaten and which grows and decays day by day. Hridayam , intellect, Sannidhaya , fixing\u2014in the cavity of the lotus; for, the Atman is really seated in the heart and not in the food. Tat , the entity of the Atman. Vijnanena , by knowledge, thorough, produced by the teachings of the sastras and the preceptor, and arising from control of the mind, control of the senses, meditation, complete renunciation and freedom from desire. Paripasyanti , see on all sides full. Dhirah , the discerning. A\u2019nandarupam , free from all dangers, miseries and troubles. Vibhati , shines much in one-self always."
+        "text": "किञ्च, सप्त शीर्षण्याः प्राणाः तस्मादेव पुरुषात् प्रभवन्ति । तेषां सप्त अर्चिषः दीप्तयः स्वस्वविषयावद्योतनानि । तथा सप्त समिधः सप्तविषयाः; विषयैर्हि समिध्यन्ते प्राणाः । सप्त होमा; तद्विषयविज्ञानानि, ‘यदस्य विज्ञानं तज्जुहोति’ (तै. ना. ८०) इति श्रुत्यन्तरात् । किञ्च, सप्त इमे लोकाः इन्द्रियस्थानानि, येषु चरन्ति सञ्चरन्ति प्राणाः इति विशेषणात् । प्राणा येषु चरन्तीति प्राणानां विशेषणमिदं प्राणापानादिनिवृत्त्यर्थम् । गुहायां शरीरे हृदये वा स्वापकाले शेरत इति गुहाशयाः । निहिताः स्थापिता धात्रा सप्त सप्त प्रतिप्राणिभेदम् । यानि च आत्मयाजिनां विदुषां कर्माणि कर्मफलानि चाविदुषां च कर्माणि तत्साधनानि कर्मफलानि च सर्वं चैतत्परस्मादेव पुरुषात्सर्वज्ञात्प्रसूतमिति प्रकरणार्थः ॥"
       }
     ],
     "commentary_faqs": []
@@ -293,15 +927,96 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 9,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145117.html"
+      "mantra_ref": "2.1.9",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092d\u093f\u0926\u094d\u092f\u0924\u0947 \u0939\u0943\u0926\u092f\u0917\u094d\u0930\u0928\u094d\u0925\u093f\u0936\u094d\u091b\u093f\u0926\u094d\u092f\u0928\u094d\u0924\u0947 \u0938\u0930\u094d\u0935\u0938\u0902\u0936\u092f\u093e\u0903\u00a0\u0964 \n \u0915\u094d\u0937\u0940\u092f\u0928\u094d\u0924\u0947 \u091a\u093e\u0938\u094d\u092f \u0915\u0930\u094d\u092e\u093e\u0923\u093f \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0926\u0943\u0937\u094d\u091f\u0947 \u092a\u0930\u093e\u0935\u0930\u0947 \u0965 \u096f \u0965",
-    "transliteration": "bhidyate h\u1e5bdayagranthi\u015bchidyante sarvasa\u1e43\u015bay\u0101\u1e25 | k\u1e63\u012byante c\u0101sya karm\u0101\u1e47i tasmind\u1e5b\u1e63\u1e6de par\u0101vare || 8 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "अतः समुद्रा गिरयश्च सर्वेऽस्मात्स्यन्दन्ते सिन्धवः सर्वरूपाः । अतश्च सर्वा ओषधयो रसश्च येनैष भूतैस्तिष्ठते ह्यन्तरात्मा ॥ ९ ॥",
+    "transliteration": "ataḥ samudrā girayaśca sarve'smātsyandante sindhavaḥ sarvarūpāḥ | ataśca sarvā oṣadhayo rasaśca yenaiṣa bhūtaistiṣṭhate hyantarātmā || 9 ||",
     "translation": "8. When he that is both high and low is seen, the knot of the heart is untied; all doubts are solved; and all his karma is consumed.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "अतः",
+        "word_english": "hence, from this Puruṣa",
+        "grammar_role": "अतस् · अव्यय (तसिल्-प्रत्ययान्त, पञ्चम्यर्थे/हेत्वर्थे = अस्मात् पुरुषात्)",
+        "root": "अतस्"
+      },
+      {
+        "word_sanskrit": "समुद्रा",
+        "word_english": "the oceans (salty etc.)",
+        "grammar_role": "समुद्र · प्रथमा·बहु·पुं",
+        "root": "समुद्राः"
+      },
+      {
+        "word_sanskrit": "गिरयश्च",
+        "word_english": "and the mountains (Himavat etc.)",
+        "grammar_role": "गिरि · प्रथमा·बहु·पुं + च · अव्यय (समुच्चये)",
+        "root": "गिरयः + च"
+      },
+      {
+        "word_sanskrit": "सर्वेऽस्मात्स्यन्दन्ते",
+        "word_english": "all flow forth from this (Puruṣa)",
+        "grammar_role": "सर्व · प्रथमा·बहु·पुं + इदम् · पञ्चमी·एक·पुं + √स्यन्द् · लट्·प्रथमपुरुष·बहु·आत्मनेपद",
+        "root": "सर्वे + अस्मात् + स्यन्दन्ते"
+      },
+      {
+        "word_sanskrit": "सिन्धवः",
+        "word_english": "the rivers",
+        "grammar_role": "सिन्धु · प्रथमा·बहु·स्त्री",
+        "root": "सिन्धवः"
+      },
+      {
+        "word_sanskrit": "सर्वरूपाः",
+        "word_english": "of all forms, manifold",
+        "grammar_role": "सर्वरूप · प्रथमा·बहु·स्त्री (बहुव्रीहि, सिन्धुविशेषणम्)",
+        "root": "सर्व-रूपाः"
+      },
+      {
+        "word_sanskrit": "अतश्च",
+        "word_english": "and from this (Puruṣa)",
+        "grammar_role": "अतस् · अव्यय (तसिल्-प्रत्ययान्त, पञ्चम्यर्थे = अस्मात् पुरुषात्) + च · अव्यय (समुच्चये)",
+        "root": "अतस् + च"
+      },
+      {
+        "word_sanskrit": "सर्वा",
+        "word_english": "all (the herbs)",
+        "grammar_role": "सर्व · प्रथमा·बहु·स्त्री",
+        "root": "सर्वाः"
+      },
+      {
+        "word_sanskrit": "ओषधयो",
+        "word_english": "the herbs (rice, barley etc.)",
+        "grammar_role": "ओषधि · प्रथमा·बहु·स्त्री",
+        "root": "ओषधयः"
+      },
+      {
+        "word_sanskrit": "रसश्च",
+        "word_english": "and the taste (sixfold: sweet etc.)",
+        "grammar_role": "रस · प्रथमा·एक·पुं + च · अव्यय (समुच्चये)",
+        "root": "रसः + च"
+      },
+      {
+        "word_sanskrit": "येनैष",
+        "word_english": "by which (taste) this (self)",
+        "grammar_role": "यद् · तृतीया·एक·पुं (= येन रसेन) + एतद् · प्रथमा·एक·पुं (= अयम् अन्तरात्मा)",
+        "root": "येन + एषः"
+      },
+      {
+        "word_sanskrit": "भूतैस्तिष्ठते",
+        "word_english": "stands enveloped by the (five) elements",
+        "grammar_role": "भूत · तृतीया·बहु·नपुं (पञ्चभिः स्थूलैः) + √स्था · लट्·प्रथमपुरुष·एक·आत्मनेपद",
+        "root": "भूतैः + तिष्ठते"
+      },
+      {
+        "word_sanskrit": "ह्यन्तरात्मा",
+        "word_english": "indeed the inner self (subtle liṅga body)",
+        "grammar_role": "हि · अव्यय (हेत्वर्थे/अवधारणे) + अन्तरात्मन् · प्रथमा·एक·पुं",
+        "root": "हि + अन्तर्-आत्मा"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -312,13 +1027,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0938\u094d\u092f \u092a\u0930\u092e\u093e\u0924\u094d\u092e\u091c\u094d\u091e\u093e\u0928\u0938\u094d\u092f \u092b\u0932\u092e\u093f\u0926\u092e\u092d\u093f\u0927\u0940\u092f\u0924\u0947 \u2014 \u0939\u0943\u0926\u092f\u0917\u094d\u0930\u0928\u094d\u0925\u093f\u0903 \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u093e\u0938\u0928\u093e\u092e\u092f\u094b \u092c\u0941\u0926\u094d\u0927\u094d\u092f\u093e\u0936\u094d\u0930\u092f\u0903 \u0915\u093e\u092e\u0903, \n\u2018\u0915\u093e\u092e\u093e \u092f\u0947\u093d\u0938\u094d\u092f \u0939\u0943\u0926\u093f \u0936\u094d\u0930\u093f\u0924\u093e\u0903\u2019 (\u092c\u0943. \u0909. \u096a\u00a0\u0964 \u096a\u00a0\u0964 \u096d)\n, \n(\u0915\u093e. \u0909. \u0968\u00a0\u0964 \u0969\u00a0\u0964 \u0967\u096a)\n \u0907\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u094d\u092f\u0928\u094d\u0924\u0930\u093e\u0924\u094d\u00a0\u0964 \u0939\u0943\u0926\u092f\u093e\u0936\u094d\u0930\u092f\u094b\u093d\u0938\u094c, \u0928\u093e\u0924\u094d\u092e\u093e\u0936\u094d\u0930\u092f\u0903\u00a0\u0964 \u092d\u093f\u0926\u094d\u092f\u0924\u0947 \u092d\u0947\u0926\u0902 \u0935\u093f\u0928\u093e\u0936\u092e\u0941\u092a\u092f\u093e\u0924\u093f\u00a0\u0964 \u091b\u093f\u0926\u094d\u092f\u0928\u094d\u0924\u0947 \u0938\u0930\u094d\u0935\u0947 \u091c\u094d\u091e\u0947\u092f\u0935\u093f\u0937\u092f\u093e\u0903 \u0938\u0902\u0936\u092f\u093e\u0903 \u0932\u094c\u0915\u093f\u0915\u093e\u0928\u093e\u092e\u094d \u0906 \u092e\u0930\u0923\u093e\u0924\u094d \u0917\u0919\u094d\u0917\u093e\u0938\u094d\u0930\u094b\u0924\u094b\u0935\u0924\u094d\u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093e \u0935\u093f\u091a\u094d\u091b\u0947\u0926\u092e\u093e\u092f\u093e\u0928\u094d\u0924\u093f\u00a0\u0964 \u0905\u0938\u094d\u092f \u0935\u093f\u091a\u094d\u091b\u093f\u0928\u094d\u0928\u0938\u0902\u0936\u092f\u0938\u094d\u092f \u0928\u093f\u0935\u0943\u0924\u094d\u0924\u093e\u0935\u093f\u0926\u094d\u092f\u0938\u094d\u092f \u092f\u093e\u0928\u093f \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u094b\u0924\u094d\u092a\u0924\u094d\u0924\u0947\u0903 \u092a\u094d\u0930\u093e\u0915\u094d\u0915\u0943\u0924\u093e\u0928\u093f \u091c\u0928\u094d\u092e\u093e\u0928\u094d\u0924\u0930\u0947 \u091a\u093e\u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u092b\u0932\u093e\u0928\u093f \u091c\u094d\u091e\u093e\u0928\u094b\u0924\u094d\u092a\u0924\u094d\u0924\u093f\u0938\u0939\u092d\u093e\u0935\u0940\u0928\u093f \u091a \u0915\u094d\u0937\u0940\u092f\u0928\u094d\u0924\u0947 \u0915\u0930\u094d\u092e\u093e\u0923\u093f, \u0928 \u0924\u094d\u0935\u0947\u0924\u091c\u094d\u091c\u0928\u094d\u092e\u093e\u0930\u092e\u094d\u092d\u0915\u093e\u0923\u093f, \u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u092b\u0932\u0924\u094d\u0935\u093e\u0924\u094d\u00a0\u0964 \u0924\u0938\u094d\u092e\u093f\u0928\u094d \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0947\u093d\u0938\u0902\u0938\u093e\u0930\u093f\u0923\u093f \u092a\u0930\u093e\u0935\u0930\u0947 \u092a\u0930\u0902 \u091a \u0915\u093e\u0930\u0923\u093e\u0924\u094d\u092e\u0928\u093e \u0905\u0935\u0930\u0902 \u091a \u0915\u093e\u0930\u094d\u092f\u093e\u0924\u094d\u092e\u0928\u093e \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u092a\u0930\u093e\u0935\u0930\u0947 \u0938\u093e\u0915\u094d\u0937\u093e\u0926\u0939\u092e\u0938\u094d\u092e\u0940\u0924\u093f \u0926\u0943\u0937\u094d\u091f\u0947, \u0938\u0902\u0938\u093e\u0930\u0915\u093e\u0930\u0923\u094b\u091a\u094d\u091b\u0947\u0926\u093e\u0928\u094d\u092e\u0941\u091a\u094d\u092f\u0924 \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014The fruit of the knowledge of the Paramatman is stated to be the following. Loosened is \u201cthe knot of the heart,\u201d i.e ., the group of tendencies in the mind due to ignorance, the desire which clings to the intellect according to the Sruti \u201cThe desires which lie imbedded in the heart, etc.\u201d This is attached to the heart (intellect) not to the Atman . Biddyate. undergoes destruction; doubts regarding all knowable things have their solution\u2014doubts which perplex worldly men up to their death, being (continuous) like the stream of the Granges; of the man whose doubts have been solved and whose ignorance has been dispelled, such karma as was anterior to the birth of knowledge in this life, such as was performed by him in previous births and had not begun to bear fruit and such as was existing at the birth of knowledge come to an end; but not that karma which brought about this birth, for it had begun to bear fruit. He, \u201cthe omniscient\u201d, not subject to samsara ; \u2018both high and low,\u2019 high as being the cause and low as being the effect; when he is seen directly as \u201cI am he\u201d, one attains emancipation, the cause of samsara being up-rooted."
+        "text": "अतः पुरुषात् समुद्राः सर्वे क्षाराद्याः । गिरयश्च हिमवदादयः अस्मादेव पुरुषात् सर्वे । स्यन्दन्ते स्रवन्ति गङ्गाद्याः सिन्धवः नद्यः सर्वरूपाः बहुरूपाः । अस्मादेव पुरुषात् सर्वाः ओषधयः व्रीहियवाद्याः । रसश्च मधुरादिः षड्विधः, येन रसेन भूतैः पञ्चभिः स्थूलैः परिवेष्टितः तिष्ठते तिष्ठति हि अन्तरात्मा लिङ्गं सूक्ष्मं शरीरम् । तद्ध्यन्तराले शरीरस्यात्मनश्चात्मवद्वर्तत इत्यन्तरात्मा ॥"
       }
     ],
     "commentary_faqs": []
@@ -329,15 +1040,102 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 10,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145118.html"
+      "mantra_ref": "2.1.10",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0939\u093f\u0930\u0923\u094d\u092e\u092f\u0947 \u092a\u0930\u0947 \u0915\u094b\u0936\u0947 \u0935\u093f\u0930\u091c\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0928\u093f\u0937\u094d\u0915\u0932\u092e\u094d\u00a0\u0964 \n \u0924\u091a\u094d\u091b\u0941\u092d\u094d\u0930\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0937\u093e\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0938\u094d\u0924\u0926\u094d\u092f\u0926\u093e\u0924\u094d\u092e\u0935\u093f\u0926\u094b \u0935\u093f\u0926\u0941\u0903 \u0965 \u0967\u0966 \u0965",
-    "transliteration": "hira\u1e47maye pare ko\u015be viraja\u1e43 brahma ni\u1e63kalam | tacchubhra\u1e43 jyoti\u1e63a\u1e43 jyotistadyad\u0101tmavido vidu\u1e25 || 9 ||",
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "पुरुष एवेदं विश्वं कर्म तपो ब्रह्म परामृतम् । एतद्यो वेद निहितं गुहायां सोऽविद्याग्रन्थिं विकिरतीह सोम्य ॥ १० ॥",
+    "transliteration": "puruṣa evedaṃ viśvaṃ karma tapo brahma parāmṛtam | etadyo veda nihitaṃ guhāyāṃ so'vidyāgranthiṃ vikiratīha somya || 10 ||",
     "translation": "9. The stainless indivisible Brahman , the pure, the light of all lights is in the innermost sheath of golden hue. That is what the knowers of the Atman know.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "पुरुष",
+        "word_english": "the Puruṣa (the cosmic Self; the sole reality, all else being a name)",
+        "grammar_role": "पुरुष · प्रथमा·एक·पुं",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "एवेदं",
+        "word_english": "alone, indeed — this (all)",
+        "grammar_role": "एव · अव्यय (निपात, avadhāraṇa) + इदम् · प्रथमा·एक·नपुं",
+        "root": "एव + इदम्"
+      },
+      {
+        "word_sanskrit": "विश्वं",
+        "word_english": "the universe, all this",
+        "grammar_role": "विश्व · प्रथमा·एक·नपुं",
+        "root": "विश्वम्"
+      },
+      {
+        "word_sanskrit": "कर्म",
+        "word_english": "action (of the nature of agnihotra etc.)",
+        "grammar_role": "कर्मन् · प्रथमा·एक·नपुं",
+        "root": "कर्म"
+      },
+      {
+        "word_sanskrit": "तपो",
+        "word_english": "austerity, i.e. knowledge (jñāna)",
+        "grammar_role": "तपस् · प्रथमा·एक·नपुं",
+        "root": "तपः"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "परामृतम्",
+        "word_english": "the supreme immortal (paramam amṛtam)",
+        "grammar_role": "परा (=परम) + अमृत · प्रथमा·एक·नपुं",
+        "root": "परा + अमृतम्"
+      },
+      {
+        "word_sanskrit": "एतद्यो",
+        "word_english": "this — he who(ever)",
+        "grammar_role": "एतद् · द्वितीया·एक·नपुं + यद् · प्रथमा·एक·पुं",
+        "root": "एतत् + यः"
+      },
+      {
+        "word_sanskrit": "वेद",
+        "word_english": "knows (as 'I alone am [this]')",
+        "grammar_role": "√विद् · लिट्·प्रथमपुरुष·एक·परस्मैपद (present sense)",
+        "root": "वेद"
+      },
+      {
+        "word_sanskrit": "निहितं",
+        "word_english": "placed, abiding (in the cave) — agreeing with etad",
+        "grammar_role": "निहित (नि + √धा) · द्वितीया·एक·नपुं",
+        "root": "निहितम्"
+      },
+      {
+        "word_sanskrit": "गुहायां",
+        "word_english": "in the cave, i.e. the heart of all beings",
+        "grammar_role": "गुहा · सप्तमी·एक·स्त्री",
+        "root": "गुहायाम्"
+      },
+      {
+        "word_sanskrit": "सोऽविद्याग्रन्थिं",
+        "word_english": "he — the knot of ignorance (the firmly-set vāsanā of avidyā)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं + अविद्या-ग्रन्थि · द्वितीया·एक·पुं",
+        "root": "सः + अविद्या-ग्रन्थिम्"
+      },
+      {
+        "word_sanskrit": "विकिरतीह",
+        "word_english": "scatters, i.e. destroys — here (while still living, not after death)",
+        "grammar_role": "वि + √कॄ · लट्·प्रथमपुरुष·एक·परस्मैपद + इह · अव्यय",
+        "root": "विकिरति + इह"
+      },
+      {
+        "word_sanskrit": "सोम्य",
+        "word_english": "O dear one! (priya-darśana, lovely to behold)",
+        "grammar_role": "सोम्य · सम्बोधन·एक·पुं",
+        "root": "सोम्य"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -348,13 +1146,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0909\u0915\u094d\u0924\u0938\u094d\u092f\u0948\u0935\u093e\u0930\u094d\u0925\u0938\u094d\u092f \u0938\u0919\u094d\u0915\u094d\u0937\u0947\u092a\u093e\u092d\u093f\u0927\u093e\u092f\u0915\u093e \u0909\u0924\u094d\u0924\u0930\u0947 \u092e\u0928\u094d\u0924\u094d\u0930\u093e\u0938\u094d\u0924\u094d\u0930\u092f\u094b\u093d\u092a\u093f \u2014 \u0939\u093f\u0930\u0923\u094d\u092e\u092f\u0947 \u091c\u094d\u092f\u094b\u0924\u093f\u0930\u094d\u092e\u092f\u0947 \u092c\u0941\u0926\u094d\u0927\u093f\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u092a\u094d\u0930\u0915\u093e\u0936\u0947 \u092a\u0930\u0947 \u0915\u094b\u0936\u0947 \u0915\u094b\u0936 \u0907\u0935\u093e\u0938\u0947\u0903\u00a0\u0964 \u0906\u0924\u094d\u092e\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u092a\u0932\u092c\u094d\u0927\u093f\u0938\u094d\u0925\u093e\u0928\u0924\u094d\u0935\u093e\u0924\u094d\u092a\u0930\u0902 \u0924\u0924\u094d\u0938\u0930\u094d\u0935\u093e\u092d\u094d\u092f\u0928\u094d\u0924\u0930\u0924\u094d\u0935\u093e\u0924\u094d , \u0924\u0938\u094d\u092e\u093f\u0928\u094d \u0935\u093f\u0930\u091c\u092e\u094d \u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0926\u094d\u092f\u0936\u0947\u0937\u0926\u094b\u0937\u0930\u091c\u094b\u092e\u0932\u0935\u0930\u094d\u091c\u093f\u0924\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0938\u0930\u094d\u0935\u092e\u0939\u0924\u094d\u0924\u094d\u0935\u093e\u0924\u094d\u0938\u0930\u094d\u0935\u093e\u0924\u094d\u092e\u0924\u094d\u0935\u093e\u091a\u094d\u091a \u0928\u093f\u0937\u094d\u0915\u0932\u0902 \u0928\u093f\u0930\u094d\u0917\u0924\u093e\u0903 \u0915\u0932\u093e \u092f\u0938\u094d\u092e\u093e\u0924\u094d\u0924\u0928\u094d\u0928\u093f\u0937\u094d\u0915\u0932\u0902 \u0928\u093f\u0930\u0935\u092f\u0935\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u0926\u094d\u0935\u093f\u0930\u091c\u0902 \u0928\u093f\u0937\u094d\u0915\u0932\u0902 \u091a \u0905\u0924\u0903 \u0924\u091a\u094d\u091b\u0941\u092d\u094d\u0930\u0902 \u0936\u0941\u0926\u094d\u0927\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0937\u093e\u0902 \u0938\u0930\u094d\u0935\u092a\u094d\u0930\u0915\u093e\u0936\u093e\u0924\u094d\u092e\u0928\u093e\u092e\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u0940\u0928\u093e\u092e\u092a\u093f \u0924\u091c\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0903 \u0905\u0935\u092d\u093e\u0938\u0915\u092e\u094d\u00a0\u0964 \u0905\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u0940\u0928\u093e\u092e\u092a\u093f \u091c\u094d\u092f\u094b\u0924\u093f\u0937\u094d\u091f\u094d\u0935\u092e\u0928\u094d\u0924\u0930\u094d\u0917\u0924\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0924\u094d\u092e\u091a\u0948\u0924\u0928\u094d\u092f\u091c\u094d\u092f\u094b\u0924\u093f\u0930\u094d\u0928\u093f\u092e\u093f\u0924\u094d\u0924\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0924\u0926\u094d\u0927\u093f \u092a\u0930\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0930\u094d\u092f\u0926\u0928\u094d\u092f\u093e\u0928\u0935\u092d\u093e\u0938\u094d\u092f\u092e\u093e\u0924\u094d\u092e\u091c\u094d\u092f\u094b\u0924\u093f\u0903, \u0924\u0924\u094d \u092f\u0924\u094d \u0906\u0924\u094d\u092e\u0935\u093f\u0926\u0903 \u0906\u0924\u094d\u092e\u093e\u0928\u0902 \u0938\u094d\u0935\u0902 \u0936\u092c\u094d\u0926\u093e\u0926\u093f\u0935\u093f\u0937\u092f\u092c\u0941\u0926\u094d\u0927\u093f\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0938\u093e\u0915\u094d\u0937\u093f\u0923\u0902 \u092f\u0947 \u0935\u093f\u0935\u0947\u0915\u093f\u0928\u094b \u0935\u093f\u0926\u0941\u0903 \u0935\u093f\u091c\u093e\u0928\u0928\u094d\u0924\u093f, \u0924\u0947 \u0906\u0924\u094d\u092e\u0935\u093f\u0926\u0903 \u0924\u0926\u094d\u0935\u093f\u0926\u0941\u0903, \u0906\u0924\u094d\u092e\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u093e\u0928\u0941\u0938\u093e\u0930\u093f\u0923\u0903\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u0924\u094d\u092a\u0930\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0938\u094d\u0924\u0938\u094d\u092e\u093e\u0924\u094d\u0924 \u090f\u0935 \u0924\u0926\u094d\u0935\u093f\u0926\u0941\u0903, \u0928\u0947\u0924\u0930\u0947 \u092c\u093e\u0939\u094d\u092f\u093e\u0930\u094d\u0925\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u093e\u0928\u0941\u0938\u093e\u0930\u093f\u0923\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014The three following texts briefly elucidate the meaning already expressed. Hiranmaye, golden, i.e. , full of light, or bright with intelligence and knowledge. \u2018The highest sheath\u2019, sheath, as it were, of a sword; highest , because it is the place where \u201cthe Atman is realised as located\u201d and because it is the innermost of all. Virajam, free from the taint of ignorance and all other faults. Brahma , because it is the greatest of all and Atman of all. Nishkalam , that from which the kalas had proceeded, i.e., devoid of parts; because it is untainted and devoid of parts, therefore it is subhram or pure. The light of all lights, whose light enlightens even those that illumine all other things such as fire, etc. The meaning is that the brightness of even the fire, etc., is due to the splendour of the intelligence of the Brahman within; the light of the Atman is the highest light which is not illumined by other lights. \u2018The knowers of the atman \u2019, those discerning men who know the Self as the witness of the objective states of consciousness regarding sound and the rest; as it is the highest light, it is only those who follow (are in) the subjective state of consciousness, not others, who follow (are in) the perceptions of external objects, that know it."
+        "text": "एवं पुरुषात्सर्वमिदं सम्प्रसूतम् । अतो वाचारम्भणं विकारो नामधेयमनृतं पुरुष इत्येव सत्यम्; अतः पुरुष एव इदं विश्वं सर्वम् । न विश्वं नाम पुरुषादन्यत्किञ्चिदस्ति । अतो यदुक्तं तदेवेदमभिहितम् ‘कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवति’ (मु. उ. १ । १ । ३) इति; एतस्मिन्हि परस्मिन्नात्मनि सर्वकारणे पुरुषे विज्ञाते, पुरुष एवेदं विश्वं नान्यदस्तीति विज्ञातं भवतीति । किं पुनरिदं विश्वमित्युच्यते — कर्म अग्निहोत्रादिलक्षणम्; तपः ज्ञानं तत्कृतं फलमन्यदेव तावद्धीदं सर्वम्; तच्च एतद्ब्रह्मणः कार्यम्; तस्मात्सर्वं ब्रह्म परामृतं परममृतमहमेवेति यो वेद निहितं स्थितं गुहायां हृदि सर्वप्राणिनाम्, सः एवं विज्ञानात् अविद्याग्रन्थिं ग्रन्थिमिव दृढीभूतामविद्यावासनां विकिरति विक्षिपति विनाशयति इह जीवन्नेव, न मृतः सन् हे सोम्य प्रियदर्शन ॥"
       }
     ],
     "commentary_faqs": []
@@ -365,32 +1159,97 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 11,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145119.html"
+      "mantra_ref": "2.2.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0928 \u0924\u0924\u094d\u0930 \u0938\u0942\u0930\u094d\u092f\u094b \u092d\u093e\u0924\u093f \u0928 \u091a\u0928\u094d\u0926\u094d\u0930\u0924\u093e\u0930\u0915\u0902 \u0928\u0947\u092e\u093e \u0935\u093f\u0926\u094d\u092f\u0941\u0924\u094b \u092d\u093e\u0928\u094d\u0924\u093f \u0915\u0941\u0924\u094b\u093d\u092f\u092e\u0917\u094d\u0928\u093f\u0903\u00a0\u0964 \n \u0924\u092e\u0947\u0935 \u092d\u093e\u0928\u094d\u0924\u092e\u0928\u0941\u092d\u093e\u0924\u093f \u0938\u0930\u094d\u0935\u0902 \u0924\u0938\u094d\u092f \u092d\u093e\u0938\u093e \u0938\u0930\u094d\u0935\u092e\u093f\u0926\u0902 \u0935\u093f\u092d\u093e\u0924\u093f \u0965 \u0967\u0967 \u0965",
-    "transliteration": "na tatra s\u016bryo bh\u0101ti na candrat\u0101raka\u1e43 nem\u0101 vidyuto bh\u0101nti kuto'yamagni\u1e25 | tameva bh\u0101ntamanubh\u0101ti sarva\u1e43 tasya bh\u0101s\u0101 sarvamida\u1e43 vibh\u0101ti || 10 ||",
-    "translation": "10. The sun shines not there, nor the moon and the stars. Nor do these lightnings shine. How could this fire? All shine after him who shines. All this is illumined by his radiance.",
-    "word_by_word": [],
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "आविः संनिहितं गुहाचरं नाम महत्पदमत्रैतत्समर्पितम् । एजत्प्राणन्निमिषच्च यदेतज्जानथ सदसद्वरेण्यं परं विज्ञानाद्यद्वरिष्ठं प्रजानाम् ॥ १ ॥",
+    "transliteration": "āviḥ saṃnihitaṃ guhācaraṃ nāma mahatpadamatraitatsamarpitam | ejatprāṇannimiṣacca yadetajjānatha sadasadvareṇyaṃ paraṃ vijñānādyadvariṣṭhaṃ prajānām || 1 ||",
+    "translation": "1. Bright, well-fixed, moving in the heart, great and the support of all; in him is all this universe centred, what moves, breathes and winks. Know this which is all that has form and all that is formless, which is to be sought after by all, which is beyond the reach of man’s knowledge, and the highest of all.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "आविः",
+        "word_english": "manifest, in the open (āvirbhūta, with √bhū) — gloss प्रकाशम्",
+        "grammar_role": "आविस् · अव्यय (प्रकाशार्थे)",
+        "root": "आविस्"
+      },
+      {
+        "word_sanskrit": "संनिहितं",
+        "word_english": "well-seated, properly abiding in the heart (सम्यक् स्थितं हृदि)",
+        "grammar_role": "संनिहित (सम्-नि-√धा, क्त) · प्रथमा·एक·नपुं",
+        "root": "संनिहितम्"
+      },
+      {
+        "word_sanskrit": "गुहाचरं",
+        "word_english": "moving in the cave/secret place of the heart (गुहायां चरति)",
+        "grammar_role": "गुहाचर (गुहा + √चर, उपपद) · प्रथमा·एक·नपुं",
+        "root": "गुहा-चर"
+      },
+      {
+        "word_sanskrit": "नाम",
+        "word_english": "by name, renowned as (प्रख्यातम्)",
+        "grammar_role": "नाम · अव्यय (प्रसिद्धौ)",
+        "root": "नाम"
+      },
+      {
+        "word_sanskrit": "महत्पदमत्रैतत्समर्पितम्",
+        "word_english": "the great abode (महत्, पदं=that attained/sought by all); here in It all this is deposited (समर्पितम्=सम्प्रवेशितम्)",
+        "grammar_role": "महत् · प्रथमा·एक·नपुं + पद · प्रथमा·एक·नपुं + अत्र · अव्यय + एतद् · प्रथमा·एक·नपुं + समर्पित (सम्-√ऋ, क्त) · प्रथमा·एक·नपुं",
+        "root": "महत् + पदम् + अत्र + एतत् + समर्पितम्"
+      },
+      {
+        "word_sanskrit": "एजत्प्राणन्निमिषच्च",
+        "word_english": "that which moves (चलत्), breathes (प्राणिति), and blinks (निमेषक्रियावत्) — all the living world",
+        "grammar_role": "एजत् (√एज्, शतृ) · प्रथमा·एक·नपुं + प्राणत् (प्र-√अन्, शतृ) · प्रथमा·एक·नपुं + निमिषत् (नि-√मिष्, शतृ) · प्रथमा·एक·नपुं + च · अव्यय",
+        "root": "एजत् + प्राणत् + निमिषत् + च"
+      },
+      {
+        "word_sanskrit": "यदेतज्जानथ",
+        "word_english": "this that (the All) — know ye, O disciples! (imperative sense: अवगच्छत)",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + √ज्ञा · लट्·मध्यम·बहु·परस्मैपद (वेदे आज्ञार्थे; भाष्ये अवगच्छत)",
+        "root": "यत् + एतत् + जानथ"
+      },
+      {
+        "word_sanskrit": "सदसद्वरेण्यं",
+        "word_english": "being-and-non-being (gross & subtle, मूर्तामूर्त), the most choice-worthy (वरणीयम्, प्रार्थनीयम्)",
+        "grammar_role": "सत्-असत् (द्वन्द्व) · प्रथमा·एक·नपुं + वरेण्य · प्रथमा·एक·नपुं",
+        "root": "सत् + असत् + वरेण्यम्"
+      },
+      {
+        "word_sanskrit": "परं",
+        "word_english": "supreme, beyond/distinct (व्यतिरिक्तम्)",
+        "grammar_role": "पर · प्रथमा·एक·नपुं",
+        "root": "परम्"
+      },
+      {
+        "word_sanskrit": "विज्ञानाद्यद्वरिष्ठं",
+        "word_english": "that which is highest/best, higher than (all) cognition",
+        "grammar_role": "विज्ञान · पञ्चमी·एक·नपुं (तुलनायाम्) + यद् · प्रथमा·एक·नपुं + वरिष्ठ (अतिशायन, इष्ठन्) · प्रथमा·एक·नपुं",
+        "root": "विज्ञानात् + यत् + वरिष्ठम्"
+      },
+      {
+        "word_sanskrit": "प्रजानाम्",
+        "word_english": "of/among creatures (वरिष्ठं प्रजानाम् = highest of beings)",
+        "grammar_role": "प्रजा · षष्ठी·बहु·स्त्री",
+        "root": "प्रजानाम्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "10. The sun shines not there, nor the moon and the stars. Nor do these lightnings shine. How could this fire? All shine after him who shines. All this is illumined by his radiance."
+        "text": "1. Bright, well-fixed, moving in the heart, great and the support of all; in him is all this universe centred, what moves, breathes and winks. Know this which is all that has form and all that is formless, which is to be sought after by all, which is beyond the reach of man’s knowledge, and the highest of all."
       }
     ],
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0915\u0925\u0902 \u0924\u0924\u094d \u2018\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u093e\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0903\u2019 \u0907\u0924\u093f, \u0909\u091a\u094d\u092f\u0924\u0947 \u2014 \u0928 \u0924\u0924\u094d\u0930 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0938\u094d\u0935\u093e\u0924\u094d\u092e\u092d\u0942\u0924\u0947 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093f \u0938\u0930\u094d\u0935\u093e\u0935\u092d\u093e\u0938\u0915\u094b\u093d\u092a\u093f \u0938\u0942\u0930\u094d\u092f\u094b \u092d\u093e\u0924\u093f, \u0924\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0928 \u092a\u094d\u0930\u0915\u093e\u0936\u092f\u0924\u0940\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0938 \u0939\u093f \u0924\u0938\u094d\u092f\u0948\u0935 \u092d\u093e\u0938\u093e \u0938\u0930\u094d\u0935\u092e\u0928\u094d\u092f\u0926\u0928\u093e\u0924\u094d\u092e\u091c\u093e\u0924\u0902 \u092a\u094d\u0930\u0915\u093e\u0936\u092f\u0924\u093f ; \u0928 \u0924\u0941 \u0924\u0938\u094d\u092f \u0938\u094d\u0935\u0924\u0903 \u092a\u094d\u0930\u0915\u093e\u0936\u0928\u0938\u093e\u092e\u0930\u094d\u0925\u094d\u092f\u092e\u094d\u00a0\u0964 \u0924\u0925\u093e \u0928 \u091a\u0928\u094d\u0926\u094d\u0930\u0924\u093e\u0930\u0915\u092e\u094d , \u0928 \u0907\u092e\u093e\u0903 \u0935\u093f\u0926\u094d\u092f\u0941\u0924\u0903 \u092d\u093e\u0928\u094d\u0924\u093f, \u0915\u0941\u0924\u094b\u093d\u092f\u092e\u0917\u094d\u0928\u093f\u0903 \u0905\u0938\u094d\u092e\u0926\u094d\u0917\u094b\u091a\u0930\u0903\u00a0\u0964 \u0915\u093f\u0902 \u092c\u0939\u0941\u0928\u093e\u00a0\u0964 \u092f\u0926\u093f\u0926\u0902 \u091c\u0917\u0926\u094d\u092d\u093e\u0924\u093f, \u0924\u0924\u094d\u0924\u092e\u0947\u0935 \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930\u0902 \u0938\u094d\u0935\u0924\u094b \u092d\u093e\u0930\u0942\u092a\u0924\u094d\u0935\u093e\u0924\u094d \u092d\u093e\u0928\u094d\u0924\u0902 \u0926\u0940\u092a\u094d\u092f\u092e\u093e\u0928\u092e\u094d \u0905\u0928\u0941\u092d\u093e\u0924\u093f \u0905\u0928\u0941\u0926\u0940\u092a\u094d\u092f\u0924\u0947\u00a0\u0964 \u092f\u0925\u093e \u091c\u0932\u092e\u0941\u0932\u094d\u092e\u0941\u0915\u093e\u0926\u093f \u0935\u093e \u0905\u0917\u094d\u0928\u093f\u0938\u0902\u092f\u094b\u0917\u093e\u0926\u0917\u094d\u0928\u093f\u0902 \u0926\u0939\u0928\u094d\u0924\u092e\u0928\u0941\u0926\u0939\u0924\u093f, \u0928 \u0938\u094d\u0935\u0924\u0903 ; \u0924\u0926\u094d\u0935\u0924\u094d\u0924\u0938\u094d\u092f\u0948\u0935 \u092d\u093e\u0938\u093e \u0926\u0940\u092a\u094d\u0924\u094d\u092f\u093e \u0938\u0930\u094d\u0935\u092e\u093f\u0926\u0902 \u0938\u0942\u0930\u094d\u092f\u093e\u0926\u093f \u091c\u0917\u0926\u094d\u0935\u093f\u092d\u093e\u0924\u093f\u00a0\u0964 \u092f\u0924 \u090f\u0935\u0902 \u0924\u0926\u0947\u0935 \u092c\u094d\u0930\u0939\u094d\u092e \u092d\u093e\u0924\u093f \u091a \u0935\u093f\u092d\u093e\u0924\u093f \u091a \u0915\u093e\u0930\u094d\u092f\u0917\u0924\u0947\u0928 \u0935\u093f\u0935\u093f\u0927\u0947\u0928 \u092d\u093e\u0938\u093e ; \u0905\u0924\u0938\u094d\u0924\u0938\u094d\u092f \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u094b \u092d\u093e\u0930\u0942\u092a\u0924\u094d\u0935\u0902 \u0938\u094d\u0935\u0924\u094b\u093d\u0935\u0917\u092e\u094d\u092f\u0924\u0947\u00a0\u0964 \u0928 \u0939\u093f \u0938\u094d\u0935\u0924\u094b\u093d\u0935\u093f\u0926\u094d\u092f\u092e\u093e\u0928\u0902 \u092d\u093e\u0938\u0928\u092e\u0928\u094d\u092f\u0938\u094d\u092f \u0915\u0930\u094d\u0924\u0941\u0902 \u0936\u0915\u094d\u0928\u094b\u0924\u093f\u00a0\u0964 \u0918\u091f\u093e\u0926\u0940\u0928\u093e\u092e\u0928\u094d\u092f\u093e\u0935\u092d\u093e\u0938\u0915\u0924\u094d\u0935\u093e\u0926\u0930\u094d\u0936\u0928\u093e\u0924\u094d \u092d\u093e\u0930\u0942\u092a\u093e\u0923\u093e\u0902 \u091a\u093e\u0926\u093f\u0924\u094d\u092f\u093e\u0926\u0940\u0928\u093e\u0902 \u0924\u0926\u094d\u0926\u0930\u094d\u0936\u0928\u093e\u0924\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014How that is the light of all lights is explained. The sun, though enlightening all. does not shine in, i.e. , does not illumine the Brahman which is his Atman; for, the sun illumines the whole universe other than the Atman with the light of the Brahman , but has not in himself the capacity to illuminate. Similarly neither the moon and the stars nor the lightning shines. How could this file which is in the range of our vision? Why dilate? This universe which shines, shines with the light of Him, the Lord of all, who shines being himself luminosity. Just as water and the rest by their contact with fire, heat with the heat of the fire, but not by their own inherent power, so all this universe, the sun and the rest shine with the light of the Brahman. As it is the Brahman alone that thus shines and shines with varying light in its diverse manifestations, itself luminosity, is inferred; for, that which is not itself light cannot illumine others as we see that pots, etc., do not illumine others and that the sun and the rest having light, illumine others."
+        "text": "अरूपं सदक्षरं केन प्रकारेण विज्ञेयमित्युच्यते — आविः प्रकाशं, संनिहितम्, वागाद्युपाधिभिः — ज्वलति भ्राजतीति श्रुत्यन्तरात् — शब्दादीनुपलभमानवदवभासते; दर्शनश्रवणमननविज्ञानाद्युपाधिधर्मैराविर्भूतं सल्लक्ष्यते हृदि सर्वप्राणिनाम् । यदेतदाविर्भूतं ब्रह्म संनिहितं सम्यक् स्थितं हृदि, तत् गुहाचरं नाम गुहायां चरतीति दर्शनश्रवणादिप्रकारैर्गुहाचरमिति प्रख्यातम् । महत् सर्वमहत्त्वात्, पदं पद्यते सर्वेणेति, सर्वपदार्थास्पदत्वात् । कथं तन्महत्पदमिति, उच्यते? यतः अत्र अस्मिन्ब्रह्मणि एतत्सर्वं समर्पितं सम्प्रवेशितं रथनाभाविवाराः — एजत् चलत्पक्ष्यादि, प्राणत् प्राणितीति प्राणापानादिमन्मनुष्यपश्वादि, निमिषच्च यन्निमेषादिक्रियावत्, यच्चानिमिषत्; च - शब्दात् समस्तमेतदत्रैव ब्रह्मणि समर्पितम् । एतत् यदास्पदं सर्वं जानथ हे शिष्याः, अवगच्छत तदात्मभूतं भवताम्; सदसत् सदसत्स्वरूपं सदसतोर्मूर्तामूर्तयोः स्थूलसूक्ष्मयोः, तद्व्यतिरेकेणाभावात् । वरेण्यं वरणीयम्, तदेव हि सर्वस्य नित्यत्वात्प्रार्थनीयम्; परं व्यतिरिक्तं विज्ञानात्प्रजानामिति व्यवहितेन सम्बन्धः; यल्लौकिकविज्ञानागोचरमित्यर्थः । यत् वरिष्ठं वरतमं सर्वपदार्थेषु वरेषु; तद्ध्येकं ब्रह्म अतिशयेन वरं सर्वदोषरहितत्वात् ॥"
       }
     ],
     "commentary_faqs": []
@@ -401,15 +1260,1166 @@
       "scripture_name": "Mundaka Upanishad",
       "scripture_slug": "upanishad-mundaka",
       "chapter_slug": "chapter-2",
-      "chapter_name": "Chapter 2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
       "verse_number": 12,
       "chapter_number": 2,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/mundaka-upanishad-shankara-bhashya/d/doc145120.html"
+      "mantra_ref": "2.2.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935\u0947\u0926\u092e\u092e\u0943\u0924\u0902 \u092a\u0941\u0930\u0938\u094d\u0924\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u092a\u0936\u094d\u091a\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0926\u0915\u094d\u0937\u093f\u0923\u0924\u0936\u094d\u091a\u094b\u0924\u094d\u0924\u0930\u0947\u0923\u00a0\u0964 \n \u0905\u0927\u0936\u094d\u091a\u094b\u0930\u094d\u0927\u094d\u0935\u0902 \u091a \u092a\u094d\u0930\u0938\u0943\u0924\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935\u0947\u0926\u0902 \u0935\u093f\u0936\u094d\u0935\u092e\u093f\u0926\u0902 \u0935\u0930\u093f\u0937\u094d\u0920\u092e\u094d \u0965 \u0967\u0968 \u0965",
-    "transliteration": "brahmaivedamam\u1e5bta\u1e43 purast\u0101dbrahma pa\u015bc\u0101dbrahma dak\u1e63i\u1e47ata\u015bcottare\u1e47a | adha\u015bcordhva\u1e43 ca pras\u1e5bta\u1e43 brahmaiveda\u1e43 vi\u015bvamida\u1e43 vari\u1e63\u1e6dham || 11 ||",
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "यदर्चिमद्यदणुभ्योऽणु च यस्मिंल्लोका निहिता लोकिनश्च । तदेतदक्षरं ब्रह्म स प्राणस्तदु वाङ्मनः । तदेतत्सत्यं तदमृतं तद्वेद्धव्यं सोम्य विद्धि ॥ २ ॥",
+    "transliteration": "yadarcimadyadaṇubhyo'ṇu ca yasmiṃllokā nihitā lokinaśca | tadetadakṣaraṃ brahma sa prāṇastadu vāṅmanaḥ | tadetatsatyaṃ tadamṛtaṃ tadveddhavyaṃ somya viddhi || 2 ||",
+    "translation": "2. What is bright, what is smaller than the small, in what are centred all the world and those that live in them is this immortal Brahman. That is prana, that is speech and mind. That is true and immortal; good looking youth. Strike thy mind upon that which should be struck by the mind.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "यदर्चिमद्यदणुभ्योऽणु",
+        "word_english": "which is luminous, which is subtler than the small (subtler than even śyāmāka grains)",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं + अर्चिमत् · प्रथमा·एक·नपुं + यद् · प्रथमा·एक·नपुं + अणु · पञ्चमी·बहु·नपुं + अणु · प्रथमा·एक·नपुं",
+        "root": "यत् + अर्चिमत् + यत् + अणुभ्यः + अणु"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "यस्मिंल्लोका",
+        "word_english": "in which the worlds (earth, etc.) ",
+        "grammar_role": "यद् · सप्तमी·एक·नपुं + लोक · प्रथमा·बहु·पुं",
+        "root": "यस्मिन् + लोकाः"
+      },
+      {
+        "word_sanskrit": "निहिता",
+        "word_english": "are placed, are fixed",
+        "grammar_role": "नि-√धा (निहित) · प्रथमा·बहु·पुं (क्तप्रत्ययान्तम्)",
+        "root": "निहिताः"
+      },
+      {
+        "word_sanskrit": "लोकिनश्च",
+        "word_english": "and the world-dwellers (humans, etc.)",
+        "grammar_role": "लोकिन् · प्रथमा·बहु·पुं + अव्यय (समुच्चये)",
+        "root": "लोकिनः + च"
+      },
+      {
+        "word_sanskrit": "तदेतदक्षरं",
+        "word_english": "that very imperishable (Brahman, the substratum of all)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + अक्षर · प्रथमा·एक·नपुं",
+        "root": "तत् + एतत् + अक्षरम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "it (is the vital breath)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "प्राणस्तदु",
+        "word_english": "the vital breath; and that too",
+        "grammar_role": "प्राण · प्रथमा·एक·पुं + तद् · प्रथमा·एक·नपुं + उ · अव्यय (अवधारणे)",
+        "root": "प्राणः + तत् + उ"
+      },
+      {
+        "word_sanskrit": "वाङ्मनः",
+        "word_english": "speech and mind (and all the organs)",
+        "grammar_role": "वाच् · प्रथमा·एक·स्त्री + मनस् · प्रथमा·एक·नपुं",
+        "root": "वाक् + मनः"
+      },
+      {
+        "word_sanskrit": "तदेतत्सत्यं",
+        "word_english": "that very truth (unfailing reality, avitatham)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + सत्य · प्रथमा·एक·नपुं",
+        "root": "तत् + एतत् + सत्यम्"
+      },
+      {
+        "word_sanskrit": "तदमृतं",
+        "word_english": "that is immortal, indestructible (avināśi)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + अमृत · प्रथमा·एक·नपुं",
+        "root": "तत् + अमृतम्"
+      },
+      {
+        "word_sanskrit": "तद्वेद्धव्यं",
+        "word_english": "that is to be pierced (to be struck by the mind, tāḍayitavyam)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + वि-√व्यध् (वेद्धव्य) · प्रथमा·एक·नपुं (तव्यत्प्रत्ययान्तम्, कृत्यम्)",
+        "root": "तत् + वेद्धव्यम्"
+      },
+      {
+        "word_sanskrit": "सोम्य",
+        "word_english": "O gentle one",
+        "grammar_role": "सोम्य · सम्बोधन·एक·पुं",
+        "root": "सोम्य"
+      },
+      {
+        "word_sanskrit": "विद्धि",
+        "word_english": "know it! (Śaṅkara: fix your mind on it — pierce/strike the imperishable with your mind, akṣare cetaḥ samādhatsva)",
+        "grammar_role": "√विद् (वेत्ति, अदादि) · लोट्·मध्यमपुरुष·एक·परस्मैपद",
+        "root": "विद्धि"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "2. What is bright, what is smaller than the small, in what are centred all the world and those that live in them is this immortal Brahman. That is prana, that is speech and mind. That is true and immortal; good looking youth. Strike thy mind upon that which should be struck by the mind."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "किञ्च, यत् अर्चिमत् दीप्तिमत्; तद्दीप्त्या ह्यादित्यादि दीप्यत इति दीप्तिमद्ब्रह्म । किञ्च, यत् अणुभ्यः श्यामाकादिभ्योऽपि अणु च सूक्ष्मम् । च - शब्दात्स्थूलेभ्योऽप्यतिशयेन स्थूलं पृथिव्यादिभ्यः । यस्मिन् लोकाः भूरादयः निहिताः स्थिताः, ये च लोकिनः लोकनिवासिनः मनुष्यादयः; चैतन्याश्रया हि सर्वे प्रसिद्धाः; तदेतत् सर्वाश्रयं अक्षरम् ब्रह्म स प्राणः तदु वाङ्मनः वाक्च मनश्च सर्वाणि च करणानि तदु अन्तश्चैतन्यम्; चैतन्याश्रयो हि प्राणेन्द्रियादिसर्वसङ्घातः, ‘प्राणस्य प्राणम्’ (बृ. उ. ४ । ४ । १०) इति श्रुत्यन्तरात् । यत्प्राणादीनामन्तश्चैतन्यमक्षरं तदेतत् सत्यम् अवितथम्, अतः अमृतम् अविनाशि तत् वेद्धव्यं मनसा ताडयितव्यम् । तस्मिन्मनसः समाधानं कर्तव्यमित्यर्थः । यस्मादेवं हे सोम्य, विद्धि अक्षरे चेतः समाधत्स्व ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_13",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 13,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.3",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "धनुर्गृहीत्वौपनिषदं महास्त्रं शरं ह्युपासानिशितं सन्दधीत । आयम्य तद्भावगतेन चेतसा लक्ष्यं तदेवाक्षरं सोम्य विद्धि ॥ ३ ॥",
+    "transliteration": "dhanurgṛhītvaupaniṣadaṃ mahāstraṃ śaraṃ hyupāsāniśitaṃ sandadhīta | āyamya tadbhāvagatena cetasā lakṣyaṃ tadevākṣaraṃ somya viddhi || 3 ||",
+    "translation": "3. Having taken the how furnished by the Upanishads , the great weapon—and fixed in it the arrow rendered pointed by constant meditation and having drawn it with the mind fixed on the Brahman, hit, good looking youth! at that mark—the immortal Brahman.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "धनुर्गृहीत्वौपनिषदं",
+        "word_english": "having taken the bow, the Upaniṣadic (great weapon)",
+        "grammar_role": "धनुस् · द्वितीया·एक·नपुं + √ग्रह् (क्त्वा) अव्यय + औपनिषद · द्वितीया·एक·नपुं",
+        "root": "धनुः + गृहीत्वा + औपनिषदम्"
+      },
+      {
+        "word_sanskrit": "महास्त्रं",
+        "word_english": "the great weapon (the bow itself)",
+        "grammar_role": "महत्-अस्त्र · द्वितीया·एक·नपुं",
+        "root": "महत् + अस्त्रम्"
+      },
+      {
+        "word_sanskrit": "शरं",
+        "word_english": "the arrow",
+        "grammar_role": "शर · द्वितीया·एक·पुं",
+        "root": "शरम्"
+      },
+      {
+        "word_sanskrit": "ह्युपासानिशितं",
+        "word_english": "indeed (the arrow) sharpened by worship/contemplation",
+        "grammar_role": "हि (अव्यय) + उपासा-निशित · द्वितीया·एक·पुं",
+        "root": "हि + उपासा-निशितम्"
+      },
+      {
+        "word_sanskrit": "सन्दधीत",
+        "word_english": "let him fix/affix (the arrow to the bow)",
+        "grammar_role": "√धा <सम्> · विधिलिङ्·प्रथमपुरुष·एक·आत्मनेपद",
+        "root": "सन्दधीत"
+      },
+      {
+        "word_sanskrit": "आयम्य",
+        "word_english": "having drawn back/withdrawn (the mind)",
+        "grammar_role": "√यम् <आ> (ल्यप्) · अव्यय",
+        "root": "आयम्य"
+      },
+      {
+        "word_sanskrit": "तद्भावगतेन",
+        "word_english": "with (mind) absorbed in being of That",
+        "grammar_role": "तद्-भाव-गत · तृतीया·एक·नपुं",
+        "root": "तद्-भाव-गतेन"
+      },
+      {
+        "word_sanskrit": "चेतसा",
+        "word_english": "with the mind",
+        "grammar_role": "चेतस् · तृतीया·एक·नपुं",
+        "root": "चेतसा"
+      },
+      {
+        "word_sanskrit": "लक्ष्यं",
+        "word_english": "the target (to be aimed at)",
+        "grammar_role": "लक्ष्य · द्वितीया·एक·नपुं",
+        "root": "लक्ष्यम्"
+      },
+      {
+        "word_sanskrit": "तदेवाक्षरं",
+        "word_english": "that very imperishable (Brahman)",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + एव (अव्यय) + अक्षर · द्वितीया·एक·नपुं",
+        "root": "तत् + एव + अक्षरम्"
+      },
+      {
+        "word_sanskrit": "सोम्य",
+        "word_english": "O gentle one",
+        "grammar_role": "सोम्य · सम्बोधन·एक·पुं",
+        "root": "सोम्य"
+      },
+      {
+        "word_sanskrit": "विद्धि",
+        "word_english": "pierce (i.e. penetrate/realize the target, That)",
+        "grammar_role": "√व्यध् · लोट्·मध्यमपुरुष·एक·परस्मैपद",
+        "root": "विद्धि"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "3. Having taken the how furnished by the Upanishads , the great weapon—and fixed in it the arrow rendered pointed by constant meditation and having drawn it with the mind fixed on the Brahman, hit, good looking youth! at that mark—the immortal Brahman."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "कथं वेद्धव्यमिति, उच्यते — धनुः इष्वासनं गृहीत्वा आदाय औपनिषदम् उपनिषत्सु भवं प्रसिद्धं महास्त्रं महच्च तदस्त्रं च महास्त्रं धनुः, तस्मिन् शरम्; किंविशिष्टमित्याह — उपासानिशितं सन्तताभिध्यानेन तनूकृतम्, संस्कृतमित्येतत्; सन्दधीत सन्धानं कुर्यात् । सन्धाय च आयम्य आकृष्य सेन्द्रियमन्तःकरणं स्वविषयाद्विनिवर्त्य लक्ष्य एवावर्जितं कृत्वेत्यर्थः । न हि हस्तेनेव धनुष आयमनमिह सम्भवति । तद्भावगतेन तस्मिन्ब्रह्मण्यक्षरे लक्ष्ये भावना भावः तद्गतेन चेतसा, लक्ष्यं तदेव यथोक्तलक्षणम् अक्षरं सोम्य, विद्धि ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_14",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 14,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.4",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "प्रणवो धनुः शरो ह्यात्मा ब्रह्म तल्लक्ष्यमुच्यते । अप्रमत्तेन वेद्धव्यं शरवत्तन्मयो भवेत् ॥ ४ ॥",
+    "transliteration": "praṇavo dhanuḥ śaro hyātmā brahma tallakṣyamucyate | apramattena veddhavyaṃ śaravattanmayo bhavet || 4 ||",
+    "translation": "4. The Pranava is the how, the Atman is the arrow and the Brahman is said to be its mark. It should he hit by one who is self-collected and that which hits becomes, like the arrow, one with the mark, i.e.. Brahman.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्रणवो",
+        "word_english": "the praṇava (Oṃkāra) [is] the bow",
+        "grammar_role": "प्रणव · प्रथमा·एक·पुं",
+        "root": "प्रणवः"
+      },
+      {
+        "word_sanskrit": "धनुः",
+        "word_english": "the bow",
+        "grammar_role": "धनुस् · प्रथमा·एक·नपुं",
+        "root": "धनुः"
+      },
+      {
+        "word_sanskrit": "शरो",
+        "word_english": "the arrow [is the self]",
+        "grammar_role": "शर · प्रथमा·एक·पुं",
+        "root": "शरः"
+      },
+      {
+        "word_sanskrit": "ह्यात्मा",
+        "word_english": "indeed the self [is the arrow]",
+        "grammar_role": "हि · अव्यय (निपात) + आत्मन् · प्रथमा·एक·पुं",
+        "root": "हि + आत्मा"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman (the imperishable, अक्षर) [is that target]",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "तल्लक्ष्यमुच्यते",
+        "word_english": "that is said to be the target",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + लक्ष्य · प्रथमा·एक·नपुं + √वच् · लट्·प्रथम·एक·आत्मनेपद (कर्मणि)",
+        "root": "तत् + लक्ष्यम् + उच्यते"
+      },
+      {
+        "word_sanskrit": "अप्रमत्तेन",
+        "word_english": "by one free of heedlessness [vigilant, dispassionate, sense-controlled, one-pointed]",
+        "grammar_role": "अप्रमत्त · तृतीया·एक·पुं",
+        "root": "अप्रमत्तेन"
+      },
+      {
+        "word_sanskrit": "वेद्धव्यं",
+        "word_english": "[Brahman, the target,] is to be pierced",
+        "grammar_role": "√व्यध् · कृत्य (वेद्धव्य) · प्रथमा·एक·नपुं",
+        "root": "वेद्धव्यम्"
+      },
+      {
+        "word_sanskrit": "शरवत्तन्मयो",
+        "word_english": "like the arrow, one becomes identical with it (tanmaya)",
+        "grammar_role": "शरवत् · अव्यय (तद्धित, वति-प्रत्यय) + तन्मय (तद्-मय) · प्रथमा·एक·पुं",
+        "root": "शरवत् + तन्मयः"
+      },
+      {
+        "word_sanskrit": "भवेत्",
+        "word_english": "one should become",
+        "grammar_role": "√भू · विधिलिङ्·प्रथम·एक·परस्मैपद",
+        "root": "भवेत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "4. The Pranava is the how, the Atman is the arrow and the Brahman is said to be its mark. It should he hit by one who is self-collected and that which hits becomes, like the arrow, one with the mark, i.e.. Brahman."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "यदुक्तं धनुरादि, तदुच्यते — प्रणवः ओङ्कारः धनुः । यथा इष्वासनं लक्ष्ये शरस्य प्रवेशकारणम्, तथा आत्मशरस्याक्षरे लक्ष्ये प्रवेशकारणमोङ्कारः । प्रणवेन ह्यभ्यस्यमानेन संस्क्रियमाणस्तदालम्बनोऽप्रतिबन्धेनाक्षरेऽवतिष्ठते । यथा धनुषा अस्त इषुर्लक्ष्ये । अतः प्रणवो धनुरिव धनुः । शरो ह्यात्मा उपाधिलक्षणः पर एव जले सूर्यादिवदिह प्रविष्टो देहे सर्वबौद्धप्रत्ययसाक्षितया; स शर इव स्वात्मन्येवार्पितोऽक्षरे ब्रह्मणि; अतः ब्रह्म तत् लक्ष्यमुच्यते लक्ष्य इव मनः समाधित्सुभिरात्मभावेन लक्ष्यमाणत्वात् । तत्रैवं सति अप्रमत्तेन बाह्यविषयोपलब्धितृष्णाप्रमादवर्जितेन सर्वतो विरक्तेन जितेन्द्रियेणैकाग्रचित्तेन वेद्धव्यं ब्रह्म लक्ष्यम् । ततस्तद्वेधनादूर्ध्वं शरवत् तन्मयः भवेत्; यथा शरस्य लक्ष्यैकात्मत्वं फलं भवति, तथा देहाद्यात्मताप्रत्ययतिरस्करणेनाक्षरैकात्मत्वं फलमापादयेदित्यर्थः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_15",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 15,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.5",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "यस्मिन्द्यौः पृथिवी चान्तरिक्षमोतं मनः सह प्राणैश्च सर्वैः । तमेवैकं जानथ आत्मानमन्या वाचो विमुञ्चथामृतस्यैष सेतुः ॥ ५ ॥",
+    "transliteration": "yasmindyauḥ pṛthivī cāntarikṣamotaṃ manaḥ saha prāṇaiśca sarvaiḥ | tamevaikaṃ jānatha ātmānamanyā vāco vimuñcathāmṛtasyaiṣa setuḥ || 5 ||",
+    "translation": "5. He in whom the heaven, the earth, the antariksha (sky), the mind with the pranas are centred; know him to be the one Atman of all; abandon all other speech; this is the road to immortality.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "यस्मिन्द्यौः",
+        "word_english": "in which (the imperishable Puruṣa) — heaven",
+        "grammar_role": "यद् · सप्तमी·एकवचन·पुंलिङ्ग (अक्षरे पुरुषे) + दिव् · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "यस्मिन् + द्यौः"
+      },
+      {
+        "word_sanskrit": "पृथिवी",
+        "word_english": "the earth",
+        "grammar_role": "पृथिवी · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "पृथिवी"
+      },
+      {
+        "word_sanskrit": "चान्तरिक्षमोतं",
+        "word_english": "and the mid-region are woven (samarpita — fixed/established) in",
+        "grammar_role": "च · अव्यय (समुच्चय) + अन्तरिक्ष · प्रथमा·एकवचन·नपुंसकलिङ्ग + ओत (वि-√वे/√वा, क्त) · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "च + अन्तरिक्षम् + ओतम्"
+      },
+      {
+        "word_sanskrit": "मनः",
+        "word_english": "the mind",
+        "grammar_role": "मनस् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "मनः"
+      },
+      {
+        "word_sanskrit": "सह",
+        "word_english": "together with",
+        "grammar_role": "सह · अव्यय (सहार्थक)",
+        "root": "सह"
+      },
+      {
+        "word_sanskrit": "प्राणैश्च",
+        "word_english": "and with the prāṇas (the senses/organs — करणैः)",
+        "grammar_role": "प्राण · तृतीया·बहुवचन·पुंलिङ्ग + च · अव्यय (समुच्चय)",
+        "root": "प्राणैः + च"
+      },
+      {
+        "word_sanskrit": "सर्वैः",
+        "word_english": "with all (the other organs)",
+        "grammar_role": "सर्व · तृतीया·बहुवचन·पुंलिङ्ग",
+        "root": "सर्वैः"
+      },
+      {
+        "word_sanskrit": "तमेवैकं",
+        "word_english": "That alone, the One (non-dual — सर्वाश्रयम् एकम् अद्वितीयम्)",
+        "grammar_role": "तद् · द्वितीया·एकवचन·पुंलिङ्ग + एव · अव्यय (अवधारण) + एक · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "तम् + एव + एकम्"
+      },
+      {
+        "word_sanskrit": "जानथ",
+        "word_english": "know! (O disciples — जानीत हे शिष्याः)",
+        "grammar_role": "√ज्ञा · लोट्·मध्यमपुरुष·बहुवचन·परस्मैपद (वैदिक रूप; भाष्ये जानीत)",
+        "root": "जानथ"
+      },
+      {
+        "word_sanskrit": "आत्मानमन्या",
+        "word_english": "the Self (the inmost essence — प्रत्यक्स्वरूपम्); other (words)",
+        "grammar_role": "आत्मन् · द्वितीया·एकवचन·पुंलिङ्ग + अन्य · द्वितीया·बहुवचन·स्त्रीलिङ्ग",
+        "root": "आत्मानम् + अन्याः"
+      },
+      {
+        "word_sanskrit": "वाचो",
+        "word_english": "words (forms of lower knowledge — अपरविद्यारूपाः)",
+        "grammar_role": "वाच् · द्वितीया·बहुवचन·स्त्रीलिङ्ग",
+        "root": "वाचः"
+      },
+      {
+        "word_sanskrit": "विमुञ्चथामृतस्यैष",
+        "word_english": "let go (abandon — परित्यजत) — of immortality (amṛtatva/mokṣa), this (is)",
+        "grammar_role": "वि-√मुच् · लोट्·मध्यमपुरुष·बहुवचन·परस्मैपद (वैदिक रूप; भाष्ये विमुञ्चत) + अमृत · षष्ठी·एकवचन·नपुंसकलिङ्ग + एतद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "विमुञ्चथ + अमृतस्य + एषः"
+      },
+      {
+        "word_sanskrit": "सेतुः",
+        "word_english": "the bridge (the means of attaining immortality — संसारमहोदधेः उत्तरणहेतुः)",
+        "grammar_role": "सेतु · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सेतुः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "5. He in whom the heaven, the earth, the antariksha (sky), the mind with the pranas are centred; know him to be the one Atman of all; abandon all other speech; this is the road to immortality."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अक्षरस्यैव दुर्लक्ष्यत्वात्पुनः पुनर्वचनं सुलक्षणार्थम् । यस्मिन् अक्षरे पुरुषे द्यौः पृथिवी च अन्तरिक्षं च ओतं समर्पितं मनश्च सह प्राणैः करणैः अन्यैः सर्वैः, तमेव सर्वाश्रयमेकमद्वितीयं जानथ जानीत हे शिष्याः । आत्मानं प्रत्यक्स्वरूपं युष्माकं सर्वप्राणिनां च । ज्ञात्वा च अन्याः वाचः अपरविद्यारूपाः विमुञ्चथ विमुञ्चत परित्यजत । तत्प्रकाश्यं च सर्वं कर्म ससाधनम् । यतः अमृतस्य एष सेतुः, एतदात्मज्ञानममृतस्यामृतत्वस्य मोक्षस्य प्राप्तये सेतुरिव सेतुः, संसारमहोदधेरुत्तरणहेतुत्वात्; तथा च श्रुत्यन्तरम् — ‘तमेव विदित्वाति मृत्युमेति नान्यः पन्था विद्यतेऽयनाय’ (श्वे. उ. ३ । ८) इति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_16",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 16,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.6",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "अरा इव रथनाभौ संहता यत्र नाड्यः स एषोऽन्तश्चरते बहुधा जायमानः । ओमित्येवं ध्यायथ आत्मानं स्वस्ति वः पाराय तमसः परस्तात् ॥ ६ ॥",
+    "transliteration": "arā iva rathanābhau saṃhatā yatra nāḍyaḥ sa eṣo'ntaścarate bahudhā jāyamānaḥ | omityevaṃ dhyāyatha ātmānaṃ svasti vaḥ pārāya tamasaḥ parastāt || 6 ||",
+    "translation": "6. Where the nerves of the body meet together as the spokes in the nave of a wheel, this Atman is within it variously horn; meditate upon “Om” as the Atman. May there be no obstacle to your going to the other side beyond darkness.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अरा",
+        "word_english": "spokes (as fixed in a wheel)",
+        "grammar_role": "अर · प्रथमा·बहु·पुं",
+        "root": "अराः"
+      },
+      {
+        "word_sanskrit": "इव",
+        "word_english": "like, as",
+        "grammar_role": "अव्यय (उपमार्थे)",
+        "root": "इव"
+      },
+      {
+        "word_sanskrit": "रथनाभौ",
+        "word_english": "in the hub of a chariot-wheel",
+        "grammar_role": "रथनाभि · सप्तमी·एक·स्त्री",
+        "root": "रथ-नाभौ"
+      },
+      {
+        "word_sanskrit": "संहता",
+        "word_english": "joined together, converged",
+        "grammar_role": "संहत · प्रथमा·बहु·स्त्री",
+        "root": "संहताः"
+      },
+      {
+        "word_sanskrit": "यत्र",
+        "word_english": "where (in which heart)",
+        "grammar_role": "अव्यय (सप्तम्यर्थे; यस्मिन् हृदये)",
+        "root": "यत्र"
+      },
+      {
+        "word_sanskrit": "नाड्यः",
+        "word_english": "the channels (nāḍīs)",
+        "grammar_role": "नाडी · प्रथमा·बहु·स्त्री",
+        "root": "नाड्यः"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "that (Self)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "एषोऽन्तश्चरते",
+        "word_english": "this one moves within",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं + अव्यय (मध्ये) + √चर् · लट्·प्रथम·एक·आत्मनेपद",
+        "root": "एषः + अन्तर् + चरते"
+      },
+      {
+        "word_sanskrit": "बहुधा",
+        "word_english": "in manifold ways",
+        "grammar_role": "अव्यय (प्रकारार्थे)",
+        "root": "बहुधा"
+      },
+      {
+        "word_sanskrit": "जायमानः",
+        "word_english": "being born (as if born)",
+        "grammar_role": "√जन् · वर्तमानकृदन्त (शानच्) · प्रथमा·एक·पुं·आत्मनेपद",
+        "root": "जायमानः"
+      },
+      {
+        "word_sanskrit": "ओमित्येवं",
+        "word_english": "thus, as Om",
+        "grammar_role": "अव्यय (प्रणवः) + अव्यय (इति) + अव्यय (एवम्)",
+        "root": "ॐ + इति + एवम्"
+      },
+      {
+        "word_sanskrit": "ध्यायथ",
+        "word_english": "you meditate! (Vedic present with imperative force)",
+        "grammar_role": "√ध्यै · लट्·मध्यम·बहु·परस्मैपद (विधिलिङ्ग/आज्ञार्थे — चिन्तयत)",
+        "root": "ध्यायथ"
+      },
+      {
+        "word_sanskrit": "आत्मानं",
+        "word_english": "the Self (as object of meditation)",
+        "grammar_role": "आत्मन् · द्वितीया·एक·पुं",
+        "root": "आत्मानम्"
+      },
+      {
+        "word_sanskrit": "स्वस्ति",
+        "word_english": "well-being, may all be well",
+        "grammar_role": "स्वस्ति · अव्यय (प्रथमा·एक·नपुं-वत्; आशीरर्थे)",
+        "root": "स्वस्ति"
+      },
+      {
+        "word_sanskrit": "वः",
+        "word_english": "to/for you (your)",
+        "grammar_role": "युष्मद् · षष्ठी·बहु (सम्बन्धे; वस्-आदेशः)",
+        "root": "वः"
+      },
+      {
+        "word_sanskrit": "पाराय",
+        "word_english": "for reaching the far shore",
+        "grammar_role": "पार · चतुर्थी·एक·नपुं",
+        "root": "पाराय"
+      },
+      {
+        "word_sanskrit": "तमसः",
+        "word_english": "of/beyond the darkness (of ignorance)",
+        "grammar_role": "तमस् · पञ्चमी·एक·नपुं",
+        "root": "तमसः"
+      },
+      {
+        "word_sanskrit": "परस्तात्",
+        "word_english": "beyond, on the far side",
+        "grammar_role": "अव्यय (पञ्चम्यर्थे)",
+        "root": "परस्तात्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "6. Where the nerves of the body meet together as the spokes in the nave of a wheel, this Atman is within it variously horn; meditate upon “Om” as the Atman. May there be no obstacle to your going to the other side beyond darkness."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "किञ्च, अरा इव यथा रथनाभौ समर्पिता अराः, एवं संहताः सम्प्रविष्टाः यत्र यस्मिन्हृदये सर्वतो देहव्यापिन्यः नाड्यः, तस्मिन्हृदये बुद्धिप्रत्ययसाक्षिभूतः स एषः प्रकृत आत्मा अन्तः मध्ये चरते चरति वर्तते । पश्यन् शृण्वन्मन्वानो विजानन् बहुधा अनेकधा क्रोधहर्षादिप्रत्ययैर्जायमान इव जायमानः अन्तःकरणोपाध्यनुविधायित्वात्; वदन्ति हि लौकिका हृष्टो जातः क्रुद्धो जात इति । तमात्मानम् ओमित्येवम् ओङ्कारालम्बनाः सन्तः यथोक्तकल्पनया ध्यायथ चिन्तयत । उक्तं च वक्तव्यं शिष्येभ्य आचार्येण जानता । शिष्याश्च ब्रह्मविद्याविविदिषुत्वान्निवृत्तकर्माणो मोक्षपथे प्रवृत्ताः । तेषां निर्विघ्नतया ब्रह्मप्राप्तिमाशास्त्याचार्यः — स्वस्ति निर्विघ्नमस्तु वः युष्माकं पाराय परकूलाय; कस्य? अविद्यातमसः परस्तात्; अविद्यारहितब्रह्मात्मस्वरूपगमनायेत्यर्थः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_17",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 17,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.7",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "यः सर्वज्ञः सर्वविद्यस्यैष महिमा भुवि । दिव्ये ब्रह्मपुरे ह्येष व्योमन्यात्मा प्रतिष्ठितः ॥ ७ ॥",
+    "transliteration": "yaḥ sarvajñaḥ sarvavidyasyaiṣa mahimā bhuvi | divye brahmapure hyeṣa vyomanyātmā pratiṣṭhitaḥ || 7 ||",
+    "translation": "7. This Atman who knows all and all of everything and whose glory is so celebrated on earth is seated in the akas of the blight city of Brahman. He is conditioned by the mind, is the leader of the prana and the body and is seated in food, i.e., the body fixing the intelligence (in the cavity of their heart). The discerning people see by means of their superior knowledge on all sides the atman which shines, all bliss and immortality.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "यः",
+        "word_english": "who; he who",
+        "grammar_role": "यद् · प्रथमा·एक·पुं",
+        "root": "यः"
+      },
+      {
+        "word_sanskrit": "सर्वज्ञः",
+        "word_english": "the all-knowing one (omniscient)",
+        "grammar_role": "सर्वज्ञ · प्रथमा·एक·पुं",
+        "root": "सर्व-ज्ञः"
+      },
+      {
+        "word_sanskrit": "सर्वविद्यस्यैष",
+        "word_english": "the all-knowing (knower of all); whose; this",
+        "grammar_role": "सर्व-विद् · प्रथमा·एक·पुं + यद् · षष्ठी·एक·पुं + एतद् · प्रथमा·एक·पुं",
+        "root": "सर्ववित् + यस्य + एष"
+      },
+      {
+        "word_sanskrit": "महिमा",
+        "word_english": "greatness, glory, majestic power (vibhūti)",
+        "grammar_role": "महिमन् · प्रथमा·एक·पुं",
+        "root": "महिमा"
+      },
+      {
+        "word_sanskrit": "भुवि",
+        "word_english": "in the world, on earth",
+        "grammar_role": "भू · सप्तमी·एक·स्त्री",
+        "root": "भुवि"
+      },
+      {
+        "word_sanskrit": "दिव्ये",
+        "word_english": "in the divine, luminous (self-effulgent)",
+        "grammar_role": "दिव्य · सप्तमी·एक·नपुं",
+        "root": "दिव्ये"
+      },
+      {
+        "word_sanskrit": "ब्रह्मपुरे",
+        "word_english": "in the city of Brahman (the heart-lotus)",
+        "grammar_role": "ब्रह्मपुर · सप्तमी·एक·नपुं",
+        "root": "ब्रह्म-पुरे"
+      },
+      {
+        "word_sanskrit": "ह्येष",
+        "word_english": "for, indeed; this",
+        "grammar_role": "अव्यय (निपात, hi 'for/indeed') + एतद् · प्रथमा·एक·पुं",
+        "root": "हि + एष"
+      },
+      {
+        "word_sanskrit": "व्योमन्यात्मा",
+        "word_english": "in the ether (space within the heart-lotus); the Self",
+        "grammar_role": "व्योमन् · सप्तमी·एक·नपुं + आत्मन् · प्रथमा·एक·पुं",
+        "root": "व्योमनि + आत्मा"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठितः",
+        "word_english": "established, abiding (as if firmly seated)",
+        "grammar_role": "प्रति-√स्था · क्तप्रत्यय (भूतकृदन्त) · प्रथमा·एक·पुं",
+        "root": "प्रतिष्ठितः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "7. This Atman who knows all and all of everything and whose glory is so celebrated on earth is seated in the akas of the blight city of Brahman. He is conditioned by the mind, is the leader of the prana and the body and is seated in food, i.e., the body fixing the intelligence (in the cavity of their heart). The discerning people see by means of their superior knowledge on all sides the atman which shines, all bliss and immortality."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "योऽसौ तमसः परस्तात्संसारमहोदधिं तीर्त्वा गन्तव्यः परविद्याविषयः, स कस्मिन्वर्तत इत्याह — यः सर्वज्ञः सर्ववित् व्याख्यातः । तं पुनर्विशिनष्टि — यस्यैष प्रसिद्धो महिमा विभूतिः । कोऽसौ महिमा? यस्येमे द्यावापृथिव्यौ शासने विधृते तिष्ठतः; सूर्याचन्द्रमसौ यस्य शासनेऽलातचक्रवदजस्रं भ्रमतः; यस्य शासने सरितः सागराश्च स्वगोचरं नातिक्रामन्ति; तथा स्थावरं जङ्गमं च यस्य शासने नियतम्; तथा ऋतवोऽयने अब्दाश्च यस्य शासनं नातिक्रामन्ति; तथा कर्तारः कर्माणि फलं च यच्छासनात्स्वं स्वं कालं नातिवर्तन्ते, स एष महिमा; भुवि लोके यस्य स एष सर्वज्ञ एवंमहिमा देवः । दिव्ये द्योतनवति सर्वबौद्धप्रत्ययकृतद्योतने ब्रह्मपुरे । ब्रह्मणो ह्यत्र चैतन्यस्वरूपेण नित्याभिव्यक्तत्वात्; ब्रह्मणः पुरं हृदयपुण्डरीकं तस्मिन्यद्व्योम, तस्मिन्व्योमनि आकाशे हृत्पुण्डरीकमध्यस्थे प्रतिष्ठित इवोपलभ्यते; न ह्याकाशवत्सर्वगतस्य गतिरागतिः प्रतिष्ठा वान्यथा सम्भवति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_18",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 18,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.8",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं संनिधाय । तद्विज्ञानेन परिपश्यन्ति धीरा आनन्दरूपममृतं यद्विभाति ॥ ८ ॥",
+    "transliteration": "manomayaḥ prāṇaśarīranetā pratiṣṭhito'nne hṛdayaṃ saṃnidhāya | tadvijñānena paripaśyanti dhīrā ānandarūpamamṛtaṃ yadvibhāti || 8 ||",
+    "translation": "7. This Atman who knows all and all of everything and whose glory is so celebrated on earth is seated in the akas of the blight city of Brahman. He is conditioned by the mind, is the leader of the prana and the body and is seated in food, i.e., the body fixing the intelligence (in the cavity of their heart). The discerning people see by means of their superior knowledge on all sides the atman which shines, all bliss and immortality.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "मनोमयः",
+        "word_english": "consisting of mind (revealed only through mind's modifications, mind being the limiting adjunct)",
+        "grammar_role": "मनोमय (मनस्-मय) · प्रथमा·एक·पुं",
+        "root": "मनोमयः"
+      },
+      {
+        "word_sanskrit": "प्राणशरीरनेता",
+        "word_english": "leader of the prāṇa and the (subtle) body",
+        "grammar_role": "प्राणशरीरनेतृ (प्राण-शरीर + नेतृ) · प्रथमा·एक·पुं",
+        "root": "प्राण-शरीर-नेता"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठितोऽन्ने",
+        "word_english": "established, abiding in food (the food-built body)",
+        "grammar_role": "प्रतिष्ठित · प्रथमा·एक·पुं + अन्न · सप्तमी·एक·नपुं",
+        "root": "प्रतिष्ठितः + अन्ने"
+      },
+      {
+        "word_sanskrit": "हृदयं",
+        "word_english": "the heart, i.e. the intellect (buddhi)",
+        "grammar_role": "हृदय · द्वितीया·एक·नपुं",
+        "root": "हृदयम्"
+      },
+      {
+        "word_sanskrit": "संनिधाय",
+        "word_english": "having placed/fixed (within the lotus of the heart)",
+        "grammar_role": "√धा (सम्-नि-धा) · ल्यबन्त·अव्यय (पूर्वकालिक)",
+        "root": "संनिधाय"
+      },
+      {
+        "word_sanskrit": "तद्विज्ञानेन",
+        "word_english": "That (Self-reality) by means of special knowledge (born of scripture and teacher)",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + विज्ञान · तृतीया·एक·नपुं",
+        "root": "तत् + विज्ञानेन"
+      },
+      {
+        "word_sanskrit": "परिपश्यन्ति",
+        "word_english": "they fully perceive on all sides, as complete (realize it)",
+        "grammar_role": "√दृश् (परि-दृश्) · लट्·प्रथम·बहु·परस्मैपद",
+        "root": "परिपश्यन्ति"
+      },
+      {
+        "word_sanskrit": "धीरा",
+        "word_english": "the wise, the discriminating ones",
+        "grammar_role": "धीर · प्रथमा·बहु·पुं",
+        "root": "धीराः"
+      },
+      {
+        "word_sanskrit": "आनन्दरूपममृतं",
+        "word_english": "[which is] of the nature of bliss, immortal (apposed to यत्, what shines)",
+        "grammar_role": "आनन्दरूप (आनन्द-रूप) · प्रथमा·एक·नपुं + अमृत · प्रथमा·एक·नपुं",
+        "root": "आनन्दरूपम् + अमृतम्"
+      },
+      {
+        "word_sanskrit": "यद्विभाति",
+        "word_english": "which shines forth specially, ever in one's own Self",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं + √भा (वि-भा) · लट्·प्रथम·एक·परस्मैपद",
+        "root": "यत् + विभाति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "7. This Atman who knows all and all of everything and whose glory is so celebrated on earth is seated in the akas of the blight city of Brahman. He is conditioned by the mind, is the leader of the prana and the body and is seated in food, i.e., the body fixing the intelligence (in the cavity of their heart). The discerning people see by means of their superior knowledge on all sides the atman which shines, all bliss and immortality."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "स ह्यात्मा तत्रस्थो मनोवृत्तिभिरेव विभाव्यत इति मनोमयः, मनउपाधित्वात् । प्राणशरीरनेता प्राणश्च तच्छरीरं च तत्प्राणशरीरं तस्यायं नेता । अस्मात्स्थूलाच्छरीराच्छरीरान्तरं सूक्ष्मं प्रति प्रतिष्ठितः अवस्थितः अन्ने भुज्यमानान्नविपरिणामे प्रतिदिनमुपचीयमाने अपचीयमाने च पिण्डरूपेऽन्ने हृदयं बुद्धिं पुण्डरीकच्छिद्रे संनिधाय समवस्थाप्य; हृदयावस्थानमेव ह्यात्मनः स्थितिः, न ह्यात्मनः स्थितिरन्ने; तत् आत्मतत्त्वं विज्ञानेन विशिष्टेन शास्त्राचार्योपदेशजनितेन ज्ञानेन शमदमध्यानसर्वत्यागवैराग्योद्भूतेन परिपश्यन्ति सर्वतः पूर्णं पश्यन्ति उपलभन्ते धीराः विवेकिनः । आनन्दरूपं सर्वानर्थदुःखायासप्रहीणं सुखरूपम् अमृतं यद्विभाति विशेषेण स्वात्मन्येव भाति सर्वदा ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_19",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 19,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.9",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः । क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे ॥ ९ ॥",
+    "transliteration": "bhidyate hṛdayagranthiśchidyante sarvasaṃśayāḥ | kṣīyante cāsya karmāṇi tasmindṛṣṭe parāvare || 9 ||",
+    "translation": "8. When he that is both high and low is seen, the knot of the heart is untied; all doubts are solved; and all his karma is consumed.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "भिद्यते",
+        "word_english": "is split / undergoes destruction (bhāṣya: भेदं विनाशम् उपयाति)",
+        "grammar_role": "√भिद् · लट्·प्रथमपुरुष·एकवचन·कर्मणि (passive)",
+        "root": "भिद्यते"
+      },
+      {
+        "word_sanskrit": "हृदयग्रन्थिश्छिद्यन्ते",
+        "word_english": "the heart-knot (= काम, the avidyā-rooted desire seated in the intellect) [is split]; (the doubts) are cut asunder",
+        "grammar_role": "हृदय-ग्रन्थि (षष्ठी-तत्पुरुष) · प्रथमा·एकवचन·पुंलिङ्ग + √छिद् · लट्·प्रथमपुरुष·बहुवचन·कर्मणि (passive)",
+        "root": "हृदयग्रन्थिः + छिद्यन्ते"
+      },
+      {
+        "word_sanskrit": "सर्वसंशयाः",
+        "word_english": "all doubts (the subject of छिद्यन्ते)",
+        "grammar_role": "सर्व-संशय (कर्मधारय) · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "सर्व-संशय"
+      },
+      {
+        "word_sanskrit": "क्षीयन्ते",
+        "word_english": "are destroyed / dwindle away (bhāṣya: क्षीयन्ते कर्माणि)",
+        "grammar_role": "√क्षि (क्षये) · लट्·प्रथमपुरुष·बहुवचन·कर्मकर्तरि/अकर्मक (intransitive, passive-form)",
+        "root": "क्षीयन्ते"
+      },
+      {
+        "word_sanskrit": "चास्य",
+        "word_english": "and of this (knower) [bhāṣya: अस्य विच्छिन्नसंशयस्य निवृत्ताविद्यस्य]",
+        "grammar_role": "च · अव्यय (समुच्चये) + इदम् · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "च + अस्य"
+      },
+      {
+        "word_sanskrit": "कर्माणि",
+        "word_english": "actions / karmas (those not yet begun to bear fruit; the subject of क्षीयन्ते)",
+        "grammar_role": "कर्मन् · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "कर्माणि"
+      },
+      {
+        "word_sanskrit": "तस्मिन्दृष्टे",
+        "word_english": "when That is seen (सति-सप्तमी / locative absolute)",
+        "grammar_role": "तद् · सप्तमी·एकवचन·पुंलिङ्ग + दृष्ट (√दृश्, क्त) · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "तस्मिन् + दृष्टे"
+      },
+      {
+        "word_sanskrit": "परावरे",
+        "word_english": "the higher and the lower (bhāṣya: परं कारणात्मना, अवरं कार्यात्मना — Brahman as both cause and effect)",
+        "grammar_role": "परावर (पर + अवर, द्वन्द्व) · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "पर-अवर"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "8. When he that is both high and low is seen, the knot of the heart is untied; all doubts are solved; and all his karma is consumed."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "अस्य परमात्मज्ञानस्य फलमिदमभिधीयते — हृदयग्रन्थिः अविद्यावासनामयो बुद्ध्याश्रयः कामः, ‘कामा येऽस्य हृदि श्रिताः’ (बृ. उ. ४ । ४ । ७), (का. उ. २ । ३ । १४) इति श्रुत्यन्तरात् । हृदयाश्रयोऽसौ, नात्माश्रयः । भिद्यते भेदं विनाशमुपयाति । छिद्यन्ते सर्वे ज्ञेयविषयाः संशयाः लौकिकानाम् आ मरणात् गङ्गास्रोतोवत्प्रवृत्ता विच्छेदमायान्ति । अस्य विच्छिन्नसंशयस्य निवृत्ताविद्यस्य यानि विज्ञानोत्पत्तेः प्राक्कृतानि जन्मान्तरे चाप्रवृत्तफलानि ज्ञानोत्पत्तिसहभावीनि च क्षीयन्ते कर्माणि, न त्वेतज्जन्मारम्भकाणि, प्रवृत्तफलत्वात् । तस्मिन् सर्वज्ञेऽसंसारिणि परावरे परं च कारणात्मना अवरं च कार्यात्मना तस्मिन्परावरे साक्षादहमस्मीति दृष्टे, संसारकारणोच्छेदान्मुच्यत इत्यर्थः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_20",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 20,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.10",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "हिरण्मये परे कोशे विरजं ब्रह्म निष्कलम् । तच्छुभ्रं ज्योतिषां ज्योतिस्तद्यदात्मविदो विदुः ॥ १० ॥",
+    "transliteration": "hiraṇmaye pare kośe virajaṃ brahma niṣkalam | tacchubhraṃ jyotiṣāṃ jyotistadyadātmavido viduḥ || 10 ||",
+    "translation": "9. The stainless indivisible Brahman , the pure, the light of all lights is in the innermost sheath of golden hue. That is what the knowers of the Atman know.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "हिरण्मये",
+        "word_english": "in the golden (luminous, of the intellect's light) [sheath]",
+        "grammar_role": "हिरण्मय · सप्तमी·एक·नपुं",
+        "root": "हिरण्मये"
+      },
+      {
+        "word_sanskrit": "परे",
+        "word_english": "in the supreme (innermost) [sheath]",
+        "grammar_role": "पर · सप्तमी·एक·नपुं",
+        "root": "परे"
+      },
+      {
+        "word_sanskrit": "कोशे",
+        "word_english": "in the sheath (as a sword rests in its scabbard)",
+        "grammar_role": "कोश · सप्तमी·एक·पुं",
+        "root": "कोशे"
+      },
+      {
+        "word_sanskrit": "विरजं",
+        "word_english": "free of impurity (the dust of ignorance and every defilement)",
+        "grammar_role": "विरज · प्रथमा·एक·नपुं",
+        "root": "विरजम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "निष्कलम्",
+        "word_english": "partless, without limbs (whence the digits/parts have departed)",
+        "grammar_role": "निष्कल · प्रथमा·एक·नपुं",
+        "root": "निष्कलम्"
+      },
+      {
+        "word_sanskrit": "तच्छुभ्रं",
+        "word_english": "that pure (radiant) [Brahman]",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + शुभ्र · प्रथमा·एक·नपुं",
+        "root": "तत् + शुभ्रम्"
+      },
+      {
+        "word_sanskrit": "ज्योतिषां",
+        "word_english": "of the lights (of fire and the rest)",
+        "grammar_role": "ज्योतिस् · षष्ठी·बहु·नपुं",
+        "root": "ज्योतिषाम्"
+      },
+      {
+        "word_sanskrit": "ज्योतिस्तद्यदात्मविदो",
+        "word_english": "the light; that which the knowers of the Self [know]",
+        "grammar_role": "ज्योतिस् · प्रथमा·एक·नपुं + तद् · प्रथमा·एक·नपुं + यद् · द्वितीया·एक·नपुं + आत्म-विद् · प्रथमा·बहु·पुं",
+        "root": "ज्योतिः + तत् + यत् + आत्मविदः"
+      },
+      {
+        "word_sanskrit": "विदुः",
+        "word_english": "they know (perfect form with present sense)",
+        "grammar_role": "√विद् · लिट्·प्रथमपुरुष·बहु·परस्मैपद",
+        "root": "विदुः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "9. The stainless indivisible Brahman , the pure, the light of all lights is in the innermost sheath of golden hue. That is what the knowers of the Atman know."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "उक्तस्यैवार्थस्य सङ्क्षेपाभिधायका उत्तरे मन्त्रास्त्रयोऽपि — हिरण्मये ज्योतिर्मये बुद्धिविज्ञानप्रकाशे परे कोशे कोश इवासेः । आत्मस्वरूपोपलब्धिस्थानत्वात्परं तत्सर्वाभ्यन्तरत्वात्, तस्मिन् विरजम् अविद्याद्यशेषदोषरजोमलवर्जितं ब्रह्म सर्वमहत्त्वात्सर्वात्मत्वाच्च निष्कलं निर्गताः कला यस्मात्तन्निष्कलं निरवयवमित्यर्थः । यस्माद्विरजं निष्कलं च अतः तच्छुभ्रं शुद्धं ज्योतिषां सर्वप्रकाशात्मनामग्न्यादीनामपि तज्ज्योतिः अवभासकम् । अग्न्यादीनामपि ज्योतिष्ट्वमन्तर्गतब्रह्मात्मचैतन्यज्योतिर्निमित्तमित्यर्थः । तद्धि परं ज्योतिर्यदन्यानवभास्यमात्मज्योतिः, तत् यत् आत्मविदः आत्मानं स्वं शब्दादिविषयबुद्धिप्रत्ययसाक्षिणं ये विवेकिनो विदुः विजानन्ति, ते आत्मविदः तद्विदुः, आत्मप्रत्ययानुसारिणः । यस्मात्परं ज्योतिस्तस्मात्त एव तद्विदुः, नेतरे बाह्यार्थप्रत्ययानुसारिणः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_21",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 21,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.11",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः । तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति ॥ ११ ॥",
+    "transliteration": "na tatra sūryo bhāti na candratārakaṃ nemā vidyuto bhānti kuto'yamagniḥ | tameva bhāntamanubhāti sarvaṃ tasya bhāsā sarvamidaṃ vibhāti || 11 ||",
+    "translation": "10. The sun shines not there, nor the moon and the stars. Nor do these lightnings shine. How could this fire? All shine after him who shines. All this is illumined by his radiance.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "न · अव्यय (निषेधार्थे)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "तत्र",
+        "word_english": "there, in that (Brahman)",
+        "grammar_role": "तत्र · अव्यय (अधिकरणे; = तस्मिन् स्वात्मभूते ब्रह्मणि)",
+        "root": "तत्र"
+      },
+      {
+        "word_sanskrit": "सूर्यो",
+        "word_english": "the sun",
+        "grammar_role": "सूर्य · प्रथमा·एक·पुं",
+        "root": "सूर्यः"
+      },
+      {
+        "word_sanskrit": "भाति",
+        "word_english": "shines (i.e. illumines it) — per bhāṣya the sun does not illumine Brahman",
+        "grammar_role": "√भा · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "भाति"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "grammar_role": "न · अव्यय (निषेधार्थे)",
+        "root": "न"
+      },
+      {
+        "word_sanskrit": "चन्द्रतारकं",
+        "word_english": "moon and stars",
+        "grammar_role": "चन्द्रतारक (समाहारद्वन्द्व) · प्रथमा·एक·नपुं",
+        "root": "चन्द्र-तारकम्"
+      },
+      {
+        "word_sanskrit": "नेमा",
+        "word_english": "nor these (lightnings)",
+        "grammar_role": "न · अव्यय (निषेधे) + इदम् · प्रथमा·बहु·स्त्री",
+        "root": "न + इमाः"
+      },
+      {
+        "word_sanskrit": "विद्युतो",
+        "word_english": "lightnings",
+        "grammar_role": "विद्युत् · प्रथमा·बहु·स्त्री",
+        "root": "विद्युतः"
+      },
+      {
+        "word_sanskrit": "भान्ति",
+        "word_english": "they shine (illumine)",
+        "grammar_role": "√भा · लट्·प्रथमपुरुष·बहु·परस्मैपद",
+        "root": "भान्ति"
+      },
+      {
+        "word_sanskrit": "कुतोऽयमग्निः",
+        "word_english": "how then this fire? (much less this fire)",
+        "grammar_role": "कुतः · अव्यय (प्रश्ने) + इदम् · प्रथमा·एक·पुं + अग्नि · प्रथमा·एक·पुं",
+        "root": "कुतः + अयम् + अग्निः"
+      },
+      {
+        "word_sanskrit": "तमेव",
+        "word_english": "Him alone (that Brahman/Lord)",
+        "grammar_role": "तद् · द्वितीया·एक·पुं + एव · अव्यय (अवधारणे)",
+        "root": "तम् + एव"
+      },
+      {
+        "word_sanskrit": "भान्तमनुभाति",
+        "word_english": "shines after Him who (self-luminously) shines",
+        "grammar_role": "भात् (√भा, शतृ) · द्वितीया·एक·पुं + अनु√भा · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "भान्तम् + अनुभाति"
+      },
+      {
+        "word_sanskrit": "सर्वं",
+        "word_english": "everything (the whole world)",
+        "grammar_role": "सर्व · प्रथमा·एक·नपुं",
+        "root": "सर्वम्"
+      },
+      {
+        "word_sanskrit": "तस्य",
+        "word_english": "of Him, His",
+        "grammar_role": "तद् · षष्ठी·एक·पुं",
+        "root": "तस्य"
+      },
+      {
+        "word_sanskrit": "भासा",
+        "word_english": "by His radiance",
+        "grammar_role": "भास् · तृतीया·एक·स्त्री (= दीप्त्या)",
+        "root": "भासा"
+      },
+      {
+        "word_sanskrit": "सर्वमिदं",
+        "word_english": "all this",
+        "grammar_role": "सर्व · प्रथमा·एक·नपुं + इदम् · प्रथमा·एक·नपुं",
+        "root": "सर्वम् + इदम्"
+      },
+      {
+        "word_sanskrit": "विभाति",
+        "word_english": "shines forth",
+        "grammar_role": "वि√भा · लट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "विभाति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "VedaPath English",
+        "language": "english",
+        "text": "10. The sun shines not there, nor the moon and the stars. Nor do these lightnings shine. How could this fire? All shine after him who shines. All this is illumined by his radiance."
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "कथं तत् ‘ज्योतिषां ज्योतिः’ इति, उच्यते — न तत्र तस्मिन्स्वात्मभूते ब्रह्मणि सर्वावभासकोऽपि सूर्यो भाति, तद्ब्रह्म न प्रकाशयतीत्यर्थः । स हि तस्यैव भासा सर्वमन्यदनात्मजातं प्रकाशयति; न तु तस्य स्वतः प्रकाशनसामर्थ्यम् । तथा न चन्द्रतारकम्, न इमाः विद्युतः भान्ति, कुतोऽयमग्निः अस्मद्गोचरः । किं बहुना । यदिदं जगद्भाति, तत्तमेव परमेश्वरं स्वतो भारूपत्वात् भान्तं दीप्यमानम् अनुभाति अनुदीप्यते । यथा जलमुल्मुकादि वा अग्निसंयोगादग्निं दहन्तमनुदहति, न स्वतः; तद्वत्तस्यैव भासा दीप्त्या सर्वमिदं सूर्यादि जगद्विभाति । यत एवं तदेव ब्रह्म भाति च विभाति च कार्यगतेन विविधेन भासा; अतस्तस्य ब्रह्मणो भारूपत्वं स्वतोऽवगम्यते । न हि स्वतोऽविद्यमानं भासनमन्यस्य कर्तुं शक्नोति । घटादीनामन्यावभासकत्वादर्शनात् भारूपाणां चादित्यादीनां तद्दर्शनात् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-mundaka_2_22",
+    "metadata": {
+      "scripture_name": "Mundaka Upanishad",
+      "scripture_slug": "upanishad-mundaka",
+      "chapter_slug": "chapter-2",
+      "chapter_name": "Muṇḍaka 2: Origin from Brahman",
+      "verse_number": 22,
+      "chapter_number": 2,
+      "mantra_ref": "2.2.12",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "ब्रह्मैवेदममृतं पुरस्ताद्ब्रह्म पश्चाद्ब्रह्म दक्षिणतश्चोत्तरेण । अधश्चोर्ध्वं च प्रसृतं ब्रह्मैवेदं विश्वमिदं वरिष्ठम् ॥ १२ ॥",
+    "transliteration": "brahmaivedamamṛtaṃ purastādbrahma paścādbrahma dakṣiṇataścottareṇa | adhaścordhvaṃ ca prasṛtaṃ brahmaivedaṃ viśvamidaṃ variṣṭham || 12 ||",
     "translation": "11. All this before is immortal Brahman ; certainly all behind is Brahman ; all to the south and to the north; all bellow and all alone stretched out, i.e. , extended, all this is certainly Brahman , the highest.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "ब्रह्मैवेदममृतं",
+        "word_english": "Brahman alone is this immortal",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं + एव अव्यय (अवधारण) + इदम् · प्रथमा·एक·नपुं (सर्वनाम) + अमृत · प्रथमा·एक·नपुं",
+        "root": "ब्रह्म + एव + इदम् + अमृतम्"
+      },
+      {
+        "word_sanskrit": "पुरस्ताद्ब्रह्म",
+        "word_english": "in front (is) Brahman",
+        "grammar_role": "पुरस्तात् अव्यय (दिक्·पञ्चम्यर्थ, 'in front') + ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "पुरस्तात् + ब्रह्म"
+      },
+      {
+        "word_sanskrit": "पश्चाद्ब्रह्म",
+        "word_english": "behind (is) Brahman",
+        "grammar_role": "पश्चात् अव्यय (दिक्/काल, 'behind') + ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "पश्चात् + ब्रह्म"
+      },
+      {
+        "word_sanskrit": "दक्षिणतश्चोत्तरेण",
+        "word_english": "to the south, and to the north",
+        "grammar_role": "दक्षिणतः अव्यय (तसिल्, 'to the south/right') + च अव्यय (समुच्चय) + उत्तर · तृतीया·एक·नपुं (दिक्·क्रियाविशेषणवत्, 'to/by the north')",
+        "root": "दक्षिणतः + च + उत्तरेण"
+      },
+      {
+        "word_sanskrit": "अधश्चोर्ध्वं",
+        "word_english": "below, and above",
+        "grammar_role": "अधः अव्यय (दिक्, 'below') + च अव्यय (समुच्चय) + ऊर्ध्वम् अव्यय (दिक्, 'above')",
+        "root": "अधः + च + ऊर्ध्वम्"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च अव्यय (समुच्चय)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "प्रसृतं",
+        "word_english": "spread forth, extended (everywhere)",
+        "grammar_role": "प्र-√सृ · क्तप्रत्यय (भूतकृदन्त) · प्रथमा·एक·नपुं ('spread forth')",
+        "root": "प्रसृतम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्मैवेदं",
+        "word_english": "Brahman alone (is) this",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं + एव अव्यय (अवधारण) + इदम् · प्रथमा·एक·नपुं (सर्वनाम)",
+        "root": "ब्रह्म + एव + इदम्"
+      },
+      {
+        "word_sanskrit": "विश्वमिदं",
+        "word_english": "this entire universe",
+        "grammar_role": "विश्व · प्रथमा·एक·नपुं ('the all, universe') + इदम् · प्रथमा·एक·नपुं (सर्वनाम)",
+        "root": "विश्वम् + इदम्"
+      },
+      {
+        "word_sanskrit": "वरिष्ठम्",
+        "word_english": "most excellent, highest",
+        "grammar_role": "वरिष्ठ · प्रथमा·एक·नपुं (अतिशायन; भाष्ये 'वरतमम्', 'most excellent')",
+        "root": "वरिष्ठम्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -420,13 +2430,9 @@
     "commentaries": [
       {
         "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u092f\u0924\u094d\u0924\u091c\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0937\u093e\u0902 \u091c\u094d\u092f\u094b\u0924\u093f\u0930\u094d\u092c\u094d\u0930\u0939\u094d\u092e, \u0924\u0926\u0947\u0935 \u0938\u0924\u094d\u092f\u092e\u094d ; \u0938\u0930\u094d\u0935\u0902 \u0924\u0926\u094d\u0935\u093f\u0915\u093e\u0930\u0903 \u0935\u093e\u091a\u093e\u0930\u092e\u094d\u092d\u0923\u0902 \u0935\u093f\u0915\u093e\u0930\u094b \u0928\u093e\u092e\u0927\u0947\u092f\u092e\u093e\u0924\u094d\u0930\u092e\u0928\u0943\u0924\u092e\u093f\u0924\u0930\u0926\u093f\u0924\u094d\u092f\u0947\u0924\u092e\u0930\u094d\u0925\u0902 \u0935\u093f\u0938\u094d\u0924\u0930\u0947\u0923 \u0939\u0947\u0924\u0941\u0924\u0903 \u092a\u094d\u0930\u0924\u093f\u092a\u093e\u0926\u093f\u0924\u0902 \u0928\u093f\u0917\u092e\u0928\u0938\u094d\u0925\u093e\u0928\u0940\u092f\u0947\u0928 \u092e\u0928\u094d\u0924\u094d\u0930\u0947\u0923 \u092a\u0941\u0928\u0930\u0941\u092a\u0938\u0902\u0939\u0930\u0924\u093f \u2014 \u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935 \u0909\u0915\u094d\u0924\u0932\u0915\u094d\u0937\u0923\u092e\u094d , \u0907\u0926\u0902 \u092f\u0924\u094d \u092a\u0941\u0930\u0938\u094d\u0924\u093e\u0924\u094d \u0905\u0917\u094d\u0930\u0947\u093d\u092c\u094d\u0930\u0939\u094d\u092e\u0947\u0935\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0926\u0943\u0937\u094d\u091f\u0940\u0928\u093e\u0902 \u092a\u094d\u0930\u0924\u094d\u092f\u0935\u092d\u093e\u0938\u092e\u093e\u0928\u0902 \u0924\u0925\u093e \u092a\u0936\u094d\u091a\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0924\u0925\u093e \u0926\u0915\u094d\u0937\u093f\u0923\u0924\u0936\u094d\u091a \u0924\u0925\u093e \u0909\u0924\u094d\u0924\u0930\u0947\u0923 \u0924\u0925\u0948\u0935\u093e\u0927\u0938\u094d\u0924\u093e\u0924\u094d \u090a\u0930\u094d\u0927\u094d\u0935\u0902 \u091a \u0938\u0930\u094d\u0935\u0924\u094b\u093d\u0928\u094d\u092f\u0926\u093f\u0935 \u0915\u093e\u0930\u094d\u092f\u093e\u0915\u093e\u0930\u0947\u0923 \u092a\u094d\u0930\u0938\u0943\u0924\u0902 \u092a\u094d\u0930\u0917\u0924\u0902 \u0928\u093e\u092e\u0930\u0942\u092a\u0935\u0926\u0935\u092d\u093e\u0938\u092e\u093e\u0928\u092e\u094d\u00a0\u0964 \u0915\u093f\u0902 \u092c\u0939\u0941\u0928\u093e, \u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935\u0947\u0926\u0902 \u0935\u093f\u0936\u094d\u0935\u0902 \u0938\u092e\u0938\u094d\u0924\u092e\u093f\u0926\u0902 \u091c\u0917\u0924\u094d \u0935\u0930\u093f\u0937\u094d\u0920\u0902 \u0935\u0930\u0924\u092e\u092e\u094d\u00a0\u0964 \u0905\u092c\u094d\u0930\u0939\u094d\u092e\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0903 \u0938\u0930\u094d\u0935\u094b\u093d\u0935\u093f\u0926\u094d\u092f\u093e\u092e\u093e\u0924\u094d\u0930\u094b \u0930\u091c\u094d\u091c\u094d\u0935\u093e\u092e\u093f\u0935 \u0938\u0930\u094d\u092a\u092a\u094d\u0930\u0924\u094d\u092f\u092f\u0903\u00a0\u0964 \u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935\u0948\u0915\u0902 \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0938\u0924\u094d\u092f\u092e\u093f\u0924\u093f \u0935\u0947\u0926\u093e\u0928\u0941\u0936\u093e\u0938\u0928\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014The statement, Brahman alone the light of lights is true and that all else is only its modification, a matter of speech is a mere name and falsehood first made and logically demonstrated at length (afterwards) is affirmed again as a conclusion by this mantra. That which is before us and which, in the eyes of the ignorant, appears to be not Brahman is certainly Brahman. Similarly what is behind us; so, that to the south; so, that to the north; so, that below, and that above and all that is extended everywhere in the form of effect, appearing otherwise than Brahman and possessed of name and form. Why say much? All this vast universe is Brahman certainly. All perception otherwise than as Brahman is mere ignorance, just as the perception of a serpent in a rope. The declaration of the Vedas is that the one Brahman alone is really true.\n\u2014\u2014:o:\u2014\u2014\n\u0965 \u0907\u0924\u093f \u092e\u0941\u0923\u094d\u0921\u0915\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u0926\u094d\u0935\u093f\u0924\u0940\u092f\u092e\u0941\u0923\u094d\u0921\u0915\u0947 \u0926\u094d\u0935\u093f\u0924\u0940\u092f\u0903 \u0916\u0923\u094d\u0921\u0903 \u0965\n|| iti mu\u1e47\u1e0dakopani\u1e63adi dvit\u012byamu\u1e47\u1e0dake dvit\u012bya\u1e25 kha\u1e47\u1e0da\u1e25 ||\nHere ends the second part of the second Mundaka.\n\u2014\u2014:o:\u2014\u2014"
+        "text": "यत्तज्ज्योतिषां ज्योतिर्ब्रह्म, तदेव सत्यम्; सर्वं तद्विकारः वाचारम्भणं विकारो नामधेयमात्रमनृतमितरदित्येतमर्थं विस्तरेण हेतुतः प्रतिपादितं निगमनस्थानीयेन मन्त्रेण पुनरुपसंहरति — ब्रह्मैव उक्तलक्षणम्, इदं यत् पुरस्तात् अग्रेऽब्रह्मेवाविद्यादृष्टीनां प्रत्यवभासमानं तथा पश्चाद्ब्रह्म तथा दक्षिणतश्च तथा उत्तरेण तथैवाधस्तात् ऊर्ध्वं च सर्वतोऽन्यदिव कार्याकारेण प्रसृतं प्रगतं नामरूपवदवभासमानम् । किं बहुना, ब्रह्मैवेदं विश्वं समस्तमिदं जगत् वरिष्ठं वरतमम् । अब्रह्मप्रत्ययः सर्वोऽविद्यामात्रो रज्ज्वामिव सर्पप्रत्ययः । ब्रह्मैवैकं परमार्थसत्यमिति वेदानुशासनम् ॥"
       }
     ],
     "commentary_faqs": []

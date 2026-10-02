@@ -1,0 +1,2450 @@
+[
+  {
+    "id": "upanishad-aitareya_1_1",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 1,
+      "chapter_number": 1,
+      "mantra_ref": "1.1.1",
+      "source_url": ""
+    },
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "आत्मा वा इदमेक एवाग्र आसीत् । नान्यत्किञ्चन मिषत् । स ईक्षत लोकान्नु सृजा इति ॥ १ ॥",
+    "transliteration": "ātmā vā idameka evāgra āsīt | nānyatkiñcana miṣat | sa īkṣata lokānnu sṛjā iti || 1 ||",
+    "translation": "the Self (Ātman) — supreme, all-knowing, all-powerful, free of all transmigratory attributes — verily, indeed (well-known emphatic particle) — this (world / jagat, neuter) was one (alone, masc. agreeing with Ātman) — alone, in the beginning (before the creation of the world) — (He/it) was, existed — not anything else whatsoever (no entity apart from the Ātman — neither pradhāna nor atoms) — winking/blinking, i.e. anything living or active (qualifying 'nothing else') — He (that Ātman) — (He) reflected, considered, saw — the worlds — now (let me create) — let me create / may I emit (the worlds) — thus (marking the end of the thought/reflection)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "आत्मा",
+        "word_english": "the Self (Ātman) — supreme, all-knowing, all-powerful, free of all transmigratory attributes",
+        "grammar_role": "आत्मन् · प्रथमा·एक·पुं",
+        "root": "आत्मा"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "verily, indeed (well-known emphatic particle)",
+        "grammar_role": "अव्यय (निपात, अवधारणे/प्रसिद्धौ)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "इदमेक",
+        "word_english": "this (world / jagat, neuter) was one (alone, masc. agreeing with Ātman)",
+        "grammar_role": "इदम् · प्रथमा·एक·नपुं + एक · प्रथमा·एक·पुं",
+        "root": "इदम् + एकः"
+      },
+      {
+        "word_sanskrit": "एवाग्र",
+        "word_english": "alone, in the beginning (before the creation of the world)",
+        "grammar_role": "अव्यय (अवधारणे) + अग्र · सप्तमी·एक·नपुं",
+        "root": "एव + अग्रे"
+      },
+      {
+        "word_sanskrit": "आसीत्",
+        "word_english": "(He/it) was, existed",
+        "grammar_role": "√अस् · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "आसीत्"
+      },
+      {
+        "word_sanskrit": "नान्यत्किञ्चन",
+        "word_english": "not anything else whatsoever (no entity apart from the Ātman — neither pradhāna nor atoms)",
+        "grammar_role": "अव्यय (निषेधे) + अन्य · प्रथमा·एक·नपुं + अव्यय (किम् + चन, अनिर्दिष्टे)",
+        "root": "न + अन्यत् + किञ्चन"
+      },
+      {
+        "word_sanskrit": "मिषत्",
+        "word_english": "winking/blinking, i.e. anything living or active (qualifying 'nothing else')",
+        "grammar_role": "√मिष् · शतृ (कृत्) · प्रथमा·एक·नपुं",
+        "root": "मिषत्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "He (that Ātman)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ईक्षत",
+        "word_english": "(He) reflected, considered, saw",
+        "grammar_role": "√ईक्ष् · लङ्·प्रथमपुरुष·एकवचन·आत्मनेपद (वैदिक, अनडागम)",
+        "root": "ईक्षत"
+      },
+      {
+        "word_sanskrit": "लोकान्नु",
+        "word_english": "the worlds — now (let me create)",
+        "grammar_role": "लोक · द्वितीया·बहु·पुं + अव्यय (निपात, वितर्के/प्रश्ने)",
+        "root": "लोकान् + नु"
+      },
+      {
+        "word_sanskrit": "सृजा",
+        "word_english": "let me create / may I emit (the worlds)",
+        "grammar_role": "√सृज् · लेट् (वैदिक·उत्तमपुरुष·एकवचन; लोट्-तुल्यार्थे) — सृजा इति < सृजै + इति",
+        "root": "सृजै"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (marking the end of the thought/reflection)",
+        "grammar_role": "अव्यय (निपात, इत्थम्भावे/उक्तिसमाप्तौ)",
+        "root": "इति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "the Self (Ātman) — supreme, all-knowing, all-powerful, free of all transmigratory attributes — verily, indeed (well-known emphatic particle) — this (world / jagat, neuter) was one (alone, masc. agreeing with Ātman) — alone, in the beginning (before the creation of the world) — (He/it) was, existed — not anything else whatsoever (no entity apart from the Ātman — neither pradhāna nor atoms) — winking/blinking, i.e. anything living or active (qualifying 'nothing else') — He (that Ātman) — (He) reflected, considered, saw — the worlds — now (let me create) — let me create / may I emit (the worlds) — thus (marking the end of the thought/reflection)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "【उपोद्घातभाष्यम्】\nपरिसमाप्तं कर्म सहापरब्रह्मविषयविज्ञानेन । सैषा कर्मणो ज्ञानसहितस्य परा गतिरुक्थविज्ञानद्वारेणोपसंहृता । एतत्सत्यं ब्रह्म प्राणाख्यम् । एष एको देवः । एतस्यैव प्राणस्य सर्वे देवा विभूतयः । एतस्य प्राणस्यात्मभावं गच्छन् देवता अप्येति इत्युक्तम् । सोऽयं देवताप्ययलक्षणः परः पुरुषार्थः । एष मोक्षः । स चायं यथोक्तेन ज्ञानकर्मसमुच्चयेन साधनेन प्राप्तव्यो नातः परमस्तीत्येके प्रतिपन्नाः । तान्निराचिकीर्षुरुत्तरं केवलात्मज्ञानविधानार्थम् ‘आत्मा वा इदम्’ इत्याद्याह । कथं पुनरकर्मसम्बन्धिकेवलात्मविज्ञानविधानार्थ उत्तरो ग्रन्थ इति गम्यते? अन्यार्थानवगमात् । तथा च पूर्वोक्तानां देवतानामग्न्यादीनां संसारित्वं दर्शयिष्यत्यशनायादिदोषवत्त्वेन ‘तमशनायापिपासाभ्यामन्ववार्जत्’ (ऐ. उ. १ । २ । १) इत्यादिना । अशनायादिमत्सर्वं संसार एव परस्य तु ब्रह्मणोऽशनायाद्यत्ययश्रुतेः । भवत्वेवं केवलात्मज्ञानं मोक्षसाधनम्, न त्वत्राकर्म्येवाधिक्रियते; विशेषाश्रवणात् । अकर्मिण आश्रम्यन्तरस्येहाश्रवणात् । कर्म च बृहतीसहस्रलक्षणं प्रस्तुत्य अनन्तरमेवात्मज्ञानं प्रारभ्यते । तस्मात्कर्म्येवाधिक्रियते । न च कर्मासम्बन्ध्यात्मविज्ञानम्, पूर्ववदन्ते उपसंहारात् । यथा कर्मसम्बन्धिनः पुरुषस्य सूर्यात्मनः स्थावरजङ्गमादिसर्वप्राण्यात्मत्वमुक्तं ब्राह्मणेन मन्त्रेण च ‘सूर्य आत्मा’ (ऋ. सं. १ । ११५ । १) इत्यादिना, तथैव ‘एष ब्रह्मैष इन्द्रः’ (बृ. उ. ३ । १ । ३) इत्याद्युपक्रम्य सर्वप्राण्यात्मत्वम् । ‘यच्च स्थावरम्, सर्वं तत्प्रज्ञानेत्रम्’ (बृ. उ. ३ । १ । ३) इत्युपसंहरिष्यति । तथा च संहितोपनिषत् — ‘एतं ह्येव बह्वृचा महत्युक्थे मीमांसन्ते’ (ऐ. आ. ३ । २ । ३ । १२) इत्यादिना कर्मसम्बन्धित्वमुक्त्वा ‘सर्वेषु भूतेष्वेतमेव ब्रह्मेत्याचक्षते’ इत्युपसंहरति । तथा तस्यैव ‘योऽयमशरीरः प्रज्ञात्मा’ इत्युक्तस्य ‘यश्चासावादित्य एकमेव तदिति विद्यात्’ इत्येकत्वमुक्तम् । इहापि ‘कोऽयमात्मा’ (ऐ. उ. ३ । १ । १) इत्युपक्रम्य प्रज्ञात्मत्वमेव ‘प्रज्ञानं ब्रह्म’ (ऐ. उ. ३ । १ । ३) इति दर्शयिष्यति । तस्मान्नाकर्मसम्बन्ध्यात्मज्ञानम् । पुनरुक्त्यानर्थक्यमिति चेत् — ‘प्राणो वा अहमस्म्यृषे’ इत्यादिब्राह्मणेन ‘सूर्य आत्मा’ इति च मन्त्रेण निर्धारितस्यात्मनः ‘आत्मा वा इदम्’ इत्यादिब्राह्मणेन ‘कोऽयमात्मा’ (ऐ. उ. ३ । १ । १) इति प्रश्नपूर्वकं पुनर्निर्धारणं पुनरुक्तमनर्थकमिति चेत्, न; तस्यैव धर्मान्तरविशेषनिर्धारणार्थत्वान्न पुनरुक्ततादोषः । कथम्? तस्यैव कर्मसम्बन्धिनो जगत्सृष्टिस्थितिसंहारादिधर्मविशेषनिर्धारणार्थत्वात् केवलोपास्त्यर्थत्वाद्वा; अथवा, आत्मेत्यादिः परो ग्रन्थसन्दर्भः आत्मनः कर्मिणः कर्मणोऽन्यत्रोपासनाप्राप्तौ कर्मप्रस्तावेऽविहितत्वाद्वा केवलोऽप्यात्मोपास्य इत्येवमर्थः । भेदाभेदोपास्यत्वाच्च ‘एक एवात्मा’ कर्मविषये भेददृष्टिभाक् । स एवाकर्मकाले अभेदेनाप्युपास्य इत्येवमपुनरुक्तता ॥\n\n‘विद्यां चाविद्यां च यस्तद्वेदोभयं सह । अविद्यया मृत्युं तीर्त्वा विद्ययामृतमश्नुते’ (ई. उ. ११) इति ‘कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः’ (ई. उ. २) इति च वाजिनाम् । न च वर्षशतात्परमायुर्मर्त्यानाम्, येन कर्मपरित्यागेन आत्मानमुपासीत । दर्शितं च ‘तावन्ति पुरुषायुषोऽह्नां सहस्राणि भवन्ति’ इति । वर्षशतं चायुः कर्मणैव व्याप्तम् । दर्शितश्च मन्त्रः ‘कुर्वन्नेवेह कर्माणि’ इत्यादिः; तथा ‘यावज्जीवमग्निहोत्रं जुहोति’ ‘यावज्जीवं दर्शपूर्णमासाभ्यां यजेत’ इत्याद्याश्च; ‘तं यज्ञपात्रैर्दहन्ति’ इति च । ऋणत्रयश्रुतेश्च । तत्र हि पारिव्राज्यादिशास्त्रम् ‘व्युत्थायाथ भिक्षाचर्यं चरन्ति’ (बृ. उ. ३ । ५ । १) (बृ. उ. ४ । ४ । २२) इत्यात्मज्ञानस्तुति - परोऽर्थवादोऽनधिकृतार्थो वा । न, परमार्थात्मविज्ञाने फलादर्शने क्रियानुपपत्तेः — यदुक्तं कर्मिण एव चात्मज्ञानं कर्मसम्बन्धि चेत्यादि, तन्न; परं ह्याप्तकामं सर्वसंसारदोषवर्जितं ब्रह्माहमस्मीत्यात्मत्वेन विज्ञाने, कृतेन कर्तव्येन वा प्रयोजनमात्मनोऽपश्यतः फलादर्शने क्रिया नोपपद्यते । फलादर्शनेऽपि नियुक्तत्वात्करोतीति चेत्, न; नियोगाविषयात्मदर्शनात् । इष्टयोगमनिष्टवियोगं वात्मनः प्रयोजनं पश्यंस्तदुपायार्थी यो भवति, स नियोगस्य विषयो दृष्टो लोके, न तु तद्विपरीतनियोगाविषयब्रह्मात्मत्वदर्शी । ब्रह्मात्मत्वदर्श्यपि संश्चेन्नियुज्येत, नियोगाविषयोऽपि सन्न कश्चिन्न नियुक्त इति सर्वं कर्म सर्वेण सर्वदा कर्तव्यं प्राप्नोति । तच्चानिष्टम् । न च स नियोक्तुं शक्यते केनचित् । आम्नायस्यापि तत्प्रभवत्वात् । न हि स्वविज्ञानोत्थेन वचसा स्वयं नियुज्यते । नापि बहुवित्स्वामी अविवेकिना भृत्येन । आम्नायस्य नित्यत्वे सति स्वातन्त्र्यात्सर्वान्प्रति नियोक्तृत्वसामर्थ्यमिति चेत्, न; उक्तदोषात् । तथापि सर्वेण सर्वदा सर्वमविशिष्टं कर्म कर्तव्यमित्युक्तो दोषोऽप्यपरिहार्य एव । तदपि शास्त्रेणैव विधीयत इति चेत् — यथा कर्मकर्तव्यता शास्त्रेण कृता, तथा तदप्यात्मज्ञानं तस्यैव कर्मिणः शास्त्रेण विधीयत इति चेत्, न; विरुद्धार्थबोधकत्वानुपपत्तेः । न ह्येकस्मिन्कृताकृतसम्बन्धित्वं तद्विपरीतत्वं च बोधयितुं शक्यम् । शीतोष्णत्वमिवाग्नेः । न चेष्टयोगचिकीर्षा आत्मनोऽनिष्टवियोगचिकीर्षा च शास्त्रकृता, सर्वप्राणिनां तद्दर्शनात् । शास्त्रकृतं चेत्, तदुभयं गोपालादीनां न दृश्येत, अशास्त्रज्ञत्वात्तेषाम् । यद्धि स्वतोऽप्राप्तम्, तच्छास्त्रेण बोधयितव्यम् । तच्चेत्कृतकर्तव्यताविरोध्यात्मज्ञानं शास्त्रेण कृतम्, कथं तद्विरुद्धां कर्तव्यतां पुनरुत्पादयेत् शीततामिवाग्नौ, तम इव च भानौ? न बोधयत्येवेति चेत्, न; ‘स म आत्मेति विद्यात्’ (कौ. उ. ३ । ९) ‘प्रज्ञानं ब्रह्म’ (ऐ. उ. ३ । १ । ३) इति चोपसंहारात् । ‘तदात्मानमेवावेत्’ (बृ. उ. १ । ४ । ९) ‘तत्त्वमसि’ (छा. उ. ६ । ८ । ७) इत्येवमादिवाक्यानां तत्परत्वात् । उत्पन्नस्य च ब्रह्मात्मविज्ञानस्याबाध्यमानत्वान्नानुत्पन्नं भ्रान्तं वा इति शक्यं वक्तुम् । त्यागेऽपि प्रयोजनाभावस्य तुल्यत्वमिति चेत् ‘नाकृतेनेह कश्चन’ (भ. गी. ३ । १८) इति स्मृतेः — य आहुर्विदित्वा ब्रह्म व्युत्थानमेव कुर्यादिति, तेषामप्येष समानो दोषः प्रयोजनाभाव इति चेत्, न; अक्रियामात्रत्वाद्व्युत्थानस्य । अविद्यानिमित्तो हि प्रयोजनस्य भावः, न वस्तुधर्मः, सर्वप्राणिनां तद्दर्शनात्, प्रयोजनतृष्णया च प्रेर्यमाणस्य वाङ्मनःकायैः प्रवृत्तिदर्शनात्, ‘सोऽकामयत जाया मे स्यात्’ (बृ. उ. १ । ४ । १७) इत्यादिना पुत्रवित्तादि पाङ्क्तलक्षणं काम्यमेवेति ‘उभे ह्येते साध्यसाधनलक्षणे एषणे एव’ (बृ. उ. ३ । ५ । १) इति वाजसनेयिब्राह्मणेऽवधारणात् । अविद्याकामदोषनिमित्ताया वाङ्मनःकायप्रवृत्तेः पाङ्क्तलक्षणाया विदुषोऽविद्यादिदोषाभावादनुपपत्तेः क्रियाभावमात्रं व्युत्थानम्, न तु यागादिवदनुष्ठेयरूपं भावात्मकम् । तच्च विद्यावत्पुरुषधर्म इति न प्रयोजनमन्वेष्टव्यम् । न हि तमसि प्रवृत्तस्य उदित आलोके यद्गर्तपङ्ककण्टकाद्यपतनम्, तत्किम्प्रयोजनमिति प्रश्नार्हम् । व्युत्थानं तर्ह्यर्थप्राप्तत्वान्न चोदनार्थ इति । गार्हस्थ्ये चेत्परं ब्रह्मविज्ञानं जातम्, तत्रैवास्त्वकुर्वत आसनं न ततोऽन्यत्र गमनमिति चेत्, न; कामप्रयुक्तत्वाद्गार्हस्थ्यस्य । ‘एतावान्वै कामः’ (बृ. उ. १ । ४ । १७) ‘उभे ह्येते एषणे एव’ (बृ. उ. ३ । ५ । १) (बृ. उ. ४ । ४ । २२) इत्यवधारणात् कामनिमित्तपुत्रवित्तादिसम्बन्धनियमाभावमात्रम्; न हि ततोऽन्यत्र गमनं व्युत्थानमुच्यते । अतो न गार्हस्थ्य एवाकुर्वत आसनमुत्पन्नविद्यस्य । एतेन गुरुशुश्रूषातपसोरप्यप्रतिपत्तिर्विदुषः सिद्धा । अत्र केचिद्गृहस्था भिक्षाटनादिभयात्परिभवाच्च त्रस्यमानाः सूक्ष्मदृष्टितां दर्शयन्त उत्तरमाहुः । भिक्षोरपि भिक्षाटनादिनियमदर्शनाद्देहधारणमात्रार्थिनो गृहस्थस्यापि साध्यसाधनैषणोभयविनिर्मुक्तस्य देहमात्रधारणार्थमशनाच्छादनमात्रमुपजीवतो गृह एवास्त्वासनमिति; न, स्वगृहविशेषपरिग्रहनियमस्य कामप्रयुक्तत्वादित्युक्तोत्तरमेतत् । स्वगृहविशेषपरिग्रहाभावे च शरीरधारणमात्रप्रयुक्ताशनाच्छादनार्थिनः स्वपरिग्रहविशेषभावेऽर्थाद्भिक्षुकत्वमेव । शरीरधारणार्थायां भिक्षाटनादिप्रवृत्तौ यथा नियमो भिक्षोः शौचादौ च, तथा गृहिणोऽपि विदुषोऽकामिनोऽस्तु नित्यकर्मसु नियमेन प्रवृत्तिर्यावज्जीवादिश्रुतिनियुक्तत्वात्प्रत्यवायपरिहारायेति । एतन्नियोगाविषयत्वेन विदुषः प्रत्युक्तमशक्यनियोज्यत्वाच्चेति । यावज्जीवादिनित्यचोदनानर्थक्यमिति चेत्, न; अविद्वद्विषयत्वेनार्थवत्त्वात् । यत्तु भिक्षोः शरीरधारणमात्रप्रवृत्तस्य प्रवृत्तेर्नियतत्वम्, तत्प्रवृत्तेर्न प्रयोजकम् । आचमनप्रवृत्तस्य पिपासापगमवन्नान्यप्रयोजनार्थत्वमवगम्यते । न चाग्निहोत्रादीनां तद्वदर्थप्राप्तप्रवृत्तिनियतत्वोपपत्तिः । अर्थप्राप्तप्रवृत्तिनियमोऽपि प्रयोजनाभावेऽनुपपन्न एवेति चेत्, न; तन्नियमस्य पूर्वप्रवृत्तिसिद्धत्वात्तदतिक्रमे यत्नगौरवादर्थप्राप्तस्य व्युत्थानस्य पुनर्वचनाद्विदुषो मुमुक्षोः कर्तव्यत्वोपपत्तिः । अविदुषापि मुमुक्षुणा पारिव्राज्यं कर्तव्यमेव; तथा च ‘शान्तो दान्तः’ (बृ. उ. ४ । ४ । २३) इत्यादिवचनं प्रमाणम् । शमदमादीनां चात्मदर्शनसाधनानामन्याश्रमेष्वनुपपत्तेः । ‘अत्याश्रमिभ्यः परमं पवित्रं प्रोवाच सम्यगृषिसङ्घजुष्टम्’ (श्वे. उ. ६ । २१) इति च श्वेताश्वतरे विज्ञायते । ‘न कर्मणा न प्रजया धनेन त्यागेनैके अमृतत्वमानशुः’ (कैवल्य २) इति च कैवल्यश्रुतिः । ‘ज्ञात्वा नैष्कर्म्यमाचरेत्’ इति च स्मृतेः । ‘ब्रह्माश्रमपदे वसेत्’ इति च ब्रह्मचर्यादिविद्यासाधनानां च साकल्येनात्याश्रमिषूपपत्तेर्गार्हस्थ्येऽसम्भवात् । न च असम्पन्नं साधनं कस्यचिदर्थस्य साधनायालम् । यद्विज्ञानोपयोगीनि च गार्हस्थ्याश्रमकर्माणि, तेषां परमफलमुपसंहृतं देवताप्ययलक्षणं संसारविषयमेव । यदि कर्मिण एव परमात्मविज्ञानमभविष्यत्, संसारविषयस्यैव फलस्योपसंहारो नोपापत्स्यत । अङ्गफलं तदिति चेत्; न, तद्विरोध्यात्मवस्तुविषयत्वादात्मविद्यायाः । निराकृतसर्वनामरूपकर्मपरमार्थात्मवस्तुविषयमात्मज्ञानममृतत्वसाधनम् । गुणफलसम्बन्धे हि निराकृतसर्वविशेषात्मवस्तुविषयत्वं ज्ञानस्य न प्राप्नोति; तच्चानिष्टम्, ‘यत्र त्वस्य सर्वमात्मैवाभूत्’ (बृ. उ. २ । ४ । १४) इत्यधिकृत्य क्रियाकारकफलादिसर्वव्यवहारनिराकरणाद्विदुषः; तद्विपरीतस्याविदुषः ‘यत्र हि द्वैतमिव भवति’ (बृ. उ. २ । ४ । १४) इत्युक्त्वा क्रियाकारकफलरूपस्य संसारस्य दर्शितत्वाच्च वाजसनेयिब्राह्मणे । तथेहापि देवताप्ययं संसारविषयं यत्फलमशनायादिमद्वस्त्वात्मकं तदुपसंहृत्य केवलं सर्वात्मकवस्तुविषयं ज्ञानममृतत्वाय वक्ष्यामीति प्रवर्तते । ऋणप्रतिबन्धश्चाविदुष एव मनुष्यपितृदेवलोकप्राप्तिं प्रति, न विदुषः; ‘सोऽयं मनुष्यलोकः पुत्रेणैव’ (बृ. उ. १ । ५ । १६) इत्यादिलोकत्रयसाधननियमश्रुतेः । विदुषश्च ऋणप्रतिबन्धाभावो दर्शित आत्मलोकार्थिनः ‘किं प्रजया करिष्यामः’ (बृ. उ. ४ । ४ । २२) इत्यादिना । तथा ‘एतद्ध स्म वै तद्विद्वांस आहुर्ऋषयः कावषेयाः’ इत्यादि ‘एतद्ध स्म वै तत्पूर्वे विद्वांसोऽग्निहोत्रं न जुहवाञ्चक्रुः’ (कौ. उ. २ । ५) इति च कौषीतकिनाम् । अविदुषस्तर्हि ऋणानपाकरणे पारिव्राज्यानुपपत्तिरिति चेत्; न, प्राग्गार्हस्थ्यप्रतिपत्तेर्ऋणित्वासम्भवादधिकारानारूढोऽपि ऋणी चेत्स्यात्, सर्वस्य ऋणित्वमित्यनिष्टं प्रसज्येत । प्रतिपन्नगार्हस्थ्यस्यापि ‘गृहाद्वनी भूत्वा प्रव्रजेद्यदि वेतरथा ब्रह्मचर्यादेव प्रव्रर्जेद्गृहाद्वा वनाद्वा’ (जा. उ. ४) इत्यात्मदर्शनसाधनोपायत्वेनेष्यत एव पारिव्राज्यम् । यावज्जीवादिश्रुतीनामविद्वदमुमुक्षुविषये कृतार्थता । छान्दोग्ये च केषाञ्चिद्द्वादशरात्रमग्निहोत्रं हुत्वा तत ऊर्ध्वं परित्यागः श्रूयते । यत्त्वनधिकृतानां पारिव्राज्यमिति, तन्न; तेषां पृथगेव ‘उत्सन्नाग्निरनग्निको वा’ इत्यादिश्रवणात्; सर्वस्मृतिषु च अविशेषेण आश्रमविकल्पः प्रसिद्धः, समुच्चयश्च । यत्तु विदुषोऽर्थप्राप्तं व्युत्थानमित्यशास्त्रार्थत्वे, गृहे वने वा तिष्ठतो न विशेष इति, तदसत् । व्युत्थानस्यैवार्थप्राप्तत्वान्नान्यत्रावस्थानं स्यात् । अन्यत्रावस्थानस्य कामकर्मप्रयुक्तत्वं ह्यवोचाम; तदभावमात्रं व्युत्थानमिति च । यथाकामित्वं तु विदुषोऽत्यन्तमप्राप्तम्, अत्यन्तमूढविषयत्वेनावगमात् । तथा शास्त्रचोदितमपि कर्मात्मविदोऽप्राप्तं गुरुभारतयावगम्यते; किमुत अत्यन्ताविवेकनिमित्तं यथाकामित्वम्? न ह्युन्मादतिमिरदृष्ट्युपलब्धं वस्तु तदपगमेऽपि तथैव स्यात्, उन्मादतिमिरदृष्टिनिमित्तत्वादेव तस्य । तस्मादात्मविदो व्युत्थानव्यतिरेकेण न यथाकामित्वम्, न चान्यत्कर्तव्यमित्येतत्सिद्धम् । यत्तु ‘विद्यां चाविद्यां च यस्तद्वेदोभयं सह’ (ई. उ. ११) इति न विद्यावतो विद्यया सहाविद्यापि वर्तत इत्ययमर्थः; कस्तर्हि? एकस्मिन्पुरुषे एते न सह सम्बध्येयातामित्यर्थः; यथा शुक्तिकायां रजतशुक्तिकाज्ञाने एकस्य पुरुषस्य । ‘दूरमेते विपरीते विषूची अविद्या या च विद्येति ज्ञाता’ (क. उ. १ । २ । ४) इति हि काठके । तस्मान्न विद्यायां सत्यामविद्यायाः सम्भवोऽस्ति । ‘तपसा ब्रह्म विजिज्ञासस्व’ (तै. उ. ३ । २ । २) इत्यादिश्रुतेः । तपआदि विद्योत्पत्तिसाधनं गुरूपासनादि च कर्म अविद्यात्मकत्वादविद्योच्यते । तेन विद्यामुत्पाद्य मृत्युं काममतितरति । ततो निष्कामस्त्यक्तैषणो ब्रह्मविद्यया अमृतत्वमश्नुत इत्येतमर्थं दर्शनयन्नाह — ‘अविद्यया मृत्युं तीर्त्वा विद्ययामृतमश्नुते’ (ई. उ. ११) इति । यत्तु पुरुषायुः सर्वं कर्मणैव व्याप्तम्, ‘कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः’ (ई. उ. २) इति, तदविद्वद्विषयत्वेन परिहृतम्, इतरथा असम्भवात् । यत्तु वक्ष्यमाणमपि पूर्वोक्ततुल्यत्वात्कर्मणा अविरुद्धमात्मज्ञानमिति, तत्सविशेषनिर्विशेषात्मविषयतया प्रत्युक्तम्; उत्तरत्र व्याख्याने च दर्शयिष्यामः । अतः केवलनिष्क्रियब्रह्मात्मैकत्वविद्याप्रदर्शनार्थमुत्तरो ग्रन्थ आरभ्यते ॥\n\nआत्मेति । आत्मा आप्नोतेरत्तेरततेर्वा परः सर्वज्ञः सर्वशक्तिरशनायादिसर्वसंसारधर्मवर्जितो नित्यत्यशुद्धबुद्धमुक्तस्वभावोऽजोऽजरोऽमरोऽमृतोऽभयोऽद्वयो वै । इदं यदुक्तं नामरूपकर्मभेदभिन्नं जगत् आत्मैव एकः अग्रे जगतः सृष्टेः प्राक् आसीत् । किं नेदानीं स एवैकः? न । कथं तर्हि आसीदित्युच्यते? यद्यपीदानीं स एवैकः, तथाप्यस्ति विशेषः । प्रागुत्पत्तेः अव्याकृतनामरूपभेदमात्मभूतमात्मैकशब्दप्रत्ययगोचरं जगत् इदानीं व्याकृतनामरूपभेदत्वादनेकशब्दप्रत्ययगोचरमात्मैकशब्दप्रत्ययगोचरं चेति विशेषः । यथा सलिलात्पृथक् फेननामरूपव्याकरणात्प्राक्सलिलैकशब्दप्रत्ययगोचरमेव फेनम्, यदा सलिलात्पृथङ् नामरूपभेदेन व्याकृतं भवति, तदा सलिलं फेनं चेति अनेकशब्दप्रत्ययभाक् सलिलमेवेति चैकशब्दप्रत्ययभाक्च फेनं भवति, तद्वत् । न अन्यत्किञ्चन न किञ्चिदपि मिषत् निमिषद्व्यापारवदितरद्वा । यथा साङ्ख्यानामनात्मपक्षपाति स्वतन्त्रं प्रधानम्, यथा च काणादानामणवः, न तद्वदिहान्यदात्मनः किञ्चिदपि वस्तु विद्यते । किं तर्हि? आत्मैवैक आसीदित्यभिप्रायः । सः सर्वज्ञस्वाभाव्यात् आत्मा एक एव सन् ईक्षत । ननु प्रागुत्पत्तेरकार्यकरणत्वात्कथमीक्षितवान्? नायं दोषः, सर्वज्ञस्वाभाव्यात् । तथा च मन्त्रवर्णः — ‘अपाणिपादो जवनो ग्रहीता’ (श्वे. उ. ३ । २९) इत्यादिः । केनाभिप्रायेणेत्याह — लोकान् अम्भःप्रभृतीन्प्राणिकर्मफलोपभोगस्थानभूतान् नु सृजै सृजेऽहम् इति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_2",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 2,
+      "chapter_number": 1,
+      "mantra_ref": "1.1.2",
+      "source_url": ""
+    },
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "स इमांल्लोकानसृजत । अम्भो मरीचीर्मरमापोऽदोऽम्भः परेण दिवं द्यौः प्रतिष्ठान्तरिक्षं मरीचयः । पृथिवी मरो या अधस्तात्ता आपः ॥ २ ॥",
+    "transliteration": "sa imāṃllokānasṛjata | ambho marīcīrmaramāpo'do'mbhaḥ pareṇa divaṃ dyauḥ pratiṣṭhāntarikṣaṃ marīcayaḥ | pṛthivī maro yā adhastāttā āpaḥ || 2 ||",
+    "translation": "He, that (the Ātman, the subject) — created these worlds (he, the Ātman, created — bhāṣya: असृजत = सृष्टवान्) — Ambhas (the first of the created worlds; the waters beyond heaven) — Marīcis, Mara, Āpas (the remaining created worlds); that Ambhas [is beyond heaven] — अदः अम्भः begins the gloss — beyond, above (heaven) — heaven, the sky (Ambhas is beyond this) — heaven (which is the support/prati​ṣṭhā) — (heaven) is the support; the mid-region (is the Marīcis) — the Marīcis (rays/particles — the mid-region) — the earth (is Mara) — Mara (the earth, the mortal region) — which (the waters, fem. pl.) — below; those (which are below are the waters) — the waters (those below)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "He, that (the Ātman, the subject)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "इमांल्लोकानसृजत",
+        "word_english": "created these worlds (he, the Ātman, created — bhāṣya: असृजत = सृष्टवान्)",
+        "grammar_role": "इदम् · द्वितीया·बहु·पुं (सर्वनाम) + लोक · द्वितीया·बहु·पुं + √सृज् · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "इमान् + लोकान् + असृजत्"
+      },
+      {
+        "word_sanskrit": "अम्भो",
+        "word_english": "Ambhas (the first of the created worlds; the waters beyond heaven)",
+        "grammar_role": "अम्भस् · प्रथमा·एक·नपुं (अत्र सृष्टलोकनामत्वेन; रूपं प्रथमा-द्वितीयोः समानम्)",
+        "root": "अम्भः"
+      },
+      {
+        "word_sanskrit": "मरीचीर्मरमापोऽदोऽम्भः",
+        "word_english": "Marīcis, Mara, Āpas (the remaining created worlds); that Ambhas [is beyond heaven] — अदः अम्भः begins the gloss",
+        "grammar_role": "मरीचि · द्वितीया·बहु·स्त्री + मर · द्वितीया·एक·पुं + अप् · प्रथमा·बहु·स्त्री (नित्यबहुवचनम्) + अदस् · प्रथमा·एक·नपुं (सर्वनाम) + अम्भस् · प्रथमा·एक·नपुं",
+        "root": "मरीचीः + मरम् + आपः + अदः + अम्भः"
+      },
+      {
+        "word_sanskrit": "परेण",
+        "word_english": "beyond, above (heaven)",
+        "grammar_role": "पर · तृतीया·एक·नपुं (अत्र क्रियाविशेषणवत्, 'beyond/above')",
+        "root": "परेण"
+      },
+      {
+        "word_sanskrit": "दिवं",
+        "word_english": "heaven, the sky (Ambhas is beyond this)",
+        "grammar_role": "दिव् · द्वितीया·एक·स्त्री",
+        "root": "दिवम्"
+      },
+      {
+        "word_sanskrit": "द्यौः",
+        "word_english": "heaven (which is the support/prati​ṣṭhā)",
+        "grammar_role": "दिव् · प्रथमा·एक·स्त्री",
+        "root": "द्यौः"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठान्तरिक्षं",
+        "word_english": "(heaven) is the support; the mid-region (is the Marīcis)",
+        "grammar_role": "प्रतिष्ठा · प्रथमा·एक·स्त्री + अन्तरिक्ष · प्रथमा·एक·नपुं",
+        "root": "प्रतिष्ठा + अन्तरिक्षम्"
+      },
+      {
+        "word_sanskrit": "मरीचयः",
+        "word_english": "the Marīcis (rays/particles — the mid-region)",
+        "grammar_role": "मरीचि · प्रथमा·बहु·स्त्री",
+        "root": "मरीचयः"
+      },
+      {
+        "word_sanskrit": "पृथिवी",
+        "word_english": "the earth (is Mara)",
+        "grammar_role": "पृथिवी · प्रथमा·एक·स्त्री",
+        "root": "पृथिवी"
+      },
+      {
+        "word_sanskrit": "मरो",
+        "word_english": "Mara (the earth, the mortal region)",
+        "grammar_role": "मर · प्रथमा·एक·पुं",
+        "root": "मरः"
+      },
+      {
+        "word_sanskrit": "या",
+        "word_english": "which (the waters, fem. pl.)",
+        "grammar_role": "यद् · प्रथमा·बहु·स्त्री (सर्वनाम)",
+        "root": "याः"
+      },
+      {
+        "word_sanskrit": "अधस्तात्ता",
+        "word_english": "below; those (which are below are the waters)",
+        "grammar_role": "अधस्तात् · अव्यय (देशवाचक) + तद् · प्रथमा·बहु·स्त्री (सर्वनाम)",
+        "root": "अधस्तात् + ताः"
+      },
+      {
+        "word_sanskrit": "आपः",
+        "word_english": "the waters (those below)",
+        "grammar_role": "अप् · प्रथमा·बहु·स्त्री (नित्यबहुवचनम्)",
+        "root": "आपः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "He, that (the Ātman, the subject) — created these worlds (he, the Ātman, created — bhāṣya: असृजत = सृष्टवान्) — Ambhas (the first of the created worlds; the waters beyond heaven) — Marīcis, Mara, Āpas (the remaining created worlds); that Ambhas [is beyond heaven] — अदः अम्भः begins the gloss — beyond, above (heaven) — heaven, the sky (Ambhas is beyond this) — heaven (which is the support/prati​ṣṭhā) — (heaven) is the support; the mid-region (is the Marīcis) — the Marīcis (rays/particles — the mid-region) — the earth (is Mara) — Mara (the earth, the mortal region) — which (the waters, fem. pl.) — below; those (which are below are the waters) — the waters (those below)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "एवमीक्षित्वा आलोच्य सः आत्मा इमान् लोकान् असृजत सृष्टवान् । यथेह बुद्धिमांस्तक्षादिः एवंप्रकारान्प्रासादादीन्सृजे इतीक्षित्वा ईक्षानन्तरं प्रासादादीन्सृजति, तद्वत् । ननु सोपादानस्तक्षादिः प्रासादादीन्सृजतीति युक्तम्; निरुपादानस्त्वात्मा कथं लोकान्सृजतीति? नैष दोषः । सलिलफेनस्थानीये आत्मभूते नामरूपे अव्याकृते आत्मैकशब्दवाच्ये व्याकृतफेनस्थानीयस्य जगतः उपादानभूते सम्भवतः । तस्मादात्मभूतनामरूपोपादानभूतः सन् सर्वज्ञो जगन्निर्मिमीते इत्यविरुद्धम् । अथवा, विज्ञानवान्यथा मायावी निरुपादानः आत्मानमेव आत्मान्तरत्वेन आकाशेन गच्छन्तमिव निर्मिमीते, तथा सर्वज्ञो देवः सर्वशक्तिर्महामायः आत्मानमेव आत्मान्तरत्वेन जगद्रूपेण निर्मिमीते इति युक्ततरम् । एवं च सति कार्यकारणोभयासद्वाद्यादिपक्षाश्च न प्रसज्जन्ते, सुनिराकृताश्च भवन्ति । कान् लोकानसृजतेत्याह — अम्भो मरीचीर्मरमापः इति । आकाशादिक्रमेण अण्डमुत्पाद्य अम्भःप्रभृतीन् लोकानसृजत । तत्र अम्भःप्रभृतीन्स्वयमेव व्याचष्टे श्रुतिः । अदः तत् अम्भःशब्दवाच्यो लोकः, परेण दिवं द्युलोकात्परेण परस्तात्, सोऽम्भःशब्दवाच्यः, अम्भोभरणात् । द्यौः प्रतिष्ठा आश्रयः तस्याम्भसो लोकस्य । द्युलोकादधस्तात् अन्तरिक्षं यत्, तत् मरीचयः । एकोऽपि अनेकस्थानभेदत्वाद्बहुवचनभाक् — मरीचय इति; मरीचिभिर्वा रश्मिभिः सम्बन्धात् । पृथिवी मरः — म्रियन्ते अस्मिन् भूतानीति । याः अधस्तात् पृथिव्याः, ताः आपः उच्यन्ते, आप्नोतेः, लोकाः । यद्यपि पञ्चभूतात्मकत्वं लोकानाम्, तथापि अब्बाहुल्यात् अब्नामभिरेव अम्भो मरीचीर्मरमापः इत्युच्यन्ते ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_3",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 3,
+      "chapter_number": 1,
+      "mantra_ref": "1.1.3",
+      "source_url": ""
+    },
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "स ईक्षतेमे नु लोका लोकपालान्नु सृजा इति । सोऽद्भ्य एव पुरुषं समुद्धृत्यामूर्छयत् ॥ ३ ॥",
+    "transliteration": "sa īkṣateme nu lokā lokapālānnu sṛjā iti | so'dbhya eva puruṣaṃ samuddhṛtyāmūrchayat || 3 ||",
+    "translation": "He (the Lord, Ātman) — sa īśvaraḥ — he reflected; these (worlds) — now, indeed (deliberative particle) — the worlds (waters etc., created by me) — the world-guardians, now (let me create) — let me create (them) — glossed सृजे सृजेऽहम् — thus (end of the reflection) — he, from the waters — verily, just (from the waters alone) — a person (man-shaped, with head and hands) — having drawn forth, he gave it form (made it solidify)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "He (the Lord, Ātman) — sa īśvaraḥ",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ईक्षतेमे",
+        "word_english": "he reflected; these (worlds)",
+        "grammar_role": "√ईक्ष् · लङ्·प्रथमपुरुष·एकवचन·आत्मनेपद + इदम् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "ईक्षत + इमे"
+      },
+      {
+        "word_sanskrit": "नु",
+        "word_english": "now, indeed (deliberative particle)",
+        "grammar_role": "अव्यय (निपात, वितर्के/प्रश्ने)",
+        "root": "नु"
+      },
+      {
+        "word_sanskrit": "लोका",
+        "word_english": "the worlds (waters etc., created by me)",
+        "grammar_role": "लोक · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "लोकाः"
+      },
+      {
+        "word_sanskrit": "लोकपालान्नु",
+        "word_english": "the world-guardians, now (let me create)",
+        "grammar_role": "लोक-पाल · द्वितीया·बहुवचन·पुंलिङ्ग + अव्यय (निपात)",
+        "root": "लोकपालान् + नु"
+      },
+      {
+        "word_sanskrit": "सृजा",
+        "word_english": "let me create (them) — glossed सृजे सृजेऽहम्",
+        "grammar_role": "√सृज् · लेट्·उत्तमपुरुष·एकवचन·आत्मनेपद",
+        "root": "सृजै"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (end of the reflection)",
+        "grammar_role": "अव्यय (निपात, इतिकरणे)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "सोऽद्भ्य",
+        "word_english": "he, from the waters",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग + अप् · पञ्चमी·बहुवचन·स्त्रीलिङ्ग",
+        "root": "सः + अद्भ्यः"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "verily, just (from the waters alone)",
+        "grammar_role": "अव्यय (निपात, अवधारणे)",
+        "root": "एव"
+      },
+      {
+        "word_sanskrit": "पुरुषं",
+        "word_english": "a person (man-shaped, with head and hands)",
+        "grammar_role": "पुरुष · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "पुरुषम्"
+      },
+      {
+        "word_sanskrit": "समुद्धृत्यामूर्छयत्",
+        "word_english": "having drawn forth, he gave it form (made it solidify)",
+        "grammar_role": "√हृ (सम्-उद्-) · ल्यबन्त·अव्यय + √मूर्छ् (णिच्) · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "समुद्धृत्य + अमूर्छयत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "He (the Lord, Ātman) — sa īśvaraḥ — he reflected; these (worlds) — now, indeed (deliberative particle) — the worlds (waters etc., created by me) — the world-guardians, now (let me create) — let me create (them) — glossed सृजे सृजेऽहम् — thus (end of the reflection) — he, from the waters — verily, just (from the waters alone) — a person (man-shaped, with head and hands) — having drawn forth, he gave it form (made it solidify)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "सर्वप्राणिकर्मफलोपादानाधिष्ठानभूतांश्चतुरो लोकान्सृष्ट्वा सः ईश्वरः पुनरेव ईक्षत — इमे नु तु अम्भःप्रभृतयः मया सृष्टा लोकाः परिपालयितृवर्जिता विनश्येयुः; तस्मादेषां रक्षणार्थं लोकपालान् लोकानां पालयितॄन् नु सृजै सृजेऽहम् इति । एवमीक्षित्वा सः अद्भ्य एव अप्प्रधानेभ्य एव पञ्चभूतेभ्यः, येभ्योऽम्भःप्रभृतीन्सृष्टवान्, तेभ्य एवेत्यर्थः, पुरुषं पुरुषाकारं शिरःपाण्यादिमन्तं समुद्धृत्य अद्भ्यः समुपादाय, मृत्पिण्डमिव कुलालः पृथिव्याः, अमूर्छयत् मूर्छितवान्, सम्पिण्डितवान्स्वावयवसंयोजनेनेत्यर्थः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_4",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 4,
+      "chapter_number": 1,
+      "mantra_ref": "1.1.4",
+      "source_url": ""
+    },
+    "section_title": "प्रथमः खण्डः",
+    "sanskrit_shloka": "तमभ्यतपत्तस्याभितप्तस्य मुखं निरभिद्यत यथाण्डं मुखाद्वाग्वाचोऽग्निर्नासिके निरभिद्येतां नासिकाभ्यां प्राणः प्राणाद्वायुरक्षिणी निरभिद्येतामक्षिभ्यां चक्षुश्चक्षुष आदित्यः कर्णौ निरभिद्येतां कर्णाभ्यां श्रोत्रं श्रोत्राद्दिशस्त्वङ् निरभिद्यत त्वचो लोमानि लोमभ्य ओषधिवनस्पतयो हृदयं निरभिद्यत हृदयान्मनो मनसश्चन्द्रमा नाभिर्निरभिद्यत नाभ्या अपानोऽपानान्मृत्युः शिश्नं निरभिद्यत शिश्नाद्रेतो रेतस आपः ॥ ४ ॥ इति प्रथमः खण्डः ॥",
+    "transliteration": "tamabhyatapattasyābhitaptasya mukhaṃ nirabhidyata yathāṇḍaṃ mukhādvāgvāco'gnirnāsike nirabhidyetāṃ nāsikābhyāṃ prāṇaḥ prāṇādvāyurakṣiṇī nirabhidyetāmakṣibhyāṃ cakṣuścakṣuṣa ādityaḥ karṇau nirabhidyetāṃ karṇābhyāṃ śrotraṃ śrotrāddiśastvaṅ nirabhidyata tvaco lomāni lomabhya oṣadhivanaspatayo hṛdayaṃ nirabhidyata hṛdayānmano manasaścandramā nābhirnirabhidyata nābhyā apāno'pānānmṛtyuḥ śiśnaṃ nirabhidyata śiśnādreto retasa āpaḥ || 4 || iti prathamaḥ khaṇḍaḥ ||",
+    "translation": "Him (the puruṣa-shaped mass) he brooded upon/heated; of that heated (mass) — a mouth (mouth-shaped cavity) — was cleft open, broke open — as (a bird's) egg (is cleft open) — from the mouth, speech; from speech, fire (its deity); the two nostrils — the two were cleft open — from the two nostrils — prāṇa (here the olfactory sense-organ) — from prāṇa, wind (its deity); the two eyes — the two were cleft open; from the two eyes — sight; from sight — the sun (deity of sight) — the two ears — the two were cleft open — from the two ears — the organ of hearing — from hearing, the quarters (its deities); the skin — was cleft open — from the skin — the (body) hairs — from the hairs — herbs and trees — the heart (seat of the inner organ) — was cleft open — from the heart, the mind (the inner organ) — from the mind, the moon (its deity) — the navel was cleft open — from the navel — the apāna (here the excretory/anus-organ, named from its link with the down-breath); from it, death (its deity) — the generative organ — was cleft open — from the generative organ, semen — from semen — the waters (deity of semen) — thus (end-marker) — the first — section",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तमभ्यतपत्तस्याभितप्तस्य",
+        "word_english": "Him (the puruṣa-shaped mass) he brooded upon/heated; of that heated (mass)",
+        "grammar_role": "तद् · द्वितीया·एक·पुं + √तप् (अभि) · लङ्·प्रथम·एक·परस्मै + तद् · षष्ठी·एक·पुं + अभितप्त (√तप्+अभि, क्त) · षष्ठी·एक·पुं",
+        "root": "तम् + अभ्यतपत् + तस्य + अभितप्तस्य"
+      },
+      {
+        "word_sanskrit": "मुखं",
+        "word_english": "a mouth (mouth-shaped cavity)",
+        "grammar_role": "मुख · प्रथमा·एक·नपुं",
+        "root": "मुखम्"
+      },
+      {
+        "word_sanskrit": "निरभिद्यत",
+        "word_english": "was cleft open, broke open",
+        "grammar_role": "√भिद् (निर्) · लङ्·कर्मणि·प्रथम·एक·आत्मने",
+        "root": "निरभिद्यत"
+      },
+      {
+        "word_sanskrit": "यथाण्डं",
+        "word_english": "as (a bird's) egg (is cleft open)",
+        "grammar_role": "यथा · अव्यय (तुलना) + अण्ड · प्रथमा·एक·नपुं",
+        "root": "यथा + अण्डम्"
+      },
+      {
+        "word_sanskrit": "मुखाद्वाग्वाचोऽग्निर्नासिके",
+        "word_english": "from the mouth, speech; from speech, fire (its deity); the two nostrils",
+        "grammar_role": "मुख · पञ्चमी·एक·नपुं + वाच् · प्रथमा·एक·स्त्री + वाच् · पञ्चमी·एक·स्त्री + अग्नि · प्रथमा·एक·पुं + नासिका · प्रथमा·द्वि·स्त्री",
+        "root": "मुखात् + वाक् + वाचः + अग्निः + नासिके"
+      },
+      {
+        "word_sanskrit": "निरभिद्येतां",
+        "word_english": "the two were cleft open",
+        "grammar_role": "√भिद् (निर्) · लङ्·कर्मणि·प्रथम·द्वि·आत्मने",
+        "root": "निरभिद्येताम्"
+      },
+      {
+        "word_sanskrit": "नासिकाभ्यां",
+        "word_english": "from the two nostrils",
+        "grammar_role": "नासिका · पञ्चमी·द्वि·स्त्री",
+        "root": "नासिकाभ्याम्"
+      },
+      {
+        "word_sanskrit": "प्राणः",
+        "word_english": "prāṇa (here the olfactory sense-organ)",
+        "grammar_role": "प्राण · प्रथमा·एक·पुं",
+        "root": "प्राणः"
+      },
+      {
+        "word_sanskrit": "प्राणाद्वायुरक्षिणी",
+        "word_english": "from prāṇa, wind (its deity); the two eyes",
+        "grammar_role": "प्राण · पञ्चमी·एक·पुं + वायु · प्रथमा·एक·पुं + अक्षि · प्रथमा·द्वि·नपुं",
+        "root": "प्राणात् + वायुः + अक्षिणी"
+      },
+      {
+        "word_sanskrit": "निरभिद्येतामक्षिभ्यां",
+        "word_english": "the two were cleft open; from the two eyes",
+        "grammar_role": "√भिद् (निर्) · लङ्·कर्मणि·प्रथम·द्वि·आत्मने + अक्षि · पञ्चमी·द्वि·नपुं",
+        "root": "निरभिद्येताम् + अक्षिभ्याम्"
+      },
+      {
+        "word_sanskrit": "चक्षुश्चक्षुष",
+        "word_english": "sight; from sight",
+        "grammar_role": "चक्षुस् · प्रथमा·एक·नपुं + चक्षुस् · पञ्चमी·एक·नपुं",
+        "root": "चक्षुः + चक्षुषः"
+      },
+      {
+        "word_sanskrit": "आदित्यः",
+        "word_english": "the sun (deity of sight)",
+        "grammar_role": "आदित्य · प्रथमा·एक·पुं",
+        "root": "आदित्यः"
+      },
+      {
+        "word_sanskrit": "कर्णौ",
+        "word_english": "the two ears",
+        "grammar_role": "कर्ण · प्रथमा·द्वि·पुं",
+        "root": "कर्णौ"
+      },
+      {
+        "word_sanskrit": "निरभिद्येतां",
+        "word_english": "the two were cleft open",
+        "grammar_role": "√भिद् (निर्) · लङ्·कर्मणि·प्रथम·द्वि·आत्मने",
+        "root": "निरभिद्येताम्"
+      },
+      {
+        "word_sanskrit": "कर्णाभ्यां",
+        "word_english": "from the two ears",
+        "grammar_role": "कर्ण · पञ्चमी·द्वि·पुं",
+        "root": "कर्णाभ्याम्"
+      },
+      {
+        "word_sanskrit": "श्रोत्रं",
+        "word_english": "the organ of hearing",
+        "grammar_role": "श्रोत्र · प्रथमा·एक·नपुं",
+        "root": "श्रोत्रम्"
+      },
+      {
+        "word_sanskrit": "श्रोत्राद्दिशस्त्वङ्",
+        "word_english": "from hearing, the quarters (its deities); the skin",
+        "grammar_role": "श्रोत्र · पञ्चमी·एक·नपुं + दिश् · प्रथमा·बहु·स्त्री + त्वच् · प्रथमा·एक·स्त्री",
+        "root": "श्रोत्रात् + दिशः + त्वक्"
+      },
+      {
+        "word_sanskrit": "निरभिद्यत",
+        "word_english": "was cleft open",
+        "grammar_role": "√भिद् (निर्) · लङ्·कर्मणि·प्रथम·एक·आत्मने",
+        "root": "निरभिद्यत"
+      },
+      {
+        "word_sanskrit": "त्वचो",
+        "word_english": "from the skin",
+        "grammar_role": "त्वच् · पञ्चमी·एक·स्त्री",
+        "root": "त्वचः"
+      },
+      {
+        "word_sanskrit": "लोमानि",
+        "word_english": "the (body) hairs",
+        "grammar_role": "लोमन् · प्रथमा·बहु·नपुं",
+        "root": "लोमानि"
+      },
+      {
+        "word_sanskrit": "लोमभ्य",
+        "word_english": "from the hairs",
+        "grammar_role": "लोमन् · पञ्चमी·बहु·नपुं",
+        "root": "लोमभ्यः"
+      },
+      {
+        "word_sanskrit": "ओषधिवनस्पतयो",
+        "word_english": "herbs and trees",
+        "grammar_role": "ओषधि-वनस्पति · प्रथमा·बहु·पुं (द्वन्द्व)",
+        "root": "ओषधि-वनस्पतयः"
+      },
+      {
+        "word_sanskrit": "हृदयं",
+        "word_english": "the heart (seat of the inner organ)",
+        "grammar_role": "हृदय · प्रथमा·एक·नपुं",
+        "root": "हृदयम्"
+      },
+      {
+        "word_sanskrit": "निरभिद्यत",
+        "word_english": "was cleft open",
+        "grammar_role": "√भिद् (निर्) · लङ्·कर्मणि·प्रथम·एक·आत्मने",
+        "root": "निरभिद्यत"
+      },
+      {
+        "word_sanskrit": "हृदयान्मनो",
+        "word_english": "from the heart, the mind (the inner organ)",
+        "grammar_role": "हृदय · पञ्चमी·एक·नपुं + मनस् · प्रथमा·एक·नपुं",
+        "root": "हृदयात् + मनः"
+      },
+      {
+        "word_sanskrit": "मनसश्चन्द्रमा",
+        "word_english": "from the mind, the moon (its deity)",
+        "grammar_role": "मनस् · पञ्चमी·एक·नपुं + चन्द्रमस् · प्रथमा·एक·पुं",
+        "root": "मनसः + चन्द्रमाः"
+      },
+      {
+        "word_sanskrit": "नाभिर्निरभिद्यत",
+        "word_english": "the navel was cleft open",
+        "grammar_role": "नाभि · प्रथमा·एक·स्त्री + √भिद् (निर्) · लङ्·कर्मणि·प्रथम·एक·आत्मने",
+        "root": "नाभिः + निरभिद्यत"
+      },
+      {
+        "word_sanskrit": "नाभ्या",
+        "word_english": "from the navel",
+        "grammar_role": "नाभि · पञ्चमी·एक·स्त्री",
+        "root": "नाभ्याः"
+      },
+      {
+        "word_sanskrit": "अपानोऽपानान्मृत्युः",
+        "word_english": "the apāna (here the excretory/anus-organ, named from its link with the down-breath); from it, death (its deity)",
+        "grammar_role": "अपान · प्रथमा·एक·पुं + अपान · पञ्चमी·एक·पुं + मृत्यु · प्रथमा·एक·पुं",
+        "root": "अपानः + अपानात् + मृत्युः"
+      },
+      {
+        "word_sanskrit": "शिश्नं",
+        "word_english": "the generative organ",
+        "grammar_role": "शिश्न · प्रथमा·एक·नपुं",
+        "root": "शिश्नम्"
+      },
+      {
+        "word_sanskrit": "निरभिद्यत",
+        "word_english": "was cleft open",
+        "grammar_role": "√भिद् (निर्) · लङ्·कर्मणि·प्रथम·एक·आत्मने",
+        "root": "निरभिद्यत"
+      },
+      {
+        "word_sanskrit": "शिश्नाद्रेतो",
+        "word_english": "from the generative organ, semen",
+        "grammar_role": "शिश्न · पञ्चमी·एक·नपुं + रेतस् · प्रथमा·एक·नपुं",
+        "root": "शिश्नात् + रेतः"
+      },
+      {
+        "word_sanskrit": "रेतस",
+        "word_english": "from semen",
+        "grammar_role": "रेतस् · पञ्चमी·एक·नपुं",
+        "root": "रेतसः"
+      },
+      {
+        "word_sanskrit": "आपः",
+        "word_english": "the waters (deity of semen)",
+        "grammar_role": "अप् · प्रथमा·बहु·स्त्री",
+        "root": "आपः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (end-marker)",
+        "grammar_role": "इति · अव्यय (समाप्ति-द्योतक)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "प्रथमः",
+        "word_english": "the first",
+        "grammar_role": "प्रथम · प्रथमा·एक·पुं",
+        "root": "प्रथमः"
+      },
+      {
+        "word_sanskrit": "खण्डः",
+        "word_english": "section",
+        "grammar_role": "खण्ड · प्रथमा·एक·पुं",
+        "root": "खण्डः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "Him (the puruṣa-shaped mass) he brooded upon/heated; of that heated (mass) — a mouth (mouth-shaped cavity) — was cleft open, broke open — as (a bird's) egg (is cleft open) — from the mouth, speech; from speech, fire (its deity); the two nostrils — the two were cleft open — from the two nostrils — prāṇa (here the olfactory sense-organ) — from prāṇa, wind (its deity); the two eyes — the two were cleft open; from the two eyes — sight; from sight — the sun (deity of sight) — the two ears — the two were cleft open — from the two ears — the organ of hearing — from hearing, the quarters (its deities); the skin — was cleft open — from the skin — the (body) hairs — from the hairs — herbs and trees — the heart (seat of the inner organ) — was cleft open — from the heart, the mind (the inner organ) — from the mind, the moon (its deity) — the navel was cleft open — from the navel — the apāna (here the excretory/anus-organ, named from its link with the down-breath); from it, death (its deity) — the generative organ — was cleft open — from the generative organ, semen — from semen — the waters (deity of semen) — thus (end-marker) — the first — section"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "तं पिण्डं पुरुषविधमुद्दिश्य अभ्यतपत्, तदभिध्यानं सङ्कल्पं कृतवानित्यर्थः, ‘यस्य ज्ञानमयं तपः’ (मु. उ. १ । १ । ९) इत्यादिश्रुतेः । तस्य अभितप्तस्य ईश्वरसङ्कल्पेन तपसाभितप्तस्य पिण्डस्य मुखं निरभिद्यत मुखाकारं सुषिरमजायत; यथा पक्षिणः अण्डं निर्भिद्यते एवम् । तस्माच्च निर्भिण्णात् मुखात् वाक् करणमिन्द्रियं निरवर्तत; तदधिष्ठाता अग्निः, ततो वाचः, लोकपालः । तथा नासिके निरभिद्येताम् । नासिकाभ्यां प्राणः, प्राणाद्वायुः; इति सर्वत्राधिष्ठानं करणं देवता च — त्रयं क्रमेण निर्भिण्णमिति । अक्षिणी, कर्णौ, त्वक्, हृदयमन्तःकरणाधिष्ठानम्, मनः अन्तःकरणम्; नाभिः सर्वप्राणबन्धनस्थानम् । अपानसंयुक्तत्वात् अपान इति पाय्विन्द्रियमुच्यते; तस्मात् तस्याधिष्ठात्री देवता मृत्युः । यथा अन्यत्र, तथा शिश्नं निरभिद्यत प्रजननेन्द्रियस्थानम् । इन्द्रियं रेतः रेतोविसर्गार्थत्वात्सह रेतसोच्यते । रेतस आपः इति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_5",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 5,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.1",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "ता एता देवताः सृष्टा अस्मिन्महत्यर्णवे प्रापतंस्तमशनायापिपासाभ्यामन्ववार्जत्ता एनमब्रुवन्नायतनं नः प्रजानीहि यस्मिन्प्रतिष्ठिता अन्नमदामेति ॥ १ ॥",
+    "transliteration": "tā etā devatāḥ sṛṣṭā asminmahatyarṇave prāpataṃstamaśanāyāpipāsābhyāmanvavārjattā enamabruvannāyatanaṃ naḥ prajānīhi yasminpratiṣṭhitā annamadāmeti || 1 ||",
+    "translation": "those (deities) — these (fire and the rest, the deities) — the deities (Agni etc., conceived as world-guardians) — created (by the Lord, Īśvara) — in this great ocean (of saṃsāra) — they fell; (He) afflicted/joined him with hunger and thirst; those (deities) — they said to him: an abode — for us / our — make known / determine (for us) — established in which (abode) — let us eat food — thus (they spoke)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "ता",
+        "word_english": "those (deities)",
+        "grammar_role": "तद् · प्रथमा·बहु·स्त्री",
+        "root": "ताः"
+      },
+      {
+        "word_sanskrit": "एता",
+        "word_english": "these (fire and the rest, the deities)",
+        "grammar_role": "एतद् · प्रथमा·बहु·स्त्री",
+        "root": "एताः"
+      },
+      {
+        "word_sanskrit": "देवताः",
+        "word_english": "the deities (Agni etc., conceived as world-guardians)",
+        "grammar_role": "देवता · प्रथमा·बहु·स्त्री",
+        "root": "देवताः"
+      },
+      {
+        "word_sanskrit": "सृष्टा",
+        "word_english": "created (by the Lord, Īśvara)",
+        "grammar_role": "सृष्ट · प्रथमा·बहु·स्त्री",
+        "root": "सृष्टाः"
+      },
+      {
+        "word_sanskrit": "अस्मिन्महत्यर्णवे",
+        "word_english": "in this great ocean (of saṃsāra)",
+        "grammar_role": "इदम् · सप्तमी·एक·पुं + महत् · सप्तमी·एक·पुं + अर्णव · सप्तमी·एक·पुं",
+        "root": "अस्मिन् + महति + अर्णवे"
+      },
+      {
+        "word_sanskrit": "प्रापतंस्तमशनायापिपासाभ्यामन्ववार्जत्ता",
+        "word_english": "they fell; (He) afflicted/joined him with hunger and thirst; those (deities)",
+        "grammar_role": "√पत् (प्र) · लङ्·प्रथम·बहु·परस्मै + तद् · द्वितीया·एक·पुं + अशनाया-पिपासा · तृतीया·द्वि·स्त्री (द्वन्द्व) + √वृज् (अनु+अव) · लङ्·प्रथम·एक·परस्मै + तद् · प्रथमा·बहु·स्त्री",
+        "root": "प्रापतन् + तम् + अशनाया-पिपासाभ्याम् + अन्ववार्जत् + ताः"
+      },
+      {
+        "word_sanskrit": "एनमब्रुवन्नायतनं",
+        "word_english": "they said to him: an abode",
+        "grammar_role": "एनद् · द्वितीया·एक·पुं + √ब्रू · लङ्·प्रथम·बहु·परस्मै + आयतन · द्वितीया·एक·नपुं",
+        "root": "एनम् + अब्रुवन् + आयतनम्"
+      },
+      {
+        "word_sanskrit": "नः",
+        "word_english": "for us / our",
+        "grammar_role": "अस्मद् · षष्ठी/चतुर्थी·बहु (सर्वनाम, enclitic)",
+        "root": "नः"
+      },
+      {
+        "word_sanskrit": "प्रजानीहि",
+        "word_english": "make known / determine (for us)",
+        "grammar_role": "√ज्ञा (प्र) · लोट्·मध्यम·एक·परस्मै",
+        "root": "प्रजानीहि"
+      },
+      {
+        "word_sanskrit": "यस्मिन्प्रतिष्ठिता",
+        "word_english": "established in which (abode)",
+        "grammar_role": "यद् · सप्तमी·एक·नपुं + प्रतिष्ठित · प्रथमा·बहु·स्त्री",
+        "root": "यस्मिन् + प्रतिष्ठिताः"
+      },
+      {
+        "word_sanskrit": "अन्नमदामेति",
+        "word_english": "let us eat food — thus (they spoke)",
+        "grammar_role": "अन्न · द्वितीया·एक·नपुं + √अद् · लोट्·उत्तम·बहु·परस्मै + इति · अव्यय (उद्धरण)",
+        "root": "अन्नम् + अदाम + इति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "those (deities) — these (fire and the rest, the deities) — the deities (Agni etc., conceived as world-guardians) — created (by the Lord, Īśvara) — in this great ocean (of saṃsāra) — they fell; (He) afflicted/joined him with hunger and thirst; those (deities) — they said to him: an abode — for us / our — make known / determine (for us) — established in which (abode) — let us eat food — thus (they spoke)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "ता एता अग्न्यादयो देवताः लोकपालत्वेन सङ्कल्प्य सृष्टा ईश्वरेण अस्मिन् संसारार्णवे संसारसमुद्रे महति अविद्याकामकर्मप्रभवदुःखोदके तीव्ररोगजरामृत्युमहाग्राहे अनादौ अनन्ते अपारे निरालम्बे विषयेन्द्रियजनितसुखलवलक्षणविश्रामे पञ्चेन्द्रियार्थतृण्मारुतविक्षोभोत्थितानर्थशतमहोर्मौ महारौरवाद्यनेकनिरयगतहाहेत्यादिकूजिताक्रोशनोद्भूतमहारवे सत्यार्जवदानदयाऽहिंसाशमदमधृत्याद्यात्मगुणपाथेयपूर्णज्ञानोडुपे सत्सङ्गसर्वत्यागमार्गे मोक्षतीरे एतस्मिन् महत्यर्णवे प्रापतन् पतितवत्यः । तस्मादग्न्यादिदेवताप्ययलक्षणापि या गतिर्व्याख्याता ज्ञानकर्मसमुच्चयानुष्ठानफलभूता, सापि नालं संसारदुःखोपशमायेत्ययं विवक्षितोऽर्थोऽत्र । यत एवम्, तस्मादेवं विदित्वा, परं ब्रह्म, आत्मा आत्मनः सर्वभूतानां च, यो वक्ष्यमाणविशेषणः प्रकृतश्च जगदुत्पत्तिस्थितिसंहारहेतुत्वेन, स सर्वसंसारदुःखोपशमनाय वेदितव्यः । तस्मात् ‘एष पन्था एतत्कर्मैतद्ब्रह्मैतत्सत्यम्’ (ऐ. उ. २ । १ । १) यदेतत्परब्रह्मात्मज्ञानम्, ‘नान्यः पन्था विद्यतेऽयनाय’ (श्वे. उ. ३ । ८) (श्वे. उ. ६ । १५) इति मन्त्रवर्णात् । तं स्थानकरणदेवतोत्पत्तिबीजभूतं पुरुषं प्रथमोत्पादितं पिण्डमात्मानम् अशनायापिपासाभ्याम् अन्ववार्जत् अनुगमितवान् संयोजितवानित्यर्थः । तस्य कारणभूतस्य अशनायादिदोषवत्त्वात् तत्कार्यभूतानामपि देवतानामशनायादिमत्त्वम् । ताः ततः अशनायापिपासाभ्यां पीड्यमानाः एनं पितामहं स्रष्टारम् अब्रुवन् उक्तवत्यः । आयतनम् अधिष्ठानं नः अस्मभ्यं प्रजानीहि विधत्स्व, यस्मिन् आयतने प्रतिष्ठिताः समर्थाः सत्यः अन्नम् अदाम भक्षयाम इति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_6",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 6,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.2",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "ताभ्यो गामानयत्ता अब्रुवन्न वै नोऽयमलमिति । ताभ्योऽश्वमानयत्ता अब्रुवन्न वै नोऽयमलमिति ॥ २ ॥",
+    "transliteration": "tābhyo gāmānayattā abruvanna vai no'yamalamiti | tābhyo'śvamānayattā abruvanna vai no'yamalamiti || 2 ||",
+    "translation": "to those (deities) — a cow he brought; they (the deities) — they said: not — indeed — this (lump) is not adequate for us, thus — to those a horse he brought; they (the deities) — they said: not — indeed — this (lump) is not adequate for us, thus",
+    "word_by_word": [
+      {
+        "word_sanskrit": "ताभ्यो",
+        "word_english": "to those (deities)",
+        "grammar_role": "तद् · चतुर्थी·बहुवचन·स्त्रीलिङ्ग",
+        "root": "ताभ्यः"
+      },
+      {
+        "word_sanskrit": "गामानयत्ता",
+        "word_english": "a cow he brought; they (the deities)",
+        "grammar_role": "गो · द्वितीया·एकवचन·स्त्रीलिङ्ग + √नी (आ) · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद + तद् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "गाम् + आनयत् + ताः"
+      },
+      {
+        "word_sanskrit": "अब्रुवन्न",
+        "word_english": "they said: not",
+        "grammar_role": "√ब्रू · लङ्·प्रथमपुरुष·बहुवचन·परस्मैपद + अव्यय (निषेध)",
+        "root": "अब्रुवन् + न"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "indeed",
+        "grammar_role": "अव्यय (अवधारण)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "नोऽयमलमिति",
+        "word_english": "this (lump) is not adequate for us, thus",
+        "grammar_role": "अस्मद् · षष्ठी/चतुर्थी·बहुवचन (एनादेश; भाष्ये अस्मदर्थम्) + इदम् · प्रथमा·एकवचन·पुंलिङ्ग + अव्यय (पर्याप्त्यर्थ) + अव्यय (इति)",
+        "root": "नः + अयम् + अलम् + इति"
+      },
+      {
+        "word_sanskrit": "ताभ्योऽश्वमानयत्ता",
+        "word_english": "to those a horse he brought; they (the deities)",
+        "grammar_role": "तद् · चतुर्थी·बहुवचन·स्त्रीलिङ्ग + अश्व · द्वितीया·एकवचन·पुंलिङ्ग + √नी (आ) · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद + तद् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "ताभ्यः + अश्वम् + आनयत् + ताः"
+      },
+      {
+        "word_sanskrit": "अब्रुवन्न",
+        "word_english": "they said: not",
+        "grammar_role": "√ब्रू · लङ्·प्रथमपुरुष·बहुवचन·परस्मैपद + अव्यय (निषेध)",
+        "root": "अब्रुवन् + न"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "indeed",
+        "grammar_role": "अव्यय (अवधारण)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "नोऽयमलमिति",
+        "word_english": "this (lump) is not adequate for us, thus",
+        "grammar_role": "अस्मद् · षष्ठी/चतुर्थी·बहुवचन (एनादेश; भाष्ये अस्मदर्थम्) + इदम् · प्रथमा·एकवचन·पुंलिङ्ग + अव्यय (पर्याप्त्यर्थ) + अव्यय (इति)",
+        "root": "नः + अयम् + अलम् + इति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "to those (deities) — a cow he brought; they (the deities) — they said: not — indeed — this (lump) is not adequate for us, thus — to those a horse he brought; they (the deities) — they said: not — indeed — this (lump) is not adequate for us, thus"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "एवमुक्त ईश्वरः ताभ्यः देवताभ्यः गां गवाकृतिविशिष्टं पिण्डं ताभ्य एवाद्भ्यः पूर्ववत्पिण्डं समुद्धृत्य मूर्छयित्वा आनयत् दर्शितवान् । ताः पुनः गवाकृतिं दृष्ट्वा अब्रुवन् । न वै नः अस्मदर्थम् अधिष्ठाय अन्नमत्तुम् अयं पिण्डः अलं न वै । अलं पर्याप्तः । अत्तुं न योग्य इत्यर्थः । गवि प्रत्याख्याते तथैव ताभ्यः अश्वम् आनयत् । ता अब्रुवन् — न वै नोऽयमलमिति, पूर्ववत् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_7",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 7,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.3",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "ताभ्यः पुरुषमानयत्ता अब्रुवन्सु कृतं बतेति पुरुषो वाव सुकृतम् । ता अब्रवीद्यथायतनं प्रविशतेति ॥ ३ ॥",
+    "transliteration": "tābhyaḥ puruṣamānayattā abruvansu kṛtaṃ bateti puruṣo vāva sukṛtam | tā abravīdyathāyatanaṃ praviśateti || 3 ||",
+    "translation": "to/for them (the deities) — He (Īśvara) brought a puruṣa (their own source); they (the deities) — they said; well (= śobhana, qualifying 'made') — made, fashioned (this abode/adhiṣṭhāna) — ah! (a mark of joy) — thus — the puruṣa — verily, indeed (= eva) — the well-made one — being the cause of all merit, and self-made by its own māyā — to them (the deities) — He (Īśvara) said; according to each one's own abode (yathāyatanam) — enter (you all)! — thus",
+    "word_by_word": [
+      {
+        "word_sanskrit": "ताभ्यः",
+        "word_english": "to/for them (the deities)",
+        "grammar_role": "तद् · चतुर्थी·बहुवचन·स्त्रीलिङ्ग",
+        "root": "ताभ्यः"
+      },
+      {
+        "word_sanskrit": "पुरुषमानयत्ता",
+        "word_english": "He (Īśvara) brought a puruṣa (their own source); they (the deities)",
+        "grammar_role": "पुरुष · द्वितीया·एकवचन·पुंलिङ्ग + √नी (आ) · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद + तद् · प्रथमा·बहुवचन·स्त्रीलिङ्ग",
+        "root": "पुरुषम् + आनयत् + ताः"
+      },
+      {
+        "word_sanskrit": "अब्रुवन्सु",
+        "word_english": "they said; well (= śobhana, qualifying 'made')",
+        "grammar_role": "√ब्रू · लङ्·प्रथमपुरुष·बहुवचन·परस्मैपद + अव्यय (निपात, = शोभन)",
+        "root": "अब्रुवन् + सु"
+      },
+      {
+        "word_sanskrit": "कृतं",
+        "word_english": "made, fashioned (this abode/adhiṣṭhāna)",
+        "grammar_role": "कृत · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "कृतम्"
+      },
+      {
+        "word_sanskrit": "बतेति",
+        "word_english": "ah! (a mark of joy) — thus",
+        "grammar_role": "अव्यय (विस्मयद्योतक) + अव्यय (इति, उद्धरणार्थ)",
+        "root": "बत + इति"
+      },
+      {
+        "word_sanskrit": "पुरुषो",
+        "word_english": "the puruṣa",
+        "grammar_role": "पुरुष · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "पुरुषः"
+      },
+      {
+        "word_sanskrit": "वाव",
+        "word_english": "verily, indeed (= eva)",
+        "grammar_role": "अव्यय (अवधारण, = एव)",
+        "root": "वाव"
+      },
+      {
+        "word_sanskrit": "सुकृतम्",
+        "word_english": "the well-made one — being the cause of all merit, and self-made by its own māyā",
+        "grammar_role": "सुकृत · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "सु-कृतम्"
+      },
+      {
+        "word_sanskrit": "ता",
+        "word_english": "to them (the deities)",
+        "grammar_role": "तद् · द्वितीया·बहुवचन·स्त्रीलिङ्ग",
+        "root": "ताः"
+      },
+      {
+        "word_sanskrit": "अब्रवीद्यथायतनं",
+        "word_english": "He (Īśvara) said; according to each one's own abode (yathāyatanam)",
+        "grammar_role": "√ब्रू · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद + यथा-आयतन · अव्ययीभावसमास (क्रियाविशेषण)",
+        "root": "अब्रवीत् + यथायतनम्"
+      },
+      {
+        "word_sanskrit": "प्रविशतेति",
+        "word_english": "enter (you all)! — thus",
+        "grammar_role": "√विश् (प्र) · लोट्·मध्यमपुरुष·बहुवचन·परस्मैपद + अव्यय (इति)",
+        "root": "प्रविशत + इति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "to/for them (the deities) — He (Īśvara) brought a puruṣa (their own source); they (the deities) — they said; well (= śobhana, qualifying 'made') — made, fashioned (this abode/adhiṣṭhāna) — ah! (a mark of joy) — thus — the puruṣa — verily, indeed (= eva) — the well-made one — being the cause of all merit, and self-made by its own māyā — to them (the deities) — He (Īśvara) said; according to each one's own abode (yathāyatanam) — enter (you all)! — thus"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "सर्वप्रत्याख्याने ताभ्यः पुरुषमानयत् स्वयोनिभूतम् । ताः स्वयोनिं पुरुषं दृष्ट्वा अखिन्नाः सत्यः सु कृतं शोभनं कृतम् इदमधिष्ठानं बत इति अब्रुवन् । तस्मात्पुरुषो वाव पुरुष एव सुकृतम्, सर्वपुण्यकर्महेतुत्वात्; स्वयं वा स्वेनैवात्मना स्वमायाभिः कृतत्वात्सुकृतमित्युच्यते । ताः देवताः ईश्वरः अब्रवीत् इष्टमासामिदमधिष्ठानमिति मत्वा — सर्वे हि स्वयोनिषु रमन्ते; अतः यथायतनं यस्य यत् वदनादिक्रियायोग्यमायतनम्, तत् प्रविशत इति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_8",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 8,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.4",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "अग्निर्वाग्भूत्वा मुखं प्राविशद्वायुः प्राणो भूत्वा नासिके प्राविशदादित्यश्चक्षुर्भूत्वाक्षिणी प्राविशद्दिशः श्रोत्रं भूत्वा कर्णौ प्राविशन्नोषधिवनस्पतयो लोमानि भूत्वा त्वचं प्राविशंश्चन्द्रमा मनो भूत्वा हृदयं प्राविशन्मृत्युरपानो भूत्वा नाभिं प्राविशदापो रेतो भूत्वा शिश्नं प्राविशन् ॥ ४ ॥",
+    "transliteration": "agnirvāgbhūtvā mukhaṃ prāviśadvāyuḥ prāṇo bhūtvā nāsike prāviśadādityaścakṣurbhūtvākṣiṇī prāviśaddiśaḥ śrotraṃ bhūtvā karṇau prāviśannoṣadhivanaspatayo lomāni bhūtvā tvacaṃ prāviśaṃścandramā mano bhūtvā hṛdayaṃ prāviśanmṛtyurapāno bhūtvā nābhiṃ prāviśadāpo reto bhūtvā śiśnaṃ prāviśan || 4 ||",
+    "translation": "Agni, having become speech (the voice) — 'speech' is the predicate of 'having become', hence nominative agreeing with Agni — the mouth (object of 'entered'; its own source) — ...entered; Vāyu (the wind) — breath (predicate-nominative of 'having become') — having become — the two nostrils (object of 'entered') — ...entered; Āditya (the sun), having become sight, (entered) the two eyes — chakṣus is predicate-nominative; the two eyes are the object of 'entered' — ...entered; the quarters (directions) — hearing (predicate-nominative of 'having become'; neuter nom.=acc. form identical) — having become — the two ears (object of 'they entered') — ...they entered (plural, subject 'the quarters'); herbs and forest-trees — hairs (predicate-nominative of 'having become'; neuter nom.=acc. plural form identical) — having become — the skin (object of 'they entered') — ...they entered (plural, subject 'herbs and trees'); the moon — mind (predicate-nominative of 'having become'; neuter nom.=acc. form identical) — having become — the heart (object of 'entered') — ...entered (singular, subject 'the moon'; surface -न् from त्+म nasal sandhi); Death (Mṛtyu), the down-breath (apāna, predicate-nominative) — having become — the navel (object of 'entered') — ...entered (singular, subject 'Death'); the waters — semen (predicate-nominative of 'having become'; neuter nom.=acc. form identical) — having become — the generative organ (object of 'they entered') — they entered (plural, subject 'the waters')",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अग्निर्वाग्भूत्वा",
+        "word_english": "Agni, having become speech (the voice) — 'speech' is the predicate of 'having become', hence nominative agreeing with Agni",
+        "grammar_role": "अग्नि · प्रथमा·एक·पुं + वाच् · प्रथमा·एक·स्त्री (भूत्वा-विधेय) + √भू · ल्यबन्त·अव्यय (पूर्वकालिक)",
+        "root": "अग्निः + वाक् + भूत्वा"
+      },
+      {
+        "word_sanskrit": "मुखं",
+        "word_english": "the mouth (object of 'entered'; its own source)",
+        "grammar_role": "मुख · द्वितीया·एक·नपुं",
+        "root": "मुखम्"
+      },
+      {
+        "word_sanskrit": "प्राविशद्वायुः",
+        "word_english": "...entered; Vāyu (the wind)",
+        "grammar_role": "√विश् (प्र) · लङ्·प्रथम·एक·परस्मैपद + वायु · प्रथमा·एक·पुं",
+        "root": "प्राविशत् + वायुः"
+      },
+      {
+        "word_sanskrit": "प्राणो",
+        "word_english": "breath (predicate-nominative of 'having become')",
+        "grammar_role": "प्राण · प्रथमा·एक·पुं (भूत्वा-विधेय)",
+        "root": "प्राणः"
+      },
+      {
+        "word_sanskrit": "भूत्वा",
+        "word_english": "having become",
+        "grammar_role": "√भू · ल्यबन्त·अव्यय (पूर्वकालिक)",
+        "root": "भूत्वा"
+      },
+      {
+        "word_sanskrit": "नासिके",
+        "word_english": "the two nostrils (object of 'entered')",
+        "grammar_role": "नासिका · द्वितीया·द्वि·स्त्री",
+        "root": "नासिके"
+      },
+      {
+        "word_sanskrit": "प्राविशदादित्यश्चक्षुर्भूत्वाक्षिणी",
+        "word_english": "...entered; Āditya (the sun), having become sight, (entered) the two eyes — chakṣus is predicate-nominative; the two eyes are the object of 'entered'",
+        "grammar_role": "√विश् (प्र) · लङ्·प्रथम·एक·परस्मैपद + आदित्य · प्रथमा·एक·पुं + चक्षुस् · प्रथमा·एक·नपुं (भूत्वा-विधेय) + √भू · ल्यबन्त·अव्यय + अक्षि · द्वितीया·द्वि·नपुं",
+        "root": "प्राविशत् + आदित्यः + चक्षुः + भूत्वा + अक्षिणी"
+      },
+      {
+        "word_sanskrit": "प्राविशद्दिशः",
+        "word_english": "...entered; the quarters (directions)",
+        "grammar_role": "√विश् (प्र) · लङ्·प्रथम·एक·परस्मैपद + दिश् · प्रथमा·बहु·स्त्री",
+        "root": "प्राविशत् + दिशः"
+      },
+      {
+        "word_sanskrit": "श्रोत्रं",
+        "word_english": "hearing (predicate-nominative of 'having become'; neuter nom.=acc. form identical)",
+        "grammar_role": "श्रोत्र · प्रथमा·एक·नपुं (भूत्वा-विधेय)",
+        "root": "श्रोत्रम्"
+      },
+      {
+        "word_sanskrit": "भूत्वा",
+        "word_english": "having become",
+        "grammar_role": "√भू · ल्यबन्त·अव्यय (पूर्वकालिक)",
+        "root": "भूत्वा"
+      },
+      {
+        "word_sanskrit": "कर्णौ",
+        "word_english": "the two ears (object of 'they entered')",
+        "grammar_role": "कर्ण · द्वितीया·द्वि·पुं",
+        "root": "कर्णौ"
+      },
+      {
+        "word_sanskrit": "प्राविशन्नोषधिवनस्पतयो",
+        "word_english": "...they entered (plural, subject 'the quarters'); herbs and forest-trees",
+        "grammar_role": "√विश् (प्र) · लङ्·प्रथम·बहु·परस्मैपद + ओषधि-वनस्पति · प्रथमा·बहु·पुं (द्वन्द्वः)",
+        "root": "प्राविशन् + ओषधि-वनस्पतयः"
+      },
+      {
+        "word_sanskrit": "लोमानि",
+        "word_english": "hairs (predicate-nominative of 'having become'; neuter nom.=acc. plural form identical)",
+        "grammar_role": "लोमन् · प्रथमा·बहु·नपुं (भूत्वा-विधेय)",
+        "root": "लोमानि"
+      },
+      {
+        "word_sanskrit": "भूत्वा",
+        "word_english": "having become",
+        "grammar_role": "√भू · ल्यबन्त·अव्यय (पूर्वकालिक)",
+        "root": "भूत्वा"
+      },
+      {
+        "word_sanskrit": "त्वचं",
+        "word_english": "the skin (object of 'they entered')",
+        "grammar_role": "त्वच् · द्वितीया·एक·स्त्री",
+        "root": "त्वचम्"
+      },
+      {
+        "word_sanskrit": "प्राविशंश्चन्द्रमा",
+        "word_english": "...they entered (plural, subject 'herbs and trees'); the moon",
+        "grammar_role": "√विश् (प्र) · लङ्·प्रथम·बहु·परस्मैपद + चन्द्रमस् · प्रथमा·एक·पुं",
+        "root": "प्राविशन् + चन्द्रमाः"
+      },
+      {
+        "word_sanskrit": "मनो",
+        "word_english": "mind (predicate-nominative of 'having become'; neuter nom.=acc. form identical)",
+        "grammar_role": "मनस् · प्रथमा·एक·नपुं (भूत्वा-विधेय)",
+        "root": "मनः"
+      },
+      {
+        "word_sanskrit": "भूत्वा",
+        "word_english": "having become",
+        "grammar_role": "√भू · ल्यबन्त·अव्यय (पूर्वकालिक)",
+        "root": "भूत्वा"
+      },
+      {
+        "word_sanskrit": "हृदयं",
+        "word_english": "the heart (object of 'entered')",
+        "grammar_role": "हृदय · द्वितीया·एक·नपुं",
+        "root": "हृदयम्"
+      },
+      {
+        "word_sanskrit": "प्राविशन्मृत्युरपानो",
+        "word_english": "...entered (singular, subject 'the moon'; surface -न् from त्+म nasal sandhi); Death (Mṛtyu), the down-breath (apāna, predicate-nominative)",
+        "grammar_role": "√विश् (प्र) · लङ्·प्रथम·एक·परस्मैपद + मृत्यु · प्रथमा·एक·पुं + अपान · प्रथमा·एक·पुं (भूत्वा-विधेय)",
+        "root": "प्राविशत् + मृत्युः + अपानः"
+      },
+      {
+        "word_sanskrit": "भूत्वा",
+        "word_english": "having become",
+        "grammar_role": "√भू · ल्यबन्त·अव्यय (पूर्वकालिक)",
+        "root": "भूत्वा"
+      },
+      {
+        "word_sanskrit": "नाभिं",
+        "word_english": "the navel (object of 'entered')",
+        "grammar_role": "नाभि · द्वितीया·एक·स्त्री",
+        "root": "नाभिम्"
+      },
+      {
+        "word_sanskrit": "प्राविशदापो",
+        "word_english": "...entered (singular, subject 'Death'); the waters",
+        "grammar_role": "√विश् (प्र) · लङ्·प्रथम·एक·परस्मैपद + अप् · प्रथमा·बहु·स्त्री",
+        "root": "प्राविशत् + आपः"
+      },
+      {
+        "word_sanskrit": "रेतो",
+        "word_english": "semen (predicate-nominative of 'having become'; neuter nom.=acc. form identical)",
+        "grammar_role": "रेतस् · प्रथमा·एक·नपुं (भूत्वा-विधेय)",
+        "root": "रेतः"
+      },
+      {
+        "word_sanskrit": "भूत्वा",
+        "word_english": "having become",
+        "grammar_role": "√भू · ल्यबन्त·अव्यय (पूर्वकालिक)",
+        "root": "भूत्वा"
+      },
+      {
+        "word_sanskrit": "शिश्नं",
+        "word_english": "the generative organ (object of 'they entered')",
+        "grammar_role": "शिश्न · द्वितीया·एक·नपुं/पुं",
+        "root": "शिश्नम्"
+      },
+      {
+        "word_sanskrit": "प्राविशन्",
+        "word_english": "they entered (plural, subject 'the waters')",
+        "grammar_role": "√विश् (प्र) · लङ्·प्रथम·बहु·परस्मैपद",
+        "root": "प्राविशन्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "Agni, having become speech (the voice) — 'speech' is the predicate of 'having become', hence nominative agreeing with Agni — the mouth (object of 'entered'; its own source) — ...entered; Vāyu (the wind) — breath (predicate-nominative of 'having become') — having become — the two nostrils (object of 'entered') — ...entered; Āditya (the sun), having become sight, (entered) the two eyes — chakṣus is predicate-nominative; the two eyes are the object of 'entered' — ...entered; the quarters (directions) — hearing (predicate-nominative of 'having become'; neuter nom.=acc. form identical) — having become — the two ears (object of 'they entered') — ...they entered (plural, subject 'the quarters'); herbs and forest-trees — hairs (predicate-nominative of 'having become'; neuter nom.=acc. plural form identical) — having become — the skin (object of 'they entered') — ...they entered (plural, subject 'herbs and trees'); the moon — mind (predicate-nominative of 'having become'; neuter nom.=acc. form identical) — having become — the heart (object of 'entered') — ...entered (singular, subject 'the moon'; surface -न् from त्+म nasal sandhi); Death (Mṛtyu), the down-breath (apāna, predicate-nominative) — having become — the navel (object of 'entered') — ...entered (singular, subject 'Death'); the waters — semen (predicate-nominative of 'having become'; neuter nom.=acc. form identical) — having become — the generative organ (object of 'they entered') — they entered (plural, subject 'the waters')"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "तथास्त्वित्यनुज्ञां प्रतिलभ्येश्वरस्य नगर्यामिव बलाधिकृतादयः अग्निः वागभिमानी वागेव भूत्वा स्वयोनिं मुखं प्राविशत् तथोक्तार्थमन्यत् । वायुर्नासिके, आदित्योऽक्षिणी, दिशः कर्णौ, ओषधिवनस्पतयस्त्वचम्, चन्द्रमा हृदयम्, मृत्युर्नाभिम्, आपः शिश्नम्, प्राविशन् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_9",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 9,
+      "chapter_number": 1,
+      "mantra_ref": "1.2.5",
+      "source_url": ""
+    },
+    "section_title": "द्वितीयः खण्डः",
+    "sanskrit_shloka": "तमशनायापिपासे अब्रूतामावाभ्यामभिप्रजानीहीति । ते अब्रवीदेतास्वेव वां देवतास्वाभजाम्येतासु भागिन्यौ करोमीति । तस्माद्यस्यै कस्यै च देवतायै हविर्गृह्यते भागिन्यावेवास्यामशनायापिपासे भवतः ॥ ५ ॥",
+    "transliteration": "tamaśanāyāpipāse abrūtāmāvābhyāmabhiprajānīhīti | te abravīdetāsveva vāṃ devatāsvābhajāmyetāsu bhāginyau karomīti | tasmādyasyai kasyai ca devatāyai havirgṛhyate bhāginyāvevāsyāmaśanāyāpipāse bhavataḥ || 5 ||",
+    "translation": "Him (the Lord); hunger-and-thirst (the two) — (The two) said: 'Ordain/provide a station for us two,' thus — To them two (hunger and thirst) — (He) said: 'in these very (deities)' — You two — 'Among the deities I apportion (you), in these' — Sharers (the two of you), having a portion — 'I make (you two sharers),' thus — Therefore, for whichever (deity) — For any whatever (deity) — And (= any whatsoever) — For the deity (i.e. for its sake) — Oblation is taken (offered) — Sharers indeed in that (deity) are hunger and thirst — (The two) become / are",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तमशनायापिपासे",
+        "word_english": "Him (the Lord); hunger-and-thirst (the two)",
+        "grammar_role": "तद् · द्वितीया·एक·पुं (तम् = ईश्वरम्) + अशनायापिपासे (द्वन्द्व) · प्रथमा·द्वि·स्त्री",
+        "root": "तम् + अशनाया-पिपासे"
+      },
+      {
+        "word_sanskrit": "अब्रूतामावाभ्यामभिप्रजानीहीति",
+        "word_english": "(The two) said: 'Ordain/provide a station for us two,' thus",
+        "grammar_role": "√ब्रू · लङ्·प्रथम·द्वि·परस्मैपद (उक्तवत्यौ; आत्मनेपद-रूपं तु अब्रुवाताम्) + अस्मद् · चतुर्थी/तृतीया·द्वि·आवाभ्याम् (मुख्यतः चतुर्थ्यर्थः: 'आवाभ्याम् अधिष्ठानम्' = for us two) + √ज्ञा (अभि-प्र) · लोट्·मध्यम·एक·परस्मैपद (चिन्तय विधत्स्व) + इति अव्यय",
+        "root": "अब्रूताम् + आवाभ्याम् + अभिप्रजानीहि + इति"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "To them two (hunger and thirst)",
+        "grammar_role": "तद् · द्वितीया·द्वि·स्त्री (ते = अशनायापिपासे, object of अब्रवीत्)",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "अब्रवीदेतास्वेव",
+        "word_english": "(He) said: 'in these very (deities)'",
+        "grammar_role": "√ब्रू · लङ्·प्रथम·एक·परस्मैपद (he said) + एतद् · सप्तमी·बहु·स्त्री (in these very [deities]) + एव अव्यय",
+        "root": "अब्रवीत् + एतासु + एव"
+      },
+      {
+        "word_sanskrit": "वां",
+        "word_english": "You two",
+        "grammar_role": "युष्मद् · द्वितीया·द्वि (वां = युवां, you two; object of आभजामि)",
+        "root": "वाम्"
+      },
+      {
+        "word_sanskrit": "देवतास्वाभजाम्येतासु",
+        "word_english": "'Among the deities I apportion (you), in these'",
+        "grammar_role": "देवता · सप्तमी·बहु·स्त्री (among the deities) + √भज् (आ) · लट्·उत्तम·एक·परस्मैपद (वृत्तिसंविभागेन अनुगृह्णामि; I apportion/favor) + एतद् · सप्तमी·बहु·स्त्री (in these)",
+        "root": "देवतासु + आभजामि + एतासु"
+      },
+      {
+        "word_sanskrit": "भागिन्यौ",
+        "word_english": "Sharers (the two of you), having a portion",
+        "grammar_role": "भागिनी · द्वितीया·द्वि·स्त्री (भागवत्यौ = sharers; object of करोमि — द्विकर्मक)",
+        "root": "भागिन्यौ"
+      },
+      {
+        "word_sanskrit": "करोमीति",
+        "word_english": "'I make (you two sharers),' thus",
+        "grammar_role": "√कृ · लट्·उत्तम·एक·परस्मैपद (I make) + इति अव्यय",
+        "root": "करोमि + इति"
+      },
+      {
+        "word_sanskrit": "तस्माद्यस्यै",
+        "word_english": "Therefore, for whichever (deity)",
+        "grammar_role": "तद् · पञ्चमी·एक·पुं/नपुं (therefore) + यद् · चतुर्थी·एक·स्त्री (for whichever [deity])",
+        "root": "तस्मात् + यस्यै"
+      },
+      {
+        "word_sanskrit": "कस्यै",
+        "word_english": "For any whatever (deity)",
+        "grammar_role": "किम् · चतुर्थी·एक·स्त्री (for any [deity])",
+        "root": "कस्यै"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "And (= any whatsoever)",
+        "grammar_role": "अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "देवतायै",
+        "word_english": "For the deity (i.e. for its sake)",
+        "grammar_role": "देवता · चतुर्थी·एक·स्त्री (देवताया अर्थाय; for the sake of the deity)",
+        "root": "देवतायै"
+      },
+      {
+        "word_sanskrit": "हविर्गृह्यते",
+        "word_english": "Oblation is taken (offered)",
+        "grammar_role": "हविस् · प्रथमा·एक·नपुं (oblation; कर्मणि-कर्तृ) + √ग्रह् · लट्·प्रथम·एक·कर्मणि (आत्मनेपद) (is taken)",
+        "root": "हविः + गृह्यते"
+      },
+      {
+        "word_sanskrit": "भागिन्यावेवास्यामशनायापिपासे",
+        "word_english": "Sharers indeed in that (deity) are hunger and thirst",
+        "grammar_role": "भागिनी · प्रथमा·द्वि·स्त्री (भागवत्यौ = sharers; predicate nom. with भवतः) + एव अव्यय + इदम् · सप्तमी·एक·स्त्री·अस्याम् (अस्यां देवतायाम्; in this [deity]) + अशनायापिपासे (द्वन्द्व) · प्रथमा·द्वि·स्त्री",
+        "root": "भागिन्यौ + एव + अस्याम् + अशनाया-पिपासे"
+      },
+      {
+        "word_sanskrit": "भवतः",
+        "word_english": "(The two) become / are",
+        "grammar_role": "√भू · लट्·प्रथम·द्वि·परस्मैपद (the two become/are)",
+        "root": "भवतः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "Him (the Lord); hunger-and-thirst (the two) — (The two) said: 'Ordain/provide a station for us two,' thus — To them two (hunger and thirst) — (He) said: 'in these very (deities)' — You two — 'Among the deities I apportion (you), in these' — Sharers (the two of you), having a portion — 'I make (you two sharers),' thus — Therefore, for whichever (deity) — For any whatever (deity) — And (= any whatsoever) — For the deity (i.e. for its sake) — Oblation is taken (offered) — Sharers indeed in that (deity) are hunger and thirst — (The two) become / are"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "एवं लब्धाधिष्ठानासु देवतासु निरधिष्ठाने सत्यौ अशनायापिपासे तम् ईश्वरम् अब्रूताम् उक्तवत्यौ — आवाभ्याम् अधिष्ठानम् अभिप्रजानीहि चिन्तय विधत्स्वेत्यर्थः । स ईश्वर एवमुक्तः ते अशनायापिपासे अब्रवीत् । न हि युवयोर्भावरूपत्वाच्चेतनावद्वस्त्वनाश्रित्य अन्नात्तृत्वं सम्भवति । तस्मात् एतास्वेव अग्न्याद्यासु वां युवां देवतासु अध्यात्माधिदेवतासु आभजामि वृत्तिसंविभागेनानुगृह्णामि । एतासु भागिन्यौ यद्देवत्यो यो भागो हविरादिलक्षणः स्यात्, तस्यास्तेनैव भागेन भागिन्यौ भागवत्यौ वां करोमीति । सृष्ट्यादावीश्वर एवं व्यदधाद्यस्मात्, तस्मात् इदानीमपि यस्यै कस्यै च देवतायै देवताया अर्थाय हविर्गृह्यते चरुपुरोडाशादिलक्षणं भागिन्यौ एव भागवत्यावेव अस्यां देवतायाम् अशनायापिपासे भवतः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_10",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 10,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.1",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "स ईक्षतेमे नु लोकाश्च लोकपालाश्चान्नमेभ्यः सृजा इति ॥ १ ॥",
+    "transliteration": "sa īkṣateme nu lokāśca lokapālāścānnamebhyaḥ sṛjā iti || 1 ||",
+    "translation": "He (that Īśvara, the subject — Śaṅkara: सः एवमीश्वरः) — (He) reflected/considered; these (worlds — इमे agrees with masc. लोकाः) — now, indeed (emphatic/reflective particle) — and the worlds — and the world-guardians; food (object) for these (guardians — Śaṅkara: एभ्यः लोकपालेभ्यः) — let me create/emit (food) — Śaṅkara glosses सृजै = सृजे — thus (closing the reflection)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "He (that Īśvara, the subject — Śaṅkara: सः एवमीश्वरः)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ईक्षतेमे",
+        "word_english": "(He) reflected/considered; these (worlds — इमे agrees with masc. लोकाः)",
+        "grammar_role": "√ईक्ष् · लङ्·प्रथमपुरुष·एकवचन·आत्मनेपद + इदम् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "ईक्षत + इमे"
+      },
+      {
+        "word_sanskrit": "नु",
+        "word_english": "now, indeed (emphatic/reflective particle)",
+        "grammar_role": "अव्यय (वितर्के/पादपूरणे निपातः)",
+        "root": "नु"
+      },
+      {
+        "word_sanskrit": "लोकाश्च",
+        "word_english": "and the worlds",
+        "grammar_role": "लोक · प्रथमा·बहुवचन·पुंलिङ्ग + च · अव्यय (समुच्चये)",
+        "root": "लोकाः + च"
+      },
+      {
+        "word_sanskrit": "लोकपालाश्चान्नमेभ्यः",
+        "word_english": "and the world-guardians; food (object) for these (guardians — Śaṅkara: एभ्यः लोकपालेभ्यः)",
+        "grammar_role": "लोक-पाल · प्रथमा·बहुवचन·पुंलिङ्ग + च · अव्यय (समुच्चये) + अन्न · द्वितीया·एकवचन·नपुंसकलिङ्ग + इदम् · चतुर्थी·बहुवचन·पुंलिङ्ग",
+        "root": "लोकपालाः + च + अन्नम् + एभ्यः"
+      },
+      {
+        "word_sanskrit": "सृजा",
+        "word_english": "let me create/emit (food) — Śaṅkara glosses सृजै = सृजे",
+        "grammar_role": "√सृज् · लोट्·उत्तमपुरुष·एकवचन·आत्मनेपद",
+        "root": "सृजै"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (closing the reflection)",
+        "grammar_role": "अव्यय (वाक्यपरिसमाप्तौ/उद्धरणे निपातः)",
+        "root": "इति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "He (that Īśvara, the subject — Śaṅkara: सः एवमीश्वरः) — (He) reflected/considered; these (worlds — इमे agrees with masc. लोकाः) — now, indeed (emphatic/reflective particle) — and the worlds — and the world-guardians; food (object) for these (guardians — Śaṅkara: एभ्यः लोकपालेभ्यः) — let me create/emit (food) — Śaṅkara glosses सृजै = सृजे — thus (closing the reflection)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "सः एवमीश्वरः ईक्षत । कथम्? इमे नु लोकाश्च लोकपालाश्च मया सृष्टाः, अशनायापिपासाभ्यां च संयोजिताः । अतो नैषां स्थितिरन्नमन्तरेण । तस्मात् अन्नम् एभ्यः लोकपालेभ्यः सृजै सृजे इति । एवं हि लोके ईश्वराणामनुग्रहे निग्रहे च स्वातन्त्र्यं दृष्टं स्वेषु । तद्वन्महेश्वरस्यापि सर्वेश्वरत्वात्सर्वान्प्रति निग्रहे अनुग्रहे च स्वातन्त्र्यमेव ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_11",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 11,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.2",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "सोऽपोऽभ्यतपत्ताभ्योऽभितप्ताभ्यो मूर्तिरजायत । या वै सा मूर्तिरजायतान्नं वै तत् ॥ २ ॥",
+    "transliteration": "so'po'bhyatapattābhyo'bhitaptābhyo mūrtirajāyata | yā vai sā mūrtirajāyatānnaṃ vai tat || 2 ||",
+    "translation": "He (the Lord, desiring to create food) brooded over those waters; from them, when heated, — a form was born (a solid, supporting, moving-and-unmoving shape) — which — indeed — that — form was born — that (form) is verily food — indeed — that (the form itself, which is food)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "सोऽपोऽभ्यतपत्ताभ्योऽभितप्ताभ्यो",
+        "word_english": "He (the Lord, desiring to create food) brooded over those waters; from them, when heated,",
+        "grammar_role": "तद् · प्रथमा·एक·पुं (सः=ईश्वरः) + अप् · द्वितीया·बहु·स्त्री (अपः) + √तप् (अभि-) · लङ्·प्रथमपुरुष·एक·परस्मैपद + तद् · पञ्चमी·बहु·स्त्री (ताभ्यः) + अभितप्त · पञ्चमी·बहु·स्त्री (अभितप्ताभ्यः; भूतकृदन्त)",
+        "root": "सः + अपः + अभ्यतपत् + ताभ्यः + अभितप्ताभ्यः"
+      },
+      {
+        "word_sanskrit": "मूर्तिरजायत",
+        "word_english": "a form was born (a solid, supporting, moving-and-unmoving shape)",
+        "grammar_role": "मूर्ति · प्रथमा·एक·स्त्री (मूर्तिः) + √जन् · लङ्·प्रथमपुरुष·एक·आत्मनेपद (अजायत)",
+        "root": "मूर्तिः + अजायत"
+      },
+      {
+        "word_sanskrit": "या",
+        "word_english": "which",
+        "grammar_role": "यद् · प्रथमा·एक·स्त्री",
+        "root": "या"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "indeed",
+        "grammar_role": "अव्यय (निपात; emphatic/affirmative particle)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "सा",
+        "word_english": "that",
+        "grammar_role": "तद् · प्रथमा·एक·स्त्री",
+        "root": "सा"
+      },
+      {
+        "word_sanskrit": "मूर्तिरजायतान्नं",
+        "word_english": "form was born — that (form) is verily food",
+        "grammar_role": "मूर्ति · प्रथमा·एक·स्त्री (मूर्तिः) + √जन् · लङ्·प्रथमपुरुष·एक·आत्मनेपद (अजायत) + अन्न · प्रथमा·एक·नपुं (अन्नम्)",
+        "root": "मूर्तिः + अजायत + अन्नम्"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "indeed",
+        "grammar_role": "अव्यय (निपात; emphatic/affirmative particle)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "तत्",
+        "word_english": "that (the form itself, which is food)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं",
+        "root": "तत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "He (the Lord, desiring to create food) brooded over those waters; from them, when heated, — a form was born (a solid, supporting, moving-and-unmoving shape) — which — indeed — that — form was born — that (form) is verily food — indeed — that (the form itself, which is food)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "सः ईश्वरः अन्नं सिसृक्षुः ता एव पूर्वोक्ता अपः उद्दिश्य अभ्यतपत् । ताभ्यः अभितप्ताभ्यः उपादानभूताभ्यः मूर्तिः घनरूपं धारणसमर्थं चराचरलक्षणम् अजायत उत्पन्नम् । अन्नं वै तत् मूर्तिरूपं या वै सा मूर्तिरजायत ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_12",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 12,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.3",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तदेनदभिसृष्टं पराङत्यजिघांसत्तद्वाचाजिघृक्षत्तन्नाशक्नोद्वाचा ग्रहीतुम् । स यद्धैनद्वाचाग्रहैष्यदभिव्याहृत्य हैवान्नमत्रप्स्यत् ॥ ३ ॥",
+    "transliteration": "tadenadabhisṛṣṭaṃ parāṅatyajighāṃsattadvācājighṛkṣattannāśaknodvācā grahītum | sa yaddhainadvācāgrahaiṣyadabhivyāhṛtya haivānnamatrapsyat || 3 ||",
+    "translation": "That — this (body/self), having been created/emitted (by the Self) — Turned away (fleeing outward), (death/hunger) sought to slay it; (the deity) sought to grasp it by Speech — yet it could not grasp it by Speech — to grasp / to seize (i.e. to take in, make one's own) — he / it (the eater — here Speech, taken as the grasping organ) — If indeed (Speech) had grasped this (food) by speech — then by merely uttering/naming (it)… — …one would indeed have been sated with food (by the mere act of uttering 'food') — but that is not so (hence Speech could not grasp/consume it)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदेनदभिसृष्टं",
+        "word_english": "That — this (body/self), having been created/emitted (by the Self)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + एतद्/इदम् (एनत्, अन्वादेशे) · द्वितीया·एक·नपुं + अभि√सृज् → अभिसृष्ट · क्तप्रत्ययान्त (द्वितीया·एक·नपुं), एनत्-विशेषणम्",
+        "root": "तत् + एनत् + अभिसृष्टम्"
+      },
+      {
+        "word_sanskrit": "पराङत्यजिघांसत्तद्वाचाजिघृक्षत्तन्नाशक्नोद्वाचा",
+        "word_english": "Turned away (fleeing outward), (death/hunger) sought to slay it; (the deity) sought to grasp it by Speech — yet it could not grasp it by Speech",
+        "grammar_role": "पराक् · पराच्-शब्द (नपुं प्र/द्वि·एक), क्रियाविशेषणवत् (turned away, fleeing outward) + अति · उपसर्ग/अव्यय + √हन् (सन्नन्त, desiderative) · लङ्·प्रथम·एक·परस्मै (अति-अजिघांसत् = sought to strike down / slay) + तद् · द्वितीया·एक·नपुं + वाच् · तृतीया·एक·स्त्री + √ग्रह् (सन्नन्त, desiderative) · लङ्·प्रथम·एक·परस्मै (अजिघृक्षत् = sought to grasp/seize) + तद् · द्वितीया·एक·नपुं + न · निषेधाव्यय + √शक् · लङ्·प्रथम·एक·परस्मै (अशक्नोत् = was able) + वाच् · तृतीया·एक·स्त्री",
+        "root": "पराक् + अति + अजिघांसत् + तत् + वाचा + अजिघृक्षत् + तत् + न + अशक्नोत् + वाचा"
+      },
+      {
+        "word_sanskrit": "ग्रहीतुम्",
+        "word_english": "to grasp / to seize (i.e. to take in, make one's own)",
+        "grammar_role": "√ग्रह् · तुमुन्नन्त·अव्यय (infinitive of purpose)",
+        "root": "ग्रहीतुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he / it (the eater — here Speech, taken as the grasping organ)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं (विसर्गलोपः सन्धौ)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यद्धैनद्वाचाग्रहैष्यदभिव्याहृत्य",
+        "word_english": "If indeed (Speech) had grasped this (food) by speech — then by merely uttering/naming (it)…",
+        "grammar_role": "यद् · निपात (conditional 'if', sambandhe) + ह · निपात (निश्चयार्थे) + एतद्/इदम् (एनत्, अन्वादेशे) · द्वितीया·एक·नपुं + वाच् · तृतीया·एक·स्त्री + √ग्रह् · लृङ् (conditional)·प्रथम·एक·परस्मै (अग्रहैष्यत् = would have grasped) + अभि-वि-आ√हृ → अभिव्याहृत्य · ल्यबन्त·अव्यय (समानकर्तृकपूर्वकाले, 'having uttered/pronounced/named')",
+        "root": "यत् + ह + एनत् + वाचा + अग्रहैष्यत् + अभिव्याहृत्य"
+      },
+      {
+        "word_sanskrit": "हैवान्नमत्रप्स्यत्",
+        "word_english": "…one would indeed have been sated with food (by the mere act of uttering 'food') — but that is not so (hence Speech could not grasp/consume it)",
+        "grammar_role": "ह · निपात (निश्चयार्थे) + एव · निपात (अवधारणे) + अन्न · द्वितीया·एक·नपुं (कर्म) + √तृप् · लृङ् (conditional)·प्रथम·एक·परस्मै (अत्रप्स्यत् = would have been satisfied/sated)",
+        "root": "ह + एव + अन्नम् + अत्रप्स्यत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "That — this (body/self), having been created/emitted (by the Self) — Turned away (fleeing outward), (death/hunger) sought to slay it; (the deity) sought to grasp it by Speech — yet it could not grasp it by Speech — to grasp / to seize (i.e. to take in, make one's own) — he / it (the eater — here Speech, taken as the grasping organ) — If indeed (Speech) had grasped this (food) by speech — then by merely uttering/naming (it)… — …one would indeed have been sated with food (by the mere act of uttering 'food') — but that is not so (hence Speech could not grasp/consume it)"
+      }
+    ],
+    "commentaries": [],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_13",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 13,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.4",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तत्प्राणेनाजिघृक्षत्तन्नाशक्नोत्प्राणेन ग्रहीतुम् । स यद्धैनत्प्राणेनाग्रहैष्यदभिप्राण्य हैवान्नमत्रप्स्यत् ॥ ४ ॥",
+    "transliteration": "tatprāṇenājighṛkṣattannāśaknotprāṇena grahītum | sa yaddhainatprāṇenāgrahaiṣyadabhiprāṇya haivānnamatrapsyat || 4 ||",
+    "translation": "It (death/the eater) wished to grasp that (food) by the breath; it could not grasp (it) by the breath — to grasp, to seize — he, it (the eater / the self) — if it had grasped this (food) by the breath, then merely by breathing on it — one would (absurdly) have been satisfied merely by breathing on the food",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तत्प्राणेनाजिघृक्षत्तन्नाशक्नोत्प्राणेन",
+        "word_english": "It (death/the eater) wished to grasp that (food) by the breath; it could not grasp (it) by the breath",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं (= अन्नम्) + प्राण · तृतीया·एक·पुं + √ग्रह् · सन्नन्त·लङ्·प्रथम·एक·परस्मै + तद् · द्वितीया·एक·नपुं + न · अव्यय (निषेध) + √शक् · लङ्·प्रथम·एक·परस्मै + प्राण · तृतीया·एक·पुं",
+        "root": "तत् + प्राणेन + अजिघृक्षत् + तत् + न + अशक्नोत् + प्राणेन"
+      },
+      {
+        "word_sanskrit": "ग्रहीतुम्",
+        "word_english": "to grasp, to seize",
+        "grammar_role": "√ग्रह् · तुमुन् (अव्यय, infinitive)",
+        "root": "ग्रहीतुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he, it (the eater / the self)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यद्धैनत्प्राणेनाग्रहैष्यदभिप्राण्य",
+        "word_english": "if it had grasped this (food) by the breath, then merely by breathing on it",
+        "grammar_role": "यद् · अव्यय (यत्...ह = यदि, conditional 'if') + ह · अव्यय (किल, narrative/emphatic) + एनद् · द्वितीया·एक·नपुं (= अन्नम्) + प्राण · तृतीया·एक·पुं + √ग्रह् · लृङ्·प्रथम·एक·परस्मै (conditional) + अभि-√प्राण् · ल्यप् (gerund)",
+        "root": "यत् + ह + एनत् + प्राणेन + अग्रहैष्यत् + अभिप्राण्य"
+      },
+      {
+        "word_sanskrit": "हैवान्नमत्रप्स्यत्",
+        "word_english": "one would (absurdly) have been satisfied merely by breathing on the food",
+        "grammar_role": "ह · अव्यय (किल, emphatic) + एव · अव्यय (only, merely) + अन्न · द्वितीया·एक·नपुं + √तृप् · लृङ्·प्रथम·एक·परस्मै (conditional)",
+        "root": "ह + एव + अन्नम् + अत्रप्स्यत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "It (death/the eater) wished to grasp that (food) by the breath; it could not grasp (it) by the breath — to grasp, to seize — he, it (the eater / the self) — if it had grasped this (food) by the breath, then merely by breathing on it — one would (absurdly) have been satisfied merely by breathing on the food"
+      }
+    ],
+    "commentaries": [],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_14",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 14,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.5",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तच्चक्षुषाजिघृक्षत्तन्नाशक्नोच्चक्षुषा ग्रहीतुम् । स यद्धैनच्चक्षुषाग्रहैष्यद्दृष्ट्वा हैवान्नमत्रप्स्यत् ॥ ५ ॥",
+    "transliteration": "taccakṣuṣājighṛkṣattannāśaknoccakṣuṣā grahītum | sa yaddhainaccakṣuṣāgrahaiṣyaddṛṣṭvā haivānnamatrapsyat || 5 ||",
+    "translation": "He (the created being) sought to grasp it (the food) with the eye; he could not grasp it with the eye — to grasp / to take hold of (it, the food) — he (the perceiver/created being) — For if he had grasped it (the food) with the eye, then merely by seeing it — he would have been satiated with the food (merely by seeing it, without eating)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तच्चक्षुषाजिघृक्षत्तन्नाशक्नोच्चक्षुषा",
+        "word_english": "He (the created being) sought to grasp it (the food) with the eye; he could not grasp it with the eye",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + चक्षुस् · तृतीया·एक·नपुं + √ग्रह् (सन्नन्त) · लङ्·प्रथम·एक·परस्मै + तद् · द्वितीया·एक·नपुं + अव्यय (निषेध) + √शक् · लङ्·प्रथम·एक·परस्मै + चक्षुस् · तृतीया·एक·नपुं",
+        "root": "तत् + चक्षुषा + अजिघृक्षत् + तत् + न + अशक्नोत् + चक्षुषा"
+      },
+      {
+        "word_sanskrit": "ग्रहीतुम्",
+        "word_english": "to grasp / to take hold of (it, the food)",
+        "grammar_role": "√ग्रह् · तुमुन् (अव्यय, infinitive)",
+        "root": "ग्रहीतुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the perceiver/created being)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यद्धैनच्चक्षुषाग्रहैष्यद्दृष्ट्वा",
+        "word_english": "For if he had grasped it (the food) with the eye, then merely by seeing it",
+        "grammar_role": "अव्यय (यदि-अर्थे) + अव्यय (वाक्यालङ्कारे) + एनद् (एतद्) · द्वितीया·एक·नपुं + चक्षुस् · तृतीया·एक·नपुं + √ग्रह् · लृङ्·प्रथम·एक·परस्मै + √दृश् · क्त्वा (अव्यय, gerund)",
+        "root": "यत् + ह + एनत् + चक्षुषा + अग्रहैष्यत् + दृष्ट्वा"
+      },
+      {
+        "word_sanskrit": "हैवान्नमत्रप्स्यत्",
+        "word_english": "he would have been satiated with the food (merely by seeing it, without eating)",
+        "grammar_role": "अव्यय (वाक्यालङ्कारे) + अव्यय (अवधारणे) + अन्न · द्वितीया·एक·नपुं + √तृप् · लृङ्·प्रथम·एक·परस्मै",
+        "root": "ह + एव + अन्नम् + अत्रप्स्यत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "He (the created being) sought to grasp it (the food) with the eye; he could not grasp it with the eye — to grasp / to take hold of (it, the food) — he (the perceiver/created being) — For if he had grasped it (the food) with the eye, then merely by seeing it — he would have been satiated with the food (merely by seeing it, without eating)"
+      }
+    ],
+    "commentaries": [],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_15",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 15,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.6",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तच्छ्रोत्रेणाजिघृक्षत्तन्नाशक्नोच्छ्रोत्रेण ग्रहीतुम् । स यद्धैनच्छ्रोत्रेणाग्रहैष्यच्छ्रुत्वा हैवान्नमत्रप्स्यत् ॥ ६ ॥",
+    "transliteration": "tacchrotreṇājighṛkṣattannāśaknocchrotreṇa grahītum | sa yaddhainacchrotreṇāgrahaiṣyacchrutvā haivānnamatrapsyat || 6 ||",
+    "translation": "It (the first-born being) wished to grasp that food by the ear; that food it was not able to grasp by the ear — to grasp / to seize (the food, here = to apprehend it) — he (the first-born embodied being, the cosmic body of the worlds and world-guardians — not the supreme Self) — if he (the first-born) had grasped this food by the ear, then, having heard (it) — (all the world too, being his product) would indeed have been satisfied by the food",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तच्छ्रोत्रेणाजिघृक्षत्तन्नाशक्नोच्छ्रोत्रेण",
+        "word_english": "It (the first-born being) wished to grasp that food by the ear; that food it was not able to grasp by the ear",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं (object 'that' = the food, अन्नम्) + श्रोत्र · तृतीया·एक·नपुं (instrument, 'by the ear') + √ग्रह् (सन्नन्त, desiderative) · लङ्·प्रथमपुरुष·एक·परस्मैपद (= ग्रहीतुम् ऐच्छत्, 'wished to grasp') + तद् · द्वितीया·एक·नपुं (= the food) + न · अव्यय (निषेध) + √शक् · लङ्·प्रथमपुरुष·एक·परस्मैपद ('was able') + श्रोत्र · तृतीया·एक·नपुं (instrument)",
+        "root": "तत् + श्रोत्रेण + अजिघृक्षत् + तत् + न + अशक्नोत् + श्रोत्रेण"
+      },
+      {
+        "word_sanskrit": "ग्रहीतुम्",
+        "word_english": "to grasp / to seize (the food, here = to apprehend it)",
+        "grammar_role": "√ग्रह् · तुमुन्-अव्यय (infinitive) (bhāṣya: ग्रहीतुम् उपादातुम्)",
+        "root": "ग्रहीतुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the first-born embodied being, the cosmic body of the worlds and world-guardians — not the supreme Self)",
+        "grammar_role": "तद् · प्रथमा·एक·पुंलिङ्ग (bhāṣya: सः प्रथमजः शरीरी / पिण्डः)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यद्धैनच्छ्रोत्रेणाग्रहैष्यच्छ्रुत्वा",
+        "word_english": "if he (the first-born) had grasped this food by the ear, then, having heard (it)",
+        "grammar_role": "यद् · अव्यय (= यदि, conditional 'if') + ह · अव्यय (निपात, emphatic) + एनद् · द्वितीया·एक·नपुं (enclitic acc. pronoun referring to अन्नम्, 'this food') + श्रोत्र · तृतीया·एक·नपुं (instrument) + √ग्रह् · लृङ् (conditional)·प्रथमपुरुष·एक·परस्मैपद (bhāṣya: अग्रहैष्यत् गृहीतवान् स्यात्) + √श्रु · क्त्वा-अव्यय (gerund, 'having heard')",
+        "root": "यत् + ह + एनत् + श्रोत्रेण + अग्रहैष्यत् + श्रुत्वा"
+      },
+      {
+        "word_sanskrit": "हैवान्नमत्रप्स्यत्",
+        "word_english": "(all the world too, being his product) would indeed have been satisfied by the food",
+        "grammar_role": "ह · अव्यय (निपात) + एव · अव्यय (अवधारण, 'just/indeed') + अन्न · द्वितीया·एक·नपुं (object/means of satisfaction, 'with food') + √तृप् · लृङ् (conditional)·प्रथमपुरुष·एक·परस्मैपद (bhāṣya: अत्रप्स्यत् तृप्तः अभविष्यत्)",
+        "root": "ह + एव + अन्नम् + अत्रप्स्यत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "It (the first-born being) wished to grasp that food by the ear; that food it was not able to grasp by the ear — to grasp / to seize (the food, here = to apprehend it) — he (the first-born embodied being, the cosmic body of the worlds and world-guardians — not the supreme Self) — if he (the first-born) had grasped this food by the ear, then, having heard (it) — (all the world too, being his product) would indeed have been satisfied by the food"
+      }
+    ],
+    "commentaries": [],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_16",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 16,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.7",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तत्त्वचाजिघृक्षत्तन्नाशक्नोत्त्वचा ग्रहीतुम् । स यद्धैनत्त्वचाग्रहैष्यत्स्पृष्ट्वा हैवान्नमत्रप्स्यत् ॥ ७ ॥",
+    "transliteration": "tattvacājighṛkṣattannāśaknottvacā grahītum | sa yaddhainattvacāgrahaiṣyatspṛṣṭvā haivānnamatrapsyat || 7 ||",
+    "translation": "That (the self) wished to grasp it with the skin; it could not (grasp) it with the skin — to grasp, to seize — he (the self / puruṣa) — If he had grasped it with the skin, then having (merely) touched it, — he would indeed have been satiated by the food",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तत्त्वचाजिघृक्षत्तन्नाशक्नोत्त्वचा",
+        "word_english": "That (the self) wished to grasp it with the skin; it could not (grasp) it with the skin",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं (acc., object) + त्वच् · तृतीया·एक·स्त्री (instr.) + √ग्रह् (सन्नन्त) · लङ्·प्रथम·एक·पर (desiderative imperfect, 'wished to grasp') + तद् · द्वितीया·एक·नपुं (acc.) + न · अव्यय (निषेध) + √शक् · लङ्·प्रथम·एक·पर (imperfect) + त्वच् · तृतीया·एक·स्त्री (instr.)",
+        "root": "तत् + त्वचा + अजिघृक्षत् + तत् + न + अशक्नोत् + त्वचा"
+      },
+      {
+        "word_sanskrit": "ग्रहीतुम्",
+        "word_english": "to grasp, to seize",
+        "grammar_role": "√ग्रह् · तुमुन् (अव्यय, infinitive)",
+        "root": "ग्रहीतुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the self / puruṣa)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यद्धैनत्त्वचाग्रहैष्यत्स्पृष्ट्वा",
+        "word_english": "If he had grasped it with the skin, then having (merely) touched it,",
+        "grammar_role": "यद् · अव्यय (यदि, conditional 'if') + ह · अव्यय (अवधारण, 'verily') + एनद् · द्वितीया·एक·नपुं (enclitic pron., acc. 'it') + त्वच् · तृतीया·एक·स्त्री (instr.) + √ग्रह् · लृङ्·प्रथम·एक·पर (conditional) + √स्पृश् · क्त्वा (अव्यय, gerund)",
+        "root": "यत् + ह + एनत् + त्वचा + अग्रहैष्यत् + स्पृष्ट्वा"
+      },
+      {
+        "word_sanskrit": "हैवान्नमत्रप्स्यत्",
+        "word_english": "he would indeed have been satiated by the food",
+        "grammar_role": "ह · अव्यय (अवधारण) + एव · अव्यय (अवधारण, 'just/indeed') + अन्न · द्वितीया·एक·नपुं (acc., object of satiation) + √तृप् · लृङ्·प्रथम·एक·पर (conditional)",
+        "root": "ह + एव + अन्नम् + अत्रप्स्यत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "That (the self) wished to grasp it with the skin; it could not (grasp) it with the skin — to grasp, to seize — he (the self / puruṣa) — If he had grasped it with the skin, then having (merely) touched it, — he would indeed have been satiated by the food"
+      }
+    ],
+    "commentaries": [],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_17",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 17,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.8",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तन्मनसाजिघृक्षत्तन्नाशक्नोन्मनसा ग्रहीतुम् । स यद्धैनन्मनसाग्रहैष्यद्ध्यात्वा हैवान्नमत्रप्स्यत् ॥ ८ ॥",
+    "transliteration": "tanmanasājighṛkṣattannāśaknonmanasā grahītum | sa yaddhainanmanasāgrahaiṣyaddhyātvā haivānnamatrapsyat || 8 ||",
+    "translation": "He wished to grasp it (the food) with the mind; he could not grasp it with the mind — to grasp, to take hold of (it) — he (the Self / the being, who seeks to seize the food) — if indeed he had grasped it (the food) with the mind, then by merely thinking (of food) — he would indeed have been satisfied with the food (i.e. mere thought of food would have sated him)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तन्मनसाजिघृक्षत्तन्नाशक्नोन्मनसा",
+        "word_english": "He wished to grasp it (the food) with the mind; he could not grasp it with the mind",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं (= अन्नम्) + मनस् · तृतीया·एक·नपुं + √ग्रह् (सन्/जिघृक्षा) · लङ्·प्रथमपुरुष·एक·परस्मैपद + तद् · द्वितीया·एक·नपुं (= अन्नम्) + न · अव्यय (निषेधे) + √शक् · लङ्·प्रथमपुरुष·एक·परस्मैपद + मनस् · तृतीया·एक·नपुं",
+        "root": "तत् + मनसा + अजिघृक्षत् + तत् + न + अशक्नोत् + मनसा"
+      },
+      {
+        "word_sanskrit": "ग्रहीतुम्",
+        "word_english": "to grasp, to take hold of (it)",
+        "grammar_role": "√ग्रह् · तुमुन्-अव्यय (हेत्वर्थक/क्रियार्थ)",
+        "root": "ग्रहीतुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the Self / the being, who seeks to seize the food)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यद्धैनन्मनसाग्रहैष्यद्ध्यात्वा",
+        "word_english": "if indeed he had grasped it (the food) with the mind, then by merely thinking (of food)",
+        "grammar_role": "यद् · अव्यय (= यदि, 'if', क्रियातिपत्तौ) + ह · अव्यय (वाक्यालङ्कारे/पादपूरणे) + एनद् · द्वितीया·एक·नपुं (= अन्नम्) + मनस् · तृतीया·एक·नपुं + √ग्रह् · लृङ् (क्रियातिपत्ति/conditional)·प्रथमपुरुष·एक·परस्मैपद + √ध्यै · क्त्वा-अव्यय (पूर्वकालिक)",
+        "root": "यत् + ह + एनत् + मनसा + अग्रहैष्यत् + ध्यात्वा"
+      },
+      {
+        "word_sanskrit": "हैवान्नमत्रप्स्यत्",
+        "word_english": "he would indeed have been satisfied with the food (i.e. mere thought of food would have sated him)",
+        "grammar_role": "ह · अव्यय (वाक्यालङ्कारे) + एव · अव्यय (अवधारणे/'merely') + अन्न · द्वितीया·एक·नपुं + √तृप् · लृङ् (क्रियातिपत्ति/conditional)·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "ह + एव + अन्नम् + अत्रप्स्यत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "He wished to grasp it (the food) with the mind; he could not grasp it with the mind — to grasp, to take hold of (it) — he (the Self / the being, who seeks to seize the food) — if indeed he had grasped it (the food) with the mind, then by merely thinking (of food) — he would indeed have been satisfied with the food (i.e. mere thought of food would have sated him)"
+      }
+    ],
+    "commentaries": [],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_18",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 18,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.9",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तच्छिश्नेनाजिघृक्षत्तन्नाशक्नोच्छिश्नेन ग्रहीतुम् । स यद्धैनच्छिश्नेनाग्रहैष्यद्विसृज्य हैवान्नमत्रप्स्यत् ॥ ९ ॥",
+    "transliteration": "tacchiśnenājighṛkṣattannāśaknocchiśnena grahītum | sa yaddhainacchiśnenāgrahaiṣyadvisṛjya haivānnamatrapsyat || 9 ||",
+    "translation": "It (the eater/death) wished to grasp that with the generative organ; it could not grasp that with it — to grasp, to seize — he, it (the eater, death) — if he had seized this with the generative organ, then merely by emitting (procreating) — one would indeed have been satisfied with food (merely by procreating)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तच्छिश्नेनाजिघृक्षत्तन्नाशक्नोच्छिश्नेन",
+        "word_english": "It (the eater/death) wished to grasp that with the generative organ; it could not grasp that with it",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं (acc., obj.) + शिश्न · तृतीया·एक·नपुं (instr.) + √ग्रह् (सन्) · लङ्·प्रथम·एक·परस्मै (desiderative imperfect) + तद् · द्वितीया·एक·नपुं + न · अव्यय (निषेध) + √शक् · लङ्·प्रथम·एक·परस्मै + शिश्न · तृतीया·एक·नपुं",
+        "root": "तत् + शिश्नेन + अजिघृक्षत् + तत् + न + अशक्नोत् + शिश्नेन"
+      },
+      {
+        "word_sanskrit": "ग्रहीतुम्",
+        "word_english": "to grasp, to seize",
+        "grammar_role": "√ग्रह् · तुमुन् (अव्यय, infinitive)",
+        "root": "ग्रहीतुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he, it (the eater, death)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं (nom., subject = the eater/death)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "यद्धैनच्छिश्नेनाग्रहैष्यद्विसृज्य",
+        "word_english": "if he had seized this with the generative organ, then merely by emitting (procreating)",
+        "grammar_role": "यद् · अव्यय (conditional 'if') + ह · अव्यय (निपात, emphatic) + एनद् · द्वितीया·एक·नपुं (enclitic acc. = this, the self/food) + शिश्न · तृतीया·एक·नपुं (instr.) + √ग्रह् · लृङ्·प्रथम·एक·परस्मै (conditional, 'would have seized') + वि-√सृज् · ल्यप् (gerund, 'having emitted/procreated')",
+        "root": "यत् + ह + एनत् + शिश्नेन + अग्रहैष्यत् + विसृज्य"
+      },
+      {
+        "word_sanskrit": "हैवान्नमत्रप्स्यत्",
+        "word_english": "one would indeed have been satisfied with food (merely by procreating)",
+        "grammar_role": "ह · अव्यय (निपात) + एव · अव्यय (निपात, 'just/merely') + अन्न · द्वितीया·एक·नपुं (acc., object of satisfaction) + √तृप् · लृङ्·प्रथम·एक·परस्मै (conditional, 'would have been satisfied')",
+        "root": "ह + एव + अन्नम् + अत्रप्स्यत्"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "It (the eater/death) wished to grasp that with the generative organ; it could not grasp that with it — to grasp, to seize — he, it (the eater, death) — if he had seized this with the generative organ, then merely by emitting (procreating) — one would indeed have been satisfied with food (merely by procreating)"
+      }
+    ],
+    "commentaries": [],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_19",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 19,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.10",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तदपानेनाजिघृक्षत्तदावयत् । सैषोऽन्नस्य ग्रहो यद्वायुरन्नायुर्वा एष यद्वायुः ॥ १० ॥",
+    "transliteration": "tadapānenājighṛkṣattadāvayat | saiṣo'nnasya graho yadvāyurannāyurvā eṣa yadvāyuḥ || 10 ||",
+    "translation": "It sought to seize that food by apāna, and grasped (ate) it — āvayat = jagrāha aśitavān — this same (apāna-wind), of food — the grasper (seizer) of food — namely the wind; this wind indeed has food for its life (lives on food) — this (wind) — which (is) the wind",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदपानेनाजिघृक्षत्तदावयत्",
+        "word_english": "It sought to seize that food by apāna, and grasped (ate) it — āvayat = jagrāha aśitavān",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + अपान · तृतीया·एक·पुं + √ग्रह् (सन्) · लङ्·प्रथम·एक·परस्मै + तद् · द्वितीया·एक·नपुं + आ + √वी (अदने) · लङ्·प्रथम·एक·परस्मै",
+        "root": "तत् + अपानेन + अजिघृक्षत् + तत् + आवयत्"
+      },
+      {
+        "word_sanskrit": "सैषोऽन्नस्य",
+        "word_english": "this same (apāna-wind), of food",
+        "grammar_role": "तद् · प्रथमा·एक·पुं + एतद् · प्रथमा·एक·पुं + अन्न · षष्ठी·एक·नपुं",
+        "root": "सः + एषः + अन्नस्य"
+      },
+      {
+        "word_sanskrit": "ग्रहो",
+        "word_english": "the grasper (seizer) of food",
+        "grammar_role": "ग्रह · प्रथमा·एक·पुं",
+        "root": "ग्रहः"
+      },
+      {
+        "word_sanskrit": "यद्वायुरन्नायुर्वा",
+        "word_english": "namely the wind; this wind indeed has food for its life (lives on food)",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं + वायु · प्रथमा·एक·पुं + अन्न-आयु (बहुव्रीहि) · प्रथमा·एक·पुं + वा (अव्यय, निपात·अवधारणे)",
+        "root": "यत् + वायुः + अन्नायुः + वा"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "this (wind)",
+        "grammar_role": "एतद् · प्रथमा·एक·पुं",
+        "root": "एषः"
+      },
+      {
+        "word_sanskrit": "यद्वायुः",
+        "word_english": "which (is) the wind",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं + वायु · प्रथमा·एक·पुं",
+        "root": "यत् + वायुः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "It sought to seize that food by apāna, and grasped (ate) it — āvayat = jagrāha aśitavān — this same (apāna-wind), of food — the grasper (seizer) of food — namely the wind; this wind indeed has food for its life (lives on food) — this (wind) — which (is) the wind"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "तदेनत् अन्नं लोकलोकपालान्नार्थ्यभिमुखे सृष्टं सत्, यथा मूषकादिर्मार्जारादिगोचरे सन्, मम मृत्युरन्नाद इति मत्वा परागञ्चतीति पराङ् पराक्सत् अत्तॄन् अतीत्य अजिघांसत् अतिगन्तुमैच्छत्, पलायितुं प्रारभतेत्यर्थः । तमन्नाभिप्रायं मत्वा स लोकलोकपालसङ्घातकार्यकरणलक्षणः पिण्डः प्रथमजत्वादन्यांश्चान्नादानपश्यन्, तत् अन्नं वाचा वदनव्यापारेण अजिघृक्षत् ग्रहीतुमैच्छत् । तत् अन्नं नाशक्नोत् न समर्थोऽभवत् वाचा वदनक्रियया ग्रहीतुम् उपादातुम् । सः प्रथमजः शरीरी यत् यदि ह एनत् वाचा अग्रहैष्यत् गृहीतवान्स्यात् अन्नम्, सर्वोऽपि लोकः तत्कार्यभूतत्वात् अभिव्याहृत्य हैव अन्नम् अत्रप्स्यत् तृप्तोऽभविष्यत् । न चैतदस्ति । अतो नाशक्नोद्वाचा ग्रहीतुमित्यवगच्छामः पूर्वजोऽपि । समानमुत्तरम् । तत्प्राणेन तच्चक्षुषा तच्छ्रोत्रेण तत्त्वचा तन्मनसा तच्छिश्नेन तेन तेन करणव्यापारेण अन्नं ग्रहीतुमशक्नुवन्पश्चात् अपानेन वायुना मुखच्छिद्रेण तत् अन्नम् अजिघृक्षत्, तदावयत् तदन्नमेवं जग्राह अशितवान् । तेन स एषः अपानवायुः अन्नस्य ग्रहः अन्नग्राहक इत्येतत् । यद्वायुः यो वायुरन्नायुः अन्नबन्धनोऽन्नजीवनो वै प्रसिद्धः, स एष यो वायुः ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_20",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 20,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.11",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "स ईक्षत कथं न्विदं मदृते स्यादिति स ईक्षत कतरेण प्रपद्या इति स ईक्षत यदि वाचाभिव्याहृतं यदि प्राणेनाभिप्राणितं यदि चक्षुषा दृष्टं यदि श्रोत्रेण श्रुतं यदि त्वचा स्पृष्टं यदि मनसा ध्यातं यद्यपानेनाभ्यपानितं यदि शिश्नेन विसृष्टमथ कोऽहमिति ॥ ११ ॥",
+    "transliteration": "sa īkṣata kathaṃ nvidaṃ madṛte syāditi sa īkṣata katareṇa prapadyā iti sa īkṣata yadi vācābhivyāhṛtaṃ yadi prāṇenābhiprāṇitaṃ yadi cakṣuṣā dṛṣṭaṃ yadi śrotreṇa śrutaṃ yadi tvacā spṛṣṭaṃ yadi manasā dhyātaṃ yadyapānenābhyapānitaṃ yadi śiśnena visṛṣṭamatha ko'hamiti || 11 ||",
+    "translation": "he (the puruṣa/ātman, the lord — svāmin) — he reflected, considered (saw, like a lord surveying his realm) — how, by what means (केन प्रकारेण) — this (body-aggregate), indeed/then — without me (mām antareṇa — apart from me, the lord) — could it exist (function) — thus (he reflected) — he (the ātman) — he reflected, considered — by which (of the two — by which way/opening shall I enter) — let me enter / shall I enter (the body) — thus (he reflected) — he (the ātman) — he reflected, considered — if — if [it is] uttered by speech — if — if [it is] breathed by the prāṇa (breath) — if — by the eye — if [it is] seen — if — by the ear — if [it is] heard — if — by the skin — if [it is] touched — if — by the mind — if [it is] thought / meditated upon — if [it is] down-breathed by the apāna (down-breath) — if — by the generative organ — if [it is] emitted — then (next) — then who am I? — thus (he reflected)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the puruṣa/ātman, the lord — svāmin)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ईक्षत",
+        "word_english": "he reflected, considered (saw, like a lord surveying his realm)",
+        "grammar_role": "√ईक्ष् · लङ्·प्रथम·एक·आत्मनेपद",
+        "root": "ईक्षत"
+      },
+      {
+        "word_sanskrit": "कथं",
+        "word_english": "how, by what means (केन प्रकारेण)",
+        "grammar_role": "अव्यय (प्रश्नार्थक)",
+        "root": "कथम्"
+      },
+      {
+        "word_sanskrit": "न्विदं",
+        "word_english": "this (body-aggregate), indeed/then",
+        "grammar_role": "अव्यय (वितर्के) + इदम् · प्रथमा·एक·नपुं",
+        "root": "नु + इदम्"
+      },
+      {
+        "word_sanskrit": "मदृते",
+        "word_english": "without me (mām antareṇa — apart from me, the lord)",
+        "grammar_role": "अस्मद् · पञ्चमी·एक + अव्यय (वर्जने/अभावे)",
+        "root": "मत् + ऋते"
+      },
+      {
+        "word_sanskrit": "स्यादिति",
+        "word_english": "could it exist (function) — thus (he reflected)",
+        "grammar_role": "√अस् · विधिलिङ्·प्रथम·एक·परस्मैपद + अव्यय",
+        "root": "स्यात् + इति"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the ātman)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ईक्षत",
+        "word_english": "he reflected, considered",
+        "grammar_role": "√ईक्ष् · लङ्·प्रथम·एक·आत्मनेपद",
+        "root": "ईक्षत"
+      },
+      {
+        "word_sanskrit": "कतरेण",
+        "word_english": "by which (of the two — by which way/opening shall I enter)",
+        "grammar_role": "कतर · तृतीया·एक·पुं/नपुं",
+        "root": "कतरेण"
+      },
+      {
+        "word_sanskrit": "प्रपद्या",
+        "word_english": "let me enter / shall I enter (the body)",
+        "grammar_role": "प्र-√पद् · लोट्·उत्तम·एक·आत्मनेपद",
+        "root": "प्रपद्यै"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (he reflected)",
+        "grammar_role": "अव्यय (वाक्यपरिसमाप्तौ)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the ātman)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ईक्षत",
+        "word_english": "he reflected, considered",
+        "grammar_role": "√ईक्ष् · लङ्·प्रथम·एक·आत्मनेपद",
+        "root": "ईक्षत"
+      },
+      {
+        "word_sanskrit": "यदि",
+        "word_english": "if",
+        "grammar_role": "अव्यय (सम्भावने)",
+        "root": "यदि"
+      },
+      {
+        "word_sanskrit": "वाचाभिव्याहृतं",
+        "word_english": "if [it is] uttered by speech",
+        "grammar_role": "वाच् · तृतीया·एक·स्त्री + अभि-वि-आ-√हृ (क्त) · प्रथमा·एक·नपुं",
+        "root": "वाचा + अभिव्याहृतम्"
+      },
+      {
+        "word_sanskrit": "यदि",
+        "word_english": "if",
+        "grammar_role": "अव्यय (सम्भावने)",
+        "root": "यदि"
+      },
+      {
+        "word_sanskrit": "प्राणेनाभिप्राणितं",
+        "word_english": "if [it is] breathed by the prāṇa (breath)",
+        "grammar_role": "प्राण · तृतीया·एक·पुं + अभि-(प्र-√अन्) (क्त) · प्रथमा·एक·नपुं",
+        "root": "प्राणेन + अभिप्राणितम्"
+      },
+      {
+        "word_sanskrit": "यदि",
+        "word_english": "if",
+        "grammar_role": "अव्यय (सम्भावने)",
+        "root": "यदि"
+      },
+      {
+        "word_sanskrit": "चक्षुषा",
+        "word_english": "by the eye",
+        "grammar_role": "चक्षुस् · तृतीया·एक·नपुं",
+        "root": "चक्षुषा"
+      },
+      {
+        "word_sanskrit": "दृष्टं",
+        "word_english": "if [it is] seen",
+        "grammar_role": "√दृश् (क्त) · प्रथमा·एक·नपुं",
+        "root": "दृष्टम्"
+      },
+      {
+        "word_sanskrit": "यदि",
+        "word_english": "if",
+        "grammar_role": "अव्यय (सम्भावने)",
+        "root": "यदि"
+      },
+      {
+        "word_sanskrit": "श्रोत्रेण",
+        "word_english": "by the ear",
+        "grammar_role": "श्रोत्र · तृतीया·एक·नपुं",
+        "root": "श्रोत्रेण"
+      },
+      {
+        "word_sanskrit": "श्रुतं",
+        "word_english": "if [it is] heard",
+        "grammar_role": "√श्रु (क्त) · प्रथमा·एक·नपुं",
+        "root": "श्रुतम्"
+      },
+      {
+        "word_sanskrit": "यदि",
+        "word_english": "if",
+        "grammar_role": "अव्यय (सम्भावने)",
+        "root": "यदि"
+      },
+      {
+        "word_sanskrit": "त्वचा",
+        "word_english": "by the skin",
+        "grammar_role": "त्वच् · तृतीया·एक·स्त्री",
+        "root": "त्वचा"
+      },
+      {
+        "word_sanskrit": "स्पृष्टं",
+        "word_english": "if [it is] touched",
+        "grammar_role": "√स्पृश् (क्त) · प्रथमा·एक·नपुं",
+        "root": "स्पृष्टम्"
+      },
+      {
+        "word_sanskrit": "यदि",
+        "word_english": "if",
+        "grammar_role": "अव्यय (सम्भावने)",
+        "root": "यदि"
+      },
+      {
+        "word_sanskrit": "मनसा",
+        "word_english": "by the mind",
+        "grammar_role": "मनस् · तृतीया·एक·नपुं",
+        "root": "मनसा"
+      },
+      {
+        "word_sanskrit": "ध्यातं",
+        "word_english": "if [it is] thought / meditated upon",
+        "grammar_role": "√ध्यै (क्त) · प्रथमा·एक·नपुं",
+        "root": "ध्यातम्"
+      },
+      {
+        "word_sanskrit": "यद्यपानेनाभ्यपानितं",
+        "word_english": "if [it is] down-breathed by the apāna (down-breath)",
+        "grammar_role": "अव्यय (सम्भावने) + अपान · तृतीया·एक·पुं + अभि-(अप-√अन्) (क्त) · प्रथमा·एक·नपुं",
+        "root": "यदि + अपानेन + अभ्यपानितम्"
+      },
+      {
+        "word_sanskrit": "यदि",
+        "word_english": "if",
+        "grammar_role": "अव्यय (सम्भावने)",
+        "root": "यदि"
+      },
+      {
+        "word_sanskrit": "शिश्नेन",
+        "word_english": "by the generative organ",
+        "grammar_role": "शिश्न · तृतीया·एक·पुं/नपुं",
+        "root": "शिश्नेन"
+      },
+      {
+        "word_sanskrit": "विसृष्टमथ",
+        "word_english": "if [it is] emitted — then (next)",
+        "grammar_role": "वि-√सृज् (क्त) · प्रथमा·एक·नपुं + अव्यय (आनन्तर्ये)",
+        "root": "विसृष्टम् + अथ"
+      },
+      {
+        "word_sanskrit": "कोऽहमिति",
+        "word_english": "then who am I? — thus (he reflected)",
+        "grammar_role": "किम् · प्रथमा·एक·पुं + अस्मद् · प्रथमा·एक + अव्यय",
+        "root": "कः + अहम् + इति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "he (the puruṣa/ātman, the lord — svāmin) — he reflected, considered (saw, like a lord surveying his realm) — how, by what means (केन प्रकारेण) — this (body-aggregate), indeed/then — without me (mām antareṇa — apart from me, the lord) — could it exist (function) — thus (he reflected) — he (the ātman) — he reflected, considered — by which (of the two — by which way/opening shall I enter) — let me enter / shall I enter (the body) — thus (he reflected) — he (the ātman) — he reflected, considered — if — if [it is] uttered by speech — if — if [it is] breathed by the prāṇa (breath) — if — by the eye — if [it is] seen — if — by the ear — if [it is] heard — if — by the skin — if [it is] touched — if — by the mind — if [it is] thought / meditated upon — if [it is] down-breathed by the apāna (down-breath) — if — by the generative organ — if [it is] emitted — then (next) — then who am I? — thus (he reflected)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "सः एवं लोकलोकपालसङ्घातस्थितिम् अन्ननिमित्तां कृत्वा पुरपौरतत्पालयितृस्थितिसमां स्वामीव ईक्षत — कथं नु केन प्रकारेण नु इति वितर्कयन्, इदं मत् ऋते मामन्तरेण पुरस्वामिनम्; यदिदं कार्यकरणसङ्घातकार्यं वक्ष्यमाणं कथं नु खलु मामन्तरेण स्यात् परार्थं सत् । यदि वाचाभिव्याहृतमित्यादि केवलमेव वाग्व्यवहरणादि, तन्निरर्थकं न कथञ्चन भवेत् बलिस्तुत्यादिवत् । पौरबन्द्यादिभिः प्रयुज्यमानं स्वाम्यर्थं सत्स्वामिनमन्तरेण असत्येव स्वामिनि, तद्वत् । तस्मान्मया परेण स्वामिना अधिष्ठात्रा कृताकृतफलसाक्षिभूतेन भोक्त्रा भवितव्यं पुरस्येव राज्ञा । यदि नामैतत्संहतकार्यस्य परार्थत्वम्, परार्थिनं मां चेतनं त्रातारमन्तरेण भवेत्, पुरपौरकार्यमिव तत्स्वामिनम् । अथ कोऽहं किंस्वरूपः कस्य वा स्वामी? यद्यहं कार्यकरणसङ्घातमनुप्रविश्य वागाद्यभिव्याहृतादिफलं नोपलभेय राजेव पुरमाविश्याधिकृतपुरुषकृताकृतादिलक्षणम्, न कश्चिन्माम् अयं सन् एवंरूपश्च इत्यधिगच्छेद्विचारयेत् । विपर्यये तु, योऽयं वागाद्यभिव्याहृतादीदमिति वेद, स सन् वेदनरूपश्च इत्यधिगन्तव्योऽहं स्याम्, यदर्थमिदं संहतानां वागादीनामभिव्याहृतादि । यथा स्तम्भकुड्यादीनां प्रासादादिसंहतानां स्वावयवैरसंहतपरार्थत्वम्, तद्वदिति । एवमीक्षित्वा अतः कतरेण प्रपद्या इति । प्रपदं च मूर्धा च अस्य सङ्घातस्य प्रवेशमार्गौ; अनयोः कतरेण मार्गेणेदं कार्यकरणसङ्घातलक्षणं पुरं प्रपद्यै प्रपद्ये इति ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_21",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 21,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.12",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "स एतमेव सीमानं विदार्यैतया द्वारा प्रापद्यत । सैषा विदृतिर्नाम द्वास्तदेतन्नान्दनम् । तस्य त्रय आवसथास्त्रयः स्वप्ना अयमावसथोऽयमावसथोऽयमावसथ इति ॥ १२ ॥",
+    "transliteration": "sa etameva sīmānaṃ vidāryaitayā dvārā prāpadyata | saiṣā vidṛtirnāma dvāstadetannāndanam | tasya traya āvasathāstrayaḥ svapnā ayamāvasatho'yamāvasatho'yamāvasatha iti || 12 ||",
+    "translation": "he (the creator Lord who, after deliberation, split open and entered) — this very (boundary) — the boundary (the crown, the end of the hair-parting) — having split (it) open, by this — through the door (this passage) — he entered (this aggregate of cause and effect, the body) — this very (door) — Vidṛti by name (so called because it was split open) — the door; and this (door) is Nāndana (= Nandana, bliss/delight; the long ā is Vedic) — of him (who, having thus created, entered by this jīva-self, like a king his city) — three — dwellings (are) three — (three) dreams / sleeping-states — this (is) the dwelling, this the dwelling, this the dwelling — thus (closing the enumeration)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the creator Lord who, after deliberation, split open and entered)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "एतमेव",
+        "word_english": "this very (boundary)",
+        "grammar_role": "एतद् · द्वितीया·एक·पुं + अव्यय (अवधारणे)",
+        "root": "एतम् + एव"
+      },
+      {
+        "word_sanskrit": "सीमानं",
+        "word_english": "the boundary (the crown, the end of the hair-parting)",
+        "grammar_role": "सीमन् · द्वितीया·एक·पुं",
+        "root": "सीमानम्"
+      },
+      {
+        "word_sanskrit": "विदार्यैतया",
+        "word_english": "having split (it) open, by this",
+        "grammar_role": "√दॄ (वि+दॄ) · ल्यप् (अव्यय) + एतद् · तृतीया·एक·स्त्री",
+        "root": "विदार्य + एतया"
+      },
+      {
+        "word_sanskrit": "द्वारा",
+        "word_english": "through the door (this passage)",
+        "grammar_role": "द्वार् · तृतीया·एक·स्त्री",
+        "root": "द्वारा"
+      },
+      {
+        "word_sanskrit": "प्रापद्यत",
+        "word_english": "he entered (this aggregate of cause and effect, the body)",
+        "grammar_role": "√पद् (प्र+पद्) · लङ्·प्रथमपुरुष·एक·आत्मनेपद",
+        "root": "प्रापद्यत"
+      },
+      {
+        "word_sanskrit": "सैषा",
+        "word_english": "this very (door)",
+        "grammar_role": "तद् · प्रथमा·एक·स्त्री + एतद् · प्रथमा·एक·स्त्री",
+        "root": "सा + एषा"
+      },
+      {
+        "word_sanskrit": "विदृतिर्नाम",
+        "word_english": "Vidṛti by name (so called because it was split open)",
+        "grammar_role": "विदृति · प्रथमा·एक·स्त्री + अव्यय (नाम्नि)",
+        "root": "विदृतिः + नाम"
+      },
+      {
+        "word_sanskrit": "द्वास्तदेतन्नान्दनम्",
+        "word_english": "the door; and this (door) is Nāndana (= Nandana, bliss/delight; the long ā is Vedic)",
+        "grammar_role": "द्वार् · प्रथमा·एक·स्त्री + तद् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + नान्दन · प्रथमा·एक·नपुं",
+        "root": "द्वाः + तत् + एतत् + नान्दनम्"
+      },
+      {
+        "word_sanskrit": "तस्य",
+        "word_english": "of him (who, having thus created, entered by this jīva-self, like a king his city)",
+        "grammar_role": "तद् · षष्ठी·एक·पुं",
+        "root": "तस्य"
+      },
+      {
+        "word_sanskrit": "त्रय",
+        "word_english": "three",
+        "grammar_role": "त्रि · प्रथमा·बहु·पुं",
+        "root": "त्रयः"
+      },
+      {
+        "word_sanskrit": "आवसथास्त्रयः",
+        "word_english": "dwellings (are) three",
+        "grammar_role": "आवसथ · प्रथमा·बहु·पुं + त्रि · प्रथमा·बहु·पुं",
+        "root": "आवसथाः + त्रयः"
+      },
+      {
+        "word_sanskrit": "स्वप्ना",
+        "word_english": "(three) dreams / sleeping-states",
+        "grammar_role": "स्वप्न · प्रथमा·बहु·पुं",
+        "root": "स्वप्नाः"
+      },
+      {
+        "word_sanskrit": "अयमावसथोऽयमावसथोऽयमावसथ",
+        "word_english": "this (is) the dwelling, this the dwelling, this the dwelling",
+        "grammar_role": "इदम् · प्रथमा·एक·पुं + आवसथ · प्रथमा·एक·पुं (×३)",
+        "root": "अयम् + आवसथः + अयम् + आवसथः + अयम् + आवसथः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (closing the enumeration)",
+        "grammar_role": "अव्यय (इति-शब्दः, समाप्तौ)",
+        "root": "इति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "he (the creator Lord who, after deliberation, split open and entered) — this very (boundary) — the boundary (the crown, the end of the hair-parting) — having split (it) open, by this — through the door (this passage) — he entered (this aggregate of cause and effect, the body) — this very (door) — Vidṛti by name (so called because it was split open) — the door; and this (door) is Nāndana (= Nandana, bliss/delight; the long ā is Vedic) — of him (who, having thus created, entered by this jīva-self, like a king his city) — three — dwellings (are) three — (three) dreams / sleeping-states — this (is) the dwelling, this the dwelling, this the dwelling — thus (closing the enumeration)"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "एवमीक्षित्वा न तावन्मद्भृत्यस्य प्राणस्य मम सर्वार्थाधिकृतस्य प्रवेशमार्गेण प्रपदाभ्यामधः प्रपद्ये । किं तर्हि, पारिशेष्यादस्य मूर्धानं विदार्य प्रपद्ये इति लोक इव ईक्षितकारी य स्रष्टेश्वरः, स एतमेव मूर्धसीमानं केशविभागावसानं विदार्य च्छिद्रं कृत्वा एतया द्वारा मार्गेण इमं कार्यकारणसङ्घातं प्रापद्यत प्रविवेश । सेयं हि प्रसिद्धा द्वाः, मूर्ध्नि तैलादिधारणकाले अन्तस्तद्रसादिसंवेदनात् । सैषा विदृतिः विदारितत्वाद्विदृतिर्नाम प्रसिद्धा द्वाः । इतराणि तु श्रोत्रादिद्वाराणि भृत्यादिस्थानीयसाधारणमार्गत्वान्न समृद्धीनि नानन्दहेतूनि । इदं तु द्वारं परमेश्वरस्यैव केवलस्येति । तदेतत् नान्दनं नन्दनमेव । नान्दनमिति दैर्घ्यं छान्दसम् । नन्दत्यनेन द्वारेण गत्वा परस्मिन्ब्रह्मणीति । तस्यैवं सृष्ट्वा प्रविष्टस्यानेन जीवेनात्मना राज्ञ इव पुरम्, त्रय आवसथाः — जागरितकाले इन्द्रियस्थानं दक्षिणं चक्षुः, स्वप्नकाले अन्तर्मनः, सुषुप्तिकाले हृदयाकाश इत्येते; वक्ष्यमाणा वा त्रय आवसथाः — पितृशरीरं मातृगर्भाशयः स्वं च शरीरमिति । त्रयः स्वप्ना जाग्रत्स्वप्नसुषुप्त्याख्याः । ननु जागरितं प्रबोधरूपत्वान्न स्वप्नः । नैवम्; स्वप्न एव । कथम्? परमार्थस्वात्मप्रबोधाभावात् स्वप्नवदसद्वस्तुदर्शनाच्च । अयमेव आवसथश्चक्षुर्दक्षिणं प्रथमः । मनोऽन्तरं द्वितीयः । हृदयाकाशस्तृतीयः । अयमावसथः इत्युक्तानुकीर्तनमेव । तेषु ह्ययमावसथेषु पर्यायेणात्मभावेन वर्तमानोऽविद्यया दीर्घकालं गाढं प्रसुप्तः स्वाभाविक्या, न प्रबुध्यतेऽनेकशतसहस्रानर्थसंनिपादजदुःखमुद्गराभिघातानुभवैरपि ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_22",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 22,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.13",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "स जातो भूतान्यभिव्यैख्यत्किमिहान्यं वावदिषदिति । स एतमेव पुरुषं ब्रह्म ततममपश्यदिदमदर्शमिती३ ॥ १३ ॥",
+    "transliteration": "sa jāto bhūtānyabhivyaikhyatkimihānyaṃ vāvadiṣaditi | sa etameva puruṣaṃ brahma tatamamapaśyadidamadarśamitī3 || 13 ||",
+    "translation": "he (the created one, the jīvātman who entered the body) — born — i.e. having entered the body as the jīvātman — he articulated/distinguished the beings (vyākarot); what else here — would he (wish to) speak/declare? — 'what else here is there to speak of?' — he — this very (Person) — the one set forth as the creator — the Person, the Self lying within the city (puri śayānam ātmānam) — Brahman, the vast (bṛhat) — he perceived (prati-abudhyata) the most-pervading, all-filling, ākāśa-like (Brahman); '(it is) this — I have seen (it)!'",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (the created one, the jīvātman who entered the body)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "जातो",
+        "word_english": "born — i.e. having entered the body as the jīvātman",
+        "grammar_role": "√जन् (जात) · कर्तरि भूतकृदन्त · प्रथमा·एक·पुं",
+        "root": "जातः"
+      },
+      {
+        "word_sanskrit": "भूतान्यभिव्यैख्यत्किमिहान्यं",
+        "word_english": "he articulated/distinguished the beings (vyākarot); what else here",
+        "grammar_role": "भूत · द्वितीया·बहु·नपुं + √ख्या (अभि-वि-आ) · लङ्·प्रथमपुरुष·एक·परस्मै + किम् · द्वितीया·एक·नपुं (अव्ययवत्) + इह · अव्यय (देशवाचक) + अन्य · द्वितीया·एक·पुं",
+        "root": "भूतानि + अभिव्यैख्यत् + किम् + इह + अन्यम्"
+      },
+      {
+        "word_sanskrit": "वावदिषदिति",
+        "word_english": "would he (wish to) speak/declare? — 'what else here is there to speak of?'",
+        "grammar_role": "√वद् (सन्नन्त, वक्तुमिच्छायाम्) · लुङ्·प्रथमपुरुष·एक·परस्मै + इति · अव्यय",
+        "root": "वावदिषत् + इति"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "एतमेव",
+        "word_english": "this very (Person) — the one set forth as the creator",
+        "grammar_role": "एतद् · द्वितीया·एक·पुं + एव · अव्यय (अवधारणे)",
+        "root": "एतम् + एव"
+      },
+      {
+        "word_sanskrit": "पुरुषं",
+        "word_english": "the Person, the Self lying within the city (puri śayānam ātmānam)",
+        "grammar_role": "पुरुष · द्वितीया·एक·पुं",
+        "root": "पुरुषम्"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman, the vast (bṛhat)",
+        "grammar_role": "ब्रह्मन् · द्वितीया·एक·नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "ततममपश्यदिदमदर्शमिती३",
+        "word_english": "he perceived (prati-abudhyata) the most-pervading, all-filling, ākāśa-like (Brahman); '(it is) this — I have seen (it)!'",
+        "grammar_role": "तततम (तकारेणैकेन लुप्तेन; व्याप्ततम) · द्वितीया·एक·नपुं + √दृश् · लङ्·प्रथमपुरुष·एक·परस्मै + इदम् · प्रथमा·एक·नपुं + √दृश् · लुङ्·उत्तमपुरुष·एक·परस्मै + इति · अव्यय (इती३ इति प्लुतः, विचारणार्थः)",
+        "root": "ततमम् + अपश्यत् + इदम् + अदर्शम् + इति"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "he (the created one, the jīvātman who entered the body) — born — i.e. having entered the body as the jīvātman — he articulated/distinguished the beings (vyākarot); what else here — would he (wish to) speak/declare? — 'what else here is there to speak of?' — he — this very (Person) — the one set forth as the creator — the Person, the Self lying within the city (puri śayānam ātmānam) — Brahman, the vast (bṛhat) — he perceived (prati-abudhyata) the most-pervading, all-filling, ākāśa-like (Brahman); '(it is) this — I have seen (it)!'"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "स जातः शरीरे प्रविष्टो जीवात्मना भूतानि अभिव्यैख्यत् व्याकरोत् । स कदाचित्परमकारुणिकेन आचार्येणात्मज्ञानप्रबोधकृच्छब्दिकायां वेदान्तमहाभेर्यां तत्कर्णमूले ताड्यमानायाम्, एतमेव सृष्ट्यादिकर्तृत्वेन प्रकृतं पुरुषं पुरि शयानमात्मानं ब्रह्म बृहत् ततमं तकारेणैकेन लुप्तेन तततमं व्याप्ततमं परिपूर्णमाकाशवत् प्रत्यबुध्यत अपश्यत् । कथम्? इदं ब्रह्म मम आत्मनः स्वरूपमदर्शं दृष्टवानस्मि । अहो इति । विचारणार्था प्लुतिः पूर्वम् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  },
+  {
+    "id": "upanishad-aitareya_1_23",
+    "metadata": {
+      "scripture_name": "Aitareya Upanishad",
+      "scripture_slug": "upanishad-aitareya",
+      "chapter_slug": "chapter-1",
+      "chapter_name": "Adhyāya 1: Creation of Cosmos",
+      "verse_number": 23,
+      "chapter_number": 1,
+      "mantra_ref": "1.3.14",
+      "source_url": ""
+    },
+    "section_title": "तृतीयः खण्डः",
+    "sanskrit_shloka": "तस्मादिदन्द्रो नामेदन्द्रो ह वै नाम तमिदन्द्रं सन्तमिन्द्र इत्याचक्षते परोक्षेण । परोक्षप्रिया इव हि देवाः परोक्षप्रिया इव हि देवाः ॥ १४ ॥ इति तृतीयः खण्डः ॥",
+    "transliteration": "tasmādidandro nāmedandro ha vai nāma tamidandraṃ santamindra ityācakṣate parokṣeṇa | parokṣapriyā iva hi devāḥ parokṣapriyā iva hi devāḥ || 14 || iti tṛtīyaḥ khaṇḍaḥ ||",
+    "translation": "therefore (he is) Idandra (the one who saw 'this', idam) — Idandra by name — indeed (well-known, emphatic) — verily, truly — by name (so called) — him, (who is) Idandra — (him) being (Idandra) — as 'Indra' — thus they call (him) — indirectly, by a cryptic name — fond of the indirect (cryptic names) — as it were — for, indeed — the gods — fond of the indirect (cryptic names) — as it were — for, indeed — the gods — thus (end of section) — the third — section, chapter",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मादिदन्द्रो",
+        "word_english": "therefore (he is) Idandra (the one who saw 'this', idam)",
+        "grammar_role": "तद् · पञ्चमी·एक (अव्ययवत् कारणे, 'therefore') + इदन्द्र · प्रथमा·एक·पुं",
+        "root": "तस्मात् + इदन्द्रः"
+      },
+      {
+        "word_sanskrit": "नामेदन्द्रो",
+        "word_english": "Idandra by name",
+        "grammar_role": "नामन् · अव्यय (नामार्थे, 'by name') + इदन्द्र · प्रथमा·एक·पुं",
+        "root": "नाम + इदन्द्रः"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed (well-known, emphatic)",
+        "grammar_role": "अव्यय (निपात, प्रसिद्धौ/स्मरणे)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "verily, truly",
+        "grammar_role": "अव्यय (निपात, अवधारणे/प्रसिद्धौ)",
+        "root": "वै"
+      },
+      {
+        "word_sanskrit": "नाम",
+        "word_english": "by name (so called)",
+        "grammar_role": "नामन् · अव्यय (नामार्थे, 'by name')",
+        "root": "नाम"
+      },
+      {
+        "word_sanskrit": "तमिदन्द्रं",
+        "word_english": "him, (who is) Idandra",
+        "grammar_role": "तद् · द्वितीया·एक·पुं + इदन्द्र · द्वितीया·एक·पुं",
+        "root": "तम् + इदन्द्रम्"
+      },
+      {
+        "word_sanskrit": "सन्तमिन्द्र",
+        "word_english": "(him) being (Idandra) — as 'Indra'",
+        "grammar_role": "सत् (√अस्, शतृ) · द्वितीया·एक·पुं + इन्द्र · प्रथमा·एक·पुं (इति-उपपदे, उद्धृतम्)",
+        "root": "सन्तम् + इन्द्रः"
+      },
+      {
+        "word_sanskrit": "इत्याचक्षते",
+        "word_english": "thus they call (him)",
+        "grammar_role": "इति · अव्यय (उद्धरणे/इत्थम्भावे) + आ-√चक्ष् · लट्·प्रथम·बहु·आत्मनेपद",
+        "root": "इति + आचक्षते"
+      },
+      {
+        "word_sanskrit": "परोक्षेण",
+        "word_english": "indirectly, by a cryptic name",
+        "grammar_role": "परोक्ष · तृतीया·एक·नपुं (क्रियाविशेषणवत्, 'परोक्षाभिधानेन')",
+        "root": "परोक्षेण"
+      },
+      {
+        "word_sanskrit": "परोक्षप्रिया",
+        "word_english": "fond of the indirect (cryptic names)",
+        "grammar_role": "परोक्ष-प्रिय · प्रथमा·बहु·पुं (बहुव्रीहि: परोक्षं प्रियं येषाम्)",
+        "root": "परोक्ष-प्रियाः"
+      },
+      {
+        "word_sanskrit": "इव",
+        "word_english": "as it were",
+        "grammar_role": "अव्यय (निपात, इवार्थे/उपमायाम्)",
+        "root": "इव"
+      },
+      {
+        "word_sanskrit": "हि",
+        "word_english": "for, indeed",
+        "grammar_role": "अव्यय (निपात, हेतौ)",
+        "root": "हि"
+      },
+      {
+        "word_sanskrit": "देवाः",
+        "word_english": "the gods",
+        "grammar_role": "देव · प्रथमा·बहु·पुं",
+        "root": "देवाः"
+      },
+      {
+        "word_sanskrit": "परोक्षप्रिया",
+        "word_english": "fond of the indirect (cryptic names)",
+        "grammar_role": "परोक्ष-प्रिय · प्रथमा·बहु·पुं (बहुव्रीहि: परोक्षं प्रियं येषाम्)",
+        "root": "परोक्ष-प्रियाः"
+      },
+      {
+        "word_sanskrit": "इव",
+        "word_english": "as it were",
+        "grammar_role": "अव्यय (निपात, इवार्थे/उपमायाम्)",
+        "root": "इव"
+      },
+      {
+        "word_sanskrit": "हि",
+        "word_english": "for, indeed",
+        "grammar_role": "अव्यय (निपात, हेतौ)",
+        "root": "हि"
+      },
+      {
+        "word_sanskrit": "देवाः",
+        "word_english": "the gods",
+        "grammar_role": "देव · प्रथमा·बहु·पुं",
+        "root": "देवाः"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus (end of section)",
+        "grammar_role": "इति · अव्यय (समाप्तौ)",
+        "root": "इति"
+      },
+      {
+        "word_sanskrit": "तृतीयः",
+        "word_english": "the third",
+        "grammar_role": "तृतीय · प्रथमा·एक·पुं (पूरणवाचक)",
+        "root": "तृतीयः"
+      },
+      {
+        "word_sanskrit": "खण्डः",
+        "word_english": "section, chapter",
+        "grammar_role": "खण्ड · प्रथमा·एक·पुं",
+        "root": "खण्डः"
+      }
+    ],
+    "translations": [
+      {
+        "author": "Canonical English Gloss",
+        "language": "english",
+        "text": "therefore (he is) Idandra (the one who saw 'this', idam) — Idandra by name — indeed (well-known, emphatic) — verily, truly — by name (so called) — him, (who is) Idandra — (him) being (Idandra) — as 'Indra' — thus they call (him) — indirectly, by a cryptic name — fond of the indirect (cryptic names) — as it were — for, indeed — the gods — fond of the indirect (cryptic names) — as it were — for, indeed — the gods — thus (end of section) — the third — section, chapter"
+      }
+    ],
+    "commentaries": [
+      {
+        "author": "Adi Shankaracharya Bhashya",
+        "school": "Advaita Vedanta",
+        "language": "sanskrit",
+        "text": "यस्मादिदमित्येव यत्साक्षादपरोक्षाद्ब्रह्म सर्वान्तरमपश्यत् न परोक्षेण, तस्मात् इदं पश्यतीति इदन्द्रो नाम परमात्मा । इदन्द्रो ह वै नाम प्रसिद्धो लोके ईश्वरः । तम् एवम् इदन्द्रं सन्तम् इन्द्र इति परोक्षेण परोक्षाभिधानेन आचक्षते ब्रह्मविदः संव्यवहारार्थं पूज्यतमत्वात्प्रत्यक्षनामग्रहणभयात् । तथा हि परोक्षप्रियाः परोक्षनामग्रहणप्रिया इव एव हि यस्मात् देवाः । किमुत सर्वदेवानामपि देवो महेश्वरः । द्विर्वचनं प्रकृताध्यायपरिसमाप्त्यर्थम् ॥"
+      }
+    ],
+    "commentary_faqs": []
+  }
+]

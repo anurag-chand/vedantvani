@@ -1,56 +1,56 @@
 [
   {
     "chapter_number": 1,
-    "name": "Chapter 1",
-    "name_sanskrit": "",
-    "name_transliterated": "Chapter 1",
+    "name": "Question 1: Origin of Beings",
+    "name_sanskrit": "प्रथमः प्रश्नः",
+    "name_transliterated": "Question 1: Origin of Beings",
     "verses_count": 16,
-    "summary": "Chapter 1 of Prashna Upanishad containing 16 verses.",
+    "summary": "Kabandhī's query to Pippalāda on the origin of creation through Prāṇa and Rayi",
     "summary_hindi": ""
   },
   {
     "chapter_number": 2,
-    "name": "Chapter 2",
-    "name_sanskrit": "",
-    "name_transliterated": "Chapter 2",
+    "name": "Question 2: Glory of Prāṇa",
+    "name_sanskrit": "द्वितीयः प्रश्नः",
+    "name_transliterated": "Question 2: Glory of Prāṇa",
     "verses_count": 13,
-    "summary": "Chapter 2 of Prashna Upanishad containing 13 verses.",
+    "summary": "Bhārgava Vaidarbhi's query on the senses and the supreme sustainer Prāṇa",
     "summary_hindi": ""
   },
   {
     "chapter_number": 3,
-    "name": "Chapter 3",
-    "name_sanskrit": "",
-    "name_transliterated": "Chapter 3",
+    "name": "Question 3: Nature of Prāṇa",
+    "name_sanskrit": "तृतीयः प्रश्नः",
+    "name_transliterated": "Question 3: Nature of Prāṇa",
     "verses_count": 12,
-    "summary": "Chapter 3 of Prashna Upanishad containing 12 verses.",
+    "summary": "Kausalya's query on the fivefold division and functioning of vital Prāṇa",
     "summary_hindi": ""
   },
   {
     "chapter_number": 4,
-    "name": "Chapter 4",
-    "name_sanskrit": "",
-    "name_transliterated": "Chapter 4",
+    "name": "Question 4: Dream and Deep Sleep",
+    "name_sanskrit": "चतुर्थः प्रश्नः",
+    "name_transliterated": "Question 4: Dream and Deep Sleep",
     "verses_count": 11,
-    "summary": "Chapter 4 of Prashna Upanishad containing 11 verses.",
+    "summary": "Sauryāyaṇī Gārgya's query on sleep, dreams, and the witnessing Self",
     "summary_hindi": ""
   },
   {
     "chapter_number": 5,
-    "name": "Chapter 5",
-    "name_sanskrit": "",
-    "name_transliterated": "Chapter 5",
+    "name": "Question 5: Meditation on Om",
+    "name_sanskrit": "पञ्चमः प्रश्नः",
+    "name_transliterated": "Question 5: Meditation on Om",
     "verses_count": 7,
-    "summary": "Chapter 5 of Prashna Upanishad containing 7 verses.",
+    "summary": "Satyakāma's query on meditation upon the sacred syllable Om with three mātrās",
     "summary_hindi": ""
   },
   {
     "chapter_number": 6,
-    "name": "Chapter 6",
-    "name_sanskrit": "",
-    "name_transliterated": "Chapter 6",
+    "name": "Question 6: Sixteen Kalās",
+    "name_sanskrit": "षष्ठः प्रश्नः",
+    "name_transliterated": "Question 6: Sixteen Kalās",
     "verses_count": 8,
-    "summary": "Chapter 6 of Prashna Upanishad containing 8 verses.",
+    "summary": "Sukeśā Bhāradvāja's query on the Puruṣa with sixteen limbs/kalās",
     "summary_hindi": ""
   }
 ]

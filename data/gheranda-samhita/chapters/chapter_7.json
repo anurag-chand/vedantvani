@@ -1,0 +1,853 @@
+[
+  {
+    "id": "gheranda-samhita_7_1",
+    "verse_number": 1,
+    "chapter_number": 7,
+    "sanskrit_shloka": "घेरण्ड उवाच । समाधिश्च परो योगो बहुभाग्येन लभ्यते । गुरोः कृपाप्रसादेन प्राप्यते गुरुभक्तितः ॥",
+    "text": "घेरण्ड उवाच । समाधिश्च परो योगो बहुभाग्येन लभ्यते । गुरोः कृपाप्रसादेन प्राप्यते गुरुभक्तितः ॥",
+    "transliteration": "Gheraṇḍa uvāca | Samādhiśca paro yogo bahubhāgyena labhyate | Guroḥ kṛpāprasādena prāpyate gurubhaktitaḥ ||",
+    "translation": "Gheranda said: Samadhi is the supreme yoga; it is obtained through great merit (good fortune). It is attained by the grace of the Guru and through devotion to the Guru.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Gheranda said: Samadhi is the supreme yoga; it is obtained through great merit (good fortune). It is attained by the grace of the Guru and through devotion to the Guru.",
+        "text": "Gheranda said: Samadhi is the supreme yoga; it is obtained through great merit (good fortune). It is attained by the grace of the Guru and through devotion to the Guru."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "घेरण्ड बोले: समाधि ही परम योग है; यह महान सौभाग्य से प्राप्त होता है। यह गुरु की कृपा और गुरुभक्ति के द्वारा प्राप्त किया जाता है।",
+        "text": "घेरण्ड बोले: समाधि ही परम योग है; यह महान सौभाग्य से प्राप्त होता है। यह गुरु की कृपा और गुरुभक्ति के द्वारा प्राप्त किया जाता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Samadhi Yoga",
+        "answer": "The necessity of Guru's grace and devotion for the attainment of the highest yogic state (Samadhi)."
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The verse highlights the psychological necessity of surrender and gratitude, which serves as a therapy for anxiety, ego-centric distress, and spiritual exhaustion."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_2",
+    "verse_number": 2,
+    "chapter_number": 7,
+    "sanskrit_shloka": "विद्याप्रतीतिः स्वगुरुप्रतीतिरात्मप्रतीतिर्मनसः प्रबोधः । दिने दिने यस्य भवेत्स योगी सुशोभनाभ्यासमुपैति सद्यः ॥",
+    "text": "विद्याप्रतीतिः स्वगुरुप्रतीतिरात्मप्रतीतिर्मनसः प्रबोधः । दिने दिने यस्य भवेत्स योगी सुशोभनाभ्यासमुपैति सद्यः ॥",
+    "transliteration": "vidyāpratītiḥ svagurupratītirātmapratītirmanasaḥ prabodhaḥ | dine dine yasya bhavetsayogī suśobhanābhyāsamupaiti sadyaḥ ||",
+    "translation": "The firm conviction in knowledge, the firm conviction in one's own Guru, the firm conviction in the Self, and the awakening of the mind—he in whom these occur day by day, that practitioner attains the most excellent state of meditative absorption immediately.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "The firm conviction in knowledge, the firm conviction in one's own Guru, the firm conviction in the Self, and the awakening of the mind—he in whom these occur day by day, that practitioner attains the most excellent state of meditative absorption immediately.",
+        "text": "The firm conviction in knowledge, the firm conviction in one's own Guru, the firm conviction in the Self, and the awakening of the mind—he in whom these occur day by day, that practitioner attains the most excellent state of meditative absorption immediately."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "विद्या में प्रतीति, अपने गुरु में प्रतीति, आत्म-प्रतीति और मन का प्रबोध (जागृति) जिसके हृदय में प्रतिदिन उदय होते हैं, वह योगी शीघ्र ही उत्तम अभ्यास (समाधि) को प्राप्त कर लेता है।",
+        "text": "विद्या में प्रतीति, अपने गुरु में प्रतीति, आत्म-प्रतीति और मन का प्रबोध (जागृति) जिसके हृदय में प्रतिदिन उदय होते हैं, वह योगी शीघ्र ही उत्तम अभ्यास (समाधि) को प्राप्त कर लेता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Dhyana (Meditation) and Viveka (Discrimination)",
+        "answer": "The foundational necessity of faith (pratīti) and self-awareness for spiritual attainment."
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Used to alleviate cognitive dissonance and psychological instability by anchoring the mind through faith and self-knowledge, helping to manage stress-induced mental fatigue."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_3",
+    "verse_number": 3,
+    "chapter_number": 7,
+    "sanskrit_shloka": "घटाद्भिन्नं मनः कृत्वा ऐक्यं कुर्यात्परात्मनि । समाधिं तं विजानीयान्मुक्तसंज्ञो दशादिभिः ॥",
+    "text": "घटाद्भिन्नं मनः कृत्वा ऐक्यं कुर्यात्परात्मनि । समाधिं तं विजानीयान्मुक्तसंज्ञो दशादिभिः ॥",
+    "transliteration": "ghaṭādbhinnaṃ manaḥ kṛtvā aikyaṃ kuryāṭparātmani | samādhiṃ taṃ vijānīyānmuktasaṃjño daśādibhiḥ ||",
+    "translation": "Having made the mind separate from the body (the pot), one should establish union with the Supreme Self. Know that state to be Samadhi, where one is considered liberated from the ten states and conditions.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Having made the mind separate from the body (the pot), one should establish union with the Supreme Self. Know that state to be Samadhi, where one is considered liberated from the ten states and conditions.",
+        "text": "Having made the mind separate from the body (the pot), one should establish union with the Supreme Self. Know that state to be Samadhi, where one is considered liberated from the ten states and conditions."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "मन को शरीर (घट) से भिन्न करके परमात्मा में उसका एकत्व (विलय) करना चाहिए। उस अवस्था को समाधि समझना चाहिए, जिसमें साधक दस दशाओं आदि से मुक्त हो जाता है।",
+        "text": "मन को शरीर (घट) से भिन्न करके परमात्मा में उसका एकत्व (विलय) करना चाहिए। उस अवस्था को समाधि समझना चाहिए, जिसमें साधक दस दशाओं आदि से मुक्त हो जाता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Samadhi/Dhyana",
+        "answer": "Atma-aikya (Union of the individual consciousness with the Supreme)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Stress reduction and psychological detachment from somatic identification, aiding in psychosomatic healing."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_4",
+    "verse_number": 4,
+    "chapter_number": 7,
+    "sanskrit_shloka": "अहं ब्रह्म न चान्योऽस्मि ब्रह्मैवाहं न शोकभाक् । सच्चिदानन्दरूपोऽहं नित्यमुक्तः स्वभाववान् ॥",
+    "text": "अहं ब्रह्म न चान्योऽस्मि ब्रह्मैवाहं न शोकभाक् । सच्चिदानन्दरूपोऽहं नित्यमुक्तः स्वभाववान् ॥",
+    "transliteration": "ahaṃ brahma na cānyo'smi brahmaivāhaṃ na śokabhāk | saccidānandarūpo'haṃ nityamuktaḥ svabhāvavān ||",
+    "translation": "I am Brahman and nothing else; I am verily Brahman, not subject to grief. I am of the nature of Existence, Consciousness, and Bliss; I am eternally free and established in my own essential nature.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "I am Brahman and nothing else; I am verily Brahman, not subject to grief. I am of the nature of Existence, Consciousness, and Bliss; I am eternally free and established in my own essential nature.",
+        "text": "I am Brahman and nothing else; I am verily Brahman, not subject to grief. I am of the nature of Existence, Consciousness, and Bliss; I am eternally free and established in my own essential nature."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "मैं ब्रह्म ही हूँ, उससे भिन्न कुछ नहीं हूँ। मैं साक्षात् ब्रह्म हूँ, मैं शोक का भागी नहीं हूँ। मैं सच्चिदानंद स्वरूप हूँ, मैं नित्य मुक्त हूँ और अपने स्वभाव में स्थित हूँ।",
+        "text": "मैं ब्रह्म ही हूँ, उससे भिन्न कुछ नहीं हूँ। मैं साक्षात् ब्रह्म हूँ, मैं शोक का भागी नहीं हूँ। मैं सच्चिदानंद स्वरूप हूँ, मैं नित्य मुक्त हूँ और अपने स्वभाव में स्थित हूँ।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Jnana Yoga / Nididhyasana",
+        "answer": "Atma-Brahma-Aikya (Non-duality of Self and Brahman)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The cultivation of Self-identity as Brahman serves as a cognitive intervention for existential anxiety and psychological trauma, promoting emotional stability through the de-identification with the suffering ego."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_5",
+    "verse_number": 5,
+    "chapter_number": 7,
+    "sanskrit_shloka": "शाम्भव्या चैव भ्रामर्या खेचर्या योनिमुद्रया । ध्यानं नादं रसानन्दं लयसिद्धिश्चतुर्विधा ॥",
+    "text": "शाम्भव्या चैव भ्रामर्या खेचर्या योनिमुद्रया । ध्यानं नादं रसानन्दं लयसिद्धिश्चतुर्विधा ॥",
+    "transliteration": "śāmb dravyā caiva bhrāmaryā khecaryā yonimudrayā | dhyānaṃ nādaṃ rasānandaṃ layasiddhiścaturvidhā ||",
+    "translation": "Through Shambhavi, Bhramari, Khechari, and Yoni mudra, four kinds of Laya-siddhi (dissolution attainment) occur: Dhyana (meditation), Nada (inner sound), Rasananda (bliss of taste), and Laya (absorption).",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Through Shambhavi, Bhramari, Khechari, and Yoni mudra, four kinds of Laya-siddhi (dissolution attainment) occur: Dhyana (meditation), Nada (inner sound), Rasananda (bliss of taste), and Laya (absorption).",
+        "text": "Through Shambhavi, Bhramari, Khechari, and Yoni mudra, four kinds of Laya-siddhi (dissolution attainment) occur: Dhyana (meditation), Nada (inner sound), Rasananda (bliss of taste), and Laya (absorption)."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "शाम्भवी, भ्रामरी, खेचरी और योनि मुद्रा के माध्यम से लयसिद्धि चार प्रकार की होती है: ध्यान, नाद, रसानन्द और लय।",
+        "text": "शाम्भवी, भ्रामरी, खेचरी और योनि मुद्रा के माध्यम से लयसिद्धि चार प्रकार की होती है: ध्यान, नाद, रसानन्द और लय।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Shambhavi Mudra, Bhramari Mudra, Khechari Mudra, Yoni Mudra",
+        "answer": "Laya-siddhi (Attainment of dissolution)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The practice of these mudras is beneficial for reducing stress, stabilizing the nervous system, and managing psychosomatic disorders through deep internal absorption."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_6",
+    "verse_number": 6,
+    "chapter_number": 7,
+    "sanskrit_shloka": "पञ्चधा भक्तियोगेन मनोमूर्च्छा च षड्विधा । षड्विधोऽयं राजयोगः प्रत्येकमवधारयेत् ॥",
+    "text": "पञ्चधा भक्तियोगेन मनोमूर्च्छा च षड्विधा । षड्विधोऽयं राजयोगः प्रत्येकमवधारयेत् ॥",
+    "transliteration": "pañcadhā bhaktiyogena manomūrcchā ca ṣaḍvidhā । ṣaḍvidho'yaṃ rājayogaḥ pratyekamavadhārayet ॥",
+    "translation": "Bhakti Yoga is five-fold, and Mano-murcha is six-fold. This Raja Yoga is also six-fold; one should understand each of these distinctly.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Bhakti Yoga is five-fold, and Mano-murcha is six-fold. This Raja Yoga is also six-fold; one should understand each of these distinctly.",
+        "text": "Bhakti Yoga is five-fold, and Mano-murcha is six-fold. This Raja Yoga is also six-fold; one should understand each of these distinctly."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "भक्तियोग पाँच प्रकार का है और मनोमूर्च्छा छः प्रकार की है। यह राजयोग भी छः प्रकार का कहा गया है; साधक को इन सबको पृथक्-पृथक् समझ लेना चाहिए।",
+        "text": "भक्तियोग पाँच प्रकार का है और मनोमूर्च्छा छः प्रकार की है। यह राजयोग भी छः प्रकार का कहा गया है; साधक को इन सबको पृथक्-पृथक् समझ लेना चाहिए।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Raja Yoga and Mano-murcha (a meditative technique)",
+        "answer": "Classification of spiritual and mental disciplines into specific modalities"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The practice of Mano-murcha is relevant for regulating autonomic nervous system disorders and deep stress management"
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_7",
+    "verse_number": 7,
+    "chapter_number": 7,
+    "sanskrit_shloka": "शाम्भवीं मुद्रिकां कृत्वा आत्मप्रत्यक्षमानयेत् । बिन्दु ब्रह्ममयं दृष्ट्वा मनस्तत्र नियोजयेत् ॥",
+    "text": "शाम्भवीं मुद्रिकां कृत्वा आत्मप्रत्यक्षमानयेत् । बिन्दु ब्रह्ममयं दृष्ट्वा मनस्तत्र नियोजयेत् ॥",
+    "transliteration": "śāmbhavīṁ mudrikāṁ kṛtvā ātmapratyakṣamānayet । bindu brahmamayaṁ dṛṣṭvā manastatra niyojayet ॥",
+    "translation": "Having performed the Shambhavi Mudra, one should bring forth the perception of the Self. Having witnessed the point (Bindu) as identical to Brahman, one should fix the mind therein.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Having performed the Shambhavi Mudra, one should bring forth the perception of the Self. Having witnessed the point (Bindu) as identical to Brahman, one should fix the mind therein.",
+        "text": "Having performed the Shambhavi Mudra, one should bring forth the perception of the Self. Having witnessed the point (Bindu) as identical to Brahman, one should fix the mind therein."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "शाम्भवी मुद्रा का अभ्यास करके साधक को आत्म-प्रत्यक्ष करना चाहिए। उस ब्रह्ममय बिन्दु का दर्शन करके मन को उसी में स्थिर कर देना चाहिए।",
+        "text": "शाम्भवी मुद्रा का अभ्यास करके साधक को आत्म-प्रत्यक्ष करना चाहिए। उस ब्रह्ममय बिन्दु का दर्शन करके मन को उसी में स्थिर कर देना चाहिए।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Shambhavi Mudra",
+        "answer": "Dhyana-Yoga-Samadhi (Absorption through meditative focus)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Used for psychological grounding and stabilizing mental fluctuations (anxiety and over-thinking)"
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_8",
+    "verse_number": 8,
+    "chapter_number": 7,
+    "sanskrit_shloka": "खमध्ये कुरु चात्मानमात्ममध्ये च खं कुरु । आत्मानं खमयं दृष्ट्वा न किञ्चिदपि बाधते । सदानन्दमयो भूत्वा समाधिस्थो भवेन्नरः ॥",
+    "text": "खमध्ये कुरु चात्मानमात्ममध्ये च खं कुरु । आत्मानं खमयं दृष्ट्वा न किञ्चिदपि बाधते । सदानन्दमयो भूत्वा समाधिस्थो भवेन्नरः ॥",
+    "transliteration": "khamadhye kuru cātmānamātmamadhye ca khaṃ kuru | ātmānaṃ khamayaṃ dṛṣṭvā na kiñcidapi bādhate | sadānandamayo bhūtvā samādhistho bhavennaraḥ ||",
+    "translation": "Establish the self within the void (space/consciousness) and establish the void within the self. Having perceived the self as being composed of the void, nothing at all can obstruct or afflict one. Thus, becoming filled with eternal bliss, the human attains the state of Samadhi.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Establish the self within the void (space/consciousness) and establish the void within the self. Having perceived the self as being composed of the void, nothing at all can obstruct or afflict one. Thus, becoming filled with eternal bliss, the human attains the state of Samadhi.",
+        "text": "Establish the self within the void (space/consciousness) and establish the void within the self. Having perceived the self as being composed of the void, nothing at all can obstruct or afflict one. Thus, becoming filled with eternal bliss, the human attains the state of Samadhi."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "आकाश (शून्य) में आत्मा को स्थित करो और आत्मा में आकाश को स्थित करो। आत्मा को आकाश स्वरूप (चिदाकाश) देखकर, उसे कुछ भी बाधित नहीं कर सकता। सदा आनंदमय होकर मनुष्य समाधिस्थ हो जाता है।",
+        "text": "आकाश (शून्य) में आत्मा को स्थित करो और आत्मा में आकाश को स्थित करो। आत्मा को आकाश स्वरूप (चिदाकाश) देखकर, उसे कुछ भी बाधित नहीं कर सकता। सदा आनंदमय होकर मनुष्य समाधिस्थ हो जाता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Akasha Dharana (meditation on the void/space element)",
+        "answer": "Identification of Atman with Chidakasha (the space of consciousness)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Used for stress reduction, cognitive clarity, and detachment from psychosomatic pain"
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_9",
+    "verse_number": 9,
+    "chapter_number": 7,
+    "sanskrit_shloka": "अथ नादयोगसमाधिः । अनिलं मन्दवेगेन भ्रामरीकुम्भकं चरेत् । मन्दं मन्दं रेचयेद्वायुं भृङ्गनादं ततो भवेत् ॥",
+    "text": "अथ नादयोगसमाधिः । अनिलं मन्दवेगेन भ्रामरीकुम्भकं चरेत् । मन्दं मन्दं रेचयेद्वायुं भृङ्गनादं ततो भवेत् ॥",
+    "transliteration": "atha nādayogasamādhiḥ | anilaṃ mandavegena bhrāmarīkumbhakaṃ caret | mandaṃ mandaṃ recayedvāyuṃ bhṛṅganādaṃ tato bhavet ||",
+    "translation": "Now, the meditation of the Yoga of Sound (Nadayoga). One should perform the Bhramari Kumbhaka (bee-breath breath retention) with a gentle speed. Exhale the breath very slowly and gently; from that, the buzzing sound of a bee will arise.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Now, the meditation of the Yoga of Sound (Nadayoga). One should perform the Bhramari Kumbhaka (bee-breath breath retention) with a gentle speed. Exhale the breath very slowly and gently; from that, the buzzing sound of a bee will arise.",
+        "text": "Now, the meditation of the Yoga of Sound (Nadayoga). One should perform the Bhramari Kumbhaka (bee-breath breath retention) with a gentle speed. Exhale the breath very slowly and gently; from that, the buzzing sound of a bee will arise."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "अब नादयोगसमाधि का वर्णन है। मंद वेग के साथ भ्रामरी कुंभक का अभ्यास करना चाहिए। वायु का रेचन (बाहर निकालना) अत्यंत धीरे-धीरे करना चाहिए, जिससे भृंग (भौंरे) के समान नाद उत्पन्न होता है।",
+        "text": "अब नादयोगसमाधि का वर्णन है। मंद वेग के साथ भ्रामरी कुंभक का अभ्यास करना चाहिए। वायु का रेचन (बाहर निकालना) अत्यंत धीरे-धीरे करना चाहिए, जिससे भृंग (भौंरे) के समान नाद उत्पन्न होता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Bhramari Pranayama",
+        "answer": "Nadayoga (Union through sound)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Effective for stress reduction, hypertension, and regulating the nervous system by stimulating the Vagus nerve."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_10",
+    "verse_number": 10,
+    "chapter_number": 7,
+    "sanskrit_shloka": "अन्तःस्थं भ्रमरीनादं श्रुत्वा तत्र मनो नयेत् । समाधिर्जायते तत्र आनन्दः सोऽहमित्यतः ॥",
+    "text": "अन्तःस्थं भ्रमरीनादं श्रुत्वा तत्र मनो नयेत् । समाधिर्जायते तत्र आनन्दः सोऽहमित्यतः ॥",
+    "transliteration": "antaḥsthaṃ bhramarīnādaṃ śrutvā tatra mano nayet | samādhirjāyate tatra ānandaḥ so'hamityataḥ ||",
+    "translation": "Having listened to the inner humming sound resembling a bumblebee, one should fix the mind therein. In that state, Samadhi arises, and from the realization 'I am That' (So'ham), great bliss is attained.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Having listened to the inner humming sound resembling a bumblebee, one should fix the mind therein. In that state, Samadhi arises, and from the realization 'I am That' (So'ham), great bliss is attained.",
+        "text": "Having listened to the inner humming sound resembling a bumblebee, one should fix the mind therein. In that state, Samadhi arises, and from the realization 'I am That' (So'ham), great bliss is attained."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "भीतर स्थित भ्रमर की गुंजार के समान नाद को सुनकर, मन को उसी में लीन कर देना चाहिए। उस स्थिति में समाधि उत्पन्न होती है और 'सोऽहम्' (मैं वही ब्रह्म हूँ) इस बोध से परमानंद की प्राप्ति होती है।",
+        "text": "भीतर स्थित भ्रमर की गुंजार के समान नाद को सुनकर, मन को उसी में लीन कर देना चाहिए। उस स्थिति में समाधि उत्पन्न होती है और 'सोऽहम्' (मैं वही ब्रह्म हूँ) इस बोध से परमानंद की प्राप्ति होती है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Bhramari Pranayama / Nada Anusandhana",
+        "answer": "Nada Yoga (Absorption in internal sound to attain Samadhi)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Used in managing anxiety, hypertension, and stress-related disorders by calming the nervous system via the Vagus nerve stimulation through sound."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_11",
+    "verse_number": 11,
+    "chapter_number": 7,
+    "sanskrit_shloka": "खेचरीमुद्रासाधनाद्रसनोर्ध्वगता यदा । तदा समाधिसिद्धिः स्याद्धित्वा साधारणक्रियाम् ॥",
+    "text": "खेचरीमुद्रासाधनाद्रसनोर्ध्वगता यदा । तदा समाधिसिद्धिः स्याद्धित्वा साधारणक्रियाम् ॥",
+    "transliteration": "khecarīmudrāsādhanādrasanordhvagatā yadā | tadā samādhisiddhiḥ syāddhitvā sādhāraṇakriyām ||",
+    "translation": "When, through the practice of Khechari Mudra, the tongue is turned upwards, then, by abandoning all ordinary activities, the perfection of Samadhi is attained.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "When, through the practice of Khechari Mudra, the tongue is turned upwards, then, by abandoning all ordinary activities, the perfection of Samadhi is attained.",
+        "text": "When, through the practice of Khechari Mudra, the tongue is turned upwards, then, by abandoning all ordinary activities, the perfection of Samadhi is attained."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "खेचरी मुद्रा के अभ्यास से जब जिह्वा ऊर्ध्वगामी हो जाती है, तब साधारण क्रियाओं का त्याग करने से समाधि की सिद्धि प्राप्त होती है।",
+        "text": "खेचरी मुद्रा के अभ्यास से जब जिह्वा ऊर्ध्वगामी हो जाती है, तब साधारण क्रियाओं का त्याग करने से समाधि की सिद्धि प्राप्त होती है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Khechari Mudra",
+        "answer": "Union of the tongue with the upper palate to induce meditative absorption (Samadhi)."
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The practice of Khechari Mudra is traditionally associated with balancing the endocrine system and calming the nervous system, potentially aiding in chronic stress reduction and hypertension."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_12",
+    "verse_number": 12,
+    "chapter_number": 7,
+    "sanskrit_shloka": "योनिमुद्रां समासाद्य स्वयं शक्तिमयो भवेत् । सुश‍ृङ्गाररसेनैव विहरेत्परमात्मनि ॥",
+    "text": "योनिमुद्रां समासाद्य स्वयं शक्तिमयो भवेत् । सुश‍ृङ्गाररसेनैव विहरेत्परमात्मनि ॥",
+    "transliteration": "yonimudrāṃ samāsādya svayaṃ śaktimayo bhavet । suśṛṅgārarasenaiva viharetparamātmani ॥",
+    "translation": "Having attained the Yoni Mudra, one becomes the embodiment of Shakti (divine energy) itself. Immersed in the supreme nectar of sublime union, one dwells in the Supreme Self.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Having attained the Yoni Mudra, one becomes the embodiment of Shakti (divine energy) itself. Immersed in the supreme nectar of sublime union, one dwells in the Supreme Self.",
+        "text": "Having attained the Yoni Mudra, one becomes the embodiment of Shakti (divine energy) itself. Immersed in the supreme nectar of sublime union, one dwells in the Supreme Self."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "योनिमुद्रा को सिद्ध कर लेने पर साधक स्वयं शक्तिस्वरूप हो जाता है। वह परम श्रृंगार रस में निमग्न होकर परमात्मा में विहार करता है।",
+        "text": "योनिमुद्रा को सिद्ध कर लेने पर साधक स्वयं शक्तिस्वरूप हो जाता है। वह परम श्रृंगार रस में निमग्न होकर परमात्मा में विहार करता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Yoni Mudra",
+        "answer": "Layasiddhiyoga Samadhi"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The practice of Yoni Mudra is traditionally used for psychosomatic integration, nervous system regulation, and managing chronic stress by turning awareness inward."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_13",
+    "verse_number": 13,
+    "chapter_number": 7,
+    "sanskrit_shloka": "आनन्दमयः सम्भूत्वा ऐक्यं ब्रह्मणि सम्भवेत् । अहं ब्रह्मेति चाऽद्वैतं समाधिस्तेन जायते ॥",
+    "text": "आनन्दमयः सम्भूत्वा ऐक्यं ब्रह्मणि सम्भवेत् । अहं ब्रह्मेति चाऽद्वैतं समाधिस्तेन जायते ॥",
+    "transliteration": "ānandamayaḥ sambhūtvā aikyaṃ brahmaṇi sambhavet | ahaṃ brahmeti cā'dvaitaṃ samādhistena jāyate ||",
+    "translation": "Having attained the state of bliss (ānandamaya), one should unite with Brahman. By the realization 'I am Brahman,' non-duality is established, and thereby Samadhi (deep meditative absorption) is attained.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Having attained the state of bliss (ānandamaya), one should unite with Brahman. By the realization 'I am Brahman,' non-duality is established, and thereby Samadhi (deep meditative absorption) is attained.",
+        "text": "Having attained the state of bliss (ānandamaya), one should unite with Brahman. By the realization 'I am Brahman,' non-duality is established, and thereby Samadhi (deep meditative absorption) is attained."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "आनन्दमय होकर ब्रह्म में एकत्व को प्राप्त करे। 'अहं ब्रह्मास्मि' इस प्रकार के अद्वैत बोध से समाधि सिद्ध होती है।",
+        "text": "आनन्दमय होकर ब्रह्म में एकत्व को प्राप्त करे। 'अहं ब्रह्मास्मि' इस प्रकार के अद्वैत बोध से समाधि सिद्ध होती है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Jnana Yoga / Dhyana Yoga",
+        "answer": "Advaita (Non-duality) and realization of the Self as Brahman"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Cultivation of self-awareness and meditative absorption to reduce psychological anxiety and psychosomatic stress disorders."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_14",
+    "verse_number": 14,
+    "chapter_number": 7,
+    "sanskrit_shloka": "अथ भक्तियोगसमाधिः । स्वकीयहृदये ध्यायेदिष्टदेवस्वरूपकम् । चिन्तयेद्भक्तियोगेन परमाह्लादपूर्वकम् ॥",
+    "text": "अथ भक्तियोगसमाधिः । स्वकीयहृदये ध्यायेदिष्टदेवस्वरूपकम् । चिन्तयेद्भक्तियोगेन परमाह्लादपूर्वकम् ॥",
+    "transliteration": "atha bhaktiyogasamādhiḥ. svakīyahṛdaye dhyāyed iṣṭadevasvarūpakam. cintayed bhaktiyogena paramāhlādapūrvakam.",
+    "translation": "Now, the meditation of devotion (Bhakti Yoga Samadhi). In one's own heart, one should meditate upon the form of the chosen deity. One should contemplate (this) with the power of devotion, accompanied by supreme bliss.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Now, the meditation of devotion (Bhakti Yoga Samadhi). In one's own heart, one should meditate upon the form of the chosen deity. One should contemplate (this) with the power of devotion, accompanied by supreme bliss.",
+        "text": "Now, the meditation of devotion (Bhakti Yoga Samadhi). In one's own heart, one should meditate upon the form of the chosen deity. One should contemplate (this) with the power of devotion, accompanied by supreme bliss."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "अब भक्तियोग समाधि का वर्णन है। अपने हृदय में इष्टदेव के स्वरूप का ध्यान करना चाहिए। भक्तियोग के द्वारा परम आनंद के साथ उनका चिंतन करना चाहिए।",
+        "text": "अब भक्तियोग समाधि का वर्णन है। अपने हृदय में इष्टदेव के स्वरूप का ध्यान करना चाहिए। भक्तियोग के द्वारा परम आनंद के साथ उनका चिंतन करना चाहिए।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Dhyana (Meditation)",
+        "answer": "Bhakti Yoga Samadhi (Absorption through devotion)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The cultivation of 'paramahlada' (supreme joy) in meditation is highly effective for reducing cortisol levels and managing anxiety-related disorders."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_15",
+    "verse_number": 15,
+    "chapter_number": 7,
+    "sanskrit_shloka": "आनन्दाश्रुपुलकेन दशाभावः प्रजायते । समाधिः सम्भवेत्तेन सम्भवेच्च मनोन्मनी ॥",
+    "text": "आनन्दाश्रुपुलकेन दशाभावः प्रजायते । समाधिः सम्भवेत्तेन सम्भवेच्च मनोन्मनी ॥",
+    "transliteration": "ānandāśrupulakena daśābhāvaḥ prajāyate | samādhiḥ sambhavettena sambhavecca manonmanī ||",
+    "translation": "From the state of joyful tears and horripilation, a transformation of the state of consciousness occurs. Through this, Samadhi manifests, and subsequently, the state of Manonmani (the dissolution of the mind) also arises.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "From the state of joyful tears and horripilation, a transformation of the state of consciousness occurs. Through this, Samadhi manifests, and subsequently, the state of Manonmani (the dissolution of the mind) also arises.",
+        "text": "From the state of joyful tears and horripilation, a transformation of the state of consciousness occurs. Through this, Samadhi manifests, and subsequently, the state of Manonmani (the dissolution of the mind) also arises."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "आनन्द के अश्रु और पुलक (रोमाञ्च) के द्वारा दशा का भाव (अवस्था परिवर्तन) उत्पन्न होता है। उसी से समाधि सिद्ध होती है और उसी से मनोन्मनी अवस्था का प्रादुर्भाव होता है।",
+        "text": "आनन्द के अश्रु और पुलक (रोमाञ्च) के द्वारा दशा का भाव (अवस्था परिवर्तन) उत्पन्न होता है। उसी से समाधि सिद्ध होती है और उसी से मनोन्मनी अवस्था का प्रादुर्भाव होता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Shambhavi Mudra / Bhakti Yoga (Ananda-bhavana)",
+        "answer": "Samadhi and Manonmani as stages of consciousness evolution"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The cultivation of joyful emotions (Ananda) is effective in balancing the autonomic nervous system and reducing psychological stress-related disorders."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_16",
+    "verse_number": 16,
+    "chapter_number": 7,
+    "sanskrit_shloka": "अथ राजयोगसमाधिः । मनोमूर्च्छां समासाद्य मन आत्मनि योजयेत् । परात्मनः समायोगात्समाधिं समवाप्नुयात् ॥",
+    "text": "अथ राजयोगसमाधिः । मनोमूर्च्छां समासाद्य मन आत्मनि योजयेत् । परात्मनः समायोगात्समाधिं समवाप्नुयात् ॥",
+    "transliteration": "atha rājayogasamādhiḥ | manomūrcchāṃ samāsādya mana ātmani yojayet | parātmanaḥ samāyogātsamādhiṃ samavāpnuyāt ||",
+    "translation": "Now, the meditation of Rajayoga. Having attained the state of mental absorption (Manomurccha), one should unite the mind with the Self. Through the union with the Supreme Self, one attains Samadhi.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Now, the meditation of Rajayoga. Having attained the state of mental absorption (Manomurccha), one should unite the mind with the Self. Through the union with the Supreme Self, one attains Samadhi.",
+        "text": "Now, the meditation of Rajayoga. Having attained the state of mental absorption (Manomurccha), one should unite the mind with the Self. Through the union with the Supreme Self, one attains Samadhi."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "अब राजयोग समाधि का वर्णन है। मनोमूर्च्छा (मन की अचेतन अवस्था) को प्राप्त करके, साधक मन को आत्मा में संयोजित करे। परमात्मा के साथ इस सम्यक योग से साधक समाधि की अवस्था को प्राप्त करता है।",
+        "text": "अब राजयोग समाधि का वर्णन है। मनोमूर्च्छा (मन की अचेतन अवस्था) को प्राप्त करके, साधक मन को आत्मा में संयोजित करे। परमात्मा के साथ इस सम्यक योग से साधक समाधि की अवस्था को प्राप्त करता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Rajayoga / Laya Yoga (Manomurcha technique)",
+        "answer": "The unification of the individual mind with the Supreme Self through the absorption process known as Manomurcha."
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "This technique is highly relevant for the management of anxiety, restlessness, and hyper-arousal of the autonomic nervous system by inducing a state of deep mental withdrawal and physiological rest."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_17",
+    "verse_number": 17,
+    "chapter_number": 7,
+    "sanskrit_shloka": "अथ समाधियोगमाहात्म्यम् । इति ते कथितं चण्ड समाधिर्मुक्तिलक्षणम् । राजयोगः समाधिः स्यादेकात्मन्येव साधनम् । उन्मनी सहजावस्था सर्वे चैकात्मवाचकाः ॥",
+    "text": "अथ समाधियोगमाहात्म्यम् । इति ते कथितं चण्ड समाधिर्मुक्तिलक्षणम् । राजयोगः समाधिः स्यादेकात्मन्येव साधनम् । उन्मनी सहजावस्था सर्वे चैकात्मवाचकाः ॥",
+    "transliteration": "atha samādhiyogamāhātmyam | iti te kathitaṃ caṇḍa samādhir-muktilakṣaṇam | rājayogaḥ samādhiḥ syādekātmanyeva sādhanam | unmanī sahajāvasthā sarve caikātmavācakāḥ ||",
+    "translation": "Now, the greatness of Samadhi Yoga. O Chanda, thus has been described to you the characteristics of Samadhi, which leads to liberation. Rajayoga, Samadhi, the practice of oneness (Ekātman), Unmani, and Sahajavastha—all these are but synonyms for the state of oneness of the Self.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Now, the greatness of Samadhi Yoga. O Chanda, thus has been described to you the characteristics of Samadhi, which leads to liberation. Rajayoga, Samadhi, the practice of oneness (Ekātman), Unmani, and Sahajavastha—all these are but synonyms for the state of oneness of the Self.",
+        "text": "Now, the greatness of Samadhi Yoga. O Chanda, thus has been described to you the characteristics of Samadhi, which leads to liberation. Rajayoga, Samadhi, the practice of oneness (Ekātman), Unmani, and Sahajavastha—all these are but synonyms for the state of oneness of the Self."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "अब समाधियोग का माहात्म्य। हे चण्ड! इस प्रकार तुमसे समाधि के लक्षणों का वर्णन किया गया, जो मुक्ति का स्वरूप है। राजयोग, समाधि, एकात्म (आत्मा में लीन होना), साधन, उन्मनी और सहजावस्था—ये सभी एकात्म के ही वाचक (पर्यायवाची) हैं।",
+        "text": "अब समाधियोग का माहात्म्य। हे चण्ड! इस प्रकार तुमसे समाधि के लक्षणों का वर्णन किया गया, जो मुक्ति का स्वरूप है। राजयोग, समाधि, एकात्म (आत्मा में लीन होना), साधन, उन्मनी और सहजावस्था—ये सभी एकात्म के ही वाचक (पर्यायवाची) हैं।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Samadhi/Rajayoga",
+        "answer": "Non-duality of the Self (Advaita) and synonymy of meditative states"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The practice of 'Unmani' (state beyond mind) is applied in modern therapy for stress-induced neurological disorders and psychological anxiety management."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_18",
+    "verse_number": 18,
+    "chapter_number": 7,
+    "sanskrit_shloka": "जले विष्णुः स्थले विष्णुर्विष्णुः पर्वतमस्तके । ज्वालामालाकुले विष्णुः सर्वं विष्णुमयं जगत् ॥",
+    "text": "जले विष्णुः स्थले विष्णुर्विष्णुः पर्वतमस्तके । ज्वालामालाकुले विष्णुः सर्वं विष्णुमयं जगत् ॥",
+    "transliteration": "jale viṣṇuḥ sthale viṣṇur-viṣṇuḥ parvatamastake | jvālāmālā-kule viṣṇuḥ sarvaṃ viṣṇumayaṃ jagat ||",
+    "translation": "Vishnu is in the water, Vishnu is on the land, Vishnu is atop the mountains. Vishnu is amidst the blazing flames; the entire universe is pervaded by Vishnu.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Vishnu is in the water, Vishnu is on the land, Vishnu is atop the mountains. Vishnu is amidst the blazing flames; the entire universe is pervaded by Vishnu.",
+        "text": "Vishnu is in the water, Vishnu is on the land, Vishnu is atop the mountains. Vishnu is amidst the blazing flames; the entire universe is pervaded by Vishnu."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "जल में विष्णु हैं, स्थल में विष्णु हैं, और पर्वत के शिखर पर भी विष्णु हैं। ज्वालाओं की माला से आकुल अग्नि में भी विष्णु ही हैं; यह संपूर्ण संसार विष्णुमय है।",
+        "text": "जल में विष्णु हैं, स्थल में विष्णु हैं, और पर्वत के शिखर पर भी विष्णु हैं। ज्वालाओं की माला से आकुल अग्नि में भी विष्णु ही हैं; यह संपूर्ण संसार विष्णुमय है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Dhyana (Meditation on the omnipresence of the Divine)",
+        "answer": "Sarva-Vishnu-Maya (The doctrine of universal immanence)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Cultivation of a sense of connectedness to reduce existential anxiety, feelings of isolation, and psychosomatic stress."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_19",
+    "verse_number": 19,
+    "chapter_number": 7,
+    "sanskrit_shloka": "भूचराः खेचराश्चामी यावन्तो जीवजन्तवः ।\nवृक्षगुल्मलतावल्लीतृणाद्या वारिपर्वताः ।\nसर्वं ब्रह्म विजानीयात्सर्वं पश्यति चात्मनि ॥",
+    "text": "भूचराः खेचराश्चामी यावन्तो जीवजन्तवः ।\nवृक्षगुल्मलतावल्लीतृणाद्या वारिपर्वताः ।\nसर्वं ब्रह्म विजानीयात्सर्वं पश्यति चात्मनि ॥",
+    "transliteration": "bhūcarāḥ khecarāścāmī yāvanto jīvajantavaḥ | vṛkṣagulmalatāvallītṛṇādyā vāriparvatāḥ | sarvaṃ brahma vijānīyātsarvaṃ paśyati cātmani ||",
+    "translation": "Those that move on the earth, those that move in the sky, as many living creatures as there are, trees, shrubs, creepers, vines, grasses, and the like, as well as waters and mountains—one should understand all of this to be Brahman, and one should see all of this within the Self.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Those that move on the earth, those that move in the sky, as many living creatures as there are, trees, shrubs, creepers, vines, grasses, and the like, as well as waters and mountains—one should understand all of this to be Brahman, and one should see all of this within the Self.",
+        "text": "Those that move on the earth, those that move in the sky, as many living creatures as there are, trees, shrubs, creepers, vines, grasses, and the like, as well as waters and mountains—one should understand all of this to be Brahman, and one should see all of this within the Self."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "भूमि पर चलने वाले, आकाश में विचरने वाले, जितने भी जीव-जंतु हैं, वृक्ष, गुल्म (झाड़ियाँ), लता, वल्लियाँ, तृण आदि और जल तथा पर्वत; इन सबको ब्रह्म के रूप में जानना चाहिए और सबको अपनी आत्मा में ही देखना चाहिए।",
+        "text": "भूमि पर चलने वाले, आकाश में विचरने वाले, जितने भी जीव-जंतु हैं, वृक्ष, गुल्म (झाड़ियाँ), लता, वल्लियाँ, तृण आदि और जल तथा पर्वत; इन सबको ब्रह्म के रूप में जानना चाहिए और सबको अपनी आत्मा में ही देखना चाहिए।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Jnana Yoga / Nididhyasana",
+        "answer": "Sarvam Khalvidam Brahma (Everything is indeed Brahman)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Cultivation of universal empathy and ego-dissolution to alleviate existential anxiety, psychosomatic tension, and feelings of isolation."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_20",
+    "verse_number": 20,
+    "chapter_number": 7,
+    "sanskrit_shloka": "आत्मा घटस्थचैतन्यमद्वैतं शाश्वतं परम् । घटाद्विभिन्नतो ज्ञात्वा वीतरागं विवासनम् ॥",
+    "text": "आत्मा घटस्थचैतन्यमद्वैतं शाश्वतं परम् । घटाद्विभिन्नतो ज्ञात्वा वीतरागं विवासनम् ॥",
+    "transliteration": "ātmā ghaṭasthacaitanyamadvaitaṃ śāśvataṃ param । ghaṭādvibhinnato jñātvā vītarāgaṃ vivāsanam ॥",
+    "translation": "The Self is the consciousness abiding within the body-pot, non-dual, eternal, and supreme. Having realized it as distinct from the body, one becomes free from attachments and devoid of desires.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "The Self is the consciousness abiding within the body-pot, non-dual, eternal, and supreme. Having realized it as distinct from the body, one becomes free from attachments and devoid of desires.",
+        "text": "The Self is the consciousness abiding within the body-pot, non-dual, eternal, and supreme. Having realized it as distinct from the body, one becomes free from attachments and devoid of desires."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "आत्मा शरीररूपी घड़े में स्थित चैतन्य है, जो अद्वैत, शाश्वत और परम है। उसे घड़े (शरीर) से भिन्न जानकर मनुष्य वीतराग (राग से रहित) और विवासन (वासनाओं से मुक्त) हो जाता है।",
+        "text": "आत्मा शरीररूपी घड़े में स्थित चैतन्य है, जो अद्वैत, शाश्वत और परम है। उसे घड़े (शरीर) से भिन्न जानकर मनुष्य वीतराग (राग से रहित) और विवासन (वासनाओं से मुक्त) हो जाता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Viveka (Discernment) and Dhyana (Meditation)",
+        "answer": "Atma-Anatma Viveka (Discrimination between Self and Non-self)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Psychosomatic stress reduction through detachment (Vairagya) from the physical body-mind complex."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_21",
+    "verse_number": 21,
+    "chapter_number": 7,
+    "sanskrit_shloka": "एवं मिथः समाधिः स्यात्सर्वसङ्कल्पवर्जितः । स्वदेहे पुत्रदारादिबान्धवेषु धनादिषु । सर्वेषु निर्ममो भूत्वा समाधिं समवाप्नुयात् ॥",
+    "text": "एवं मिथः समाधिः स्यात्सर्वसङ्कल्पवर्जितः । स्वदेहे पुत्रदारादिबान्धवेषु धनादिषु । सर्वेषु निर्ममो भूत्वा समाधिं समवाप्नुयात् ॥",
+    "transliteration": "evaṃ mithaḥ samādhiḥ syātsarvasaṅkalpavarjitaḥ | svadehe putradārādibāndhaveṣu dhanādiṣu | sarveṣu nirmamo bhūtvā samādhiṃ samavāpnuyāt ||",
+    "translation": "Thus, let one attain the state of Samadhi, devoid of all mental constructs (Sankalpa). Remaining free from the sense of 'mine-ness' (attachment) toward one's own body, children, wife, relatives, and wealth, one should achieve this state of profound absorption.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Thus, let one attain the state of Samadhi, devoid of all mental constructs (Sankalpa). Remaining free from the sense of 'mine-ness' (attachment) toward one's own body, children, wife, relatives, and wealth, one should achieve this state of profound absorption.",
+        "text": "Thus, let one attain the state of Samadhi, devoid of all mental constructs (Sankalpa). Remaining free from the sense of 'mine-ness' (attachment) toward one's own body, children, wife, relatives, and wealth, one should achieve this state of profound absorption."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "इस प्रकार समस्त संकल्पों से रहित होकर समाधि का अभ्यास करना चाहिए। अपने शरीर, पुत्र, पत्नी, अन्य बन्धु-बान्धवों और धन-सम्पत्ति आदि समस्त वस्तुओं में 'ममत्व' (अहंकार) का त्याग करके साधक समाधि को प्राप्त करे।",
+        "text": "इस प्रकार समस्त संकल्पों से रहित होकर समाधि का अभ्यास करना चाहिए। अपने शरीर, पुत्र, पत्नी, अन्य बन्धु-बान्धवों और धन-सम्पत्ति आदि समस्त वस्तुओं में 'ममत्व' (अहंकार) का त्याग करके साधक समाधि को प्राप्त करे।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Samadhi (Meditative absorption)",
+        "answer": "Nirmama (Non-attachment / detachment from worldly possessions and identity)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "Psychological relief from stress, anxiety, and obsessive attachment to external worldly affairs by cultivating equanimity."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_22",
+    "verse_number": 22,
+    "chapter_number": 7,
+    "sanskrit_shloka": "तत्त्वं लयामृतं गोप्यं शिवोक्तं विविधानि च । तेषां सङ्क्षेपमादाय कथितं मुक्तिलक्षणम् ॥",
+    "text": "तत्त्वं लयामृतं गोप्यं शिवोक्तं विविधानि च । तेषां सङ्क्षेपमादाय कथितं मुक्तिलक्षणम् ॥",
+    "transliteration": "tattvaṃ layāmṛtaṃ gopyaṃ śivoktaṃ vividhāni ca | teṣāṃ saṅkṣepamādāya kathitaṃ muktilakṣaṇam ||",
+    "translation": "The truth, the secret nectar of dissolution (Laya), and the various teachings spoken by Shiva, all have been gathered in summary and explained here as the characteristics of liberation.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "The truth, the secret nectar of dissolution (Laya), and the various teachings spoken by Shiva, all have been gathered in summary and explained here as the characteristics of liberation.",
+        "text": "The truth, the secret nectar of dissolution (Laya), and the various teachings spoken by Shiva, all have been gathered in summary and explained here as the characteristics of liberation."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "तत्त्व, लय और अमृत तुल्य गोप्य विद्याएँ जो भगवान शिव द्वारा कही गई हैं, उन सबका सार ग्रहण करके यहाँ मुक्ति के लक्षण का वर्णन किया गया है।",
+        "text": "तत्त्व, लय और अमृत तुल्य गोप्य विद्याएँ जो भगवान शिव द्वारा कही गई हैं, उन सबका सार ग्रहण करके यहाँ मुक्ति के लक्षण का वर्णन किया गया है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Laya Yoga",
+        "answer": "Synthesis of diverse Shaiva tantric doctrines leading to the state of liberation"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The practice of Laya (dissolution of mental modifications) is effective in treating chronic stress, anxiety disorders, and psychosomatic imbalances by inducing deep relaxation and mental stillness."
+      }
+    ]
+  },
+  {
+    "id": "gheranda-samhita_7_23",
+    "verse_number": 23,
+    "chapter_number": 7,
+    "sanskrit_shloka": "इति ते कथितं चण्ड समाधिर्दुर्लभः परः । यं ज्ञात्वा न पुनर्जन्म जायते भूमिमण्डले ॥",
+    "text": "इति ते कथितं चण्ड समाधिर्दुर्लभः परः । यं ज्ञात्वा न पुनर्जन्म जायते भूमिमण्डले ॥",
+    "transliteration": "iti te kathitaṃ caṇḍa samādhir-durlabhaḥ paraḥ | yaṃ jñātvā na punarjanma jāyate bhūmimaṇḍale ||",
+    "translation": "Thus, O Canda, has the supreme and rare Samadhi been described to you; having realized which, rebirth does not occur upon this earthly sphere.",
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "description": "Thus, O Canda, has the supreme and rare Samadhi been described to you; having realized which, rebirth does not occur upon this earthly sphere.",
+        "text": "Thus, O Canda, has the supreme and rare Samadhi been described to you; having realized which, rebirth does not occur upon this earthly sphere."
+      },
+      {
+        "author": "Hindi Translation (भावार्थ)",
+        "author_name": "Hindi Translation (भावार्थ)",
+        "language": "Hindi",
+        "description": "हे चण्ड! इस प्रकार मैंने तुम्हें उस परम दुर्लभ समाधि का उपदेश दिया है; जिसे जान लेने पर इस पृथ्वी मण्डल पर पुनः जन्म नहीं होता है।",
+        "text": "हे चण्ड! इस प्रकार मैंने तुम्हें उस परम दुर्लभ समाधि का उपदेश दिया है; जिसे जान लेने पर इस पृथ्वी मण्डल पर पुनः जन्म नहीं होता है।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [],
+    "commentary_faqs": [
+      {
+        "question": "Practice: Samadhi (Meditation)",
+        "answer": "Moksha (Liberation from the cycle of rebirth)"
+      },
+      {
+        "question": "Therapeutic & Somatic Significance",
+        "answer": "The practice of Samadhi is relevant in managing psychological distress, chronic anxiety, and stress-related disorders by inducing a state of deep neural quiescence."
+      }
+    ]
+  }
+]

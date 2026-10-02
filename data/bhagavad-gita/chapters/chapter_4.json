@@ -20,88 +20,46 @@
     "comparative_note": "Traditional translations often capitalize 'Yoga' and emphasize divine revelation; academic renderings highlight the claim of transmission through an ancient lineage (Sun deity → Manu → royal ancestor), situating the teaching within a mytho-historical framework of authority.",
     "word_by_word": [
       {
-        "word_sanskrit": "श्रीभगवान्",
-        "word_english": "the Blessed Lord",
-        "grammar_role": "Karta",
-        "root": "श्रीभगवत्"
-      },
-      {
-        "word_sanskrit": "उवाच",
-        "word_english": "said",
-        "grammar_role": null,
-        "root": "√वच्"
-      },
-      {
-        "word_sanskrit": "इमम्",
-        "word_english": "this",
-        "grammar_role": "Karma",
-        "root": "इदम्"
+        "word_sanskrit": "इमं",
+        "word_english": "this (yoga)",
+        "grammar_role": "इदम् · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "इमम्"
       },
       {
         "word_sanskrit": "विवस्वते",
-        "word_english": "to Vivasvān (the Sun-god)",
-        "grammar_role": "Sampradana",
-        "root": "विवस्वत्"
+        "word_english": "unto Vivasvat, the sun-god",
+        "grammar_role": "विवस्वत् · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "विवस्वते"
       },
       {
-        "word_sanskrit": "योगम्",
-        "word_english": "yoga (the discipline/teaching)",
-        "grammar_role": "Karma",
-        "root": "योग"
+        "word_sanskrit": "योगं",
+        "word_english": "the yoga (taught in two chapters)",
+        "grammar_role": "योग · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "योगम्"
       },
       {
-        "word_sanskrit": "प्रोक्तवान्",
-        "word_english": "having taught / having declared",
-        "grammar_role": null,
-        "root": "√वच् (प्र+√वच्)"
+        "word_sanskrit": "प्रोक्तवानहमव्ययम्",
+        "word_english": "I taught it; imperishable (its fruit imperishable)",
+        "grammar_role": "प्र-√वच् · क्तवतु-कृदन्त·प्रथमा·एकवचन·पुंलिङ्ग + अस्मद् · प्रथमा·एकवचन + अव्यय · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "प्रोक्तवान् + अहम् + अव्ययम्"
       },
       {
-        "word_sanskrit": "अहम्",
-        "word_english": "I",
-        "grammar_role": "Karta",
-        "root": "अस्मद्"
-      },
-      {
-        "word_sanskrit": "अव्ययम्",
-        "word_english": "imperishable",
-        "grammar_role": "Karma",
-        "root": "अव्यय"
-      },
-      {
-        "word_sanskrit": "विवस्वान्",
-        "word_english": "Vivasvān",
-        "grammar_role": "Karta",
-        "root": "विवस्वत्"
-      },
-      {
-        "word_sanskrit": "मनवे",
-        "word_english": "to Manu",
-        "grammar_role": "Sampradana",
-        "root": "मनु"
+        "word_sanskrit": "विवस्वान्मनवे",
+        "word_english": "Vivasvat (told it) to Manu",
+        "grammar_role": "विवस्वत् · प्रथमा·एकवचन·पुंलिङ्ग + मनु · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "विवस्वान् + मनवे"
       },
       {
         "word_sanskrit": "प्राह",
-        "word_english": "said / taught",
-        "grammar_role": null,
-        "root": "√अह्"
+        "word_english": "told, declared",
+        "grammar_role": "प्र-√ब्रू · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "प्राह"
       },
       {
-        "word_sanskrit": "मनुः",
-        "word_english": "Manu",
-        "grammar_role": "Karta",
-        "root": "मनु"
-      },
-      {
-        "word_sanskrit": "इक्ष्वाकवे",
-        "word_english": "to Ikṣvāku",
-        "grammar_role": "Sampradana",
-        "root": "इक्ष्वाकु"
-      },
-      {
-        "word_sanskrit": "अब्रवीत्",
-        "word_english": "spoke / told",
-        "grammar_role": null,
-        "root": "√ब्रू"
+        "word_sanskrit": "मनुरिक्ष्वाकवेऽब्रवीत्",
+        "word_english": "Manu told it to Ikṣvāku, his son",
+        "grammar_role": "मनु · प्रथमा·एकवचन·पुंलिङ्ग + इक्ष्वाकु · चतुर्थी·एकवचन·पुंलिङ्ग + √ब्रू · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "मनुः + इक्ष्वाकवे + अब्रवीत्"
       }
     ],
     "commentary_faqs": [
@@ -264,81 +222,63 @@
     "comparative_note": "Traditional versions often gloss 'parantapa' as a heroic epithet; academic translations treat it as a conventional vocative. The key idea is not textual loss alone but loss of living understanding/practice across time.",
     "word_by_word": [
       {
-        "word_sanskrit": "एवम्",
-        "word_english": "thus, in this manner",
-        "grammar_role": null,
+        "word_sanskrit": "एवं",
+        "word_english": "thus, in this way",
+        "grammar_role": "एवम् · अव्यय",
         "root": "एवम्"
       },
       {
-        "word_sanskrit": "परम्परा",
-        "word_english": "by the tradition (lineage)",
-        "grammar_role": null,
-        "root": "परम्परा"
+        "word_sanskrit": "परम्पराप्राप्तमिमं",
+        "word_english": "this (yoga), received through (kṣatriya) succession",
+        "grammar_role": "परम्परा-प्राप्त · द्वितीया·एकवचन·पुंलिङ्ग (प्र+√आप्, क्त) + इदम् · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "परम्परा-प्राप्तम् + इमम्"
       },
       {
-        "word_sanskrit": "प्राप्तम्",
-        "word_english": "received, obtained",
-        "grammar_role": null,
-        "root": "प्र-आप्"
-      },
-      {
-        "word_sanskrit": "इमम्",
-        "word_english": "this (one)",
-        "grammar_role": "Karma",
-        "root": "इदम्"
-      },
-      {
-        "word_sanskrit": "राजर्षयः",
-        "word_english": "royal sages",
-        "grammar_role": "Karta",
-        "root": "राजर्षि"
+        "word_sanskrit": "राजर्षयो",
+        "word_english": "the royal sages (kings who are seers)",
+        "grammar_role": "राजर्षि · प्रथमा·बहुवचन·पुंलिङ्ग (राजानश्च ते ऋषयश्च)",
+        "root": "राजन्-ऋषयः"
       },
       {
         "word_sanskrit": "विदुः",
-        "word_english": "knew, realized",
-        "grammar_role": null,
-        "root": "विद्"
+        "word_english": "know, understand (this yoga)",
+        "grammar_role": "√विद् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "विदुः"
       },
       {
-        "word_sanskrit": "सः",
-        "word_english": "that (Yoga/teaching)",
-        "grammar_role": null,
-        "root": "तद्"
+        "word_sanskrit": "स",
+        "word_english": "that (yoga)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
       },
       {
-        "word_sanskrit": "कालेन",
-        "word_english": "by time, with the passage of time",
-        "grammar_role": "Karana",
-        "root": "काल"
-      },
-      {
-        "word_sanskrit": "इह",
-        "word_english": "here (in this world)",
-        "grammar_role": null,
-        "root": "इह"
+        "word_sanskrit": "कालेनेह",
+        "word_english": "by time, here (in this world)",
+        "grammar_role": "काल · तृतीया·एकवचन·पुंलिङ्ग + इह · अव्यय",
+        "root": "कालेन + इह"
       },
       {
         "word_sanskrit": "महता",
-        "word_english": "great, long (in duration)",
-        "grammar_role": null,
-        "root": "महत्"
+        "word_english": "by great (long, time)",
+        "grammar_role": "महत् · तृतीया·एकवचन·पुंलिङ्ग",
+        "root": "महता"
       },
       {
-        "word_sanskrit": "योगः",
-        "word_english": "Yoga (the discipline/teaching)",
-        "grammar_role": "Karta",
-        "root": "योग"
+        "word_sanskrit": "योगो",
+        "word_english": "the yoga (teaching)",
+        "grammar_role": "योग · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "योगः"
       },
       {
         "word_sanskrit": "नष्टः",
-        "word_english": "was lost, perished",
-        "grammar_role": null,
-        "root": "नश्"
+        "word_english": "lost, its tradition broken",
+        "grammar_role": "नष्ट · प्रथमा·एकवचन·पुंलिङ्ग (√नश्, क्त)",
+        "root": "नष्टः"
       },
       {
         "word_sanskrit": "परन्तप",
         "word_english": "O scorcher of foes (Arjuna)",
-        "grammar_role": null,
+        "grammar_role": "परन्तप · सम्बोधन·एकवचन·पुंलिङ्ग",
         "root": "परन्तप"
       }
     ],
@@ -502,118 +442,82 @@
     "comparative_note": "Traditional readings emphasize grace and devotional eligibility (bhakti) as prerequisites. Academic readings highlight an initiatory logic: intimacy and trust (friendship) authorize transmission of 'rahasya'—a term that can mean secret, esoteric, or simply profound.",
     "word_by_word": [
       {
-        "word_sanskrit": "सः",
-        "word_english": "he; that (one)",
-        "grammar_role": null,
-        "root": "तद्"
+        "word_sanskrit": "स",
+        "word_english": "that (very same Yoga)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
       },
       {
-        "word_sanskrit": "एव",
-        "word_english": "indeed; only",
-        "grammar_role": null,
-        "root": "एव"
-      },
-      {
-        "word_sanskrit": "अयम्",
-        "word_english": "this",
-        "grammar_role": null,
-        "root": "इदम्"
+        "word_sanskrit": "एवायं",
+        "word_english": "this very (same)",
+        "grammar_role": "एव · अव्यय (अवधारणे) + इदम् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "एव + अयम्"
       },
       {
         "word_sanskrit": "मया",
-        "word_english": "by me",
-        "grammar_role": "Karana",
-        "root": "अस्मद्"
+        "word_english": "by Me",
+        "grammar_role": "अस्मद् · तृतीया·एकवचन",
+        "root": "मया"
       },
       {
-        "word_sanskrit": "ते",
-        "word_english": "to you",
-        "grammar_role": "Sampradana",
-        "root": "युष्मद्"
-      },
-      {
-        "word_sanskrit": "अद्य",
-        "word_english": "today; now",
-        "grammar_role": null,
-        "root": "अद्य"
+        "word_sanskrit": "तेऽद्य",
+        "word_english": "to you, today (now)",
+        "grammar_role": "युष्मद् · चतुर्थी·एकवचन + अद्य · अव्यय",
+        "root": "ते + अद्य"
       },
       {
         "word_sanskrit": "योगः",
-        "word_english": "yoga; the discipline/path",
-        "grammar_role": "Karma",
-        "root": "योग"
+        "word_english": "Yoga (i.e. knowledge)",
+        "grammar_role": "योग · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "योगः"
       },
       {
         "word_sanskrit": "प्रोक्तः",
-        "word_english": "taught; declared",
-        "grammar_role": null,
-        "root": "प्र-वच्"
+        "word_english": "declared, spoken",
+        "grammar_role": "√वच् (प्र) · क्त-कृदन्त · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "प्रोक्तः"
       },
       {
         "word_sanskrit": "पुरातनः",
-        "word_english": "ancient; primeval",
-        "grammar_role": null,
-        "root": "पुरातन"
+        "word_english": "ancient",
+        "grammar_role": "पुरातन · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "पुरातनः"
       },
       {
-        "word_sanskrit": "भक्तः",
-        "word_english": "a devotee",
-        "grammar_role": null,
-        "root": "भक्त"
-      },
-      {
-        "word_sanskrit": "असि",
-        "word_english": "you are",
-        "grammar_role": null,
-        "root": "अस्"
+        "word_sanskrit": "भक्तोऽसि",
+        "word_english": "you are (My) devotee",
+        "grammar_role": "भक्त · प्रथमा·एकवचन·पुंलिङ्ग + √अस् · लट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "भक्तः + असि"
       },
       {
         "word_sanskrit": "मे",
-        "word_english": "of me; my",
-        "grammar_role": null,
-        "root": "अस्मद्"
+        "word_english": "My, of Me",
+        "grammar_role": "अस्मद् · षष्ठी·एकवचन",
+        "root": "मे"
       },
       {
         "word_sanskrit": "सखा",
         "word_english": "friend",
-        "grammar_role": null,
-        "root": "सखि"
+        "grammar_role": "सखि · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सखा"
       },
       {
-        "word_sanskrit": "च",
-        "word_english": "and",
-        "grammar_role": null,
-        "root": "च"
+        "word_sanskrit": "चेति",
+        "word_english": "and — thus",
+        "grammar_role": "च · अव्यय + इति · अव्यय",
+        "root": "च + इति"
       },
       {
-        "word_sanskrit": "इति",
-        "word_english": "thus (as such)",
-        "grammar_role": null,
-        "root": "इति"
+        "word_sanskrit": "रहस्यं",
+        "word_english": "secret",
+        "grammar_role": "रहस्य · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "रहस्यम्"
       },
       {
-        "word_sanskrit": "रहस्यम्",
-        "word_english": "secret; esoteric teaching",
-        "grammar_role": null,
-        "root": "रहस्य"
-      },
-      {
-        "word_sanskrit": "हि",
-        "word_english": "indeed; for",
-        "grammar_role": null,
-        "root": "हि"
-      },
-      {
-        "word_sanskrit": "एतत्",
-        "word_english": "this",
-        "grammar_role": null,
-        "root": "एतद्"
-      },
-      {
-        "word_sanskrit": "उत्तमम्",
-        "word_english": "supreme; highest",
-        "grammar_role": null,
-        "root": "उत्तम"
+        "word_sanskrit": "ह्येतदुत्तमम्",
+        "word_english": "for this (is) supreme",
+        "grammar_role": "हि · अव्यय + एतद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + उत्तम · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "हि + एतत् + उत्तमम्"
       }
     ],
     "commentary_faqs": [
@@ -776,94 +680,58 @@
     "comparative_note": "Interpretations diverge on whether Arjuna is questioning literal chronology or expressing philosophical doubt about divine temporality. The verse functions as a rational challenge prompting Krishna’s doctrine of repeated embodiment and divine agency.",
     "word_by_word": [
       {
-        "word_sanskrit": "अर्जुनः",
-        "word_english": "Arjuna",
-        "grammar_role": "Karta",
-        "root": "अर्जुन"
+        "word_sanskrit": "अपरं",
+        "word_english": "later, recent (in Vasudeva's house)",
+        "grammar_role": "अपर · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "अपरम्"
       },
       {
-        "word_sanskrit": "उवाच",
-        "word_english": "said",
-        "grammar_role": null,
-        "root": "√वच्"
-      },
-      {
-        "word_sanskrit": "अपरम्",
-        "word_english": "later; subsequent",
-        "grammar_role": null,
-        "root": "अपर"
-      },
-      {
-        "word_sanskrit": "भवतः",
-        "word_english": "of you (honorific)",
-        "grammar_role": null,
-        "root": "भवत्"
+        "word_sanskrit": "भवतो",
+        "word_english": "of you (honorific), your",
+        "grammar_role": "भवत् · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "भवतः"
       },
       {
         "word_sanskrit": "जन्म",
         "word_english": "birth",
-        "grammar_role": null,
-        "root": "जन्मन्"
+        "grammar_role": "जन्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "जन्म"
       },
       {
-        "word_sanskrit": "परम्",
-        "word_english": "earlier; prior",
-        "grammar_role": null,
-        "root": "पर"
+        "word_sanskrit": "परं",
+        "word_english": "earlier, prior (at creation's start)",
+        "grammar_role": "पर · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "परम्"
       },
       {
         "word_sanskrit": "जन्म",
-        "word_english": "birth",
-        "grammar_role": null,
-        "root": "जन्मन्"
+        "word_english": "birth, coming-into-being (उत्पत्तिः)",
+        "grammar_role": "जन्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "जन्म"
       },
       {
         "word_sanskrit": "विवस्वतः",
-        "word_english": "of Vivasvān (the Sun-god)",
-        "grammar_role": null,
-        "root": "विवस्वत्"
+        "word_english": "of Vivasvat, the sun-god",
+        "grammar_role": "विवस्वत् · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "विवस्वतः"
       },
       {
-        "word_sanskrit": "कथम्",
-        "word_english": "how?",
-        "grammar_role": null,
-        "root": "कथम्"
+        "word_sanskrit": "कथमेतद्विजानीयां",
+        "word_english": "how should I understand this?",
+        "grammar_role": "कथम् · अव्यय (प्रश्ने) + एतद् · द्वितीया·एकवचन·नपुंसकलिङ्ग + √ज्ञा (वि-) · विधिलिङ्·उत्तमपुरुष·एकवचन·परस्मैपद",
+        "root": "कथम् + एतत् + विजानीयाम्"
       },
       {
-        "word_sanskrit": "एतत्",
-        "word_english": "this (fact/statement)",
-        "grammar_role": "Karma",
-        "root": "एतद्"
+        "word_sanskrit": "त्वमादौ",
+        "word_english": "you, in the beginning",
+        "grammar_role": "युष्मद् · प्रथमा·एकवचन + आदि · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "त्वम् + आदौ"
       },
       {
-        "word_sanskrit": "विजानीयाम्",
-        "word_english": "may I know; should I understand",
-        "grammar_role": null,
-        "root": "√ज्ञा"
-      },
-      {
-        "word_sanskrit": "त्वम्",
-        "word_english": "you",
-        "grammar_role": "Karta",
-        "root": "युष्मद्"
-      },
-      {
-        "word_sanskrit": "आदौ",
-        "word_english": "in the beginning; at first",
-        "grammar_role": "Adhikarana",
-        "root": "आदि"
-      },
-      {
-        "word_sanskrit": "प्रोक्तवान्",
-        "word_english": "(having) spoken; taught",
-        "grammar_role": null,
-        "root": "√वच् (प्र +)"
-      },
-      {
-        "word_sanskrit": "इति",
-        "word_english": "thus; (quotation marker)",
-        "grammar_role": null,
-        "root": "इति"
+        "word_sanskrit": "प्रोक्तवानिति",
+        "word_english": "(that) you taught — thus",
+        "grammar_role": "√प्र_वच् · क्तवतु-कृदन्त · प्रथमा·एकवचन·पुंलिङ्ग + इति · अव्यय",
+        "root": "प्रोक्तवान् + इति"
       }
     ],
     "commentary_faqs": [
@@ -1026,105 +894,81 @@
     "comparative_note": "Traditional interpreters often take Krishna’s remembering of births as a marker of divine omniscience or yogic mastery; academic readings note the shared rebirth framework while highlighting an asymmetry of knowledge (memory/omniscience) that grounds Krishna’s authority.",
     "word_by_word": [
       {
-        "word_sanskrit": "श्रीभगवान्",
-        "word_english": "the Blessed Lord",
-        "grammar_role": "Karta",
-        "root": "श्रीभगवत्"
-      },
-      {
-        "word_sanskrit": "उवाच",
-        "word_english": "said",
-        "grammar_role": null,
-        "root": "√वच्"
-      },
-      {
         "word_sanskrit": "बहूनि",
         "word_english": "many",
-        "grammar_role": "Karma",
-        "root": "बहु"
+        "grammar_role": "बहु · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "बहूनि"
       },
       {
         "word_sanskrit": "मे",
-        "word_english": "of me / my",
-        "grammar_role": null,
-        "root": "अस्मद्"
+        "word_english": "of mine",
+        "grammar_role": "अस्मद् · षष्ठी·एकवचन",
+        "root": "मे"
       },
       {
         "word_sanskrit": "व्यतीतानि",
-        "word_english": "passed (gone by)",
-        "grammar_role": "Karma",
-        "root": "वि+अति+√इ (व्यतीत)"
+        "word_english": "have elapsed, gone by, past",
+        "grammar_role": "√वि+अति+इ · क्त-कृदन्त · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "व्यतीतानि"
       },
       {
         "word_sanskrit": "जन्मानि",
         "word_english": "births",
-        "grammar_role": "Karma",
-        "root": "जन्मन्"
+        "grammar_role": "जन्मन् · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "जन्मानि"
       },
       {
         "word_sanskrit": "तव",
-        "word_english": "of you / your",
-        "grammar_role": null,
-        "root": "युष्मद्"
+        "word_english": "of yours",
+        "grammar_role": "युष्मद् · षष्ठी·एकवचन",
+        "root": "तव"
       },
       {
-        "word_sanskrit": "च",
-        "word_english": "and",
-        "grammar_role": null,
-        "root": "च"
+        "word_sanskrit": "चार्जुन",
+        "word_english": "and, O Arjuna",
+        "grammar_role": "च · अव्यय (समुच्चय) + अर्जुन · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "च + अर्जुन"
       },
       {
-        "word_sanskrit": "अर्जुन",
-        "word_english": "O Arjuna",
-        "grammar_role": null,
-        "root": "अर्जुन"
-      },
-      {
-        "word_sanskrit": "तानि",
-        "word_english": "those",
-        "grammar_role": "Karma",
-        "root": "तद्"
-      },
-      {
-        "word_sanskrit": "अहम्",
-        "word_english": "I",
-        "grammar_role": "Karta",
-        "root": "अस्मद्"
+        "word_sanskrit": "तान्यहं",
+        "word_english": "those, I",
+        "grammar_role": "तद् · प्रथमा·बहुवचन·नपुंसकलिङ्ग + अस्मद् · प्रथमा·एकवचन",
+        "root": "तानि + अहम्"
       },
       {
         "word_sanskrit": "वेद",
-        "word_english": "know",
-        "grammar_role": null,
-        "root": "√विद्"
+        "word_english": "I know",
+        "grammar_role": "√विद् · लिट्·उत्तमपुरुष·एकवचन·परस्मैपद (वर्तमानार्थे)",
+        "root": "वेद"
       },
       {
         "word_sanskrit": "सर्वाणि",
-        "word_english": "all",
-        "grammar_role": "Karma",
-        "root": "सर्व"
+        "word_english": "all (of them)",
+        "grammar_role": "सर्व · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "सर्वाणि"
       },
       {
         "word_sanskrit": "न",
         "word_english": "not",
-        "grammar_role": null,
+        "grammar_role": "न · अव्यय (निषेध)",
         "root": "न"
       },
       {
-        "word_sanskrit": "त्वम्",
+        "word_sanskrit": "त्वं",
         "word_english": "you",
-        "grammar_role": "Karta",
-        "root": "युष्मद्"
+        "grammar_role": "युष्मद् · प्रथमा·एकवचन",
+        "root": "त्वम्"
       },
       {
         "word_sanskrit": "वेत्थ",
-        "word_english": "know",
-        "grammar_role": null,
-        "root": "√विद्"
+        "word_english": "you know",
+        "grammar_role": "√विद् · लिट्·मध्यमपुरुष·एकवचन·परस्मैपद (वर्तमानार्थे)",
+        "root": "वेत्थ"
       },
       {
         "word_sanskrit": "परन्तप",
         "word_english": "O scorcher of foes",
-        "grammar_role": null,
+        "grammar_role": "परन्तप · सम्बोधन·एकवचन·पुंलिङ्ग",
         "root": "परन्तप"
       }
     ],
@@ -1288,82 +1132,46 @@
     "comparative_note": "Traditional Vedāntic readings stress the paradox of the unborn appearing as born via māyā (divine power). Academic translations often render māyā as 'power' or 'creative capacity' and prakṛti as 'nature,' noting the verse’s role in theorizing divine manifestation without implying ordinary biological origination.",
     "word_by_word": [
       {
-        "word_sanskrit": "अजः",
-        "word_english": "unborn",
-        "grammar_role": null,
-        "root": "अज"
+        "word_sanskrit": "अजोऽपि",
+        "word_english": "though unborn (free from birth)",
+        "grammar_role": "अज · प्रथमा·एकवचन·पुंलिङ्ग + अपि · अव्यय",
+        "root": "अजः + अपि"
       },
       {
-        "word_sanskrit": "अपि",
-        "word_english": "even/although",
-        "grammar_role": null,
-        "root": "अपि"
+        "word_sanskrit": "सन्नव्ययात्मा",
+        "word_english": "being so, of undecaying knowledge-power nature",
+        "grammar_role": "सत् (√अस्, शतृ) · प्रथमा·एकवचन·पुंलिङ्ग + अव्ययात्मन् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सन् + अव्यय-आत्मा"
       },
       {
-        "word_sanskrit": "सन्",
-        "word_english": "being; existing",
-        "grammar_role": null,
-        "root": "√अस्"
-      },
-      {
-        "word_sanskrit": "अव्ययात्मा",
-        "word_english": "one whose Self is imperishable",
-        "grammar_role": null,
-        "root": "अव्यय-आत्मन्"
-      },
-      {
-        "word_sanskrit": "भूतानाम्",
-        "word_english": "of beings",
-        "grammar_role": null,
-        "root": "भूत"
-      },
-      {
-        "word_sanskrit": "ईश्वरः",
-        "word_english": "the Lord; ruler",
-        "grammar_role": null,
-        "root": "ईश्वर"
-      },
-      {
-        "word_sanskrit": "अपि",
-        "word_english": "even/although",
-        "grammar_role": null,
-        "root": "अपि"
+        "word_sanskrit": "भूतानामीश्वरोऽपि",
+        "word_english": "though Lord of beings (Brahmā to grass)",
+        "grammar_role": "भूत · षष्ठी·बहुवचन·नपुंसकलिङ्ग + ईश्वर · प्रथमा·एकवचन·पुंलिङ्ग + अपि · अव्यय",
+        "root": "भूतानाम् + ईश्वरः + अपि"
       },
       {
         "word_sanskrit": "सन्",
-        "word_english": "being",
-        "grammar_role": null,
-        "root": "√अस्"
+        "word_english": "being so",
+        "grammar_role": "सत् (√अस्, शतृ) · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सन्"
       },
       {
-        "word_sanskrit": "प्रकृतिम्",
-        "word_english": "Prakriti; nature",
-        "grammar_role": "Karma",
-        "root": "प्रकृति"
+        "word_sanskrit": "प्रकृतिं",
+        "word_english": "My nature (Vaiṣṇavī māyā, three-guṇa'd)",
+        "grammar_role": "प्रकृति · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "प्रकृतिम्"
       },
       {
-        "word_sanskrit": "स्वाम्",
-        "word_english": "one’s own",
-        "grammar_role": null,
-        "root": "स्व"
+        "word_sanskrit": "स्वामधिष्ठाय",
+        "word_english": "having mastered (My) own (nature)",
+        "grammar_role": "स्व · द्वितीया·एकवचन·स्त्रीलिङ्ग + अधिष्ठाय · अव्यय (ल्यबन्त, अधि+√स्था)",
+        "root": "स्वाम् + अधिष्ठाय"
       },
       {
-        "word_sanskrit": "अधिष्ठाय",
-        "word_english": "having presided over; taking control of",
-        "grammar_role": null,
-        "root": "√स्था अधि"
-      },
-      {
-        "word_sanskrit": "संभवामि",
-        "word_english": "I come into being; I manifest",
-        "grammar_role": "Karta",
-        "root": "√भू सम्"
-      },
-      {
-        "word_sanskrit": "आत्ममायया",
-        "word_english": "by (My) own māyā",
-        "grammar_role": "Karana",
-        "root": "आत्म-माया"
+        "word_sanskrit": "सम्भवाम्यात्ममायया",
+        "word_english": "I come into being by My own māyā",
+        "grammar_role": "√भू (सम्) · लट्·उत्तमपुरुष·एकवचन·परस्मैपद + आत्म-माया · तृतीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "सम्भवामि + आत्म-मायया"
       }
     ],
     "commentary_faqs": [
@@ -1528,80 +1336,56 @@
       {
         "word_sanskrit": "यदा",
         "word_english": "when",
-        "grammar_role": null,
+        "grammar_role": "यदा · अव्यय (कालवाचक)",
         "root": "यदा"
       },
       {
         "word_sanskrit": "यदा",
-        "word_english": "whenever (again and again)",
-        "grammar_role": null,
+        "word_english": "when (repeated: whenever)",
+        "grammar_role": "यदा · अव्यय (कालवाचक)",
         "root": "यदा"
       },
       {
         "word_sanskrit": "हि",
-        "word_english": "indeed / for",
-        "grammar_role": null,
+        "word_english": "indeed, for",
+        "grammar_role": "हि · अव्यय (हेत्वर्थे/निश्चये)",
         "root": "हि"
       },
       {
         "word_sanskrit": "धर्मस्य",
-        "word_english": "of dharma (righteous order/duty)",
-        "grammar_role": null,
-        "root": "धर्म"
+        "word_english": "of righteousness (varṇāśrama-based)",
+        "grammar_role": "धर्म · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "धर्मस्य"
       },
       {
-        "word_sanskrit": "ग्लानिः",
-        "word_english": "decline / deterioration",
-        "grammar_role": "Karta",
-        "root": "ग्लानि"
-      },
-      {
-        "word_sanskrit": "भवति",
-        "word_english": "arises / becomes / occurs",
-        "grammar_role": null,
-        "root": "भू (√भू)"
+        "word_sanskrit": "ग्लानिर्भवति",
+        "word_english": "decline (loss) occurs",
+        "grammar_role": "ग्लानि · प्रथमा·एकवचन·स्त्रीलिङ्ग + √भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "ग्लानिः + भवति"
       },
       {
         "word_sanskrit": "भारत",
-        "word_english": "O Bhārata (descendant of Bharata)",
-        "grammar_role": null,
+        "word_english": "O descendant of Bharata",
+        "grammar_role": "भारत · सम्बोधन·एकवचन·पुंलिङ्ग",
         "root": "भारत"
       },
       {
-        "word_sanskrit": "अभ्युत्थानम्",
-        "word_english": "uprising / rise / resurgence",
-        "grammar_role": "Karta",
-        "root": "अभ्युत्थान"
+        "word_sanskrit": "अभ्युत्थानमधर्मस्य",
+        "word_english": "rise (uprising) of unrighteousness",
+        "grammar_role": "अभ्युत्थान · प्रथमा·एकवचन·नपुंसकलिङ्ग + अधर्म · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "अभ्युत्थानम् + अधर्मस्य"
       },
       {
-        "word_sanskrit": "अधर्मस्य",
-        "word_english": "of adharma (unrighteousness)",
-        "grammar_role": null,
-        "root": "अधर्म"
+        "word_sanskrit": "तदात्मानं",
+        "word_english": "then [I create] My own self",
+        "grammar_role": "तदा · अव्यय (कालवाचक) + आत्मन् · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "तदा + आत्मानम्"
       },
       {
-        "word_sanskrit": "तदा",
-        "word_english": "then",
-        "grammar_role": null,
-        "root": "तदा"
-      },
-      {
-        "word_sanskrit": "आत्मानम्",
-        "word_english": "Myself / the Self",
-        "grammar_role": "Karma",
-        "root": "आत्मन्"
-      },
-      {
-        "word_sanskrit": "सृजामि",
-        "word_english": "I manifest / I bring forth",
-        "grammar_role": null,
-        "root": "सृज् (√सृज्)"
-      },
-      {
-        "word_sanskrit": "अहम्",
-        "word_english": "I",
-        "grammar_role": "Karta",
-        "root": "अहम्"
+        "word_sanskrit": "सृजाम्यहम्",
+        "word_english": "I manifest (create) myself — through māyā",
+        "grammar_role": "√सृज् · लट्·उत्तमपुरुष·एकवचन·परस्मैपद + अस्मद् · प्रथमा·एकवचन",
+        "root": "सृजामि + अहम्"
       }
     ],
     "commentary_faqs": [
@@ -1766,62 +1550,56 @@
       {
         "word_sanskrit": "परित्राणाय",
         "word_english": "for the protection (deliverance)",
-        "grammar_role": "Sampradana",
-        "root": "परित्राण"
+        "grammar_role": "परित्राण · चतुर्थी·एकवचन·नपुंसकलिङ्ग",
+        "root": "परित्राणाय"
       },
       {
-        "word_sanskrit": "साधूनाम्",
-        "word_english": "of the righteous (good people)",
-        "grammar_role": null,
-        "root": "साधु"
+        "word_sanskrit": "साधूनां",
+        "word_english": "of the good ones (those on the right path)",
+        "grammar_role": "साधु · षष्ठी·बहुवचन·पुंलिङ्ग",
+        "root": "साधूनाम्"
       },
       {
         "word_sanskrit": "विनाशाय",
         "word_english": "for the destruction",
-        "grammar_role": "Sampradana",
-        "root": "विनाश"
+        "grammar_role": "विनाश · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "विनाशाय"
       },
       {
         "word_sanskrit": "च",
         "word_english": "and",
-        "grammar_role": null,
+        "grammar_role": "च · अव्यय (समुच्चयार्थक)",
         "root": "च"
       },
       {
         "word_sanskrit": "दुष्कृताम्",
-        "word_english": "of the evil-doers (wrongdoers)",
-        "grammar_role": null,
-        "root": "दुष्कृत"
+        "word_english": "of the evil-doers",
+        "grammar_role": "दुष्कृत् · षष्ठी·बहुवचन·पुंलिङ्ग",
+        "root": "दुष्कृताम्"
       },
       {
-        "word_sanskrit": "धर्म",
-        "word_english": "dharma (righteous order)",
-        "grammar_role": null,
-        "root": "धर्म"
-      },
-      {
-        "word_sanskrit": "संस्थापनार्थाय",
-        "word_english": "for the purpose of establishing",
-        "grammar_role": "Sampradana",
-        "root": "संस्थापनार्थ"
+        "word_sanskrit": "धर्मसंस्थापनार्थाय",
+        "word_english": "for the purpose of firmly establishing dharma",
+        "grammar_role": "धर्म-संस्थापन-अर्थ · चतुर्थी·एकवचन·पुंलिङ्ग",
+        "root": "धर्म-संस्थापन-अर्थाय"
       },
       {
         "word_sanskrit": "सम्भवामि",
-        "word_english": "I come into being / I manifest",
-        "grammar_role": "Karta",
-        "root": "√भू (सम् + भू)"
+        "word_english": "I come into being (manifest myself)",
+        "grammar_role": "√सम्भू · लट्·उत्तमपुरुष·एकवचन·परस्मैपद",
+        "root": "सम्भवामि"
       },
       {
         "word_sanskrit": "युगे",
-        "word_english": "in (each) age",
-        "grammar_role": "Adhikarana",
-        "root": "युग"
+        "word_english": "in age (after age)",
+        "grammar_role": "युग · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "युगे"
       },
       {
         "word_sanskrit": "युगे",
-        "word_english": "in (every) age",
-        "grammar_role": "Adhikarana",
-        "root": "युग"
+        "word_english": "in (every) age — age after age",
+        "grammar_role": "युग · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "युगे"
       }
     ],
     "commentary_faqs": [
@@ -1985,117 +1763,87 @@
     "word_by_word": [
       {
         "word_sanskrit": "जन्म",
-        "word_english": "birth",
-        "grammar_role": null,
-        "root": "जन्मन्"
+        "word_english": "birth (of the nature of māyā) — object of vetti",
+        "grammar_role": "जन्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "जन्म"
       },
       {
         "word_sanskrit": "कर्म",
-        "word_english": "action, deed",
-        "grammar_role": null,
-        "root": "कर्मन्"
+        "word_english": "action (protecting the good, etc.) — object of vetti",
+        "grammar_role": "कर्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म"
       },
       {
         "word_sanskrit": "च",
         "word_english": "and",
-        "grammar_role": null,
+        "grammar_role": "च · अव्यय (समुच्चय)",
         "root": "च"
       },
       {
         "word_sanskrit": "मे",
-        "word_english": "of me, my",
-        "grammar_role": null,
-        "root": "अस्मद्"
+        "word_english": "my (mama)",
+        "grammar_role": "अस्मद् · षष्ठी·एकवचन (मम)",
+        "root": "मे"
       },
       {
-        "word_sanskrit": "दिव्यम्",
-        "word_english": "divine, transcendental",
-        "grammar_role": null,
-        "root": "दिव्य"
+        "word_sanskrit": "दिव्यमेवं",
+        "word_english": "divine, non-material, lordly; thus (as stated)",
+        "grammar_role": "दिव्य · द्वितीया·एकवचन·नपुंसकलिङ्ग + एवम् · अव्यय",
+        "root": "दिव्यम् + एवम्"
       },
       {
-        "word_sanskrit": "एवम्",
-        "word_english": "thus, in this manner",
-        "grammar_role": null,
-        "root": "एवम्"
-      },
-      {
-        "word_sanskrit": "यः",
-        "word_english": "who",
-        "grammar_role": "Karta",
-        "root": "यद्"
+        "word_sanskrit": "यो",
+        "word_english": "he who",
+        "grammar_role": "यद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "यः"
       },
       {
         "word_sanskrit": "वेत्ति",
         "word_english": "knows",
-        "grammar_role": null,
-        "root": "√विद् (विदँ ज्ञाने)"
+        "grammar_role": "√विद् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "वेत्ति"
       },
       {
         "word_sanskrit": "तत्त्वतः",
         "word_english": "in truth, as it really is",
-        "grammar_role": null,
-        "root": "तत्त्व"
+        "grammar_role": "तत्त्व + तसिल् · अव्यय",
+        "root": "तत्त्वतः"
       },
       {
         "word_sanskrit": "त्यक्त्वा",
         "word_english": "having abandoned",
-        "grammar_role": null,
-        "root": "√त्यज् (त्यजँ परित्यागे)"
+        "grammar_role": "√त्यज् · क्त्वा-कृदन्त (अव्यय)",
+        "root": "त्यक्त्वा"
       },
       {
-        "word_sanskrit": "देहम्",
-        "word_english": "the body",
-        "grammar_role": "Karma",
-        "root": "देह"
+        "word_sanskrit": "देहं",
+        "word_english": "this body",
+        "grammar_role": "देह · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "देहम्"
       },
       {
-        "word_sanskrit": "पुनः",
-        "word_english": "again",
-        "grammar_role": null,
-        "root": "पुनः"
+        "word_sanskrit": "पुनर्जन्म",
+        "word_english": "rebirth (re-arising) — object of na eti",
+        "grammar_role": "पुनः · अव्यय + जन्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "पुनः + जन्म"
       },
       {
-        "word_sanskrit": "जन्म",
-        "word_english": "birth",
-        "grammar_role": "Karma",
-        "root": "जन्मन्"
+        "word_sanskrit": "नैति",
+        "word_english": "does not attain (na prāpnoti)",
+        "grammar_role": "न · अव्यय (निषेध) + √इ · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "न + एति"
       },
       {
-        "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
-        "root": "न"
+        "word_sanskrit": "मामेति",
+        "word_english": "comes to Me (āgacchati)",
+        "grammar_role": "अस्मद् · द्वितीया·एकवचन + √इ · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "माम् + एति"
       },
       {
-        "word_sanskrit": "एति",
-        "word_english": "goes, attains",
-        "grammar_role": null,
-        "root": "√इ (इण् गतौ)"
-      },
-      {
-        "word_sanskrit": "माम्",
-        "word_english": "me",
-        "grammar_role": "Karma",
-        "root": "अस्मद्"
-      },
-      {
-        "word_sanskrit": "एति",
-        "word_english": "goes, attains",
-        "grammar_role": null,
-        "root": "√इ (इण् गतौ)"
-      },
-      {
-        "word_sanskrit": "सः",
-        "word_english": "he",
-        "grammar_role": "Karta",
-        "root": "तद्"
-      },
-      {
-        "word_sanskrit": "अर्जुन",
-        "word_english": "O Arjuna",
-        "grammar_role": null,
-        "root": "अर्जुन"
+        "word_sanskrit": "सोऽर्जुन",
+        "word_english": "he (is liberated), O Arjuna",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग + अर्जुन · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "सः + अर्जुन"
       }
     ],
     "commentary_faqs": [
@@ -2258,82 +2006,46 @@
     "comparative_note": "Key terms admit range: tapas can mean ascetic practice or disciplined ardor; mad-bhāva may be read devotionally as “My nature/state” or philosophically as “participation in the divine mode of being.” No major textual variants are prominent here in standard recensions.",
     "word_by_word": [
       {
-        "word_sanskrit": "वीत",
-        "word_english": "gone beyond; departed from",
-        "grammar_role": null,
-        "root": "वीत (वि+इ √इ)"
+        "word_sanskrit": "वीतरागभयक्रोधा",
+        "word_english": "those from whom attachment, fear, anger have departed",
+        "grammar_role": "वीतरागभयक्रोध · प्रथमा·बहुवचन·पुंलिङ्ग (बहुव्रीहि)",
+        "root": "वीत-राग-भय-क्रोधाः"
       },
       {
-        "word_sanskrit": "राग",
-        "word_english": "attachment; passion",
-        "grammar_role": null,
-        "root": "राग"
+        "word_sanskrit": "मन्मया",
+        "word_english": "absorbed in Me, knowers of Brahman",
+        "grammar_role": "मन्मय · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "मन्मयाः"
       },
       {
-        "word_sanskrit": "भय",
-        "word_english": "fear",
-        "grammar_role": null,
-        "root": "भय"
+        "word_sanskrit": "मामुपाश्रिताः",
+        "word_english": "having taken refuge in Me, the Supreme Lord",
+        "grammar_role": "अस्मद् · द्वितीया·एकवचन + उप-आ-√श्रि · क्त-कृदन्त·प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "माम् + उपाश्रिताः"
       },
       {
-        "word_sanskrit": "क्रोधाः",
-        "word_english": "(those) whose anger (etc.) has departed; free from anger",
-        "grammar_role": "Karta",
-        "root": "क्रोध"
-      },
-      {
-        "word_sanskrit": "मन्मयाः",
-        "word_english": "absorbed in Me; made of Me (i.e., wholly devoted to Me)",
-        "grammar_role": "Karta",
-        "root": "मन्मय (मत्+मय)"
-      },
-      {
-        "word_sanskrit": "माम्",
-        "word_english": "Me",
-        "grammar_role": "Karma",
-        "root": "अस्मद्"
-      },
-      {
-        "word_sanskrit": "उपाश्रिताः",
-        "word_english": "having taken refuge in; resorted to",
-        "grammar_role": "Karta",
-        "root": "उप-आ-श्रि (√श्रि)"
-      },
-      {
-        "word_sanskrit": "बहवः",
+        "word_sanskrit": "बहवो",
         "word_english": "many",
-        "grammar_role": "Karta",
-        "root": "बहु"
+        "grammar_role": "बहु · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "बहवः"
       },
       {
-        "word_sanskrit": "ज्ञान",
-        "word_english": "knowledge",
-        "grammar_role": null,
-        "root": "ज्ञान"
+        "word_sanskrit": "ज्ञानतपसा",
+        "word_english": "by the austerity that is knowledge of the Supreme Self",
+        "grammar_role": "ज्ञानतपस् · तृतीया·एकवचन·नपुंसकलिङ्ग (कर्मधारय)",
+        "root": "ज्ञान-तपसा"
       },
       {
-        "word_sanskrit": "तपसा",
-        "word_english": "by the austerity of knowledge; through knowledge as tapas",
-        "grammar_role": "Karana",
-        "root": "तपस्"
+        "word_sanskrit": "पूता",
+        "word_english": "purified, having attained supreme purity",
+        "grammar_role": "√पू · क्त-कृदन्त·प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "पूताः"
       },
       {
-        "word_sanskrit": "पूताः",
-        "word_english": "purified",
-        "grammar_role": "Karta",
-        "root": "पू (√पू)"
-      },
-      {
-        "word_sanskrit": "मद्भावम्",
-        "word_english": "My state/being; My nature",
-        "grammar_role": "Karma",
-        "root": "मद्भाव (मत्+भाव)"
-      },
-      {
-        "word_sanskrit": "आगताः",
-        "word_english": "have attained; have come to",
-        "grammar_role": "Karta",
-        "root": "आ-गम् (√गम्)"
+        "word_sanskrit": "मद्भावमागताः",
+        "word_english": "attained My state, the Lord's being, liberation",
+        "grammar_role": "मद्भाव · द्वितीया·एकवचन·पुंलिङ्ग + आ-√गम् · क्त-कृदन्त·प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "मद्भावम् + आगताः"
       }
     ],
     "commentary_faqs": [
@@ -2498,92 +2210,68 @@
       {
         "word_sanskrit": "ये",
         "word_english": "those who",
-        "grammar_role": "Karta",
-        "root": "यद्"
+        "grammar_role": "यद् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "ये"
       },
       {
         "word_sanskrit": "यथा",
-        "word_english": "in whatever manner",
-        "grammar_role": null,
+        "word_english": "in whatever manner / for whatever purpose",
+        "grammar_role": "यथा · अव्यय",
         "root": "यथा"
       },
       {
-        "word_sanskrit": "माम्",
+        "word_sanskrit": "मां",
         "word_english": "me",
-        "grammar_role": "Karma",
-        "root": "अस्मद्"
+        "grammar_role": "अस्मद् · द्वितीया·एकवचन",
+        "root": "माम्"
       },
       {
         "word_sanskrit": "प्रपद्यन्ते",
-        "word_english": "take refuge (in), surrender",
-        "grammar_role": null,
-        "root": "√पद् (प्र+पद्)"
+        "word_english": "they resort to, approach",
+        "grammar_role": "√प्र_पद् · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "प्रपद्यन्ते"
       },
       {
-        "word_sanskrit": "तान्",
-        "word_english": "them",
-        "grammar_role": "Karma",
-        "root": "तद्"
+        "word_sanskrit": "तांस्तथैव",
+        "word_english": "them in exactly that same way",
+        "grammar_role": "तद् · द्वितीया·बहुवचन·पुंलिङ्ग + तथा · अव्यय + एव · अव्यय",
+        "root": "तान् + तथा + एव"
       },
       {
-        "word_sanskrit": "तथा",
-        "word_english": "so, in that way",
-        "grammar_role": null,
-        "root": "तथा"
-      },
-      {
-        "word_sanskrit": "एव",
-        "word_english": "indeed, just",
-        "grammar_role": null,
-        "root": "एव"
-      },
-      {
-        "word_sanskrit": "भजामि",
-        "word_english": "I reciprocate with / I favor / I partake with",
-        "grammar_role": null,
-        "root": "√भज्"
-      },
-      {
-        "word_sanskrit": "अहम्",
-        "word_english": "I",
-        "grammar_role": "Karta",
-        "root": "अस्मद्"
+        "word_sanskrit": "भजाम्यहम्",
+        "word_english": "I favour, reward (them accordingly); I",
+        "grammar_role": "√भज् · लट्·उत्तमपुरुष·एकवचन·परस्मैपद + अस्मद् · प्रथमा·एकवचन",
+        "root": "भजामि + अहम्"
       },
       {
         "word_sanskrit": "मम",
-        "word_english": "of me, my",
-        "grammar_role": null,
-        "root": "अस्मद्"
+        "word_english": "my (the Lord's)",
+        "grammar_role": "अस्मद् · षष्ठी·एकवचन",
+        "root": "मम"
       },
       {
-        "word_sanskrit": "वर्त्म",
-        "word_english": "path, way",
-        "grammar_role": "Karma",
-        "root": "वर्त्मन्"
-      },
-      {
-        "word_sanskrit": "अनुवर्तन्ते",
-        "word_english": "follow, proceed along",
-        "grammar_role": null,
-        "root": "√वृत् (अनु+वृत्)"
+        "word_sanskrit": "वर्त्मानुवर्तन्ते",
+        "word_english": "they follow (my) path",
+        "grammar_role": "वर्त्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग + √अनु_वृत् · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "वर्त्म + अनुवर्तन्ते"
       },
       {
         "word_sanskrit": "मनुष्याः",
-        "word_english": "human beings",
-        "grammar_role": "Karta",
-        "root": "मनुष्य"
+        "word_english": "men, people",
+        "grammar_role": "मनुष्य · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "मनुष्याः"
       },
       {
         "word_sanskrit": "पार्थ",
-        "word_english": "O son of Pṛthā (Arjuna)",
-        "grammar_role": null,
+        "word_english": "O Pārtha (son of Pṛthā)",
+        "grammar_role": "पार्थ · सम्बोधन·एकवचन·पुंलिङ्ग",
         "root": "पार्थ"
       },
       {
         "word_sanskrit": "सर्वशः",
-        "word_english": "in every way, entirely",
-        "grammar_role": null,
-        "root": "सर्वशस्"
+        "word_english": "in all ways, in every way",
+        "grammar_role": "सर्वशः · अव्यय",
+        "root": "सर्वशः"
       }
     ],
     "commentary_faqs": [
@@ -2748,80 +2436,74 @@
       {
         "word_sanskrit": "काङ्क्षन्तः",
         "word_english": "desiring, longing for",
-        "grammar_role": "Karta",
-        "root": "√काङ्क्ष्"
+        "grammar_role": "√काङ्क्ष् (काङ्क्षत्) · शतृ-कृदन्त · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "काङ्क्षन्तः"
       },
       {
-        "word_sanskrit": "कर्मणाम्",
-        "word_english": "of actions (rites/works)",
-        "grammar_role": null,
-        "root": "कर्मन्"
+        "word_sanskrit": "कर्मणां",
+        "word_english": "of works, of actions",
+        "grammar_role": "कर्मन् · षष्ठी·बहुवचन·नपुंसकलिङ्ग",
+        "root": "कर्मणाम्"
       },
       {
-        "word_sanskrit": "सिद्धिम्",
-        "word_english": "success, accomplishment (result)",
-        "grammar_role": "Karma",
-        "root": "सिद्धि"
+        "word_sanskrit": "सिद्धिं",
+        "word_english": "the fruition (of works)",
+        "grammar_role": "सिद्धि · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "सिद्धिम्"
       },
       {
-        "word_sanskrit": "यजन्ते",
-        "word_english": "they worship, they sacrifice",
-        "grammar_role": null,
-        "root": "√यज्"
+        "word_sanskrit": "यजन्त",
+        "word_english": "they worship by sacrifices",
+        "grammar_role": "√यज् · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "यजन्ते"
       },
       {
         "word_sanskrit": "इह",
-        "word_english": "here (in this world)",
-        "grammar_role": "Adhikarana",
+        "word_english": "here, in this world",
+        "grammar_role": "इह · अव्यय (देशवाचक)",
         "root": "इह"
       },
       {
         "word_sanskrit": "देवताः",
-        "word_english": "deities (divine beings)",
-        "grammar_role": "Karma",
-        "root": "देवता"
+        "word_english": "the deities (Indra, Agni, etc.)",
+        "grammar_role": "देवता · द्वितीया·बहुवचन·स्त्रीलिङ्ग",
+        "root": "देवताः"
       },
       {
-        "word_sanskrit": "क्षिप्रम्",
+        "word_sanskrit": "क्षिप्रं",
         "word_english": "quickly, swiftly",
-        "grammar_role": null,
+        "grammar_role": "क्षिप्रम् · अव्यय (कालवाचक)",
         "root": "क्षिप्रम्"
       },
       {
         "word_sanskrit": "हि",
-        "word_english": "indeed, for",
-        "grammar_role": null,
+        "word_english": "for, because",
+        "grammar_role": "हि · अव्यय (हेतुवाचक)",
         "root": "हि"
       },
       {
         "word_sanskrit": "मानुषे",
         "word_english": "in the human",
-        "grammar_role": "Adhikarana",
-        "root": "मानुष"
+        "grammar_role": "मानुष · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "मानुषे"
       },
       {
         "word_sanskrit": "लोके",
-        "word_english": "world, realm",
-        "grammar_role": "Adhikarana",
-        "root": "लोक"
+        "word_english": "world",
+        "grammar_role": "लोक · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "लोके"
       },
       {
-        "word_sanskrit": "सिद्धिः",
-        "word_english": "success (result)",
-        "grammar_role": null,
-        "root": "सिद्धि"
-      },
-      {
-        "word_sanskrit": "भवति",
-        "word_english": "arises, happens, comes to be",
-        "grammar_role": null,
-        "root": "√भू"
+        "word_sanskrit": "सिद्धिर्भवति",
+        "word_english": "success comes about",
+        "grammar_role": "सिद्धि · प्रथमा·एकवचन·स्त्रीलिङ्ग + √भू · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "सिद्धिः + भवति"
       },
       {
         "word_sanskrit": "कर्मजा",
-        "word_english": "born of action, arising from works",
-        "grammar_role": null,
-        "root": "कर्मज"
+        "word_english": "born of action (the success)",
+        "grammar_role": "कर्मज · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "कर्म-जा"
       }
     ],
     "commentary_faqs": [
@@ -2984,70 +2666,52 @@
     "comparative_note": "Interpretive debates center on whether varṇa is descriptive (based on disposition and function) or hereditary; the verse’s explicit basis is guṇa and karma. The second line introduces a metaphysical claim: ultimate reality as unbound by agency, even while being the ground of order.",
     "word_by_word": [
       {
-        "word_sanskrit": "चातुर्वर्ण्यम्",
-        "word_english": "the fourfold social order (of varṇas)",
-        "grammar_role": "Karma",
-        "root": "चातुर्वर्ण्य"
+        "word_sanskrit": "चातुर्वर्ण्यं",
+        "word_english": "the system of four varṇas (as object)",
+        "grammar_role": "चातुर्वर्ण्य · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "चातुर्वर्ण्यम्"
       },
       {
         "word_sanskrit": "मया",
-        "word_english": "by me",
-        "grammar_role": "Karana",
-        "root": "अस्मद्"
+        "word_english": "by Me (Īśvara)",
+        "grammar_role": "अस्मद् · तृतीया·एकवचन",
+        "root": "मया"
       },
       {
-        "word_sanskrit": "सृष्टम्",
-        "word_english": "created",
-        "grammar_role": null,
-        "root": "√सृज्"
+        "word_sanskrit": "सृष्टं",
+        "word_english": "created, produced",
+        "grammar_role": "√सृज् · क्त-कृदन्त · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "सृष्टम्"
       },
       {
         "word_sanskrit": "गुणकर्मविभागशः",
-        "word_english": "according to the division of qualities and actions",
-        "grammar_role": null,
-        "root": "गुणकर्मविभाग"
+        "word_english": "by division of qualities and actions",
+        "grammar_role": "गुण-कर्म-विभाग · अव्यय (शस्-प्रत्ययान्त)",
+        "root": "गुण-कर्म-विभागशः"
       },
       {
         "word_sanskrit": "तस्य",
-        "word_english": "of that (of it)",
-        "grammar_role": null,
-        "root": "तद्"
+        "word_english": "of that (the fourfold creation)",
+        "grammar_role": "तद् · षष्ठी·एकवचन·नपुंसकलिङ्ग",
+        "root": "तस्य"
       },
       {
-        "word_sanskrit": "कर्तारम्",
-        "word_english": "the doer / maker",
-        "grammar_role": "Karma",
-        "root": "कर्तृ"
+        "word_sanskrit": "कर्तारमपि",
+        "word_english": "though the maker (of it)",
+        "grammar_role": "कर्तृ · द्वितीया·एकवचन·पुंलिङ्ग + अपि · अव्यय",
+        "root": "कर्तारम् + अपि"
       },
       {
-        "word_sanskrit": "अपि",
-        "word_english": "even / also",
-        "grammar_role": null,
-        "root": "अपि"
+        "word_sanskrit": "मां",
+        "word_english": "Me",
+        "grammar_role": "अस्मद् · द्वितीया·एकवचन",
+        "root": "माम्"
       },
       {
-        "word_sanskrit": "माम्",
-        "word_english": "me",
-        "grammar_role": "Karma",
-        "root": "अस्मद्"
-      },
-      {
-        "word_sanskrit": "विद्धि",
-        "word_english": "know (you)",
-        "grammar_role": null,
-        "root": "√विद्"
-      },
-      {
-        "word_sanskrit": "अकर्तारम्",
-        "word_english": "as a non-doer",
-        "grammar_role": "Karma",
-        "root": "अकर्तृ"
-      },
-      {
-        "word_sanskrit": "अव्ययम्",
-        "word_english": "imperishable, unchanging",
-        "grammar_role": "Karma",
-        "root": "अव्यय"
+        "word_sanskrit": "विद्ध्यकर्तारमव्ययम्",
+        "word_english": "know (Me) as non-doer, immutable",
+        "grammar_role": "√विद् · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद + अकर्तृ · द्वितीया·एकवचन·पुंलिङ्ग + अव्यय (विशेषण) · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "विद्धि + अकर्तारम् + अव्ययम्"
       }
     ],
     "commentary_faqs": [
@@ -3212,98 +2876,86 @@
       {
         "word_sanskrit": "न",
         "word_english": "not",
-        "grammar_role": null,
+        "grammar_role": "न · अव्यय (निषेधार्थक)",
         "root": "न"
       },
       {
-        "word_sanskrit": "माम्",
-        "word_english": "me",
-        "grammar_role": "Karma",
-        "root": "अस्मद्"
+        "word_sanskrit": "मां",
+        "word_english": "Me (object of tainting)",
+        "grammar_role": "अस्मद् · द्वितीया·एकवचन",
+        "root": "माम्"
       },
       {
         "word_sanskrit": "कर्माणि",
-        "word_english": "actions (karmas)",
-        "grammar_role": "Karta",
-        "root": "कर्मन्"
+        "word_english": "actions (the subject; they do not taint)",
+        "grammar_role": "कर्मन् · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "कर्माणि"
       },
       {
         "word_sanskrit": "लिम्पन्ति",
-        "word_english": "stain/taint (do not taint)",
-        "grammar_role": null,
-        "root": "√लिप्"
+        "word_english": "taint, stain, smear",
+        "grammar_role": "√लिप् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "लिम्पन्ति"
       },
       {
         "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
+        "word_english": "nor",
+        "grammar_role": "न · अव्यय (निषेधार्थक)",
         "root": "न"
       },
       {
         "word_sanskrit": "मे",
-        "word_english": "of me / in me",
-        "grammar_role": null,
-        "root": "अस्मद्"
+        "word_english": "of Me, my",
+        "grammar_role": "अस्मद् · षष्ठी·एकवचन",
+        "root": "मे"
       },
       {
         "word_sanskrit": "कर्मफले",
-        "word_english": "in the fruit/result of action",
-        "grammar_role": "Adhikarana",
-        "root": "कर्मफल"
+        "word_english": "in the fruit of action",
+        "grammar_role": "कर्मफल · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म-फले"
       },
       {
         "word_sanskrit": "स्पृहा",
-        "word_english": "desire/longing",
-        "grammar_role": "Karta",
+        "word_english": "craving, longing (tṛṣṇā)",
+        "grammar_role": "स्पृहा · प्रथमा·एकवचन·स्त्रीलिङ्ग",
         "root": "स्पृहा"
       },
       {
         "word_sanskrit": "इति",
         "word_english": "thus",
-        "grammar_role": null,
+        "grammar_role": "इति · अव्यय (एवम्-अर्थक)",
         "root": "इति"
       },
       {
-        "word_sanskrit": "माम्",
-        "word_english": "me",
-        "grammar_role": "Karma",
-        "root": "अस्मद्"
+        "word_sanskrit": "मां",
+        "word_english": "Me (as the Self)",
+        "grammar_role": "अस्मद् · द्वितीया·एकवचन",
+        "root": "माम्"
       },
       {
-        "word_sanskrit": "यः",
-        "word_english": "who",
-        "grammar_role": "Karta",
-        "root": "यद्"
+        "word_sanskrit": "योऽभिजानाति",
+        "word_english": "who fully knows",
+        "grammar_role": "यद् · प्रथमा·एकवचन·पुंलिङ्ग + √ज्ञा (अभि+ज्ञा) · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "यः + अभिजानाति"
       },
       {
-        "word_sanskrit": "अभिजानाति",
-        "word_english": "knows clearly/recognizes",
-        "grammar_role": null,
-        "root": "√ज्ञा (अभि-)"
+        "word_sanskrit": "कर्मभिर्न",
+        "word_english": "by actions; not",
+        "grammar_role": "कर्मन् · तृतीया·बहुवचन·नपुंसकलिङ्ग + न · अव्यय (निषेधार्थक)",
+        "root": "कर्मभिः + न"
       },
       {
-        "word_sanskrit": "कर्मभिः",
-        "word_english": "by actions / through actions",
-        "grammar_role": "Karana",
-        "root": "कर्मन्"
-      },
-      {
-        "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
-        "root": "न"
-      },
-      {
-        "word_sanskrit": "सः",
-        "word_english": "he",
-        "grammar_role": "Karta",
-        "root": "तद्"
+        "word_sanskrit": "स",
+        "word_english": "he, that one",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
       },
       {
         "word_sanskrit": "बध्यते",
         "word_english": "is bound",
-        "grammar_role": null,
-        "root": "√बन्ध्"
+        "grammar_role": "√बन्ध् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद (कर्मणि)",
+        "root": "बध्यते"
       }
     ],
     "commentary_faqs": [
@@ -3466,94 +3118,76 @@
     "comparative_note": "The verse appeals to precedent: liberation is not restricted to renunciation of action; rather, action informed by right knowledge is presented as compatible with mokṣa-oriented life.",
     "word_by_word": [
       {
-        "word_sanskrit": "एवम्",
-        "word_english": "thus, in this manner",
-        "grammar_role": null,
+        "word_sanskrit": "एवं",
+        "word_english": "thus, in this way",
+        "grammar_role": "एवम् · अव्यय",
         "root": "एवम्"
       },
       {
         "word_sanskrit": "ज्ञात्वा",
         "word_english": "having known",
-        "grammar_role": null,
-        "root": "√ज्ञा (जाना)"
+        "grammar_role": "√ज्ञा · क्त्वा-कृदन्त (पूर्वकालिक)",
+        "root": "ज्ञात्वा"
       },
       {
-        "word_sanskrit": "कृतम्",
-        "word_english": "done, performed",
-        "grammar_role": null,
-        "root": "√कृ (करना)"
+        "word_sanskrit": "कृतं",
+        "word_english": "(the action that was) performed",
+        "grammar_role": "√कृ · क्त-कृदन्त · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कृतम्"
       },
       {
         "word_sanskrit": "कर्म",
-        "word_english": "action, work",
-        "grammar_role": "Karma",
-        "root": "कर्मन्"
+        "word_english": "action, work (object of 'having known')",
+        "grammar_role": "कर्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म"
       },
       {
-        "word_sanskrit": "पूर्वैः",
-        "word_english": "by the ancients, by the former ones",
-        "grammar_role": "Karta",
-        "root": "पूर्व"
-      },
-      {
-        "word_sanskrit": "अपि",
-        "word_english": "also, even",
-        "grammar_role": null,
-        "root": "अपि"
+        "word_sanskrit": "पूर्वैरपि",
+        "word_english": "by the ancients (past ones) too",
+        "grammar_role": "पूर्व · तृतीया·बहुवचन·पुंलिङ्ग + अपि · अव्यय",
+        "root": "पूर्वैः + अपि"
       },
       {
         "word_sanskrit": "मुमुक्षुभिः",
-        "word_english": "by those desiring liberation",
-        "grammar_role": "Karta",
-        "root": "मुमुक्षु"
+        "word_english": "by seekers of liberation",
+        "grammar_role": "मुमुक्षु · तृतीया·बहुवचन·पुंलिङ्ग",
+        "root": "मुमुक्षुभिः"
       },
       {
         "word_sanskrit": "कुरु",
-        "word_english": "do (you), perform",
-        "grammar_role": null,
-        "root": "√कृ (करना)"
+        "word_english": "do, perform",
+        "grammar_role": "√कृ · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "कुरु"
       },
       {
-        "word_sanskrit": "कर्म",
-        "word_english": "action",
-        "grammar_role": "Karma",
-        "root": "कर्मन्"
+        "word_sanskrit": "कर्मैव",
+        "word_english": "action alone (do action only)",
+        "grammar_role": "कर्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग + एव · अव्यय",
+        "root": "कर्म + एव"
       },
       {
-        "word_sanskrit": "एव",
-        "word_english": "indeed, only",
-        "grammar_role": null,
-        "root": "एव"
-      },
-      {
-        "word_sanskrit": "तस्मात्",
-        "word_english": "therefore, for that reason",
-        "grammar_role": null,
-        "root": "तस्मात् (तद्-प्रातिपदिक)"
-      },
-      {
-        "word_sanskrit": "त्वम्",
-        "word_english": "you",
-        "grammar_role": "Karta",
-        "root": "युष्मद्"
+        "word_sanskrit": "तस्मात्त्वं",
+        "word_english": "therefore you",
+        "grammar_role": "तद् · पञ्चमी·एकवचन·पुंलिङ्ग/नपुंसकलिङ्ग (अव्ययवत्, 'therefore') + युष्मद् · प्रथमा·एकवचन",
+        "root": "तस्मात् + त्वम्"
       },
       {
         "word_sanskrit": "पूर्वैः",
-        "word_english": "by the ancients",
-        "grammar_role": "Karta",
-        "root": "पूर्व"
+        "word_english": "by predecessors (like Janaka)",
+        "grammar_role": "पूर्व · तृतीया·बहुवचन·पुंलिङ्ग",
+        "root": "पूर्वैः"
       },
       {
-        "word_sanskrit": "पूर्वतरम्",
-        "word_english": "more ancient, earlier",
-        "grammar_role": null,
-        "root": "पूर्वतर"
+        "word_sanskrit": "पूर्वतरं",
+        "word_english": "in earlier (more ancient) times",
+        "grammar_role": "पूर्वतर · द्वितीया·एकवचन·नपुंसकलिङ्ग (अव्ययवत्)",
+        "root": "पूर्वतरम्"
       },
       {
         "word_sanskrit": "कृतम्",
-        "word_english": "done, performed",
-        "grammar_role": null,
-        "root": "√कृ (करना)"
+        "word_english": "(that which was) performed",
+        "grammar_role": "√कृ · क्त-कृदन्त · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कृतम्"
       }
     ],
     "commentary_faqs": [
@@ -3716,106 +3350,64 @@
     "comparative_note": "kavayaḥ can denote ‘sages’ or ‘poets’ (learned seers). aśubha is often read ethically and existentially: misfortune, demerit, or binding consequences.",
     "word_by_word": [
       {
-        "word_sanskrit": "किम्",
-        "word_english": "what?",
-        "grammar_role": null,
+        "word_sanskrit": "किं",
+        "word_english": "what (is action?)",
+        "grammar_role": "किम् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
         "root": "किम्"
       },
       {
         "word_sanskrit": "कर्म",
-        "word_english": "action (karma)",
-        "grammar_role": null,
-        "root": "कर्मन्"
+        "word_english": "action",
+        "grammar_role": "कर्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म"
       },
       {
-        "word_sanskrit": "किम्",
-        "word_english": "what?",
-        "grammar_role": null,
-        "root": "किम्"
+        "word_sanskrit": "किमकर्मेति",
+        "word_english": "and what is inaction — thus",
+        "grammar_role": "किम् · प्रथमा·एकवचन·नपुंसकलिङ्ग + अकर्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग + इति · अव्यय",
+        "root": "किम् + अकर्म + इति"
       },
       {
-        "word_sanskrit": "अकर्म",
-        "word_english": "inaction; non-action",
-        "grammar_role": null,
-        "root": "अकर्मन्"
-      },
-      {
-        "word_sanskrit": "इति",
-        "word_english": "thus; as (it is said/asked)",
-        "grammar_role": null,
-        "root": "इति"
-      },
-      {
-        "word_sanskrit": "कवयः",
-        "word_english": "the wise; sages; thinkers",
-        "grammar_role": "Karta",
-        "root": "कवि"
-      },
-      {
-        "word_sanskrit": "अपि",
-        "word_english": "even; also",
-        "grammar_role": null,
-        "root": "अपि"
-      },
-      {
-        "word_sanskrit": "अत्र",
-        "word_english": "here; in this matter",
-        "grammar_role": "Adhikarana",
-        "root": "अत्र"
+        "word_sanskrit": "कवयोऽप्यत्र",
+        "word_english": "even the wise, in this matter",
+        "grammar_role": "कवि · प्रथमा·बहुवचन·पुंलिङ्ग + अपि · अव्यय + अत्र · अव्यय",
+        "root": "कवयः + अपि + अत्र"
       },
       {
         "word_sanskrit": "मोहिताः",
-        "word_english": "deluded; bewildered",
-        "grammar_role": null,
-        "root": "√मुह् (मोहने)"
+        "word_english": "are deluded",
+        "grammar_role": "√मुह् + णिच् · क्त-कृदन्त (कारित) · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "मोहिताः"
       },
       {
-        "word_sanskrit": "तत्",
-        "word_english": "that (i.e., that topic/that truth)",
-        "grammar_role": "Karma",
-        "root": "तद्"
-      },
-      {
-        "word_sanskrit": "ते",
-        "word_english": "to you; for you",
-        "grammar_role": "Sampradana",
-        "root": "युष्मद्"
+        "word_sanskrit": "तत्ते",
+        "word_english": "therefore, to you",
+        "grammar_role": "तत् · अव्यय (अतः, here) + युष्मद् · चतुर्थी·एकवचन (ते)",
+        "root": "तत् + ते"
       },
       {
         "word_sanskrit": "कर्म",
-        "word_english": "action; karma",
-        "grammar_role": "Karma",
-        "root": "कर्मन्"
+        "word_english": "action (and inaction)",
+        "grammar_role": "कर्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म"
       },
       {
         "word_sanskrit": "प्रवक्ष्यामि",
-        "word_english": "I shall explain; I will tell forth",
-        "grammar_role": null,
-        "root": "√वच् (वदने)"
+        "word_english": "I shall explain",
+        "grammar_role": "√प्र_वच् · लृट्·उत्तमपुरुष·एकवचन·परस्मैपद",
+        "root": "प्रवक्ष्यामि"
       },
       {
-        "word_sanskrit": "यत्",
-        "word_english": "which (that)",
-        "grammar_role": "Karma",
-        "root": "यद्"
+        "word_sanskrit": "यज्ज्ञात्वा",
+        "word_english": "which, having known",
+        "grammar_role": "यद् · द्वितीया·एकवचन·नपुंसकलिङ्ग + √ज्ञा · क्त्वा-कृदन्त·अव्यय",
+        "root": "यत् + ज्ञात्वा"
       },
       {
-        "word_sanskrit": "ज्ञात्वा",
-        "word_english": "having known",
-        "grammar_role": null,
-        "root": "√ज्ञा (अवबोधने)"
-      },
-      {
-        "word_sanskrit": "मोक्ष्यसे",
-        "word_english": "you will be freed; you will be released",
-        "grammar_role": null,
-        "root": "√मुच् (मोचने)"
-      },
-      {
-        "word_sanskrit": "अशुभात्",
-        "word_english": "from evil; from inauspiciousness (sinful consequence)",
-        "grammar_role": "Apadana",
-        "root": "अशुभ"
+        "word_sanskrit": "मोक्ष्यसेऽशुभात्",
+        "word_english": "you shall be freed from evil (saṃsāra)",
+        "grammar_role": "√मुच् · लृट्·मध्यमपुरुष·एकवचन·आत्मनेपद + अशुभ · पञ्चमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "मोक्ष्यसे + अशुभात्"
       }
     ],
     "commentary_faqs": [
@@ -3978,82 +3570,70 @@
     "comparative_note": "vikarma is commonly taken as prohibited or ethically distorted action. gatiḥ can mean ‘course,’ ‘result,’ or ‘logic’ of action—indicating that karmic evaluation is subtle.",
     "word_by_word": [
       {
-        "word_sanskrit": "कर्मणः",
-        "word_english": "of action (of karma)",
-        "grammar_role": null,
-        "root": "कर्मन्"
+        "word_sanskrit": "कर्मणो",
+        "word_english": "of (enjoined) action [śāstra-ordained]",
+        "grammar_role": "कर्मन् · षष्ठी·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्मणः"
       },
       {
-        "word_sanskrit": "हि",
-        "word_english": "indeed, for",
-        "grammar_role": null,
-        "root": "हि"
+        "word_sanskrit": "ह्यपि",
+        "word_english": "for (yasmāt) even (also)",
+        "grammar_role": "हि · अव्यय + अपि · अव्यय",
+        "root": "हि + अपि"
       },
       {
-        "word_sanskrit": "अपि",
-        "word_english": "also, even",
-        "grammar_role": null,
-        "root": "अपि"
+        "word_sanskrit": "बोद्धव्यं",
+        "word_english": "there is something to be understood",
+        "grammar_role": "√बुध् · तव्यत्-कृदन्त · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "बोद्धव्यम्"
       },
       {
-        "word_sanskrit": "बोद्धव्यम्",
-        "word_english": "is to be understood",
-        "grammar_role": null,
-        "root": "√बुध्"
-      },
-      {
-        "word_sanskrit": "बोद्धव्यम्",
-        "word_english": "is to be understood",
-        "grammar_role": null,
-        "root": "√बुध्"
+        "word_sanskrit": "बोद्धव्यं",
+        "word_english": "there is something to be understood",
+        "grammar_role": "√बुध् · तव्यत्-कृदन्त · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "बोद्धव्यम्"
       },
       {
         "word_sanskrit": "च",
-        "word_english": "and",
-        "grammar_role": null,
+        "word_english": "and, as well",
+        "grammar_role": "च · अव्यय (समुच्चय)",
         "root": "च"
       },
       {
         "word_sanskrit": "विकर्मणः",
-        "word_english": "of forbidden/contrary action (vikarma)",
-        "grammar_role": null,
-        "root": "विकर्मन्"
+        "word_english": "of prohibited (pratiṣiddha) action",
+        "grammar_role": "विकर्मन् · षष्ठी·एकवचन·नपुंसकलिङ्ग",
+        "root": "विकर्मणः"
       },
       {
-        "word_sanskrit": "अकर्मणः",
-        "word_english": "of non-action (akarma)",
-        "grammar_role": null,
-        "root": "अकर्मन्"
+        "word_sanskrit": "अकर्मणश्च",
+        "word_english": "and of inaction (silent state)",
+        "grammar_role": "अकर्मन् · षष्ठी·एकवचन·नपुंसकलिङ्ग + च · अव्यय",
+        "root": "अकर्मणः + च"
       },
       {
-        "word_sanskrit": "च",
-        "word_english": "and",
-        "grammar_role": null,
-        "root": "च"
-      },
-      {
-        "word_sanskrit": "बोद्धव्यम्",
-        "word_english": "is to be understood",
-        "grammar_role": null,
-        "root": "√बुध्"
+        "word_sanskrit": "बोद्धव्यं",
+        "word_english": "there is something to be understood",
+        "grammar_role": "√बुध् · तव्यत्-कृदन्त · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "बोद्धव्यम्"
       },
       {
         "word_sanskrit": "गहना",
-        "word_english": "deep, hard to fathom",
-        "grammar_role": null,
-        "root": "गहन"
+        "word_english": "impenetrable, hard to know (durjñeyā)",
+        "grammar_role": "गहन · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "गहना"
       },
       {
-        "word_sanskrit": "कर्मणः",
-        "word_english": "of action (of karma)",
-        "grammar_role": null,
-        "root": "कर्मन्"
+        "word_sanskrit": "कर्मणो",
+        "word_english": "of action (standing for all three)",
+        "grammar_role": "कर्मन् · षष्ठी·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्मणः"
       },
       {
         "word_sanskrit": "गतिः",
-        "word_english": "course, way, true nature/outcome",
-        "grammar_role": null,
-        "root": "गति"
+        "word_english": "course; true nature (yāthātmya/tattva)",
+        "grammar_role": "गति · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "गतिः"
       }
     ],
     "commentary_faqs": [
@@ -4216,100 +3796,70 @@
     "comparative_note": "The paradox is typically explained via inner non-attachment: one may act outwardly while remaining inwardly unbound (‘inaction in action’). Conversely, mere physical withdrawal can still be driven by desire or mental activity (‘action in inaction’).",
     "word_by_word": [
       {
-        "word_sanskrit": "कर्मणि",
-        "word_english": "in action",
-        "grammar_role": "Adhikarana",
-        "root": "कर्मन्"
-      },
-      {
-        "word_sanskrit": "अकर्म",
-        "word_english": "inaction (non-action)",
-        "grammar_role": "Karma",
-        "root": "अकर्मन्"
+        "word_sanskrit": "कर्मण्यकर्म",
+        "word_english": "in action, [sees] absence-of-action",
+        "grammar_role": "कर्मन् · सप्तमी·एकवचन·नपुंसकलिङ्ग + अकर्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्मणि + अकर्म"
       },
       {
         "word_sanskrit": "यः",
-        "word_english": "who",
-        "grammar_role": "Karta",
-        "root": "यद्"
+        "word_english": "one who",
+        "grammar_role": "यद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "यः"
       },
       {
-        "word_sanskrit": "पश्येत्",
-        "word_english": "should see / sees (as a wise discernment)",
-        "grammar_role": null,
-        "root": "√पश् (दृश्)"
-      },
-      {
-        "word_sanskrit": "अकर्मणि",
-        "word_english": "in inaction",
-        "grammar_role": "Adhikarana",
-        "root": "अकर्मन्"
+        "word_sanskrit": "पश्येदकर्मणि",
+        "word_english": "would see; in inaction",
+        "grammar_role": "√दृश् · विधिलिङ्·प्रथमपुरुष·एकवचन·परस्मैपद + अकर्मन् · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "पश्येत् + अकर्मणि"
       },
       {
         "word_sanskrit": "च",
         "word_english": "and",
-        "grammar_role": null,
+        "grammar_role": "च · अव्यय (समुच्चये)",
         "root": "च"
       },
       {
         "word_sanskrit": "कर्म",
-        "word_english": "action",
-        "grammar_role": "Karma",
-        "root": "कर्मन्"
+        "word_english": "action [as object of seeing]",
+        "grammar_role": "कर्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म"
       },
       {
         "word_sanskrit": "यः",
-        "word_english": "who",
-        "grammar_role": "Karta",
-        "root": "यद्"
+        "word_english": "one who",
+        "grammar_role": "यद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "यः"
       },
       {
-        "word_sanskrit": "सः",
+        "word_sanskrit": "स",
         "word_english": "he",
-        "grammar_role": null,
-        "root": "तद्"
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
       },
       {
-        "word_sanskrit": "बुद्धिमान्",
-        "word_english": "wise, endowed with discernment",
-        "grammar_role": null,
-        "root": "बुद्धिमत्"
+        "word_sanskrit": "बुद्धिमान्मनुष्येषु",
+        "word_english": "intelligent among men",
+        "grammar_role": "बुद्धिमत् · प्रथमा·एकवचन·पुंलिङ्ग + मनुष्य · सप्तमी·बहुवचन·पुंलिङ्ग",
+        "root": "बुद्धिमान् + मनुष्येषु"
       },
       {
-        "word_sanskrit": "मनुष्येषु",
-        "word_english": "among men",
-        "grammar_role": "Adhikarana",
-        "root": "मनुष्य"
-      },
-      {
-        "word_sanskrit": "सः",
+        "word_sanskrit": "स",
         "word_english": "he",
-        "grammar_role": null,
-        "root": "तद्"
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
       },
       {
         "word_sanskrit": "युक्तः",
-        "word_english": "yoked, disciplined, integrated (in yoga)",
-        "grammar_role": null,
-        "root": "√युज् (युजिर् योगे)"
+        "word_english": "a yogī, steadfast in yoga",
+        "grammar_role": "√युज् · क्त-कृदन्त · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "युक्तः"
       },
       {
-        "word_sanskrit": "कृत्स्न",
-        "word_english": "entire, whole",
-        "grammar_role": null,
-        "root": "कृत्स्न"
-      },
-      {
-        "word_sanskrit": "कर्म",
-        "word_english": "action(s)",
-        "grammar_role": null,
-        "root": "कर्मन्"
-      },
-      {
-        "word_sanskrit": "कृत्",
-        "word_english": "doer/performer (one who has done)",
-        "grammar_role": null,
-        "root": "√कृ"
+        "word_sanskrit": "कृत्स्नकर्मकृत्",
+        "word_english": "doer of all action",
+        "grammar_role": "कृत्स्न-कर्म-कृत् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "कृत्स्न-कर्म-कृत्"
       }
     ],
     "commentary_faqs": [
@@ -4473,57 +4023,51 @@
     "word_by_word": [
       {
         "word_sanskrit": "यस्य",
-        "word_english": "of whom/whose",
-        "grammar_role": null,
-        "root": "यद्"
+        "word_english": "of whom (the seer of truth)",
+        "grammar_role": "यद् · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "यस्य"
       },
       {
         "word_sanskrit": "सर्वे",
         "word_english": "all",
-        "grammar_role": null,
-        "root": "सर्व"
+        "grammar_role": "सर्व · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "सर्वे"
       },
       {
         "word_sanskrit": "समारम्भाः",
-        "word_english": "undertakings/initiations of action",
-        "grammar_role": "Karta",
-        "root": "समारम्भ"
+        "word_english": "undertakings, i.e. all actions",
+        "grammar_role": "समारम्भ · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "समारम्भाः"
       },
       {
-        "word_sanskrit": "कामसंकल्पवर्जिताः",
-        "word_english": "devoid of desire and (selfish) intention",
-        "grammar_role": null,
-        "root": "वर्जित (√वृज्/वर्ज्)"
+        "word_sanskrit": "कामसङ्कल्पवर्जिताः",
+        "word_english": "free from desires and (causal) intentions",
+        "grammar_role": "काम-सङ्कल्प-वर्जित · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "काम-सङ्कल्प-वर्जिताः"
       },
       {
-        "word_sanskrit": "ज्ञानाग्निदग्धकर्माणम्",
-        "word_english": "him whose actions are burnt by the fire of knowledge",
-        "grammar_role": "Karma",
-        "root": "दग्ध (√दह्)"
+        "word_sanskrit": "ज्ञानाग्निदग्धकर्माणं",
+        "word_english": "whose actions are burnt by knowledge's fire",
+        "grammar_role": "ज्ञान-अग्नि-दग्ध-कर्मन् · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "ज्ञान-अग्नि-दग्ध-कर्माणम्"
       },
       {
-        "word_sanskrit": "तम्",
-        "word_english": "him",
-        "grammar_role": "Karma",
-        "root": "तद्"
+        "word_sanskrit": "तमाहुः",
+        "word_english": "him they call",
+        "grammar_role": "तद् · द्वितीया·एकवचन·पुंलिङ्ग + √ब्रू(आह्) · लिट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "तम् + आहुः"
       },
       {
-        "word_sanskrit": "आहुः",
-        "word_english": "(they) say/call",
-        "grammar_role": null,
-        "root": "√अह्"
-      },
-      {
-        "word_sanskrit": "पण्डितम्",
-        "word_english": "a wise man",
-        "grammar_role": "Karma",
-        "root": "पण्डित"
+        "word_sanskrit": "पण्डितं",
+        "word_english": "truly learned, wise",
+        "grammar_role": "पण्डित · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "पण्डितम्"
       },
       {
         "word_sanskrit": "बुधाः",
-        "word_english": "the wise (people)",
-        "grammar_role": "Karta",
-        "root": "बुध"
+        "word_english": "the wise, knowers of Brahman",
+        "grammar_role": "बुध · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "बुधाः"
       }
     ],
     "commentary_faqs": [
@@ -4687,75 +4231,51 @@
     "word_by_word": [
       {
         "word_sanskrit": "त्यक्त्वा",
-        "word_english": "having abandoned",
-        "grammar_role": null,
-        "root": "√त्यज्"
+        "word_english": "having renounced",
+        "grammar_role": "√त्यज् · क्त्वान्त-अव्यय",
+        "root": "त्यक्त्वा"
       },
       {
-        "word_sanskrit": "कर्मफलासङ्गम्",
-        "word_english": "attachment to the fruit of action",
-        "grammar_role": "Karma",
-        "root": "कर्मफलासङ्ग"
+        "word_sanskrit": "कर्मफलासङ्गं",
+        "word_english": "attachment to action and its fruit",
+        "grammar_role": "कर्मन्-फल-आसङ्ग · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "कर्म-फल-आसङ्गम्"
       },
       {
-        "word_sanskrit": "नित्यतृप्तः",
-        "word_english": "ever-content",
-        "grammar_role": "Karta",
-        "root": "नित्यतृप्त"
+        "word_sanskrit": "नित्यतृप्तो",
+        "word_english": "ever-content, free of craving for objects",
+        "grammar_role": "नित्य-तृप्त · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "नित्य-तृप्तः"
       },
       {
         "word_sanskrit": "निराश्रयः",
-        "word_english": "having no dependence (on external support)",
-        "grammar_role": "Karta",
-        "root": "निराश्रय"
+        "word_english": "without support relied on for fruit-seeking",
+        "grammar_role": "निर्-आश्रय · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "निर्-आश्रयः"
       },
       {
-        "word_sanskrit": "कर्मणि",
-        "word_english": "in action / with regard to action",
-        "grammar_role": "Adhikarana",
-        "root": "कर्मन्"
+        "word_sanskrit": "कर्मण्यभिप्रवृत्तोऽपि",
+        "word_english": "though engaged in action",
+        "grammar_role": "कर्मन् · सप्तमी·एकवचन·नपुंसकलिङ्ग + अभिप्रवृत्त · प्रथमा·एकवचन·पुंलिङ्ग + अपि · अव्यय",
+        "root": "कर्मणि + अभिप्रवृत्तः + अपि"
       },
       {
-        "word_sanskrit": "अभिप्रवृत्तः",
-        "word_english": "fully engaged (set in motion)",
-        "grammar_role": "Karta",
-        "root": "√वृत् (प्रवृत्त)"
+        "word_sanskrit": "नैव",
+        "word_english": "not at all",
+        "grammar_role": "न · अव्यय + एव · अव्यय",
+        "root": "न + एव"
       },
       {
-        "word_sanskrit": "अपि",
-        "word_english": "even / although",
-        "grammar_role": null,
-        "root": "अपि"
-      },
-      {
-        "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
-        "root": "न"
-      },
-      {
-        "word_sanskrit": "एव",
-        "word_english": "indeed / at all",
-        "grammar_role": null,
-        "root": "एव"
-      },
-      {
-        "word_sanskrit": "किंचित्",
-        "word_english": "anything (even the least)",
-        "grammar_role": "Karma",
-        "root": "किंचित्"
-      },
-      {
-        "word_sanskrit": "करोति",
-        "word_english": "does",
-        "grammar_role": null,
-        "root": "√कृ"
+        "word_sanskrit": "किञ्चित्करोति",
+        "word_english": "does nothing whatsoever",
+        "grammar_role": "किञ्चित् · द्वितीया·एकवचन·नपुंसकलिङ्ग + √कृ · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "किञ्चित् + करोति"
       },
       {
         "word_sanskrit": "सः",
         "word_english": "he",
-        "grammar_role": "Karta",
-        "root": "तद्"
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
       }
     ],
     "commentary_faqs": [
@@ -4918,64 +4438,46 @@
     "comparative_note": "‘परिग्रह’ can mean possessions, acquisitions, or grasping/appropriation; traditional translations often take it as material accumulation, while some academic readings extend it to psychological ‘appropriation’ (mine-making). ‘किल्बिष’ is rendered as sin/fault; neutral translations prefer ‘moral taint’ or ‘fault’.",
     "word_by_word": [
       {
-        "word_sanskrit": "निराशीः",
-        "word_english": "free from expectation/hope",
-        "grammar_role": "Karta",
-        "root": "निराशिन्"
-      },
-      {
-        "word_sanskrit": "यतचित्तात्मा",
-        "word_english": "one whose mind and self are restrained",
-        "grammar_role": "Karta",
-        "root": "यतचित्तात्मन्"
+        "word_sanskrit": "निराशीर्यतचित्तात्मा",
+        "word_english": "free from desires; mind and body controlled",
+        "grammar_role": "निराशिस् · प्रथमा·एकवचन·पुंलिङ्ग (बहुव्रीहि) + यत-चित्त-आत्मन् · प्रथमा·एकवचन·पुंलिङ्ग (बहुव्रीहि)",
+        "root": "निराशीः + यतचित्तात्मा"
       },
       {
         "word_sanskrit": "त्यक्तसर्वपरिग्रहः",
-        "word_english": "one who has abandoned all possessions/appropriations",
-        "grammar_role": "Karta",
-        "root": "त्यक्तसर्वपरिग्रह"
+        "word_english": "who has given up all possessions",
+        "grammar_role": "त्यक्त-सर्व-परिग्रह · प्रथमा·एकवचन·पुंलिङ्ग (बहुव्रीहि)",
+        "root": "त्यक्त-सर्व-परिग्रहः"
       },
       {
-        "word_sanskrit": "शारीरम्",
-        "word_english": "bodily (pertaining to the body)",
-        "grammar_role": "Karma",
-        "root": "शारीर"
+        "word_sanskrit": "शारीरं",
+        "word_english": "bodily (for bare sustenance of the body)",
+        "grammar_role": "शारीर · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "शारीरम्"
       },
       {
-        "word_sanskrit": "केवलम्",
-        "word_english": "only, merely",
-        "grammar_role": null,
-        "root": "केवल"
+        "word_sanskrit": "केवलं",
+        "word_english": "merely, devoid of egoism",
+        "grammar_role": "केवल · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "केवलम्"
       },
       {
         "word_sanskrit": "कर्म",
-        "word_english": "action, work",
-        "grammar_role": "Karma",
-        "root": "कर्मन्"
+        "word_english": "action",
+        "grammar_role": "कर्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म"
       },
       {
-        "word_sanskrit": "कुर्वन्",
-        "word_english": "doing, performing",
-        "grammar_role": "Karta",
-        "root": "√कृ"
-      },
-      {
-        "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
-        "root": "न"
-      },
-      {
-        "word_sanskrit": "आप्नोति",
-        "word_english": "attains, incurs",
-        "grammar_role": null,
-        "root": "√आप्"
+        "word_sanskrit": "कुर्वन्नाप्नोति",
+        "word_english": "doing, he does not incur",
+        "grammar_role": "√कृ · शतृ-कृदन्त · प्रथमा·एकवचन·पुंलिङ्ग + न · अव्यय (निषेध) + √आप् (आप्नोति) · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "कुर्वन् + न + आप्नोति"
       },
       {
         "word_sanskrit": "किल्बिषम्",
-        "word_english": "sin, demerit, taint",
-        "grammar_role": "Karma",
-        "root": "किल्बिष"
+        "word_english": "sin (both demerit and merit, being binding)",
+        "grammar_role": "किल्बिष · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "किल्बिषम्"
       }
     ],
     "commentary_faqs": [
@@ -5138,94 +4640,58 @@
     "comparative_note": "‘यदृच्छा’ may be read as ‘what comes unbidden’ rather than fatalism; many commentators stress disciplined effort without anxious grasping. ‘सिद्धि/असिद्धि’ is often translated as success/failure, but can also imply attainment/non-attainment in ritual or practical aims.",
     "word_by_word": [
       {
-        "word_sanskrit": "यदृच्छा",
-        "word_english": "chance; what comes of itself (unasked)",
-        "grammar_role": null,
-        "root": "यदृच्छा"
+        "word_sanskrit": "यदृच्छालाभसन्तुष्टो",
+        "word_english": "content with the unsought gain",
+        "grammar_role": "यदृच्छालाभसन्तुष्ट · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "यदृच्छा-लाभ-सन्तुष्टः"
       },
       {
-        "word_sanskrit": "लाभ",
-        "word_english": "gain; acquisition",
-        "grammar_role": null,
-        "root": "लाभ"
-      },
-      {
-        "word_sanskrit": "संतुष्टः",
-        "word_english": "content; satisfied",
-        "grammar_role": "Karta",
-        "root": "संतुष्ट (सम्+√तुष्)"
-      },
-      {
-        "word_sanskrit": "द्वन्द्व",
-        "word_english": "pairs of opposites (pleasure/pain etc.)",
-        "grammar_role": null,
-        "root": "द्वन्द्व"
-      },
-      {
-        "word_sanskrit": "अतीतः",
-        "word_english": "gone beyond; transcended",
-        "grammar_role": "Karta",
-        "root": "अतीत (अति+√इ)"
+        "word_sanskrit": "द्वन्द्वातीतो",
+        "word_english": "transcending the pairs (heat-cold, etc.)",
+        "grammar_role": "द्वन्द्वातीत · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "द्वन्द्व-अतीतः"
       },
       {
         "word_sanskrit": "विमत्सरः",
-        "word_english": "free from envy; without jealousy",
-        "grammar_role": "Karta",
-        "root": "विमत्सर"
+        "word_english": "free from envy, without enmity",
+        "grammar_role": "विमत्सर · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "विमत्सरः"
       },
       {
         "word_sanskrit": "समः",
-        "word_english": "equal; even-minded",
-        "grammar_role": "Karta",
-        "root": "सम"
+        "word_english": "equal, the same",
+        "grammar_role": "सम · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "समः"
       },
       {
-        "word_sanskrit": "सिद्धौ",
-        "word_english": "in success; in accomplishment",
-        "grammar_role": "Adhikarana",
-        "root": "सिद्धि"
-      },
-      {
-        "word_sanskrit": "असिद्धौ",
-        "word_english": "in failure; in non-accomplishment",
-        "grammar_role": "Adhikarana",
-        "root": "असिद्धि"
+        "word_sanskrit": "सिद्धावसिद्धौ",
+        "word_english": "in success and in failure (of the gain)",
+        "grammar_role": "सिद्धि · सप्तमी·एकवचन·स्त्रीलिङ्ग + असिद्धि · सप्तमी·एकवचन·स्त्रीलिङ्ग",
+        "root": "सिद्धौ + असिद्धौ"
       },
       {
         "word_sanskrit": "च",
         "word_english": "and",
-        "grammar_role": null,
+        "grammar_role": "च · अव्यय (समुच्चय)",
         "root": "च"
       },
       {
-        "word_sanskrit": "कृत्वा",
-        "word_english": "having done; even after doing",
-        "grammar_role": null,
-        "root": "√कृ"
-      },
-      {
-        "word_sanskrit": "अपि",
-        "word_english": "even; although",
-        "grammar_role": null,
-        "root": "अपि"
+        "word_sanskrit": "कृत्वापि",
+        "word_english": "even having acted",
+        "grammar_role": "√कृ · क्त्वा-कृदन्त + अपि · अव्यय",
+        "root": "कृत्वा + अपि"
       },
       {
         "word_sanskrit": "न",
         "word_english": "not",
-        "grammar_role": null,
-        "root": "न"
-      },
-      {
-        "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
+        "grammar_role": "न · अव्यय (निषेध)",
         "root": "न"
       },
       {
         "word_sanskrit": "निबध्यते",
-        "word_english": "is bound; becomes bound",
-        "grammar_role": null,
-        "root": "√बन्ध् (नि+√बन्ध्)"
+        "word_english": "is bound",
+        "grammar_role": "√नि_बन्ध् · लट्·प्रथमपुरुष·एकवचन·कर्मणि (आत्मनेपद)",
+        "root": "निबध्यते"
       }
     ],
     "commentary_faqs": [
@@ -5389,51 +4855,45 @@
     "word_by_word": [
       {
         "word_sanskrit": "गतसङ्गस्य",
-        "word_english": "of one whose attachment has gone",
-        "grammar_role": null,
-        "root": "गतसङ्ग"
+        "word_english": "of one whose attachment has wholly ceased",
+        "grammar_role": "गतसङ्ग (बहुव्रीहि) · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "गत-सङ्गस्य"
       },
       {
         "word_sanskrit": "मुक्तस्य",
-        "word_english": "of the liberated/free (one)",
-        "grammar_role": null,
-        "root": "मुक्त"
+        "word_english": "of the liberated, freed from dharma-adharma bonds",
+        "grammar_role": "मुक्त (√मुच्, क्त) · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "मुक्तस्य"
       },
       {
         "word_sanskrit": "ज्ञानावस्थितचेतसः",
-        "word_english": "of one whose mind is established in knowledge",
-        "grammar_role": null,
-        "root": "ज्ञानावस्थितचेतस्"
+        "word_english": "of one whose mind rests solely in knowledge",
+        "grammar_role": "ज्ञानावस्थितचेतस् (बहुव्रीहि) · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "ज्ञान-अवस्थित-चेतसः"
       },
       {
-        "word_sanskrit": "यज्ञाय",
-        "word_english": "for sacrifice (as an offering)",
-        "grammar_role": "Sampradana",
-        "root": "यज्ञ"
-      },
-      {
-        "word_sanskrit": "आचरतः",
-        "word_english": "of (one) performing/practising",
-        "grammar_role": null,
-        "root": "आ√चर्"
+        "word_sanskrit": "यज्ञायाचरतः",
+        "word_english": "of one acting for the sake of sacrifice",
+        "grammar_role": "यज्ञ · चतुर्थी·एकवचन·पुंलिङ्ग + आचरत् (आ-√चर्, शतृ) · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "यज्ञाय + आचरतः"
       },
       {
         "word_sanskrit": "कर्म",
-        "word_english": "action (work)",
-        "grammar_role": "Karta",
-        "root": "कर्मन्"
+        "word_english": "the action",
+        "grammar_role": "कर्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म"
       },
       {
         "word_sanskrit": "समग्रं",
-        "word_english": "entirely, wholly",
-        "grammar_role": null,
-        "root": "समग्र"
+        "word_english": "entire, together with its fruit",
+        "grammar_role": "समग्र · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "समग्रम्"
       },
       {
         "word_sanskrit": "प्रविलीयते",
-        "word_english": "is dissolved/merges away",
-        "grammar_role": null,
-        "root": "प्र√ली"
+        "word_english": "dissolves utterly, perishes",
+        "grammar_role": "प्र-वि-√ली · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "प्रविलीयते"
       }
     ],
     "commentary_faqs": [
@@ -5596,94 +5056,58 @@
     "comparative_note": "This verse is strongly non-dual in tone: all elements of sacrifice are identified with Brahman. The compound ‘ब्रह्मकर्मसमाधि’ is interpreted variously as ‘absorption in action as Brahman’ or ‘concentration in Brahman through action’; traditional Vedāntic readings emphasize non-duality, while some theistic readings interpret ‘Brahman’ more broadly as the supreme reality.",
     "word_by_word": [
       {
-        "word_sanskrit": "ब्रह्म",
-        "word_english": "Brahman (the Absolute)",
-        "grammar_role": null,
-        "root": "ब्रह्मन्"
-      },
-      {
-        "word_sanskrit": "अर्पणम्",
-        "word_english": "the offering (the ladle/act of offering)",
-        "grammar_role": null,
-        "root": "अर्पण"
+        "word_sanskrit": "ब्रह्मार्पणं",
+        "word_english": "Brahman is the offering-instrument (two separate words)",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग + अर्पण · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "ब्रह्म + अर्पणम्"
       },
       {
         "word_sanskrit": "ब्रह्म",
-        "word_english": "Brahman",
-        "grammar_role": null,
-        "root": "ब्रह्मन्"
+        "word_english": "Brahman (is the oblation)",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "ब्रह्म"
       },
       {
-        "word_sanskrit": "हविः",
-        "word_english": "the oblation (sacrificial offering)",
-        "grammar_role": null,
-        "root": "हविस्"
-      },
-      {
-        "word_sanskrit": "ब्रह्म",
-        "word_english": "in Brahman",
-        "grammar_role": "Adhikarana",
-        "root": "ब्रह्मन्"
-      },
-      {
-        "word_sanskrit": "अग्नौ",
-        "word_english": "in the fire",
-        "grammar_role": "Adhikarana",
-        "root": "अग्नि"
+        "word_sanskrit": "हविर्ब्रह्माग्नौ",
+        "word_english": "the oblation; in the fire that is Brahman",
+        "grammar_role": "हविस् · प्रथमा·एकवचन·नपुंसकलिङ्ग + ब्रह्मन्-अग्नि · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "हविः + ब्रह्म-अग्नौ"
       },
       {
         "word_sanskrit": "ब्रह्मणा",
-        "word_english": "by Brahman",
-        "grammar_role": "Karana",
-        "root": "ब्रह्मन्"
+        "word_english": "by Brahman, the agent (kartṛ)",
+        "grammar_role": "ब्रह्मन् · तृतीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "ब्रह्मणा"
       },
       {
         "word_sanskrit": "हुतम्",
-        "word_english": "offered (poured as oblation)",
-        "grammar_role": null,
-        "root": "√हु (जुहोति)"
+        "word_english": "(is) offered; the act of offering",
+        "grammar_role": "√हु · क्त-कृदन्त · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "हुतम्"
       },
       {
-        "word_sanskrit": "ब्रह्म",
-        "word_english": "Brahman",
-        "grammar_role": null,
-        "root": "ब्रह्मन्"
-      },
-      {
-        "word_sanskrit": "एव",
-        "word_english": "indeed/alone",
-        "grammar_role": null,
-        "root": "एव"
+        "word_sanskrit": "ब्रह्मैव",
+        "word_english": "Brahman alone (is the goal)",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग + एव · अव्यय",
+        "root": "ब्रह्म + एव"
       },
       {
         "word_sanskrit": "तेन",
-        "word_english": "by him / by that (person)",
-        "grammar_role": "Karana",
-        "root": "तद्"
+        "word_english": "by that (Brahman-action-absorption, = brahmakarmasamādhinā)",
+        "grammar_role": "तद् · तृतीया·एकवचन·पुंलिङ्ग",
+        "root": "तेन"
       },
       {
-        "word_sanskrit": "गन्तव्यम्",
-        "word_english": "to be reached / must be attained",
-        "grammar_role": null,
-        "root": "√गम्"
+        "word_sanskrit": "गन्तव्यं",
+        "word_english": "to be reached; the goal/fruit to be attained",
+        "grammar_role": "√गम् · तव्यत्-कृदन्त · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "गन्तव्यम्"
       },
       {
-        "word_sanskrit": "ब्रह्म",
-        "word_english": "Brahman",
-        "grammar_role": null,
-        "root": "ब्रह्मन्"
-      },
-      {
-        "word_sanskrit": "कर्म",
-        "word_english": "action",
-        "grammar_role": null,
-        "root": "कर्मन्"
-      },
-      {
-        "word_sanskrit": "समाधिना",
-        "word_english": "by absorption / by concentrated understanding",
-        "grammar_role": "Karana",
-        "root": "समाधि"
+        "word_sanskrit": "ब्रह्मकर्मसमाधिना",
+        "word_english": "by one whose absorption is in Brahman-as-action",
+        "grammar_role": "ब्रह्मन्-कर्मन्-समाधि · तृतीया·एकवचन·पुंलिङ्ग (बहुव्रीहि)",
+        "root": "ब्रह्म-कर्म-समाधिना"
       }
     ],
     "commentary_faqs": [
@@ -5846,82 +5270,46 @@
     "comparative_note": "The verse surveys multiple ‘yajña’ modalities: one more conventionally devotional/ritual (toward deities), another more contemplative (Brahman as the sacrificial ‘fire’). Interpretations differ on whether these are sequential stages or parallel legitimate paths.",
     "word_by_word": [
       {
-        "word_sanskrit": "दैवम्",
-        "word_english": "to the gods; the divine (as object)",
-        "grammar_role": "Karma",
-        "root": "दैव"
+        "word_sanskrit": "दैवमेवापरे",
+        "word_english": "the divine (sacrifice); verily; others (the worshippers)",
+        "grammar_role": "दैव · द्वितीया·एकवचन·पुंलिङ्ग + एव · अव्यय (निपात) + अपर · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "दैवम् + एव + अपरे"
       },
       {
-        "word_sanskrit": "एव",
-        "word_english": "indeed; only",
-        "grammar_role": null,
-        "root": "एव"
-      },
-      {
-        "word_sanskrit": "अपरे",
-        "word_english": "others",
-        "grammar_role": "Karta",
-        "root": "अपर"
-      },
-      {
-        "word_sanskrit": "यज्ञम्",
-        "word_english": "sacrifice; yajña",
-        "grammar_role": "Karma",
-        "root": "यज्ञ"
+        "word_sanskrit": "यज्ञं",
+        "word_english": "sacrifice (the object worshipped)",
+        "grammar_role": "यज्ञ · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "यज्ञम्"
       },
       {
         "word_sanskrit": "योगिनः",
-        "word_english": "yogins; practitioners of yoga",
-        "grammar_role": "Karta",
-        "root": "योगिन्"
+        "word_english": "the yogins, i.e. the ritualists",
+        "grammar_role": "योगिन् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "योगिनः"
       },
       {
         "word_sanskrit": "पर्युपासते",
-        "word_english": "they worship; they attend upon",
-        "grammar_role": null,
-        "root": "√उपास्"
+        "word_english": "they worship, i.e. perform (it)",
+        "grammar_role": "√परि+उप+आस् · लट्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "पर्युपासते"
       },
       {
-        "word_sanskrit": "ब्रह्म",
-        "word_english": "Brahman; the Absolute",
-        "grammar_role": null,
-        "root": "ब्रह्मन्"
+        "word_sanskrit": "ब्रह्माग्नावपरे",
+        "word_english": "in the fire that is Brahman; others (knowers of Brahman)",
+        "grammar_role": "ब्रह्म-अग्नि · सप्तमी·एकवचन·पुंलिङ्ग + अपर · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "ब्रह्म-अग्नौ + अपरे"
       },
       {
-        "word_sanskrit": "अग्नौ",
-        "word_english": "in the fire",
-        "grammar_role": "Adhikarana",
-        "root": "अग्नि"
+        "word_sanskrit": "यज्ञं",
+        "word_english": "the sacrifice, i.e. the Self (Ātman)",
+        "grammar_role": "यज्ञ · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "यज्ञम्"
       },
       {
-        "word_sanskrit": "अपरे",
-        "word_english": "others",
-        "grammar_role": "Karta",
-        "root": "अपर"
-      },
-      {
-        "word_sanskrit": "यज्ञम्",
-        "word_english": "sacrifice; yajña",
-        "grammar_role": "Karma",
-        "root": "यज्ञ"
-      },
-      {
-        "word_sanskrit": "यज्ञेन",
-        "word_english": "by sacrifice; with the sacrifice",
-        "grammar_role": "Karana",
-        "root": "यज्ञ"
-      },
-      {
-        "word_sanskrit": "एव",
-        "word_english": "indeed; only",
-        "grammar_role": null,
-        "root": "एव"
-      },
-      {
-        "word_sanskrit": "उपजुह्वति",
-        "word_english": "they offer; they pour as oblation",
-        "grammar_role": null,
-        "root": "√हु"
+        "word_sanskrit": "यज्ञेनैवोपजुह्वति",
+        "word_english": "by the sacrifice (the Self) alone they offer as oblation",
+        "grammar_role": "यज्ञ · तृतीया·एकवचन·पुंलिङ्ग + एव · अव्यय (निपात) + √उप+हु · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "यज्ञेन + एव + उपजुह्वति"
       }
     ],
     "commentary_faqs": [
@@ -6084,64 +5472,40 @@
     "comparative_note": "The ‘fire’ metaphor is psychological and disciplinary: ‘offering senses into restraint’ suggests withdrawal/control; ‘offering objects into senses’ is interpreted as regulated perception without grasping—engagement that is ‘sacrificial’ because it is non-appropriative.",
     "word_by_word": [
       {
-        "word_sanskrit": "श्रोत्रादीनि",
-        "word_english": "the ear and the other (sense-organs)",
-        "grammar_role": "Karma",
-        "root": "श्रोत्र (प्रातिपदिक)"
-      },
-      {
-        "word_sanskrit": "इन्द्रियाणि",
-        "word_english": "the sense-organs",
-        "grammar_role": "Karma",
-        "root": "इन्द्रिय (प्रातिपदिक)"
-      },
-      {
-        "word_sanskrit": "अन्ये",
-        "word_english": "others (some people)",
-        "grammar_role": "Karta",
-        "root": "अन्य (प्रातिपदिक)"
+        "word_sanskrit": "श्रोत्रादीनीन्द्रियाण्यन्ये",
+        "word_english": "the senses such as hearing; others (yogis)",
+        "grammar_role": "श्रोत्रादि (आदि) · द्वितीया·बहुवचन·नपुंसकलिङ्ग + इन्द्रिय · द्वितीया·बहुवचन·नपुंसकलिङ्ग + अन्य · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "श्रोत्र-आदीनि + इन्द्रियाणि + अन्ये"
       },
       {
         "word_sanskrit": "संयमाग्निषु",
-        "word_english": "in the fires of restraint (self-control)",
-        "grammar_role": "Adhikarana",
-        "root": "संयम + अग्नि (प्रातिपदिक)"
+        "word_english": "in the fires that are restraints",
+        "grammar_role": "संयमाग्नि (अग्नि) · सप्तमी·बहुवचन·पुंलिङ्ग",
+        "root": "संयम-अग्निषु"
       },
       {
         "word_sanskrit": "जुह्वति",
-        "word_english": "offer (as oblations)",
-        "grammar_role": null,
-        "root": "√हु (जुहोति)"
+        "word_english": "they offer (as oblation)",
+        "grammar_role": "√हु · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "जुह्वति"
       },
       {
-        "word_sanskrit": "शब्दादीन्",
-        "word_english": "sound and the other (sense-objects)",
-        "grammar_role": "Karma",
-        "root": "शब्द (प्रातिपदिक)"
-      },
-      {
-        "word_sanskrit": "विषयान्",
-        "word_english": "sense-objects",
-        "grammar_role": "Karma",
-        "root": "विषय (प्रातिपदिक)"
-      },
-      {
-        "word_sanskrit": "अन्ये",
-        "word_english": "others (some people)",
-        "grammar_role": "Karta",
-        "root": "अन्य (प्रातिपदिक)"
+        "word_sanskrit": "शब्दादीन्विषयानन्य",
+        "word_english": "objects such as sound; others (yogis)",
+        "grammar_role": "शब्दादि (आदि) · द्वितीया·बहुवचन·पुंलिङ्ग + विषय · द्वितीया·बहुवचन·पुंलिङ्ग + अन्य · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "शब्द-आदीन् + विषयान् + अन्ये"
       },
       {
         "word_sanskrit": "इन्द्रियाग्निषु",
-        "word_english": "in the fires of the sense-organs",
-        "grammar_role": "Adhikarana",
-        "root": "इन्द्रिय + अग्नि (प्रातिपदिक)"
+        "word_english": "in the fires that are the senses",
+        "grammar_role": "इन्द्रियाग्नि (अग्नि) · सप्तमी·बहुवचन·पुंलिङ्ग",
+        "root": "इन्द्रिय-अग्निषु"
       },
       {
         "word_sanskrit": "जुह्वति",
-        "word_english": "offer (as oblations)",
-        "grammar_role": null,
-        "root": "√हु (जुहोति)"
+        "word_english": "they offer (as oblation)",
+        "grammar_role": "√हु · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "जुह्वति"
       }
     ],
     "commentary_faqs": [
@@ -6304,52 +5668,40 @@
     "comparative_note": "‘प्राणकर्म’ may include breathing functions and broader vital processes. ‘ज्ञानदीपिते’ indicates that restraint is not mere suppression but is ‘lit’ by understanding—often read as discrimination (viveka) guiding practice.",
     "word_by_word": [
       {
-        "word_sanskrit": "सर्वाणि",
-        "word_english": "all",
-        "grammar_role": "Karma",
-        "root": "सर्व"
-      },
-      {
-        "word_sanskrit": "इन्द्रियकर्माणि",
-        "word_english": "actions of the senses",
-        "grammar_role": "Karma",
-        "root": "इन्द्रियकर्मन्"
+        "word_sanskrit": "सर्वाणीन्द्रियकर्माणि",
+        "word_english": "all the actions of the senses",
+        "grammar_role": "सर्व · द्वितीया·बहुवचन·नपुंसकलिङ्ग + इन्द्रिय-कर्मन् · द्वितीया·बहुवचन·नपुंसकलिङ्ग",
+        "root": "सर्वाणि + इन्द्रिय-कर्माणि"
       },
       {
         "word_sanskrit": "प्राणकर्माणि",
-        "word_english": "actions of the vital-breaths",
-        "grammar_role": "Karma",
-        "root": "प्राणकर्मन्"
+        "word_english": "actions of the vital breath (contraction, expansion, etc.)",
+        "grammar_role": "प्राण-कर्मन् · द्वितीया·बहुवचन·नपुंसकलिङ्ग",
+        "root": "प्राण-कर्माणि"
       },
       {
-        "word_sanskrit": "च",
-        "word_english": "and",
-        "grammar_role": null,
-        "root": "च"
-      },
-      {
-        "word_sanskrit": "अपरे",
-        "word_english": "others (some others)",
-        "grammar_role": "Karta",
-        "root": "अपर"
+        "word_sanskrit": "चापरे",
+        "word_english": "and others (the practitioners)",
+        "grammar_role": "च · अव्यय (समुच्चय) + अपर · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "च + अपरे"
       },
       {
         "word_sanskrit": "आत्मसंयमयोगाग्नौ",
-        "word_english": "in the fire of the yoga of self-restraint",
-        "grammar_role": "Adhikarana",
-        "root": "आत्मसंयमयोगाग्नि"
+        "word_english": "in the yoga-fire of self-restraint",
+        "grammar_role": "आत्मन्-संयम-योग-अग्नि · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "आत्मन्-संयम-योग-अग्नौ"
       },
       {
         "word_sanskrit": "जुह्वति",
-        "word_english": "they offer (as oblation)",
-        "grammar_role": null,
-        "root": "√हु"
+        "word_english": "they offer, cast in, dissolve",
+        "grammar_role": "√हु · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "जुह्वति"
       },
       {
         "word_sanskrit": "ज्ञानदीपिते",
-        "word_english": "kindled/illumined by knowledge",
-        "grammar_role": "Adhikarana",
-        "root": "ज्ञानदीपित"
+        "word_english": "in (the fire) kindled/illumined by knowledge",
+        "grammar_role": "ज्ञान-दीपित · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "ज्ञान-दीपिते"
       }
     ],
     "commentary_faqs": [
@@ -6512,58 +5864,34 @@
     "comparative_note": "The verse explicitly pluralizes ‘yajña’ into ethical-ascetic and intellectual disciplines. ‘स्वाध्याय’ historically includes Vedic recitation and reflective study; modern renderings may broaden it to disciplined self-education.",
     "word_by_word": [
       {
-        "word_sanskrit": "द्रव्ययज्ञाः",
-        "word_english": "those who perform sacrifice by means of material offerings",
-        "grammar_role": "Karta",
-        "root": "द्रव्य-यज्ञ"
+        "word_sanskrit": "द्रव्ययज्ञास्तपोयज्ञा",
+        "word_english": "those whose sacrifice is wealth (offered at holy places); whose sacrifice is austerity",
+        "grammar_role": "द्रव्य-यज्ञ · प्रथमा·बहुवचन·पुंलिङ्ग + तपस्-यज्ञ · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "द्रव्य-यज्ञाः + तपस्-यज्ञाः"
       },
       {
-        "word_sanskrit": "तपोयज्ञाः",
-        "word_english": "those whose sacrifice is austerity",
-        "grammar_role": "Karta",
-        "root": "तपस्-यज्ञ"
+        "word_sanskrit": "योगयज्ञास्तथापरे",
+        "word_english": "those whose sacrifice is yoga (prāṇāyāma, pratyāhāra etc.); likewise; others",
+        "grammar_role": "योग-यज्ञ · प्रथमा·बहुवचन·पुंलिङ्ग + तथा · अव्यय + अपर · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "योग-यज्ञाः + तथा + अपरे"
       },
       {
-        "word_sanskrit": "योगयज्ञाः",
-        "word_english": "those whose sacrifice is yoga (spiritual discipline)",
-        "grammar_role": "Karta",
-        "root": "योग-यज्ञ"
-      },
-      {
-        "word_sanskrit": "तथा",
-        "word_english": "and likewise",
-        "grammar_role": null,
-        "root": "तथा"
-      },
-      {
-        "word_sanskrit": "अपरे",
-        "word_english": "others",
-        "grammar_role": "Karta",
-        "root": "अपर"
-      },
-      {
-        "word_sanskrit": "स्वाध्यायज्ञानयज्ञाः",
-        "word_english": "those whose sacrifices are (of the nature of) self-study and knowledge",
-        "grammar_role": "Karta",
-        "root": "स्वाध्याय-ज्ञान-यज्ञ"
-      },
-      {
-        "word_sanskrit": "च",
-        "word_english": "and",
-        "grammar_role": null,
-        "root": "च"
+        "word_sanskrit": "स्वाध्यायज्ञानयज्ञाश्च",
+        "word_english": "those whose sacrifice is Vedic recitation; whose sacrifice is knowledge of scripture; and",
+        "grammar_role": "स्वाध्याय-यज्ञ · प्रथमा·बहुवचन·पुंलिङ्ग + ज्ञान-यज्ञ · प्रथमा·बहुवचन·पुंलिङ्ग + च · अव्यय",
+        "root": "स्वाध्याय-यज्ञाः + ज्ञान-यज्ञाः + च"
       },
       {
         "word_sanskrit": "यतयः",
-        "word_english": "strivers; ascetics; disciplined seekers",
-        "grammar_role": "Karta",
-        "root": "यति"
+        "word_english": "ascetics, the striving ones",
+        "grammar_role": "यति · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "यतयः"
       },
       {
         "word_sanskrit": "संशितव्रताः",
-        "word_english": "those of firm (well-honed) vows",
-        "grammar_role": "Karta",
-        "root": "सं-शि(√शि/शय् ‘to sharpen’)+व्रत"
+        "word_english": "those whose vows are well-sharpened (strict)",
+        "grammar_role": "संशित-व्रत · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "संशित-व्रताः"
       }
     ],
     "commentary_faqs": [
@@ -6727,63 +6055,51 @@
     "word_by_word": [
       {
         "word_sanskrit": "अपाने",
-        "word_english": "in the apāna (downward vital air)",
-        "grammar_role": "Adhikarana",
-        "root": "अपान"
+        "word_english": "in the apāna (downward-breath) function",
+        "grammar_role": "अपान · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "अपाने"
       },
       {
         "word_sanskrit": "जुह्वति",
-        "word_english": "they offer (as oblation)",
-        "grammar_role": null,
-        "root": "√हु"
+        "word_english": "they offer (cast as oblation)",
+        "grammar_role": "√हु · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "जुह्वति"
       },
       {
-        "word_sanskrit": "प्राणम्",
-        "word_english": "the prāṇa (upward vital air)",
-        "grammar_role": "Karma",
-        "root": "प्राण"
+        "word_sanskrit": "प्राणं",
+        "word_english": "the prāṇa (outward-breath) function",
+        "grammar_role": "प्राण · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "प्राणम्"
       },
       {
-        "word_sanskrit": "प्राणे",
-        "word_english": "in the prāṇa",
-        "grammar_role": "Adhikarana",
-        "root": "प्राण"
+        "word_sanskrit": "प्राणेऽपानं",
+        "word_english": "into prāṇa, the apāna (others offer)",
+        "grammar_role": "प्राण · सप्तमी·एकवचन·पुंलिङ्ग + अपान · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "प्राणे + अपानम्"
       },
       {
-        "word_sanskrit": "अपानम्",
-        "word_english": "the apāna",
-        "grammar_role": "Karma",
-        "root": "अपान"
-      },
-      {
-        "word_sanskrit": "तथा",
-        "word_english": "thus; likewise",
-        "grammar_role": null,
-        "root": "तथा"
-      },
-      {
-        "word_sanskrit": "अपरे",
-        "word_english": "others",
-        "grammar_role": "Karta",
-        "root": "अपर"
+        "word_sanskrit": "तथापरे",
+        "word_english": "likewise others",
+        "grammar_role": "तथा · अव्यय + अपर · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "तथा + अपरे"
       },
       {
         "word_sanskrit": "प्राणापानगती",
-        "word_english": "the movements/courses of prāṇa and apāna (the two flows)",
-        "grammar_role": "Karma",
-        "root": "प्राणापानगति"
+        "word_english": "the two movements of prāṇa and apāna",
+        "grammar_role": "प्राण-अपान-गति · द्वितीया·द्विवचन·स्त्रीलिङ्ग",
+        "root": "प्राण-अपान-गती"
       },
       {
         "word_sanskrit": "रुद्ध्वा",
-        "word_english": "having restrained; having blocked",
-        "grammar_role": null,
-        "root": "√रुध्"
+        "word_english": "having restrained (checked)",
+        "grammar_role": "√रुध् · क्त्वा-कृदन्त",
+        "root": "रुद्ध्वा"
       },
       {
         "word_sanskrit": "प्राणायामपरायणाः",
-        "word_english": "those devoted to prāṇāyāma; those for whom prāṇāyāma is the chief resort",
-        "grammar_role": "Karta",
-        "root": "प्राणायामपरायण"
+        "word_english": "wholly devoted to breath-control (kumbhaka)",
+        "grammar_role": "प्राणायाम-परायण · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "प्राणायाम-परायणाः"
       }
     ],
     "commentary_faqs": [
@@ -6946,58 +6262,46 @@
     "comparative_note": "‘यज्ञशिष्ट’ is traditionally read as consecrated remainder (prasāda); academically it can be taken as ‘what remains after ritual offering’ functioning as a symbol of disciplined participation and shared goods. No major variant is typically noted for this pāda in standard recensions.",
     "word_by_word": [
       {
-        "word_sanskrit": "सर्वे",
-        "word_english": "all",
-        "grammar_role": "Karta",
-        "root": "सर्व"
+        "word_sanskrit": "अपरे",
+        "word_english": "others",
+        "grammar_role": "अपर · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "अपरे"
       },
       {
-        "word_sanskrit": "अपि",
-        "word_english": "also/even",
-        "grammar_role": null,
-        "root": "अपि"
+        "word_sanskrit": "नियताहाराः",
+        "word_english": "those whose food is restricted/measured",
+        "grammar_role": "नियताहार (बहुव्रीहि) · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "नियत-आहाराः"
       },
       {
-        "word_sanskrit": "एते",
-        "word_english": "these",
-        "grammar_role": "Karta",
-        "root": "एतद्"
+        "word_sanskrit": "प्राणान्प्राणेषु",
+        "word_english": "the vital airs into the vital airs",
+        "grammar_role": "प्राण · द्वितीया·बहुवचन·पुंलिङ्ग + प्राण · सप्तमी·बहुवचन·पुंलिङ्ग",
+        "root": "प्राणान् + प्राणेषु"
       },
       {
-        "word_sanskrit": "यज्ञविदः",
+        "word_sanskrit": "जुह्वति",
+        "word_english": "they offer (as oblation)",
+        "grammar_role": "√हु · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "जुह्वति"
+      },
+      {
+        "word_sanskrit": "सर्वेऽप्येते",
+        "word_english": "all these too",
+        "grammar_role": "सर्व · प्रथमा·बहुवचन·पुंलिङ्ग + अपि (अव्यय) + एतद् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "सर्वे + अपि + एते"
+      },
+      {
+        "word_sanskrit": "यज्ञविदो",
         "word_english": "knowers of sacrifice",
-        "grammar_role": "Karta",
-        "root": "यज्ञविद्"
+        "grammar_role": "यज्ञविद् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "यज्ञ-विदः"
       },
       {
         "word_sanskrit": "यज्ञक्षपितकल्मषाः",
-        "word_english": "those whose sins are destroyed by sacrifice",
-        "grammar_role": "Karta",
-        "root": "यज्ञ-क्षपित-कल्मष"
-      },
-      {
-        "word_sanskrit": "यज्ञशिष्टामृतभुजः",
-        "word_english": "eaters of the nectar that remains after sacrifice",
-        "grammar_role": "Karta",
-        "root": "यज्ञ-शिष्ट-अमृत-भुज्"
-      },
-      {
-        "word_sanskrit": "यान्ति",
-        "word_english": "go/attain",
-        "grammar_role": null,
-        "root": "√या (गत्यर्थः)"
-      },
-      {
-        "word_sanskrit": "ब्रह्म",
-        "word_english": "Brahman (the Absolute)",
-        "grammar_role": "Karma",
-        "root": "ब्रह्मन्"
-      },
-      {
-        "word_sanskrit": "सनातनम्",
-        "word_english": "eternal",
-        "grammar_role": "Karma",
-        "root": "सनातन"
+        "word_english": "those whose sins are destroyed by sacrifices",
+        "grammar_role": "यज्ञक्षपितकल्मष (बहुव्रीहि) · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "यज्ञ-क्षपित-कल्मषाः"
       }
     ],
     "commentary_faqs": [
@@ -7160,52 +6464,52 @@
     "comparative_note": "Traditional renderings often read ‘लोक’ as worldly welfare and ‘अन्यः’ as the next world; academically it can also be read as a rhetorical statement about the loss of social-ethical participation and its spiritual trajectory. The compact aphoristic style invites both pragmatic and soteriological readings.",
     "word_by_word": [
       {
-        "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
-        "root": "न"
+        "word_sanskrit": "यज्ञशिष्टामृतभुजो",
+        "word_english": "those who eat the nectar-remnant left from sacrifices",
+        "grammar_role": "यज्ञशिष्टामृतभुज् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "यज्ञ-शिष्ट-अमृत-भुजः"
       },
       {
-        "word_sanskrit": "अयम्",
-        "word_english": "this",
-        "grammar_role": null,
-        "root": "इदम्"
+        "word_sanskrit": "यान्ति",
+        "word_english": "they go to, attain",
+        "grammar_role": "√या · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "यान्ति"
       },
       {
-        "word_sanskrit": "लोकः",
-        "word_english": "world (realm of experience)",
-        "grammar_role": "Karta",
-        "root": "लोक"
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman (the goal attained)",
+        "grammar_role": "ब्रह्मन् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "ब्रह्म"
       },
       {
-        "word_sanskrit": "अस्ति",
-        "word_english": "exists / is",
-        "grammar_role": null,
-        "root": "√अस्"
+        "word_sanskrit": "सनातनम्",
+        "word_english": "eternal, everlasting (qualifies Brahman)",
+        "grammar_role": "सनातन · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "सनातनम्"
       },
       {
-        "word_sanskrit": "अयज्ञस्य",
-        "word_english": "of one who does not perform sacrifice",
-        "grammar_role": null,
-        "root": "अयज्ञ"
+        "word_sanskrit": "नायं",
+        "word_english": "not this",
+        "grammar_role": "न · अव्यय (निषेध) + इदम् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "न + अयम्"
       },
       {
-        "word_sanskrit": "कुतः",
-        "word_english": "whence? how then?",
-        "grammar_role": null,
-        "root": "कुतः"
+        "word_sanskrit": "लोकोऽस्त्ययज्ञस्य",
+        "word_english": "this world is not for the non-sacrificer",
+        "grammar_role": "लोक · प्रथमा·एकवचन·पुंलिङ्ग + √अस् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद + अयज्ञ · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "लोकः + अस्ति + अयज्ञस्य"
       },
       {
-        "word_sanskrit": "अन्यः",
-        "word_english": "the other (world)",
-        "grammar_role": null,
-        "root": "अन्य"
+        "word_sanskrit": "कुतोऽन्यः",
+        "word_english": "how then another, higher world by special means?",
+        "grammar_role": "कुतस् · अव्यय (प्रश्न) + अन्य · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "कुतः + अन्यः"
       },
       {
         "word_sanskrit": "कुरुसत्तम",
-        "word_english": "O best of the Kurus",
-        "grammar_role": null,
-        "root": "कुरुसत्तम"
+        "word_english": "O best among the Kurus",
+        "grammar_role": "कुरुसत्तम · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "कुरु-सत्तम"
       }
     ],
     "commentary_faqs": [
@@ -7368,82 +6672,64 @@
     "comparative_note": "‘ब्रह्मणो मुखे’ is traditionally glossed as ‘in the Veda’ (Brahman as sacred word). Academically, it can indicate the authoritative textual tradition of ritual discourse. The verse also emphasizes that even ritual varieties are ‘karma-born,’ preparing the transition to knowledge as the culminating purifier.",
     "word_by_word": [
       {
-        "word_sanskrit": "एवम्",
-        "word_english": "thus, in this manner",
-        "grammar_role": null,
+        "word_sanskrit": "एवं",
+        "word_english": "thus, as stated above",
+        "grammar_role": "एवम् · अव्यय",
         "root": "एवम्"
       },
       {
-        "word_sanskrit": "बहुविधाः",
-        "word_english": "of many kinds, manifold",
-        "grammar_role": null,
-        "root": "बहुविध"
+        "word_sanskrit": "बहुविधा",
+        "word_english": "of many/various kinds",
+        "grammar_role": "बहुविध · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "बहु-विधाः"
       },
       {
-        "word_sanskrit": "यज्ञाः",
-        "word_english": "sacrifices (yajñas)",
-        "grammar_role": "Karta",
-        "root": "यज्ञ"
+        "word_sanskrit": "यज्ञा",
+        "word_english": "sacrifices",
+        "grammar_role": "यज्ञ · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "यज्ञाः"
       },
       {
-        "word_sanskrit": "वितताः",
-        "word_english": "spread out, विस्तृताः",
-        "grammar_role": null,
-        "root": "वि-तन्"
+        "word_sanskrit": "वितता",
+        "word_english": "spread out, displayed (via the Veda)",
+        "grammar_role": "√तन् (वि-) · क्त-कृदन्त · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "वितताः"
       },
       {
-        "word_sanskrit": "ब्रह्मणः",
-        "word_english": "of Brahman / of the Veda",
-        "grammar_role": null,
-        "root": "ब्रह्मन्"
+        "word_sanskrit": "ब्रह्मणो",
+        "word_english": "of Brahman, i.e. of the Veda",
+        "grammar_role": "ब्रह्मन् · षष्ठी·एकवचन·नपुंसकलिङ्ग",
+        "root": "ब्रह्मणः"
       },
       {
         "word_sanskrit": "मुखे",
-        "word_english": "in the mouth (i.e., from the mouth)",
-        "grammar_role": "Adhikarana",
-        "root": "मुख"
+        "word_english": "in the mouth/door, i.e. through the Veda",
+        "grammar_role": "मुख · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "मुखे"
       },
       {
-        "word_sanskrit": "कर्मजान्",
-        "word_english": "born of action (arising from karma)",
-        "grammar_role": "Karma",
-        "root": "कर्मज"
+        "word_sanskrit": "कर्मजान्विद्धि",
+        "word_english": "know them to be born of action",
+        "grammar_role": "कर्मज · द्वितीया·बहुवचन·पुंलिङ्ग + √विद् · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "कर्म-जान् + विद्धि"
       },
       {
-        "word_sanskrit": "विद्धि",
-        "word_english": "know (you should know)",
-        "grammar_role": null,
-        "root": "विद् (ज्ञान)"
-      },
-      {
-        "word_sanskrit": "तान्",
-        "word_english": "those",
-        "grammar_role": "Karma",
-        "root": "तद्"
-      },
-      {
-        "word_sanskrit": "सर्वान्",
-        "word_english": "all",
-        "grammar_role": null,
-        "root": "सर्व"
-      },
-      {
-        "word_sanskrit": "एवम्",
-        "word_english": "thus, in this way",
-        "grammar_role": null,
-        "root": "एवम्"
+        "word_sanskrit": "तान्सर्वानेवं",
+        "word_english": "all those; thus",
+        "grammar_role": "तद् · द्वितीया·बहुवचन·पुंलिङ्ग + सर्व · द्वितीया·बहुवचन·पुंलिङ्ग + एवम् · अव्यय",
+        "root": "तान् + सर्वान् + एवम्"
       },
       {
         "word_sanskrit": "ज्ञात्वा",
-        "word_english": "having known",
-        "grammar_role": null,
-        "root": "ज्ञा"
+        "word_english": "having known (rightly)",
+        "grammar_role": "√ज्ञा · क्त्वा-कृदन्त",
+        "root": "ज्ञात्वा"
       },
       {
         "word_sanskrit": "विमोक्ष्यसे",
-        "word_english": "you will be liberated",
-        "grammar_role": null,
-        "root": "वि-मुच्"
+        "word_english": "you will be liberated (from bondage)",
+        "grammar_role": "√मुच् (वि-) · लृट्·मध्यमपुरुष·एकवचन·आत्मनेपद",
+        "root": "विमोक्ष्यसे"
       }
     ],
     "commentary_faqs": [
@@ -7606,70 +6892,46 @@
     "comparative_note": "Traditional commentary often reads ‘परिसमाप्यते’ as ‘finds fulfillment’ in knowledge—i.e., knowledge is the telos of action. Academically, this can be framed as an internal critique/subordination of ritualism within a broader soteriological program.",
     "word_by_word": [
       {
-        "word_sanskrit": "श्रेयान्",
-        "word_english": "better, superior",
-        "grammar_role": null,
-        "root": "श्रेयस्"
-      },
-      {
-        "word_sanskrit": "द्रव्यमयात्",
-        "word_english": "than (a sacrifice) consisting of material offerings",
-        "grammar_role": null,
-        "root": "द्रव्य-मय"
-      },
-      {
-        "word_sanskrit": "यज्ञात्",
-        "word_english": "than (a) sacrifice",
-        "grammar_role": null,
-        "root": "यज्ञ"
-      },
-      {
-        "word_sanskrit": "ज्ञानयज्ञः",
-        "word_english": "the sacrifice of knowledge",
-        "grammar_role": null,
-        "root": "ज्ञान-यज्ञ"
+        "word_sanskrit": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः",
+        "word_english": "the knowledge-sacrifice is better than the material sacrifice",
+        "grammar_role": "श्रेयस् · प्रथमा·एकवचन·पुंलिङ्ग (तरप्/प्रशस्यतर) + द्रव्य-मय · पञ्चमी·एकवचन·पुंलिङ्ग + यज्ञ · पञ्चमी·एकवचन·पुंलिङ्ग + ज्ञान-यज्ञ · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "श्रेयान् + द्रव्यमयात् + यज्ञात् + ज्ञानयज्ञः"
       },
       {
         "word_sanskrit": "परन्तप",
         "word_english": "O scorcher of foes",
-        "grammar_role": null,
+        "grammar_role": "परन्तप · सम्बोधन·एकवचन·पुंलिङ्ग",
         "root": "परन्तप"
       },
       {
-        "word_sanskrit": "सर्वम्",
-        "word_english": "all, the whole",
-        "grammar_role": null,
-        "root": "सर्व"
+        "word_sanskrit": "सर्वं",
+        "word_english": "all, entire",
+        "grammar_role": "सर्व · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "सर्वम्"
       },
       {
-        "word_sanskrit": "कर्म",
-        "word_english": "action, work",
-        "grammar_role": null,
-        "root": "कर्मन्"
-      },
-      {
-        "word_sanskrit": "अखिलम्",
-        "word_english": "entire, without remainder",
-        "grammar_role": null,
-        "root": "अखिल"
+        "word_sanskrit": "कर्माखिलं",
+        "word_english": "action, entire (unobstructed)",
+        "grammar_role": "कर्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग + अखिल · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "कर्म + अखिलम्"
       },
       {
         "word_sanskrit": "पार्थ",
-        "word_english": "O son of Pṛthā",
-        "grammar_role": null,
+        "word_english": "O Partha (son of Prtha)",
+        "grammar_role": "पार्थ · सम्बोधन·एकवचन·पुंलिङ्ग",
         "root": "पार्थ"
       },
       {
         "word_sanskrit": "ज्ञाने",
-        "word_english": "in knowledge",
-        "grammar_role": "Adhikarana",
-        "root": "ज्ञान"
+        "word_english": "in knowledge (the means of liberation)",
+        "grammar_role": "ज्ञान · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "ज्ञाने"
       },
       {
         "word_sanskrit": "परिसमाप्यते",
-        "word_english": "is completely concluded/consummated",
-        "grammar_role": null,
-        "root": "√आप् (सम्+आ+√आप्)"
+        "word_english": "is wholly included in, culminates in",
+        "grammar_role": "√परि-सम्-आप् · लट्·कर्मणि·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "परिसमाप्यते"
       }
     ],
     "commentary_faqs": [
@@ -7832,64 +7094,52 @@
     "comparative_note": "Traditional readings emphasize guru-śiṣya discipline (humility, questioning, service). Academically, it reflects pedagogical norms in śramaṇa/brāhmaṇa learning cultures, balancing deference (‘praṇipāta’) with critical inquiry (‘paripraśna’).",
     "word_by_word": [
       {
-        "word_sanskrit": "तत्",
-        "word_english": "that (truth/that means)",
-        "grammar_role": "Karma",
-        "root": "तद्"
-      },
-      {
-        "word_sanskrit": "विद्धि",
-        "word_english": "know (you should know)",
-        "grammar_role": null,
-        "root": "√विद् (जानने)"
+        "word_sanskrit": "तद्विद्धि",
+        "word_english": "know that (knowledge)",
+        "grammar_role": "तद् · द्वितीया·एकवचन·नपुंसकलिङ्ग + √विद् · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "तत् + विद्धि"
       },
       {
         "word_sanskrit": "प्रणिपातेन",
-        "word_english": "by prostration; by reverential surrender",
-        "grammar_role": "Karana",
-        "root": "प्रणिपात"
+        "word_english": "by prostration, deep obeisance to teachers",
+        "grammar_role": "प्रणिपात · तृतीया·एकवचन·पुंलिङ्ग",
+        "root": "प्रणिपातेन"
       },
       {
         "word_sanskrit": "परिप्रश्नेन",
-        "word_english": "by thorough questioning",
-        "grammar_role": "Karana",
-        "root": "परिप्रश्न"
+        "word_english": "by inquiry (how bondage, how liberation?)",
+        "grammar_role": "परिप्रश्न · तृतीया·एकवचन·पुंलिङ्ग",
+        "root": "परिप्रश्नेन"
       },
       {
         "word_sanskrit": "सेवया",
-        "word_english": "by service",
-        "grammar_role": "Karana",
-        "root": "सेवा"
+        "word_english": "by service, attending on the guru",
+        "grammar_role": "सेवा · तृतीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "सेवया"
       },
       {
         "word_sanskrit": "उपदेक्ष्यन्ति",
-        "word_english": "they will instruct",
-        "grammar_role": null,
-        "root": "√दिश् (उपदेशे)"
+        "word_english": "they will instruct, will teach",
+        "grammar_role": "उप + √दिश् · लृट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "उपदेक्ष्यन्ति"
       },
       {
         "word_sanskrit": "ते",
-        "word_english": "to you",
-        "grammar_role": "Sampradana",
-        "root": "त्वद्"
+        "word_english": "unto thee",
+        "grammar_role": "युष्मद् · चतुर्थी·एकवचन (enclitic)",
+        "root": "ते"
       },
       {
-        "word_sanskrit": "ज्ञानम्",
-        "word_english": "knowledge",
-        "grammar_role": "Karma",
-        "root": "ज्ञान"
+        "word_sanskrit": "ज्ञानं",
+        "word_english": "knowledge (the aforesaid wisdom)",
+        "grammar_role": "ज्ञान · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "ज्ञानम्"
       },
       {
-        "word_sanskrit": "ज्ञानिनः",
-        "word_english": "the knowers (wise ones)",
-        "grammar_role": "Karta",
-        "root": "ज्ञानिन्"
-      },
-      {
-        "word_sanskrit": "तत्त्वदर्शिनः",
-        "word_english": "those who see reality; seers of truth",
-        "grammar_role": "Karta",
-        "root": "तत्त्वदर्शिन्"
+        "word_sanskrit": "ज्ञानिनस्तत्त्वदर्शिनः",
+        "word_english": "the knowers who are seers of truth",
+        "grammar_role": "ज्ञानिन् · प्रथमा·बहुवचन·पुंलिङ्ग + तत्त्वदर्शिन् · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "ज्ञानिनः + तत्त्वदर्शिनः"
       }
     ],
     "commentary_faqs": [
@@ -8052,100 +7302,58 @@
     "comparative_note": "Traditional Vedāntic readings take this as non-dual or qualified non-dual vision (all beings in ātman/Brahman, and in Īśvara). Academically, it can be read as a contemplative claim: knowledge yields a unifying perspective that dissolves fragmented perception.",
     "word_by_word": [
       {
-        "word_sanskrit": "यत्",
-        "word_english": "which (that)",
-        "grammar_role": "Karma",
-        "root": "यद्"
-      },
-      {
-        "word_sanskrit": "ज्ञात्वा",
-        "word_english": "having known",
-        "grammar_role": null,
-        "root": "√ज्ञा"
+        "word_sanskrit": "यज्ज्ञात्वा",
+        "word_english": "having known which (knowledge)",
+        "grammar_role": "यद् · द्वितीया·एकवचन·नपुंसकलिङ्ग + √ज्ञा · क्त्वान्त·अव्यय",
+        "root": "यत् + ज्ञात्वा"
       },
       {
         "word_sanskrit": "न",
         "word_english": "not",
-        "grammar_role": null,
+        "grammar_role": "न · अव्यय (निषेध)",
         "root": "न"
       },
       {
-        "word_sanskrit": "पुनः",
-        "word_english": "again",
-        "grammar_role": null,
-        "root": "पुनः"
-      },
-      {
-        "word_sanskrit": "मोहम्",
-        "word_english": "delusion",
-        "grammar_role": "Karma",
-        "root": "मोह"
-      },
-      {
-        "word_sanskrit": "एवम्",
-        "word_english": "thus; in this manner",
-        "grammar_role": null,
-        "root": "एवम्"
+        "word_sanskrit": "पुनर्मोहमेवं",
+        "word_english": "again into delusion thus",
+        "grammar_role": "पुनर् · अव्यय + मोह · द्वितीया·एकवचन·पुंलिङ्ग + एवम् · अव्यय",
+        "root": "पुनः + मोहम् + एवम्"
       },
       {
         "word_sanskrit": "यास्यसि",
-        "word_english": "you will go/attain",
-        "grammar_role": null,
-        "root": "√या"
+        "word_english": "you will go (fall into)",
+        "grammar_role": "√या · लृट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "यास्यसि"
       },
       {
         "word_sanskrit": "पाण्डव",
-        "word_english": "O Pāṇḍava (son of Pāṇḍu)",
-        "grammar_role": null,
+        "word_english": "O son of Pāṇḍu",
+        "grammar_role": "पाण्डव · सम्बोधन·एकवचन·पुंलिङ्ग",
         "root": "पाण्डव"
       },
       {
         "word_sanskrit": "येन",
-        "word_english": "by which",
-        "grammar_role": "Karana",
-        "root": "यद्"
+        "word_english": "by which (knowledge)",
+        "grammar_role": "यद् · तृतीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "येन"
       },
       {
-        "word_sanskrit": "भूतानि",
-        "word_english": "beings; entities",
-        "grammar_role": "Karma",
-        "root": "भूत"
+        "word_sanskrit": "भूतान्यशेषेण",
+        "word_english": "all beings, without exception",
+        "grammar_role": "भूत · द्वितीया·बहुवचन·नपुंसकलिङ्ग + अशेष · तृतीया·एकवचन·नपुंसकलिङ्ग (क्रियाविशेषण)",
+        "root": "भूतानि + अशेषेण"
       },
       {
-        "word_sanskrit": "अशेषेण",
-        "word_english": "without remainder; entirely",
-        "grammar_role": null,
-        "root": "अशेष"
-      },
-      {
-        "word_sanskrit": "द्रक्ष्यसि",
-        "word_english": "you will see",
-        "grammar_role": null,
-        "root": "√दृश्"
-      },
-      {
-        "word_sanskrit": "आत्मनि",
-        "word_english": "in the Self",
-        "grammar_role": "Adhikarana",
-        "root": "आत्मन्"
-      },
-      {
-        "word_sanskrit": "अथ",
-        "word_english": "then; and also",
-        "grammar_role": null,
-        "root": "अथ"
-      },
-      {
-        "word_sanskrit": "उ",
-        "word_english": "indeed; surely",
-        "grammar_role": null,
-        "root": "उ"
+        "word_sanskrit": "द्रक्ष्यस्यात्मन्यथो",
+        "word_english": "you will see in the Self, and then",
+        "grammar_role": "√दृश् · लृट्·मध्यमपुरुष·एकवचन·परस्मैपद + आत्मन् · सप्तमी·एकवचन·पुंलिङ्ग + अथो · अव्यय",
+        "root": "द्रक्ष्यसि + आत्मनि + अथो"
       },
       {
         "word_sanskrit": "मयि",
-        "word_english": "in Me",
-        "grammar_role": "Adhikarana",
-        "root": "अस्मद्"
+        "word_english": "in Me (Vāsudeva)",
+        "grammar_role": "अस्मद् · सप्तमी·एकवचन",
+        "root": "मयि"
       }
     ],
     "commentary_faqs": [
@@ -8309,69 +7517,57 @@
     "word_by_word": [
       {
         "word_sanskrit": "अपि",
-        "word_english": "even; even if",
-        "grammar_role": null,
+        "word_english": "even",
+        "grammar_role": "अपि · अव्यय",
         "root": "अपि"
       },
       {
-        "word_sanskrit": "चेत्",
-        "word_english": "if",
-        "grammar_role": null,
-        "root": "चेत्"
-      },
-      {
-        "word_sanskrit": "असि",
-        "word_english": "you are",
-        "grammar_role": null,
-        "root": "√अस् (भू-सत्तायाम्)"
+        "word_sanskrit": "चेदसि",
+        "word_english": "if you are",
+        "grammar_role": "चेत् · अव्यय (संशय/शर्त) + √अस् · लट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "चेत् + असि"
       },
       {
         "word_sanskrit": "पापेभ्यः",
-        "word_english": "from sins / than sins",
-        "grammar_role": "Apadana",
-        "root": "पाप"
+        "word_english": "than the sinners",
+        "grammar_role": "पाप · पञ्चमी·बहुवचन·पुंलिङ्ग",
+        "root": "पापेभ्यः"
       },
       {
         "word_sanskrit": "सर्वेभ्यः",
-        "word_english": "from all / of all",
-        "grammar_role": null,
-        "root": "सर्व"
+        "word_english": "than all (of them)",
+        "grammar_role": "सर्व · पञ्चमी·बहुवचन·पुंलिङ्ग",
+        "root": "सर्वेभ्यः"
       },
       {
         "word_sanskrit": "पापकृत्तमः",
-        "word_english": "the greatest doer of sin; most sinful",
-        "grammar_role": null,
-        "root": "पापकृत्"
+        "word_english": "the most sinful of doers",
+        "grammar_role": "पापकृत्तम · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "पाप-कृत्तमः"
       },
       {
-        "word_sanskrit": "सर्वम्",
-        "word_english": "all (entire)",
-        "grammar_role": "Karma",
-        "root": "सर्व"
+        "word_sanskrit": "सर्वं",
+        "word_english": "all (of it)",
+        "grammar_role": "सर्व · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "सर्वम्"
       },
       {
-        "word_sanskrit": "ज्ञानप्लवेन",
-        "word_english": "by the boat of knowledge",
-        "grammar_role": "Karana",
-        "root": "ज्ञानप्लव"
+        "word_sanskrit": "ज्ञानप्लवेनैव",
+        "word_english": "by the raft of knowledge alone",
+        "grammar_role": "ज्ञानप्लव · तृतीया·एकवचन·पुंलिङ्ग + एव · अव्यय",
+        "root": "ज्ञान-प्लवेन + एव"
       },
       {
-        "word_sanskrit": "एव",
-        "word_english": "indeed; alone; just",
-        "grammar_role": null,
-        "root": "एव"
-      },
-      {
-        "word_sanskrit": "वृजिनम्",
-        "word_english": "evil; sin; wrongdoing",
-        "grammar_role": "Karma",
-        "root": "वृजिन"
+        "word_sanskrit": "वृजिनं",
+        "word_english": "the ocean of sin",
+        "grammar_role": "वृजिन · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "वृजिनम्"
       },
       {
         "word_sanskrit": "सन्तरिष्यसि",
-        "word_english": "you will cross over completely",
-        "grammar_role": null,
-        "root": "√तॄ (तरणे)"
+        "word_english": "you will cross completely over",
+        "grammar_role": "√सम्-तॄ · लृट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "सन्तरिष्यसि"
       }
     ],
     "commentary_faqs": [
@@ -8534,75 +7730,39 @@
     "comparative_note": "To avoid a purely literal reading, many commentators interpret ‘burning actions’ as destroying karmic bondage (saṃskāra/karma-phala binding), not negating ethical responsibility. Academically, it is a metaphor for cognitive transformation that renders past conditioning non-binding.",
     "word_by_word": [
       {
-        "word_sanskrit": "यथा",
-        "word_english": "just as",
-        "grammar_role": null,
-        "root": "यथा"
+        "word_sanskrit": "यथैधांसि",
+        "word_english": "just as the fuels (firewood)",
+        "grammar_role": "यथा · अव्यय + एधस् · द्वितीया·बहुवचन·नपुंसकलिङ्ग",
+        "root": "यथा + एधांसि"
       },
       {
-        "word_sanskrit": "एधांसि",
-        "word_english": "fuel-sticks, kindling (pieces of wood)",
-        "grammar_role": "Karma",
-        "root": "एधस्"
-      },
-      {
-        "word_sanskrit": "समिद्धः",
-        "word_english": "fully kindled, well-blazing",
-        "grammar_role": null,
-        "root": "सम्-इन्ध्"
-      },
-      {
-        "word_sanskrit": "अग्निः",
-        "word_english": "fire",
-        "grammar_role": "Karta",
-        "root": "अग्नि"
-      },
-      {
-        "word_sanskrit": "भस्मसात्",
-        "word_english": "into ashes, to ash-ness",
-        "grammar_role": null,
-        "root": "भस्मसात्"
-      },
-      {
-        "word_sanskrit": "कुरुते",
-        "word_english": "makes, reduces (to)",
-        "grammar_role": null,
-        "root": "कृ"
-      },
-      {
-        "word_sanskrit": "अर्जुन",
-        "word_english": "O Arjuna",
-        "grammar_role": null,
-        "root": "अर्जुन"
+        "word_sanskrit": "समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन",
+        "word_english": "a well-kindled fire reduces to ashes, O Arjuna",
+        "grammar_role": "समिद्ध · प्रथमा·एकवचन·पुंलिङ्ग + अग्नि · प्रथमा·एकवचन·पुंलिङ्ग + भस्मसात् · अव्यय + √कृ · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद + अर्जुन · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "समिद्धः + अग्निः + भस्मसात् + कुरुते + अर्जुन"
       },
       {
         "word_sanskrit": "ज्ञानाग्निः",
         "word_english": "the fire of knowledge",
-        "grammar_role": "Karta",
-        "root": "ज्ञानाग्नि"
+        "grammar_role": "ज्ञान-अग्नि · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "ज्ञान-अग्निः"
       },
       {
         "word_sanskrit": "सर्वकर्माणि",
-        "word_english": "all actions (all deeds)",
-        "grammar_role": "Karma",
-        "root": "सर्वकर्मन्"
+        "word_english": "all actions (karmas)",
+        "grammar_role": "सर्व-कर्मन् · द्वितीया·बहुवचन·नपुंसकलिङ्ग",
+        "root": "सर्व-कर्माणि"
       },
       {
-        "word_sanskrit": "भस्मसात्",
-        "word_english": "into ashes, to ash-ness",
-        "grammar_role": null,
-        "root": "भस्मसात्"
-      },
-      {
-        "word_sanskrit": "कुरुते",
-        "word_english": "makes, reduces (to)",
-        "grammar_role": null,
-        "root": "कृ"
+        "word_sanskrit": "भस्मसात्कुरुते",
+        "word_english": "reduces to ashes (renders seedless)",
+        "grammar_role": "भस्मसात् · अव्यय + √कृ · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "भस्मसात् + कुरुते"
       },
       {
         "word_sanskrit": "तथा",
-        "word_english": "so, in the same way",
-        "grammar_role": null,
+        "word_english": "so, likewise",
+        "grammar_role": "तथा · अव्यय",
         "root": "तथा"
       }
     ],
@@ -8768,80 +7928,62 @@
       {
         "word_sanskrit": "न",
         "word_english": "not",
-        "grammar_role": null,
+        "grammar_role": "न · अव्यय (निषेध)",
         "root": "न"
       },
       {
         "word_sanskrit": "हि",
-        "word_english": "indeed, for",
-        "grammar_role": null,
+        "word_english": "for, indeed",
+        "grammar_role": "हि · अव्यय (हेतु/निश्चय)",
         "root": "हि"
       },
       {
         "word_sanskrit": "ज्ञानेन",
-        "word_english": "by knowledge",
-        "grammar_role": "Karana",
-        "root": "ज्ञान"
+        "word_english": "with knowledge",
+        "grammar_role": "ज्ञान · तृतीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "ज्ञानेन"
       },
       {
-        "word_sanskrit": "सदृशम्",
-        "word_english": "equal, comparable",
-        "grammar_role": null,
-        "root": "सदृश"
+        "word_sanskrit": "सदृशं",
+        "word_english": "equal to, comparable",
+        "grammar_role": "सदृश · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "सदृशम्"
       },
       {
-        "word_sanskrit": "पवित्रम्",
-        "word_english": "purifier, purifying (thing)",
-        "grammar_role": "Karta",
-        "root": "पवित्र"
-      },
-      {
-        "word_sanskrit": "इह",
-        "word_english": "here (in this world/teaching)",
-        "grammar_role": "Adhikarana",
-        "root": "इह"
+        "word_sanskrit": "पवित्रमिह",
+        "word_english": "purifying, here",
+        "grammar_role": "पवित्र · प्रथमा·एकवचन·नपुंसकलिङ्ग + इह · अव्यय",
+        "root": "पवित्रम् + इह"
       },
       {
         "word_sanskrit": "विद्यते",
-        "word_english": "exists, is found",
-        "grammar_role": null,
-        "root": "√विद् (विद्-सत्तायाम्)"
+        "word_english": "exists",
+        "grammar_role": "√विद् (सत्तायाम्) · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "विद्यते"
       },
       {
-        "word_sanskrit": "तत्",
-        "word_english": "that (knowledge/purifier)",
-        "grammar_role": "Karma",
-        "root": "तद्"
-      },
-      {
-        "word_sanskrit": "स्वयम्",
-        "word_english": "by oneself, personally",
-        "grammar_role": null,
-        "root": "स्वयम्"
+        "word_sanskrit": "तत्स्वयं",
+        "word_english": "that (knowledge), of itself",
+        "grammar_role": "तद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + स्वयम् · अव्यय",
+        "root": "तत् + स्वयम्"
       },
       {
         "word_sanskrit": "योगसंसिद्धः",
         "word_english": "one perfected through yoga",
-        "grammar_role": "Karta",
-        "root": "योग-संसिद्ध"
+        "grammar_role": "योग-संसिद्ध · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "योग-संसिद्धः"
       },
       {
-        "word_sanskrit": "कालेन",
-        "word_english": "in due course, with time",
-        "grammar_role": "Karana",
-        "root": "काल"
-      },
-      {
-        "word_sanskrit": "आत्मनि",
-        "word_english": "in the Self",
-        "grammar_role": "Adhikarana",
-        "root": "आत्मन्"
+        "word_sanskrit": "कालेनात्मनि",
+        "word_english": "in (long) time, within oneself",
+        "grammar_role": "काल · तृतीया·एकवचन·पुंलिङ्ग + आत्मन् · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "कालेन + आत्मनि"
       },
       {
         "word_sanskrit": "विन्दति",
-        "word_english": "finds, attains",
-        "grammar_role": null,
-        "root": "√विद् (विन्दति—लभते)"
+        "word_english": "obtains, finds",
+        "grammar_role": "√विद् (लाभे) · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "विन्दति"
       }
     ],
     "commentary_faqs": [
@@ -9004,76 +8146,52 @@
     "comparative_note": "‘श्रद्धा’ is often translated as ‘faith’; academically it can be rendered ‘trust/confident commitment’ in a disciplined path. The verse links epistemic attainment to ethical-psychological conditions (devotion, sense-restraint).",
     "word_by_word": [
       {
-        "word_sanskrit": "श्रद्धावान्",
-        "word_english": "one who has faith",
-        "grammar_role": "Karta",
-        "root": "श्रद्धावत् (प्रातिपदिक)"
+        "word_sanskrit": "श्रद्धावांल्लभते",
+        "word_english": "the faithful one obtains",
+        "grammar_role": "श्रद्धावत् · प्रथमा·एकवचन·पुंलिङ्ग + √लभ् · लट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "श्रद्धावान् + लभते"
       },
       {
-        "word_sanskrit": "लभते",
-        "word_english": "attains/obtains",
-        "grammar_role": null,
-        "root": "√लभ्"
-      },
-      {
-        "word_sanskrit": "ज्ञानम्",
+        "word_sanskrit": "ज्ञानं",
         "word_english": "knowledge",
-        "grammar_role": "Karma",
-        "root": "ज्ञान (प्रातिपदिक)"
+        "grammar_role": "ज्ञान · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "ज्ञानम्"
       },
       {
         "word_sanskrit": "तत्परः",
-        "word_english": "intent on that (devoted to it)",
-        "grammar_role": "Karta",
-        "root": "तत्पर (प्रातिपदिक)"
+        "word_english": "intent on that, devoted to its means",
+        "grammar_role": "तत्पर · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "तत्-परः"
       },
       {
-        "word_sanskrit": "संयत",
-        "word_english": "self-controlled, restrained",
-        "grammar_role": "Karta",
-        "root": "√यम् (सम्-उपसर्ग)"
+        "word_sanskrit": "संयतेन्द्रियः",
+        "word_english": "whose senses are restrained from objects",
+        "grammar_role": "संयतेन्द्रिय · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "संयत-इन्द्रियः"
       },
       {
-        "word_sanskrit": "इन्द्रियः",
-        "word_english": "senses",
-        "grammar_role": null,
-        "root": "इन्द्रिय (प्रातिपदिक)"
-      },
-      {
-        "word_sanskrit": "ज्ञानम्",
+        "word_sanskrit": "ज्ञानं",
         "word_english": "knowledge",
-        "grammar_role": "Karma",
-        "root": "ज्ञान (प्रातिपदिक)"
+        "grammar_role": "ज्ञान · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "ज्ञानम्"
       },
       {
         "word_sanskrit": "लब्ध्वा",
         "word_english": "having obtained",
-        "grammar_role": null,
-        "root": "√लभ्"
+        "grammar_role": "√लभ् · क्त्वान्त-अव्यय",
+        "root": "लब्ध्वा"
       },
       {
-        "word_sanskrit": "पराम्",
-        "word_english": "supreme, highest",
-        "grammar_role": null,
-        "root": "परा (प्रातिपदिक)"
+        "word_sanskrit": "परां",
+        "word_english": "supreme (called liberation)",
+        "grammar_role": "परा · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "पराम्"
       },
       {
-        "word_sanskrit": "शान्तिम्",
-        "word_english": "peace",
-        "grammar_role": "Karma",
-        "root": "शान्ति (प्रातिपदिक)"
-      },
-      {
-        "word_sanskrit": "अचिरेण",
-        "word_english": "in a short time, quickly",
-        "grammar_role": "Karana",
-        "root": "अचिर (प्रातिपदिक)"
-      },
-      {
-        "word_sanskrit": "अधिगच्छति",
-        "word_english": "attains, reaches, realizes",
-        "grammar_role": null,
-        "root": "√गम् (अधि-उपसर्ग)"
+        "word_sanskrit": "शान्तिमचिरेणाधिगच्छति",
+        "word_english": "quickly attains peace (cessation)",
+        "grammar_role": "शान्ति · द्वितीया·एकवचन·स्त्रीलिङ्ग + अचिर · तृतीया·एकवचन·नपुंसकलिङ्ग (क्रियाविशेषण) + अधि-√गम् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "शान्तिम् + अचिरेण + अधिगच्छति"
       }
     ],
     "commentary_faqs": [
@@ -9236,94 +8354,64 @@
     "comparative_note": "Most traditional renderings take vināśa as spiritual downfall (loss of progress) rather than physical destruction. 'Śraddhā' is variously translated as faith, trust, or confidence grounded in discipline and teaching.",
     "word_by_word": [
       {
-        "word_sanskrit": "अज्ञः",
-        "word_english": "the ignorant person",
-        "grammar_role": "Karta",
-        "root": "अज्ञ"
-      },
-      {
-        "word_sanskrit": "च",
-        "word_english": "and",
-        "grammar_role": null,
-        "root": "च"
-      },
-      {
-        "word_sanskrit": "अश्रद्दधानः",
-        "word_english": "one who lacks faith; the faithless",
-        "grammar_role": "Karta",
-        "root": "अ-श्रद्धा-दध"
-      },
-      {
-        "word_sanskrit": "च",
-        "word_english": "and",
-        "grammar_role": null,
-        "root": "च"
+        "word_sanskrit": "अज्ञश्चाश्रद्दधानश्च",
+        "word_english": "the ignorant of the Self, and the faithless",
+        "grammar_role": "अज्ञ · प्रथमा·एकवचन·पुंलिङ्ग + च · अव्यय (समुच्चय) + अश्रद्दधान · प्रथमा·एकवचन·पुंलिङ्ग + च · अव्यय (समुच्चय)",
+        "root": "अज्ञः + च + अश्रद्दधानः + च"
       },
       {
         "word_sanskrit": "संशयात्मा",
-        "word_english": "one whose nature is doubt; the doubting person",
-        "grammar_role": "Karta",
-        "root": "संशय-आत्मन्"
+        "word_english": "one of doubting mind",
+        "grammar_role": "संशयात्मन् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "संशय-आत्मा"
       },
       {
         "word_sanskrit": "विनश्यति",
-        "word_english": "perishes; is ruined",
-        "grammar_role": null,
-        "root": "√नश्"
+        "word_english": "perishes",
+        "grammar_role": "√वि_नश् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "विनश्यति"
+      },
+      {
+        "word_sanskrit": "नायं",
+        "word_english": "not even this (ordinary world)",
+        "grammar_role": "न · अव्यय (निषेध) + इदम् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "न + अयम्"
+      },
+      {
+        "word_sanskrit": "लोकोऽस्ति",
+        "word_english": "world exists",
+        "grammar_role": "लोक · प्रथमा·एकवचन·पुंलिङ्ग + √अस् · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "लोकः + अस्ति"
       },
       {
         "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
+        "word_english": "nor",
+        "grammar_role": "न · अव्यय (निषेध)",
         "root": "न"
       },
       {
-        "word_sanskrit": "अयम्",
-        "word_english": "this",
-        "grammar_role": null,
-        "root": "इदम्"
-      },
-      {
-        "word_sanskrit": "लोकः",
-        "word_english": "world (this world)",
-        "grammar_role": null,
-        "root": "लोक"
-      },
-      {
-        "word_sanskrit": "अस्ति",
-        "word_english": "exists; is",
-        "grammar_role": null,
-        "root": "√अस्"
+        "word_sanskrit": "परो",
+        "word_english": "the other (next world)",
+        "grammar_role": "पर · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "परः"
       },
       {
         "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
+        "word_english": "nor",
+        "grammar_role": "न · अव्यय (निषेध)",
         "root": "न"
       },
       {
-        "word_sanskrit": "परः",
-        "word_english": "the other (world); the hereafter",
-        "grammar_role": null,
-        "root": "पर"
-      },
-      {
-        "word_sanskrit": "न",
-        "word_english": "not",
-        "grammar_role": null,
-        "root": "न"
-      },
-      {
-        "word_sanskrit": "सुखम्",
-        "word_english": "happiness; well-being",
-        "grammar_role": null,
-        "root": "सुख"
+        "word_sanskrit": "सुखं",
+        "word_english": "happiness",
+        "grammar_role": "सुख · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "सुखम्"
       },
       {
         "word_sanskrit": "संशयात्मनः",
-        "word_english": "of the doubting person",
-        "grammar_role": null,
-        "root": "संशय-आत्मन्"
+        "word_english": "for the doubting-minded one",
+        "grammar_role": "संशयात्मन् · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "संशय-आत्मनः"
       }
     ],
     "commentary_faqs": [
@@ -9486,70 +8574,46 @@
     "comparative_note": "Yoga-saṁnyāsa here is commonly interpreted not as abandoning work, but as abandoning attachment and doership-claims. 'Ātmavant' is read as self-controlled/possessed rather than 'having an ātman' (which all beings have).",
     "word_by_word": [
       {
-        "word_sanskrit": "योग",
-        "word_english": "in yoga; in disciplined spiritual practice",
-        "grammar_role": "अधिकरण",
-        "root": "योग"
+        "word_sanskrit": "योगसंन्यस्तकर्माणं",
+        "word_english": "him whose actions are renounced through yoga",
+        "grammar_role": "योग-संन्यस्त-कर्मन् (बहुव्रीहि) · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "योग-संन्यस्त-कर्माणम्"
       },
       {
-        "word_sanskrit": "संन्यस्त",
-        "word_english": "renounced; laid aside",
-        "grammar_role": null,
-        "root": "सम्-नि-√अस् (न्यासे)"
+        "word_sanskrit": "ज्ञानसञ्छिन्नसंशयम्",
+        "word_english": "him whose doubt is cut away by knowledge",
+        "grammar_role": "ज्ञान-सञ्छिन्न-संशय (बहुव्रीहि) · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "ज्ञान-सञ्छिन्न-संशयम्"
       },
       {
-        "word_sanskrit": "कर्माणम्",
-        "word_english": "actions (as an aggregate); one whose actions",
-        "grammar_role": null,
-        "root": "कर्मन्"
-      },
-      {
-        "word_sanskrit": "ज्ञान",
-        "word_english": "by knowledge",
-        "grammar_role": "करण",
-        "root": "ज्ञान"
-      },
-      {
-        "word_sanskrit": "संछिन्न",
-        "word_english": "cut asunder; completely severed",
-        "grammar_role": null,
-        "root": "सम्-√छिद् (छेदने)"
-      },
-      {
-        "word_sanskrit": "संशयम्",
-        "word_english": "doubt",
-        "grammar_role": null,
-        "root": "संशय"
-      },
-      {
-        "word_sanskrit": "आत्मवन्तम्",
-        "word_english": "self-possessed; endowed with the Self; self-controlled",
-        "grammar_role": null,
-        "root": "आत्मवत्"
+        "word_sanskrit": "आत्मवन्तं",
+        "word_english": "the self-possessed, vigilant one",
+        "grammar_role": "आत्मवत् · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "आत्मवन्तम्"
       },
       {
         "word_sanskrit": "न",
         "word_english": "not",
-        "grammar_role": null,
+        "grammar_role": "न · अव्यय (निषेध)",
         "root": "न"
       },
       {
         "word_sanskrit": "कर्माणि",
-        "word_english": "actions",
-        "grammar_role": "कर्ता",
-        "root": "कर्मन्"
+        "word_english": "actions (as subject)",
+        "grammar_role": "कर्मन् · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "कर्माणि"
       },
       {
         "word_sanskrit": "निबध्नन्ति",
-        "word_english": "bind",
-        "grammar_role": null,
-        "root": "नि-√बन्ध् (बन्धने)"
+        "word_english": "do bind",
+        "grammar_role": "नि+√बन्ध् · लट्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "निबध्नन्ति"
       },
       {
-        "word_sanskrit": "धनंजय",
+        "word_sanskrit": "धनञ्जय",
         "word_english": "O Dhanañjaya (Arjuna)",
-        "grammar_role": null,
-        "root": "धनंजय"
+        "grammar_role": "धनञ्जय · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "धनञ्जय"
       }
     ],
     "commentary_faqs": [
@@ -9712,76 +8776,46 @@
     "comparative_note": "The 'sword' imagery is conventionally read as a metaphor for discriminative insight rather than physical violence. The imperative 'uttiṣṭha' functions as a call to resolve indecision and engage disciplined practice.",
     "word_by_word": [
       {
-        "word_sanskrit": "तस्मात्",
-        "word_english": "therefore; from that (reason)",
-        "grammar_role": "Apadana",
-        "root": "तद्"
+        "word_sanskrit": "तस्मादज्ञानसम्भूतं",
+        "word_english": "therefore (this doubt) born of ignorance",
+        "grammar_role": "तद् · पञ्चमी·एकवचन·नपुंलिङ्ग (अव्ययवत्) + सम्भूत · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "तस्मात् + अज्ञान-सम्भूतम्"
       },
       {
-        "word_sanskrit": "अज्ञानसम्भूतम्",
-        "word_english": "born of ignorance",
-        "grammar_role": "Karma",
-        "root": "अज्ञान-सम्भूत"
+        "word_sanskrit": "हृत्स्थं",
+        "word_english": "abiding in the heart (intellect)",
+        "grammar_role": "हृत्स्थ · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "हृत्-स्थम्"
       },
       {
-        "word_sanskrit": "हृत्स्थम्",
-        "word_english": "situated in the heart",
-        "grammar_role": "Karma",
-        "root": "हृत्-स्थ"
+        "word_sanskrit": "ज्ञानासिनात्मनः",
+        "word_english": "with the sword of knowledge, of oneself",
+        "grammar_role": "ज्ञानासि · तृतीया·एकवचन·पुंलिङ्ग + आत्मन् · षष्ठी·एकवचन·पुंलिङ्ग",
+        "root": "ज्ञान-असिना + आत्मनः"
       },
       {
-        "word_sanskrit": "ज्ञानासिना",
-        "word_english": "with the sword of knowledge",
-        "grammar_role": "Karana",
-        "root": "ज्ञान-असि"
+        "word_sanskrit": "छित्त्वैनं",
+        "word_english": "having cut off this",
+        "grammar_role": "√छिद् · क्त्वा-कृदन्त (अव्यय) + एतद् · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "छित्त्वा + एनम्"
       },
       {
-        "word_sanskrit": "आत्मनः",
-        "word_english": "of yourself; of the Self",
-        "grammar_role": null,
-        "root": "आत्मन्"
-      },
-      {
-        "word_sanskrit": "छित्त्वा",
-        "word_english": "having cut",
-        "grammar_role": null,
-        "root": "√छिद्"
-      },
-      {
-        "word_sanskrit": "एनम्",
-        "word_english": "this (doubt)",
-        "grammar_role": "Karma",
-        "root": "एतद्"
-      },
-      {
-        "word_sanskrit": "संशयम्",
+        "word_sanskrit": "संशयं",
         "word_english": "doubt",
-        "grammar_role": "Karma",
-        "root": "संशय"
+        "grammar_role": "संशय · द्वितीया·एकवचन·पुंलिङ्ग",
+        "root": "संशयम्"
       },
       {
-        "word_sanskrit": "योगम्",
-        "word_english": "yoga; disciplined practice",
-        "grammar_role": "Karma",
-        "root": "योग"
-      },
-      {
-        "word_sanskrit": "आतिष्ठ",
-        "word_english": "take refuge in; abide in; resort to",
-        "grammar_role": null,
-        "root": "√स्था (आ-स्था)"
-      },
-      {
-        "word_sanskrit": "उत्तिष्ठ",
-        "word_english": "arise; stand up",
-        "grammar_role": null,
-        "root": "√स्था (उत्-स्था)"
+        "word_sanskrit": "योगमातिष्ठोत्तिष्ठ",
+        "word_english": "practice the yoga (of action); arise",
+        "grammar_role": "योग · द्वितीया·एकवचन·पुंलिङ्ग + √स्था (आ) · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद + √स्था (उद्) · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "योगम् + आतिष्ठ + उत्तिष्ठ"
       },
       {
         "word_sanskrit": "भारत",
-        "word_english": "O Bhārata (descendant of Bharata)",
-        "grammar_role": null,
-        "root": "भरत"
+        "word_english": "O descendant of Bharata",
+        "grammar_role": "भारत · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "भारत"
       }
     ],
     "commentary_faqs": [

@@ -1,0 +1,26 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import VerseReader from '../../components/VerseReader.astro';
+import { getAllScriptures } from '../../data/scriptures';
+
+export function getStaticPaths() {
+  const all = getAllScriptures();
+  return all.map(s => ({
+    params: { scripture: s.id },
+    props: { scripture: s }
+  }));
+}
+
+const { scripture } = Astro.props;
+
+let cleanDesc = (scripture.description || '').replace(/\n+/g, ' ');
+if (cleanDesc.length > 155) cleanDesc = cleanDesc.slice(0, 152) + '...';
+---
+
+<Layout 
+  title={`${scripture.name} ${scripture.name_sanskrit ? `(${scripture.name_sanskrit})` : ''} - VedāntVāṇī`}
+  description={cleanDesc || `Explore ${scripture.name} with translations, commentaries, and word breakdown.`}
+  hideFooter={true}
+>
+  <VerseReader scripture={scripture} />
+</Layout>

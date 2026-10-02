@@ -1,0 +1,551 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getScriptureById, getScripturesByTradition } from '../data/scriptures';
+
+const puranasScriptures = getScripturesByTradition('purana');
+const rudram = getScriptureById('rudram')!;
+
+const majorPuranas = [
+  {
+    category: 'Sāttvika Purāṇas',
+    theme: 'Preserving Light & Transcendence (Vishnu-pradhāna)',
+    color: '#d4af37',
+    puranas: [
+      { name: 'Śrīmad Bhāgavata Purāṇa', sanskrit: 'श्रीमद्भागवतपुराण', desc: '18,000 verses in 12 Skandhas celebrating Krishna-bhakti, cosmic avataras, and highest Vedantic realization.' },
+      { name: 'Viṣṇu Purāṇa', sanskrit: 'विष्णुपुराण', desc: 'One of the oldest and most intact Puranas, presenting classical cosmology, genealogy, and the story of Prahlada.' },
+      { name: 'Nārada Purāṇa', sanskrit: 'नारदपुराण', desc: 'Expounds devotional discipline (Bhakti-yoga), pilgrimage sanctuaries, and detailed Vedanga summaries.' },
+      { name: 'Garuḍa Purāṇa', sanskrit: 'गरुडपुराण', desc: 'Dialogues between Vishnu and Garuda on the afterlife, liberation, soul-transmigration, and cosmic medicine.' },
+      { name: 'Padma Purāṇa', sanskrit: 'पद्मपुराण', desc: '55,000 verses in 5 Khandas detailing the glory of sacred rivers, pilgrimage, and supreme devotion.' },
+      { name: 'Varāha Purāṇa', sanskrit: 'वराहपुराण', desc: 'Narrated by Lord Varaha, focusing on cosmic preservation, Dharma, and the rescue of Mother Earth.' }
+    ]
+  },
+  {
+    category: 'Tāmasa Purāṇas',
+    theme: 'Dissolution, Auspiciousness & Renunciation (Shiva-pradhāna)',
+    color: '#f26f22',
+    puranas: [
+      { name: 'Śiva Purāṇa', sanskrit: 'शिवपुराण', desc: 'Exalts the transcendent reality of Shiva, the Jyotirlingas, Parvati’s penance, and cosmic dissolution.' },
+      { name: 'Liṅga Purāṇa', sanskrit: 'लिङ्गपुराण', desc: 'Expounds the manifestation of the formless Brahman through the Linga symbol of infinite light.' },
+      { name: 'Skanda Purāṇa', sanskrit: 'स्कन्दपुराण', desc: 'The largest Mahāpurāṇa (over 81,000 verses), containing the famous Guru Gita, Kashi Khanda, and temple traditions.' },
+      { name: 'Agni Purāṇa', sanskrit: 'अग्निपुराण', desc: 'An encyclopedic scripture describing rituals, martial sciences (Dhanurveda), grammar, and poetry.' },
+      { name: 'Matsya Purāṇa', sanskrit: 'मत्स्यपुराण', desc: 'Delivered by the Fish Incarnation to King Manu during the cosmic deluge, explaining dharma and temple architecture.' },
+      { name: 'Kūrma Purāṇa', sanskrit: 'कूर्मपुराण', desc: 'Delivered by the Tortoise Avatar, containing the famous Ishvara Gita synthesized with Advaitic devotion.' }
+    ]
+  },
+  {
+    category: 'Rājasa Purāṇas',
+    theme: 'Cosmic Emergence & Creation (Brahma / Shakti-pradhāna)',
+    color: '#e5a93b',
+    puranas: [
+      { name: 'Mārkaṇḍeya Purāṇa', sanskrit: 'मार्कण्डेयपुराण', desc: 'Contains the supreme 700 verses of Devī Māhātmya (Durgā Saptaśatī), celebrating the victory of the Divine Mother.' },
+      { name: 'Brahma Purāṇa', sanskrit: 'ब्रह्मपुराण', desc: 'Considered the Ādi Purāṇa (first), beginning with the creation of the cosmos and the glories of Odisha/Utkala.' },
+      { name: 'Brahmāṇḍa Purāṇa', sanskrit: 'ब्रह्माण्डपुराण', desc: 'Contains the Lalitā Sahasranāma and Adhyātma Rāmāyaṇa, uniting high philosophy with sublime devotion.' },
+      { name: 'Brahmavaivarta Purāṇa', sanskrit: 'ब्रह्मवैवर्तपुराण', desc: 'Detailed narratives of Radha-Krishna lila, Ganesha’s emergence, and the nature of Prakriti.' },
+      { name: 'Bhaviṣya Purāṇa', sanskrit: 'भविष्यपुराण', desc: 'Prophetic scripture detailing historical epochs, solar adoration, and cultural duties.' },
+      { name: 'Vāmana Purāṇa', sanskrit: 'वामनपुराण', desc: 'Relates the narrative of Lord Vamana and King Bali, and the spiritual sanctity of sacred places.' }
+    ]
+  }
+];
+---
+
+<Layout 
+  title="Purāṇas & Sacred Hymns - Sri Rudram & The 18 Mahāpurāṇas | VedāntVāṇī"
+  description="Immerse in the timeless vibration of Sri Rudram from the Krishna Yajurveda and the devotional narrative wisdom of the 18 Mahāpurāṇas."
+>
+  <!-- Hero Section -->
+  <section class="purana-hero">
+    <div class="container">
+      <div class="hero-content text-center">
+        <div class="sacred-badge font-cinzel">
+          <span>🔱</span> Puranic Tradition & Vedic Hymns • पुराण
+        </div>
+        <h1 class="hero-title font-cinzel">
+          Purāṇas & Sacred Hymns
+        </h1>
+        <div class="sanskrit-motto font-devanagari">
+          नमस्ते अस्तु भगवन् विश्वेश्वराय महादेवाय त्र्यम्बकाय
+        </div>
+        <p class="hero-tagline font-lora">
+          “Salutations to the Supreme Lord, the Sovereign of the Universe, the Great God, the Three-Eyed One, the Transformer and Illuminator of Consciousness.”
+          <span class="motto-ref">— Śrī Rudram (Taittirīya Saṁhitā)</span>
+        </p>
+
+        <!-- CTA Group -->
+        <div class="hero-cta-group">
+          <a href="/read/rudram" class="btn-primary-glow font-cinzel">
+            <span>Read Śrī Rudram (नमकम्)</span>
+            <span>→</span>
+          </a>
+          <a href="#mahapuranasSection" class="btn-secondary font-cinzel">
+            <span>Explore 18 Mahāpurāṇas</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Sri Rudram Masterwork Spotlight -->
+  <section class="spotlight-section">
+    <div class="container">
+      <div class="glass-card masterwork-card">
+        <div class="card-top-row">
+          <span class="card-badge gold">Krishna Yajurveda</span>
+          <span class="stat-pill font-cinzel">169 Mantras • Complete Chanting</span>
+        </div>
+
+        <h2 class="masterwork-title font-cinzel">
+          Śrī Rudram • Rudra Praśna (श्रीरुद्रप्रश्णः)
+        </h2>
+        <p class="masterwork-author font-cinzel">From the Taittirīya Saṁhitā (4th Kanda)</p>
+
+        <p class="masterwork-desc font-lora">
+          The supreme Vedic hymn paying homage to Lord Shiva in both transcendent and immanent forms. Comprising the **Namakam** (11 Anuvākas of profound salutation recognizing divinity in every atom of nature) and the **Camakam** (11 Anuvākas invoking all auspicious blessings, strength, and enlightenment for spiritual realization).
+        </p>
+
+        <div class="masterwork-actions">
+          <a href="/read/rudram" class="btn-action-primary font-cinzel">
+            <span>Read Śrī Rudram in Reader</span>
+            <span>→</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- The 18 Mahapuranas Comprehensive Classification -->
+  <section class="mahapuranas-section" id="mahapuranasSection">
+    <div class="container">
+      <div class="section-title-wrap text-center">
+        <h2 class="section-title font-cinzel">The 18 Mahāpurāṇas of Sanātana Dharma</h2>
+        <p class="section-subtitle font-lora">
+          Compiled by Maharshi Vedavyāsa, classified across the three Guṇas into Sattva, Rajas, and Tamas:
+        </p>
+      </div>
+
+      <div class="guna-categories-stream">
+        {majorPuranas.map((group) => (
+          <div class="guna-group-block">
+            <div class="guna-group-header">
+              <h3 class="guna-category-title font-cinzel" style={`color: ${group.color};`}>
+                {group.category}
+              </h3>
+              <span class="guna-theme font-lora">{group.theme}</span>
+            </div>
+
+            <div class="puranas-grid">
+              {group.puranas.map((purana) => (
+                <div class="glass-card purana-item-card">
+                  <h4 class="purana-name font-cinzel">{purana.name}</h4>
+                  <div class="purana-sanskrit font-devanagari">{purana.sanskrit}</div>
+                  <p class="purana-desc font-lora">{purana.desc}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Purpose of the Puranas Card -->
+  <section class="purana-purpose-section">
+    <div class="container">
+      <div class="glass-card purpose-card">
+        <h3 class="purpose-title font-cinzel text-center">
+          The Five Characteristics of a Purāṇa (Pañcalakṣaṇa)
+        </h3>
+        <p class="purpose-subtitle font-lora text-center">
+          Traditional treatises stipulate that an authentic Mahāpurāṇa expounds five fundamental cosmic dimensions:
+        </p>
+
+        <div class="features-grid">
+          <div class="feature-item">
+            <span class="feature-num font-cinzel">01</span>
+            <h4 class="feature-name font-cinzel">Sarga</h4>
+            <p class="feature-desc font-lora">Primary creation of the cosmos from unmanifest Prakriti by Supreme Brahman.</p>
+          </div>
+          <div class="feature-item">
+            <span class="feature-num font-cinzel">02</span>
+            <h4 class="feature-name font-cinzel">Pratisarga</h4>
+            <p class="feature-desc font-lora">Secondary cyclic recreation after dissolution (pralaya) across universal epochs.</p>
+          </div>
+          <div class="feature-item">
+            <span class="feature-num font-cinzel">03</span>
+            <h4 class="feature-name font-cinzel">Vaṁśa</h4>
+            <p class="feature-desc font-lora">Genealogy of the solar (Sūryavaṁśa) and lunar (Candravaṁśa) lines, sages, and deities.</p>
+          </div>
+          <div class="feature-item">
+            <span class="feature-num font-cinzel">04</span>
+            <h4 class="feature-name font-cinzel">Manvantara</h4>
+            <p class="feature-desc font-lora">The 14 cosmic eras of cosmic time, each guided by a designated Manu and Saptarshis.</p>
+          </div>
+          <div class="feature-item">
+            <span class="feature-num font-cinzel">05</span>
+            <h4 class="feature-name font-cinzel">Vaṁśānucarita</h4>
+            <p class="feature-desc font-lora">Detailed biographies and spiritual lessons of noble kings, rishis, and divine avataras.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .purana-hero {
+    padding: 3rem 0 2.5rem 0;
+    text-align: center;
+    position: relative;
+  }
+
+  @media (min-width: 768px) {
+    .purana-hero {
+      padding: 4.5rem 0 3.5rem 0;
+    }
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .hero-content {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  .sacred-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0.9rem;
+    border-radius: var(--radius-pill);
+    background: var(--saffron-subtle);
+    border: 1px solid var(--border-subtle);
+    color: var(--saffron);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 1.25rem;
+  }
+
+  .hero-title {
+    font-size: 2.35rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    margin-bottom: 0.75rem;
+    background: linear-gradient(135deg, var(--text-primary) 30%, var(--gold) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  @media (min-width: 640px) {
+    .hero-title {
+      font-size: 3.25rem;
+    }
+  }
+
+  .sanskrit-motto {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--gold);
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
+  }
+
+  @media (min-width: 640px) {
+    .sanskrit-motto {
+      font-size: 1.35rem;
+    }
+  }
+
+  .hero-tagline {
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 2rem;
+  }
+
+  .motto-ref {
+    display: block;
+    font-size: 0.8rem;
+    font-style: normal;
+    color: var(--saffron);
+    margin-top: 0.3rem;
+  }
+
+  .hero-cta-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary-glow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.85rem 1.6rem;
+    border-radius: var(--radius-md);
+    background: linear-gradient(135deg, var(--saffron), #fa8231);
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    box-shadow: 0 4px 20px var(--saffron-glow);
+    transition: all var(--transition-fast);
+  }
+
+  .btn-primary-glow:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px var(--saffron-glow);
+  }
+
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.85rem 1.5rem;
+    border-radius: var(--radius-md);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-primary);
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    transition: all var(--transition-fast);
+  }
+
+  .btn-secondary:hover {
+    border-color: var(--saffron);
+    color: var(--saffron);
+  }
+
+  /* Spotlight Card */
+  .spotlight-section {
+    padding: 1.5rem 0 3rem 0;
+  }
+
+  .masterwork-card {
+    padding: 2rem 1.5rem;
+    border-color: var(--border-active);
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  @media (min-width: 640px) {
+    .masterwork-card {
+      padding: 2.75rem 2.5rem;
+    }
+  }
+
+  .card-top-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+
+  .stat-pill {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+  }
+
+  .masterwork-title {
+    font-size: 1.65rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.25rem;
+  }
+
+  .masterwork-author {
+    font-size: 0.82rem;
+    color: var(--saffron);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+  }
+
+  .masterwork-desc {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 1.75rem;
+  }
+
+  .masterwork-actions {
+    display: flex;
+  }
+
+  .btn-action-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.4rem;
+    border-radius: var(--radius-md);
+    background: var(--saffron);
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    box-shadow: 0 4px 14px var(--saffron-glow);
+    transition: all var(--transition-fast);
+  }
+
+  .btn-action-primary:hover {
+    transform: translateY(-2px);
+    background: var(--saffron-hover);
+  }
+
+  /* Mahapuranas Section */
+  .mahapuranas-section {
+    padding: 3rem 0;
+  }
+
+  .section-title-wrap {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-title {
+    font-size: 1.65rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.35rem;
+  }
+
+  .section-subtitle {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+  }
+
+  .guna-categories-stream {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .guna-group-header {
+    margin-bottom: 1.25rem;
+    border-bottom: 1px dashed var(--border-subtle);
+    padding-bottom: 0.5rem;
+  }
+
+  .guna-category-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+  }
+
+  .guna-theme {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .puranas-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 640px) {
+    .puranas-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .puranas-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .purana-item-card {
+    padding: 1.5rem;
+  }
+
+  .purana-name {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text-primary);
+  }
+
+  .purana-sanskrit {
+    font-size: 0.9rem;
+    color: var(--gold);
+    margin: 0.25rem 0 0.65rem 0;
+  }
+
+  .purana-desc {
+    font-size: 0.86rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+  }
+
+  /* Purpose Card */
+  .purana-purpose-section {
+    padding: 3rem 0 4rem 0;
+  }
+
+  .purpose-card {
+    padding: 2.25rem 1.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .purpose-card {
+      padding: 3rem 2.5rem;
+    }
+  }
+
+  .purpose-title {
+    font-size: 1.45rem;
+    font-weight: 700;
+    color: var(--gold);
+    margin-bottom: 0.5rem;
+  }
+
+  .purpose-subtitle {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    max-width: 680px;
+    margin: 0 auto 2.5rem auto;
+  }
+
+  .features-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .features-grid {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+
+  .feature-item {
+    border-top: 1px dashed var(--border-subtle);
+    padding-top: 1rem;
+  }
+
+  .feature-num {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--saffron);
+    opacity: 0.8;
+  }
+
+  .feature-name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0.25rem 0 0.4rem 0;
+  }
+
+  .feature-desc {
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+  }
+</style>

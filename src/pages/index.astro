@@ -1,0 +1,682 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ScriptureCard from '../components/ScriptureCard.astro';
+import { TRADITIONS, getFeaturedScriptures, getAllScriptures } from '../data/scriptures';
+
+const featured = getFeaturedScriptures();
+const allScriptures = getAllScriptures();
+const totalChapters = allScriptures.reduce((acc, s) => acc + s.chapters_count, 0);
+const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
+---
+
+<Layout 
+  title="VedāntVāṇī - Sacred Vedāntic & Scriptural Explorer"
+  description="Immerse in the eternal wisdom of the Bhagavad Gītā, Upaniṣads, Prakaraṇa Granthas, Śrī Rudram, and Patañjali Yoga Sūtras with authentic commentaries."
+>
+  <!-- Hero Section -->
+  <section class="home-hero">
+    <div class="container">
+      <div class="hero-inner text-center">
+        <!-- Sacred Lotus Avatar -->
+        <div class="hero-lotus-wrap">
+          <img 
+            src="/assets/sacred_lotus_gold.png" 
+            alt="Sacred Golden Lotus" 
+            class="hero-lotus-img"
+            width="88" 
+            height="88" 
+          />
+        </div>
+
+        <div class="hero-subheading font-cinzel">
+          वेदान्त वाणी • Sacred Canonical Explorer
+        </div>
+
+        <h1 class="hero-main-title font-cinzel">
+          VedāntVāṇī
+        </h1>
+
+        <div class="hero-mahavakya font-devanagari">
+          सत्यं ज्ञानमनन्तं ब्रह्म
+        </div>
+
+        <p class="hero-description font-lora">
+          The living sanctuary of Sanātana scriptural wisdom. Explore <strong>{allScriptures.length} canonical texts</strong>, <strong>{totalChapters} chapters</strong>, and <strong>{totalVerses.toLocaleString()} sacred verses</strong> with multi-lineage commentaries representing Advaita, Viśiṣṭādvaita, and Dvaita philosophies.
+        </p>
+
+        <!-- Fast Search / Jump Strip -->
+        <div class="hero-search-trigger-wrap">
+          <button 
+            class="hero-search-bar" 
+            onclick="window.dispatchEvent(new CustomEvent('open-search-modal'))"
+            aria-label="Search scriptures"
+          >
+            <span class="search-bar-icon">🔍</span>
+            <span class="search-bar-placeholder">Search across Gita, Upanishads, Sutras, verses...</span>
+            <kbd class="search-bar-kbd">Press /</kbd>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Verse of Contemplation Card -->
+  <section class="contemplation-section">
+    <div class="container">
+      <div class="glass-card contemplation-card">
+        <div class="contemplation-badge font-cinzel">
+          <span>✨</span> Verse of Contemplation • स्वाध्याय
+        </div>
+
+        <div class="contemplation-shloka font-devanagari">
+          कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br/>
+          मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥
+        </div>
+
+        <div class="contemplation-translit font-lora">
+          karmaṇy evādhikāras te mā phaleṣu kadācana |<br/>
+          mā karmaphalahetur bhūr mā te saṅgo ’stv akarmaṇi ||
+        </div>
+
+        <div class="contemplation-translation font-lora">
+          “You have an absolute right to perform prescribed action, but never to the fruits thereof. Never let the fruits of action be your motive, nor let there be any attachment to inaction.”
+        </div>
+
+        <div class="contemplation-footer">
+          <span class="source-tag font-cinzel">Śrīmad Bhagavad Gītā 2.47</span>
+          <a href="/read/bhagavad-gita?c=2&v=47" class="contemplate-btn font-cinzel">
+            <span>Contemplate in Reader</span>
+            <span>→</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- The Four Sacred Portals (Requested Traditions) -->
+  <section class="portals-section">
+    <div class="container">
+      <div class="section-title-wrap text-center">
+        <h2 class="section-title font-cinzel">The Four Scriptural Portals</h2>
+        <p class="section-subtitle font-lora">
+          Dedicated canonical sanctuaries organized by tradition, transmission, and spiritual lineage.
+        </p>
+      </div>
+
+      <div class="portals-grid">
+        {TRADITIONS.map((tradition) => (
+          <a href={`/${tradition.slug}`} class="portal-link-wrap">
+            <div class="glass-card portal-card">
+              <div class="portal-icon">{tradition.icon}</div>
+              <div class="portal-meta">
+                <span class="portal-badge font-cinzel">{tradition.count} Scriptures</span>
+                <span class="portal-verses font-cinzel">{tradition.verses} Verses</span>
+              </div>
+              <h3 class="portal-name font-cinzel">{tradition.name}</h3>
+              <div class="portal-sanskrit font-devanagari">{tradition.sanskrit}</div>
+              <p class="portal-desc font-lora">{tradition.description}</p>
+              <div class="portal-footer-action font-cinzel">
+                <span>Enter Portal</span>
+                <span class="arrow">→</span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Masterworks Grid -->
+  <section class="featured-section">
+    <div class="container">
+      <div class="section-header-row">
+        <div>
+          <h2 class="section-title font-cinzel">Featured Masterworks</h2>
+          <p class="section-subtitle font-lora">Foundational texts illuminating Self-knowledge and cosmic realization.</p>
+        </div>
+        <a href="/scriptures" class="view-all-link font-cinzel">
+          <span>View All {allScriptures.length} Scriptures</span>
+          <span>→</span>
+        </a>
+      </div>
+
+      <div class="featured-grid">
+        {featured.map((scripture) => (
+          <ScriptureCard scripture={scripture} showCategory={true} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- The Three Pillars of Vedanta (Prasthānatrayī) -->
+  <section class="prasthana-section">
+    <div class="container">
+      <div class="glass-card prasthana-card">
+        <h3 class="prasthana-title font-cinzel text-center">
+          The Prasthānatrayī • The Triple Canon of Vedānta
+        </h3>
+        <p class="prasthana-subtitle font-lora text-center">
+          Every legitimate school of Vedānta establishes its authority upon these three foundational pillars:
+        </p>
+
+        <div class="prasthana-grid">
+          <div class="pillar-box">
+            <span class="pillar-badge font-cinzel">Śruti Prasthāna</span>
+            <h4 class="pillar-title font-cinzel">The Upaniṣads</h4>
+            <span class="pillar-subtitle">Direct Revelation • अपौरुषेय</span>
+            <p class="pillar-desc font-lora">
+              The concluding, most philosophical pinnacle of the Vedas (Vedānta). Texts like the Māṇḍūkya, Chāndogya, and Bṛhadāraṇyaka proclaim the supreme non-dual nature of Ātman and Brahman.
+            </p>
+          </div>
+
+          <div class="pillar-box">
+            <span class="pillar-badge font-cinzel">Smṛti Prasthāna</span>
+            <h4 class="pillar-title font-cinzel">The Bhagavad Gītā</h4>
+            <span class="pillar-subtitle">Practical Realization • स्मृति</span>
+            <p class="pillar-desc font-lora">
+              The essence of all Upanishads distilled into practical dialogue on the battlefield of Kurukshetra. It synthesizes Karma, Bhakti, Dhyana, and Jnana into a living sadhana.
+            </p>
+          </div>
+
+          <div class="pillar-box">
+            <span class="pillar-badge font-cinzel">Nyāya Prasthāna</span>
+            <h4 class="pillar-title font-cinzel">The Brahma Sūtras</h4>
+            <span class="pillar-subtitle">Dialectical Logic • सूत्र</span>
+            <p class="pillar-desc font-lora">
+              The aphorisms of Badarayana systematizing the Vedic teachings, resolving apparent contradictions, and refuting opponent philosophical systems through rigorous logic.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  /* Home Hero */
+  .home-hero {
+    padding: 3.5rem 0 2.5rem 0;
+    text-align: center;
+    position: relative;
+  }
+
+  @media (min-width: 768px) {
+    .home-hero {
+      padding: 5rem 0 3.5rem 0;
+    }
+  }
+
+  .hero-inner {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  .hero-lotus-wrap {
+    margin-bottom: 1.25rem;
+  }
+
+  .hero-lotus-img {
+    filter: drop-shadow(0 0 16px var(--saffron-glow));
+    animation: pulseGentle 4s infinite ease-in-out;
+  }
+
+  @keyframes pulseGentle {
+    0%, 100% { transform: scale(1); filter: drop-shadow(0 0 14px var(--saffron-glow)); }
+    50% { transform: scale(1.04); filter: drop-shadow(0 0 24px rgba(242, 111, 34, 0.5)); }
+  }
+
+  .hero-subheading {
+    font-size: 0.82rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--saffron);
+    margin-bottom: 0.5rem;
+  }
+
+  .hero-main-title {
+    font-size: 2.75rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    line-height: 1.15;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(135deg, var(--text-primary) 30%, var(--gold) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  @media (min-width: 640px) {
+    .hero-main-title {
+      font-size: 3.75rem;
+    }
+  }
+
+  .hero-mahavakya {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: var(--gold);
+    margin-bottom: 1.25rem;
+    letter-spacing: 0.04em;
+  }
+
+  @media (min-width: 640px) {
+    .hero-mahavakya {
+      font-size: 1.6rem;
+    }
+  }
+
+  .hero-description {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 2.25rem;
+  }
+
+  .hero-search-trigger-wrap {
+    display: flex;
+    justify-content: center;
+  }
+
+  .hero-search-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100%;
+    max-width: 580px;
+    padding: 0.85rem 1.4rem;
+    border-radius: var(--radius-pill);
+    background: var(--bg-surface-elevated);
+    border: 1px solid var(--border-subtle);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+    color: var(--text-muted);
+    font-size: 0.92rem;
+    transition: all var(--transition-fast);
+  }
+
+  .hero-search-bar:hover {
+    border-color: var(--saffron);
+    color: var(--text-secondary);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 35px var(--saffron-glow);
+  }
+
+  .search-bar-icon {
+    font-size: 1.15rem;
+  }
+
+  .search-bar-placeholder {
+    flex: 1;
+    text-align: left;
+  }
+
+  .search-bar-kbd {
+    font-family: inherit;
+    font-size: 0.72rem;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    color: var(--saffron);
+    display: none;
+  }
+
+  @media (min-width: 640px) {
+    .search-bar-kbd {
+      display: inline-block;
+    }
+  }
+
+  /* Contemplation Card */
+  .contemplation-section {
+    padding: 1.5rem 0 3rem 0;
+  }
+
+  .contemplation-card {
+    padding: 2rem 1.5rem;
+    text-align: center;
+    max-width: 920px;
+    margin: 0 auto;
+    border-color: var(--border-active);
+  }
+
+  @media (min-width: 640px) {
+    .contemplation-card {
+      padding: 2.75rem 2.5rem;
+    }
+  }
+
+  .contemplation-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--saffron);
+    margin-bottom: 1.25rem;
+  }
+
+  .contemplation-shloka {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.8;
+    margin-bottom: 0.85rem;
+  }
+
+  @media (min-width: 640px) {
+    .contemplation-shloka {
+      font-size: 1.6rem;
+    }
+  }
+
+  .contemplation-translit {
+    font-size: 0.95rem;
+    font-style: italic;
+    color: var(--gold);
+    line-height: 1.65;
+    margin-bottom: 1rem;
+  }
+
+  .contemplation-translation {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    max-width: 700px;
+    margin: 0 auto 1.75rem auto;
+  }
+
+  .contemplation-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding-top: 1.25rem;
+    border-top: 1px dashed var(--border-subtle);
+  }
+
+  .source-tag {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--text-muted);
+  }
+
+  .contemplate-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-md);
+    background: var(--saffron-subtle);
+    border: 1px solid var(--border-subtle);
+    color: var(--saffron);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: all var(--transition-fast);
+  }
+
+  .contemplate-btn:hover {
+    background: var(--saffron);
+    color: #fff;
+    border-color: var(--saffron);
+  }
+
+  /* Portals Section */
+  .portals-section {
+    padding: 3rem 0;
+  }
+
+  .section-title-wrap {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-title {
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.4rem;
+  }
+
+  .section-subtitle {
+    font-size: 1rem;
+    color: var(--text-muted);
+  }
+
+  .portals-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .portals-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .portals-grid {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1.25rem;
+    }
+  }
+
+  .portal-link-wrap {
+    text-decoration: none;
+    display: block;
+    height: 100%;
+  }
+
+  .portal-card {
+    height: 100%;
+    padding: 1.75rem;
+    display: flex;
+    flex-direction: column;
+    border-color: var(--border-subtle);
+    transition: transform var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .portal-link-wrap:hover .portal-card {
+    transform: translateY(-4px);
+    border-color: var(--border-active);
+    box-shadow: 0 14px 35px rgba(242, 111, 34, 0.2);
+  }
+
+  .portal-icon {
+    font-size: 2.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .portal-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+  }
+
+  .portal-badge {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--saffron);
+  }
+
+  .portal-verses {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+  }
+
+  .portal-name {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--text-primary);
+  }
+
+  .portal-sanskrit {
+    font-size: 0.95rem;
+    color: var(--gold);
+    margin: 0.2rem 0 0.85rem 0;
+  }
+
+  .portal-desc {
+    font-size: 0.88rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+    flex: 1;
+  }
+
+  .portal-footer-action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1rem;
+    border-top: 1px dashed var(--border-subtle);
+    font-size: 0.82rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--saffron);
+  }
+
+  .portal-link-wrap:hover .arrow {
+    transform: translateX(4px);
+  }
+
+  .arrow {
+    transition: transform var(--transition-fast);
+  }
+
+  /* Featured Section */
+  .featured-section {
+    padding: 3rem 0;
+  }
+
+  .section-header-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+  }
+
+  @media (min-width: 768px) {
+    .section-header-row {
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: space-between;
+    }
+  }
+
+  .view-all-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--saffron);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: color var(--transition-fast);
+  }
+
+  .view-all-link:hover {
+    color: var(--saffron-hover);
+  }
+
+  .featured-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 640px) {
+    .featured-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .featured-grid {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+    }
+  }
+
+  /* Prasthana Section */
+  .prasthana-section {
+    padding: 3rem 0 4rem 0;
+  }
+
+  .prasthana-card {
+    padding: 2.25rem 1.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .prasthana-card {
+      padding: 3rem 2.5rem;
+    }
+  }
+
+  .prasthana-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--gold);
+    margin-bottom: 0.5rem;
+  }
+
+  .prasthana-subtitle {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    max-width: 650px;
+    margin: 0 auto 2.5rem auto;
+  }
+
+  .prasthana-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+
+  @media (min-width: 768px) {
+    .prasthana-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .pillar-box {
+    border-top: 1px dashed var(--border-subtle);
+    padding-top: 1.25rem;
+  }
+
+  .pillar-badge {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--saffron);
+  }
+
+  .pillar-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0.25rem 0 0.15rem 0;
+  }
+
+  .pillar-subtitle {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--gold);
+    margin-bottom: 0.75rem;
+  }
+
+  .pillar-desc {
+    font-size: 0.88rem;
+    line-height: 1.65;
+    color: var(--text-secondary);
+  }
+</style>

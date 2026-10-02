@@ -1,506 +1,2489 @@
 [
   {
     "id": "prakarana-brahma-jnanavali-mala_1_1",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 1,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0938\u0915\u0943\u091a\u094d\u091b\u094d\u0930\u0935\u0923\u092e\u093e\u0924\u094d\u0930\u0947\u0923 \u092c\u094d\u0930\u0939\u094d\u092e\u091c\u094d\u091e\u093e\u0928\u0902 \u092f\u0924\u094b \u092d\u0935\u0947\u0924\u094d \u0964\n\u092c\u094d\u0930\u0939\u094d\u092e\u091c\u094d\u091e\u093e\u0928\u093e\u0935\u0932\u0940\u092e\u093e\u0932\u093e \u0938\u0930\u094d\u0935\u0947\u0937\u093e\u0902 \u092e\u094b\u0915\u094d\u0937\u0938\u093f\u0926\u094d\u0927\u092f\u0947 \u0965 \u0967\u0965",
-    "transliteration": "sak\u1e5bcchrava\u1e47am\u0101tre\u1e47a brahmaj\u00f1\u0101na\u1e43 yato bhavet .\nbrahmaj\u00f1\u0101n\u0101val\u012bm\u0101l\u0101 sarve\u1e63\u0101\u1e43 mok\u1e63asiddhaye .. 1..",
-    "translation": "The work entitled Brahma Jn\u0101navali M\u0101la, by hearing which just once knowledge of Brahman is attained, enables all to attain liberation.",
-    "word_by_word": [],
+    "verse_number": 1,
+    "chapter_number": 1,
+    "sanskrit_shloka": "सकृच्छ्रवणमात्रेण ब्रह्मज्ञानं यतो भवेत् ।\nब्रह्मज्ञानावलीमाला सर्वेषां मोक्षसिद्धये ॥ १॥",
+    "text": "सकृच्छ्रवणमात्रेण ब्रह्मज्ञानं यतो भवेत् ।\nब्रह्मज्ञानावलीमाला सर्वेषां मोक्षसिद्धये ॥ १॥",
+    "transliteration": "sakṛcchravaṇamātreṇa brahmajñānaṃ yato bhavet .\nbrahmajñānāvalīmālā sarveṣāṃ mokṣasiddhaye .. 1..",
+    "section_title": "",
+    "summary_line": "The text Brahma Jnānavali Māla grants immediate Brahman-knowledge and liberation through single hearing.",
+    "sadhana_stage": "Shravana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Brahmajñāna",
+      "Mokṣa",
+      "Śravaṇa",
+      "Mālā",
+      "Avidyā",
+      "Jñāna",
+      "Sādhana-Phala"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "The work entitled Brahma Jn\u0101navali M\u0101la, by hearing which just once knowledge of Brahman is attained, enables all to attain liberation."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "By mere hearing of the Brahma Jnānavali Māla once, knowledge of Brahman arises; it leads all to the attainment of liberation."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "ब्रह्मज्ञानावलीमाला का केवल एक बार श्रवण करने से ब्रह्मज्ञान उत्पन्न होता है; यह सभी को मोक्ष प्राप्ति की ओर ले जाती है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "सकृत्",
+        "word_english": "Once, only once<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>केवल एक बार</div>",
+        "transliteration": "sakṛt",
+        "grammar_role": "sakṛt"
+      },
+      {
+        "word_sanskrit": "श्रवणमात्रेण",
+        "word_english": "by mere hearing<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>केवल श्रवण से</div>",
+        "transliteration": "śravaṇamātreṇa",
+        "grammar_role": "śravaṇamātreṇa"
+      },
+      {
+        "word_sanskrit": "ब्रह्मज्ञानं",
+        "word_english": "knowledge of Brahman<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ब्रह्म का ज्ञान</div>",
+        "transliteration": "brahmajñānaṃ",
+        "grammar_role": "brahmajñānaṃ"
+      },
+      {
+        "word_sanskrit": "यतः",
+        "word_english": "from which, whereby<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>जिससे</div>",
+        "transliteration": "yataḥ",
+        "grammar_role": "yataḥ"
+      },
+      {
+        "word_sanskrit": "भवेत्",
+        "word_english": "comes into being, arises<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>उत्पन्न होता है</div>",
+        "transliteration": "bhavet",
+        "grammar_role": "bhavet"
+      },
+      {
+        "word_sanskrit": "ब्रह्मज्ञानावलीमाला",
+        "word_english": "the garland of the series of Brahman-knowledge (title of the text)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ब्रह्मज्ञान की माला (ग्रंथ का नाम)</div>",
+        "transliteration": "brahmajñānavalīmālā",
+        "grammar_role": "brahmajñānavalīmālā"
+      },
+      {
+        "word_sanskrit": "सर्वेषां",
+        "word_english": "of all<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सभी के लिए</div>",
+        "transliteration": "sarveṣāṃ",
+        "grammar_role": "sarveṣāṃ"
+      },
+      {
+        "word_sanskrit": "मोक्षसिद्धये",
+        "word_english": "for the attainment of liberation<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मोक्ष प्राप्ति के लिए</div>",
+        "transliteration": "mokṣasiddhaye",
+        "grammar_role": "mokṣasiddhaye"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 1,
+      "chapter_number": 1,
+      "summary_line": "The text Brahma Jnānavali Māla grants immediate Brahman-knowledge and liberation through single hearing.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Tat Tvam Asi",
+      "keywords_sanskrit": [
+        "Brahmajñāna",
+        "Mokṣa",
+        "Śravaṇa",
+        "Mālā",
+        "Avidyā",
+        "Jñāna",
+        "Sādhana-Phala"
+      ],
+      "sadhana_stage": "Shravana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_2",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 2,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0905\u0938\u0919\u094d\u0917\u094b\u093d\u0939\u092e\u0938\u0919\u094d\u0917\u094b\u093d\u0939\u092e\u0938\u0919\u094d\u0917\u094b\u093d\u0939\u0902 \u092a\u0941\u0928\u0903 \u092a\u0941\u0928\u0903 \u0964\n\u0938\u091a\u094d\u091a\u093f\u0926\u093e\u0928\u0928\u094d\u0926\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0968\u0965",
-    "transliteration": "asa\u1e45go'hamasa\u1e45go'hamasa\u1e45go'ha\u1e43 puna\u1e25 puna\u1e25 .\nsaccid\u0101nandar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 2..",
-    "translation": "Unattached am I, unattached am I, ever free from attachment of any kind; I am of the nature of Existence-Consciousness-Bliss. I am the very Self, indestructible and ever unchanging.",
-    "word_by_word": [],
+    "verse_number": 2,
+    "chapter_number": 1,
+    "sanskrit_shloka": "असङ्गोऽहमसङ्गोऽहमसङ्गोऽहं पुनः पुनः ।\nसच्चिदानन्दरूपोऽहमहमेवाहमव्ययः ॥ २॥",
+    "text": "असङ्गोऽहमसङ्गोऽहमसङ्गोऽहं पुनः पुनः ।\nसच्चिदानन्दरूपोऽहमहमेवाहमव्ययः ॥ २॥",
+    "transliteration": "asaṅgo'hamasaṅgo'hamasaṅgo'haṃ punaḥ punaḥ .\nsaccidānandarūpo'hamahamevāhamavyayaḥ .. 2..",
+    "section_title": "",
+    "summary_line": "The Self is eternally unattached, pure Consciousness-Bliss, and indestructible.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Asaṅga",
+      "Sat",
+      "Chit",
+      "Ananda",
+      "Aham",
+      "Avyaya",
+      "Atman"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Unattached am I, unattached am I, ever free from attachment of any kind; I am of the nature of Existence-Consciousness-Bliss. I am the very Self, indestructible and ever unchanging."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Unattached am I, unattached am I, unattached am I again and again; I am of the nature of Existence-Consciousness-Bliss. I am indeed the Self, indestructible and ever unchanging."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं असंग हूँ, मैं असंग हूँ, मैं बार-बार असंग हूँ; मैं सत्चिदानन्दरूप हूँ। मैं ही सच्चा आत्मा हूँ, अविनाशी और सदैव अपरिवर्तनीय।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "असङ्गः",
+        "word_english": "Unattached<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>असंग</div>",
+        "transliteration": "asaṅgaḥ",
+        "grammar_role": "asaṅgaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "असङ्गः",
+        "word_english": "Unattached<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>असंग</div>",
+        "transliteration": "asaṅgaḥ",
+        "grammar_role": "asaṅgaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "असङ्गः",
+        "word_english": "Unattached<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>असंग</div>",
+        "transliteration": "asaṅgaḥ",
+        "grammar_role": "asaṅgaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "पुनः",
+        "word_english": "Again<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>फिर</div>",
+        "transliteration": "punaḥ",
+        "grammar_role": "punaḥ"
+      },
+      {
+        "word_sanskrit": "पुनः",
+        "word_english": "Again<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>फिर</div>",
+        "transliteration": "punaḥ",
+        "grammar_role": "punaḥ"
+      },
+      {
+        "word_sanskrit": "सच्चिदानन्दरूपः",
+        "word_english": "Of the nature of Existence-Consciousness-Bliss<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सत्चिदानन्दरूप</div>",
+        "transliteration": "saccidānandarūpaḥ",
+        "grammar_role": "saccidānandarūpaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "Indeed<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ही</div>",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "Indestructible, imperishable<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अविनाशी</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 2,
+      "chapter_number": 1,
+      "summary_line": "The Self is eternally unattached, pure Consciousness-Bliss, and indestructible.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Asaṅga",
+        "Sat",
+        "Chit",
+        "Ananda",
+        "Aham",
+        "Avyaya",
+        "Atman"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_3",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 3,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0928\u093f\u0924\u094d\u092f\u0936\u0941\u0926\u094d\u0927\u0935\u093f\u092e\u0941\u0915\u094d\u0924\u094b\u093d\u0939\u0902 \u0928\u093f\u0930\u093e\u0915\u093e\u0930\u094b\u093d\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0964\n\u092d\u0942\u092e\u093e\u0928\u0928\u094d\u0926\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0969\u0965",
-    "transliteration": "nitya\u015buddhavimukto'ha\u1e43 nir\u0101k\u0101ro'hamavyaya\u1e25 .\nbh\u016bm\u0101nandasvar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 3..",
-    "translation": "I am eternal, I am pure (free from the control of Maya). I am ever liberated. I am formless, indestructible and changeless. I am of the nature of infinite bliss. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 3,
+    "chapter_number": 1,
+    "sanskrit_shloka": "नित्यशुद्धविमुक्तोऽहं निराकारोऽहमव्ययः ।\nभूमानन्दस्वरूपोऽहमहमेवाहमव्ययः ॥ ३॥",
+    "text": "नित्यशुद्धविमुक्तोऽहं निराकारोऽहमव्ययः ।\nभूमानन्दस्वरूपोऽहमहमेवाहमव्ययः ॥ ३॥",
+    "transliteration": "nityaśuddhavimukto'haṃ nirākāro'hamavyayaḥ .\nbhūmānandasvarūpo'hamahamevāhamavyayaḥ .. 3..",
+    "section_title": "",
+    "summary_line": "The Self is eternally pure, formless, infinite bliss, and unchanging — not the body or mind.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Atman",
+      "Nitya",
+      "Shuddha",
+      "Vimukta",
+      "Nirakara",
+      "Avyaya",
+      "Bhumana",
+      "Ananda",
+      "Svarupa"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am eternal, I am pure (free from the control of Maya). I am ever liberated. I am formless, indestructible and changeless. I am of the nature of infinite bliss. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am eternal, pure, and liberated; I am formless, indestructible, and unchanging; I am of the nature of infinite bliss; I alone am the Self, indestructible and unchanging."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं नित्य, शुद्ध और मुक्त हूँ; मैं निराकार, अविनाशी और अपरिवर्तनशील हूँ; मैं अनन्तानंदस्वरूप हूँ; मैं ही आत्मा हूँ, अविनाशी और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "नित्यशुद्धविमुक्तोऽहम्",
+        "word_english": "I am eternal, pure, and liberated<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं नित्य, शुद्ध और मुक्त हूँ</div>",
+        "transliteration": "nityaśuddhavimukto'ham",
+        "grammar_role": "nityaśuddhavimukto'ham"
+      },
+      {
+        "word_sanskrit": "निराकारोऽहम्",
+        "word_english": "I am formless<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं निराकार हूँ</div>",
+        "transliteration": "nirākāro'ham",
+        "grammar_role": "nirākāro'ham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "indestructible, unchanging<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अविनाशी, अपरिवर्तनशील</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      },
+      {
+        "word_sanskrit": "भूमानन्दस्वरूपोऽहम्",
+        "word_english": "I am of the nature of infinite bliss<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं अनन्तानंदस्वरूप हूँ</div>",
+        "transliteration": "bhūmānandasvarūpo'ham",
+        "grammar_role": "bhūmānandasvarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहम्",
+        "word_english": "I alone am (the Self)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही हूँ (आत्मा)</div>",
+        "transliteration": "ahamevāham",
+        "grammar_role": "ahamevāham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "indestructible, unchanging<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अविनाशी, अपरिवर्तनशील</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 3,
+      "chapter_number": 1,
+      "summary_line": "The Self is eternally pure, formless, infinite bliss, and unchanging — not the body or mind.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Atman",
+        "Nitya",
+        "Shuddha",
+        "Vimukta",
+        "Nirakara",
+        "Avyaya",
+        "Bhumana",
+        "Ananda",
+        "Svarupa"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_4",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 4,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0928\u093f\u0924\u094d\u092f\u094b\u093d\u0939\u0902 \u0928\u093f\u0930\u0935\u0926\u094d\u092f\u094b\u093d\u0939\u0902 \u0928\u093f\u0930\u093e\u0915\u093e\u0930\u094b\u093d\u0939\u092e\u0941\u091a\u094d\u092f\u0924\u0947 \u0964\n\u092a\u0930\u092e\u093e\u0928\u0928\u094d\u0926\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u096a\u0965",
-    "transliteration": "nityo'ha\u1e43 niravadyo'ha\u1e43 nir\u0101k\u0101ro'hamucyate .\nparam\u0101nandar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 4..",
-    "translation": "I am eternal, I am free from blemish, I am formless, I am indestructible and changeless. I am of the nature of supreme bliss. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 4,
+    "chapter_number": 1,
+    "sanskrit_shloka": "नित्योऽहं निरवद्योऽहं निराकारोऽहमुच्यते ।\nपरमानन्दरूपोऽहमहमेवाहमव्ययः ॥ ४॥",
+    "text": "नित्योऽहं निरवद्योऽहं निराकारोऽहमुच्यते ।\nपरमानन्दरूपोऽहमहमेवाहमव्ययः ॥ ४॥",
+    "transliteration": "nityo'haṃ niravadyo'haṃ nirākāro'hamucyate .\nparamānandarūpo'hamahamevāhamavyayaḥ .. 4..",
+    "section_title": "",
+    "summary_line": "The Self is declared as eternal, flawless, formless, blissful, and unchanging — the sole, non-dual reality.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Atman",
+      "Nitya",
+      "Niravadya",
+      "Nirakara",
+      "Paramananda",
+      "Avyaya",
+      "Aham"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am eternal, I am free from blemish, I am formless, I am indestructible and changeless. I am of the nature of supreme bliss. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am eternal, I am free from blemish, I am formless; I am declared to be of the nature of supreme bliss. I alone am I, indestructible and unchanging."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं नित्य हूँ, मैं दोषरहित हूँ, मैं निराकार हूँ; मैं परमानंदरूप कहा जाता हूँ। मैं ही मैं हूँ, अविनाशी और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "नित्योऽहम्",
+        "word_english": "I am eternal<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं नित्य हूँ</div>",
+        "transliteration": "nityo'ham",
+        "grammar_role": "nityo'ham"
+      },
+      {
+        "word_sanskrit": "निरवद्योऽहम्",
+        "word_english": "I am free from blemish or defect<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं दोषरहित हूँ</div>",
+        "transliteration": "niravadyo'ham",
+        "grammar_role": "niravadyo'ham"
+      },
+      {
+        "word_sanskrit": "निराकारोऽहम्",
+        "word_english": "I am formless<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं निराकार हूँ</div>",
+        "transliteration": "nirākāro'ham",
+        "grammar_role": "nirākāro'ham"
+      },
+      {
+        "word_sanskrit": "उच्यते",
+        "word_english": "is said / is declared<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>कहा जाता है</div>",
+        "transliteration": "ucyate",
+        "grammar_role": "ucyate"
+      },
+      {
+        "word_sanskrit": "परमानन्दरूपोऽहम्",
+        "word_english": "I am of the nature of supreme bliss<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं परमानंदरूप हूँ</div>",
+        "transliteration": "paramānandarūpo'ham",
+        "grammar_role": "paramānandarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहम्",
+        "word_english": "I alone am I (emphatic assertion of identity)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही मैं हूँ</div>",
+        "transliteration": "ahamevāham",
+        "grammar_role": "ahamevāham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "indestructible, unchanging<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अविनाशी, अपरिवर्तनशील</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 4,
+      "chapter_number": 1,
+      "summary_line": "The Self is declared as eternal, flawless, formless, blissful, and unchanging — the sole, non-dual reality.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "['Tat Tvam Asi', 'Aham Brahmasmi', 'Ayam Atma Brahma', 'Prajnanam Brahma', 'None']",
+      "keywords_sanskrit": [
+        "Atman",
+        "Nitya",
+        "Niravadya",
+        "Nirakara",
+        "Paramananda",
+        "Avyaya",
+        "Aham"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_5",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 5,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0936\u0941\u0926\u094d\u0927\u091a\u0948\u0924\u0928\u094d\u092f\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u093e\u0924\u094d\u092e\u093e\u0930\u093e\u092e\u094b\u093d\u0939\u092e\u0947\u0935 \u091a \u0964\n\u0905\u0916\u0923\u094d\u0921\u093e\u0928\u0928\u094d\u0926\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u096b\u0965",
-    "transliteration": "\u015buddhacaitanyar\u016bpo'ham\u0101tm\u0101r\u0101mo'hameva ca .\nakha\u1e47\u1e0d\u0101nandar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 5..",
-    "translation": "I am pure consciousness, I revel in my own Self. I am of the nature of indivisible (concentrated) bliss. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 5,
+    "chapter_number": 1,
+    "sanskrit_shloka": "शुद्धचैतन्यरूपोऽहमात्मारामोऽहमेव च ।\nअखण्डानन्दरूपोऽहमहमेवाहमव्ययः ॥ ५॥",
+    "text": "शुद्धचैतन्यरूपोऽहमात्मारामोऽहमेव च ।\nअखण्डानन्दरूपोऽहमहमेवाहमव्ययः ॥ ५॥",
+    "transliteration": "śuddhacaitanyarūpo'hamātmārāmo'hameva ca .\nakhaṇḍānandarūpo'hamahamevāhamavyayaḥ .. 5..",
+    "section_title": "",
+    "summary_line": "The Self is pure, blissful, unchanging consciousness, self-replete and beyond decay.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Chaitanya",
+      "Atmarama",
+      "Akhandananda",
+      "Avyaya",
+      "Atman",
+      "Paramarthika",
+      "Svarupa"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am pure consciousness, I revel in my own Self. I am of the nature of indivisible (concentrated) bliss. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am pure consciousness, I revel in my own Self. I am of the nature of indivisible bliss. I am the very Self, indestructible and changeless."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं शुद्ध चैतन्य हूँ, मैं अपने आत्मा में ही आनंदित हूँ। मैं अखंड आनंद का स्वरूप हूँ। मैं ही आत्मा हूँ, अक्षय और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "शुद्धचैतन्यरूपोऽहम्",
+        "word_english": "I am of the nature of pure consciousness<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं शुद्ध चैतन्य का स्वरूप हूँ</div>",
+        "transliteration": "śuddhacaitanyarūpo'ham",
+        "grammar_role": "śuddhacaitanyarūpo'ham"
+      },
+      {
+        "word_sanskrit": "आत्मारामोऽहमेव च",
+        "word_english": "I am the one who finds joy in the Self alone<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं केवल आत्मा में आनंद पाने वाला हूँ</div>",
+        "transliteration": "ātmārāmo'hameva ca",
+        "grammar_role": "ātmārāmo'hameva ca"
+      },
+      {
+        "word_sanskrit": "अखण्डानन्दरूपोऽहम्",
+        "word_english": "I am of the nature of indivisible bliss<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं अखंड आनंद का स्वरूप हूँ</div>",
+        "transliteration": "akhaṇḍānandarūpo'ham",
+        "grammar_role": "akhaṇḍānandarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहमव्ययः",
+        "word_english": "I am indeed the Self, imperishable and unchanging<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही आत्मा हूँ, अक्षय और अपरिवर्तनशील</div>",
+        "transliteration": "ahamevāhamavyayaḥ",
+        "grammar_role": "ahamevāhamavyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 5,
+      "chapter_number": 1,
+      "summary_line": "The Self is pure, blissful, unchanging consciousness, self-replete and beyond decay.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Chaitanya",
+        "Atmarama",
+        "Akhandananda",
+        "Avyaya",
+        "Atman",
+        "Paramarthika",
+        "Svarupa"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_6",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 6,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u092a\u094d\u0930\u0924\u094d\u092f\u0915\u094d\u091a\u0948\u0924\u0928\u094d\u092f\u0930\u0942\u092a\u094b\u093d\u0939\u0902 \u0936\u093e\u0928\u094d\u0924\u094b\u093d\u0939\u0902 \u092a\u094d\u0930\u0915\u0943\u0924\u0947\u0903 \u092a\u0930\u0903 \u0964\n\u0936\u093e\u0936\u094d\u0935\u0924\u093e\u0928\u0928\u094d\u0926\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u096c\u0965",
-    "transliteration": "pratyakcaitanyar\u016bpo'ha\u1e43 \u015b\u0101nto'ha\u1e43 prak\u1e5bte\u1e25 para\u1e25 .\n\u015b\u0101\u015bvat\u0101nandar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 6..",
-    "translation": "I am the indwelling consciousness, I am calm (free from all agitation), I am beyond prakrti (Maya), I am of the nature of eternal bliss, I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 6,
+    "chapter_number": 1,
+    "sanskrit_shloka": "प्रत्यक्चैतन्यरूपोऽहं शान्तोऽहं प्रकृतेः परः ।\nशाश्वतानन्दरूपोऽहमहमेवाहमव्ययः ॥ ६॥",
+    "text": "प्रत्यक्चैतन्यरूपोऽहं शान्तोऽहं प्रकृतेः परः ।\nशाश्वतानन्दरूपोऽहमहमेवाहमव्ययः ॥ ६॥",
+    "transliteration": "pratyakcaitanyarūpo'haṃ śānto'haṃ prakṛteḥ paraḥ .\nśāśvatānandarūpo'hamahamevāhamavyayaḥ .. 6..",
+    "section_title": "",
+    "summary_line": "The Self is pure, unchanging consciousness beyond Maya, eternal bliss, and the only reality.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Chaitanya",
+      "Prakriti",
+      "Shanta",
+      "Shashvata",
+      "Ananda",
+      "Avyaya",
+      "Atman",
+      "Aham"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am the indwelling consciousness, I am calm (free from all agitation), I am beyond prakrti (Maya), I am of the nature of eternal bliss, I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am the indwelling consciousness, I am calm (free from all agitation), I am beyond Prakriti (Maya), I am of the nature of eternal bliss, I am the very Self, indestructible and changeless."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं सीधा चैतन्य हूँ, मैं शांत हूँ (सभी उत्तेजनाओं से मुक्त), मैं प्रकृति (माया) से परे हूँ, मैं शाश्वतानंद का स्वरूप हूँ, मैं ही आत्मा हूँ, अक्षय और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्रत्यक्चैतन्यरूपोऽहम्",
+        "word_english": "I am the direct consciousness<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं सीधा चैतन्य हूँ</div>",
+        "transliteration": "pratyak-caitanyarūpo'ham",
+        "grammar_role": "pratyak-caitanyarūpo'ham"
+      },
+      {
+        "word_sanskrit": "शान्तोऽहम्",
+        "word_english": "I am tranquil (peaceful)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं शांत हूँ</div>",
+        "transliteration": "śānto'ham",
+        "grammar_role": "śānto'ham"
+      },
+      {
+        "word_sanskrit": "प्रकृतेः परः",
+        "word_english": "beyond Prakriti (Nature/Maya)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>प्रकृति से परे</div>",
+        "transliteration": "prakṛteḥ paraḥ",
+        "grammar_role": "prakṛteḥ paraḥ"
+      },
+      {
+        "word_sanskrit": "शाश्वतानन्दरूपोऽहम्",
+        "word_english": "I am of the nature of eternal bliss<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं शाश्वतानंद का स्वरूप हूँ</div>",
+        "transliteration": "śāśvatānandarūpo'ham",
+        "grammar_role": "śāśvatānandarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहम्",
+        "word_english": "I alone am (the Self)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही हूँ (आत्मा)</div>",
+        "transliteration": "ahamevāham",
+        "grammar_role": "ahamevāham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "indestructible, imperishable<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अक्षय, अविनाशी</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 6,
+      "chapter_number": 1,
+      "summary_line": "The Self is pure, unchanging consciousness beyond Maya, eternal bliss, and the only reality.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Chaitanya",
+        "Prakriti",
+        "Shanta",
+        "Shashvata",
+        "Ananda",
+        "Avyaya",
+        "Atman",
+        "Aham"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_7",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 7,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0924\u0924\u094d\u0924\u094d\u0935\u093e\u0924\u0940\u0924\u0903 \u092a\u0930\u093e\u0924\u094d\u092e\u093e\u0939\u0902 \u092e\u0927\u094d\u092f\u093e\u0924\u0940\u0924\u0903 \u092a\u0930\u0903 \u0936\u093f\u0935\u0903 \u0964\n\u092e\u093e\u092f\u093e\u0924\u0940\u0924\u0903 \u092a\u0930\u0902\u091c\u094d\u092f\u094b\u0924\u093f\u0930\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u096d\u0965",
-    "transliteration": "tattv\u0101t\u012bta\u1e25 par\u0101tm\u0101ha\u1e43 madhy\u0101t\u012bta\u1e25 para\u1e25 \u015biva\u1e25 .\nm\u0101y\u0101t\u012bta\u1e25 para\u1e43jyotirahamev\u0101hamavyaya\u1e25 .. 7..",
-    "translation": "I am the supreme Self, beyond all the categories (such as prakrti, mahat, ahankara, etc.,), I am the supreme auspicious One, beyond all those in the middle. I am beyond maya. I am the supreme light. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 7,
+    "chapter_number": 1,
+    "sanskrit_shloka": "तत्त्वातीतः परात्माहं मध्यातीतः परः शिवः ।\nमायातीतः परंज्योतिरहमेवाहमव्ययः ॥ ७॥",
+    "text": "तत्त्वातीतः परात्माहं मध्यातीतः परः शिवः ।\nमायातीतः परंज्योतिरहमेवाहमव्ययः ॥ ७॥",
+    "transliteration": "tattvātītaḥ parātmāhaṃ madhyātītaḥ paraḥ śivaḥ .\nmāyātītaḥ paraṃjyotirahamevāhamavyayaḥ .. 7..",
+    "section_title": "",
+    "summary_line": "The Self is beyond all categories, illusion, and change — it is pure, unchanging consciousness.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Tattva",
+      "Paramatman",
+      "Maya",
+      "Parajyoti",
+      "Avyaya",
+      "Atman",
+      "Shiva",
+      "Apavada"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am the supreme Self, beyond all the categories (such as prakrti, mahat, ahankara, etc.,), I am the supreme auspicious One, beyond all those in the middle. I am beyond maya. I am the supreme light. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am the Supreme Self beyond all tattvas, I am the supreme auspicious One beyond all intermediate entities, I am beyond Maya, I am the Supreme Light — I alone am the indestructible, changeless Self."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं सभी तत्त्वों के परे परमात्मा हूँ, मैं मध्यवर्ती पदार्थों के परे परम शिव हूँ, मैं माया के परे हूँ, मैं परम ज्योति हूँ — मैं ही अक्षय और अपरिवर्तनशील आत्मा हूँ।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "तत्त्वातीतः",
+        "word_english": "Beyond all categories/tattvas (principles of manifestation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सभी तत्त्वों (प्रकृति, महत्त्व, अहंकार आदि) के परे</div>",
+        "transliteration": "tattvātītaḥ",
+        "grammar_role": "tattvātītaḥ"
+      },
+      {
+        "word_sanskrit": "परात्माहं",
+        "word_english": "I am the Supreme Self<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं परमात्मा हूँ</div>",
+        "transliteration": "parātmāhaṃ",
+        "grammar_role": "parātmāhaṃ"
+      },
+      {
+        "word_sanskrit": "मध्यातीतः",
+        "word_english": "Beyond the intermediate (entities)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मध्यवर्ती (पदार्थों) के परे</div>",
+        "transliteration": "madhyātītaḥ",
+        "grammar_role": "madhyātītaḥ"
+      },
+      {
+        "word_sanskrit": "परः",
+        "word_english": "Supreme, transcendent<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>परम, अतिक्रांत</div>",
+        "transliteration": "paraḥ",
+        "grammar_role": "paraḥ"
+      },
+      {
+        "word_sanskrit": "शिवः",
+        "word_english": "The auspicious One (Brahman)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>शिव (परम शुभ, ब्रह्म)</div>",
+        "transliteration": "śivaḥ",
+        "grammar_role": "śivaḥ"
+      },
+      {
+        "word_sanskrit": "मायातीतः",
+        "word_english": "Beyond Maya (cosmic illusion)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>माया के परे</div>",
+        "transliteration": "māyātītaḥ",
+        "grammar_role": "māyātītaḥ"
+      },
+      {
+        "word_sanskrit": "परंज्योतिः",
+        "word_english": "Supreme Light (pure consciousness)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>परम ज्योति (शुद्ध चेतना)</div>",
+        "transliteration": "paraṃjyotiḥ",
+        "grammar_role": "paraṃjyotiḥ"
+      },
+      {
+        "word_sanskrit": "अहमेव",
+        "word_english": "I alone<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही</div>",
+        "transliteration": "ahameva",
+        "grammar_role": "ahameva"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "Indestructible, immutable<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अक्षय, अपरिवर्तनशील</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 7,
+      "chapter_number": 1,
+      "summary_line": "The Self is beyond all categories, illusion, and change — it is pure, unchanging consciousness.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Tattva",
+        "Paramatman",
+        "Maya",
+        "Parajyoti",
+        "Avyaya",
+        "Atman",
+        "Shiva",
+        "Apavada"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_8",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 8,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0928\u093e\u0928\u093e\u0930\u0942\u092a\u0935\u094d\u092f\u0924\u0940\u0924\u094b\u093d\u0939\u0902 \u091a\u093f\u0926\u093e\u0915\u093e\u0930\u094b\u093d\u0939\u092e\u091a\u094d\u092f\u0941\u0924\u0903 \u0964\n\u0938\u0941\u0916\u0930\u0942\u092a\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u096e\u0965",
-    "transliteration": "n\u0101n\u0101r\u016bpavyat\u012bto'ha\u1e43 cid\u0101k\u0101ro'hamacyuta\u1e25 .\nsukhar\u016bpasvar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 8..",
-    "translation": "I am beyond all the different forms. I am of the nature of pure consciousness. I am never subject to decline. I am of the nature of bliss. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 8,
+    "chapter_number": 1,
+    "sanskrit_shloka": "नानारूपव्यतीतोऽहं चिदाकारोऽहमच्युतः ।\nसुखरूपस्वरूपोऽहमहमेवाहमव्ययः ॥ ८॥",
+    "text": "नानारूपव्यतीतोऽहं चिदाकारोऽहमच्युतः ।\nसुखरूपस्वरूपोऽहमहमेवाहमव्ययः ॥ ८॥",
+    "transliteration": "nānārūpavyatīto'haṃ cidākāro'hamacyutaḥ .\nsukharūpasvarūpo'hamahamevāhamavyayaḥ .. 8..",
+    "section_title": "",
+    "summary_line": "The Self is beyond all forms, pure consciousness, bliss, and eternal.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Chidākāra",
+      "Achyuta",
+      "Sukharūpa",
+      "Svarūpa",
+      "Avyaya",
+      "Nānārūpa",
+      "Aham",
+      "Paramārthika"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am beyond all the different forms. I am of the nature of pure consciousness. I am never subject to decline. I am of the nature of bliss. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am beyond all diverse forms; I am of the nature of pure consciousness, infallible; I am of the nature of bliss, my own true nature; I am indeed the Self, imperishable and unchanging."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं सभी विविध रूपों से परे हूँ; मैं शुद्ध चैतन्य के स्वरूपवाला, अक्षय हूँ; मैं आनंद के स्वरूपवाला, अपना स्वभाव हूँ; मैं वास्तव में आत्मा हूँ, अक्षय और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "नानारूपव्यतीतः",
+        "word_english": "Beyond all diverse forms<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सभी विविध रूपों से परे</div>",
+        "transliteration": "nānārūpavyatītaḥ",
+        "grammar_role": "nānārūpavyatītaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "चिदाकारः",
+        "word_english": "Of the nature of pure consciousness<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>शुद्ध चैतन्य के स्वरूपवाला</div>",
+        "transliteration": "cidākāraḥ",
+        "grammar_role": "cidākāraḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "अच्युतः",
+        "word_english": "Infallible, never declining<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अक्षय, कभी न गिरने वाला</div>",
+        "transliteration": "acyutaḥ",
+        "grammar_role": "acyutaḥ"
+      },
+      {
+        "word_sanskrit": "सुखरूपः",
+        "word_english": "Of the nature of bliss<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>आनंद के स्वरूपवाला</div>",
+        "transliteration": "sukharūpaḥ",
+        "grammar_role": "sukharūpaḥ"
+      },
+      {
+        "word_sanskrit": "स्वरूपः",
+        "word_english": "One's own true nature<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अपना स्वभाव</div>",
+        "transliteration": "svarūpaḥ",
+        "grammar_role": "svarūpaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "Indeed, solely<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वास्तव में, केवल</div>",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "Imperishable, unchanging<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अक्षय, अपरिवर्तनशील</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 8,
+      "chapter_number": 1,
+      "summary_line": "The Self is beyond all forms, pure consciousness, bliss, and eternal.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Chidākāra",
+        "Achyuta",
+        "Sukharūpa",
+        "Svarūpa",
+        "Avyaya",
+        "Nānārūpa",
+        "Aham",
+        "Paramārthika"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_9",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 9,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u092e\u093e\u092f\u093e\u0924\u0924\u094d\u0915\u093e\u0930\u094d\u092f\u0926\u0947\u0939\u093e\u0926\u093f \u092e\u092e \u0928\u093e\u0938\u094d\u0924\u094d\u092f\u0947\u0935 \u0938\u0930\u094d\u0935\u0926\u093e \u0964\n\u0938\u094d\u0935\u092a\u094d\u0930\u0915\u093e\u0936\u0948\u0915\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u096f\u0965",
-    "transliteration": "m\u0101y\u0101tatk\u0101ryadeh\u0101di mama n\u0101styeva sarvad\u0101 .\nsvaprak\u0101\u015baikar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 9..",
-    "translation": "There is neither maya nor its effects such as the body for me. I am of the same nature and self-luminous. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 9,
+    "chapter_number": 1,
+    "sanskrit_shloka": "मायातत्कार्यदेहादि मम नास्त्येव सर्वदा ।\nस्वप्रकाशैकरूपोऽहमहमेवाहमव्ययः ॥ ९॥",
+    "text": "मायातत्कार्यदेहादि मम नास्त्येव सर्वदा ।\nस्वप्रकाशैकरूपोऽहमहमेवाहमव्ययः ॥ ९॥",
+    "transliteration": "māyātatkāryadehādi mama nāstyeva sarvadā .\nsvaprakāśaikarūpo'hamahamevāhamavyayaḥ .. 9..",
+    "section_title": "",
+    "summary_line": "The Self is eternally free from Maya and the body, being self-luminous and unchanging.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Maya",
+      "Atman",
+      "Svaprakasha",
+      "Avyaya",
+      "Apavada",
+      "Adhyasa",
+      "Paramarthika"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "There is neither maya nor its effects such as the body for me. I am of the same nature and self-luminous. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "There is neither Maya nor its effects such as the body for me at any time. I am of the nature of self-luminous, singular essence; I am indeed the Self, indestructible and unchanging."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मेरे लिए कभी भी माया या उसके प्रभाव जैसे शरीर आदि नहीं हैं। मैं स्वयं प्रकाशमय, एकरूप हूँ; मैं ही आत्मा हूँ, अक्षय और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "मायातत्कार्यदेहादि",
+        "word_english": "Maya and its effects such as the body and so on<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>माया और उसके प्रभाव जैसे शरीर आदि</div>",
+        "transliteration": "māyātatkāryadehādi",
+        "grammar_role": "māyātatkāryadehādi"
+      },
+      {
+        "word_sanskrit": "मम",
+        "word_english": "for me<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मेरे लिए</div>",
+        "transliteration": "mama",
+        "grammar_role": "mama"
+      },
+      {
+        "word_sanskrit": "नास्त्येव",
+        "word_english": "does not exist at all<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>बिल्कुल नहीं है</div>",
+        "transliteration": "nāstyeva",
+        "grammar_role": "nāstyeva"
+      },
+      {
+        "word_sanskrit": "सर्वदा",
+        "word_english": "always<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>हमेशा</div>",
+        "transliteration": "sarvadā",
+        "grammar_role": "sarvadā"
+      },
+      {
+        "word_sanskrit": "स्वप्रकाशैकरूपोऽहम्",
+        "word_english": "I am of the nature of self-luminous, single essence<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं स्वयं प्रकाशमय, एकरूप हूँ</div>",
+        "transliteration": "svaprakāśaikarūpo'ham",
+        "grammar_role": "svaprakāśaikarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहम्",
+        "word_english": "I am indeed I (the sole Self)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही मैं हूँ (केवल आत्मा)</div>",
+        "transliteration": "ahamevāham",
+        "grammar_role": "ahamevāham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "indestructible, imperishable<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अक्षय, अविनाशी</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 9,
+      "chapter_number": 1,
+      "summary_line": "The Self is eternally free from Maya and the body, being self-luminous and unchanging.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Maya",
+        "Atman",
+        "Svaprakasha",
+        "Avyaya",
+        "Apavada",
+        "Adhyasa",
+        "Paramarthika"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_10",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 10,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0917\u0941\u0923\u0924\u094d\u0930\u092f\u0935\u094d\u092f\u0924\u0940\u0924\u094b\u093d\u0939\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0926\u0940\u0928\u093e\u0902 \u091a \u0938\u093e\u0915\u094d\u0937\u094d\u092f\u0939\u092e\u094d \u0964\n\u0905\u0928\u0928\u094d\u0924\u093e\u0928\u0928\u094d\u0924\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0967\u0966\u0965",
-    "transliteration": "gu\u1e47atrayavyat\u012bto'ha\u1e43 brahm\u0101d\u012bn\u0101\u1e43 ca s\u0101k\u1e63yaham .\nanant\u0101nantar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 10..",
-    "translation": "I am beyond the three gunas-sattva, rajas, and tamas. I am the witness of even Brahma and others. I am of the nature of infinite bliss. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 10,
+    "chapter_number": 1,
+    "sanskrit_shloka": "गुणत्रयव्यतीतोऽहं ब्रह्मादीनां च साक्ष्यहम् ।\nअनन्तानन्तरूपोऽहमहमेवाहमव्ययः ॥ १०॥",
+    "text": "गुणत्रयव्यतीतोऽहं ब्रह्मादीनां च साक्ष्यहम् ।\nअनन्तानन्तरूपोऽहमहमेवाहमव्ययः ॥ १०॥",
+    "transliteration": "guṇatrayavyatīto'haṃ brahmādīnāṃ ca sākṣyaham .\nanantānantarūpo'hamahamevāhamavyayaḥ .. 10..",
+    "section_title": "",
+    "summary_line": "The Self transcends all gunas, witnesses all beings, and is infinite, unchanging bliss.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Guṇatraya",
+      "Sākṣin",
+      "Ananta",
+      "Avyaya",
+      "Ātman",
+      "Brahman",
+      "Adhyāsa",
+      "Apavāda"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am beyond the three gunas-sattva, rajas, and tamas. I am the witness of even Brahma and others. I am of the nature of infinite bliss. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am beyond the three gunas—sattva, rajas, and tamas; I am the witness of even Brahma and other beings; I am the form of infinite bliss; I alone am the Self, indestructible and unchanging."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं तीनों गुणों—सत्त्व, रजस् और तमस्—के परे हूँ; मैं ब्रह्मा और अन्य प्राणियों का साक्षी हूँ; मैं अनन्त आनंद का स्वरूप हूँ; मैं ही मैं हूँ, अविनाशी और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "गुणत्रयव्यतीतोऽहम्",
+        "word_english": "I am beyond the three gunas (sattva, rajas, tamas)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं तीनों गुणों—सत्त्व, रजस् और तमस्—के परे हूँ</div>",
+        "transliteration": "guṇatrayavyatīto'ham",
+        "grammar_role": "guṇatrayavyatīto'ham"
+      },
+      {
+        "word_sanskrit": "ब्रह्मादीनां",
+        "word_english": "of Brahma and others (the deities and beings)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ब्रह्मा आदि के</div>",
+        "transliteration": "brahmādīnāṁ",
+        "grammar_role": "brahmādīnāṁ"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>और</div>",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "साक्ष्यहम्",
+        "word_english": "I am the witness<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं साक्षी हूँ</div>",
+        "transliteration": "sākṣyaham",
+        "grammar_role": "sākṣyaham"
+      },
+      {
+        "word_sanskrit": "अनन्तानन्तरूपोऽहम्",
+        "word_english": "I am of the form of infinite bliss<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं अनन्त आनंद का स्वरूप हूँ</div>",
+        "transliteration": "anantānantarūpo'ham",
+        "grammar_role": "anantānantarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहम्",
+        "word_english": "I alone am I (the sole Self)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही मैं हूँ (केवल आत्मा)</div>",
+        "transliteration": "ahamevāham",
+        "grammar_role": "ahamevāham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "indestructible, imperishable<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अविनाशी</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 10,
+      "chapter_number": 1,
+      "summary_line": "The Self transcends all gunas, witnesses all beings, and is infinite, unchanging bliss.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Guṇatraya",
+        "Sākṣin",
+        "Ananta",
+        "Avyaya",
+        "Ātman",
+        "Brahman",
+        "Adhyāsa",
+        "Apavāda"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_11",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 11,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0905\u0928\u094d\u0924\u0930\u094d\u092f\u093e\u092e\u093f\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u093d\u0939\u0902 \u0915\u0942\u091f\u0938\u094d\u0925\u0903 \u0938\u0930\u094d\u0935\u0917\u094b\u093d\u0938\u094d\u092e\u094d\u092f\u0939\u092e\u094d \u0964\n\u092a\u0930\u092e\u093e\u0924\u094d\u092e\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0967\u0967\u0965",
-    "transliteration": "antary\u0101misvar\u016bpo'ha\u1e43 k\u016b\u1e6dastha\u1e25 sarvago'smyaham .\nparam\u0101tmasvar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 11..",
-    "translation": "I am the inner controller, I am immutable, I am all-pervading. I am myself the supreme Self. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 11,
+    "chapter_number": 1,
+    "sanskrit_shloka": "अन्तर्यामिस्वरूपोऽहं कूटस्थः सर्वगोऽस्म्यहम् ।\nपरमात्मस्वरूपोऽहमहमेवाहमव्ययः ॥ ११॥",
+    "text": "अन्तर्यामिस्वरूपोऽहं कूटस्थः सर्वगोऽस्म्यहम् ।\nपरमात्मस्वरूपोऽहमहमेवाहमव्ययः ॥ ११॥",
+    "transliteration": "antaryāmisvarūpo'haṃ kūṭasthaḥ sarvago'smyaham .\nparamātmasvarūpo'hamahamevāhamavyayaḥ .. 11..",
+    "section_title": "",
+    "summary_line": "The Self is the immutable, all-pervading, supreme Inner Controller — non-dual and indestructible.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Antaryāmin",
+      "Kūṭastha",
+      "Sarvagata",
+      "Paramātman",
+      "Avyaya",
+      "Aham",
+      "Svarūpa"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am the inner controller, I am immutable, I am all-pervading. I am myself the supreme Self. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am the Inner Controller in My essential nature, I am the immutable witness, I am all-pervading. I am the Supreme Self in My essential nature; I alone am I, the indestructible and changeless Self."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं अपने स्वरूप में अंतर्यामी हूँ, मैं अपरिवर्तनशील साक्षी हूँ, मैं सर्वव्यापी हूँ। मैं अपने स्वरूप में परमात्मा हूँ; मैं ही मैं हूँ, अविनाशी और अपरिवर्तनशील आत्मा।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "अन्तर्यामिस्वरूपोऽहम्",
+        "word_english": "I am the inner controller in My essential nature<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं अपने स्वरूप में अंतर्यामी हूँ</div>",
+        "transliteration": "antaryāmisvarūpo'ham",
+        "grammar_role": "antaryāmisvarūpo'ham"
+      },
+      {
+        "word_sanskrit": "कूटस्थः",
+        "word_english": "I am the immutable, unchanging witness<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं अपरिवर्तनशील, अटल साक्षी हूँ</div>",
+        "transliteration": "kūṭasthaḥ",
+        "grammar_role": "kūṭasthaḥ"
+      },
+      {
+        "word_sanskrit": "सर्वगोऽस्म्यहम्",
+        "word_english": "I am all-pervading, I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं सर्वव्यापी हूँ, मैं हूँ</div>",
+        "transliteration": "sarvago'smyaham",
+        "grammar_role": "sarvago'smyaham"
+      },
+      {
+        "word_sanskrit": "परमात्मस्वरूपोऽहम्",
+        "word_english": "I am the Supreme Self in My essential nature<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं अपने स्वरूप में परमात्मा हूँ</div>",
+        "transliteration": "paramātmasvarūpo'ham",
+        "grammar_role": "paramātmasvarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहमव्ययः",
+        "word_english": "I alone am I, the indestructible one<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही मैं हूँ, अविनाशी</div>",
+        "transliteration": "ahamevāhamavyayaḥ",
+        "grammar_role": "ahamevāhamavyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 11,
+      "chapter_number": 1,
+      "summary_line": "The Self is the immutable, all-pervading, supreme Inner Controller — non-dual and indestructible.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Bhagavad Gita 13.14, 13.20, 13.27; Mundaka Upanishad 3.1.1; Katha Upanishad 2.2.13",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Antaryāmin",
+        "Kūṭastha",
+        "Sarvagata",
+        "Paramātman",
+        "Avyaya",
+        "Aham",
+        "Svarūpa"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_12",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 12,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0928\u093f\u0937\u094d\u0915\u0932\u094b\u093d\u0939\u0902 \u0928\u093f\u0937\u094d\u0915\u094d\u0930\u093f\u092f\u094b\u093d\u0939\u0902 \u0938\u0930\u094d\u0935\u093e\u0924\u094d\u092e\u093e\u0926\u094d\u092f\u0903 \u0938\u0928\u093e\u0924\u0928\u0903 \u0964\n\u0905\u092a\u0930\u094b\u0915\u094d\u0937\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0967\u0968\u0965",
-    "transliteration": "ni\u1e63kalo'ha\u1e43 ni\u1e63kriyo'ha\u1e43 sarv\u0101tm\u0101dya\u1e25 san\u0101tana\u1e25 .\naparok\u1e63asvar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 12..",
-    "translation": "I am devoid of parts. I am actionless. I am the self of all. I am the primordial one. I am the ancient, eternal one. I am the directly intuited self. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 12,
+    "chapter_number": 1,
+    "sanskrit_shloka": "निष्कलोऽहं निष्क्रियोऽहं सर्वात्माद्यः सनातनः ।\nअपरोक्षस्वरूपोऽहमहमेवाहमव्ययः ॥ १२॥",
+    "text": "निष्कलोऽहं निष्क्रियोऽहं सर्वात्माद्यः सनातनः ।\nअपरोक्षस्वरूपोऽहमहमेवाहमव्ययः ॥ १२॥",
+    "transliteration": "niṣkalo'haṃ niṣkriyo'haṃ sarvātmādyaḥ sanātanaḥ .\naparokṣasvarūpo'hamahamevāhamavyayaḥ .. 12..",
+    "section_title": "",
+    "summary_line": "The Self is partless, actionless, eternal, and directly known as the one unchanging reality.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Nishkala",
+      "Nishkriya",
+      "Sarvatma",
+      "Sanatana",
+      "Aparoksha",
+      "Avyaya",
+      "Atman",
+      "Brahman"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am devoid of parts. I am actionless. I am the self of all. I am the primordial one. I am the ancient, eternal one. I am the directly intuited self. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am partless, actionless, the Self of all, primordial, eternal, the directly intuited Self. I am indeed the Self, indestructible and unchanging."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं अभाग हूँ, क्रियारहित हूँ, सभी का आत्मा हूँ, आदिम हूँ, शाश्वत हूँ, प्रत्यक्ष स्वरूप हूँ। मैं ही आत्मा हूँ, अक्षय और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "निष्कलः",
+        "word_english": "Devoid of parts; partless<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भागों से रहित</div>",
+        "transliteration": "niṣkalaḥ",
+        "grammar_role": "niṣkalaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "निष्क्रियः",
+        "word_english": "Actionless; devoid of activity<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>क्रियारहित</div>",
+        "transliteration": "niṣkriyaḥ",
+        "grammar_role": "niṣkriyaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "सर्वात्मा",
+        "word_english": "The Self of all beings<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सभी प्राणियों का आत्मा</div>",
+        "transliteration": "sarvātmā",
+        "grammar_role": "sarvātmā"
+      },
+      {
+        "word_sanskrit": "अद्यः",
+        "word_english": "Primordial; first, original<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>प्राचीन; आदिम</div>",
+        "transliteration": "adyaḥ",
+        "grammar_role": "adyaḥ"
+      },
+      {
+        "word_sanskrit": "सनातनः",
+        "word_english": "Eternal; ever-existing<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>शाश्वत</div>",
+        "transliteration": "sanātanaḥ",
+        "grammar_role": "sanātanaḥ"
+      },
+      {
+        "word_sanskrit": "अपरोक्षस्वरूपः",
+        "word_english": "Of the nature of direct, immediate experience<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>प्रत्यक्ष स्वरूप वाला</div>",
+        "transliteration": "aparokṣasvarūpaḥ",
+        "grammar_role": "aparokṣasvarūpaḥ"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "Indeed; emphatic particle<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ही</div>",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I am<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं हूँ</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "Indestructible; unchanging<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अक्षय; अपरिवर्तनशील</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 12,
+      "chapter_number": 1,
+      "summary_line": "The Self is partless, actionless, eternal, and directly known as the one unchanging reality.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Nishkala",
+        "Nishkriya",
+        "Sarvatma",
+        "Sanatana",
+        "Aparoksha",
+        "Avyaya",
+        "Atman",
+        "Brahman"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_13",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 13,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0926\u094d\u0935\u0928\u094d\u0926\u094d\u0935\u093e\u0926\u093f\u0938\u093e\u0915\u094d\u0937\u093f\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u091a\u0932\u094b\u093d\u0939\u0902 \u0938\u0928\u093e\u0924\u0928\u0903 \u0964\n\u0938\u0930\u094d\u0935\u0938\u093e\u0915\u094d\u0937\u093f\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0967\u0969\u0965",
-    "transliteration": "dvandv\u0101dis\u0101k\u1e63ir\u016bpo'hamacalo'ha\u1e43 san\u0101tana\u1e25 .\nsarvas\u0101k\u1e63isvar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 13..",
-    "translation": "I am the witness of all pairs of opposites. I am immovable. I am eternal. I am the witness of everything. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 13,
+    "chapter_number": 1,
+    "sanskrit_shloka": "द्वन्द्वादिसाक्षिरूपोऽहमचलोऽहं सनातनः ।\nसर्वसाक्षिस्वरूपोऽहमहमेवाहमव्ययः ॥ १३॥",
+    "text": "द्वन्द्वादिसाक्षिरूपोऽहमचलोऽहं सनातनः ।\nसर्वसाक्षिस्वरूपोऽहमहमेवाहमव्ययः ॥ १३॥",
+    "transliteration": "dvandvādisākṣirūpo'hamacalo'haṃ sanātanaḥ .\nsarvasākṣisvarūpo'hamahamevāhamavyayaḥ .. 13..",
+    "section_title": "",
+    "summary_line": "The Self is the unchanging, eternal witness of all phenomena, beyond duality and decay.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Sākṣī",
+      "Dvandva",
+      "Avyaya",
+      "Sanātana",
+      "Ātman",
+      "Aham",
+      "Adhyāsa",
+      "Apavāda"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am the witness of all pairs of opposites. I am immovable. I am eternal. I am the witness of everything. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am the witness of all pairs of opposites; I am immovable and eternal; I am the witness of everything; I alone am I, the indestructible and changeless Self."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं सभी द्वंद्वों का साक्षी हूँ; मैं अचल और शाश्वत हूँ; मैं सर्व का साक्षी हूँ; मैं ही मैं हूँ, अविनाशी और अपरिवर्तनशील आत्मा।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "द्वन्द्वादिसाक्षिरूपोऽहम्",
+        "word_english": "I am the witness in the form of all pairs of opposites<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं सभी द्वंद्वों का साक्षी रूप हूँ</div>",
+        "transliteration": "dvandvādisākṣirūpo'ham",
+        "grammar_role": "dvandvādisākṣirūpo'ham"
+      },
+      {
+        "word_sanskrit": "अचलोऽहम्",
+        "word_english": "I am immovable<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं अचल हूँ</div>",
+        "transliteration": "achalo'ham",
+        "grammar_role": "achalo'ham"
+      },
+      {
+        "word_sanskrit": "सनातनः",
+        "word_english": "I am eternal<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं शाश्वत हूँ</div>",
+        "transliteration": "sanātanaḥ",
+        "grammar_role": "sanātanaḥ"
+      },
+      {
+        "word_sanskrit": "सर्वसाक्षिस्वरूपोऽहम्",
+        "word_english": "I am the witness in the form of everything<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं सर्व का साक्षी रूप हूँ</div>",
+        "transliteration": "sarvasākṣisvarūpo'ham",
+        "grammar_role": "sarvasākṣisvarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहम्",
+        "word_english": "I alone am I<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही मैं हूँ</div>",
+        "transliteration": "ahamevāham",
+        "grammar_role": "ahamevāham"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "I am indestructible, imperishable<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं अविनाशी हूँ</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 13,
+      "chapter_number": 1,
+      "summary_line": "The Self is the unchanging, eternal witness of all phenomena, beyond duality and decay.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Sākṣī",
+        "Dvandva",
+        "Avyaya",
+        "Sanātana",
+        "Ātman",
+        "Aham",
+        "Adhyāsa",
+        "Apavāda"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_14",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 14,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u092a\u094d\u0930\u091c\u094d\u091e\u093e\u0928\u0918\u0928 \u090f\u0935\u093e\u0939\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0918\u0928 \u090f\u0935 \u091a \u0964\n\u0905\u0915\u0930\u094d\u0924\u093e\u0939\u092e\u092d\u094b\u0915\u094d\u0924\u093e\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0967\u096a\u0965",
-    "transliteration": "praj\u00f1\u0101naghana ev\u0101ha\u1e43 vij\u00f1\u0101naghana eva ca .\nakart\u0101hamabhokt\u0101hamahamev\u0101hamavyaya\u1e25 .. 14..",
-    "translation": "I am a mass of awareness and of consciousness. I am not a doer nor an experiencer. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 14,
+    "chapter_number": 1,
+    "sanskrit_shloka": "प्रज्ञानघन एवाहं विज्ञानघन एव च ।\nअकर्ताहमभोक्ताहमहमेवाहमव्ययः ॥ १४॥",
+    "text": "प्रज्ञानघन एवाहं विज्ञानघन एव च ।\nअकर्ताहमभोक्ताहमहमेवाहमव्ययः ॥ १४॥",
+    "transliteration": "prajñānaghana evāhaṃ vijñānaghana eva ca .\nakartāhamabhoktāhamahamevāhamavyayaḥ .. 14..",
+    "section_title": "",
+    "summary_line": "The Self is pure, non-dual awareness—beyond action, experience, and change.",
+    "sadhana_stage": "{'description': 'Where this verse falls within the strict execution framework of traditional spiritual practice.', 'allowed_values': {'Viveka': 'Active discrimination between the eternal (Nitya) and the ephemeral (Anitya).', 'Vairagya': 'Cultivating absolute dispassion for temporal fruits and experiential objects.', 'Shadi-Shatka-Sampatti': 'Developing the sixfold inner virtues (Shama, Dama, Uparati, Titiksha, Shraddha, Samadhana).', 'Mumukshutva': 'Intense, single-pointed longing for total spiritual liberation from the wheel of transmigration.', 'Shravana': 'Consistent, structured, receptive hearing of the non-dual Truths from a competent Guru.', 'Manana': 'Intellectual processing and rigorous reasoning to permanently eliminate personal doubts.', 'Nididhyasana': 'Deep, unbroken contemplation and assimilation to overwrite deep-seated subconscious habits (Vasanas).'}, 'value': 'Manana'}",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am a mass of awareness and of consciousness. I am not a doer nor an experiencer. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am a mass of pure awareness and a mass of discriminative consciousness. I am not a doer, nor an experiencer. I am the very Self, indestructible and changeless."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं शुद्ध ज्ञान का घन हूँ और विवेकात्मक चेतना का घन हूँ। मैं कर्ता नहीं हूँ, न ही भोक्ता। मैं ही वह स्वयं हूँ, अविनाशी और अपरिवर्तनशील।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्रज्ञानघन",
+        "word_english": "A mass or dense entirety of pure awareness (prajñāna)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ज्ञान का घन या सघन रूप</div>",
+        "transliteration": "prajñānaghana",
+        "grammar_role": "prajñānaghana"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "Indeed, verily<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>निश्चयपूर्वक, वास्तव में</div>",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "अहं",
+        "word_english": "I<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "ahaṃ",
+        "grammar_role": "ahaṃ"
+      },
+      {
+        "word_sanskrit": "विज्ञानघन",
+        "word_english": "A mass or dense entirety of discriminative consciousness (vijñāna)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>विज्ञान का घन या सघन रूप</div>",
+        "transliteration": "vijñānaghana",
+        "grammar_role": "vijñānaghana"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "Indeed, verily<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>निश्चयपूर्वक, वास्तव में</div>",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "And<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>और</div>",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "अकर्ता",
+        "word_english": "Not a doer<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>कर्ता नहीं</div>",
+        "transliteration": "akartā",
+        "grammar_role": "akartā"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "ahaṃ",
+        "grammar_role": "ahaṃ"
+      },
+      {
+        "word_sanskrit": "अभोक्ता",
+        "word_english": "Not an experiencer<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भोक्ता नहीं</div>",
+        "transliteration": "abhogtā",
+        "grammar_role": "abhogtā"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "ahaṃ",
+        "grammar_role": "ahaṃ"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "Indeed, verily<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>निश्चयपूर्वक, वास्तव में</div>",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "ahaṃ",
+        "grammar_role": "ahaṃ"
+      },
+      {
+        "word_sanskrit": "अव्ययः",
+        "word_english": "Indestructible, immutable, unchanging<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अविनाशी, अपरिवर्तनशील</div>",
+        "transliteration": "avyayaḥ",
+        "grammar_role": "avyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 14,
+      "chapter_number": 1,
+      "summary_line": "The Self is pure, non-dual awareness—beyond action, experience, and change.",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "{'description': 'Identifies if the verse paraphrases, directly comments on, or shares strong structural resonance with foundational texts.', 'examples_format': \"String. Expected patterns: 'Gita Chapter 2 resonance', 'Katha Upanishad 1.3.10 match', 'Nirvana Shatakam echo', or 'None'\", 'value': 'Nirvana Shatakam echo'}",
+      "mahavakya_correlative": "{'description': 'Indicates if the verse directly references, interprets, or structurally prepares the mind for one of the foundational Upanishadic identity statements.', 'allowed_values': ['Tat Tvam Asi', 'Aham Brahmasmi', 'Ayam Atma Brahma', 'Prajnanam Brahma', 'None'], 'value': 'Prajnanam Brahma'}",
+      "sadhana_stage": "{'description': 'Where this verse falls within the strict execution framework of traditional spiritual practice.', 'allowed_values': {'Viveka': 'Active discrimination between the eternal (Nitya) and the ephemeral (Anitya).', 'Vairagya': 'Cultivating absolute dispassion for temporal fruits and experiential objects.', 'Shadi-Shatka-Sampatti': 'Developing the sixfold inner virtues (Shama, Dama, Uparati, Titiksha, Shraddha, Samadhana).', 'Mumukshutva': 'Intense, single-pointed longing for total spiritual liberation from the wheel of transmigration.', 'Shravana': 'Consistent, structured, receptive hearing of the non-dual Truths from a competent Guru.', 'Manana': 'Intellectual processing and rigorous reasoning to permanently eliminate personal doubts.', 'Nididhyasana': 'Deep, unbroken contemplation and assimilation to overwrite deep-seated subconscious habits (Vasanas).'}, 'value': 'Manana'}",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "{'description': 'Captures the interactive state of the text, mirroring the traditional master-disciple progression.', 'allowed values': {'Guru Instruction': 'The master actively delivering concepts, instructions, or challenges.', 'Shishya Doubt': 'The student asking clarifying questions or expressing conceptual confusion.', 'Shishya Realization': 'The student articulating moments of insight, clarity, or total shifts in perspective.', 'Guru Benediction': 'Concluding verses, blessings, or statements on the lineages and historical impact.'}, 'value': 'Guru Instruction'}",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_15",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 15,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0928\u093f\u0930\u093e\u0927\u093e\u0930\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u093d\u0939\u0902 \u0938\u0930\u094d\u0935\u093e\u0927\u093e\u0930\u094b\u093d\u0939\u092e\u0947\u0935 \u091a \u0964\n\u0906\u092a\u094d\u0924\u0915\u093e\u092e\u0938\u094d\u0935\u0930\u0942\u092a\u094b\u093d\u0939\u092e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0967\u096b\u0965",
-    "transliteration": "nir\u0101dh\u0101rasvar\u016bpo'ha\u1e43 sarv\u0101dh\u0101ro'hameva ca .\n\u0101ptak\u0101masvar\u016bpo'hamahamev\u0101hamavyaya\u1e25 .. 15..",
-    "translation": "I am without any support, and I am the support of all. I have no desires to be fulfilled. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 15,
+    "chapter_number": 1,
+    "sanskrit_shloka": "निराधारस्वरूपोऽहं सर्वाधारोऽहमेव च ।\nआप्तकामस्वरूपोऽहमहमेवाहमव्ययः ॥ १५॥",
+    "text": "निराधारस्वरूपोऽहं सर्वाधारोऽहमेव च ।\nआप्तकामस्वरूपोऽहमहमेवाहमव्ययः ॥ १५॥",
+    "transliteration": "nirādhārasvarūpo'haṃ sarvādhāro'hameva ca .\nāptakāmasvarūpo'hamahamevāhamavyayaḥ .. 15..",
+    "section_title": "",
+    "summary_line": "The Self is unsupported, all-supporting, desireless, and eternally unchanging.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Niradhara",
+      "Sarvadhara",
+      "Aptakama",
+      "Avyaya",
+      "Atman",
+      "Svarupa",
+      "Brahman"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am without any support, and I am the support of all. I have no desires to be fulfilled. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am without any support, and I am the support of all. I am of the nature of one whose desires are fully fulfilled. I am indeed the Self, indestructible and changeless."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं बिना किसी आधार के स्वरूप हूँ, और मैं सभी का आधार हूँ। मैं समस्त कामनाओं को पूर्ण कर चुका स्वरूप हूँ। मैं ही स्वयं अविनाशी और अपरिवर्तनशील स्वरूप हूँ।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "निराधारस्वरूपोऽहम्",
+        "word_english": "I am of the nature of having no support<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं बिना किसी आधार के स्वरूप हूँ</div>",
+        "transliteration": "nirādhārasvarūpo'ham",
+        "grammar_role": "nirādhārasvarūpo'ham"
+      },
+      {
+        "word_sanskrit": "सर्वाधारोऽहमेव च",
+        "word_english": "I am indeed the support of all<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं सभी का आधार हूँ</div>",
+        "transliteration": "sarvādhāro'hameva ca",
+        "grammar_role": "sarvādhāro'hameva ca"
+      },
+      {
+        "word_sanskrit": "आप्तकामस्वरूपोऽहम्",
+        "word_english": "I am of the nature of one whose desires are fully fulfilled<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं समस्त कामनाओं को पूर्ण कर चुका स्वरूप हूँ</div>",
+        "transliteration": "āptakāmasvarūpo'ham",
+        "grammar_role": "āptakāmasvarūpo'ham"
+      },
+      {
+        "word_sanskrit": "अहमेवाहमव्ययः",
+        "word_english": "I am indeed the Self, indestructible and unchanging<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं ही स्वयं अविनाशी और अपरिवर्तनशील स्वरूप हूँ</div>",
+        "transliteration": "ahamevāhamavyayaḥ",
+        "grammar_role": "ahamevāhamavyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 15,
+      "chapter_number": 1,
+      "summary_line": "The Self is unsupported, all-supporting, desireless, and eternally unchanging.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Niradhara",
+        "Sarvadhara",
+        "Aptakama",
+        "Avyaya",
+        "Atman",
+        "Svarupa",
+        "Brahman"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_16",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 16,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0924\u093e\u092a\u0924\u094d\u0930\u092f\u0935\u093f\u0928\u093f\u0930\u094d\u092e\u0941\u0915\u094d\u0924\u094b \u0926\u0947\u0939\u0924\u094d\u0930\u092f\u0935\u093f\u0932\u0915\u094d\u0937\u0923\u0903 \u0964\n\u0905\u0935\u0938\u094d\u0925\u093e\u0924\u094d\u0930\u092f\u0938\u093e\u0915\u094d\u0937\u094d\u092f\u0938\u094d\u092e\u093f \u091a\u093e\u0939\u092e\u0947\u0935\u093e\u0939\u092e\u0935\u094d\u092f\u092f\u0903 \u0965 \u0967\u096c\u0965",
-    "transliteration": "t\u0101patrayavinirmukto dehatrayavilak\u1e63a\u1e47a\u1e25 .\navasth\u0101trayas\u0101k\u1e63yasmi c\u0101hamev\u0101hamavyaya\u1e25 .. 16..",
-    "translation": "I am free from the three kinds of afflictions- those in the body, those from other beings and those caused by higher powers. I am different from the gross, subtle and causal bodies. I am the witness of the three states of waking, dream and deep sleep. I am the very Self, indestructible and changeless.",
-    "word_by_word": [],
+    "verse_number": 16,
+    "chapter_number": 1,
+    "sanskrit_shloka": "तापत्रयविनिर्मुक्तो देहत्रयविलक्षणः ।\nअवस्थात्रयसाक्ष्यस्मि चाहमेवाहमव्ययः ॥ १६॥",
+    "text": "तापत्रयविनिर्मुक्तो देहत्रयविलक्षणः ।\nअवस्थात्रयसाक्ष्यस्मि चाहमेवाहमव्ययः ॥ १६॥",
+    "transliteration": "tāpatrayavinirmukto dehatrayavilakṣaṇaḥ .\navasthātrayasākṣyasmi cāhamevāhamavyayaḥ .. 16..",
+    "section_title": "",
+    "summary_line": "The Self is eternally free, distinct from all bodies and states, and is the unchanging witness.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Tāpatraya",
+      "Dehatraya",
+      "Avasthātraya",
+      "Sākṣī",
+      "Avyaya",
+      "Ātman",
+      "Vilakṣaṇa",
+      "Adhyāsa",
+      "Apavāda"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I am free from the three kinds of afflictions- those in the body, those from other beings and those caused by higher powers. I am different from the gross, subtle and causal bodies. I am the witness of the three states of waking, dream and deep sleep. I am the very Self, indestructible and changeless."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I am free from the threefold afflictions—those arising from the body, from other beings, and from divine forces. I am distinct from the gross, subtle, and causal bodies. I am the witness of the three states of waking, dreaming, and deep sleep. I am indeed the Self, imperishable and unchanging."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं त्रिविध तापों—शरीर से, अन्य प्राणियों से और दिव्य शक्तियों से उत्पन्न होने वाले—से मुक्त हूँ। मैं स्थूल, सूक्ष्म और कारण शरीरों से भिन्न हूँ। मैं जाग्रत, स्वप्न और सुषुप्ति अवस्थाओं का साक्षी हूँ। मैं निश्चय ही अक्षय और अपरिवर्तनशील आत्मा हूँ।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "तापत्रयविनिर्मुक्तः",
+        "word_english": "Free from the threefold afflictions<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>त्रिविध तापों से मुक्त</div>",
+        "transliteration": "tāpatrayavinirmuktaḥ",
+        "grammar_role": "tāpatrayavinirmuktaḥ"
+      },
+      {
+        "word_sanskrit": "देहत्रयविलक्षणः",
+        "word_english": "Distinct from the three bodies<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>स्थूल, सूक्ष्म और कारण शरीरों से भिन्न</div>",
+        "transliteration": "dehatrayavilakṣaṇaḥ",
+        "grammar_role": "dehatrayavilakṣaṇaḥ"
+      },
+      {
+        "word_sanskrit": "अवस्थात्रयसाक्ष्यस्मि",
+        "word_english": "I am the witness of the three states<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं जाग्रत, स्वप्न और सुषुप्ति अवस्थाओं का साक्षी हूँ</div>",
+        "transliteration": "avasthātrayasākṣyasmī",
+        "grammar_role": "avasthātrayasākṣyasmī"
+      },
+      {
+        "word_sanskrit": "चाहमेवाहमव्ययः",
+        "word_english": "I am indeed the Self, imperishable<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं निश्चय ही आत्मा हूँ, अक्षय</div>",
+        "transliteration": "cāhaṃevāhamavyayaḥ",
+        "grammar_role": "cāhaṃevāhamavyayaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 16,
+      "chapter_number": 1,
+      "summary_line": "The Self is eternally free, distinct from all bodies and states, and is the unchanging witness.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Brihadaranyaka Upanishad 2.5.19, Mandukya Upanishad 7, Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Tāpatraya",
+        "Dehatraya",
+        "Avasthātraya",
+        "Sākṣī",
+        "Avyaya",
+        "Ātman",
+        "Vilakṣaṇa",
+        "Adhyāsa",
+        "Apavāda"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_17",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 17,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0926\u0943\u0917\u094d\u0926\u0943\u0936\u094d\u092f\u094c \u0926\u094d\u0935\u094c \u092a\u0926\u093e\u0930\u094d\u0925\u094c \u0938\u094d\u0924\u0903 \u092a\u0930\u0938\u094d\u092a\u0930\u0935\u093f\u0932\u0915\u094d\u0937\u0923\u094c \u0964\n\u0926\u0943\u0917\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0926\u0943\u0936\u094d\u092f\u0902 \u092e\u093e\u092f\u0947\u0924\u093f \u0938\u0930\u094d\u0935\u0935\u0947\u0926\u093e\u0928\u094d\u0924\u0921\u093f\u0923\u094d\u0921\u093f\u092e\u0903 \u0965 \u0967\u096d\u0965",
-    "transliteration": "d\u1e5bgd\u1e5b\u015byau dvau pad\u0101rthau sta\u1e25 parasparavilak\u1e63a\u1e47au .\nd\u1e5bgbrahma d\u1e5b\u015bya\u1e43 m\u0101yeti sarvaved\u0101nta\u1e0di\u1e47\u1e0dima\u1e25 .. 17..",
-    "translation": "There are two things which are different from each other. They are the seer and the seen. The seer is Brahman and the seen is Maya. This is what all Vedanta proclaims.",
-    "word_by_word": [],
+    "verse_number": 17,
+    "chapter_number": 1,
+    "sanskrit_shloka": "दृग्दृश्यौ द्वौ पदार्थौ स्तः परस्परविलक्षणौ ।\nदृग्ब्रह्म दृश्यं मायेति सर्ववेदान्तडिण्डिमः ॥ १७॥",
+    "text": "दृग्दृश्यौ द्वौ पदार्थौ स्तः परस्परविलक्षणौ ।\nदृग्ब्रह्म दृश्यं मायेति सर्ववेदान्तडिण्डिमः ॥ १७॥",
+    "transliteration": "dṛgdṛśyau dvau padārthau staḥ parasparavilakṣaṇau .\ndṛgbrahma dṛśyaṃ māyeti sarvavedāntaḍiṇḍimaḥ .. 17..",
+    "section_title": "",
+    "summary_line": "The seer (Brahman) and the seen (Maya) are eternally distinct — the core of Vedanta’s non-dual teaching.",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Dṛg",
+      "Dṛśya",
+      "Brahman",
+      "Māyā",
+      "Vilakṣaṇa",
+      "Advaita",
+      "Padaartha"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "There are two things which are different from each other. They are the seer and the seen. The seer is Brahman and the seen is Maya. This is what all Vedanta proclaims."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The seer and the seen are two distinct entities. The seer is Brahman, and the seen is Maya. This is the universal proclamation of all Vedanta."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "द्रष्टा और दृश्य दो भिन्न पदार्थ हैं। द्रष्टा ब्रह्म है और दृश्य माया है। यह समस्त वेदान्त की सार्वभौमिक घोषणा है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "दृग्दृश्यौ",
+        "word_english": "The seer and the seen (dual compound)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>द्रष्टा और दृश्य</div>",
+        "transliteration": "dṛg-dṛśyau",
+        "grammar_role": "dṛg-dṛśyau"
+      },
+      {
+        "word_sanskrit": "द्वौ",
+        "word_english": "two<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>दो</div>",
+        "transliteration": "dvau",
+        "grammar_role": "dvau"
+      },
+      {
+        "word_sanskrit": "पदार्थौ",
+        "word_english": "two entities or objects<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>दो पदार्थ</div>",
+        "transliteration": "padārthau",
+        "grammar_role": "padārthau"
+      },
+      {
+        "word_sanskrit": "स्तः",
+        "word_english": "are (exist)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>हैं</div>",
+        "transliteration": "staḥ",
+        "grammar_role": "staḥ"
+      },
+      {
+        "word_sanskrit": "परस्परविलक्षणौ",
+        "word_english": "mutually distinct or fundamentally different<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>परस्पर भिन्न</div>",
+        "transliteration": "paraspara-vilakṣaṇau",
+        "grammar_role": "paraspara-vilakṣaṇau"
+      },
+      {
+        "word_sanskrit": "दृग्ब्रह्म",
+        "word_english": "The seer is Brahman<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>द्रष्टा ब्रह्म है</div>",
+        "transliteration": "dṛg-brahma",
+        "grammar_role": "dṛg-brahma"
+      },
+      {
+        "word_sanskrit": "दृश्यं",
+        "word_english": "the seen<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>दृश्य</div>",
+        "transliteration": "dṛśyaṃ",
+        "grammar_role": "dṛśyaṃ"
+      },
+      {
+        "word_sanskrit": "मायेति",
+        "word_english": "is Maya (thus)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>माया है</div>",
+        "transliteration": "māyeti",
+        "grammar_role": "māyeti"
+      },
+      {
+        "word_sanskrit": "सर्ववेदान्तडिण्डिमः",
+        "word_english": "the drumbeat of all Vedanta (i.e., the universal proclamation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>समस्त वेदान्त की घंटी या घोषणा</div>",
+        "transliteration": "sarva-vedānta-ḍiṇḍimaḥ",
+        "grammar_role": "sarva-vedānta-ḍiṇḍimaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 17,
+      "chapter_number": 1,
+      "summary_line": "The seer (Brahman) and the seen (Maya) are eternally distinct — the core of Vedanta’s non-dual teaching.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Bhagavad Gita 13.2-3 resonance (kṣetra-kṣetrajña distinction), Mandukya Upanishad 2.1 echo (subject-object duality)",
+      "keywords_sanskrit": [
+        "Dṛg",
+        "Dṛśya",
+        "Brahman",
+        "Māyā",
+        "Vilakṣaṇa",
+        "Advaita",
+        "Padaartha"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_18",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 18,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0905\u0939\u0902 \u0938\u093e\u0915\u094d\u0937\u0940\u0924\u093f \u092f\u094b \u0935\u093f\u0926\u094d\u092f\u093e\u0926\u094d\u0935\u093f\u0935\u093f\u091a\u094d\u092f\u0948\u0935\u0902 \u092a\u0941\u0928\u0903 \u092a\u0941\u0928\u0903 \u0964\n\u0938 \u090f\u0935 \u092e\u0941\u0915\u094d\u0924\u0903 \u0938\u094b \u0935\u093f\u0926\u094d\u0935\u093e\u0928\u093f\u0924\u093f \u0935\u0947\u0926\u093e\u0928\u094d\u0924\u0921\u093f\u0923\u094d\u0921\u093f\u092e\u0903 \u0965 \u0967\u096e\u0965",
-    "transliteration": "aha\u1e43 s\u0101k\u1e63\u012bti yo vidy\u0101dvivicyaiva\u1e43 puna\u1e25 puna\u1e25 .\nsa eva mukta\u1e25 so vidv\u0101niti ved\u0101nta\u1e0di\u1e47\u1e0dima\u1e25 .. 18..",
-    "translation": "He who realizes after repeated contemplation that he is a mere witness, he alone is liberated. He is the enlightened one. This is proclaimed by Vedanta",
-    "word_by_word": [],
+    "verse_number": 18,
+    "chapter_number": 1,
+    "sanskrit_shloka": "अहं साक्षीति यो विद्याद्विविच्यैवं पुनः पुनः ।\nस एव मुक्तः सो विद्वानिति वेदान्तडिण्डिमः ॥ १८॥",
+    "text": "अहं साक्षीति यो विद्याद्विविच्यैवं पुनः पुनः ।\nस एव मुक्तः सो विद्वानिति वेदान्तडिण्डिमः ॥ १८॥",
+    "transliteration": "ahaṃ sākṣīti yo vidyādvivicyaivaṃ punaḥ punaḥ .\nsa eva muktaḥ so vidvāniti vedāntaḍiṇḍimaḥ .. 18..",
+    "section_title": "",
+    "summary_line": "Liberation comes through the repeated realization of oneself as the pure witness (Sākṣī).",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Sākṣī",
+      "Mukti",
+      "Vidvān",
+      "Vivicya",
+      "Vedānta",
+      "Adhyāsa",
+      "Apavāda"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "He who realizes after repeated contemplation that he is a mere witness, he alone is liberated. He is the enlightened one. This is proclaimed by Vedanta"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "He who realizes, after repeated discrimination, that he is the witness alone, he is liberated; he is the enlightened one. This is the drumbeat of Vedanta."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जो व्यक्ति पुनः-पुनः विवेक करके अपने आपको केवल साक्षी के रूप में जान जाता है, वही मुक्त है; वही ज्ञानी है। यह वेदान्त का डंका है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "अहम्",
+        "word_english": "I<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं</div>",
+        "transliteration": "aham",
+        "grammar_role": "aham"
+      },
+      {
+        "word_sanskrit": "साक्षी",
+        "word_english": "witness<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>साक्षी</div>",
+        "transliteration": "sākṣī",
+        "grammar_role": "sākṣī"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>इस प्रकार</div>",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "यः",
+        "word_english": "who<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>जो</div>",
+        "transliteration": "yaḥ",
+        "grammar_role": "yaḥ"
+      },
+      {
+        "word_sanskrit": "विद्यात्",
+        "word_english": "knows/realizes<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>जानता है</div>",
+        "transliteration": "vidyāt",
+        "grammar_role": "vidyāt"
+      },
+      {
+        "word_sanskrit": "विविच्य",
+        "word_english": "after discriminating/repeatedly investigating<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>पुनः-पुनः विवेक करके</div>",
+        "transliteration": "vivicya",
+        "grammar_role": "vivicya"
+      },
+      {
+        "word_sanskrit": "एवं",
+        "word_english": "in this way<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>इस प्रकार</div>",
+        "transliteration": "evaṃ",
+        "grammar_role": "evaṃ"
+      },
+      {
+        "word_sanskrit": "पुनः",
+        "word_english": "again<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>पुनः</div>",
+        "transliteration": "punar",
+        "grammar_role": "punar"
+      },
+      {
+        "word_sanskrit": "पुनः",
+        "word_english": "again<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>पुनः</div>",
+        "transliteration": "punar",
+        "grammar_role": "punar"
+      },
+      {
+        "word_sanskrit": "सः",
+        "word_english": "he<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वह</div>",
+        "transliteration": "saḥ",
+        "grammar_role": "saḥ"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "alone<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ही</div>",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "मुक्तः",
+        "word_english": "liberated<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मुक्त</div>",
+        "transliteration": "muktaḥ",
+        "grammar_role": "muktaḥ"
+      },
+      {
+        "word_sanskrit": "सः",
+        "word_english": "he<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वह</div>",
+        "transliteration": "saḥ",
+        "grammar_role": "saḥ"
+      },
+      {
+        "word_sanskrit": "विद्वान्",
+        "word_english": "the enlightened one<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ज्ञानी</div>",
+        "transliteration": "vidvān",
+        "grammar_role": "vidvān"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>इस प्रकार</div>",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "वेदान्त",
+        "word_english": "Vedanta<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वेदान्त</div>",
+        "transliteration": "vedānta",
+        "grammar_role": "vedānta"
+      },
+      {
+        "word_sanskrit": "डिण्डिमः",
+        "word_english": "drum (metaphor for proclamation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>डंका (घोषणा का प्रतीक)</div>",
+        "transliteration": "ḍiṇḍimaḥ",
+        "grammar_role": "ḍiṇḍimaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 18,
+      "chapter_number": 1,
+      "summary_line": "Liberation comes through the repeated realization of oneself as the pure witness (Sākṣī).",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Bhagavad Gita 13.22-23 resonance, Mandukya Upanishad 7 echo, Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Sākṣī",
+        "Mukti",
+        "Vidvān",
+        "Vivicya",
+        "Vedānta",
+        "Adhyāsa",
+        "Apavāda"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_19",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 19,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0918\u091f\u0915\u0941\u0921\u094d\u092f\u093e\u0926\u093f\u0915\u0902 \u0938\u0930\u094d\u0935\u0902 \u092e\u0943\u0924\u094d\u0924\u093f\u0915\u093e\u092e\u093e\u0924\u094d\u0930\u092e\u0947\u0935 \u091a \u0964\n\u0924\u0926\u094d\u0935\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u091c\u0917\u0924\u094d\u0938\u0930\u094d\u0935\u092e\u093f\u0924\u093f \u0935\u0947\u0926\u093e\u0928\u094d\u0924\u0921\u093f\u0923\u094d\u0921\u093f\u092e\u0903 \u0965 \u0967\u096f\u0965",
-    "transliteration": "gha\u1e6daku\u1e0dy\u0101dika\u1e43 sarva\u1e43 m\u1e5bttik\u0101m\u0101trameva ca .\ntadvadbrahma jagatsarvamiti ved\u0101nta\u1e0di\u1e47\u1e0dima\u1e25 .. 19..",
-    "translation": "The pot, wall, etc., are all nothing but clay. Likewise, the entire universe is nothing but Brahman. This is proclaimed by Vedanta.",
-    "word_by_word": [],
+    "verse_number": 19,
+    "chapter_number": 1,
+    "sanskrit_shloka": "घटकुड्यादिकं सर्वं मृत्तिकामात्रमेव च ।\nतद्वद्ब्रह्म जगत्सर्वमिति वेदान्तडिण्डिमः ॥ १९॥",
+    "text": "घटकुड्यादिकं सर्वं मृत्तिकामात्रमेव च ।\nतद्वद्ब्रह्म जगत्सर्वमिति वेदान्तडिण्डिमः ॥ १९॥",
+    "transliteration": "ghaṭakuḍyādikaṃ sarvaṃ mṛttikāmātrameva ca .\ntadvadbrahma jagatsarvamiti vedāntaḍiṇḍimaḥ .. 19..",
+    "section_title": "",
+    "summary_line": "All phenomena are non-different from their material cause, just as the universe is non-different from Brahman.",
+    "sadhana_stage": "Manana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Karya-Karana-Ananya",
+      "Mithya",
+      "Brahman",
+      "Jagat",
+      "Upadana-Karana",
+      "Vivarta",
+      "Anirvachaniya"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "The pot, wall, etc., are all nothing but clay. Likewise, the entire universe is nothing but Brahman. This is proclaimed by Vedanta."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The pot, wall, and similar things are all nothing but clay. In the same way, the entire universe is nothing but Brahman. This is the resounding proclamation of Vedanta."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "घट, दीवार आदि सभी केवल मिट्टी के समान हैं। इसी प्रकार, पूरा ब्रह्माण्ड केवल ब्रह्म के समान है। यह वेदान्त की घोषणा है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "घटकुड्यादिकं",
+        "word_english": "Pot, wall, and similar things<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>घट, दीवार आदि वस्तुएँ</div>",
+        "transliteration": "ghaṭakuḍyādikaṃ",
+        "grammar_role": "ghaṭakuḍyādikaṃ"
+      },
+      {
+        "word_sanskrit": "सर्वं",
+        "word_english": "all<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सभी</div>",
+        "transliteration": "sarvaṃ",
+        "grammar_role": "sarvaṃ"
+      },
+      {
+        "word_sanskrit": "मृत्तिकामात्रमेव",
+        "word_english": "nothing but clay alone<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>केवल मिट्टी के समान</div>",
+        "transliteration": "mṛttikāmātrameva",
+        "grammar_role": "mṛttikāmātrameva"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>और</div>",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "तद्वत्",
+        "word_english": "in the same manner<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>इसी प्रकार</div>",
+        "transliteration": "tadvat",
+        "grammar_role": "tadvat"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ब्रह्म</div>",
+        "transliteration": "brahma",
+        "grammar_role": "brahma"
+      },
+      {
+        "word_sanskrit": "जगत्सर्वम्",
+        "word_english": "the entire universe<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>पूरा ब्रह्माण्ड</div>",
+        "transliteration": "jagatsarvam",
+        "grammar_role": "jagatsarvam"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>इस प्रकार</div>",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "वेदान्तडिण्डिमः",
+        "word_english": "the drum of Vedanta (i.e., the resounding proclamation of Vedanta)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वेदान्त की घंटी/घोषणा</div>",
+        "transliteration": "vedāntaḍiṇḍimaḥ",
+        "grammar_role": "vedāntaḍiṇḍimaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 19,
+      "chapter_number": 1,
+      "summary_line": "All phenomena are non-different from their material cause, just as the universe is non-different from Brahman.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Chandogya Upanishad 6.1.4-6 resonance (satyam jnanam anantam brahma; clay and pot analogy)",
+      "mahavakya_correlative": "Tat Tvam Asi",
+      "keywords_sanskrit": [
+        "Karya-Karana-Ananya",
+        "Mithya",
+        "Brahman",
+        "Jagat",
+        "Upadana-Karana",
+        "Vivarta",
+        "Anirvachaniya"
+      ],
+      "sadhana_stage": "Manana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_20",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 20,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u092c\u094d\u0930\u0939\u094d\u092e \u0938\u0924\u094d\u092f\u0902 \u091c\u0917\u0928\u094d\u092e\u093f\u0925\u094d\u092f\u093e \u091c\u0940\u0935\u094b \u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935 \u0928\u093e\u092a\u0930\u0903 \u0964\n\u0905\u0928\u0947\u0928 \u0935\u0947\u0926\u094d\u092f\u0902 \u0938\u091a\u094d\u091b\u093e\u0938\u094d\u0924\u094d\u0930\u092e\u093f\u0924\u093f \u0935\u0947\u0926\u093e\u0928\u094d\u0924\u0921\u093f\u0923\u094d\u0921\u093f\u092e\u0903 \u0965 \u0968\u0966\u0965",
-    "transliteration": "brahma satya\u1e43 jaganmithy\u0101 j\u012bvo brahmaiva n\u0101para\u1e25 .\nanena vedya\u1e43 sacch\u0101stramiti ved\u0101nta\u1e0di\u1e47\u1e0dima\u1e25 .. 20..",
-    "translation": "Brahman is real, the universe is mithya (it cannot be categorized as either real or unreal). The jiva is Brahman itself and not different. This should be understood as the correct Sastra. This is proclaimed by Vedanta.",
-    "word_by_word": [],
+    "verse_number": 20,
+    "chapter_number": 1,
+    "sanskrit_shloka": "ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः ।\nअनेन वेद्यं सच्छास्त्रमिति वेदान्तडिण्डिमः ॥ २०॥",
+    "text": "ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः ।\nअनेन वेद्यं सच्छास्त्रमिति वेदान्तडिण्डिमः ॥ २०॥",
+    "transliteration": "brahma satyaṃ jaganmithyā jīvo brahmaiva nāparaḥ .\nanena vedyaṃ sacchāstramiti vedāntaḍiṇḍimaḥ .. 20..",
+    "section_title": "",
+    "summary_line": "Brahman alone is real; the world is illusory, and the individual self is non-different from Brahman.",
+    "sadhana_stage": "Shravana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Brahman",
+      "Satyam",
+      "Mithya",
+      "Jiva",
+      "Anatman",
+      "Adhyasa",
+      "Anirvachaniya",
+      "Vedanta",
+      "Saccidānanda"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Brahman is real, the universe is mithya (it cannot be categorized as either real or unreal). The jiva is Brahman itself and not different. This should be understood as the correct Sastra. This is proclaimed by Vedanta."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Brahman is real, the universe is mithya (neither real nor unreal), the individual soul is none other than Brahman. This is the true teaching to be known — such is the resounding drum of Vedanta."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "ब्रह्म सत्य है, जगत् मिथ्या (न तो सत्य और न ही असत्य), जीव केवल ब्रह्म ही है और कुछ और नहीं। यही जाने योग्य सत्य शास्त्र है — यही वेदान्त की गूंजती घोषणा है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman — the Absolute, non-dual Reality<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ब्रह्म — अनादि, अनन्त, अखण्ड सत्य</div>",
+        "transliteration": "brahma",
+        "grammar_role": "brahma"
+      },
+      {
+        "word_sanskrit": "सत्यं",
+        "word_english": "real, absolute existence<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सत्य — अखण्ड सत्ता</div>",
+        "transliteration": "satyaṁ",
+        "grammar_role": "satyaṁ"
+      },
+      {
+        "word_sanskrit": "जगत्",
+        "word_english": "the universe, the manifest world<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>जगत् — संसार, प्रपंच</div>",
+        "transliteration": "jagat",
+        "grammar_role": "jagat"
+      },
+      {
+        "word_sanskrit": "मिथ्या",
+        "word_english": "illusory, neither real nor unreal — dependent on Brahman<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मिथ्या — असत्य, ब्रह्म पर आश्रित, अनित्य</div>",
+        "transliteration": "mithyā",
+        "grammar_role": "mithyā"
+      },
+      {
+        "word_sanskrit": "जीवः",
+        "word_english": "the individual soul or embodied self<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>जीवः — जीवात्मा, व्यक्ति</div>",
+        "transliteration": "jīvaḥ",
+        "grammar_role": "jīvaḥ"
+      },
+      {
+        "word_sanskrit": "ब्रह्मैव",
+        "word_english": "Brahman alone, nothing but Brahman<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ब्रह्मैव — केवल ब्रह्म ही</div>",
+        "transliteration": "brahmaiva",
+        "grammar_role": "brahmaiva"
+      },
+      {
+        "word_sanskrit": "नापरः",
+        "word_english": "not other (i.e., not different)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>नापरः — अन्य नहीं</div>",
+        "transliteration": "nāparaḥ",
+        "grammar_role": "nāparaḥ"
+      },
+      {
+        "word_sanskrit": "अनेन",
+        "word_english": "by this<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अनेन — इससे</div>",
+        "transliteration": "anena",
+        "grammar_role": "anena"
+      },
+      {
+        "word_sanskrit": "वेद्यं",
+        "word_english": "to be known, the object of knowledge<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वेद्यं — ज्ञेय, जानने योग्य</div>",
+        "transliteration": "vedyaṁ",
+        "grammar_role": "vedyaṁ"
+      },
+      {
+        "word_sanskrit": "सच्छास्त्रम्",
+        "word_english": "true scripture, authentic teaching<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सच्छास्त्रम् — सत्य शास्त्र</div>",
+        "transliteration": "sacchāstram",
+        "grammar_role": "sacchāstram"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus, so<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>इति — इस प्रकार</div>",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "वेदान्तडिण्डिमः",
+        "word_english": "the drum of Vedanta — the resounding proclamation of Vedanta<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वेदान्तडिण्डिमः — वेदान्त की गूंजती घोषणा</div>",
+        "transliteration": "vedāntaḍiṇḍimaḥ",
+        "grammar_role": "vedāntaḍiṇḍimaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 20,
+      "chapter_number": 1,
+      "summary_line": "Brahman alone is real; the world is illusory, and the individual self is non-different from Brahman.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Brahma Sutra 1.1.2, Mandukya Upanishad 2, Vivekachudamani 17",
+      "mahavakya_correlative": "Tat Tvam Asi",
+      "keywords_sanskrit": [
+        "Brahman",
+        "Satyam",
+        "Mithya",
+        "Jiva",
+        "Anatman",
+        "Adhyasa",
+        "Anirvachaniya",
+        "Vedanta",
+        "Saccidānanda"
+      ],
+      "sadhana_stage": "Shravana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-brahma-jnanavali-mala_1_21",
-    "metadata": {
-      "scripture_name": "Brahma Jnanavali Mala",
-      "scripture_slug": "prakarana-brahma-jnanavali-mala",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 21,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0905\u0928\u094d\u0924\u0930\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0930\u094d\u092c\u0939\u093f\u0930\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0903 \u092a\u094d\u0930\u0924\u094d\u092f\u0917\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0903 \u092a\u0930\u093e\u0924\u094d\u092a\u0930\u0903 \u0964\n\u091c\u094d\u092f\u094b\u0924\u093f\u0930\u094d\u091c\u094d\u092f\u094b\u0924\u093f\u0903 \u0938\u094d\u0935\u092f\u0902\u091c\u094d\u092f\u094b\u0924\u093f\u0930\u093e\u0924\u094d\u092e\u091c\u094d\u092f\u094b\u0924\u093f\u0903 \u0936\u093f\u0935\u094b\u093d\u0938\u094d\u092e\u094d\u092f\u0939\u092e\u094d \u0965 \u0968\u0967\u0965",
-    "transliteration": "antarjyotirbahirjyoti\u1e25 pratyagjyoti\u1e25 par\u0101tpara\u1e25 .\njyotirjyoti\u1e25 svaya\u1e43jyotir\u0101tmajyoti\u1e25 \u015bivo'smyaham .. 21..",
-    "translation": "I am the auspicious one, the inner light and the outer light, the indwelling light, higher than the highest, the light of all lights, self-luminous, the light that is the Self.",
-    "word_by_word": [],
+    "verse_number": 21,
+    "chapter_number": 1,
+    "sanskrit_shloka": "अन्तर्ज्योतिर्बहिर्ज्योतिः प्रत्यग्ज्योतिः परात्परः ।\nज्योतिर्ज्योतिः स्वयंज्योतिरात्मज्योतिः शिवोऽस्म्यहम् ॥ २१॥",
+    "text": "अन्तर्ज्योतिर्बहिर्ज्योतिः प्रत्यग्ज्योतिः परात्परः ।\nज्योतिर्ज्योतिः स्वयंज्योतिरात्मज्योतिः शिवोऽस्म्यहम् ॥ २१॥",
+    "transliteration": "antarjyotirbahirjyotiḥ pratyagjyotiḥ parātparaḥ .\njyotirjyotiḥ svayaṃjyotirātmajyotiḥ śivo'smyaham .. 21..",
+    "section_title": "",
+    "summary_line": "The Self is the supreme, self-luminous, all-pervading Light beyond all dualities.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Jyotiḥ",
+      "Ātman",
+      "Paramārthika",
+      "Svayaṃjyotiḥ",
+      "Śiva",
+      "Antarjyotiḥ",
+      "Pratyagjyotiḥ"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
+        "author_name": "English Translation",
+        "language": "English",
         "text": "I am the auspicious one, the inner light and the outer light, the indwelling light, higher than the highest, the light of all lights, self-luminous, the light that is the Self."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैं शिव हूँ, आंतरिक प्रकाश और बाह्य प्रकाश, प्रत्यग्द्रष्टा प्रकाश, सर्वोच्चतम से भी उच्चतर, सभी प्रकाशों का प्रकाश, स्वयं प्रकाशमान, आत्मा का प्रकाश।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "अन्तर्ज्योतिः",
+        "word_english": "Inner light<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>आंतरिक प्रकाश</div>",
+        "transliteration": "antarjyotiḥ",
+        "grammar_role": "antarjyotiḥ"
+      },
+      {
+        "word_sanskrit": "बहिर्ज्योतिः",
+        "word_english": "Outer light<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>बाह्य प्रकाश</div>",
+        "transliteration": "bahirjyotiḥ",
+        "grammar_role": "bahirjyotiḥ"
+      },
+      {
+        "word_sanskrit": "प्रत्यग्ज्योतिः",
+        "word_english": "The inward-facing light (the Self as light)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>प्रत्यग्द्रष्टा प्रकाश</div>",
+        "transliteration": "pratyagjyotiḥ",
+        "grammar_role": "pratyagjyotiḥ"
+      },
+      {
+        "word_sanskrit": "परात्परः",
+        "word_english": "Higher than the highest<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सर्वोच्चतम</div>",
+        "transliteration": "parātparaḥ",
+        "grammar_role": "parātparaḥ"
+      },
+      {
+        "word_sanskrit": "ज्योतिर्ज्योतिः",
+        "word_english": "Light of all lights<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सभी प्रकाशों का प्रकाश</div>",
+        "transliteration": "jyotirjyotiḥ",
+        "grammar_role": "jyotirjyotiḥ"
+      },
+      {
+        "word_sanskrit": "स्वयंज्योतिः",
+        "word_english": "Self-luminous<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>स्वयं प्रकाशमान</div>",
+        "transliteration": "svayaṃjyotiḥ",
+        "grammar_role": "svayaṃjyotiḥ"
+      },
+      {
+        "word_sanskrit": "आत्मज्योतिः",
+        "word_english": "The light that is the Self<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>आत्मा का प्रकाश</div>",
+        "transliteration": "ātmajyotiḥ",
+        "grammar_role": "ātmajyotiḥ"
+      },
+      {
+        "word_sanskrit": "शिवोऽस्म्यहम्",
+        "word_english": "I am the auspicious one (Shiva)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मैं शिव हूँ, शुभ स्वरूप</div>",
+        "transliteration": "śivo'smyaham",
+        "grammar_role": "śivo'smyaham"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Brahma Jnanavali Mala",
+      "scripture_slug": "prakarana-brahma-jnanavali-mala",
+      "verse_number": 21,
+      "chapter_number": 1,
+      "summary_line": "The Self is the supreme, self-luminous, all-pervading Light beyond all dualities.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Kena Upanishad 2.5 'Yat chakshusaa na paśyati, sa devaḥ' and Mandukya Upanishad 7 'Aham Brahmasmi' resonance",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Jyotiḥ",
+        "Ātman",
+        "Paramārthika",
+        "Svayaṃjyotiḥ",
+        "Śiva",
+        "Antarjyotiḥ",
+        "Pratyagjyotiḥ"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-21)",
+      "chapter_slug": "part-1"
+    }
   }
 ]

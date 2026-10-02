@@ -1,0 +1,404 @@
+---
+import { scriptures } from '../data/scriptures';
+---
+
+<div id="searchModal" class="search-modal-backdrop" aria-hidden="true" role="dialog" aria-modal="true">
+  <div class="search-modal-container">
+    <div class="search-modal-card">
+      <!-- Search Input Header -->
+      <div class="search-input-wrapper">
+        <span class="search-input-icon">🔍</span>
+        <input 
+          type="text" 
+          id="globalSearchInput" 
+          class="global-search-input" 
+          placeholder="Search scriptures, Upanishads, Gita chapters, authors..." 
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <button id="closeSearchModalBtn" class="search-close-btn" aria-label="Close search">✕</button>
+      </div>
+
+      <!-- Quick Category Filter Chips -->
+      <div class="search-filters">
+        <button class="search-filter-chip active" data-filter="all">All ({scriptures.length})</button>
+        <button class="search-filter-chip" data-filter="advaita">Advaita Vedānta</button>
+        <button class="search-filter-chip" data-filter="itihasa">Itihāsas</button>
+        <button class="search-filter-chip" data-filter="purana">Purāṇas</button>
+        <button class="search-filter-chip" data-filter="yoga">Yoga Scriptures</button>
+      </div>
+
+      <!-- Results List -->
+      <div id="searchResultsList" class="search-results-list">
+        <!-- Injected via client script -->
+      </div>
+
+      <!-- Search Footer with Shortcuts -->
+      <div class="search-modal-footer">
+        <span><kbd>Esc</kbd> to close</span>
+        <span><kbd>↑</kbd> <kbd>↓</kbd> to navigate</span>
+        <span><kbd>Enter</kbd> to select</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .search-modal-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 90;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 1.5rem 1rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+  }
+
+  .search-modal-backdrop.open {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .search-modal-container {
+    width: 100%;
+    max-width: 640px;
+    margin-top: 5vh;
+  }
+
+  .search-modal-card {
+    background: var(--bg-surface-elevated);
+    border: 1px solid var(--border-active);
+    border-radius: var(--radius-lg);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    max-height: 80vh;
+  }
+
+  .search-input-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .search-input-icon {
+    font-size: 1.25rem;
+    opacity: 0.7;
+  }
+
+  .global-search-input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--text-primary);
+    font-family: inherit;
+    font-size: 1.05rem;
+  }
+
+  .global-search-input::placeholder {
+    color: var(--text-muted);
+  }
+
+  .search-close-btn {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-sm);
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    transition: all var(--transition-fast);
+  }
+
+  .search-close-btn:hover {
+    color: var(--text-primary);
+    background: var(--bg-surface);
+  }
+
+  .search-filters {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.6rem 1.25rem;
+    border-bottom: 1px solid var(--border-subtle);
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .search-filters::-webkit-scrollbar {
+    display: none;
+  }
+
+  .search-filter-chip {
+    padding: 0.3rem 0.75rem;
+    border-radius: var(--radius-pill);
+    font-size: 0.75rem;
+    font-weight: 600;
+    white-space: nowrap;
+    border: 1px solid var(--border-subtle);
+    background: var(--bg-surface);
+    color: var(--text-secondary);
+    transition: all var(--transition-fast);
+  }
+
+  .search-filter-chip:hover,
+  .search-filter-chip.active {
+    background: var(--saffron);
+    color: #fff;
+    border-color: var(--saffron);
+  }
+
+  .search-results-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0.5rem;
+  }
+
+  .search-result-item {
+    display: block;
+    padding: 0.85rem 1rem;
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: background 0.15s ease;
+    margin-bottom: 0.25rem;
+  }
+
+  .search-result-item:hover,
+  .search-result-item.selected {
+    background: var(--bg-surface);
+  }
+
+  .search-result-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.25rem;
+  }
+
+  .result-title {
+    font-family: var(--font-serif-title);
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--text-primary);
+  }
+
+  .result-badge {
+    font-size: 0.68rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0.15rem 0.5rem;
+    border-radius: var(--radius-pill);
+    background: var(--saffron-subtle);
+    color: var(--saffron);
+  }
+
+  .result-sanskrit {
+    font-family: var(--font-devanagari);
+    font-size: 0.85rem;
+    color: var(--gold);
+    margin-bottom: 0.2rem;
+  }
+
+  .result-snippet {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .search-empty {
+    padding: 2.5rem 1rem;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+  }
+
+  .search-modal-footer {
+    display: none;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.6rem 1.25rem;
+    border-top: 1px solid var(--border-subtle);
+    font-size: 0.72rem;
+    color: var(--text-muted);
+  }
+
+  @media (min-width: 640px) {
+    .search-modal-footer {
+      display: flex;
+    }
+  }
+
+  .search-modal-footer kbd {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    font-family: inherit;
+  }
+</style>
+
+<script is:inline define:vars={{ scriptures }}>
+  (function() {
+    const modal = document.getElementById('searchModal');
+    const input = document.getElementById('globalSearchInput');
+    const closeBtn = document.getElementById('closeSearchModalBtn');
+    const resultsContainer = document.getElementById('searchResultsList');
+    const filterChips = document.querySelectorAll('.search-filter-chip');
+
+    let currentFilter = 'all';
+    let selectedIndex = 0;
+    let filteredResults = [];
+
+    function openModal() {
+      if (!modal) return;
+      modal.classList.add('open');
+      modal.setAttribute('aria-hidden', 'false');
+      renderResults();
+      setTimeout(() => input && input.focus(), 50);
+    }
+
+    function closeModal() {
+      if (!modal) return;
+      modal.classList.remove('open');
+      modal.setAttribute('aria-hidden', 'true');
+      if (input) input.value = '';
+    }
+
+    window.addEventListener('open-search-modal', openModal);
+
+    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+
+    if (modal) {
+      modal.addEventListener('click', (e) => {
+        if (e.target === modal) closeModal();
+      });
+    }
+
+    window.addEventListener('keydown', (e) => {
+      if (!modal || !modal.classList.contains('open')) return;
+
+      if (e.key === 'Escape') {
+        closeModal();
+      } else if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        if (filteredResults.length > 0) {
+          selectedIndex = (selectedIndex + 1) % filteredResults.length;
+          updateSelectedHighlight();
+        }
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        if (filteredResults.length > 0) {
+          selectedIndex = (selectedIndex - 1 + filteredResults.length) % filteredResults.length;
+          updateSelectedHighlight();
+        }
+      } else if (e.key === 'Enter') {
+        e.preventDefault();
+        const items = resultsContainer?.querySelectorAll('.search-result-item');
+        if (items && items[selectedIndex]) {
+          items[selectedIndex].click();
+        }
+      }
+    });
+
+    filterChips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        filterChips.forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        currentFilter = chip.getAttribute('data-filter') || 'all';
+        renderResults();
+      });
+    });
+
+    if (input) {
+      input.addEventListener('input', () => {
+        selectedIndex = 0;
+        renderResults();
+      });
+    }
+
+    function renderResults() {
+      if (!resultsContainer) return;
+      const query = (input?.value || '').trim().toLowerCase();
+
+      filteredResults = scriptures.filter(s => {
+        if (currentFilter !== 'all' && s.tradition !== currentFilter) {
+          return false;
+        }
+        if (!query) return true;
+
+        const inName = s.name.toLowerCase().includes(query);
+        const inSanskrit = s.name_sanskrit?.toLowerCase().includes(query);
+        const inAuthor = s.author?.toLowerCase().includes(query);
+        const inCategory = s.category?.toLowerCase().includes(query);
+        const inDesc = s.description?.toLowerCase().includes(query);
+
+        // Check chapters
+        const inChapters = s.chapters?.some(ch => 
+          ch.name.toLowerCase().includes(query) || 
+          ch.name_sanskrit.toLowerCase().includes(query) ||
+          ch.summary.toLowerCase().includes(query)
+        );
+
+        return inName || inSanskrit || inAuthor || inCategory || inDesc || inChapters;
+      });
+
+      if (filteredResults.length === 0) {
+        resultsContainer.innerHTML = `
+          <div class="search-empty">
+            <p>No scriptures found matching "${query}".</p>
+            <p style="font-size: 0.8rem; margin-top: 0.4rem; opacity: 0.7;">Try searching for "Gita", "Mandukya", "Shankara", or "Yoga".</p>
+          </div>
+        `;
+        return;
+      }
+
+      resultsContainer.innerHTML = filteredResults.map((s, idx) => `
+        <a 
+          href="/read/${s.id}" 
+          class="search-result-item ${idx === selectedIndex ? 'selected' : ''}"
+          data-index="${idx}"
+        >
+          <div class="search-result-header">
+            <span class="result-title">${s.name}</span>
+            <span class="result-badge">${s.traditionLabel}</span>
+          </div>
+          ${s.name_sanskrit ? `<div class="result-sanskrit">${s.name_sanskrit}</div>` : ''}
+          <div class="result-snippet">${s.chapters_count} Chapters • ${s.total_verses} Verses — ${s.author}</div>
+        </a>
+      `).join('');
+
+      updateSelectedHighlight();
+    }
+
+    function updateSelectedHighlight() {
+      const items = resultsContainer?.querySelectorAll('.search-result-item');
+      if (!items) return;
+      items.forEach((item, idx) => {
+        if (idx === selectedIndex) {
+          item.classList.add('selected');
+          item.scrollIntoView({ block: 'nearest' });
+        } else {
+          item.classList.remove('selected');
+        }
+      });
+    }
+
+    // Initial render
+    renderResults();
+  })();
+</script>

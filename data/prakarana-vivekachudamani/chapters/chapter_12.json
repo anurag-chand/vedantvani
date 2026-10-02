@@ -1,722 +1,4501 @@
 [
   {
-    "id": "prakarana-vivekachudamani_12_551",
+    "id": "prakarana-vivekachudamani_12_1",
+    "verse_number": 551,
+    "chapter_number": 12,
+    "sanskrit_shloka": "प्रारब्धकर्मपरिकल्पितवासनाभिः संसारिवच्चरति भुक्तिषु मुक्तदेहः । सिद्धः स्वयं वसति साक्षिवदत्र तूष्णीं चक्रस्य मूलमिव कल्पविकल्पशून्यः ॥ ५५१ ॥",
+    "text": "प्रारब्धकर्मपरिकल्पितवासनाभिः संसारिवच्चरति भुक्तिषु मुक्तदेहः । सिद्धः स्वयं वसति साक्षिवदत्र तूष्णीं चक्रस्य मूलमिव कल्पविकल्पशून्यः ॥ ५५१ ॥",
+    "transliteration": "prārabdhakarmaparikalpitavāsanābhiḥ saṃsārivaccarati bhuktiṣu muktadehaḥ | siddhaḥ svayaṃ vasati sākṣivadatra tūṣṇīṃ cakrasya mūlamiva kalpavikalpaśūnyaḥ || 551 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Prārabdha-karma",
+      "Vāsanā",
+      "Mukta-deha",
+      "Sākṣin",
+      "Kalpa-vikalpa",
+      "Jīvanmukti",
+      "Anātman"
+    ],
+    "translations": [
+      {
+        "author": "English Translation",
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The liberated one, though possessing a body, moves among enjoyments as if bound by worldly desires, driven by latent tendencies imagined by prārabdha karma; yet he himself abides silently, like the root of a wheel, as the witness—devoid of all imaginations and distinctions."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मुक्तदेह व्यक्ति, भोगों के बीच चलता है, जैसे प्रारब्ध कर्म द्वारा कल्पित वासनाओं से बंधा हुआ हो; परन्तु वह स्वयं साक्षी की तरह शांति से रहता है, जैसे चक्र की जड़—सभी कल्पनाओं और विकल्पों से रहित।"
+      }
+    ],
+    "commentaries": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्रारब्धकर्म",
+        "word_english": "prārabdha-karma",
+        "transliteration": "prārabdhakarma",
+        "grammar_role": "prārabdhakarma"
+      },
+      {
+        "word_sanskrit": "परिकल्पित",
+        "word_english": "imagined",
+        "transliteration": "parikalpita",
+        "grammar_role": "parikalpita"
+      },
+      {
+        "word_sanskrit": "वासनाभिः",
+        "word_english": "by-latent-tendencies",
+        "transliteration": "vāsanābhiḥ",
+        "grammar_role": "vāsanābhiḥ"
+      },
+      {
+        "word_sanskrit": "संसारिवत्",
+        "word_english": "as-bound-in-worldly-life",
+        "transliteration": "saṃsārivat",
+        "grammar_role": "saṃsārivat"
+      },
+      {
+        "word_sanskrit": "चरति",
+        "word_english": "moves",
+        "transliteration": "carati",
+        "grammar_role": "carati"
+      },
+      {
+        "word_sanskrit": "भुक्तिषु",
+        "word_english": "in-enjoyments",
+        "transliteration": "bhuktiṣu",
+        "grammar_role": "bhuktiṣu"
+      },
+      {
+        "word_sanskrit": "मुक्तदेहः",
+        "word_english": "liberated-body",
+        "transliteration": "muktadehaḥ",
+        "grammar_role": "muktadehaḥ"
+      },
+      {
+        "word_sanskrit": "सिद्धः",
+        "word_english": "perfected",
+        "transliteration": "siddhaḥ",
+        "grammar_role": "siddhaḥ"
+      },
+      {
+        "word_sanskrit": "स्वयं",
+        "word_english": "himself",
+        "transliteration": "svayaṃ",
+        "grammar_role": "svayaṃ"
+      },
+      {
+        "word_sanskrit": "वसति",
+        "word_english": "abides",
+        "transliteration": "vasati",
+        "grammar_role": "vasati"
+      },
+      {
+        "word_sanskrit": "साक्षिवत्",
+        "word_english": "as-witness",
+        "transliteration": "sākṣivat",
+        "grammar_role": "sākṣivat"
+      },
+      {
+        "word_sanskrit": "अत्र",
+        "word_english": "here",
+        "transliteration": "atra",
+        "grammar_role": "atra"
+      },
+      {
+        "word_sanskrit": "तूष्णीं",
+        "word_english": "silently",
+        "transliteration": "tūṣṇīṃ",
+        "grammar_role": "tūṣṇīṃ"
+      },
+      {
+        "word_sanskrit": "चक्रस्य",
+        "word_english": "of-wheel",
+        "transliteration": "cakrasya",
+        "grammar_role": "cakrasya"
+      },
+      {
+        "word_sanskrit": "मूलमिव",
+        "word_english": "like-root",
+        "transliteration": "mūlamiva",
+        "grammar_role": "mūlamiva"
+      },
+      {
+        "word_sanskrit": "कल्पविकल्पशून्यः",
+        "word_english": "devoid-of-imaginations-and-distinctions",
+        "transliteration": "kalpavikalpaśūnyaḥ",
+        "grammar_role": "kalpavikalpaśūnyaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 551,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u092a\u094d\u0930\u093e\u0930\u092c\u094d\u0927\u0915\u0930\u094d\u092e\u092a\u0930\u093f\u0915\u0932\u094d\u092a\u093f\u0924\u0935\u093e\u0938\u0928\u093e\u092d\u093f\u0903 \u0938\u0902\u0938\u093e\u0930\u093f\u0935\u091a\u094d\u091a\u0930\u0924\u093f \u092d\u0941\u0915\u094d\u0924\u093f\u0937\u0941 \u092e\u0941\u0915\u094d\u0924\u0926\u0947\u0939\u0903 \u0964\n\u0938\u093f\u0926\u094d\u0927\u0903 \u0938\u094d\u0935\u092f\u0902 \u0935\u0938\u0924\u093f \u0938\u093e\u0915\u094d\u0937\u093f\u0935\u0926\u0924\u094d\u0930 \u0924\u0942\u0937\u094d\u0923\u0940\u0902 \u091a\u0915\u094d\u0930\u0938\u094d\u092f \u092e\u0942\u0932\u092e\u093f\u0935 \u0915\u0932\u094d\u092a\u0935\u093f\u0915\u0932\u094d\u092a\u0936\u0942\u0928\u094d\u092f\u0903 \u0965 \u096b\u096b\u0967 \u0965",
-    "transliteration": "pr\u0101rabdhakarmaparikalpitav\u0101san\u0101bhi\u1e25 sa\u1e43s\u0101rivaccarati bhukti\u1e63u muktadeha\u1e25 |\nsiddha\u1e25 svaya\u1e43 vasati s\u0101k\u1e63ivadatra t\u016b\u1e63\u1e47\u012b\u1e43 cakrasya m\u016blamiva kalpavikalpa\u015b\u016bnya\u1e25 || 551 ||",
-    "translation": "The man of realisation, bereft of the body-idea, moves amid sense-enjoyments like a man subject to transmigration, through desires engendered by Pr\u0101rabdha work. He himself, however, lives unmoved in the body, like a witness, free from mental oscillations, like the pivot of the potter\u2019s wheel.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Prārabdha-karma",
+        "Vāsanā",
+        "Mukta-deha",
+        "Sākṣin",
+        "Kalpa-vikalpa",
+        "Jīvanmukti",
+        "Anātman"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_2",
+    "verse_number": 552,
+    "chapter_number": 12,
+    "sanskrit_shloka": "नैवेन्द्रियाणि विषयेषु नियुङ्क्त एष नैवापयुङ्क्त उप्दर्शनलक्षणस्थः । नैव क्रियाफलमपीषदवेक्षते स स्वानन्दसान्द्ररसपानसुमत्तचित्तः ॥ ५५२ ॥",
+    "text": "नैवेन्द्रियाणि विषयेषु नियुङ्क्त एष नैवापयुङ्क्त उप्दर्शनलक्षणस्थः । नैव क्रियाफलमपीषदवेक्षते स स्वानन्दसान्द्ररसपानसुमत्तचित्तः ॥ ५५२ ॥",
+    "transliteration": "naivendriyāṇi viṣayeṣu niyuṅkta eṣa naivāpayuṅkta updarśanalakṣaṇasthaḥ | naiva kriyāphalamapīṣadavekṣate sa svānandasāndrarasapānasumattacittaḥ || 552 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Vikshepa",
+    "keywords_sanskrit": [
+      "Sakshin",
+      "Ananda",
+      "Vishaya",
+      "Kriyaphala",
+      "Antahkarana",
+      "Upadhi",
+      "Nirvikalpa",
+      "Svasvabhava"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "The man of realisation, bereft of the body-idea, moves amid sense-enjoyments like a man subject to transmigration, through desires engendered by Pr\u0101rabdha work. He himself, however, lives unmoved in the body, like a witness, free from mental oscillations, like the pivot of the potter\u2019s wheel."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "He neither engages the senses in their objects nor completely withdraws them, yet remains established in the state of mere witnessing. He does not even slightly regard the fruits of action; his mind is intoxicated with the dense nectar of his own bliss."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "वह इन्द्रियों को विषयों में समर्पित नहीं करता, न ही उन्हें पूर्णतया वापस ले लेता है, परन्तु केवल साक्षीभाव में स्थित रहता है। वह कर्म के फलों का भी थोड़ा भी ध्यान नहीं देता; उसका मन अपने स्वयं के आनन्द के सघन रस के पान से मत्त है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_552",
+    "word_by_word": [
+      {
+        "word_sanskrit": "नैव",
+        "word_english": "neither",
+        "transliteration": "naiva",
+        "grammar_role": "naiva"
+      },
+      {
+        "word_sanskrit": "इन्द्रियाणि",
+        "word_english": "senses",
+        "transliteration": "indriyāṇi",
+        "grammar_role": "indriyāṇi"
+      },
+      {
+        "word_sanskrit": "विषयेषु",
+        "word_english": "in-objects",
+        "transliteration": "viṣayeṣu",
+        "grammar_role": "viṣayeṣu"
+      },
+      {
+        "word_sanskrit": "नियुङ्क्त",
+        "word_english": "engages",
+        "transliteration": "niyuṅkta",
+        "grammar_role": "niyuṅkta"
+      },
+      {
+        "word_sanskrit": "एष",
+        "word_english": "eza eza eza a. 1 Desirable, to be desired. 2 Gliding, running; epithet of Viṣṇu. — zaH 1 Running or hastening towards. 2 Seeking. 3 Wish, choice. — zA Wish, desire. 9597 0357-c",
+        "transliteration": "eṣa",
+        "grammar_role": "eṣa"
+      },
+      {
+        "word_sanskrit": "नैव",
+        "word_english": "neither",
+        "transliteration": "naiva",
+        "grammar_role": "naiva"
+      },
+      {
+        "word_sanskrit": "अपयुङ्क्त",
+        "word_english": "withdraws",
+        "transliteration": "apayuṅkta",
+        "grammar_role": "apayuṅkta"
+      },
+      {
+        "word_sanskrit": "उप्दर्शनलक्षणस्थः",
+        "word_english": "established-in-witnessing-state",
+        "transliteration": "updarśanalakṣaṇasthaḥ",
+        "grammar_role": "updarśanalakṣaṇasthaḥ"
+      },
+      {
+        "word_sanskrit": "नैव",
+        "word_english": "neither",
+        "transliteration": "naiva",
+        "grammar_role": "naiva"
+      },
+      {
+        "word_sanskrit": "क्रियाफलम्",
+        "word_english": "fruits-of-action",
+        "transliteration": "kriyāphalam",
+        "grammar_role": "kriyāphalam"
+      },
+      {
+        "word_sanskrit": "अपि",
+        "word_english": "api api api ind. (Sometimes with the a dropped according to the opinion of Bhāguri; vazwi BAgurirallopamavApyorupasargayoH ; piDA, piDAna &amp;c.) 1 (Used with roots and nouns in the sense of) Placing near or over, taking towards, uniting with; reach...",
+        "transliteration": "api",
+        "grammar_role": "api"
+      },
+      {
+        "word_sanskrit": "ईषद्",
+        "word_english": "slightly",
+        "transliteration": "īṣad",
+        "grammar_role": "īṣad"
+      },
+      {
+        "word_sanskrit": "वेक्षते",
+        "word_english": "regards",
+        "transliteration": "vekṣate",
+        "grammar_role": "vekṣate"
+      },
+      {
+        "word_sanskrit": "सः",
+        "word_english": "sa sa sa ind. A prefix substituted for saha or sam, sama, tulya , or sadfSa and eka or samAna , and compounded with nouns to form adjectives and adverbs in the sense of ( a ) with, together with, along with, accompanied by, having, possessed of; sapu...",
+        "transliteration": "saḥ",
+        "grammar_role": "saḥ"
+      },
+      {
+        "word_sanskrit": "स्वानन्दसान्द्ररसपानसुमत्तचित्तः",
+        "word_english": "mind-intoxicated-with-dense-nectar-of-own-bliss",
+        "transliteration": "svānandasāndrarasapānasumattacittaḥ",
+        "grammar_role": "svānandasāndrarasapānasumattacittaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 552,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0928\u0948\u0935\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u093e\u0923\u093f \u0935\u093f\u0937\u092f\u0947\u0937\u0941 \u0928\u093f\u092f\u0941\u0919\u094d\u0915\u094d\u0924 \u090f\u0937 \u0928\u0948\u0935\u093e\u092a\u092f\u0941\u0919\u094d\u0915\u094d\u0924 \u0909\u092a\u094d\u0926\u0930\u094d\u0936\u0928\u0932\u0915\u094d\u0937\u0923\u0938\u094d\u0925\u0903 \u0964\n\u0928\u0948\u0935 \u0915\u094d\u0930\u093f\u092f\u093e\u092b\u0932\u092e\u092a\u0940\u0937\u0926\u0935\u0947\u0915\u094d\u0937\u0924\u0947 \u0938 \u0938\u094d\u0935\u093e\u0928\u0928\u094d\u0926\u0938\u093e\u0928\u094d\u0926\u094d\u0930\u0930\u0938\u092a\u093e\u0928\u0938\u0941\u092e\u0924\u094d\u0924\u091a\u093f\u0924\u094d\u0924\u0903 \u0965 \u096b\u096b\u0968 \u0965",
-    "transliteration": "naivendriy\u0101\u1e47i vi\u1e63aye\u1e63u niyu\u1e45kta e\u1e63a naiv\u0101payu\u1e45kta updar\u015banalak\u1e63a\u1e47astha\u1e25 |\nnaiva kriy\u0101phalamap\u012b\u1e63adavek\u1e63ate sa sv\u0101nandas\u0101ndrarasap\u0101nasumattacitta\u1e25 || 552 ||",
-    "translation": "He neither directs the sense-organs to their objects nor detaches them from these, but stays like an unconcerned spectator. And he has not the least regard for the fruits of actions, his mind being thoroughly inebriated with drinking the undiluted elixir of the Bliss of \u0100tman.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "keywords_sanskrit": [
+        "Sakshin",
+        "Ananda",
+        "Vishaya",
+        "Kriyaphala",
+        "Antahkarana",
+        "Upadhi",
+        "Nirvikalpa",
+        "Svasvabhava"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Vikshepa",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_3",
+    "verse_number": 553,
+    "chapter_number": 12,
+    "sanskrit_shloka": "लक्ष्यालक्ष्यगतिं त्यक्त्वा यस्तिष्ठेत्केवलात्मना । शिव एव स्वयं साक्षादयं ब्रह्मविदुत्तमः ॥ ५५३ ॥",
+    "text": "लक्ष्यालक्ष्यगतिं त्यक्त्वा यस्तिष्ठेत्केवलात्मना । शिव एव स्वयं साक्षादयं ब्रह्मविदुत्तमः ॥ ५५३ ॥",
+    "transliteration": "lakṣyālakṣyagatiṃ tyaktvā yastiṣṭhetkevalātmanā | śiva eva svayaṃ sākṣādayaṃ brahmaviduttamaḥ || 553 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Vikshepa",
+    "keywords_sanskrit": [
+      "Kevalātman",
+      "Lakṣya",
+      "Alakṣya",
+      "Śiva",
+      "Brahmavid",
+      "Adhyāsa",
+      "Apavāda"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "He neither directs the sense-organs to their objects nor detaches them from these, but stays like an unconcerned spectator. And he has not the least regard for the fruits of actions, his mind being thoroughly inebriated with drinking the undiluted elixir of the Bliss of \u0100tman."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "He who, having abandoned the movement toward both the object of meditation and the non-object, stands firm in the pure Self alone — he indeed is Shiva himself, directly the supreme knower of Brahman."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जो ध्येय और अध्येय दोनों की ओर गति को त्यागकर केवल आत्मा में स्थित हो जाता है, वही स्वयं शिव है, सीधे ब्रह्मज्ञानी का श्रेष्ठ।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_553",
+    "word_by_word": [
+      {
+        "word_sanskrit": "लक्ष्यालक्ष्यगतिं",
+        "word_english": "movement-toward-object-and-non-object",
+        "transliteration": "lakṣyālakṣyagatiṃ",
+        "grammar_role": "lakṣyālakṣyagatiṃ"
+      },
+      {
+        "word_sanskrit": "त्यक्त्वा",
+        "word_english": "having-abandoned",
+        "transliteration": "tyaktvā",
+        "grammar_role": "tyaktvā"
+      },
+      {
+        "word_sanskrit": "यः",
+        "word_english": "who",
+        "transliteration": "yaḥ",
+        "grammar_role": "yaḥ"
+      },
+      {
+        "word_sanskrit": "तिष्ठेत्",
+        "word_english": "stands",
+        "transliteration": "tiṣṭhet",
+        "grammar_role": "tiṣṭhet"
+      },
+      {
+        "word_sanskrit": "केवलात्मना",
+        "word_english": "in-pure-Self",
+        "transliteration": "kevalātmanā",
+        "grammar_role": "kevalātmanā"
+      },
+      {
+        "word_sanskrit": "शिवः",
+        "word_english": "Shiva",
+        "transliteration": "śivaḥ",
+        "grammar_role": "śivaḥ"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "indeed",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "स्वयं",
+        "word_english": "himself",
+        "transliteration": "svayaṃ",
+        "grammar_role": "svayaṃ"
+      },
+      {
+        "word_sanskrit": "साक्षात्",
+        "word_english": "directly",
+        "transliteration": "sākṣāt",
+        "grammar_role": "sākṣāt"
+      },
+      {
+        "word_sanskrit": "अयम्",
+        "word_english": "this",
+        "transliteration": "ayam",
+        "grammar_role": "ayam"
+      },
+      {
+        "word_sanskrit": "ब्रह्मविदुत्तमः",
+        "word_english": "supreme-knower-of-Brahman",
+        "transliteration": "brahmaviduttamaḥ",
+        "grammar_role": "brahmaviduttamaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 553,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0932\u0915\u094d\u0937\u094d\u092f\u093e\u0932\u0915\u094d\u0937\u094d\u092f\u0917\u0924\u093f\u0902 \u0924\u094d\u092f\u0915\u094d\u0924\u094d\u0935\u093e \u092f\u0938\u094d\u0924\u093f\u0937\u094d\u0920\u0947\u0924\u094d\u0915\u0947\u0935\u0932\u093e\u0924\u094d\u092e\u0928\u093e \u0964\n\u0936\u093f\u0935 \u090f\u0935 \u0938\u094d\u0935\u092f\u0902 \u0938\u093e\u0915\u094d\u0937\u093e\u0926\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u0941\u0924\u094d\u0924\u092e\u0903 \u0965 \u096b\u096b\u0969 \u0965",
-    "transliteration": "lak\u1e63y\u0101lak\u1e63yagati\u1e43 tyaktv\u0101 yasti\u1e63\u1e6dhetkeval\u0101tman\u0101 |\n\u015biva eva svaya\u1e43 s\u0101k\u1e63\u0101daya\u1e43 brahmaviduttama\u1e25 || 553 ||",
-    "translation": "He who, giving up all such considerations as - this is a fit object of meditation and this is not \u2013 lives as the absolute \u0100tman, is verily \u015aiva himself, and he is the best among Knowers of Brahman.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Kevalātman",
+        "Lakṣya",
+        "Alakṣya",
+        "Śiva",
+        "Brahmavid",
+        "Adhyāsa",
+        "Apavāda"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Vikshepa",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_4",
+    "verse_number": 554,
+    "chapter_number": 12,
+    "sanskrit_shloka": "जीवन्नेव सदा मुक्तः कृतार्थो ब्रह्मवित्तमः । उपाधिनाशाद्ब्रह्मैव सन् ब्रह्माप्येति निर्द्वयम् ॥ ५५४ ॥",
+    "text": "जीवन्नेव सदा मुक्तः कृतार्थो ब्रह्मवित्तमः । उपाधिनाशाद्ब्रह्मैव सन् ब्रह्माप्येति निर्द्वयम् ॥ ५५४ ॥",
+    "transliteration": "jīvanneva sadā muktaḥ kṛtārtho brahmavittamaḥ | upādhināśādbrahmaiva san brahmāpyeti nirdvayam || 554 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Jivanmukti",
+      "Upadhi",
+      "Brahma",
+      "Nirvikalpa",
+      "Nirdvaya",
+      "Kritarthah"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "He who, giving up all such considerations as - this is a fit object of meditation and this is not \u2013 lives as the absolute \u0100tman, is verily \u015aiva himself, and he is the best among Knowers of Brahman."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The one who has realized Brahman, even while living, is ever-free and fulfilled; having destroyed the adjuncts, he, being Brahman itself, attains the non-dual Brahman."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जो ब्रह्मज्ञानी है, वह जीवित रहते हुए भी सदैव मुक्त और सिद्ध होता है; उपाधियों के नाश होने पर, वह ब्रह्म ही होकर निर्द्वय ब्रह्म को प्राप्त होता है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_554",
+    "word_by_word": [
+      {
+        "word_sanskrit": "जीवन्नेव",
+        "word_english": "even-while-living",
+        "transliteration": "jīvanneva",
+        "grammar_role": "jīvanneva"
+      },
+      {
+        "word_sanskrit": "सदा",
+        "word_english": "ever",
+        "transliteration": "sadā",
+        "grammar_role": "sadā"
+      },
+      {
+        "word_sanskrit": "मुक्तः",
+        "word_english": "liberated",
+        "transliteration": "muktaḥ",
+        "grammar_role": "muktaḥ"
+      },
+      {
+        "word_sanskrit": "कृतार्थः",
+        "word_english": "fulfilled",
+        "transliteration": "kṛtārthaḥ",
+        "grammar_role": "kṛtārthaḥ"
+      },
+      {
+        "word_sanskrit": "ब्रह्मवित्तमः",
+        "word_english": "supreme-knower-of-Brahman",
+        "transliteration": "brahmavittamaḥ",
+        "grammar_role": "brahmavittamaḥ"
+      },
+      {
+        "word_sanskrit": "उपाधिनाशात्",
+        "word_english": "from-destruction-of-adjuncts",
+        "transliteration": "upādhināśāt",
+        "grammar_role": "upādhināśāt"
+      },
+      {
+        "word_sanskrit": "ब्रह्मैव",
+        "word_english": "Brahman-itself",
+        "transliteration": "brahmaiva",
+        "grammar_role": "brahmaiva"
+      },
+      {
+        "word_sanskrit": "सन्",
+        "word_english": "being",
+        "transliteration": "san",
+        "grammar_role": "san"
+      },
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman",
+        "transliteration": "brahma",
+        "grammar_role": "brahma"
+      },
+      {
+        "word_sanskrit": "अप्येति",
+        "word_english": "attains",
+        "transliteration": "apyeti",
+        "grammar_role": "apyeti"
+      },
+      {
+        "word_sanskrit": "निर्द्वयम्",
+        "word_english": "non-dual",
+        "transliteration": "nirdvayam",
+        "grammar_role": "nirdvayam"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 554,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u091c\u0940\u0935\u0928\u094d\u0928\u0947\u0935 \u0938\u0926\u093e \u092e\u0941\u0915\u094d\u0924\u0903 \u0915\u0943\u0924\u093e\u0930\u094d\u0925\u094b \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0924\u094d\u0924\u092e\u0903 \u0964\n\u0909\u092a\u093e\u0927\u093f\u0928\u093e\u0936\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935 \u0938\u0928\u094d \u092c\u094d\u0930\u0939\u094d\u092e\u093e\u092a\u094d\u092f\u0947\u0924\u093f \u0928\u093f\u0930\u094d\u0926\u094d\u0935\u092f\u092e\u094d \u0965 \u096b\u096b\u096a \u0965",
-    "transliteration": "j\u012bvanneva sad\u0101 mukta\u1e25 k\u1e5bt\u0101rtho brahmavittama\u1e25 |\nup\u0101dhin\u0101\u015b\u0101dbrahmaiva san brahm\u0101pyeti nirdvayam || 554 ||",
-    "translation": "Through the destruction of the supervening adjuncts, the perfect knower of Brahman merges himself in the One Brahman without a second \u2013 which he had been all along \u2013 becomes very free even while living, and attains the consummation of his life.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Jivanmukti",
+        "Upadhi",
+        "Brahma",
+        "Nirvikalpa",
+        "Nirdvaya",
+        "Kritarthah"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_5",
+    "verse_number": 555,
+    "chapter_number": 12,
+    "sanskrit_shloka": "शैलूषो वेषसद्भावा भावयोश्च यथा पुमान् । तथैव ब्रह्मविच्छ्रेष्ठः सदा ब्रह्मैव नापरः ॥ ५५५ ॥",
+    "text": "शैलूषो वेषसद्भावा भावयोश्च यथा पुमान् । तथैव ब्रह्मविच्छ्रेष्ठः सदा ब्रह्मैव नापरः ॥ ५५५ ॥",
+    "transliteration": "śailūṣo veṣasadbhāvā bhāvayośca yathā pumān | tathaiva brahmavicchreṣṭhaḥ sadā brahmaiva nāparaḥ || 555 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Manana",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Brahman",
+      "Upadhi",
+      "Vesha",
+      "Bhava",
+      "Atman",
+      "Avidya",
+      "Nirvikalpa"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Through the destruction of the supervening adjuncts, the perfect knower of Brahman merges himself in the One Brahman without a second \u2013 which he had been all along \u2013 becomes very free even while living, and attains the consummation of his life."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Just as a man who wears a lion's skin is perceived as a lion, though he is not one in essence, so too the supreme knower of Brahman is ever Brahman alone, and nothing else."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जिस प्रकार एक व्यक्ति जब शेर की खाल पहनता है, तो उसे शेर समझा जाता है, हालाँकि वह मूलतः शेर नहीं है, उसी प्रकार ब्रह्म के श्रेष्ठ ज्ञाता सदैव केवल ब्रह्म ही हैं, और कुछ और नहीं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_555",
+    "word_by_word": [
+      {
+        "word_sanskrit": "शैलूषः",
+        "word_english": "lion-skin-wearer",
+        "transliteration": "śailūṣaḥ",
+        "grammar_role": "śailūṣaḥ"
+      },
+      {
+        "word_sanskrit": "वेषसद्भावा",
+        "word_english": "by-outer-appearance",
+        "transliteration": "veṣasadbhāvā",
+        "grammar_role": "veṣasadbhāvā"
+      },
+      {
+        "word_sanskrit": "भावयोः",
+        "word_english": "of-nature-and-appearance",
+        "transliteration": "bhāvayoḥ",
+        "grammar_role": "bhāvayoḥ"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "transliteration": "yathā",
+        "grammar_role": "yathā"
+      },
+      {
+        "word_sanskrit": "पुमान्",
+        "word_english": "man",
+        "transliteration": "pumān",
+        "grammar_role": "pumān"
+      },
+      {
+        "word_sanskrit": "तथा",
+        "word_english": "so",
+        "transliteration": "tathā",
+        "grammar_role": "tathā"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "indeed",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "ब्रह्मविच्छ्रेष्ठः",
+        "word_english": "supreme-knower-of-Brahman",
+        "transliteration": "brahmavicchreṣṭhaḥ",
+        "grammar_role": "brahmavicchreṣṭhaḥ"
+      },
+      {
+        "word_sanskrit": "सदा",
+        "word_english": "ever",
+        "transliteration": "sadā",
+        "grammar_role": "sadā"
+      },
+      {
+        "word_sanskrit": "ब्रह्मैव",
+        "word_english": "Brahman-itself",
+        "transliteration": "brahmaiva",
+        "grammar_role": "brahmaiva"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "अपरः",
+        "word_english": "other",
+        "transliteration": "aparaḥ",
+        "grammar_role": "aparaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 555,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0936\u0948\u0932\u0942\u0937\u094b \u0935\u0947\u0937\u0938\u0926\u094d\u092d\u093e\u0935\u093e \u092d\u093e\u0935\u092f\u094b\u0936\u094d\u091a \u092f\u0925\u093e \u092a\u0941\u092e\u093e\u0928\u094d \u0964\n\u0924\u0925\u0948\u0935 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u091a\u094d\u091b\u094d\u0930\u0947\u0937\u094d\u0920\u0903 \u0938\u0926\u093e \u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935 \u0928\u093e\u092a\u0930\u0903 \u0965 \u096b\u096b\u096b \u0965",
-    "transliteration": "\u015bail\u016b\u1e63o ve\u1e63asadbh\u0101v\u0101 bh\u0101vayo\u015bca yath\u0101 pum\u0101n |\ntathaiva brahmavicchre\u1e63\u1e6dha\u1e25 sad\u0101 brahmaiva n\u0101para\u1e25 || 555 ||",
-    "translation": "As an actor, when he puts on the dress of his role, or when he does not, is always a man, so the perfect knower of Brahman is always Brahman and nothing else.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Brahman",
+        "Upadhi",
+        "Vesha",
+        "Bhava",
+        "Atman",
+        "Avidya",
+        "Nirvikalpa"
+      ],
+      "sadhana_stage": "Manana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_6",
+    "verse_number": 556,
+    "chapter_number": 12,
+    "sanskrit_shloka": "यत्र क्वापि विशीर्णं सत्पर्णमिव तरोर्वपुः पततात् । ब्रह्मीभूतस्य यतेः प्रागेव तच्चिदग्निना दग्धम् ॥ ५५६ ॥",
+    "text": "यत्र क्वापि विशीर्णं सत्पर्णमिव तरोर्वपुः पततात् । ब्रह्मीभूतस्य यतेः प्रागेव तच्चिदग्निना दग्धम् ॥ ५५६ ॥",
+    "transliteration": "yatra kvāpi viśīrṇaṃ satparṇamiva tarorvapuḥ patatāt | brahmībhūtasya yateḥ prāgeva taccidagninā dagdham || 556 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Vivartavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Brahman",
+      "Chidagni",
+      "Yati",
+      "Vapuh",
+      "Satparna",
+      "Vivartavada",
+      "Adhyasa",
+      "Apavada"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "As an actor, when he puts on the dress of his role, or when he does not, is always a man, so the perfect knower of Brahman is always Brahman and nothing else."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Wherever a leaf, once fallen from a tree, appears decayed, even so, the body of the one who has become Brahman was already burned by the fire of Consciousness before its fall."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जहाँ कहीं भी एक पत्ता वृक्ष से गिरकर सड़ा हुआ दिखाई देता है, उसी प्रकार, ब्रह्म बन चुके साधक का शरीर उसके गिरने से पहले ही चिदाग्नि द्वारा जल चुका था।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_556",
+    "word_by_word": [
+      {
+        "word_sanskrit": "यत्र",
+        "word_english": "wherever",
+        "transliteration": "yatra",
+        "grammar_role": "yatra"
+      },
+      {
+        "word_sanskrit": "क्वापि",
+        "word_english": "even",
+        "transliteration": "kvāpi",
+        "grammar_role": "kvāpi"
+      },
+      {
+        "word_sanskrit": "विशीर्णं",
+        "word_english": "decayed",
+        "transliteration": "viśīrṇaṃ",
+        "grammar_role": "viśīrṇaṃ"
+      },
+      {
+        "word_sanskrit": "सत्पर्णम्",
+        "word_english": "true-leaf",
+        "transliteration": "satparṇam",
+        "grammar_role": "satparṇam"
+      },
+      {
+        "word_sanskrit": "इव",
+        "word_english": "like",
+        "transliteration": "iva",
+        "grammar_role": "iva"
+      },
+      {
+        "word_sanskrit": "तरोः",
+        "word_english": "of-tree",
+        "transliteration": "taroḥ",
+        "grammar_role": "taroḥ"
+      },
+      {
+        "word_sanskrit": "वपुः",
+        "word_english": "body",
+        "transliteration": "vapuḥ",
+        "grammar_role": "vapuḥ"
+      },
+      {
+        "word_sanskrit": "पततात्",
+        "word_english": "fallen",
+        "transliteration": "patatāt",
+        "grammar_role": "patatāt"
+      },
+      {
+        "word_sanskrit": "ब्रह्मीभूतस्य",
+        "word_english": "who-has-become-Brahman",
+        "transliteration": "brahmībhūtasya",
+        "grammar_role": "brahmībhūtasya"
+      },
+      {
+        "word_sanskrit": "यतेः",
+        "word_english": "of-yogi",
+        "transliteration": "yateḥ",
+        "grammar_role": "yateḥ"
+      },
+      {
+        "word_sanskrit": "प्रागेव",
+        "word_english": "beforehand",
+        "transliteration": "prāgeva",
+        "grammar_role": "prāgeva"
+      },
+      {
+        "word_sanskrit": "तत्",
+        "word_english": "that",
+        "transliteration": "tat",
+        "grammar_role": "tat"
+      },
+      {
+        "word_sanskrit": "चिदग्निना",
+        "word_english": "by-consciousness-fire",
+        "transliteration": "cidagninā",
+        "grammar_role": "cidagninā"
+      },
+      {
+        "word_sanskrit": "दग्धम्",
+        "word_english": "burned",
+        "transliteration": "dagdham",
+        "grammar_role": "dagdham"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 556,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u092f\u0924\u094d\u0930 \u0915\u094d\u0935\u093e\u092a\u093f \u0935\u093f\u0936\u0940\u0930\u094d\u0923\u0902 \u0938\u0924\u094d\u092a\u0930\u094d\u0923\u092e\u093f\u0935 \u0924\u0930\u094b\u0930\u094d\u0935\u092a\u0941\u0903 \u092a\u0924\u0924\u093e\u0924\u094d \u0964\n\u092c\u094d\u0930\u0939\u094d\u092e\u0940\u092d\u0942\u0924\u0938\u094d\u092f \u092f\u0924\u0947\u0903 \u092a\u094d\u0930\u093e\u0917\u0947\u0935 \u0924\u091a\u094d\u091a\u093f\u0926\u0917\u094d\u0928\u093f\u0928\u093e \u0926\u0917\u094d\u0927\u092e\u094d \u0965 \u096b\u096b\u096c \u0965",
-    "transliteration": "yatra kv\u0101pi vi\u015b\u012br\u1e47a\u1e43 satpar\u1e47amiva tarorvapu\u1e25 patat\u0101t |\nbrahm\u012bbh\u016btasya yate\u1e25 pr\u0101geva taccidagnin\u0101 dagdham || 556 ||",
-    "translation": "Let the body of the Sannyasin who has realised his identity with Brahman, wither and fall anywhere like the leaf of a tree, (it is of little consequence to him, for) it has already been burnt by the fire of knowledge.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Vivartavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Brahman",
+        "Chidagni",
+        "Yati",
+        "Vapuh",
+        "Satparna",
+        "Vivartavada",
+        "Adhyasa",
+        "Apavada"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_7",
+    "verse_number": 557,
+    "chapter_number": 12,
+    "sanskrit_shloka": "सदात्मनि ब्रह्मणि तिष्ठतो मुनेः पूर्णाद्वयानन्दमयात्मना सदा । न देशकालाद्युचितप्रतीक्षा त्वङ्मांसविट्पिण्डविसर्जनाय ॥ ५५७ ॥",
+    "text": "सदात्मनि ब्रह्मणि तिष्ठतो मुनेः पूर्णाद्वयानन्दमयात्मना सदा । न देशकालाद्युचितप्रतीक्षा त्वङ्मांसविट्पिण्डविसर्जनाय ॥ ५५७ ॥",
+    "transliteration": "sadātmani brahmaṇi tiṣṭhato muneḥ pūrṇādvayānandamayātmanā sadā | na deśakālādyucitapratīkṣā tvaṅmāṃsaviṭpiṇḍavisarjanāya || 557 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Brahman",
+      "Atman",
+      "Ananda",
+      "Adhyasa",
+      "Upadhi",
+      "Deha",
+      "Viveka",
+      "Mumukshutva"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Let the body of the Sannyasin who has realised his identity with Brahman, wither and fall anywhere like the leaf of a tree, (it is of little consequence to him, for) it has already been burnt by the fire of knowledge."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The sage who ever abides in the Self, which is Brahman, the full, non-dual, blissful Self, has no need to wait for an appropriate time or place to abandon the lump of flesh and excrement that is the body."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जो मुनि सदैव ब्रह्म के रूप में पूर्ण, अद्वैत, आनंदमय आत्मा में स्थित है, उसे शरीर को त्यागने के लिए किसी उचित समय या स्थान की प्रतीक्षा नहीं करनी चाहिए, क्योंकि शरीर तो मांस और मल का ढेर है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_557",
+    "word_by_word": [
+      {
+        "word_sanskrit": "सदा",
+        "word_english": "ever",
+        "transliteration": "sadā",
+        "grammar_role": "sadā"
+      },
+      {
+        "word_sanskrit": "आत्मनि",
+        "word_english": "in-Self",
+        "transliteration": "ātmani",
+        "grammar_role": "ātmani"
+      },
+      {
+        "word_sanskrit": "ब्रह्मणि",
+        "word_english": "in-Brahman",
+        "transliteration": "brahmaṇi",
+        "grammar_role": "brahmaṇi"
+      },
+      {
+        "word_sanskrit": "तिष्ठतः",
+        "word_english": "abiding",
+        "transliteration": "tiṣṭhataḥ",
+        "grammar_role": "tiṣṭhataḥ"
+      },
+      {
+        "word_sanskrit": "मुनेः",
+        "word_english": "of-sage",
+        "transliteration": "muneḥ",
+        "grammar_role": "muneḥ"
+      },
+      {
+        "word_sanskrit": "पूर्णाद्वयानन्दमयात्मना",
+        "word_english": "full-non-dual-blissful-Self",
+        "transliteration": "pūrṇādvayānandamayātmanā",
+        "grammar_role": "pūrṇādvayānandamayātmanā"
+      },
+      {
+        "word_sanskrit": "सदा",
+        "word_english": "ever",
+        "transliteration": "sadā",
+        "grammar_role": "sadā"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "na na na a. 1 Thin, spare. 2 Vacant, empty. 3 Same, identical. 4 Unwearied. 5 Praised. 6 Undivided. — naH 1 A pearl. 2 N. of Gaṇeśa. 3 Wealth, prosperity. 4 A band, tie. 5 War. 6 N. of Buddha. 7 A gift. — ind. ( a ) A particle of negation equivalent ...",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "देशकालादि",
+        "word_english": "time-place-etc.",
+        "transliteration": "deśakālādi",
+        "grammar_role": "deśakālādi"
+      },
+      {
+        "word_sanskrit": "उचित",
+        "word_english": "appropriate",
+        "transliteration": "ucita",
+        "grammar_role": "ucita"
+      },
+      {
+        "word_sanskrit": "प्रतीक्षा",
+        "word_english": "waiting",
+        "transliteration": "pratīkṣā",
+        "grammar_role": "pratīkṣā"
+      },
+      {
+        "word_sanskrit": "त्वक्मांसविट्पिण्ड",
+        "word_english": "skin-flesh-feces-lump",
+        "transliteration": "tvaṅmāṃsaviṭpiṇḍa",
+        "grammar_role": "tvaṅmāṃsaviṭpiṇḍa"
+      },
+      {
+        "word_sanskrit": "विसर्जनाय",
+        "word_english": "for-abandoning",
+        "transliteration": "visarjanāya",
+        "grammar_role": "visarjanāya"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 557,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0938\u0926\u093e\u0924\u094d\u092e\u0928\u093f \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093f \u0924\u093f\u0937\u094d\u0920\u0924\u094b \u092e\u0941\u0928\u0947\u0903 \u092a\u0942\u0930\u094d\u0923\u093e\u0926\u094d\u0935\u092f\u093e\u0928\u0928\u094d\u0926\u092e\u092f\u093e\u0924\u094d\u092e\u0928\u093e \u0938\u0926\u093e \u0964\n\u0928 \u0926\u0947\u0936\u0915\u093e\u0932\u093e\u0926\u094d\u092f\u0941\u091a\u093f\u0924\u092a\u094d\u0930\u0924\u0940\u0915\u094d\u0937\u093e \u0924\u094d\u0935\u0919\u094d\u092e\u093e\u0902\u0938\u0935\u093f\u091f\u094d\u092a\u093f\u0923\u094d\u0921\u0935\u093f\u0938\u0930\u094d\u091c\u0928\u093e\u092f \u0965 \u096b\u096b\u096d \u0965",
-    "transliteration": "sad\u0101tmani brahma\u1e47i ti\u1e63\u1e6dhato mune\u1e25 p\u016br\u1e47\u0101dvay\u0101nandamay\u0101tman\u0101 sad\u0101 |\nna de\u015bak\u0101l\u0101dyucitaprat\u012bk\u1e63\u0101 tva\u1e45m\u0101\u1e43savi\u1e6dpi\u1e47\u1e0davisarjan\u0101ya || 557 ||",
-    "translation": "The sage who always lives in the Reality \u2013 Brahman \u2013 as Infinite Bliss, the One without a second, does not depend upon the customary considerations of place, time, etc., for giving up this mass of skin, flesh and filth.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Brahman",
+        "Atman",
+        "Ananda",
+        "Adhyasa",
+        "Upadhi",
+        "Deha",
+        "Viveka",
+        "Mumukshutva"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_8",
+    "verse_number": 558,
+    "chapter_number": 12,
+    "sanskrit_shloka": "देहस्य मोक्षो नो मोक्षो न दण्डस्य कमण्डलोः । अविद्याहृदयग्रन्थिमोक्षो मोक्षो यतस्ततः ॥ ५५८ ॥",
+    "text": "देहस्य मोक्षो नो मोक्षो न दण्डस्य कमण्डलोः । अविद्याहृदयग्रन्थिमोक्षो मोक्षो यतस्ततः ॥ ५५८ ॥",
+    "transliteration": "dehasya mokṣo no mokṣo na daṇḍasya kamaṇḍaloḥ | avidyāhṛdayagranthimokṣo mokṣo yatastataḥ || 558 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Deha",
+      "Moksha",
+      "Avidya",
+      "Hridaya",
+      "Granthi",
+      "Upadhi",
+      "Anatman"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "The sage who always lives in the Reality \u2013 Brahman \u2013 as Infinite Bliss, the One without a second, does not depend upon the customary considerations of place, time, etc., for giving up this mass of skin, flesh and filth."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The liberation of the body is not liberation; neither is the liberation of the staff or the water-pot. Liberation is the dissolution of the knot of ignorance in the heart; that is liberation, and nothing else."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "शरीर का मोक्ष मोक्ष नहीं है; न ही दंड या कमंडलू का मोक्ष। मोक्ष अविद्या की हृदय में बंधी गाँठ का विच्छेद है; यही मोक्ष है, और इससे अलग कुछ नहीं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_558",
+    "word_by_word": [
+      {
+        "word_sanskrit": "देहस्य",
+        "word_english": "of-body",
+        "transliteration": "dehasya",
+        "grammar_role": "dehasya"
+      },
+      {
+        "word_sanskrit": "मोक्षो",
+        "word_english": "Meaning not found in dictionary",
+        "transliteration": "mokṣo",
+        "grammar_role": "mokṣo"
+      },
+      {
+        "word_sanskrit": "नः",
+        "word_english": "not",
+        "transliteration": "no",
+        "grammar_role": "no"
+      },
+      {
+        "word_sanskrit": "मोक्षो",
+        "word_english": "Meaning not found in dictionary",
+        "transliteration": "mokṣo",
+        "grammar_role": "mokṣo"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "na na na a. 1 Thin, spare. 2 Vacant, empty. 3 Same, identical. 4 Unwearied. 5 Praised. 6 Undivided. — naH 1 A pearl. 2 N. of Gaṇeśa. 3 Wealth, prosperity. 4 A band, tie. 5 War. 6 N. of Buddha. 7 A gift. — ind. ( a ) A particle of negation equivalent ...",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "दण्डस्य",
+        "word_english": "of-staff",
+        "transliteration": "daṇḍasya",
+        "grammar_role": "daṇḍasya"
+      },
+      {
+        "word_sanskrit": "कमण्डलोः",
+        "word_english": "of-water-pot",
+        "transliteration": "kamaṇḍaloḥ",
+        "grammar_role": "kamaṇḍaloḥ"
+      },
+      {
+        "word_sanskrit": "अविद्याहृदयग्रन्थिमोक्षः",
+        "word_english": "dissolution-of-ignorance-knot-in-heart",
+        "transliteration": "avidyāhṛdayagranthimokṣaḥ",
+        "grammar_role": "avidyāhṛdayagranthimokṣaḥ"
+      },
+      {
+        "word_sanskrit": "मोक्षः",
+        "word_english": "liberation",
+        "transliteration": "mokṣaḥ",
+        "grammar_role": "mokṣaḥ"
+      },
+      {
+        "word_sanskrit": "यतः",
+        "word_english": "that",
+        "transliteration": "yataḥ",
+        "grammar_role": "yataḥ"
+      },
+      {
+        "word_sanskrit": "ततः",
+        "word_english": "therefore",
+        "transliteration": "tataḥ",
+        "grammar_role": "tataḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 558,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0926\u0947\u0939\u0938\u094d\u092f \u092e\u094b\u0915\u094d\u0937\u094b \u0928\u094b \u092e\u094b\u0915\u094d\u0937\u094b \u0928 \u0926\u0923\u094d\u0921\u0938\u094d\u092f \u0915\u092e\u0923\u094d\u0921\u0932\u094b\u0903 \u0964\n\u0905\u0935\u093f\u0926\u094d\u092f\u093e\u0939\u0943\u0926\u092f\u0917\u094d\u0930\u0928\u094d\u0925\u093f\u092e\u094b\u0915\u094d\u0937\u094b \u092e\u094b\u0915\u094d\u0937\u094b \u092f\u0924\u0938\u094d\u0924\u0924\u0903 \u0965 \u096b\u096b\u096e \u0965",
-    "transliteration": "dehasya mok\u1e63o no mok\u1e63o na da\u1e47\u1e0dasya kama\u1e47\u1e0dalo\u1e25 |\navidy\u0101h\u1e5bdayagranthimok\u1e63o mok\u1e63o yatastata\u1e25 || 558 ||",
-    "translation": "For the giving up of the body is not Liberation, nor that of the staff and the water- bowl; but Liberation consists in the destruction of the heart\u2019s knot which is Nescience.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "keywords_sanskrit": [
+        "Deha",
+        "Moksha",
+        "Avidya",
+        "Hridaya",
+        "Granthi",
+        "Upadhi",
+        "Anatman"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_9",
+    "verse_number": 559,
+    "chapter_number": 12,
+    "sanskrit_shloka": "कुल्यायामथ नद्यां वा शिवक्षेत्रेऽपि चत्वरे । पर्णं पतति चेत्तेन तरोः किं नु शुभाशुभम् ॥ ५५९ ॥",
+    "text": "कुल्यायामथ नद्यां वा शिवक्षेत्रेऽपि चत्वरे । पर्णं पतति चेत्तेन तरोः किं नु शुभाशुभम् ॥ ५५९ ॥",
+    "transliteration": "kulyāyāmatha nadyāṃ vā śivakṣetre'pi catvare | parṇaṃ patati cettena taroḥ kiṃ nu śubhāśubham || 559 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Anatman",
+      "Maya",
+      "Upadhi",
+      "Vivartavada",
+      "Adhyasa",
+      "Anirvachaniya-Khyati"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "For the giving up of the body is not Liberation, nor that of the staff and the water- bowl; but Liberation consists in the destruction of the heart\u2019s knot which is Nescience."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "If a leaf falls in a canal, or in a river, or even in a sacred place or a marketplace, what good or bad can it do to the tree?"
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "यदि एक पत्ता एक नहर में, या एक नदी में, या यहाँ तक कि एक पवित्र स्थान या बाजार में गिरता है, तो वह पेड़ के लिए क्या शुभ या अशुभ कर सकता है?"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_559",
+    "word_by_word": [
+      {
+        "word_sanskrit": "कुल्यायाम्",
+        "word_english": "in-canal",
+        "transliteration": "kulyāyām",
+        "grammar_role": "kulyāyām"
+      },
+      {
+        "word_sanskrit": "अथ",
+        "word_english": "or",
+        "transliteration": "atha",
+        "grammar_role": "atha"
+      },
+      {
+        "word_sanskrit": "नद्याम्",
+        "word_english": "in-river",
+        "transliteration": "nadyām",
+        "grammar_role": "nadyām"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "or",
+        "transliteration": "vā",
+        "grammar_role": "vā"
+      },
+      {
+        "word_sanskrit": "शिवक्षेत्रे",
+        "word_english": "in-sacred-place",
+        "transliteration": "śivakṣetre",
+        "grammar_role": "śivakṣetre"
+      },
+      {
+        "word_sanskrit": "अपि",
+        "word_english": "even",
+        "transliteration": "api",
+        "grammar_role": "api"
+      },
+      {
+        "word_sanskrit": "चत्वरे",
+        "word_english": "in-marketplace",
+        "transliteration": "catvare",
+        "grammar_role": "catvare"
+      },
+      {
+        "word_sanskrit": "पर्णं",
+        "word_english": "parRaM parRaM parRaM 1 A pinion, wing; as in suparRa . 2 The feather of an arrow. 3 A leaf. 4 The betel-leaf. — rRaH The Palāśa tree. Comp. — aSanaM feeding on leaves. — (naH) a cloud. — asiH a kind of basil. — AhAra a. feeding upon leaves. — uwajaM ...",
+        "transliteration": "parṇaṃ",
+        "grammar_role": "parṇaṃ"
+      },
+      {
+        "word_sanskrit": "पतति",
+        "word_english": "falls",
+        "transliteration": "patati",
+        "grammar_role": "patati"
+      },
+      {
+        "word_sanskrit": "चेत्",
+        "word_english": "if",
+        "transliteration": "cet",
+        "grammar_role": "cet"
+      },
+      {
+        "word_sanskrit": "तेन",
+        "word_english": "by-that",
+        "transliteration": "tena",
+        "grammar_role": "tena"
+      },
+      {
+        "word_sanskrit": "तरोः",
+        "word_english": "of-tree",
+        "transliteration": "taroḥ",
+        "grammar_role": "taroḥ"
+      },
+      {
+        "word_sanskrit": "किं",
+        "word_english": "what",
+        "transliteration": "kiṃ",
+        "grammar_role": "kiṃ"
+      },
+      {
+        "word_sanskrit": "नु",
+        "word_english": "indeed",
+        "transliteration": "nu",
+        "grammar_role": "nu"
+      },
+      {
+        "word_sanskrit": "शुभाशुभम्",
+        "word_english": "good-or-bad",
+        "transliteration": "śubhāśubham",
+        "grammar_role": "śubhāśubham"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 559,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0915\u0941\u0932\u094d\u092f\u093e\u092f\u093e\u092e\u0925 \u0928\u0926\u094d\u092f\u093e\u0902 \u0935\u093e \u0936\u093f\u0935\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0947\u093d\u092a\u093f \u091a\u0924\u094d\u0935\u0930\u0947 \u0964\n\u092a\u0930\u094d\u0923\u0902 \u092a\u0924\u0924\u093f \u091a\u0947\u0924\u094d\u0924\u0947\u0928 \u0924\u0930\u094b\u0903 \u0915\u093f\u0902 \u0928\u0941 \u0936\u0941\u092d\u093e\u0936\u0941\u092d\u092e\u094d \u0965 \u096b\u096b\u096f \u0965",
-    "transliteration": "kuly\u0101y\u0101matha nady\u0101\u1e43 v\u0101 \u015bivak\u1e63etre'pi catvare |\npar\u1e47a\u1e43 patati cettena taro\u1e25 ki\u1e43 nu \u015bubh\u0101\u015bubham || 559 ||",
-    "translation": "If a leaf falls in a small stream, or a river, or a place consecrated by Shiva, or in a crossing of roads, of what good or evil effect is that to the tree?",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "keywords_sanskrit": [
+        "Anatman",
+        "Maya",
+        "Upadhi",
+        "Vivartavada",
+        "Adhyasa",
+        "Anirvachaniya-Khyati"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_10",
+    "verse_number": 560,
+    "chapter_number": 12,
+    "sanskrit_shloka": "पत्रस्य पुष्पस्य फलस्य नाशवद् देहेन्द्रियप्राणधियां विनाशः । नैवात्मनः स्वस्य सदात्मकस्या नन्दाकृतेर्वृक्षवदस्ति चैषः ॥ ५६० ॥",
+    "text": "पत्रस्य पुष्पस्य फलस्य नाशवद् देहेन्द्रियप्राणधियां विनाशः । नैवात्मनः स्वस्य सदात्मकस्या नन्दाकृतेर्वृक्षवदस्ति चैषः ॥ ५६० ॥",
+    "transliteration": "patrasya puṣpasya phalasya nāśavad dehendriyaprāṇadhiyāṃ vināśaḥ | naivātmanaḥ svasya sadātmakasyā nandākṛtervṛkṣavadasti caiṣaḥ || 560 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Atman",
+      "Deha",
+      "Indriya",
+      "Prana",
+      "Dhi",
+      "Vinasha",
+      "Sadasat",
+      "Ananda",
+      "Vriksha",
+      "Nitya",
+      "Anitya"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "If a leaf falls in a small stream, or a river, or a place consecrated by Shiva, or in a crossing of roads, of what good or evil effect is that to the tree?"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The destruction of the body, senses, vital forces, and mind is like the decay of leaves, flowers, and fruits; but there is no destruction of the Self, which is ever-existent and blissful, like the destruction of a tree's fruit-bearing form."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "शरीर, इन्द्रियों, प्राणों और मन का विनाश पत्तों, फूलों और फलों के नाश के समान है; किन्तु आत्मा का कोई विनाश नहीं है, जो सदा सत्त्वात्मक और आनन्दमय है, जैसे वृक्ष के फलदायी रूप का विनाश नहीं होता।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_560",
+    "word_by_word": [
+      {
+        "word_sanskrit": "पत्रस्य",
+        "word_english": "of-leaf",
+        "transliteration": "patrasya",
+        "grammar_role": "patrasya"
+      },
+      {
+        "word_sanskrit": "पुष्पस्य",
+        "word_english": "of-flower",
+        "transliteration": "puṣpasya",
+        "grammar_role": "puṣpasya"
+      },
+      {
+        "word_sanskrit": "फलस्य",
+        "word_english": "of-fruit",
+        "transliteration": "phalasya",
+        "grammar_role": "phalasya"
+      },
+      {
+        "word_sanskrit": "नाशवत्",
+        "word_english": "like-decay",
+        "transliteration": "nāśavad",
+        "grammar_role": "nāśavad"
+      },
+      {
+        "word_sanskrit": "देहेन्द्रियप्राणधियाम्",
+        "word_english": "of-body-senses-vital-forces-mind",
+        "transliteration": "dehendriyaprāṇadhiyām",
+        "grammar_role": "dehendriyaprāṇadhiyām"
+      },
+      {
+        "word_sanskrit": "विनाशः",
+        "word_english": "destruction",
+        "transliteration": "vināśaḥ",
+        "grammar_role": "vināśaḥ"
+      },
+      {
+        "word_sanskrit": "नैव",
+        "word_english": "not",
+        "transliteration": "naiva",
+        "grammar_role": "naiva"
+      },
+      {
+        "word_sanskrit": "आत्मनः",
+        "word_english": "of-Self",
+        "transliteration": "ātmanaḥ",
+        "grammar_role": "ātmanaḥ"
+      },
+      {
+        "word_sanskrit": "स्वस्य",
+        "word_english": "of-own",
+        "transliteration": "svasya",
+        "grammar_role": "svasya"
+      },
+      {
+        "word_sanskrit": "सदात्मकस्य",
+        "word_english": "ever-existent",
+        "transliteration": "sadātmakasya",
+        "grammar_role": "sadātmakasya"
+      },
+      {
+        "word_sanskrit": "आनन्दाकृतेः",
+        "word_english": "blissful",
+        "transliteration": "nandākṛter",
+        "grammar_role": "nandākṛter"
+      },
+      {
+        "word_sanskrit": "वृक्षवत्",
+        "word_english": "like-tree",
+        "transliteration": "vṛkṣavad",
+        "grammar_role": "vṛkṣavad"
+      },
+      {
+        "word_sanskrit": "अस्ति",
+        "word_english": "exists",
+        "transliteration": "asti",
+        "grammar_role": "asti"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "एषः",
+        "word_english": "this",
+        "transliteration": "eṣaḥ",
+        "grammar_role": "eṣaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 560,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u092a\u0924\u094d\u0930\u0938\u094d\u092f \u092a\u0941\u0937\u094d\u092a\u0938\u094d\u092f \u092b\u0932\u0938\u094d\u092f \u0928\u093e\u0936\u0935\u0926\u094d \u0926\u0947\u0939\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u092a\u094d\u0930\u093e\u0923\u0927\u093f\u092f\u093e\u0902 \u0935\u093f\u0928\u093e\u0936\u0903 \u0964\n\u0928\u0948\u0935\u093e\u0924\u094d\u092e\u0928\u0903 \u0938\u094d\u0935\u0938\u094d\u092f \u0938\u0926\u093e\u0924\u094d\u092e\u0915\u0938\u094d\u092f\u093e \u0928\u0928\u094d\u0926\u093e\u0915\u0943\u0924\u0947\u0930\u094d\u0935\u0943\u0915\u094d\u0937\u0935\u0926\u0938\u094d\u0924\u093f \u091a\u0948\u0937\u0903 \u0965 \u096b\u096c0 \u0965",
-    "transliteration": "patrasya pu\u1e63pasya phalasya n\u0101\u015bavad dehendriyapr\u0101\u1e47adhiy\u0101\u1e43 vin\u0101\u015ba\u1e25 |\nnaiv\u0101tmana\u1e25 svasya sad\u0101tmakasy\u0101 nand\u0101k\u1e5bterv\u1e5bk\u1e63avadasti cai\u1e63a\u1e25 || 560 ||",
-    "translation": "The destruction of the body, organs, Pr\u0101\u1e47as and Buddhi is like that of a leaf or flower or fruit (to a tree). It does not affect the \u0100tman, the Reality, the Embodiment of Bliss \u2013 which is one\u2019s true nature. That survives, like the tree.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Katha Upanishad 1.3.10 match",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Atman",
+        "Deha",
+        "Indriya",
+        "Prana",
+        "Dhi",
+        "Vinasha",
+        "Sadasat",
+        "Ananda",
+        "Vriksha",
+        "Nitya",
+        "Anitya"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_11",
+    "verse_number": 561,
+    "chapter_number": 12,
+    "sanskrit_shloka": "प्रज्ञानघन इत्यात्मलक्षणं सत्यसूचकम् । अनूद्यौपाधिकस्यैव कथयन्ति विनाशनम् ॥ ५६१ ॥",
+    "text": "प्रज्ञानघन इत्यात्मलक्षणं सत्यसूचकम् । अनूद्यौपाधिकस्यैव कथयन्ति विनाशनम् ॥ ५६१ ॥",
+    "transliteration": "prajñānaghana ityātmalakṣaṇaṃ satyasūcakam | anūdyaupādhikasyaiva kathayanti vināśanam || 561 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Manana",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Prajñāna",
+      "Ātman",
+      "Upādhi",
+      "Vināśana",
+      "Satya",
+      "Lakṣaṇa"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "The destruction of the body, organs, Pr\u0101\u1e47as and Buddhi is like that of a leaf or flower or fruit (to a tree). It does not affect the \u0100tman, the Reality, the Embodiment of Bliss \u2013 which is one\u2019s true nature. That survives, like the tree."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The Self is characterized as 'mass of consciousness'—this is the indicator of truth; they speak of the destruction only of the adjuncts, not of the Self itself."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "आत्मा का लक्षण 'चेतना का घन' है—यह सत्य का सूचक है; केवल उपाधियों के नाश की ही बात की जाती है, आत्मा के नहीं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_561",
+    "word_by_word": [
+      {
+        "word_sanskrit": "प्रज्ञानघन",
+        "word_english": "mass of consciousness",
+        "transliteration": "prajñānaghana",
+        "grammar_role": "prajñānaghana"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "आत्मलक्षणं",
+        "word_english": "characteristic of the Self",
+        "transliteration": "ātmalakṣaṇaṃ",
+        "grammar_role": "ātmalakṣaṇaṃ"
+      },
+      {
+        "word_sanskrit": "सत्यसूचकम्",
+        "word_english": "indicator of truth",
+        "transliteration": "satyasūcakam",
+        "grammar_role": "satyasūcakam"
+      },
+      {
+        "word_sanskrit": "अनूद्य",
+        "word_english": "not",
+        "transliteration": "anūdya",
+        "grammar_role": "anūdya"
+      },
+      {
+        "word_sanskrit": "औपाधिकस्य",
+        "word_english": "of the adjuncts",
+        "transliteration": "upādhikasya",
+        "grammar_role": "upādhikasya"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "only",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "कथयन्ति",
+        "word_english": "they speak",
+        "transliteration": "kathayanti",
+        "grammar_role": "kathayanti"
+      },
+      {
+        "word_sanskrit": "विनाशनम्",
+        "word_english": "destruction",
+        "transliteration": "vināśanam",
+        "grammar_role": "vināśanam"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 561,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u092a\u094d\u0930\u091c\u094d\u091e\u093e\u0928\u0918\u0928 \u0907\u0924\u094d\u092f\u093e\u0924\u094d\u092e\u0932\u0915\u094d\u0937\u0923\u0902 \u0938\u0924\u094d\u092f\u0938\u0942\u091a\u0915\u092e\u094d \u0964\n\u0905\u0928\u0942\u0926\u094d\u092f\u094c\u092a\u093e\u0927\u093f\u0915\u0938\u094d\u092f\u0948\u0935 \u0915\u0925\u092f\u0928\u094d\u0924\u093f \u0935\u093f\u0928\u093e\u0936\u0928\u092e\u094d \u0965 \u096b\u096c\u0967 \u0965",
-    "transliteration": "praj\u00f1\u0101naghana ity\u0101tmalak\u1e63a\u1e47a\u1e43 satyas\u016bcakam |\nan\u016bdyaup\u0101dhikasyaiva kathayanti vin\u0101\u015banam || 561 ||",
-    "translation": "The \u015arutis, by setting forth the real nature of the \u0100tman in the words, \"The Embodiment of Knowledge\" etc., which indicate Its Reality, speak of the destruction of the apparent limitations merely.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Prajnanam Brahma (Aitareya Upanishad 3.3)",
+      "mahavakya_correlative": "Prajnanam Brahma",
+      "keywords_sanskrit": [
+        "Prajñāna",
+        "Ātman",
+        "Upādhi",
+        "Vināśana",
+        "Satya",
+        "Lakṣaṇa"
+      ],
+      "sadhana_stage": "Manana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_12",
+    "verse_number": 562,
+    "chapter_number": 12,
+    "sanskrit_shloka": "अविनाशी वा अरेऽयमात्मेति श्रुतिरात्मनः । प्रब्रवीत्यविनाशित्वं विनश्यत्सु विकारिषु ॥ ५६२ ॥",
+    "text": "अविनाशी वा अरेऽयमात्मेति श्रुतिरात्मनः । प्रब्रवीत्यविनाशित्वं विनश्यत्सु विकारिषु ॥ ५६२ ॥",
+    "transliteration": "avināśī vā are'yamātmeti śrutirātmanaḥ | prabravītyavināśitvaṃ vinaśyatsu vikāriṣu || 562 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Ātman",
+      "Avināśitva",
+      "Vikāra",
+      "Śruti",
+      "Anātman",
+      "Vinaśyat"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "The \u015arutis, by setting forth the real nature of the \u0100tman in the words, \"The Embodiment of Knowledge\" etc., which indicate Its Reality, speak of the destruction of the apparent limitations merely."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The Śruti declares, 'This Self is indestructible,' thereby establishing its indestructibility even amidst perishable modifications."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "श्रुति कहती है, 'यह आत्मा अविनाशी है,' इस प्रकार वह विनाशशील परिवर्तनों के बीच भी अविनाशित्व की स्थापना करती है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_562",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अविनाशी",
+        "word_english": "indestructible",
+        "transliteration": "avināśī",
+        "grammar_role": "avināśī"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "or",
+        "transliteration": "vā",
+        "grammar_role": "vā"
+      },
+      {
+        "word_sanskrit": "अरे",
+        "word_english": "are",
+        "transliteration": "are",
+        "grammar_role": "are"
+      },
+      {
+        "word_sanskrit": "अयम्",
+        "word_english": "this",
+        "transliteration": "ayam",
+        "grammar_role": "ayam"
+      },
+      {
+        "word_sanskrit": "आत्मा",
+        "word_english": "Self",
+        "transliteration": "ātmā",
+        "grammar_role": "ātmā"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "श्रुतिः",
+        "word_english": "Śruti",
+        "transliteration": "śrutiḥ",
+        "grammar_role": "śrutiḥ"
+      },
+      {
+        "word_sanskrit": "आत्मनः",
+        "word_english": "of the Self",
+        "transliteration": "ātmanaḥ",
+        "grammar_role": "ātmanaḥ"
+      },
+      {
+        "word_sanskrit": "प्रब्रवीति",
+        "word_english": "declares",
+        "transliteration": "prabravīti",
+        "grammar_role": "prabravīti"
+      },
+      {
+        "word_sanskrit": "अविनाशित्वं",
+        "word_english": "indestructibility",
+        "transliteration": "avināśitvaṃ",
+        "grammar_role": "avināśitvaṃ"
+      },
+      {
+        "word_sanskrit": "विनश्यत्सु",
+        "word_english": "in perishable",
+        "transliteration": "vinaśyatsu",
+        "grammar_role": "vinaśyatsu"
+      },
+      {
+        "word_sanskrit": "विकारिषु",
+        "word_english": "modifications",
+        "transliteration": "vikāriṣu",
+        "grammar_role": "vikāriṣu"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 562,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0905\u0935\u093f\u0928\u093e\u0936\u0940 \u0935\u093e \u0905\u0930\u0947\u093d\u092f\u092e\u093e\u0924\u094d\u092e\u0947\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u093f\u0930\u093e\u0924\u094d\u092e\u0928\u0903 \u0964\n\u092a\u094d\u0930\u092c\u094d\u0930\u0935\u0940\u0924\u094d\u092f\u0935\u093f\u0928\u093e\u0936\u093f\u0924\u094d\u0935\u0902 \u0935\u093f\u0928\u0936\u094d\u092f\u0924\u094d\u0938\u0941 \u0935\u093f\u0915\u093e\u0930\u093f\u0937\u0941 \u0965 \u096b\u096c\u0968 \u0965",
-    "transliteration": "avin\u0101\u015b\u012b v\u0101 are'yam\u0101tmeti \u015brutir\u0101tmana\u1e25 |\nprabrav\u012btyavin\u0101\u015bitva\u1e43 vina\u015byatsu vik\u0101ri\u1e63u || 562 ||",
-    "translation": "The \u015aruti passage, \"Verily is this \u0100tman immortal, my dear\", mentions the immortality of the \u0100tman in the midst of things perishable and subject to modification.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Katha Upanishad 1.3.10 match",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Ātman",
+        "Avināśitva",
+        "Vikāra",
+        "Śruti",
+        "Anātman",
+        "Vinaśyat"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_13",
+    "verse_number": 563,
+    "chapter_number": 12,
+    "sanskrit_shloka": "पाषाणवृक्षतृणधान्यकडङ्कराद्या दग्धा भवन्ति हि मृदेव यथा तथैव । देहेन्द्रियासुमन आदि समस्तदृश्यं ज्ञानाग्निदग्धमुपयाति परात्मभावम् ॥ ५६३ ॥",
+    "text": "पाषाणवृक्षतृणधान्यकडङ्कराद्या दग्धा भवन्ति हि मृदेव यथा तथैव । देहेन्द्रियासुमन आदि समस्तदृश्यं ज्ञानाग्निदग्धमुपयाति परात्मभावम् ॥ ५६३ ॥",
+    "transliteration": "pāṣāṇavṛkṣatṛṇadhānyakaḍaṅkarādyā dagdhā bhavanti hi mṛdeva yathā tathaiva | dehendriyāsumana ādi samastadṛśyaṃ jñānāgnidagdhamupayāti parātmabhāvam || 563 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Vivartavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Jñāna",
+      "Dṛśya",
+      "Parātman",
+      "Mṛd",
+      "Dagdha",
+      "Upādhi",
+      "Anātman"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "The \u015aruti passage, \"Verily is this \u0100tman immortal, my dear\", mentions the immortality of the \u0100tman in the midst of things perishable and subject to modification."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Just as stones, trees, grass, grains, and iron objects, when burned, become nothing but earth, so too, all objects of perception — body, senses, mind, and so on — consumed by the fire of knowledge, attain the state of the Supreme Self."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जैसे पत्थर, वृक्ष, घास, अन्न और लोहे की वस्तुएँ जलने पर केवल मिट्टी ही बन जाती हैं, वैसे ही शरीर, इन्द्रियों, मन आदि समस्त दृश्य वस्तुएँ ज्ञान की अग्नि से जलकर परमात्मभाव को प्राप्त हो जाती हैं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_563",
+    "word_by_word": [
+      {
+        "word_sanskrit": "पाषाण",
+        "word_english": "stones",
+        "transliteration": "pāṣāṇa",
+        "grammar_role": "pāṣāṇa"
+      },
+      {
+        "word_sanskrit": "वृक्ष",
+        "word_english": "trees",
+        "transliteration": "vṛkṣa",
+        "grammar_role": "vṛkṣa"
+      },
+      {
+        "word_sanskrit": "तृण",
+        "word_english": "grass",
+        "transliteration": "tṛṇa",
+        "grammar_role": "tṛṇa"
+      },
+      {
+        "word_sanskrit": "धान्य",
+        "word_english": "grains",
+        "transliteration": "dhānya",
+        "grammar_role": "dhānya"
+      },
+      {
+        "word_sanskrit": "कडङ्कर",
+        "word_english": "iron objects",
+        "transliteration": "kaḍaṅkara",
+        "grammar_role": "kaḍaṅkara"
+      },
+      {
+        "word_sanskrit": "आद्याः",
+        "word_english": "and others",
+        "transliteration": "ādyāḥ",
+        "grammar_role": "ādyāḥ"
+      },
+      {
+        "word_sanskrit": "दग्धाः",
+        "word_english": "burned",
+        "transliteration": "dagdhāḥ",
+        "grammar_role": "dagdhāḥ"
+      },
+      {
+        "word_sanskrit": "भवन्ति",
+        "word_english": "become",
+        "transliteration": "bhavanti",
+        "grammar_role": "bhavanti"
+      },
+      {
+        "word_sanskrit": "हि",
+        "word_english": "indeed",
+        "transliteration": "hi",
+        "grammar_role": "hi"
+      },
+      {
+        "word_sanskrit": "मृदा",
+        "word_english": "earth",
+        "transliteration": "mṛdā",
+        "grammar_role": "mṛdā"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "indeed",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "transliteration": "yathā",
+        "grammar_role": "yathā"
+      },
+      {
+        "word_sanskrit": "तथा",
+        "word_english": "so",
+        "transliteration": "tathā",
+        "grammar_role": "tathā"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "indeed",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "देह",
+        "word_english": "body",
+        "transliteration": "deha",
+        "grammar_role": "deha"
+      },
+      {
+        "word_sanskrit": "इन्द्रिय",
+        "word_english": "senses",
+        "transliteration": "indriya",
+        "grammar_role": "indriya"
+      },
+      {
+        "word_sanskrit": "असु",
+        "word_english": "life-breaths",
+        "transliteration": "asu",
+        "grammar_role": "asu"
+      },
+      {
+        "word_sanskrit": "मन",
+        "word_english": "mind",
+        "transliteration": "mana",
+        "grammar_role": "mana"
+      },
+      {
+        "word_sanskrit": "आदि",
+        "word_english": "and so on",
+        "transliteration": "ādi",
+        "grammar_role": "ādi"
+      },
+      {
+        "word_sanskrit": "समस्त",
+        "word_english": "entire",
+        "transliteration": "samasta",
+        "grammar_role": "samasta"
+      },
+      {
+        "word_sanskrit": "दृश्यं",
+        "word_english": "visible",
+        "transliteration": "dṛśyaṃ",
+        "grammar_role": "dṛśyaṃ"
+      },
+      {
+        "word_sanskrit": "ज्ञान",
+        "word_english": "knowledge",
+        "transliteration": "jñāna",
+        "grammar_role": "jñāna"
+      },
+      {
+        "word_sanskrit": "अग्नि",
+        "word_english": "fire",
+        "transliteration": "agni",
+        "grammar_role": "agni"
+      },
+      {
+        "word_sanskrit": "दग्धम्",
+        "word_english": "burned",
+        "transliteration": "dagdham",
+        "grammar_role": "dagdham"
+      },
+      {
+        "word_sanskrit": "उपयाति",
+        "word_english": "attains",
+        "transliteration": "upayāti",
+        "grammar_role": "upayāti"
+      },
+      {
+        "word_sanskrit": "परात्मभावम्",
+        "word_english": "state of the Supreme Self",
+        "transliteration": "parātmabhāvam",
+        "grammar_role": "parātmabhāvam"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 563,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u092a\u093e\u0937\u093e\u0923\u0935\u0943\u0915\u094d\u0937\u0924\u0943\u0923\u0927\u093e\u0928\u094d\u092f\u0915\u0921\u0919\u094d\u0915\u0930\u093e\u0926\u094d\u092f\u093e \u0926\u0917\u094d\u0927\u093e \u092d\u0935\u0928\u094d\u0924\u093f \u0939\u093f \u092e\u0943\u0926\u0947\u0935 \u092f\u0925\u093e \u0924\u0925\u0948\u0935 \u0964\n\u0926\u0947\u0939\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u093e\u0938\u0941\u092e\u0928 \u0906\u0926\u093f \u0938\u092e\u0938\u094d\u0924\u0926\u0943\u0936\u094d\u092f\u0902 \u091c\u094d\u091e\u093e\u0928\u093e\u0917\u094d\u0928\u093f\u0926\u0917\u094d\u0927\u092e\u0941\u092a\u092f\u093e\u0924\u093f \u092a\u0930\u093e\u0924\u094d\u092e\u092d\u093e\u0935\u092e\u094d \u0965 \u096b\u096c\u0969 \u0965",
-    "transliteration": "p\u0101\u1e63\u0101\u1e47av\u1e5bk\u1e63at\u1e5b\u1e47adh\u0101nyaka\u1e0da\u1e45kar\u0101dy\u0101 dagdh\u0101 bhavanti hi m\u1e5bdeva yath\u0101 tathaiva |\ndehendriy\u0101sumana \u0101di samastad\u1e5b\u015bya\u1e43 j\u00f1\u0101n\u0101gnidagdhamupay\u0101ti par\u0101tmabh\u0101vam || 563 ||",
-    "translation": "Just as a stone, a tree, grass, paddy, husk, etc., when burnt, are reduced to earth (ashes) only, even so the whole objective universe comprising the body, organs, Pr\u0101\u1e47as, Manas and so forth, are, when burnt by the fire of realisation, reduced to the Supreme Self.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Vivartavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Bhagavad Gita Chapter 4 resonance",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Jñāna",
+        "Dṛśya",
+        "Parātman",
+        "Mṛd",
+        "Dagdha",
+        "Upādhi",
+        "Anātman"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_14",
+    "verse_number": 564,
+    "chapter_number": 12,
+    "sanskrit_shloka": "विलक्षणं यथा ध्वान्तं लीयते भानुतेजसि । तथैव सकलं दृश्यं ब्रह्मणि प्रविलीयते ॥ ५६४ ॥",
+    "text": "विलक्षणं यथा ध्वान्तं लीयते भानुतेजसि । तथैव सकलं दृश्यं ब्रह्मणि प्रविलीयते ॥ ५६४ ॥",
+    "transliteration": "vilakṣaṇaṃ yathā dhvāntaṃ līyate bhānutejasi | tathaiva sakalaṃ dṛśyaṃ brahmaṇi pravilīyate || 564 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Vivartavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Brahman",
+      "Dṛśya",
+      "Vilaya",
+      "Maya",
+      "Adhyāsa",
+      "Apavāda"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Just as a stone, a tree, grass, paddy, husk, etc., when burnt, are reduced to earth (ashes) only, even so the whole objective universe comprising the body, organs, Pr\u0101\u1e47as, Manas and so forth, are, when burnt by the fire of realisation, reduced to the Supreme Self."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Just as darkness, which is entirely different, dissolves in the light of the sun, so too does the entire visible world dissolve in Brahman."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जिस प्रकार अंधकार, जो पूर्णतः भिन्न है, सूर्य के प्रकाश में लीन हो जाता है, उसी प्रकार समस्त दृश्यमान विश्व ब्रह्म में लीन हो जाता है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_564",
+    "word_by_word": [
+      {
+        "word_sanskrit": "विलक्षणं",
+        "word_english": "entirely different",
+        "transliteration": "vilakṣaṇaṃ",
+        "grammar_role": "vilakṣaṇaṃ"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "transliteration": "yathā",
+        "grammar_role": "yathā"
+      },
+      {
+        "word_sanskrit": "ध्वान्तं",
+        "word_english": "darkness",
+        "transliteration": "dhvāntaṃ",
+        "grammar_role": "dhvāntaṃ"
+      },
+      {
+        "word_sanskrit": "लीयते",
+        "word_english": "dissolves",
+        "transliteration": "līyate",
+        "grammar_role": "līyate"
+      },
+      {
+        "word_sanskrit": "भानुतेजसि",
+        "word_english": "in the light of the sun",
+        "transliteration": "bhānutejasi",
+        "grammar_role": "bhānutejasi"
+      },
+      {
+        "word_sanskrit": "तथैव",
+        "word_english": "so too",
+        "transliteration": "tathaiva",
+        "grammar_role": "tathaiva"
+      },
+      {
+        "word_sanskrit": "सकलं",
+        "word_english": "entire",
+        "transliteration": "sakalaṃ",
+        "grammar_role": "sakalaṃ"
+      },
+      {
+        "word_sanskrit": "दृश्यं",
+        "word_english": "visible world",
+        "transliteration": "dṛśyaṃ",
+        "grammar_role": "dṛśyaṃ"
+      },
+      {
+        "word_sanskrit": "ब्रह्मणि",
+        "word_english": "in Brahman",
+        "transliteration": "brahmaṇi",
+        "grammar_role": "brahmaṇi"
+      },
+      {
+        "word_sanskrit": "प्रविलीयते",
+        "word_english": "dissolves",
+        "transliteration": "pravilīyate",
+        "grammar_role": "pravilīyate"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 564,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0935\u093f\u0932\u0915\u094d\u0937\u0923\u0902 \u092f\u0925\u093e \u0927\u094d\u0935\u093e\u0928\u094d\u0924\u0902 \u0932\u0940\u092f\u0924\u0947 \u092d\u093e\u0928\u0941\u0924\u0947\u091c\u0938\u093f \u0964\n\u0924\u0925\u0948\u0935 \u0938\u0915\u0932\u0902 \u0926\u0943\u0936\u094d\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093f \u092a\u094d\u0930\u0935\u093f\u0932\u0940\u092f\u0924\u0947 \u0965 \u096b\u096c\u096a \u0965",
-    "transliteration": "vilak\u1e63a\u1e47a\u1e43 yath\u0101 dhv\u0101nta\u1e43 l\u012byate bh\u0101nutejasi |\ntathaiva sakala\u1e43 d\u1e5b\u015bya\u1e43 brahma\u1e47i pravil\u012byate || 564 ||",
-    "translation": "As darkness, which is distinct (from sunshine), vanishes in the sun\u2019s radiance, so the whole objective universe dissolves in Brahman.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Vivartavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Katha Upanishad 1.3.10 match",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Brahman",
+        "Dṛśya",
+        "Vilaya",
+        "Maya",
+        "Adhyāsa",
+        "Apavāda"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_15",
+    "verse_number": 565,
+    "chapter_number": 12,
+    "sanskrit_shloka": "घटे नष्टे यथा व्योम व्योमैव भवति स्फुटम् । तथैवोपाधिविलये ब्रह्मैव ब्रह्मवित्स्वयम् ॥ ५६५ ॥",
+    "text": "घटे नष्टे यथा व्योम व्योमैव भवति स्फुटम् । तथैवोपाधिविलये ब्रह्मैव ब्रह्मवित्स्वयम् ॥ ५६५ ॥",
+    "transliteration": "ghaṭe naṣṭe yathā vyoma vyomaiva bhavati sphuṭam | tathaivopādhivilaye brahmaiva brahmavitsvayam || 565 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Manana",
+    "primary_doctrine": "Avachedavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Upadhi",
+      "Vilaya",
+      "Brahman",
+      "Brahmavit",
+      "Vyoma",
+      "Ghata"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "As darkness, which is distinct (from sunshine), vanishes in the sun\u2019s radiance, so the whole objective universe dissolves in Brahman."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Just as, when the pot is destroyed, space alone remains clearly evident, so too, when the adjuncts are dissolved, Brahman alone remains — the knower of Brahman is none other than Brahman himself."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जैसे घट के नष्ट होने पर आकाश ही स्पष्ट रूप से बच जाता है, वैसे ही उपाधियों के लय होने पर ब्रह्म ही शेष रहता है — ब्रह्म को जानने वाला स्वयं ब्रह्म ही है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_565",
+    "word_by_word": [
+      {
+        "word_sanskrit": "घटे",
+        "word_english": "pot",
+        "transliteration": "ghaṭe",
+        "grammar_role": "ghaṭe"
+      },
+      {
+        "word_sanskrit": "नष्टे",
+        "word_english": "destroyed",
+        "transliteration": "naṣṭe",
+        "grammar_role": "naṣṭe"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "transliteration": "yathā",
+        "grammar_role": "yathā"
+      },
+      {
+        "word_sanskrit": "व्योम",
+        "word_english": "space",
+        "transliteration": "vyoma",
+        "grammar_role": "vyoma"
+      },
+      {
+        "word_sanskrit": "व्योमैव",
+        "word_english": "space alone",
+        "transliteration": "vyomaiva",
+        "grammar_role": "vyomaiva"
+      },
+      {
+        "word_sanskrit": "भवति",
+        "word_english": "becomes",
+        "transliteration": "bhavati",
+        "grammar_role": "bhavati"
+      },
+      {
+        "word_sanskrit": "स्फुटम्",
+        "word_english": "clearly",
+        "transliteration": "sphuṭam",
+        "grammar_role": "sphuṭam"
+      },
+      {
+        "word_sanskrit": "तथैव",
+        "word_english": "so too",
+        "transliteration": "tathaiva",
+        "grammar_role": "tathaiva"
+      },
+      {
+        "word_sanskrit": "उपाधिविलये",
+        "word_english": "when adjuncts are dissolved",
+        "transliteration": "upādhivilaye",
+        "grammar_role": "upādhivilaye"
+      },
+      {
+        "word_sanskrit": "ब्रह्मैव",
+        "word_english": "Brahman alone",
+        "transliteration": "brahmaiva",
+        "grammar_role": "brahmaiva"
+      },
+      {
+        "word_sanskrit": "ब्रह्मवित्स्वयम्",
+        "word_english": "the knower of Brahman is himself",
+        "transliteration": "brahmavitsvayam",
+        "grammar_role": "brahmavitsvayam"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 565,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0918\u091f\u0947 \u0928\u0937\u094d\u091f\u0947 \u092f\u0925\u093e \u0935\u094d\u092f\u094b\u092e \u0935\u094d\u092f\u094b\u092e\u0948\u0935 \u092d\u0935\u0924\u093f \u0938\u094d\u092b\u0941\u091f\u092e\u094d \u0964\n\u0924\u0925\u0948\u0935\u094b\u092a\u093e\u0927\u093f\u0935\u093f\u0932\u092f\u0947 \u092c\u094d\u0930\u0939\u094d\u092e\u0948\u0935 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0924\u094d\u0938\u094d\u0935\u092f\u092e\u094d \u0965 \u096b\u096c\u096b \u0965",
-    "transliteration": "gha\u1e6de na\u1e63\u1e6de yath\u0101 vyoma vyomaiva bhavati sphu\u1e6dam |\ntathaivop\u0101dhivilaye brahmaiva brahmavitsvayam || 565 ||",
-    "translation": "As, when a jar is broken, the space enclosed by it becomes palpably the limitless space, so when the apparent limitations are destroyed, the knower of Brahman verily becomes Brahman Itself.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Avachedavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Katha Upanishad 1.3.10 match",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Upadhi",
+        "Vilaya",
+        "Brahman",
+        "Brahmavit",
+        "Vyoma",
+        "Ghata"
+      ],
+      "sadhana_stage": "Manana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_16",
+    "verse_number": 566,
+    "chapter_number": 12,
+    "sanskrit_shloka": "क्षीरं क्षीरे यथा क्षिप्तं तैलं तैले जलं जले । संयुक्तमेकतां याति तथात्मन्यात्मविन्मुनिः ॥ ५६६ ॥",
+    "text": "क्षीरं क्षीरे यथा क्षिप्तं तैलं तैले जलं जले । संयुक्तमेकतां याति तथात्मन्यात्मविन्मुनिः ॥ ५६६ ॥",
+    "transliteration": "kṣīraṃ kṣīre yathā kṣiptaṃ tailaṃ taile jalaṃ jale | saṃyuktamekatāṃ yāti tathātmanyātmavinmuniḥ || 566 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Vivartavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Ātman",
+      "Brahman",
+      "Ekātmatā",
+      "Adhyāsa",
+      "Apavāda",
+      "Muni",
+      "Viveka"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "As, when a jar is broken, the space enclosed by it becomes palpably the limitless space, so when the apparent limitations are destroyed, the knower of Brahman verily becomes Brahman Itself."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Just as milk merges into milk, oil into oil, and water into water, so too does the wise sage, who knows the Self, merge into the Self."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जिस प्रकार दूध दूध में, तेल तेल में और जल जल में मिल जाता है, उसी प्रकार आत्मज्ञानी मुनि आत्मा में मिल जाता है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_566",
+    "word_by_word": [
+      {
+        "word_sanskrit": "क्षीरं",
+        "word_english": "milk",
+        "transliteration": "kṣīraṃ",
+        "grammar_role": "kṣīraṃ"
+      },
+      {
+        "word_sanskrit": "क्षीरे",
+        "word_english": "in milk",
+        "transliteration": "kṣīre",
+        "grammar_role": "kṣīre"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "transliteration": "yathā",
+        "grammar_role": "yathā"
+      },
+      {
+        "word_sanskrit": "क्षिप्तं",
+        "word_english": "thrown",
+        "transliteration": "kṣiptaṃ",
+        "grammar_role": "kṣiptaṃ"
+      },
+      {
+        "word_sanskrit": "तैलं",
+        "word_english": "oil",
+        "transliteration": "tailaṃ",
+        "grammar_role": "tailaṃ"
+      },
+      {
+        "word_sanskrit": "तैले",
+        "word_english": "in oil",
+        "transliteration": "taile",
+        "grammar_role": "taile"
+      },
+      {
+        "word_sanskrit": "जलं",
+        "word_english": "water",
+        "transliteration": "jalaṃ",
+        "grammar_role": "jalaṃ"
+      },
+      {
+        "word_sanskrit": "जले",
+        "word_english": "in water",
+        "transliteration": "jale",
+        "grammar_role": "jale"
+      },
+      {
+        "word_sanskrit": "संयुक्तम्",
+        "word_english": "united",
+        "transliteration": "saṃyuktam",
+        "grammar_role": "saṃyuktam"
+      },
+      {
+        "word_sanskrit": "एकतां",
+        "word_english": "oneness",
+        "transliteration": "ekatāṃ",
+        "grammar_role": "ekatāṃ"
+      },
+      {
+        "word_sanskrit": "याति",
+        "word_english": "attains",
+        "transliteration": "yāti",
+        "grammar_role": "yāti"
+      },
+      {
+        "word_sanskrit": "तथा",
+        "word_english": "so",
+        "transliteration": "tathā",
+        "grammar_role": "tathā"
+      },
+      {
+        "word_sanskrit": "आत्मनि",
+        "word_english": "in the Self",
+        "transliteration": "ātmani",
+        "grammar_role": "ātmani"
+      },
+      {
+        "word_sanskrit": "आत्मविन्",
+        "word_english": "knower of Self",
+        "transliteration": "ātmavin",
+        "grammar_role": "ātmavin"
+      },
+      {
+        "word_sanskrit": "मुनिः",
+        "word_english": "sage",
+        "transliteration": "muniḥ",
+        "grammar_role": "muniḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 566,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0915\u094d\u0937\u0940\u0930\u0902 \u0915\u094d\u0937\u0940\u0930\u0947 \u092f\u0925\u093e \u0915\u094d\u0937\u093f\u092a\u094d\u0924\u0902 \u0924\u0948\u0932\u0902 \u0924\u0948\u0932\u0947 \u091c\u0932\u0902 \u091c\u0932\u0947 \u0964\n\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u092e\u0947\u0915\u0924\u093e\u0902 \u092f\u093e\u0924\u093f \u0924\u0925\u093e\u0924\u094d\u092e\u0928\u094d\u092f\u093e\u0924\u094d\u092e\u0935\u093f\u0928\u094d\u092e\u0941\u0928\u093f\u0903 \u0965 \u096b\u096c\u096c \u0965",
-    "transliteration": "k\u1e63\u012bra\u1e43 k\u1e63\u012bre yath\u0101 k\u1e63ipta\u1e43 taila\u1e43 taile jala\u1e43 jale |\nsa\u1e43yuktamekat\u0101\u1e43 y\u0101ti tath\u0101tmany\u0101tmavinmuni\u1e25 || 566 ||",
-    "translation": "As milk poured into milk, oil into oil, and water into water, becomes united and one with it, so the sage who has realised the \u0100tman becomes one in the \u0100tman.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Vivartavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "mahavakya_correlative": "Tat Tvam Asi",
+      "keywords_sanskrit": [
+        "Ātman",
+        "Brahman",
+        "Ekātmatā",
+        "Adhyāsa",
+        "Apavāda",
+        "Muni",
+        "Viveka"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_17",
+    "verse_number": 567,
+    "chapter_number": 12,
+    "sanskrit_shloka": "एवं विदेहकैवल्यं सन्मात्रत्वमखण्डितम् । ब्रह्मभावं प्रपद्यैष यतिर्नावर्तते पुनः ॥ ५६७ ॥",
+    "text": "एवं विदेहकैवल्यं सन्मात्रत्वमखण्डितम् । ब्रह्मभावं प्रपद्यैष यतिर्नावर्तते पुनः ॥ ५६७ ॥",
+    "transliteration": "evaṃ videhakaivalyaṃ sanmātratvamakhaṇḍitam | brahmabhāvaṃ prapadyaiṣa yatirnāvartate punaḥ || 567 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Videha",
+      "Kaivalya",
+      "Sat",
+      "Akhandita",
+      "Brahmabhava",
+      "Yati",
+      "Avartana",
+      "Mukti"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "As milk poured into milk, oil into oil, and water into water, becomes united and one with it, so the sage who has realised the \u0100tman becomes one in the \u0100tman."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Thus, having attained the state of disembodied liberation—pure Being, indivisible—the ascetic enters the nature of Brahman and does not return again."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "इस प्रकार, निर्विकार निराकार मुक्ति को प्राप्त करके, जो सत्मात्रता अखण्डित है, यति ब्रह्मभाव को प्राप्त होता है और पुनः नहीं लौटता।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_567",
+    "word_by_word": [
+      {
+        "word_sanskrit": "एवम्",
+        "word_english": "thus",
+        "transliteration": "evaṃ",
+        "grammar_role": "evaṃ"
+      },
+      {
+        "word_sanskrit": "विदेहकैवल्यम्",
+        "word_english": "disembodied liberation",
+        "transliteration": "videhakaivalyaṃ",
+        "grammar_role": "videhakaivalyaṃ"
+      },
+      {
+        "word_sanskrit": "सन्मात्रत्वम्",
+        "word_english": "pure Being",
+        "transliteration": "sanmātratvam",
+        "grammar_role": "sanmātratvam"
+      },
+      {
+        "word_sanskrit": "अखण्डितम्",
+        "word_english": "indivisible",
+        "transliteration": "akhaṇḍitam",
+        "grammar_role": "akhaṇḍitam"
+      },
+      {
+        "word_sanskrit": "ब्रह्मभावम्",
+        "word_english": "nature of Brahman",
+        "transliteration": "brahmabhāvam",
+        "grammar_role": "brahmabhāvam"
+      },
+      {
+        "word_sanskrit": "प्रपद्यैष",
+        "word_english": "enters",
+        "transliteration": "prapadyaiṣa",
+        "grammar_role": "prapadyaiṣa"
+      },
+      {
+        "word_sanskrit": "यतिः",
+        "word_english": "ascetic",
+        "transliteration": "yatiḥ",
+        "grammar_role": "yatiḥ"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "अवर्तते",
+        "word_english": "returns",
+        "transliteration": "avartate",
+        "grammar_role": "avartate"
+      },
+      {
+        "word_sanskrit": "पुनः",
+        "word_english": "again",
+        "transliteration": "punaḥ",
+        "grammar_role": "punaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 567,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u090f\u0935\u0902 \u0935\u093f\u0926\u0947\u0939\u0915\u0948\u0935\u0932\u094d\u092f\u0902 \u0938\u0928\u094d\u092e\u093e\u0924\u094d\u0930\u0924\u094d\u0935\u092e\u0916\u0923\u094d\u0921\u093f\u0924\u092e\u094d \u0964\n\u092c\u094d\u0930\u0939\u094d\u092e\u092d\u093e\u0935\u0902 \u092a\u094d\u0930\u092a\u0926\u094d\u092f\u0948\u0937 \u092f\u0924\u093f\u0930\u094d\u0928\u093e\u0935\u0930\u094d\u0924\u0924\u0947 \u092a\u0941\u0928\u0903 \u0965 \u096b\u096c\u096d \u0965",
-    "transliteration": "eva\u1e43 videhakaivalya\u1e43 sanm\u0101tratvamakha\u1e47\u1e0ditam |\nbrahmabh\u0101va\u1e43 prapadyai\u1e63a yatirn\u0101vartate puna\u1e25 || 567 ||",
-    "translation": "Realising thus the extreme isolation that comes of disembodiedness, and becoming eternally identified with the Absolute Reality, Brahman, the sage no longer suffers transmigration.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Videha",
+        "Kaivalya",
+        "Sat",
+        "Akhandita",
+        "Brahmabhava",
+        "Yati",
+        "Avartana",
+        "Mukti"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_18",
+    "verse_number": 568,
+    "chapter_number": 12,
+    "sanskrit_shloka": "सदात्मैकत्वविज्ञानदग्धाविद्यादिवर्ष्मणः । अमुष्य ब्रह्मभूतत्वाद्ब्रह्मणः कुत उद्भवः ॥ ५६८ ॥",
+    "text": "सदात्मैकत्वविज्ञानदग्धाविद्यादिवर्ष्मणः । अमुष्य ब्रह्मभूतत्वाद्ब्रह्मणः कुत उद्भवः ॥ ५६८ ॥",
+    "transliteration": "sadātmaikatvavijñānadagdhāvidyādivarṣmaṇaḥ | amuṣya brahmabhūtatvādbrahmaṇaḥ kuta udbhavaḥ || 568 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Ajatavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Ātman",
+      "Brahman",
+      "Avidyā",
+      "Vijñāna",
+      "Brahmabhūtatva",
+      "Udbhava",
+      "Nitya",
+      "Anitya"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Realising thus the extreme isolation that comes of disembodiedness, and becoming eternally identified with the Absolute Reality, Brahman, the sage no longer suffers transmigration."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "By the knowledge of the eternal identity of the Self, the ignorance and its derivatives have been burned up; from whom (the Jiva) has become Brahman, how can there be any origination of Brahman?"
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "आत्मा की नित्य एकता के ज्ञान से अविद्या और उसके अन्य रूप जल चुके हैं; जिसने ब्रह्म भाव प्राप्त कर लिया है, उस ब्रह्म का कैसे उत्पाद हो सकता है?"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_568",
+    "word_by_word": [
+      {
+        "word_sanskrit": "सदा",
+        "word_english": "eternal",
+        "transliteration": "sadā",
+        "grammar_role": "sadā"
+      },
+      {
+        "word_sanskrit": "आत्मैकत्व",
+        "word_english": "identity of Self",
+        "transliteration": "ātmaikatva",
+        "grammar_role": "ātmaikatva"
+      },
+      {
+        "word_sanskrit": "विज्ञान",
+        "word_english": "knowledge",
+        "transliteration": "vijñāna",
+        "grammar_role": "vijñāna"
+      },
+      {
+        "word_sanskrit": "दग्ध",
+        "word_english": "burned",
+        "transliteration": "dagdha",
+        "grammar_role": "dagdha"
+      },
+      {
+        "word_sanskrit": "अविद्यादि",
+        "word_english": "ignorance and its derivatives",
+        "transliteration": "avidyādi",
+        "grammar_role": "avidyādi"
+      },
+      {
+        "word_sanskrit": "वर्ष्मणः",
+        "word_english": "from whom",
+        "transliteration": "varṣmaṇaḥ",
+        "grammar_role": "varṣmaṇaḥ"
+      },
+      {
+        "word_sanskrit": "अमुष्य",
+        "word_english": "that",
+        "transliteration": "amuṣya",
+        "grammar_role": "amuṣya"
+      },
+      {
+        "word_sanskrit": "ब्रह्मभूतत्वात्",
+        "word_english": "because of becoming Brahman",
+        "transliteration": "brahmabhūtatvāt",
+        "grammar_role": "brahmabhūtatvāt"
+      },
+      {
+        "word_sanskrit": "ब्रह्मणः",
+        "word_english": "of Brahman",
+        "transliteration": "brahmaṇaḥ",
+        "grammar_role": "brahmaṇaḥ"
+      },
+      {
+        "word_sanskrit": "कुत",
+        "word_english": "how",
+        "transliteration": "kuta",
+        "grammar_role": "kuta"
+      },
+      {
+        "word_sanskrit": "उद्भवः",
+        "word_english": "origination",
+        "transliteration": "udbhavaḥ",
+        "grammar_role": "udbhavaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 568,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0938\u0926\u093e\u0924\u094d\u092e\u0948\u0915\u0924\u094d\u0935\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0926\u0917\u094d\u0927\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0926\u093f\u0935\u0930\u094d\u0937\u094d\u092e\u0923\u0903 \u0964\n\u0905\u092e\u0941\u0937\u094d\u092f \u092c\u094d\u0930\u0939\u094d\u092e\u092d\u0942\u0924\u0924\u094d\u0935\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0923\u0903 \u0915\u0941\u0924 \u0909\u0926\u094d\u092d\u0935\u0903 \u0965 \u096b\u096c\u096e \u0965",
-    "transliteration": "sad\u0101tmaikatvavij\u00f1\u0101nadagdh\u0101vidy\u0101divar\u1e63ma\u1e47a\u1e25 |\namu\u1e63ya brahmabh\u016btatv\u0101dbrahma\u1e47a\u1e25 kuta udbhava\u1e25 || 568 ||",
-    "translation": "For his bodies, consisting of Nescience etc., having been burnt by the realisation of the identity of the J\u012bva and Brahman, he becomes Brahman Itself; and how can Brahman ever have rebirth?",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Ajatavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Ātman",
+        "Brahman",
+        "Avidyā",
+        "Vijñāna",
+        "Brahmabhūtatva",
+        "Udbhava",
+        "Nitya",
+        "Anitya"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_19",
+    "verse_number": 569,
+    "chapter_number": 12,
+    "sanskrit_shloka": "मायाकॢप्तौ बन्धमोक्षौ न स्तः स्वात्मनि वस्तुतः । यथा रज्जौ निष्क्रियायां सर्पाभासविनिर्गमौ ॥ ५६९ ॥",
+    "text": "मायाकॢप्तौ बन्धमोक्षौ न स्तः स्वात्मनि वस्तुतः । यथा रज्जौ निष्क्रियायां सर्पाभासविनिर्गमौ ॥ ५६९ ॥",
+    "transliteration": "māyākḷptau bandhamokṣau na staḥ svātmani vastutaḥ | yathā rajjau niṣkriyāyāṃ sarpābhāsavinirgamau || 569 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Vivartavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Viparyaya",
+    "keywords_sanskrit": [
+      "Maya",
+      "Bandha",
+      "Moksha",
+      "Sarpa",
+      "Rajju",
+      "Svātman",
+      "Abhāsa"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "For his bodies, consisting of Nescience etc., having been burnt by the realisation of the identity of the J\u012bva and Brahman, he becomes Brahman Itself; and how can Brahman ever have rebirth?"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Bondage and liberation, being products of Maya, do not truly exist in the Self; just as the appearance and disappearance of a snake do not truly exist in the inert rope."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "बंध और मोक्ष, माया के उत्पाद होने के कारण, आत्मा में वास्तविक रूप से नहीं हैं; जैसे एक अजड़ रज्जु में सर्प के प्रतिबिंब का उदय और विनाश वास्तविक रूप से नहीं होता।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_569",
+    "word_by_word": [
+      {
+        "word_sanskrit": "मायाकॢप्तौ",
+        "word_english": "imagined by Maya",
+        "transliteration": "māyākḷptau",
+        "grammar_role": "māyākḷptau"
+      },
+      {
+        "word_sanskrit": "बन्धमोक्षौ",
+        "word_english": "bondage and liberation",
+        "transliteration": "bandhamokṣau",
+        "grammar_role": "bandhamokṣau"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "स्तः",
+        "word_english": "exist",
+        "transliteration": "staḥ",
+        "grammar_role": "staḥ"
+      },
+      {
+        "word_sanskrit": "स्वात्मनि",
+        "word_english": "in the Self",
+        "transliteration": "svātmani",
+        "grammar_role": "svātmani"
+      },
+      {
+        "word_sanskrit": "वस्तुतः",
+        "word_english": "in reality",
+        "transliteration": "vastutaḥ",
+        "grammar_role": "vastutaḥ"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "transliteration": "yathā",
+        "grammar_role": "yathā"
+      },
+      {
+        "word_sanskrit": "रज्जौ",
+        "word_english": "in the rope",
+        "transliteration": "rajjau",
+        "grammar_role": "rajjau"
+      },
+      {
+        "word_sanskrit": "निष्क्रियायां",
+        "word_english": "in the inert",
+        "transliteration": "niṣkriyāyāṃ",
+        "grammar_role": "niṣkriyāyāṃ"
+      },
+      {
+        "word_sanskrit": "सर्पाभासविनिर्गमौ",
+        "word_english": "appearance and disappearance of the snake",
+        "transliteration": "sarpābhāsavinirgamau",
+        "grammar_role": "sarpābhāsavinirgamau"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 569,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u092e\u093e\u092f\u093e\u0915\u0962\u092a\u094d\u0924\u094c \u092c\u0928\u094d\u0927\u092e\u094b\u0915\u094d\u0937\u094c \u0928 \u0938\u094d\u0924\u0903 \u0938\u094d\u0935\u093e\u0924\u094d\u092e\u0928\u093f \u0935\u0938\u094d\u0924\u0941\u0924\u0903 \u0964\n\u092f\u0925\u093e \u0930\u091c\u094d\u091c\u094c \u0928\u093f\u0937\u094d\u0915\u094d\u0930\u093f\u092f\u093e\u092f\u093e\u0902 \u0938\u0930\u094d\u092a\u093e\u092d\u093e\u0938\u0935\u093f\u0928\u093f\u0930\u094d\u0917\u092e\u094c \u0965 \u096b\u096c\u096f \u0965",
-    "transliteration": "m\u0101y\u0101k\u1e37ptau bandhamok\u1e63au na sta\u1e25 sv\u0101tmani vastuta\u1e25 |\nyath\u0101 rajjau ni\u1e63kriy\u0101y\u0101\u1e43 sarp\u0101bh\u0101savinirgamau || 569 ||",
-    "translation": "Bondage and Liberation, which are conjured up by M\u0101y\u0101, do not really exist in the \u0100tman, one\u2019s Reality, as the appearance and exit of the snake do not abide in the rope, which suffers no change.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Vivartavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "keywords_sanskrit": [
+        "Maya",
+        "Bandha",
+        "Moksha",
+        "Sarpa",
+        "Rajju",
+        "Svātman",
+        "Abhāsa"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Viparyaya",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_20",
+    "verse_number": 570,
+    "chapter_number": 12,
+    "sanskrit_shloka": "आवृतेः सदसत्त्वाभ्यां वक्तव्ये बन्धमोक्षणे । नावृतिर्ब्रह्मणः काचिदन्याभावादनावृतम् यद्यस्त्यद्वैतहानिः स्याद्द्वैतं नो सहते श्रुतिः ॥ ५७० ॥",
+    "text": "आवृतेः सदसत्त्वाभ्यां वक्तव्ये बन्धमोक्षणे । नावृतिर्ब्रह्मणः काचिदन्याभावादनावृतम् यद्यस्त्यद्वैतहानिः स्याद्द्वैतं नो सहते श्रुतिः ॥ ५७० ॥",
+    "transliteration": "āvṛteḥ sadasattvābhyāṃ vaktavye bandhamokṣaṇe | nāvṛtirbrahmaṇaḥ kācidanyābhāvādanāvṛtam yadyastyadvaitahāniḥ syāddvaitaṃ no sahate śrutiḥ || 570 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Manana",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Āvṛti",
+      "Brahman",
+      "Anāvṛtam",
+      "Dvaita",
+      "Advaita",
+      "Śruti",
+      "Sadasattva"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Bondage and Liberation, which are conjured up by M\u0101y\u0101, do not really exist in the \u0100tman, one\u2019s Reality, as the appearance and exit of the snake do not abide in the rope, which suffers no change."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "In discussing bondage and liberation, the notion of veiling is spoken of in terms of the real and the unreal; but Brahman has no such veil whatsoever, for it is unobscured due to the absence of anything else. If there were any loss of non-duality, then duality would not be tolerated by the Shruti."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "बंध और मोक्ष की चर्चा में, आवरण की अवधारणा सत्त्व और असत्त्व के संदर्भ में की जाती है; किंतु ब्रह्म को कोई ऐसा आवरण नहीं है, क्योंकि अन्य कुछ न होने के कारण यह अनावृत है। यदि अद्वैत की कोई हानि होती, तो श्रुति द्वैत को सहन नहीं करती।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_570",
+    "word_by_word": [
+      {
+        "word_sanskrit": "आवृतेः",
+        "word_english": "of veiling",
+        "transliteration": "āvṛteḥ",
+        "grammar_role": "āvṛteḥ"
+      },
+      {
+        "word_sanskrit": "सदसत्त्वाभ्यां",
+        "word_english": "in terms of real and unreal",
+        "transliteration": "sadasattvābhyāṃ",
+        "grammar_role": "sadasattvābhyāṃ"
+      },
+      {
+        "word_sanskrit": "वक्तव्ये",
+        "word_english": "spoken of",
+        "transliteration": "vaktavye",
+        "grammar_role": "vaktavye"
+      },
+      {
+        "word_sanskrit": "बन्धमोक्षणे",
+        "word_english": "in bondage and liberation",
+        "transliteration": "bandhamokṣaṇe",
+        "grammar_role": "bandhamokṣaṇe"
+      },
+      {
+        "word_sanskrit": "नावृतिः",
+        "word_english": "no veiling",
+        "transliteration": "nāvṛtiḥ",
+        "grammar_role": "nāvṛtiḥ"
+      },
+      {
+        "word_sanskrit": "ब्रह्मणः",
+        "word_english": "of Brahman",
+        "transliteration": "brahmaṇaḥ",
+        "grammar_role": "brahmaṇaḥ"
+      },
+      {
+        "word_sanskrit": "काचित्",
+        "word_english": "any",
+        "transliteration": "kācid",
+        "grammar_role": "kācid"
+      },
+      {
+        "word_sanskrit": "अन्याभावात्",
+        "word_english": "due to absence of anything else",
+        "transliteration": "anyābhāvāt",
+        "grammar_role": "anyābhāvāt"
+      },
+      {
+        "word_sanskrit": "अनावृतम्",
+        "word_english": "unobscured",
+        "transliteration": "anāvṛtam",
+        "grammar_role": "anāvṛtam"
+      },
+      {
+        "word_sanskrit": "यदि",
+        "word_english": "if",
+        "transliteration": "yadi",
+        "grammar_role": "yadi"
+      },
+      {
+        "word_sanskrit": "अस्ति",
+        "word_english": "exists",
+        "transliteration": "asti",
+        "grammar_role": "asti"
+      },
+      {
+        "word_sanskrit": "अद्वैतहानिः",
+        "word_english": "loss of non-duality",
+        "transliteration": "advaitahāniḥ",
+        "grammar_role": "advaitahāniḥ"
+      },
+      {
+        "word_sanskrit": "स्यात्",
+        "word_english": "would be",
+        "transliteration": "syāt",
+        "grammar_role": "syāt"
+      },
+      {
+        "word_sanskrit": "द्वैतम्",
+        "word_english": "duality",
+        "transliteration": "dvaitam",
+        "grammar_role": "dvaitam"
+      },
+      {
+        "word_sanskrit": "नः",
+        "word_english": "our",
+        "transliteration": "naḥ",
+        "grammar_role": "naḥ"
+      },
+      {
+        "word_sanskrit": "सहते",
+        "word_english": "tolerates",
+        "transliteration": "sahate",
+        "grammar_role": "sahate"
+      },
+      {
+        "word_sanskrit": "श्रुतिः",
+        "word_english": "Śruti",
+        "transliteration": "śrutiḥ",
+        "grammar_role": "śrutiḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 570,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0906\u0935\u0943\u0924\u0947\u0903 \u0938\u0926\u0938\u0924\u094d\u0924\u094d\u0935\u093e\u092d\u094d\u092f\u093e\u0902 \u0935\u0915\u094d\u0924\u0935\u094d\u092f\u0947 \u092c\u0928\u094d\u0927\u092e\u094b\u0915\u094d\u0937\u0923\u0947 \u0964\n\u0928\u093e\u0935\u0943\u0924\u093f\u0930\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0923\u0903 \u0915\u093e\u091a\u093f\u0926\u0928\u094d\u092f\u093e\u092d\u093e\u0935\u093e\u0926\u0928\u093e\u0935\u0943\u0924\u092e\u094d \u092f\u0926\u094d\u092f\u0938\u094d\u0924\u094d\u092f\u0926\u094d\u0935\u0948\u0924\u0939\u093e\u0928\u093f\u0903 \u0938\u094d\u092f\u093e\u0926\u094d\u0926\u094d\u0935\u0948\u0924\u0902 \u0928\u094b \u0938\u0939\u0924\u0947 \u0936\u094d\u0930\u0941\u0924\u093f\u0903 \u0965 \u096b\u096d0 \u0965",
-    "transliteration": "\u0101v\u1e5bte\u1e25 sadasattv\u0101bhy\u0101\u1e43 vaktavye bandhamok\u1e63a\u1e47e |\nn\u0101v\u1e5btirbrahma\u1e47a\u1e25 k\u0101cidany\u0101bh\u0101v\u0101dan\u0101v\u1e5btam yadyastyadvaitah\u0101ni\u1e25 sy\u0101ddvaita\u1e43 no sahate \u015bruti\u1e25 || 570 ||",
-    "translation": "Bondage and Liberation may be talked of when there is the presence or absence of a covering veil. But there can be no covering veil for Brahman, which is always uncovered for want of a second thing besides Itself. If there be, the non-duality of Brahman will be contradicted, and the \u015arutis can never brook duality.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Katha Upanishad 1.3.10 match",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Āvṛti",
+        "Brahman",
+        "Anāvṛtam",
+        "Dvaita",
+        "Advaita",
+        "Śruti",
+        "Sadasattva"
+      ],
+      "sadhana_stage": "Manana",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_21",
+    "verse_number": 571,
+    "chapter_number": 12,
+    "sanskrit_shloka": "बन्धञ्च मोक्षञ्च मृषैव मूढा बुद्धेर्गुणं वस्तुनि कल्पयन्ति । दृगावृतिं मेघकृतां यथा रवौ यतोऽद्वयासङ्गचिदेतदक्षरम् ॥ ५७१ ॥",
+    "text": "बन्धञ्च मोक्षञ्च मृषैव मूढा बुद्धेर्गुणं वस्तुनि कल्पयन्ति । दृगावृतिं मेघकृतां यथा रवौ यतोऽद्वयासङ्गचिदेतदक्षरम् ॥ ५७१ ॥",
+    "transliteration": "bandhañca mokṣañca mṛṣaiva mūḍhā buddherguṇaṃ vastuni kalpayanti | dṛgāvṛtiṃ meghakṛtāṃ yathā ravau yato'dvayāsaṅgacidetadakṣaram || 571 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Vivartavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Bandha",
+      "Moksha",
+      "Moha",
+      "Buddhi",
+      "Vastu",
+      "Drg",
+      "Avriti",
+      "Megha",
+      "Ravi",
+      "Advaya",
+      "Asanga",
+      "Chit",
+      "Aksharam"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Bondage and Liberation may be talked of when there is the presence or absence of a covering veil. But there can be no covering veil for Brahman, which is always uncovered for want of a second thing besides Itself. If there be, the non-duality of Brahman will be contradicted, and the \u015arutis can never brook duality."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Bondage and liberation are mere illusions; the deluded mind attributes the qualities of the intellect to the real Self. Just as clouds falsely appear to obscure the sun, so too does ignorance veil the non-dual, unattached, conscious, and immutable Brahman."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "बंध और मोक्ष केवल मिथ्या हैं; मूढ़ बुद्धि बुद्धि के गुणों को वास्तविक आत्मा पर आरोपित करती है। जिस प्रकार बादल सूर्य को छिपाते हुए दिखाई देते हैं, उसी प्रकार अज्ञान अद्वैत, असंग, चैतन्य और अक्षर ब्रह्म को आवृत करता है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_571",
+    "word_by_word": [
+      {
+        "word_sanskrit": "बन्धञ्च",
+        "word_english": "bondage and",
+        "transliteration": "bandhañca",
+        "grammar_role": "bandhañca"
+      },
+      {
+        "word_sanskrit": "मोक्षञ्च",
+        "word_english": "liberation and",
+        "transliteration": "mokṣañca",
+        "grammar_role": "mokṣañca"
+      },
+      {
+        "word_sanskrit": "मृषैव",
+        "word_english": "mere illusion",
+        "transliteration": "mṛṣaiva",
+        "grammar_role": "mṛṣaiva"
+      },
+      {
+        "word_sanskrit": "मूढा",
+        "word_english": "deluded",
+        "transliteration": "mūḍhā",
+        "grammar_role": "mūḍhā"
+      },
+      {
+        "word_sanskrit": "बुद्धेर्गुणं",
+        "word_english": "qualities of the intellect",
+        "transliteration": "buddherguṇaṃ",
+        "grammar_role": "buddherguṇaṃ"
+      },
+      {
+        "word_sanskrit": "वस्तुनि",
+        "word_english": "in the real",
+        "transliteration": "vastuni",
+        "grammar_role": "vastuni"
+      },
+      {
+        "word_sanskrit": "कल्पयन्ति",
+        "word_english": "attribute",
+        "transliteration": "kalpayanti",
+        "grammar_role": "kalpayanti"
+      },
+      {
+        "word_sanskrit": "दृगावृतिं",
+        "word_english": "veiling of the seer",
+        "transliteration": "dṛgāvṛtiṃ",
+        "grammar_role": "dṛgāvṛtiṃ"
+      },
+      {
+        "word_sanskrit": "मेघकृतां",
+        "word_english": "caused by clouds",
+        "transliteration": "meghakṛtāṃ",
+        "grammar_role": "meghakṛtāṃ"
+      },
+      {
+        "word_sanskrit": "यथा",
+        "word_english": "as",
+        "transliteration": "yathā",
+        "grammar_role": "yathā"
+      },
+      {
+        "word_sanskrit": "रवौ",
+        "word_english": "in the sun",
+        "transliteration": "ravau",
+        "grammar_role": "ravau"
+      },
+      {
+        "word_sanskrit": "यतः",
+        "word_english": "because",
+        "transliteration": "yataḥ",
+        "grammar_role": "yataḥ"
+      },
+      {
+        "word_sanskrit": "अद्वयासङ्गचिदेतदक्षरम्",
+        "word_english": "non-dual, unattached, conscious, immutable",
+        "transliteration": "advayāsaṅgacidetadakṣaram",
+        "grammar_role": "advayāsaṅgacidetadakṣaram"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 571,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u092c\u0928\u094d\u0927\u091e\u094d\u091a \u092e\u094b\u0915\u094d\u0937\u091e\u094d\u091a \u092e\u0943\u0937\u0948\u0935 \u092e\u0942\u0922\u093e \u092c\u0941\u0926\u094d\u0927\u0947\u0930\u094d\u0917\u0941\u0923\u0902 \u0935\u0938\u094d\u0924\u0941\u0928\u093f \u0915\u0932\u094d\u092a\u092f\u0928\u094d\u0924\u093f \u0964\n\u0926\u0943\u0917\u093e\u0935\u0943\u0924\u093f\u0902 \u092e\u0947\u0918\u0915\u0943\u0924\u093e\u0902 \u092f\u0925\u093e \u0930\u0935\u094c \u092f\u0924\u094b\u093d\u0926\u094d\u0935\u092f\u093e\u0938\u0919\u094d\u0917\u091a\u093f\u0926\u0947\u0924\u0926\u0915\u094d\u0937\u0930\u092e\u094d \u0965 \u096b\u096d\u0967 \u0965",
-    "transliteration": "bandha\u00f1ca mok\u1e63a\u00f1ca m\u1e5b\u1e63aiva m\u016b\u1e0dh\u0101 buddhergu\u1e47a\u1e43 vastuni kalpayanti |\nd\u1e5bg\u0101v\u1e5bti\u1e43 meghak\u1e5bt\u0101\u1e43 yath\u0101 ravau yato'dvay\u0101sa\u1e45gacidetadak\u1e63aram || 571 ||",
-    "translation": "Bondage and Liberation are attributes of the Buddhi which ignorant people falsely superimpose on the Reality, as the covering of the eyes by a cloud is transferred to the sun. For this Immutable Brahman is Knowledge Absolute, the One without a second and unattached.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Vivartavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Bandha",
+        "Moksha",
+        "Moha",
+        "Buddhi",
+        "Vastu",
+        "Drg",
+        "Avriti",
+        "Megha",
+        "Ravi",
+        "Advaya",
+        "Asanga",
+        "Chit",
+        "Aksharam"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_22",
+    "verse_number": 572,
+    "chapter_number": 12,
+    "sanskrit_shloka": "अस्तीति प्रत्ययो यश्च यश्च नास्तीति वस्तुनि । बुद्धेरेव गुणावेतौ न तु नित्यस्य वस्तुनः ॥ ५७२ ॥",
+    "text": "अस्तीति प्रत्ययो यश्च यश्च नास्तीति वस्तुनि । बुद्धेरेव गुणावेतौ न तु नित्यस्य वस्तुनः ॥ ५७२ ॥",
+    "transliteration": "astīti pratyayo yaśca yaśca nāstīti vastuni | buddhereva guṇāvetau na tu nityasya vastunaḥ || 572 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Viparyaya",
+    "keywords_sanskrit": [
+      "Buddhi",
+      "Nitya",
+      "Vastu",
+      "Adhyasa",
+      "Anatman",
+      "Avidya"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Bondage and Liberation are attributes of the Buddhi which ignorant people falsely superimpose on the Reality, as the covering of the eyes by a cloud is transferred to the sun. For this Immutable Brahman is Knowledge Absolute, the One without a second and unattached."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The notion 'it exists' and the notion 'it does not exist' are qualities of the intellect alone, not of the eternal Reality."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "‘यह है’ और ‘यह नहीं है’ ये दोनों अवधारणाएँ केवल बुद्धि के गुण हैं, नित्य वस्तु के नहीं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_572",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अस्तीति",
+        "word_english": "it exists",
+        "transliteration": "astīti",
+        "grammar_role": "astīti"
+      },
+      {
+        "word_sanskrit": "प्रत्ययः",
+        "word_english": "notion",
+        "transliteration": "pratyayaḥ",
+        "grammar_role": "pratyayaḥ"
+      },
+      {
+        "word_sanskrit": "यः",
+        "word_english": "which",
+        "transliteration": "yaḥ",
+        "grammar_role": "yaḥ"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "यः",
+        "word_english": "which",
+        "transliteration": "yaḥ",
+        "grammar_role": "yaḥ"
+      },
+      {
+        "word_sanskrit": "नास्तीति",
+        "word_english": "it does not exist",
+        "transliteration": "nāstīti",
+        "grammar_role": "nāstīti"
+      },
+      {
+        "word_sanskrit": "वस्तुनि",
+        "word_english": "in the real",
+        "transliteration": "vastuni",
+        "grammar_role": "vastuni"
+      },
+      {
+        "word_sanskrit": "बुद्धेरेव",
+        "word_english": "only in the intellect",
+        "transliteration": "buddhereva",
+        "grammar_role": "buddhereva"
+      },
+      {
+        "word_sanskrit": "गुणौ",
+        "word_english": "qualities",
+        "transliteration": "guṇau",
+        "grammar_role": "guṇau"
+      },
+      {
+        "word_sanskrit": "एतौ",
+        "word_english": "these",
+        "transliteration": "etau",
+        "grammar_role": "etau"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "तु",
+        "word_english": "but",
+        "transliteration": "tu",
+        "grammar_role": "tu"
+      },
+      {
+        "word_sanskrit": "नित्यस्य",
+        "word_english": "of the eternal",
+        "transliteration": "nityasya",
+        "grammar_role": "nityasya"
+      },
+      {
+        "word_sanskrit": "वस्तुनः",
+        "word_english": "Reality",
+        "transliteration": "vastunaḥ",
+        "grammar_role": "vastunaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 572,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0905\u0938\u094d\u0924\u0940\u0924\u093f \u092a\u094d\u0930\u0924\u094d\u092f\u092f\u094b \u092f\u0936\u094d\u091a \u092f\u0936\u094d\u091a \u0928\u093e\u0938\u094d\u0924\u0940\u0924\u093f \u0935\u0938\u094d\u0924\u0941\u0928\u093f \u0964\n\u092c\u0941\u0926\u094d\u0927\u0947\u0930\u0947\u0935 \u0917\u0941\u0923\u093e\u0935\u0947\u0924\u094c \u0928 \u0924\u0941 \u0928\u093f\u0924\u094d\u092f\u0938\u094d\u092f \u0935\u0938\u094d\u0924\u0941\u0928\u0903 \u0965 \u096b\u096d\u0968 \u0965",
-    "transliteration": "ast\u012bti pratyayo ya\u015bca ya\u015bca n\u0101st\u012bti vastuni |\nbuddhereva gu\u1e47\u0101vetau na tu nityasya vastuna\u1e25 || 572 ||",
-    "translation": "The idea that bondage exists, and the idea that it does not, are, with reference to the Reality, both attributes of the Buddhi merely, and never belong to the Eternal Reality, Brahman.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Epistemology",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "keywords_sanskrit": [
+        "Buddhi",
+        "Nitya",
+        "Vastu",
+        "Adhyasa",
+        "Anatman",
+        "Avidya"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Viparyaya",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_23",
+    "verse_number": 573,
+    "chapter_number": 12,
+    "sanskrit_shloka": "अतस्तौ मायया कॢप्तौ बन्धमोक्षौ न चात्मनि । निष्कले निष्क्रिये शान्ते निरवद्ये निरञ्जने अद्वितीये परे तत्त्वे व्योमवत्कल्पना कुतः ॥ ५७३ ॥",
+    "text": "अतस्तौ मायया कॢप्तौ बन्धमोक्षौ न चात्मनि । निष्कले निष्क्रिये शान्ते निरवद्ये निरञ्जने अद्वितीये परे तत्त्वे व्योमवत्कल्पना कुतः ॥ ५७३ ॥",
+    "transliteration": "atastau māyayā kḷptau bandhamokṣau na cātmani | niṣkale niṣkriye śānte niravadye nirañjane advitīye pare tattve vyomavatkalpanā kutaḥ || 573 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Manana",
+    "primary_doctrine": "Vivartavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Maya",
+      "Atman",
+      "Brahman",
+      "Bandha",
+      "Moksha",
+      "Niranjana",
+      "Advitīya",
+      "Kalpanā",
+      "Vyoma"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "The idea that bondage exists, and the idea that it does not, are, with reference to the Reality, both attributes of the Buddhi merely, and never belong to the Eternal Reality, Brahman."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Therefore, bondage and liberation, both imagined by Maya, do not pertain to the Self. In that supreme, non-dual, flawless, spotless, tranquil, actionless, and indivisible Reality, which is like space, how can there be any conceptualization?"
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "अतः, माया द्वारा कल्पित बंध और मोक्ष आत्मा से संबंधित नहीं हैं। उस परम, अद्वितीय, निर्दोष, निर्मल, शांत, निष्क्रिय और अखंड सत्य में, जो आकाश के समान है, कल्पना कहाँ हो सकती है?"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_573",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अतः",
+        "word_english": "therefore",
+        "transliteration": "ataḥ",
+        "grammar_role": "ataḥ"
+      },
+      {
+        "word_sanskrit": "तौ",
+        "word_english": "these two",
+        "transliteration": "tau",
+        "grammar_role": "tau"
+      },
+      {
+        "word_sanskrit": "मायया",
+        "word_english": "by Maya",
+        "transliteration": "māyayā",
+        "grammar_role": "māyayā"
+      },
+      {
+        "word_sanskrit": "कॢप्तौ",
+        "word_english": "imagined",
+        "transliteration": "kḷptau",
+        "grammar_role": "kḷptau"
+      },
+      {
+        "word_sanskrit": "बन्धमोक्षौ",
+        "word_english": "bondage and liberation",
+        "transliteration": "bandhamokṣau",
+        "grammar_role": "bandhamokṣau"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "आत्मनि",
+        "word_english": "in the Self",
+        "transliteration": "ātmani",
+        "grammar_role": "ātmani"
+      },
+      {
+        "word_sanskrit": "निष्कले",
+        "word_english": "indivisible",
+        "transliteration": "niṣkale",
+        "grammar_role": "niṣkale"
+      },
+      {
+        "word_sanskrit": "निष्क्रिये",
+        "word_english": "actionless",
+        "transliteration": "niṣkriye",
+        "grammar_role": "niṣkriye"
+      },
+      {
+        "word_sanskrit": "शान्ते",
+        "word_english": "tranquil",
+        "transliteration": "śānte",
+        "grammar_role": "śānte"
+      },
+      {
+        "word_sanskrit": "निरवद्ये",
+        "word_english": "flawless",
+        "transliteration": "niravadye",
+        "grammar_role": "niravadye"
+      },
+      {
+        "word_sanskrit": "निरञ्जने",
+        "word_english": "spotless",
+        "transliteration": "nirañjane",
+        "grammar_role": "nirañjane"
+      },
+      {
+        "word_sanskrit": "अद्वितीये",
+        "word_english": "non-dual",
+        "transliteration": "advitīye",
+        "grammar_role": "advitīye"
+      },
+      {
+        "word_sanskrit": "परे",
+        "word_english": "supreme",
+        "transliteration": "pare",
+        "grammar_role": "pare"
+      },
+      {
+        "word_sanskrit": "तत्त्वे",
+        "word_english": "Reality",
+        "transliteration": "tattve",
+        "grammar_role": "tattve"
+      },
+      {
+        "word_sanskrit": "व्योमवत्",
+        "word_english": "like space",
+        "transliteration": "vyomavat",
+        "grammar_role": "vyomavat"
+      },
+      {
+        "word_sanskrit": "कल्पना",
+        "word_english": "conceptualization",
+        "transliteration": "kalpanā",
+        "grammar_role": "kalpanā"
+      },
+      {
+        "word_sanskrit": "कुतः",
+        "word_english": "how",
+        "transliteration": "kutaḥ",
+        "grammar_role": "kutaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 573,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0905\u0924\u0938\u094d\u0924\u094c \u092e\u093e\u092f\u092f\u093e \u0915\u0962\u092a\u094d\u0924\u094c \u092c\u0928\u094d\u0927\u092e\u094b\u0915\u094d\u0937\u094c \u0928 \u091a\u093e\u0924\u094d\u092e\u0928\u093f \u0964\n\u0928\u093f\u0937\u094d\u0915\u0932\u0947 \u0928\u093f\u0937\u094d\u0915\u094d\u0930\u093f\u092f\u0947 \u0936\u093e\u0928\u094d\u0924\u0947 \u0928\u093f\u0930\u0935\u0926\u094d\u092f\u0947 \u0928\u093f\u0930\u091e\u094d\u091c\u0928\u0947 \u0905\u0926\u094d\u0935\u093f\u0924\u0940\u092f\u0947 \u092a\u0930\u0947 \u0924\u0924\u094d\u0924\u094d\u0935\u0947 \u0935\u094d\u092f\u094b\u092e\u0935\u0924\u094d\u0915\u0932\u094d\u092a\u0928\u093e \u0915\u0941\u0924\u0903 \u0965 \u096b\u096d\u0969 \u0965",
-    "transliteration": "atastau m\u0101yay\u0101 k\u1e37ptau bandhamok\u1e63au na c\u0101tmani |\nni\u1e63kale ni\u1e63kriye \u015b\u0101nte niravadye nira\u00f1jane advit\u012bye pare tattve vyomavatkalpan\u0101 kuta\u1e25 || 573 ||",
-    "translation": "Hence this bondage and Liberation are created by M\u0101y\u0101, and are not in the \u0100tman. How can there be any idea of limitation with regard to the Supreme Truth, which is without parts, without activity, calm, unimpeachable, taintless, and One without a second, as there can be none with regard to the infinite sky?",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Vivartavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Maya",
+        "Atman",
+        "Brahman",
+        "Bandha",
+        "Moksha",
+        "Niranjana",
+        "Advitīya",
+        "Kalpanā",
+        "Vyoma"
+      ],
+      "sadhana_stage": "Manana",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_24",
+    "verse_number": 574,
+    "chapter_number": 12,
+    "sanskrit_shloka": "न निरोधो न चोत्पत्तिर्न बद्धो न च साधकः । न मुमुक्षुर्न वै मुक्त इत्येषा परमार्थता ॥ ५७४ ॥",
+    "text": "न निरोधो न चोत्पत्तिर्न बद्धो न च साधकः । न मुमुक्षुर्न वै मुक्त इत्येषा परमार्थता ॥ ५७४ ॥",
+    "transliteration": "na nirodho na cotpattirna baddho na ca sādhakaḥ | na mumukṣurna vai mukta ityeṣā paramārthatā || 574 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Ajatavada",
+    "prakriya_mapped": "Neti-Neti",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Nirodha",
+      "Utpatti",
+      "Baddha",
+      "Sadhaka",
+      "Mumukshu",
+      "Mukta",
+      "Paramarthata",
+      "Advaita",
+      "Maya",
+      "Avidya"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Hence this bondage and Liberation are created by M\u0101y\u0101, and are not in the \u0100tman. How can there be any idea of limitation with regard to the Supreme Truth, which is without parts, without activity, calm, unimpeachable, taintless, and One without a second, as there can be none with regard to the infinite sky?"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "There is no dissolution, no birth, no one bound, no seeker, no one longing for liberation, and no one liberated—this is the supreme truth."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "कोई विलय नहीं, कोई उत्पत्ति नहीं, कोई बंधन वाला नहीं, कोई साधक नहीं, कोई मुमुक्षु नहीं, और कोई मुक्त नहीं—यही परमार्थ है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_574",
+    "word_by_word": [
+      {
+        "word_sanskrit": "न",
+        "word_english": "no",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "निरोधः",
+        "word_english": "dissolution",
+        "transliteration": "nirodhaḥ",
+        "grammar_role": "nirodhaḥ"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "no",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "उत्पत्तिः",
+        "word_english": "birth",
+        "transliteration": "utpattiḥ",
+        "grammar_role": "utpattiḥ"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "no",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "बद्धः",
+        "word_english": "bound",
+        "transliteration": "baddhaḥ",
+        "grammar_role": "baddhaḥ"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "no",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "साधकः",
+        "word_english": "seeker",
+        "transliteration": "sādhakaḥ",
+        "grammar_role": "sādhakaḥ"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "no",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "मुमुक्षुः",
+        "word_english": "one longing for liberation",
+        "transliteration": "mumukṣuḥ",
+        "grammar_role": "mumukṣuḥ"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "no",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "वै",
+        "word_english": "indeed",
+        "transliteration": "vai",
+        "grammar_role": "vai"
+      },
+      {
+        "word_sanskrit": "मुक्तः",
+        "word_english": "liberated",
+        "transliteration": "muktaḥ",
+        "grammar_role": "muktaḥ"
+      },
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "एषा",
+        "word_english": "this",
+        "transliteration": "eṣā",
+        "grammar_role": "eṣā"
+      },
+      {
+        "word_sanskrit": "परमार्थता",
+        "word_english": "supreme truth",
+        "transliteration": "paramārthatā",
+        "grammar_role": "paramārthatā"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 574,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0928 \u0928\u093f\u0930\u094b\u0927\u094b \u0928 \u091a\u094b\u0924\u094d\u092a\u0924\u094d\u0924\u093f\u0930\u094d\u0928 \u092c\u0926\u094d\u0927\u094b \u0928 \u091a \u0938\u093e\u0927\u0915\u0903 \u0964\n\u0928 \u092e\u0941\u092e\u0941\u0915\u094d\u0937\u0941\u0930\u094d\u0928 \u0935\u0948 \u092e\u0941\u0915\u094d\u0924 \u0907\u0924\u094d\u092f\u0947\u0937\u093e \u092a\u0930\u092e\u093e\u0930\u094d\u0925\u0924\u093e \u0965 \u096b\u096d\u096a \u0965",
-    "transliteration": "na nirodho na cotpattirna baddho na ca s\u0101dhaka\u1e25 |\nna mumuk\u1e63urna vai mukta itye\u1e63\u0101 param\u0101rthat\u0101 || 574 ||",
-    "translation": "There is neither death nor birth, neither a bound nor a struggling soul, neither a seeker after Liberation nor a liberated one \u2013 this is the ultimate truth.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Ajatavada",
+      "metaphysical_category": "Ontology",
+      "prakriya_mapped": "Neti-Neti",
+      "sruti_smriti_echo": "Gaudapada Karika echo",
+      "keywords_sanskrit": [
+        "Nirodha",
+        "Utpatti",
+        "Baddha",
+        "Sadhaka",
+        "Mumukshu",
+        "Mukta",
+        "Paramarthata",
+        "Advaita",
+        "Maya",
+        "Avidya"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_25",
+    "verse_number": 575,
+    "chapter_number": 12,
+    "sanskrit_shloka": "सकलनिगमचूडास्वान्तसिद्धान्तरूपं परमिदमतिगुह्यं दर्शितं ते मयाद्य । अपगतकलिदोषं कामनिर्मुक्तबुद्धिं स्वसुतवदसकृत्त्वां भाव्यित्वा मुमुक्षुम् ॥ ५७५ ॥",
+    "text": "सकलनिगमचूडास्वान्तसिद्धान्तरूपं परमिदमतिगुह्यं दर्शितं ते मयाद्य । अपगतकलिदोषं कामनिर्मुक्तबुद्धिं स्वसुतवदसकृत्त्वां भाव्यित्वा मुमुक्षुम् ॥ ५७५ ॥",
+    "transliteration": "sakalanigamacūḍāsvāntasiddhāntarūpaṃ paramidamatiguhyaṃ darśitaṃ te mayādya | apagatakalidoṣaṃ kāmanirmuktabuddhiṃ svasutavadasakṛttvāṃ bhāvyitvā mumukṣum || 575 ||",
+    "section_title": "Final Words of Advice",
+    "summary_line": "",
+    "sadhana_stage": "Mumukshutva",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Vikshepa",
+    "keywords_sanskrit": [
+      "Mumukshutva",
+      "Kali",
+      "Kama",
+      "Nirmukta",
+      "Siddhanta",
+      "Nigama",
+      "Atiguhya",
+      "Buddhi"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "There is neither death nor birth, neither a bound nor a struggling soul, neither a seeker after Liberation nor a liberated one \u2013 this is the ultimate truth."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "I have now revealed to you this supreme, exceedingly secret truth—the very crown of all Vedas, the essence of their innermost doctrine—as if you were my own son, again and again, O seeker of liberation, whose mind is freed from the defilements of Kali and liberated from desires."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "मैंने आज आपको यह अत्यन्त गुप्त और उत्तम सत्य, जो समस्त वेदों का शिरोमणि और उनके अन्तर्निहित सिद्धान्त का सार है, जैसे आप मेरे स्वयं के पुत्र हों, बार-बार प्रकट किया है—हे मुमुक्षु, जिसकी बुद्धि कलिके दोषों से निर्मुक्त है और कामनाओं से मुक्त है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_575",
+    "word_by_word": [
+      {
+        "word_sanskrit": "सकल",
+        "word_english": "all",
+        "transliteration": "sakala",
+        "grammar_role": "sakala"
+      },
+      {
+        "word_sanskrit": "निगम",
+        "word_english": "Vedas",
+        "transliteration": "nigama",
+        "grammar_role": "nigama"
+      },
+      {
+        "word_sanskrit": "चूडा",
+        "word_english": "crown",
+        "transliteration": "cūḍā",
+        "grammar_role": "cūḍā"
+      },
+      {
+        "word_sanskrit": "अस्वान्त",
+        "word_english": "innermost",
+        "transliteration": "asvānta",
+        "grammar_role": "asvānta"
+      },
+      {
+        "word_sanskrit": "सिद्धान्त",
+        "word_english": "doctrine",
+        "transliteration": "siddhānta",
+        "grammar_role": "siddhānta"
+      },
+      {
+        "word_sanskrit": "रूपं",
+        "word_english": "form",
+        "transliteration": "rūpaṃ",
+        "grammar_role": "rūpaṃ"
+      },
+      {
+        "word_sanskrit": "परम्",
+        "word_english": "supreme",
+        "transliteration": "param",
+        "grammar_role": "param"
+      },
+      {
+        "word_sanskrit": "इदम्",
+        "word_english": "this",
+        "transliteration": "idam",
+        "grammar_role": "idam"
+      },
+      {
+        "word_sanskrit": "अतिगुह्यं",
+        "word_english": "exceedingly secret",
+        "transliteration": "atiguhyaṃ",
+        "grammar_role": "atiguhyaṃ"
+      },
+      {
+        "word_sanskrit": "दर्शितं",
+        "word_english": "revealed",
+        "transliteration": "darśitaṃ",
+        "grammar_role": "darśitaṃ"
+      },
+      {
+        "word_sanskrit": "ते",
+        "word_english": "to you",
+        "transliteration": "te",
+        "grammar_role": "te"
+      },
+      {
+        "word_sanskrit": "मया",
+        "word_english": "by me",
+        "transliteration": "mayā",
+        "grammar_role": "mayā"
+      },
+      {
+        "word_sanskrit": "अद्य",
+        "word_english": "now",
+        "transliteration": "adya",
+        "grammar_role": "adya"
+      },
+      {
+        "word_sanskrit": "अपगत",
+        "word_english": "freed",
+        "transliteration": "apagata",
+        "grammar_role": "apagata"
+      },
+      {
+        "word_sanskrit": "कलिदोषं",
+        "word_english": "defilements of Kali",
+        "transliteration": "kalidoṣaṃ",
+        "grammar_role": "kalidoṣaṃ"
+      },
+      {
+        "word_sanskrit": "काम",
+        "word_english": "desires",
+        "transliteration": "kāma",
+        "grammar_role": "kāma"
+      },
+      {
+        "word_sanskrit": "निर्मुक्त",
+        "word_english": "liberated",
+        "transliteration": "nirmukta",
+        "grammar_role": "nirmukta"
+      },
+      {
+        "word_sanskrit": "बुद्धिं",
+        "word_english": "mind",
+        "transliteration": "buddhiṃ",
+        "grammar_role": "buddhiṃ"
+      },
+      {
+        "word_sanskrit": "स्वसुतवत्",
+        "word_english": "as if my own son",
+        "transliteration": "svasutavat",
+        "grammar_role": "svasutavat"
+      },
+      {
+        "word_sanskrit": "असकृत्त्वां",
+        "word_english": "again and again",
+        "transliteration": "asakṛttvāṃ",
+        "grammar_role": "asakṛttvāṃ"
+      },
+      {
+        "word_sanskrit": "भाव्यित्वा",
+        "word_english": "having contemplated",
+        "transliteration": "bhāvyitvā",
+        "grammar_role": "bhāvyitvā"
+      },
+      {
+        "word_sanskrit": "मुमुक्षुम्",
+        "word_english": "seeker of liberation",
+        "transliteration": "mumukṣum",
+        "grammar_role": "mumukṣum"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 575,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0938\u0915\u0932\u0928\u093f\u0917\u092e\u091a\u0942\u0921\u093e\u0938\u094d\u0935\u093e\u0928\u094d\u0924\u0938\u093f\u0926\u094d\u0927\u093e\u0928\u094d\u0924\u0930\u0942\u092a\u0902 \u092a\u0930\u092e\u093f\u0926\u092e\u0924\u093f\u0917\u0941\u0939\u094d\u092f\u0902 \u0926\u0930\u094d\u0936\u093f\u0924\u0902 \u0924\u0947 \u092e\u092f\u093e\u0926\u094d\u092f \u0964\n\u0905\u092a\u0917\u0924\u0915\u0932\u093f\u0926\u094b\u0937\u0902 \u0915\u093e\u092e\u0928\u093f\u0930\u094d\u092e\u0941\u0915\u094d\u0924\u092c\u0941\u0926\u094d\u0927\u093f\u0902 \u0938\u094d\u0935\u0938\u0941\u0924\u0935\u0926\u0938\u0915\u0943\u0924\u094d\u0924\u094d\u0935\u093e\u0902 \u092d\u093e\u0935\u094d\u092f\u093f\u0924\u094d\u0935\u093e \u092e\u0941\u092e\u0941\u0915\u094d\u0937\u0941\u092e\u094d \u0965 \u096b\u096d\u096b \u0965",
-    "transliteration": "sakalanigamac\u016b\u1e0d\u0101sv\u0101ntasiddh\u0101ntar\u016bpa\u1e43 paramidamatiguhya\u1e43 dar\u015bita\u1e43 te may\u0101dya |\napagatakalido\u1e63a\u1e43 k\u0101manirmuktabuddhi\u1e43 svasutavadasak\u1e5bttv\u0101\u1e43 bh\u0101vyitv\u0101 mumuk\u1e63um || 575 ||",
-    "translation": "I have today repeatedly revealed to thee, as to one\u2019s own son, this excellent and profound secret, which is the inmost purport of all Vedanta, the crest of the Vedas \u2013 considering thee an aspirant after Liberation, purged of the taints of this Dark Age, and of a mind free from desires.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Final Words of Advice",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "keywords_sanskrit": [
+        "Mumukshutva",
+        "Kali",
+        "Kama",
+        "Nirmukta",
+        "Siddhanta",
+        "Nigama",
+        "Atiguhya",
+        "Buddhi"
+      ],
+      "sadhana_stage": "Mumukshutva",
+      "target_obstacle": "Vikshepa",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_26",
+    "verse_number": 576,
+    "chapter_number": 12,
+    "sanskrit_shloka": "इति श्रुत्वा गुरोर्वाक्यं प्रश्रयेण कृतानतिः । स तेन समनुज्ञातो ययौ निर्मुक्तबन्धनः ॥ ५७६ ॥",
+    "text": "इति श्रुत्वा गुरोर्वाक्यं प्रश्रयेण कृतानतिः । स तेन समनुज्ञातो ययौ निर्मुक्तबन्धनः ॥ ५७६ ॥",
+    "transliteration": "iti śrutvā gurorvākyaṃ praśrayeṇa kṛtānatiḥ | sa tena samanujñāto yayau nirmuktabandhanaḥ || 576 ||",
+    "section_title": "Blessed Disciple Liberated",
+    "summary_line": "",
+    "sadhana_stage": "Shravana",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Guru",
+      "Vākya",
+      "Prashraya",
+      "Nirmukta",
+      "Bandhana",
+      "Samanujñā"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "I have today repeatedly revealed to thee, as to one\u2019s own son, this excellent and profound secret, which is the inmost purport of all Vedanta, the crest of the Vedas \u2013 considering thee an aspirant after Liberation, purged of the taints of this Dark Age, and of a mind free from desires."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Having heard the words of the Guru, and having bowed with reverence, he was duly authorized by them and departed, freed from all bonds."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "गुरु के वाक्य सुनकर और नम्रता से नमन करके, वह उनके द्वारा अनुमति प्राप्त करके, सभी बंधनों से मुक्त होकर चला गया।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_576",
+    "word_by_word": [
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "श्रुत्वा",
+        "word_english": "having heard",
+        "transliteration": "śrutvā",
+        "grammar_role": "śrutvā"
+      },
+      {
+        "word_sanskrit": "गुरोः",
+        "word_english": "of the Guru",
+        "transliteration": "guroḥ",
+        "grammar_role": "guroḥ"
+      },
+      {
+        "word_sanskrit": "वाक्यं",
+        "word_english": "words",
+        "transliteration": "vākyaṃ",
+        "grammar_role": "vākyaṃ"
+      },
+      {
+        "word_sanskrit": "प्रश्रयेण",
+        "word_english": "with reverence",
+        "transliteration": "praśrayeṇa",
+        "grammar_role": "praśrayeṇa"
+      },
+      {
+        "word_sanskrit": "कृतानतिः",
+        "word_english": "having bowed",
+        "transliteration": "kṛtānatiḥ",
+        "grammar_role": "kṛtānatiḥ"
+      },
+      {
+        "word_sanskrit": "सः",
+        "word_english": "he",
+        "transliteration": "saḥ",
+        "grammar_role": "saḥ"
+      },
+      {
+        "word_sanskrit": "तेन",
+        "word_english": "by them",
+        "transliteration": "tena",
+        "grammar_role": "tena"
+      },
+      {
+        "word_sanskrit": "समनुज्ञातः",
+        "word_english": "duly authorized",
+        "transliteration": "samanujñātaḥ",
+        "grammar_role": "samanujñātaḥ"
+      },
+      {
+        "word_sanskrit": "ययौ",
+        "word_english": "departed",
+        "transliteration": "yayau",
+        "grammar_role": "yayau"
+      },
+      {
+        "word_sanskrit": "निर्मुक्तबन्धनः",
+        "word_english": "freed from bonds",
+        "transliteration": "nirmuktabandhanaḥ",
+        "grammar_role": "nirmuktabandhanaḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 576,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0907\u0924\u093f \u0936\u094d\u0930\u0941\u0924\u094d\u0935\u093e \u0917\u0941\u0930\u094b\u0930\u094d\u0935\u093e\u0915\u094d\u092f\u0902 \u092a\u094d\u0930\u0936\u094d\u0930\u092f\u0947\u0923 \u0915\u0943\u0924\u093e\u0928\u0924\u093f\u0903 \u0964\n\u0938 \u0924\u0947\u0928 \u0938\u092e\u0928\u0941\u091c\u094d\u091e\u093e\u0924\u094b \u092f\u092f\u094c \u0928\u093f\u0930\u094d\u092e\u0941\u0915\u094d\u0924\u092c\u0928\u094d\u0927\u0928\u0903 \u0965 \u096b\u096d\u096c \u0965",
-    "transliteration": "iti \u015brutv\u0101 gurorv\u0101kya\u1e43 pra\u015braye\u1e47a k\u1e5bt\u0101nati\u1e25 |\nsa tena samanuj\u00f1\u0101to yayau nirmuktabandhana\u1e25 || 576 ||",
-    "translation": "Hearing these words of the Guru, the disciple out of reverence prostrated himself before him, and with his permission went his way, freed from bondage.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Blessed Disciple Liberated",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "keywords_sanskrit": [
+        "Guru",
+        "Vākya",
+        "Prashraya",
+        "Nirmukta",
+        "Bandhana",
+        "Samanujñā"
+      ],
+      "sadhana_stage": "Shravana",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_27",
+    "verse_number": 577,
+    "chapter_number": 12,
+    "sanskrit_shloka": "गुरुरेव सदानन्दसिन्धौ निर्मग्नमानसः । पावयन्वसुधां सर्वाण्विचचार निरन्तरः ॥ ५७७ ॥",
+    "text": "गुरुरेव सदानन्दसिन्धौ निर्मग्नमानसः । पावयन्वसुधां सर्वाण्विचचार निरन्तरः ॥ ५७७ ॥",
+    "transliteration": "gurureva sadānandasindhau nirmagnamānasaḥ | pāvayanvasudhāṃ sarvāṇvicacāra nirantaraḥ || 577 ||",
+    "section_title": "Blessed Disciple Liberated",
+    "summary_line": "",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Guru",
+      "Sadānanda",
+      "Sindhu",
+      "Nirmagna",
+      "Mānasa",
+      "Pāvayat",
+      "Vasudhā",
+      "Nirantara"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Hearing these words of the Guru, the disciple out of reverence prostrated himself before him, and with his permission went his way, freed from bondage."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "The Guru, whose mind is fully immersed in the ocean of eternal bliss, continually wanders, purifying all the earth."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "गुरु, जिनका मन सदानंद के सागर में पूर्णतः डूबा हुआ है, सदा भूमि को शुद्ध करते हुए निरंतर भटकते हैं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_577",
+    "word_by_word": [
+      {
+        "word_sanskrit": "गुरुः",
+        "word_english": "Guru",
+        "transliteration": "guruḥ",
+        "grammar_role": "guruḥ"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "indeed",
+        "transliteration": "eva",
+        "grammar_role": "eva"
+      },
+      {
+        "word_sanskrit": "सदानन्दसिन्धौ",
+        "word_english": "ocean of eternal bliss",
+        "transliteration": "sadānandasindhau",
+        "grammar_role": "sadānandasindhau"
+      },
+      {
+        "word_sanskrit": "निर्मग्न",
+        "word_english": "immersed",
+        "transliteration": "nirmagna",
+        "grammar_role": "nirmagna"
+      },
+      {
+        "word_sanskrit": "मानसः",
+        "word_english": "mind",
+        "transliteration": "mānasaḥ",
+        "grammar_role": "mānasaḥ"
+      },
+      {
+        "word_sanskrit": "पावयन्",
+        "word_english": "purifying",
+        "transliteration": "pāvayan",
+        "grammar_role": "pāvayan"
+      },
+      {
+        "word_sanskrit": "वसुधां",
+        "word_english": "earth",
+        "transliteration": "vasudhāṃ",
+        "grammar_role": "vasudhāṃ"
+      },
+      {
+        "word_sanskrit": "सर्वाण्",
+        "word_english": "all",
+        "transliteration": "sarvāṇ",
+        "grammar_role": "sarvāṇ"
+      },
+      {
+        "word_sanskrit": "अविचचार",
+        "word_english": "wandered",
+        "transliteration": "avicacāra",
+        "grammar_role": "avicacāra"
+      },
+      {
+        "word_sanskrit": "निरन्तरः",
+        "word_english": "continually",
+        "transliteration": "nirantaraḥ",
+        "grammar_role": "nirantaraḥ"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 577,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0917\u0941\u0930\u0941\u0930\u0947\u0935 \u0938\u0926\u093e\u0928\u0928\u094d\u0926\u0938\u093f\u0928\u094d\u0927\u094c \u0928\u093f\u0930\u094d\u092e\u0917\u094d\u0928\u092e\u093e\u0928\u0938\u0903 \u0964\n\u092a\u093e\u0935\u092f\u0928\u094d\u0935\u0938\u0941\u0927\u093e\u0902 \u0938\u0930\u094d\u0935\u093e\u0923\u094d\u0935\u093f\u091a\u091a\u093e\u0930 \u0928\u093f\u0930\u0928\u094d\u0924\u0930\u0903 \u0965 \u096b\u096d\u096d \u0965",
-    "transliteration": "gurureva sad\u0101nandasindhau nirmagnam\u0101nasa\u1e25 |\np\u0101vayanvasudh\u0101\u1e43 sarv\u0101\u1e47vicac\u0101ra nirantara\u1e25 || 577 ||",
-    "translation": "And the Guru, with his mind steeped in the ocean of Existence and Bliss Absolute, roamed, verily purifying the whole world \u2013 all differentiating ideas banished from his mind.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Blessed Disciple Liberated",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "keywords_sanskrit": [
+        "Guru",
+        "Sadānanda",
+        "Sindhu",
+        "Nirmagna",
+        "Mānasa",
+        "Pāvayat",
+        "Vasudhā",
+        "Nirantara"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_28",
+    "verse_number": 578,
+    "chapter_number": 12,
+    "sanskrit_shloka": "इत्याचार्यस्य शिष्यस्य संवादेनात्मलक्षणम् । निरूपितं मुमुक्षूणां सुखबोधोपपत्तये ॥ ५७८ ॥",
+    "text": "इत्याचार्यस्य शिष्यस्य संवादेनात्मलक्षणम् । निरूपितं मुमुक्षूणां सुखबोधोपपत्तये ॥ ५७८ ॥",
+    "transliteration": "ityācāryasya śiṣyasya saṃvādenātmalakṣaṇam | nirūpitaṃ mumukṣūṇāṃ sukhabodhopapattaye || 578 ||",
+    "section_title": "Blessed Disciple Liberated",
+    "summary_line": "",
+    "sadhana_stage": "Mumukshutva",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Avarana",
+    "keywords_sanskrit": [
+      "Ātman",
+      "Lakṣaṇa",
+      "Mumukṣutva",
+      "Sukha",
+      "Bodha",
+      "Saṃvāda",
+      "Ācārya",
+      "Śiṣya"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "And the Guru, with his mind steeped in the ocean of Existence and Bliss Absolute, roamed, verily purifying the whole world \u2013 all differentiating ideas banished from his mind."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Thus, the nature of the Self has been defined through the dialogue between the teacher and the disciple, for the sake of the aspirants' understanding of bliss."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "इस प्रकार, आनंद के ज्ञान के लिए गुरु और शिष्य के संवाद द्वारा आत्मा का लक्षण निरूपित किया गया है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_578",
+    "word_by_word": [
+      {
+        "word_sanskrit": "इति",
+        "word_english": "thus",
+        "transliteration": "iti",
+        "grammar_role": "iti"
+      },
+      {
+        "word_sanskrit": "आचार्यस्य",
+        "word_english": "of the teacher",
+        "transliteration": "ācāryasya",
+        "grammar_role": "ācāryasya"
+      },
+      {
+        "word_sanskrit": "शिष्यस्य",
+        "word_english": "of the disciple",
+        "transliteration": "śiṣyasya",
+        "grammar_role": "śiṣyasya"
+      },
+      {
+        "word_sanskrit": "संवादेन",
+        "word_english": "through dialogue",
+        "transliteration": "saṃvādena",
+        "grammar_role": "saṃvādena"
+      },
+      {
+        "word_sanskrit": "आत्मलक्षणम्",
+        "word_english": "nature of the Self",
+        "transliteration": "ātmalakṣaṇam",
+        "grammar_role": "ātmalakṣaṇam"
+      },
+      {
+        "word_sanskrit": "निरूपितम्",
+        "word_english": "defined",
+        "transliteration": "nirūpitam",
+        "grammar_role": "nirūpitam"
+      },
+      {
+        "word_sanskrit": "मुमुक्षूणाम्",
+        "word_english": "of the aspirants",
+        "transliteration": "mumukṣūṇām",
+        "grammar_role": "mumukṣūṇām"
+      },
+      {
+        "word_sanskrit": "सुखबोधोपपत्तये",
+        "word_english": "for the attainment of blissful understanding",
+        "transliteration": "sukhabodhopapattaye",
+        "grammar_role": "sukhabodhopapattaye"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 578,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0907\u0924\u094d\u092f\u093e\u091a\u093e\u0930\u094d\u092f\u0938\u094d\u092f \u0936\u093f\u0937\u094d\u092f\u0938\u094d\u092f \u0938\u0902\u0935\u093e\u0926\u0947\u0928\u093e\u0924\u094d\u092e\u0932\u0915\u094d\u0937\u0923\u092e\u094d \u0964\n\u0928\u093f\u0930\u0942\u092a\u093f\u0924\u0902 \u092e\u0941\u092e\u0941\u0915\u094d\u0937\u0942\u0923\u093e\u0902 \u0938\u0941\u0916\u092c\u094b\u0927\u094b\u092a\u092a\u0924\u094d\u0924\u092f\u0947 \u0965 \u096b\u096d\u096e \u0965",
-    "transliteration": "ity\u0101c\u0101ryasya \u015bi\u1e63yasya sa\u1e43v\u0101den\u0101tmalak\u1e63a\u1e47am |\nnir\u016bpita\u1e43 mumuk\u1e63\u016b\u1e47\u0101\u1e43 sukhabodhopapattaye || 578 ||",
-    "translation": "Thus by way of a dialogue between the Teacher and the disciple, has the nature of the \u0100tman been ascertained for the easy comprehension of seekers after Liberation.",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "Blessed Disciple Liberated",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Epistemology",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "keywords_sanskrit": [
+        "Ātman",
+        "Lakṣaṇa",
+        "Mumukṣutva",
+        "Sukha",
+        "Bodha",
+        "Saṃvāda",
+        "Ācārya",
+        "Śiṣya"
+      ],
+      "sadhana_stage": "Mumukshutva",
+      "target_obstacle": "Avarana",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_29",
+    "verse_number": 579,
+    "chapter_number": 12,
+    "sanskrit_shloka": "हितमिदमुपदेशमाद्रियन्तां विहितनिरस्तसमस्तचित्तदोषाः । भवसुखविरताः प्रशान्तचित्ताः श्रुतिरसिका यतयो मुमुक्षवो ये ॥ ५७९ ॥",
+    "text": "हितमिदमुपदेशमाद्रियन्तां विहितनिरस्तसमस्तचित्तदोषाः । भवसुखविरताः प्रशान्तचित्ताः श्रुतिरसिका यतयो मुमुक्षवो ये ॥ ५७९ ॥",
+    "transliteration": "hitamidamupadeśamādriyantāṃ vihitanirastasamastacittadoṣāḥ | bhavasukhaviratāḥ praśāntacittāḥ śrutirasikā yatayo mumukṣavo ye || 579 ||",
+    "section_title": "The Glory of the Textbook",
+    "summary_line": "",
+    "sadhana_stage": "Mumukshutva",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Vikshepa",
+    "keywords_sanskrit": [
+      "Mumukshutva",
+      "Cittadoṣa",
+      "Bhavasukha",
+      "Prashanta-chitta",
+      "Shruti-rasika",
+      "Yati",
+      "Vihita",
+      "Nirasta"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Thus by way of a dialogue between the Teacher and the disciple, has the nature of the \u0100tman been ascertained for the easy comprehension of seekers after Liberation."
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Let those who have eliminated all mental defects through prescribed discipline, who are detached from worldly pleasures, whose minds are serene, and who are deeply devoted to the teachings of the Shruti — those ascetics who yearn for liberation — revere this instruction as beneficial."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जो सभी मानसिक दोषों को नियमित व्यवस्था द्वारा नष्ट कर चुके हैं, जो सांसारिक सुखों से विरक्त हैं, जिनके मन शांत हैं, और जो श्रुति के उपदेशों में रत हैं — वे संन्यासी जो मुक्ति की तीव्र इच्छा रखते हैं, इस उपदेश को हितकर मानें।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_579",
+    "word_by_word": [
+      {
+        "word_sanskrit": "हितम्",
+        "word_english": "beneficial",
+        "transliteration": "hitam",
+        "grammar_role": "hitam"
+      },
+      {
+        "word_sanskrit": "इदम्",
+        "word_english": "this",
+        "transliteration": "idam",
+        "grammar_role": "idam"
+      },
+      {
+        "word_sanskrit": "उपदेशम्",
+        "word_english": "instruction",
+        "transliteration": "upadeśam",
+        "grammar_role": "upadeśam"
+      },
+      {
+        "word_sanskrit": "आद्रियन्ताम्",
+        "word_english": "revere",
+        "transliteration": "ādriyantām",
+        "grammar_role": "ādriyantām"
+      },
+      {
+        "word_sanskrit": "विहित",
+        "word_english": "prescribed",
+        "transliteration": "vihita",
+        "grammar_role": "vihita"
+      },
+      {
+        "word_sanskrit": "निरस्त",
+        "word_english": "eliminated",
+        "transliteration": "nirasta",
+        "grammar_role": "nirasta"
+      },
+      {
+        "word_sanskrit": "समस्त",
+        "word_english": "all",
+        "transliteration": "samasta",
+        "grammar_role": "samasta"
+      },
+      {
+        "word_sanskrit": "चित्त",
+        "word_english": "mental",
+        "transliteration": "citta",
+        "grammar_role": "citta"
+      },
+      {
+        "word_sanskrit": "दोषाः",
+        "word_english": "defects",
+        "transliteration": "doṣāḥ",
+        "grammar_role": "doṣāḥ"
+      },
+      {
+        "word_sanskrit": "भवसुख",
+        "word_english": "worldly pleasures",
+        "transliteration": "bhavasukha",
+        "grammar_role": "bhavasukha"
+      },
+      {
+        "word_sanskrit": "विरताः",
+        "word_english": "detached",
+        "transliteration": "viratāḥ",
+        "grammar_role": "viratāḥ"
+      },
+      {
+        "word_sanskrit": "प्रशान्त",
+        "word_english": "serene",
+        "transliteration": "praśānta",
+        "grammar_role": "praśānta"
+      },
+      {
+        "word_sanskrit": "चित्ताः",
+        "word_english": "minds",
+        "transliteration": "cittāḥ",
+        "grammar_role": "cittāḥ"
+      },
+      {
+        "word_sanskrit": "श्रुतिरसिकाः",
+        "word_english": "devoted to Shruti",
+        "transliteration": "śrutirasikāḥ",
+        "grammar_role": "śrutirasikāḥ"
+      },
+      {
+        "word_sanskrit": "यतयः",
+        "word_english": "ascetics",
+        "transliteration": "yatayaḥ",
+        "grammar_role": "yatayaḥ"
+      },
+      {
+        "word_sanskrit": "मुमुक्षवः",
+        "word_english": "seekers of liberation",
+        "transliteration": "mumukṣavaḥ",
+        "grammar_role": "mumukṣavaḥ"
+      },
+      {
+        "word_sanskrit": "ये",
+        "word_english": "who",
+        "transliteration": "ye",
+        "grammar_role": "ye"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 579,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0939\u093f\u0924\u092e\u093f\u0926\u092e\u0941\u092a\u0926\u0947\u0936\u092e\u093e\u0926\u094d\u0930\u093f\u092f\u0928\u094d\u0924\u093e\u0902 \u0935\u093f\u0939\u093f\u0924\u0928\u093f\u0930\u0938\u094d\u0924\u0938\u092e\u0938\u094d\u0924\u091a\u093f\u0924\u094d\u0924\u0926\u094b\u0937\u093e\u0903 \u0964\n\u092d\u0935\u0938\u0941\u0916\u0935\u093f\u0930\u0924\u093e\u0903 \u092a\u094d\u0930\u0936\u093e\u0928\u094d\u0924\u091a\u093f\u0924\u094d\u0924\u093e\u0903 \u0936\u094d\u0930\u0941\u0924\u093f\u0930\u0938\u093f\u0915\u093e \u092f\u0924\u092f\u094b \u092e\u0941\u092e\u0941\u0915\u094d\u0937\u0935\u094b \u092f\u0947 \u0965 \u096b\u096d\u096f \u0965",
-    "transliteration": "hitamidamupade\u015bam\u0101driyant\u0101\u1e43 vihitanirastasamastacittado\u1e63\u0101\u1e25 |\nbhavasukhavirat\u0101\u1e25 pra\u015b\u0101ntacitt\u0101\u1e25 \u015brutirasik\u0101 yatayo mumuk\u1e63avo ye || 579 ||",
-    "translation": "May those Sannyasins who are seekers after Liberation, who have purged themselves of all taints of the mind by the observance of the prescribed methods, who are averse to worldly pleasures, and who are of serene minds, and take a delight in the \u015aruti \u2013 appreciate this salutary teaching!",
-    "word_by_word": [],
+      "chapter_number": 12,
+      "section_title": "The Glory of the Textbook",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "keywords_sanskrit": [
+        "Mumukshutva",
+        "Cittadoṣa",
+        "Bhavasukha",
+        "Prashanta-chitta",
+        "Shruti-rasika",
+        "Yati",
+        "Vihita",
+        "Nirasta"
+      ],
+      "sadhana_stage": "Mumukshutva",
+      "target_obstacle": "Vikshepa",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
+  },
+  {
+    "id": "prakarana-vivekachudamani_12_30",
+    "verse_number": 580,
+    "chapter_number": 12,
+    "sanskrit_shloka": "संसाराध्वनि तापभानुकिरणप्रोद्भूतदाहव्यथा खिन्नानां जलकाङ्क्षया मरुभुवि भ्रान्त्या परिभ्राम्यताम् । अत्यासन्नसुधाम्बुधिं सुखकरं ब्रह्माद्वयं दर्शयत्य् एषा शंकरभारती विजयते निर्वाणसंदायिनी ॥ ५८० ॥",
+    "text": "संसाराध्वनि तापभानुकिरणप्रोद्भूतदाहव्यथा खिन्नानां जलकाङ्क्षया मरुभुवि भ्रान्त्या परिभ्राम्यताम् । अत्यासन्नसुधाम्बुधिं सुखकरं ब्रह्माद्वयं दर्शयत्य् एषा शंकरभारती विजयते निर्वाणसंदायिनी ॥ ५८० ॥",
+    "transliteration": "saṃsārādhvani tāpabhānukiraṇaprodbhūtadāhavyathā khinnānāṃ jalakāṅkṣayā marubhuvi bhrāntyā paribhrāmyatām | atyāsannasudhāmbudhiṃ sukhakaraṃ brahmādvayaṃ darśayaty eṣā śaṃkarabhāratī vijayate nirvāṇasaṃdāyinī || 580 ||",
+    "section_title": "The Glory of the Textbook",
+    "summary_line": "",
+    "sadhana_stage": "Viveka",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Adhyaropa-Apavada",
+    "target_obstacle": "Vikshepa",
+    "keywords_sanskrit": [
+      "Samsara",
+      "Tapa",
+      "Bhranti",
+      "Brahman",
+      "Advaya",
+      "Nirvana",
+      "Maya",
+      "Jiva",
+      "Antahkarana"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "May those Sannyasins who are seekers after Liberation, who have purged themselves of all taints of the mind by the observance of the prescribed methods, who are averse to worldly pleasures, and who are of serene minds, and take a delight in the \u015aruti \u2013 appreciate this salutary teaching!"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Wandering deluded in the path of samsara, afflicted by the scorching pain caused by the rays of the sun of suffering, those weary souls thirst for water in the desert of illusion. But this Shankarabharati reveals to them the nectar-ocean of Brahman, non-dual and bliss-giving—victorious, the bestower of liberation."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "संसार के मार्ग पर भटकते हुए, दुःख के सूर्य की किरणों से उत्पन्न जलने वाले वेदना से तप्त, थके हुए आत्मा भ्रम के रेगिस्तान में जल की इच्छा करते हैं। परन्तु यह शंकरभारती उन्हें अद्वय ब्रह्म का अमृत-समुद्र, आनंददायी रूप दर्शाती है—जो निर्वाण का दाता है और विजयी है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
-  },
-  {
-    "id": "prakarana-vivekachudamani_12_580",
+    "word_by_word": [
+      {
+        "word_sanskrit": "संसाराध्वनि",
+        "word_english": "path of samsara",
+        "transliteration": "saṃsārādhvani",
+        "grammar_role": "saṃsārādhvani"
+      },
+      {
+        "word_sanskrit": "तापभानुकिरणप्रोद्भूतदाहव्यथा",
+        "word_english": "scorching pain caused by the rays of the sun of suffering",
+        "transliteration": "tāpabhānukiraṇaprodbhūtadāhavyathā",
+        "grammar_role": "tāpabhānukiraṇaprodbhūtadāhavyathā"
+      },
+      {
+        "word_sanskrit": "खिन्नानां",
+        "word_english": "weary",
+        "transliteration": "khinnānāṃ",
+        "grammar_role": "khinnānāṃ"
+      },
+      {
+        "word_sanskrit": "जलकाङ्क्षया",
+        "word_english": "thirsting for water",
+        "transliteration": "jalakāṅkṣayā",
+        "grammar_role": "jalakāṅkṣayā"
+      },
+      {
+        "word_sanskrit": "मरुभुवि",
+        "word_english": "desert",
+        "transliteration": "marubhuvi",
+        "grammar_role": "marubhuvi"
+      },
+      {
+        "word_sanskrit": "भ्रान्त्या",
+        "word_english": "by illusion",
+        "transliteration": "bhrāntyā",
+        "grammar_role": "bhrāntyā"
+      },
+      {
+        "word_sanskrit": "परिभ्राम्यताम्",
+        "word_english": "wandering deluded",
+        "transliteration": "paribhrāmyatām",
+        "grammar_role": "paribhrāmyatām"
+      },
+      {
+        "word_sanskrit": "अत्यासन्नसुधाम्बुधिं",
+        "word_english": "nearer nectar-ocean",
+        "transliteration": "atyāsannasudhāmbudhiṃ",
+        "grammar_role": "atyāsannasudhāmbudhiṃ"
+      },
+      {
+        "word_sanskrit": "सुखकरं",
+        "word_english": "bliss-giving",
+        "transliteration": "sukhakaraṃ",
+        "grammar_role": "sukhakaraṃ"
+      },
+      {
+        "word_sanskrit": "ब्रह्माद्वयं",
+        "word_english": "non-dual Brahman",
+        "transliteration": "brahmādvayaṃ",
+        "grammar_role": "brahmādvayaṃ"
+      },
+      {
+        "word_sanskrit": "दर्शयत्य्",
+        "word_english": "reveals",
+        "transliteration": "darśayaty",
+        "grammar_role": "darśayaty"
+      },
+      {
+        "word_sanskrit": "एषा",
+        "word_english": "this",
+        "transliteration": "eṣā",
+        "grammar_role": "eṣā"
+      },
+      {
+        "word_sanskrit": "शंकरभारती",
+        "word_english": "Shankarabharati",
+        "transliteration": "śaṃkarabhāratī",
+        "grammar_role": "śaṃkarabhāratī"
+      },
+      {
+        "word_sanskrit": "विजयते",
+        "word_english": "is victorious",
+        "transliteration": "vijayate",
+        "grammar_role": "vijayate"
+      },
+      {
+        "word_sanskrit": "निर्वाणसंदायिनी",
+        "word_english": "bestower of liberation",
+        "transliteration": "nirvāṇasaṃdāyinī",
+        "grammar_role": "nirvāṇasaṃdāyinī"
+      }
+    ],
+    "commentary_faqs": [],
     "metadata": {
       "scripture_name": "Vivekachudamani",
       "scripture_slug": "prakarana-vivekachudamani",
-      "chapter_slug": "part-12",
-      "chapter_name": "Part 12",
       "verse_number": 580,
-      "chapter_number": 12
-    },
-    "sanskrit_shloka": "\u0938\u0902\u0938\u093e\u0930\u093e\u0927\u094d\u0935\u0928\u093f \u0924\u093e\u092a\u092d\u093e\u0928\u0941\u0915\u093f\u0930\u0923\u092a\u094d\u0930\u094b\u0926\u094d\u092d\u0942\u0924\u0926\u093e\u0939\u0935\u094d\u092f\u0925\u093e \u0916\u093f\u0928\u094d\u0928\u093e\u0928\u093e\u0902 \u091c\u0932\u0915\u093e\u0919\u094d\u0915\u094d\u0937\u092f\u093e \u092e\u0930\u0941\u092d\u0941\u0935\u093f \u092d\u094d\u0930\u093e\u0928\u094d\u0924\u094d\u092f\u093e \u092a\u0930\u093f\u092d\u094d\u0930\u093e\u092e\u094d\u092f\u0924\u093e\u092e\u094d \u0964\n\u0905\u0924\u094d\u092f\u093e\u0938\u0928\u094d\u0928\u0938\u0941\u0927\u093e\u092e\u094d\u092c\u0941\u0927\u093f\u0902 \u0938\u0941\u0916\u0915\u0930\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0926\u094d\u0935\u092f\u0902 \u0926\u0930\u094d\u0936\u092f\u0924\u094d\u092f\u094d \u090f\u0937\u093e \u0936\u0902\u0915\u0930\u092d\u093e\u0930\u0924\u0940 \u0935\u093f\u091c\u092f\u0924\u0947 \u0928\u093f\u0930\u094d\u0935\u093e\u0923\u0938\u0902\u0926\u093e\u092f\u093f\u0928\u0940 \u0965 \u096b\u096e0 \u0965",
-    "transliteration": "sa\u1e43s\u0101r\u0101dhvani t\u0101pabh\u0101nukira\u1e47aprodbh\u016btad\u0101havyath\u0101 khinn\u0101n\u0101\u1e43 jalak\u0101\u1e45k\u1e63ay\u0101 marubhuvi bhr\u0101nty\u0101 paribhr\u0101myat\u0101m |\naty\u0101sannasudh\u0101mbudhi\u1e43 sukhakara\u1e43 brahm\u0101dvaya\u1e43 dar\u015bayaty e\u1e63\u0101 \u015ba\u1e43karabh\u0101rat\u012b vijayate nirv\u0101\u1e47asa\u1e43d\u0101yin\u012b || 580 ||",
-    "translation": "For those who are afflicted, in the way of the world, by the burning pain due to the (scorching) sunshine of threefold misery, and who through delusion wander about in a desert in search of water \u2013 for them here is the triumphant message of Shankara pointing out, within easy reach, the soothing ocean of nectar, Brahman, the One without a second \u2013 to lead them on to Liberation.",
-    "word_by_word": [],
-    "translations": [
-      {
-        "author": "English Translation",
-        "language": "english",
-        "text": "For those who are afflicted, in the way of the world, by the burning pain due to the (scorching) sunshine of threefold misery, and who through delusion wander about in a desert in search of water \u2013 for them here is the triumphant message of Shankara pointing out, within easy reach, the soothing ocean of nectar, Brahman, the One without a second \u2013 to lead them on to Liberation."
-      }
-    ],
-    "commentaries": [],
-    "commentary_faqs": []
+      "chapter_number": 12,
+      "section_title": "The Glory of the Textbook",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Adhyaropa-Apavada",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "keywords_sanskrit": [
+        "Samsara",
+        "Tapa",
+        "Bhranti",
+        "Brahman",
+        "Advaya",
+        "Nirvana",
+        "Maya",
+        "Jiva",
+        "Antahkarana"
+      ],
+      "sadhana_stage": "Viveka",
+      "target_obstacle": "Vikshepa",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 12 (Verses 551-580)",
+      "chapter_slug": "part-12"
+    }
   }
 ]

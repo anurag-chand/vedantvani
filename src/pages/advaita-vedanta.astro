@@ -1,0 +1,390 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ScriptureCard from '../components/ScriptureCard.astro';
+import { getScripturesByTradition } from '../data/scriptures';
+
+const advaitaScriptures = getScripturesByTradition('advaita');
+const prasthanatrayi = advaitaScriptures.filter(s => s.id === 'brahmasutra' || s.subcategory === 'Mukhya Upanishads');
+const upanishads = advaitaScriptures.filter(s => s.subcategory === 'Mukhya Upanishads');
+const sutras = advaitaScriptures.filter(s => s.id === 'brahmasutra');
+const prakaranas = advaitaScriptures.filter(s => s.subcategory !== 'Mukhya Upanishads' && s.id !== 'brahmasutra');
+
+const totalVerses = advaitaScriptures.reduce((acc, s) => acc + s.total_verses, 0);
+---
+
+<Layout 
+  title="Advaita Vedānta - Non-Dual Philosophy & Scriptures | VedāntVāṇī"
+  description="Explore the non-dual wisdom of Advaita Vedānta through the Major Upaniṣads, Brahma Sūtras with Shankara Bhāṣya, and Prakaraṇa Granthas like Vivekacūḍāmaṇi."
+>
+  <!-- Hero Section -->
+  <section class="advaita-hero">
+    <div class="container">
+      <div class="hero-content">
+        <div class="sacred-badge font-cinzel">
+          <span>🕉️</span> Non-Dual Wisdom • अद्वैत दर्शनम्
+        </div>
+        <h1 class="hero-title font-cinzel">
+          Advaita Vedānta
+        </h1>
+        <div class="sanskrit-motto font-devanagari">
+          ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः
+        </div>
+        <p class="hero-tagline font-lora">
+          “Brahman alone is Real; the phenomenal universe is an appearance; the individual soul is non-different from Brahman.”
+        </p>
+
+        <!-- Stats Strip -->
+        <div class="advaita-stats">
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">{advaitaScriptures.length}</span>
+            <span class="stat-label">Sacred Texts</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">{upanishads.length}</span>
+            <span class="stat-label">Mukhya Upaniṣads</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">555</span>
+            <span class="stat-label">Brahma Sūtras</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">{prakaranas.length}</span>
+            <span class="stat-label">Prakaraṇa Granthas</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">{totalVerses.toLocaleString()}</span>
+            <span class="stat-label">Total Verses</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Interactive Filter & Scriptures Grid -->
+  <section class="scriptures-section">
+    <div class="container">
+      <div class="section-header-row">
+        <div>
+          <h2 class="section-title font-cinzel">Advaitic Canonical Library</h2>
+          <p class="section-subtitle font-lora">Browse the Upanishads, Brahma Sutras, and Prakaranas with authentic Shankara Bhashya.</p>
+        </div>
+
+        <!-- Filter Pills -->
+        <div class="filter-pills-scroll" id="advaitaFilters">
+          <button class="filter-pill active" data-group="all">All Texts ({advaitaScriptures.length})</button>
+          <button class="filter-pill" data-group="prasthana">Prasthānatrayī ({prasthanatrayi.length})</button>
+          <button class="filter-pill" data-group="upanishads">Upaniṣads ({upanishads.length})</button>
+          <button class="filter-pill" data-group="prakaranas">Prakaraṇa Granthas ({prakaranas.length})</button>
+        </div>
+      </div>
+
+      <!-- Grid of Cards -->
+      <div class="scriptures-grid" id="advaitaGrid">
+        {advaitaScriptures.map((s) => {
+          let groups = ['all'];
+          if (s.id === 'brahmasutra') {
+            groups.push('prasthana');
+          } else if (s.subcategory === 'Mukhya Upanishads') {
+            groups.push('prasthana', 'upanishads');
+          } else {
+            groups.push('prakaranas');
+          }
+          return (
+            <div class="scripture-item-wrapper" data-groups={groups.join(' ')}>
+              <ScriptureCard scripture={s} showCategory={false} />
+            </div>
+          );
+        })}
+      </div>
+
+      <!-- Core Advaitic Doctrines Section -->
+      <div class="doctrine-card-container">
+        <div class="glass-card doctrine-card">
+          <h3 class="doctrine-title font-cinzel">The Foundations of Advaita Vedānta</h3>
+          <div class="doctrine-grid">
+            <div class="doctrine-item">
+              <span class="doctrine-num font-cinzel">01</span>
+              <h4 class="doctrine-name font-cinzel">Adhyāsa (Superimposition)</h4>
+              <p class="doctrine-desc font-lora">
+                The mistaking of the unreal for the Real, like superimposing a snake onto a rope in dim twilight. Freedom begins with inquiry (Vichāra).
+              </p>
+            </div>
+            <div class="doctrine-item">
+              <span class="doctrine-num font-cinzel">02</span>
+              <h4 class="doctrine-name font-cinzel">Three Orders of Reality</h4>
+              <p class="doctrine-desc font-lora">
+                Pāramārthika (Absolute Truth - Brahman), Vyāvahārika (Empirical transactional reality), and Prātibhāsika (Illusory dreams/mirages).
+              </p>
+            </div>
+            <div class="doctrine-item">
+              <span class="doctrine-num font-cinzel">03</span>
+              <h4 class="doctrine-name font-cinzel">The Four Mahāvākyas</h4>
+              <p class="doctrine-desc font-lora">
+                “Prajñānaṁ Brahma” (Rigveda), “Aham Brahmāsmi” (Yajurveda), “Tat Tvam Asi” (Samaveda), and “Ayam Ātmā Brahma” (Atharvaveda).
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .advaita-hero {
+    padding: 3rem 0 2.5rem 0;
+    text-align: center;
+    position: relative;
+  }
+
+  @media (min-width: 768px) {
+    .advaita-hero {
+      padding: 4.5rem 0 3.5rem 0;
+    }
+  }
+
+  .hero-content {
+    max-width: 820px;
+    margin: 0 auto;
+  }
+
+  .sacred-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0.9rem;
+    border-radius: var(--radius-pill);
+    background: var(--saffron-subtle);
+    border: 1px solid var(--border-subtle);
+    color: var(--saffron);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 1.25rem;
+  }
+
+  .hero-title {
+    font-size: 2.35rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    margin-bottom: 0.75rem;
+    background: linear-gradient(135deg, var(--text-primary) 30%, var(--gold) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  @media (min-width: 640px) {
+    .hero-title {
+      font-size: 3.25rem;
+    }
+  }
+
+  .sanskrit-motto {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--gold);
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.02em;
+  }
+
+  @media (min-width: 640px) {
+    .sanskrit-motto {
+      font-size: 1.45rem;
+    }
+  }
+
+  .hero-tagline {
+    font-size: 1.05rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 2rem;
+  }
+
+  .advaita-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem 1.5rem;
+    padding: 1.25rem;
+    border-radius: var(--radius-lg);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+  }
+
+  .stat-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .stat-number {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--saffron);
+    line-height: 1.1;
+  }
+
+  .stat-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .stat-divider {
+    width: 1px;
+    height: 32px;
+    background: var(--border-subtle);
+    display: none;
+  }
+
+  @media (min-width: 640px) {
+    .stat-divider {
+      display: block;
+    }
+  }
+
+  /* Section Header */
+  .section-header-row {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  @media (min-width: 768px) {
+    .section-header-row {
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: space-between;
+    }
+  }
+
+  .section-title {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.25rem;
+  }
+
+  .section-subtitle {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+  }
+
+  /* Scriptures Grid */
+  .scriptures-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 640px) {
+    .scriptures-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .scriptures-grid {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+    }
+  }
+
+  .scripture-item-wrapper.hidden {
+    display: none;
+  }
+
+  /* Doctrine Card */
+  .doctrine-card-container {
+    margin-top: 3.5rem;
+  }
+
+  .doctrine-card {
+    padding: 2rem 1.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .doctrine-card {
+      padding: 2.5rem;
+    }
+  }
+
+  .doctrine-title {
+    font-size: 1.4rem;
+    color: var(--gold);
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .doctrine-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+
+  @media (min-width: 768px) {
+    .doctrine-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .doctrine-item {
+    border-top: 1px dashed var(--border-subtle);
+    padding-top: 1.25rem;
+  }
+
+  .doctrine-num {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--saffron);
+    opacity: 0.8;
+  }
+
+  .doctrine-name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0.35rem 0 0.5rem 0;
+  }
+
+  .doctrine-desc {
+    font-size: 0.88rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+  }
+</style>
+
+<script is:inline>
+  (function() {
+    const pills = document.querySelectorAll('#advaitaFilters .filter-pill');
+    const items = document.querySelectorAll('.scripture-item-wrapper');
+
+    pills.forEach(pill => {
+      pill.addEventListener('click', () => {
+        pills.forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        const group = pill.getAttribute('data-group');
+
+        items.forEach(item => {
+          const itemGroups = (item.getAttribute('data-groups') || '').split(' ');
+          if (group === 'all' || itemGroups.includes(group)) {
+            item.classList.remove('hidden');
+          } else {
+            item.classList.add('hidden');
+          }
+        });
+      });
+    });
+  })();
+</script>

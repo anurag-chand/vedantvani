@@ -1,0 +1,38 @@
+[
+  {
+    "chapter_number": 1,
+    "name": "Asana Vidhi (Postures)",
+    "name_sanskrit": "प्रथमोपदेशः - आसनविधिः",
+    "name_transliterated": "Upadeśa 1",
+    "verses_count": 67,
+    "summary": "The first chapter teaches the lineage of Adinatha, qualifications of a yogi, the ideal matha (hermitage), ethics (yama/niyama), and 15 classical asanas including Svastikasana, Gomukhasana, Virasana, Paschimottanasana, Mayurasana, Dhanurasana, Matsyendrasana, and Padmasana, concluding with mitahara (temperate diet).",
+    "summary_hindi": ""
+  },
+  {
+    "chapter_number": 2,
+    "name": "Pranayama & Shatkarma",
+    "name_sanskrit": "द्वितीयोपदेशः - प्राणायामः षट्कर्माणि च",
+    "name_transliterated": "Upadeśa 2",
+    "verses_count": 77,
+    "summary": "The second chapter details the purification of the nadis (nadishodhana), the Shatkarmas (Dhauti, Basti, Neti, Trataka, Nauli, Kapalabhati), and the eight Kumbhakas (Suryabhedana, Ujjayi, Sitkari, Sitali, Bhastrika, Bhramari, Murchha, Plavini).",
+    "summary_hindi": ""
+  },
+  {
+    "chapter_number": 3,
+    "name": "Mudra & Kundalini",
+    "name_sanskrit": "तृतीयोपदेशः - मुद्राविधानम्",
+    "name_transliterated": "Upadeśa 3",
+    "verses_count": 131,
+    "summary": "The third chapter details the awakening of Kundalini through the 10 great Mudras and Bandhas: Maha Mudra, Maha Bandha, Maha Vedha, Mula Bandha, Uddiyana Bandha, Jalandhara Bandha, Viparita Karani, Vajroli, Amaroli, and Shambhavi Mudra.",
+    "summary_hindi": ""
+  },
+  {
+    "chapter_number": 4,
+    "name": "Samadhi & Nadanusandhana",
+    "name_sanskrit": "चतुर्थोपदेशः - समाधिनिरूपणम्",
+    "name_transliterated": "Upadeśa 4",
+    "verses_count": 112,
+    "summary": "The fourth chapter describes the supreme state of Samadhi, Unmani Avastha, Raja Yoga realization, the four stages of practice (Arambha, Ghata, Parichaya, Nishpatti), and the inward contemplation of unstruck mystic sound (Nadanusandhana).",
+    "summary_hindi": ""
+  }
+]

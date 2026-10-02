@@ -1,72 +1,100 @@
-# 🕉️ Gitā Jñāna (गीता ज्ञान)
-### *Premium Vedāntic Bhagavad Gītā Explorer & Study Companion*
+# 🕉️ VedāntVāṇī (वेदान्त वाणी)
+### *Next-Generation Astro Scriptural Explorer & Vedāntic Study Sanctuary*
 
-**Gitā Jñāna** is a high-performance, aesthetically premium static web application designed to facilitate the profound study and comparative analysis of the Bhagavad Gītā. Powered by a fully enriched dataset of **701 verses**, it integrates 7 authoritative translations and 16 theological commentaries representing the key schools of Hindu Vedānta (*Advaita, Vishishtadvaita, Dvaita, and Shuddhadvaita*).
+**VedāntVāṇī** is a modern, high-performance static web application built with the **Astro framework** and tailored with a **mobile-first design**. It houses **29 canonical scriptures**, **120 chapters**, and **3,157 sacred verses** across the foundational traditions of Sanātana Dharma: **Advaita Vedānta**, **Itihāsas**, and **Purāṇas & Sūtras**.
 
----
-
-## 🌟 Salient Features
-
-### 1. 🕉️ 100% Scriptural Completeness
-Unlike standard datasets that merge or skip minor verses, Gitā Jñāna provides access to all 701 standard verses of the Bhagavad Gītā. Missing crawled content (Chapter 1, Verses 6, 22, 39, and 47) has been fully reconstructed using authoritative traditional databases, ensuring absolute integrity of the text.
-
-### 2. 🎨 Sacred Vedāntic Aesthetics & Responsive Design
-The user interface is designed to evoke a meditative atmosphere, using curated styling tokens:
-* **Thematic Palettes**: Toggle between **Cosmic Void Slate** (Dark Mode - representing the infinite unmanifested *Brahman*) and **Sattvic Ivory** (Light Mode - representing purity, clarity, and peace).
-* **Premium Typography**: Features **Noto Serif Devanagari** for clear, legible Sanskrit text alongside classic scriptural serifs (**Cinzel** and **Lora**) for translations and commentaries.
-* **Micro-interactions**: Glassmorphic reader panels, glowing active saffron outlines, and slide-in keyframe animations that feel modern yet spiritually grounding.
-
-### 3. ⚖️ Comparative Translation Studio
-Instantly compare translations across **7 distinct lineages** representing traditional and modern interpretations. Toggle specific checkboxes to view translations side-by-side:
-* *Swami Adidevananda, Swami Gambirananda, Swami Sivananda, Swami Ramsukhdas, Swami Tejomayananda, Shri Purohit Swami, and Dr. S. Sankaranarayan.*
-
-### 4. 📚 Vedāntic Commentary Hub
-Explore **16 extensive commentaries** categorized by their corresponding Vedāntic schools of thought:
-* **Advaita (Non-Dualism)**: Adi Shankaracharya, Madhusudan Saraswati, Anandgiri.
-* **Vishishtadvaita (Qualified Non-Dualism)**: Ramanujacharya, Vedantadeshikacharya Venkatanatha.
-* **Dvaita (Dualism)**: Madhavacharya, Jayatritha.
-* **Suddhadvaita (Pure Non-Dualism)**: Vallabhacharya, Sridhara Swami, Purushottamji.
-
-### 5. 🔍 Sanskrit Semantic & Root Grounding
-Features an interactive **Word-by-Word Breakdown** tab displaying:
-* Standard Devanagari Sanskrit words.
-* Literal English translations.
-* Grammatical roles (Karta, Karma, Adhikarana, etc.).
-* Grammatical roots (e.g., *√कृ* for action, *√युज्* for union), enabling academic-grade semantic exploration.
-
-### 6. ⚡ Instant clientside Search Index
-Loads a background cache of all 701 verses after the initial paint, facilitating **sub-50ms search speeds** across Devanagari shlokas, transliterations, translation texts, and word roots, running entirely client-side without API calls.
-
-### 7. 📏 Dynamic Font Size Controls
-Added responsive sizing triggers (`A-` and `A+`) to scale shlokas, transliterations, translations, and commentaries on-the-fly between **80% and 160%** for maximum legibility and visual comfort.
-
-### 8. 📋 Social Sharing Copy Engine
-Copy an entire verse block with a single click. The utility formats the Sanskrit text, transliteration, primary translation, word meanings, and active commentary into a clean, markdown-friendly layout for social sharing. The successful action triggers a sliding Saffron Toast notification.
+Live URL: 👉 **[https://vedantvani.qzz.io/](https://vedantvani.qzz.io/)**
 
 ---
 
-## ⚡ Architectural "Throughness" & Optimizations
+## 🌟 Architecture & Traditions
 
-* **Vapor-Weight Payloads (Chapter-Level Splitting)**: To bypass loading a massive 34MB enriched master database over slower network connections, a Python preprocessing script was built to split the dataset into **18 lightweight chapter files** (approx. 1MB to 4.5MB). This ensures that the application has an instant paint metric of under 50ms upon browser initialization.
-* **Zero Dependency Footprint**: Built purely with **HTML5, Vanilla CSS3, and modern ES6 JavaScript**. Gitā Jñāna requires no compilers, bundlers, npm packages, or active dev servers. It is immune to dependency vulnerabilities and can be run by simply opening `index.html` in a browser.
-* **100% Free Edge-Hosting**: Fully optimized for static hosting platforms. The repository is deployed on **Cloudflare Pages**, taking advantage of their global edge networks for sub-50ms latency.
+VedāntVāṇī features dedicated hub pages for each sacred tradition alongside individual reader pages for all 29 texts:
+
+### 1. 🕉️ [Advaita Vedānta](/advaita-vedanta) (`/advaita-vedanta`)
+Dedicated page exploring the supreme non-dual truth codified by Adi Shankaracharya:
+* **9 Major Mukhya Upaniṣads** with Adi Shankaracharya's Bhashya (*Māṇḍūkya, Chāndogya, Bṛhadāraṇyaka, Kaṭha, Muṇḍaka, Praśna, Taittirīya, Kena Pada, Kena Vākya*).
+* **17 Prakaraṇa Granthas** (*Vivekacūḍāmaṇi, Aṣṭāvakra Gītā, Ātmabodha, Aparokṣānubhūti, Upadeśa Sāram, Tattvabodha, Śataślokī, Daśaślokī, Hastāmalaka Stotram, Kaupīna Pañcakam, Manīṣā Pañcakam, Nyāyarakṣāmaṇi, Saddarśanam, Sādhanā Pañcakam, Brahma Jñānavālī Mālā, Vākya Vṛtti*).
+* Filter between Mukhya Upanishads and Prakaranas with one tap.
+
+### 2. ⚔️ [Itihāsas](/itihasas) (`/itihasas`)
+Dedicated page exploring the epic dialogue of the Mahabharata:
+* **The Complete 18 Chapters of Srimad Bhagavad Gītā** (701 Verses).
+* Interactive chapter explorer with Sanskrit titles, verse counts, and chapter summaries.
+* The 4 Yogas: *Karma Yoga, Dhyāna Yoga, Bhakti Yoga, and Jñāna Yoga*.
+* Exegesis across 4 classical schools: *Advaita (Shankaracharya), Viśiṣṭādvaita (Ramanujacharya), Dvaita (Madhavacharya), and Śuddhādvaita (Vallabhacharya)*.
+
+### 3. 🔱 [Purāṇas & Sacred Hymns](/puranas) (`/puranas`)
+Dedicated page for Puranic literature, Vedic liturgical hymns, and cosmology:
+* **Śrī Rudram (Rudra Praśna)**: 169 mantras spanning Namakam and Chamakam from the Krishna Yajurveda Taittirīya Saṁhitā.
+* **The 18 Mahāpurāṇas**: Comprehensive classification into Sāttvika (Vishnu), Rājasa (Brahma/Shakti), and Tāmasa (Shiva) traditions.
+* Exposition of the 5 Characteristics of a Purana (*Pañcalakṣaṇa*).
+
+### 4. 🧘 [Yoga Scriptures](/yoga) (`/yoga`)
+Dedicated page for the science of meditation, mind-stilling, and liberation:
+* **Patañjali Yoga Sūtras**: 205 aphorisms across the 4 Pādas (*Samādhi, Sādhana, Vibhūti, Kaivalya*).
+* **8 Classical Commentaries** (Vyāsa Bhāṣya, Rājāmārtāṇḍa, Tattva Vaiśāradī, Yoga Sudhākara) in Sanskrit and Hindi.
+* **Authentic Audio Chanting Recitation** integrated directly into the reader.
+* Interactive guide to the 8 Limbs of Classical Yoga (*Aṣṭāṅga Yoga*) and the 5 Mental Modifications (*Pañca-Vṛttayaḥ*).
+* Architectural pipeline ready for upcoming Yoga treatises (Haṭha Yoga Pradīpikā, Gheraṇḍa Saṁhitā, Śiva Saṁhitā, Yoga Vāsiṣṭha).
+
+### 5. 📚 [All Scriptures Library](/scriptures) (`/scriptures`)
+Searchable and filterable master catalog of all 29 canonical scriptures with live search and category chips.
+
+### 6. 📖 Dedicated Scripture Reader (`/read/[scripture]`)
+Every single one of the 29 scriptures has its own dedicated static route:
+* Dynamic chapter selection and verse navigator drawer / bottom sheet.
+* High-legibility Sanskrit shlokas rendered in **Noto Serif Devanagari**.
+* Precise IAST English transliteration with diacritics.
+* Comparative translations and theological commentaries.
+* Word-by-word grammatical and root breakdown.
+* Dynamic font sizing (`A-` / `A+`) saved to `localStorage`.
+* One-click formatted verse copy engine with saffron toast notifications.
+* Keyboard shortcuts (← / → for verse navigation, `/` for search).
 
 ---
 
-## 🛠️ Deploying & Running Locally
+## 📱 Mobile-First Features
 
-### Run Locally (Instant Dev Server)
-Run a simple HTTP server using the built-in python module in the directory:
+* **Ergonomic Bottom Navigation**: Instant thumb access to Home, Advaita, Itihāsas, Purāṇas, and Library.
+* **Touch Bottom Sheet**: Fluid slide-up sheet on phones for swift chapter selection and jumping to any verse (1 to N).
+* **Bilingual Theming**: Seamless toggle between **Cosmic Void Slate** (Dark) and **Sattvic Ivory** (Light) with zero flash.
+* **Vapor-Weight Performance**: On-demand asynchronous chapter payload fetching ensuring sub-50ms paint times.
+
+---
+
+## 🛠️ Local Development & Build
+
+This project is built with **Astro v5** and can be run using Bun, Node, or npm:
+
 ```bash
-cd /home/anurag/scrapling_rag/gita_explorer
-python -m http.server 8000
-```
-Then visit **`http://localhost:8000`** in your browser.
+# 1. Install dependencies
+bun install
+# or: npm install
 
-### Pushing Updates to Cloudflare Pages
-To update your live deployment:
-```bash
-wrangler pages deploy . --project-name gita-explorer --branch main
+# 2. Start development server (runs on port 4321)
+bun run dev
+# or: npm run dev
+
+# 3. Build optimized static output (dist/)
+bun run build
+# or: npm run build
+
+# 4. Preview static production build
+bun run preview
+# or: npm run preview
 ```
-Your live site is hosted globally at:
-👉 **`https://vedantvani.qzz.io/`**
+
+---
+
+## 🚀 Deployment (Cloudflare Pages)
+
+The static build is output to `dist/`:
+
+```bash
+# Build the Astro site
+bun run build
+
+# Deploy to Cloudflare Pages
+wrangler pages deploy dist --project-name gita-explorer --branch main
+```

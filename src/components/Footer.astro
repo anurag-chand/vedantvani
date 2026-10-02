@@ -1,0 +1,188 @@
+---
+---
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-inner">
+      <!-- Sacred Shanti Mantra Banner -->
+      <div class="shanti-banner">
+        <div class="shanti-sanskrit font-devanagari">
+          ॐ असतो मा सद्गमय । तमसो मा ज्योतिर्गमय । मृत्योर्माऽमृतं गमय ॥ ॐ शान्तिः शान्तिः शान्तिः ॥
+        </div>
+        <div class="shanti-english font-lora">
+          “Lead us from the unreal to the Real, from darkness unto Light, from death unto Immortality.”
+          <span class="mantra-source">— Bṛhadāraṇyaka Upaniṣad (1.3.28)</span>
+        </div>
+      </div>
+
+      <!-- Navigation & Traditions Links -->
+      <div class="footer-grid">
+        <div class="footer-col brand-col">
+          <div class="footer-brand">
+            <img src="/assets/sacred_lotus_gold.png" alt="Sacred Lotus" width="40" height="40" class="footer-lotus" />
+            <span class="footer-title font-cinzel">VedāntVāṇī</span>
+          </div>
+          <p class="footer-tagline font-lora">
+            A serene, mobile-first sanctuary for studying and contemplating the timeless scriptural wisdom of Sanātana Dharma.
+          </p>
+        </div>
+
+        <div class="footer-col">
+          <h4 class="footer-heading font-cinzel">Traditions & Pages</h4>
+          <ul class="footer-links">
+            <li><a href="/advaita-vedanta">Advaita Vedānta</a></li>
+            <li><a href="/itihasas">Itihāsas (Bhagavad Gītā)</a></li>
+            <li><a href="/puranas">Purāṇas & Hymns</a></li>
+            <li><a href="/yoga">Yoga Scriptures</a></li>
+            <li><a href="/scriptures">All 29 Scriptures</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4 class="footer-heading font-cinzel">Core Masterworks</h4>
+          <ul class="footer-links">
+            <li><a href="/read/bhagavad-gita">Bhagavad Gītā (701 Verses)</a></li>
+            <li><a href="/read/upanishad-mandukya">Māṇḍūkya Upaniṣad</a></li>
+            <li><a href="/read/prakarana-vivekachudamani">Vivekacūḍāmaṇi</a></li>
+            <li><a href="/read/yogasutras">Patañjali Yoga Sūtras</a></li>
+            <li><a href="/read/rudram">Śrī Rudram</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Bottom Bar -->
+      <div class="footer-bottom">
+        <p>© 2026 VedāntVāṇī. Dedicated to the eternal Guru-Śiṣya Paramparā.</p>
+        <p class="footer-subtext">Free, non-commercial, preserved for seekers everywhere.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    border-top: 1px solid var(--border-subtle);
+    background-color: var(--bg-surface);
+    backdrop-filter: var(--glass-blur);
+    margin-top: 4rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+
+  .shanti-banner {
+    text-align: center;
+    padding: 1.75rem 1.25rem;
+    border-radius: var(--radius-lg);
+    background: var(--bg-surface-card);
+    border: 1px solid var(--border-subtle);
+    margin-bottom: 3rem;
+  }
+
+  .shanti-sanskrit {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--gold);
+    line-height: 1.8;
+    margin-bottom: 0.5rem;
+  }
+
+  .shanti-english {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+
+  .mantra-source {
+    display: block;
+    font-size: 0.8rem;
+    font-style: normal;
+    color: var(--saffron);
+    margin-top: 0.25rem;
+    font-family: var(--font-serif-title);
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .footer-grid {
+      grid-template-columns: 2fr 1fr 1fr;
+    }
+  }
+
+  .footer-brand {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-lotus {
+    filter: drop-shadow(0 0 6px var(--saffron-glow));
+  }
+
+  .footer-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--text-primary);
+  }
+
+  .footer-tagline {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    max-width: 380px;
+  }
+
+  .footer-heading {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--saffron);
+    margin-bottom: 1rem;
+  }
+
+  .footer-links {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .footer-links a {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: color var(--transition-fast);
+  }
+
+  .footer-links a:hover {
+    color: var(--saffron);
+  }
+
+  .footer-bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-subtle);
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-align: center;
+  }
+
+  @media (min-width: 640px) {
+    .footer-bottom {
+      flex-direction: row;
+      text-align: left;
+    }
+  }
+</style>

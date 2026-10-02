@@ -1,122 +1,673 @@
 [
   {
     "id": "prakarana-kaupina-panchakam_1_1",
-    "metadata": {
-      "scripture_name": "Kaupina Panchakam",
-      "scripture_slug": "prakarana-kaupina-panchakam",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 1,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0935\u0947\u0926\u093e\u0928\u094d\u0924\u0935\u093e\u0915\u094d\u092f\u0947\u0937\u0941 \u0938\u0926\u093e \u0930\u092e\u0928\u094d\u0924\u094b\n\u092d\u093f\u0915\u094d\u0937\u093e\u0928\u094d\u0928\u092e\u093e\u0924\u094d\u0930\u0947\u0923 \u091a \u0924\u0941\u0937\u094d\u091f\u093f\u092e\u0928\u094d\u0924\u0903 \u0964\n\u0935\u093f\u0936\u094b\u0915\u092e\u0928\u094d\u0924\u0903\u0915\u0930\u0923\u0947 \u091a\u0930\u0928\u094d\u0924\u0903\n\u0915\u094c\u092a\u0940\u0928\u0935\u0928\u094d\u0924\u0903 \u0916\u0932\u0941 \u092d\u093e\u0917\u094d\u092f\u0935\u0928\u094d\u0924\u0903 \u0965 \u0967\u0965",
-    "transliteration": "ved\u0101ntav\u0101kye\u1e63u sad\u0101 ramanto\nbhik\u1e63\u0101nnam\u0101tre\u1e47a ca tu\u1e63\u1e6dimanta\u1e25 .\nvi\u015bokamanta\u1e25kara\u1e47e caranta\u1e25\nkaup\u012bnavanta\u1e25 khalu bh\u0101gyavanta\u1e25 .. 1..",
-    "translation": "Roaming ever in the insights of Vedanta,\nEver pleased with his beggar's morsel,\nWandering onward, his heart free from sorrow,\nBlest indeed is the wearer of the loin-cloth . (1)",
-    "word_by_word": [],
+    "verse_number": 1,
+    "chapter_number": 1,
+    "sanskrit_shloka": "वेदान्तवाक्येषु सदा रमन्तो\nभिक्षान्नमात्रेण च तुष्टिमन्तः ।\nविशोकमन्तःकरणे चरन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ १॥",
+    "text": "वेदान्तवाक्येषु सदा रमन्तो\nभिक्षान्नमात्रेण च तुष्टिमन्तः ।\nविशोकमन्तःकरणे चरन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ १॥",
+    "transliteration": "vedāntavākyeṣu sadā ramanto\nbhikṣānnamātreṇa ca tuṣṭimantaḥ .\nviśokamantaḥkaraṇe carantaḥ\nkaupīnavantaḥ khalu bhāgyavantaḥ .. 1..",
+    "section_title": "",
+    "summary_line": "The true renunciant finds bliss in Vedanta, contentment in simplicity, and liberation in a sorrow-free mind.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": "Sadhana-Phala",
+    "prakriya_mapped": "Drig-Drishya-Target",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [
+      "Antahkarana",
+      "Vedāntavākya",
+      "Kaupīna",
+      "Tuṣṭi",
+      "Viśoka",
+      "Bhikṣā",
+      "Mumukshutva"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Roaming ever in the insights of Vedanta,\nEver pleased with his beggar's morsel,\nWandering onward, his heart free from sorrow,\nBlest indeed is the wearer of the loin-cloth . (1)"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Ever rejoicing in the teachings of Vedanta, content with only the alms-food, wandering with a sorrow-free inner instrument, indeed blessed is the one who wears the loin-cloth."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "वेदान्त के वाक्यों में हमेशा आनंदित होते हुए, केवल भिक्षा के अन्न से संतुष्ट, शोकरहित अंतःकरण के साथ भटकते हुए, निश्चित रूप से भाग्यवान् है वह जो कौपीन धारण करता है।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "वेदान्तवाक्येषु",
+        "word_english": "in the Vedantic utterances<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वेदान्तवाक्यों में</div>",
+        "transliteration": "vedāntavākyeṣu",
+        "grammar_role": "vedāntavākyeṣu"
+      },
+      {
+        "word_sanskrit": "सदा",
+        "word_english": "always<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>हमेशा</div>",
+        "transliteration": "sadā",
+        "grammar_role": "sadā"
+      },
+      {
+        "word_sanskrit": "रमन्तः",
+        "word_english": "rejoicing<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>आनंदित होते हुए</div>",
+        "transliteration": "ramantaḥ",
+        "grammar_role": "ramantaḥ"
+      },
+      {
+        "word_sanskrit": "भिक्षान्नमात्रेण",
+        "word_english": "with only the alms-food<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>केवल भिक्षा के अन्न से</div>",
+        "transliteration": "bhikṣānnamātreṇa",
+        "grammar_role": "bhikṣānnamātreṇa"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>और</div>",
+        "transliteration": "ca",
+        "grammar_role": "ca"
+      },
+      {
+        "word_sanskrit": "तुष्टिमन्तः",
+        "word_english": "contented<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>संतुष्ट</div>",
+        "transliteration": "tuṣṭimantaḥ",
+        "grammar_role": "tuṣṭimantaḥ"
+      },
+      {
+        "word_sanskrit": "विशोकमन्तःकरणे",
+        "word_english": "with a sorrow-free inner instrument (mind)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>शोकरहित अंतःकरण के साथ</div>",
+        "transliteration": "viśokamantaḥkaraṇe",
+        "grammar_role": "viśokamantaḥkaraṇe"
+      },
+      {
+        "word_sanskrit": "चरन्तः",
+        "word_english": "wandering<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भटकते हुए</div>",
+        "transliteration": "carantaḥ",
+        "grammar_role": "carantaḥ"
+      },
+      {
+        "word_sanskrit": "कौपीनवन्तः",
+        "word_english": "wearing the loin-cloth (symbol of renunciation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>कौपीन धारण करने वाले</div>",
+        "transliteration": "kaupīnavantaḥ",
+        "grammar_role": "kaupīnavantaḥ"
+      },
+      {
+        "word_sanskrit": "खलु",
+        "word_english": "indeed<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वास्तव में</div>",
+        "transliteration": "khalu",
+        "grammar_role": "khalu"
+      },
+      {
+        "word_sanskrit": "भाग्यवन्तः",
+        "word_english": "blessed, fortunate<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भाग्यवान्</div>",
+        "transliteration": "bhāgyavantaḥ",
+        "grammar_role": "bhāgyavantaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Kaupina Panchakam",
+      "scripture_slug": "prakarana-kaupina-panchakam",
+      "verse_number": 1,
+      "chapter_number": 1,
+      "summary_line": "The true renunciant finds bliss in Vedanta, contentment in simplicity, and liberation in a sorrow-free mind.",
+      "primary_doctrine": "Sadhana-Phala",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Drig-Drishya-Target",
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Tat Tvam Asi",
+      "keywords_sanskrit": [
+        "Antahkarana",
+        "Vedāntavākya",
+        "Kaupīna",
+        "Tuṣṭi",
+        "Viśoka",
+        "Bhikṣā",
+        "Mumukshutva"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-5)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-kaupina-panchakam_1_2",
-    "metadata": {
-      "scripture_name": "Kaupina Panchakam",
-      "scripture_slug": "prakarana-kaupina-panchakam",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 2,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u092e\u0942\u0932\u0902 \u0924\u0930\u094b\u0903 \u0915\u0947\u0935\u0932\u092e\u093e\u0936\u094d\u0930\u092f\u0928\u094d\u0924\u0903\n\u092a\u093e\u0923\u093f\u0926\u094d\u0935\u092f\u0902 \u092d\u094b\u0915\u094d\u0924\u0941\u092e\u092e\u0928\u094d\u0924\u094d\u0930\u092f\u0928\u094d\u0924\u0903 \u0964\n\u0915\u0928\u094d\u0925\u093e\u092e\u093f\u0935 \u0936\u094d\u0930\u0940\u092e\u092a\u093f \u0915\u0941\u0924\u094d\u0938\u092f\u0928\u094d\u0924\u0903\n\u0915\u094c\u092a\u0940\u0928\u0935\u0928\u094d\u0924\u0903 \u0916\u0932\u0941 \u092d\u093e\u0917\u094d\u092f\u0935\u0928\u094d\u0924\u0903 \u0965 \u0968\u0965",
-    "transliteration": "m\u016bla\u1e43 taro\u1e25 kevalam\u0101\u015brayanta\u1e25\np\u0101\u1e47idvaya\u1e43 bhoktumamantrayanta\u1e25 .\nkanth\u0101miva \u015br\u012bmapi kutsayanta\u1e25\nkaup\u012bnavanta\u1e25 khalu bh\u0101gyavanta\u1e25 .. 2..",
-    "translation": "Sitting at the foot of a tree for shelter,\nEating from his hands his meagre portion,\nSpurning wealth like a torn piece of cloth,\nBlest indeed is the wearer of the loin-cloth . (2)",
-    "word_by_word": [],
+    "verse_number": 2,
+    "chapter_number": 1,
+    "sanskrit_shloka": "मूलं तरोः केवलमाश्रयन्तः\nपाणिद्वयं भोक्तुममन्त्रयन्तः ।\nकन्थामिव श्रीमपि कुत्सयन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ २॥",
+    "text": "मूलं तरोः केवलमाश्रयन्तः\nपाणिद्वयं भोक्तुममन्त्रयन्तः ।\nकन्थामिव श्रीमपि कुत्सयन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ २॥",
+    "transliteration": "mūlaṃ taroḥ kevalamāśrayantaḥ\npāṇidvayaṃ bhoktumamantrayantaḥ .\nkanthāmiva śrīmapi kutsayantaḥ\nkaupīnavantaḥ khalu bhāgyavantaḥ .. 2..",
+    "section_title": "",
+    "summary_line": "True blessedness lies in renunciation, simplicity, and detachment from wealth and ritualism.",
+    "sadhana_stage": "{'description': 'Where this verse falls within the strict execution framework of traditional spiritual practice.', 'allowed_values': {'Viveka': 'Active discrimination between the eternal (Nitya) and the ephemeral (Anitya).', 'Vairagya': 'Cultivating absolute dispassion for temporal fruits and experiential objects.', 'Shadi-Shatka-Sampatti': 'Developing the sixfold inner virtues (Shama, Dama, Uparati, Titiksha, Shraddha, Samadhana).', 'Mumukshutva': 'Intense, single-pointed longing for total spiritual liberation from the wheel of transmigration.', 'Shravana': 'Consistent, structured, receptive hearing of the non-dual Truths from a competent Guru.', 'Manana': 'Intellectual processing and rigorous reasoning to permanently eliminate personal doubts.', 'Nididhyasana': 'Deep, unbroken contemplation and assimilation to overwrite deep-seated subconscious habits (Vasanas).'}, 'value': 'Vairagya'}",
+    "primary_doctrine": "Apavada",
+    "prakriya_mapped": "Apavada",
+    "target_obstacle": "Deha-Atma-Buddhi",
+    "keywords_sanskrit": [],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Sitting at the foot of a tree for shelter,\nEating from his hands his meagre portion,\nSpurning wealth like a torn piece of cloth,\nBlest indeed is the wearer of the loin-cloth . (2)"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Those who take shelter only at the root of a tree, eat their meager portion with both hands without invoking mantras, scorn wealth as if it were a rag, and wear only a loin-cloth — truly blessed are they."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "जो केवल वृक्ष की जड़ पर शरण लेते हैं, बिना मंत्रों के उच्चारण किए अपना थोड़ा सा भोजन दोनों हाथों से खाते हैं, धन-सम्पत्ति को एक फटे कपड़े की तरह अपमानित करते हैं और केवल कौपीन धारण करते हैं — वे वास्तव में भाग्यशाली हैं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "मूलं",
+        "word_english": "root (of a tree)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वृक्ष की जड़</div>",
+        "transliteration": "mūlaṃ",
+        "grammar_role": "mūlaṃ"
+      },
+      {
+        "word_sanskrit": "तरोः",
+        "word_english": "of the tree<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वृक्ष का</div>",
+        "transliteration": "taroḥ",
+        "grammar_role": "taroḥ"
+      },
+      {
+        "word_sanskrit": "केवलम्",
+        "word_english": "only<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>केवल</div>",
+        "transliteration": "kevalam",
+        "grammar_role": "kevalam"
+      },
+      {
+        "word_sanskrit": "आश्रयन्तः",
+        "word_english": "taking shelter<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>शरण लेने वाले</div>",
+        "transliteration": "āśrayantaḥ",
+        "grammar_role": "āśrayantaḥ"
+      },
+      {
+        "word_sanskrit": "पाणिद्वयं",
+        "word_english": "with both hands<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>दोनों हाथों से</div>",
+        "transliteration": "pāṇidvayaṃ",
+        "grammar_role": "pāṇidvayaṃ"
+      },
+      {
+        "word_sanskrit": "भोक्तुम्",
+        "word_english": "to enjoy/eat<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भोजन करने के लिए</div>",
+        "transliteration": "bhoktum",
+        "grammar_role": "bhoktum"
+      },
+      {
+        "word_sanskrit": "अमन्त्रयन्तः",
+        "word_english": "not invoking (mantras or rituals)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मंत्रों का उच्चारण न करने वाले</div>",
+        "transliteration": "amantrayantaḥ",
+        "grammar_role": "amantrayantaḥ"
+      },
+      {
+        "word_sanskrit": "कन्थामिव",
+        "word_english": "like a rag<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>एक फटे कपड़े की तरह</div>",
+        "transliteration": "kanthāmiva",
+        "grammar_role": "kanthāmiva"
+      },
+      {
+        "word_sanskrit": "श्रीम्",
+        "word_english": "wealth, prosperity<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>धन-सम्पत्ति</div>",
+        "transliteration": "śrīm",
+        "grammar_role": "śrīm"
+      },
+      {
+        "word_sanskrit": "कुत्सयन्तः",
+        "word_english": "despising, scorning<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अपमानित करने वाले</div>",
+        "transliteration": "kutsayantaḥ",
+        "grammar_role": "kutsayantaḥ"
+      },
+      {
+        "word_sanskrit": "कौपीनवन्तः",
+        "word_english": "wearing a loin-cloth (symbol of renunciation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>कौपीन धारण करने वाले</div>",
+        "transliteration": "kaupīnavantaḥ",
+        "grammar_role": "kaupīnavantaḥ"
+      },
+      {
+        "word_sanskrit": "खलु",
+        "word_english": "indeed, truly<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वास्तव में</div>",
+        "transliteration": "khalu",
+        "grammar_role": "khalu"
+      },
+      {
+        "word_sanskrit": "भाग्यवन्तः",
+        "word_english": "blessed, fortunate<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भाग्यशाली</div>",
+        "transliteration": "bhāgyavantaḥ",
+        "grammar_role": "bhāgyavantaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Kaupina Panchakam",
+      "scripture_slug": "prakarana-kaupina-panchakam",
+      "verse_number": 2,
+      "chapter_number": 1,
+      "summary_line": "True blessedness lies in renunciation, simplicity, and detachment from wealth and ritualism.",
+      "primary_doctrine": "Apavada",
+      "metaphysical_category": "Axiology/Sadhana",
+      "prakriya_mapped": "Apavada",
+      "sruti_smriti_echo": "{'description': 'Identifies if the verse paraphrases, directly comments on, or shares strong structural resonance with foundational texts.', 'examples_format': \"String. Expected patterns: 'Gita Chapter 2 resonance', 'Katha Upanishad 1.3.10 match', 'Nirvana Shatakam echo', or 'None'\", 'value': 'Nirvana Shatakam echo'}",
+      "mahavakya_correlative": "{'description': 'Indicates if the verse directly references, interprets, or structurally prepares the mind for one of the foundational Upanishadic identity statements.', 'allowed_values': ['Tat Tvam Asi', 'Aham Brahmasmi', 'Ayam Atma Brahma', 'Prajnanam Brahma', 'None'], 'value': 'None'}",
+      "sadhana_stage": "{'description': 'Where this verse falls within the strict execution framework of traditional spiritual practice.', 'allowed_values': {'Viveka': 'Active discrimination between the eternal (Nitya) and the ephemeral (Anitya).', 'Vairagya': 'Cultivating absolute dispassion for temporal fruits and experiential objects.', 'Shadi-Shatka-Sampatti': 'Developing the sixfold inner virtues (Shama, Dama, Uparati, Titiksha, Shraddha, Samadhana).', 'Mumukshutva': 'Intense, single-pointed longing for total spiritual liberation from the wheel of transmigration.', 'Shravana': 'Consistent, structured, receptive hearing of the non-dual Truths from a competent Guru.', 'Manana': 'Intellectual processing and rigorous reasoning to permanently eliminate personal doubts.', 'Nididhyasana': 'Deep, unbroken contemplation and assimilation to overwrite deep-seated subconscious habits (Vasanas).'}, 'value': 'Vairagya'}",
+      "target_obstacle": "Deha-Atma-Buddhi",
+      "dialogue_context": "{'description': 'Captures the interactive state of the text, mirroring the traditional master-disciple progression.', 'allowed values': {'Guru Instruction': 'The master actively delivering concepts, instructions, or challenges.', 'Shishya Doubt': 'The student asking clarifying questions or expressing conceptual confusion.', 'Shishya Realization': 'The student articulating moments of insight, clarity, or total shifts in perspective.', 'Guru Benediction': 'Concluding verses, blessings, or statements on the lineages and historical impact.'}, 'value': 'Guru Instruction'}",
+      "chapter_name": "Part 1 (Verses 1-5)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-kaupina-panchakam_1_3",
-    "metadata": {
-      "scripture_name": "Kaupina Panchakam",
-      "scripture_slug": "prakarana-kaupina-panchakam",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 3,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0938\u094d\u0935\u093e\u0928\u0928\u094d\u0926\u092d\u093e\u0935\u0947 \u092a\u0930\u093f\u0924\u0941\u0937\u094d\u091f\u093f\u092e\u0928\u094d\u0924\u0903\n\u0938\u0941\u0936\u093e\u0928\u094d\u0924\u0938\u0930\u094d\u0935\u0947\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0935\u0943\u0924\u094d\u0924\u093f\u092e\u0928\u094d\u0924\u0903 \u0964\n\u0905\u0939\u0930\u094d\u0928\u093f\u0936\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0938\u0941\u0916\u0947 \u0930\u092e\u0928\u094d\u0924\u0903\n\u0915\u094c\u092a\u0940\u0928\u0935\u0928\u094d\u0924\u0903 \u0916\u0932\u0941 \u092d\u093e\u0917\u094d\u092f\u0935\u0928\u094d\u0924\u0903 \u0965 \u0969\u0965",
-    "transliteration": "sv\u0101nandabh\u0101ve paritu\u1e63\u1e6dimanta\u1e25\nsu\u015b\u0101ntasarvendriyav\u1e5bttimanta\u1e25 .\naharni\u015ba\u1e43 brahmasukhe ramanta\u1e25\nkaup\u012bnavanta\u1e25 khalu bh\u0101gyavanta\u1e25 .. 3..",
-    "translation": "Satisfied fully by the Bliss within him,\nCurbing wholly the cravings of his senses,\nDelighting day and night in the bliss of Brahman,\nBlest indeed is the wearer of the loin-cloth . (3)",
-    "word_by_word": [],
+    "verse_number": 3,
+    "chapter_number": 1,
+    "sanskrit_shloka": "स्वानन्दभावे परितुष्टिमन्तः\nसुशान्तसर्वेन्द्रियवृत्तिमन्तः ।\nअहर्निशं ब्रह्मसुखे रमन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ ३॥",
+    "text": "स्वानन्दभावे परितुष्टिमन्तः\nसुशान्तसर्वेन्द्रियवृत्तिमन्तः ।\nअहर्निशं ब्रह्मसुखे रमन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ ३॥",
+    "transliteration": "svānandabhāve parituṣṭimantaḥ\nsuśāntasarvendriyavṛttimantaḥ .\naharniśaṃ brahmasukhe ramantaḥ\nkaupīnavantaḥ khalu bhāgyavantaḥ .. 3..",
+    "section_title": "",
+    "summary_line": "The true blessed one is the renunciant who abides in Brahman-bliss, free from sensory cravings.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Svānanda",
+      "Brahmasukha",
+      "Indriya-vṛtti",
+      "Kaupīna",
+      "Bhāgyavān",
+      "Vairāgya",
+      "Jīvanmukti"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Satisfied fully by the Bliss within him,\nCurbing wholly the cravings of his senses,\nDelighting day and night in the bliss of Brahman,\nBlest indeed is the wearer of the loin-cloth . (3)"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Satisfied fully by the bliss within him, wholly calmed in all sense-activities, delighting day and night in the bliss of Brahman, indeed blessed is the wearer of the loin-cloth."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "अपने स्वयं के आनंद में पूर्णतः संतुष्ट, सभी इन्द्रियों की वृत्तियों को पूर्णतः शान्त किया हुआ, दिन रात ब्रह्म के आनंद में आनंदित होते हुए, वास्तव में भाग्यवान् है कौपीन धारण करने वाला।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "स्वानन्दभावे",
+        "word_english": "In the state of one's own bliss<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अपने स्वयं के आनंद की अवस्था में</div>",
+        "transliteration": "svānandabhāve",
+        "grammar_role": "svānandabhāve"
+      },
+      {
+        "word_sanskrit": "परितुष्टिमन्तः",
+        "word_english": "Fully satisfied<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>पूर्णतः संतुष्ट</div>",
+        "transliteration": "parituṣṭimantaḥ",
+        "grammar_role": "parituṣṭimantaḥ"
+      },
+      {
+        "word_sanskrit": "सुशान्तसर्वेन्द्रियवृत्तिमन्तः",
+        "word_english": "Wholly calmed in all sense-activities<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सभी इन्द्रियों की वृत्तियों को पूर्णतः शान्त किया हुआ</div>",
+        "transliteration": "suśāntasarvendriyavṛttimantaḥ",
+        "grammar_role": "suśāntasarvendriyavṛttimantaḥ"
+      },
+      {
+        "word_sanskrit": "अहर्निशं",
+        "word_english": "Day and night<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>दिन रात</div>",
+        "transliteration": "aharniśaṃ",
+        "grammar_role": "aharniśaṃ"
+      },
+      {
+        "word_sanskrit": "ब्रह्मसुखे",
+        "word_english": "In the bliss of Brahman<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ब्रह्म के आनंद में</div>",
+        "transliteration": "brahmasukhe",
+        "grammar_role": "brahmasukhe"
+      },
+      {
+        "word_sanskrit": "रमन्तः",
+        "word_english": "Delighting<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>आनंदित होते हुए</div>",
+        "transliteration": "ramantaḥ",
+        "grammar_role": "ramantaḥ"
+      },
+      {
+        "word_sanskrit": "कौपीनवन्तः",
+        "word_english": "Wearing the loin-cloth (symbol of renunciation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>कौपीन धारण करने वाले</div>",
+        "transliteration": "kaupīnavantaḥ",
+        "grammar_role": "kaupīnavantaḥ"
+      },
+      {
+        "word_sanskrit": "खलु",
+        "word_english": "Indeed<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वास्तव में</div>",
+        "transliteration": "khalu",
+        "grammar_role": "khalu"
+      },
+      {
+        "word_sanskrit": "भाग्यवन्तः",
+        "word_english": "Blessed, fortunate<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भाग्यवान्</div>",
+        "transliteration": "bhāgyavantaḥ",
+        "grammar_role": "bhāgyavantaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Kaupina Panchakam",
+      "scripture_slug": "prakarana-kaupina-panchakam",
+      "verse_number": 3,
+      "chapter_number": 1,
+      "summary_line": "The true blessed one is the renunciant who abides in Brahman-bliss, free from sensory cravings.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "keywords_sanskrit": [
+        "Svānanda",
+        "Brahmasukha",
+        "Indriya-vṛtti",
+        "Kaupīna",
+        "Bhāgyavān",
+        "Vairāgya",
+        "Jīvanmukti"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-5)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-kaupina-panchakam_1_4",
-    "metadata": {
-      "scripture_name": "Kaupina Panchakam",
-      "scripture_slug": "prakarana-kaupina-panchakam",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 4,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u0926\u0947\u0939\u093e\u0926\u093f\u092d\u093e\u0935\u0902 \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u092f\u0928\u094d\u0924\u0903\n\u0938\u094d\u0935\u093e\u0924\u094d\u092e\u093e\u0928\u092e\u093e\u0924\u094d\u092e\u0928\u094d\u092f\u0935\u0932\u094b\u0915\u092f\u0928\u094d\u0924\u0903 \u0964\n\u0928\u093e\u0928\u094d\u0924\u0902 \u0928 \u092e\u0927\u094d\u092f\u0902 \u0928 \u092c\u0939\u093f\u0903 \u0938\u094d\u092e\u0930\u0928\u094d\u0924\u0903\n\u0915\u094c\u092a\u0940\u0928\u0935\u0928\u094d\u0924\u0903 \u0916\u0932\u0941 \u092d\u093e\u0917\u094d\u092f\u0935\u0928\u094d\u0924\u0903 \u0965 \u096a\u0965",
-    "transliteration": "deh\u0101dibh\u0101va\u1e43 parivartayanta\u1e25\nsv\u0101tm\u0101nam\u0101tmanyavalokayanta\u1e25 .\nn\u0101nta\u1e43 na madhya\u1e43 na bahi\u1e25 smaranta\u1e25\nkaup\u012bnavanta\u1e25 khalu bh\u0101gyavanta\u1e25 .. 4..",
-    "translation": "Witnessing the changes of mind and body,\nNaught but the Self within him beholding,\nHeedless of outer, of inner, of middle,\nBlest indeed is the wearer of the loin-cloth . (4)",
-    "word_by_word": [],
+    "verse_number": 4,
+    "chapter_number": 1,
+    "sanskrit_shloka": "देहादिभावं परिवर्तयन्तः\nस्वात्मानमात्मन्यवलोकयन्तः ।\nनान्तं न मध्यं न बहिः स्मरन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ ४॥",
+    "text": "देहादिभावं परिवर्तयन्तः\nस्वात्मानमात्मन्यवलोकयन्तः ।\nनान्तं न मध्यं न बहिः स्मरन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ ४॥",
+    "transliteration": "dehādibhāvaṃ parivartayantaḥ\nsvātmānamātmanyavalokayantaḥ .\nnāntaṃ na madhyaṃ na bahiḥ smarantaḥ\nkaupīnavantaḥ khalu bhāgyavantaḥ .. 4..",
+    "section_title": "",
+    "summary_line": "True blessedness lies in transcending all identification with body-mind and abiding as the non-dual Self.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Deha-bhava",
+      "Atman",
+      "Avabodha",
+      "Anta-madhya-bahis",
+      "Kaupina",
+      "Upadhi",
+      "Adhyasa",
+      "Apavada"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Witnessing the changes of mind and body,\nNaught but the Self within him beholding,\nHeedless of outer, of inner, of middle,\nBlest indeed is the wearer of the loin-cloth . (4)"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Transforming the identification with body and other adjuncts, and beholding the Self alone within, not remembering any end, middle, or outside — truly blessed are those who wear the loin-cloth."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "शरीर और अन्य उपाधियों के साथ पहचान को बदलकर, केवल आत्मा को अपने भीतर देखते हुए, न तो अंत को, न मध्य को, न बाहर को स्मरण करते हुए — वास्तव में भाग्यवान हैं वे जो कौपीन धारण करते हैं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "देहादिभावं",
+        "word_english": "the state or condition of the body and other adjuncts (mind, senses, etc.)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>शरीर आदि के भाव या स्थिति</div>",
+        "transliteration": "dehādibhāvaṃ",
+        "grammar_role": "dehādibhāvaṃ"
+      },
+      {
+        "word_sanskrit": "परिवर्तयन्तः",
+        "word_english": "transforming, transcending, or disidentifying from<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>परिवर्तित करते हुए, अलग करते हुए</div>",
+        "transliteration": "parivartayantaḥ",
+        "grammar_role": "parivartayantaḥ"
+      },
+      {
+        "word_sanskrit": "स्वात्मानम्",
+        "word_english": "one’s own Self (the true innermost essence)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अपने स्वयं के आत्मा को</div>",
+        "transliteration": "svātmānam",
+        "grammar_role": "svātmānam"
+      },
+      {
+        "word_sanskrit": "आत्मनि",
+        "word_english": "in the Self (as the substratum)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>आत्मा में</div>",
+        "transliteration": "ātmani",
+        "grammar_role": "ātmani"
+      },
+      {
+        "word_sanskrit": "अवलोकयन्तः",
+        "word_english": "beholding, witnessing, observing without attachment<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>निरीक्षण करते हुए</div>",
+        "transliteration": "avalokayantaḥ",
+        "grammar_role": "avalokayantaḥ"
+      },
+      {
+        "word_sanskrit": "नान्तं",
+        "word_english": "not the end (outer limit)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>नहीं बाहरी सीमा</div>",
+        "transliteration": "nāntaṃ",
+        "grammar_role": "nāntaṃ"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>नहीं</div>",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "मध्यं",
+        "word_english": "the middle (intermediate state)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मध्य स्थिति</div>",
+        "transliteration": "madhyaṃ",
+        "grammar_role": "madhyaṃ"
+      },
+      {
+        "word_sanskrit": "न",
+        "word_english": "not<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>नहीं</div>",
+        "transliteration": "na",
+        "grammar_role": "na"
+      },
+      {
+        "word_sanskrit": "बहिः",
+        "word_english": "outside (external objects)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>बाहर</div>",
+        "transliteration": "bahis",
+        "grammar_role": "bahis"
+      },
+      {
+        "word_sanskrit": "स्मरन्तः",
+        "word_english": "remembering, conceptualizing, or mentally clinging to<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>स्मरण करते हुए</div>",
+        "transliteration": "smarantaḥ",
+        "grammar_role": "smarantaḥ"
+      },
+      {
+        "word_sanskrit": "कौपीनवन्तः",
+        "word_english": "wearing the loin-cloth (symbol of renunciation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>कौपीन धारण करने वाले</div>",
+        "transliteration": "kaupīnavantaḥ",
+        "grammar_role": "kaupīnavantaḥ"
+      },
+      {
+        "word_sanskrit": "खलु",
+        "word_english": "indeed, truly (emphatic particle)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वास्तव में, निश्चय ही</div>",
+        "transliteration": "khalu",
+        "grammar_role": "khalu"
+      },
+      {
+        "word_sanskrit": "भाग्यवन्तः",
+        "word_english": "blessed, fortunate, endowed with true fortune (spiritual liberation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भाग्यवान, शुभ भाग्य वाले</div>",
+        "transliteration": "bhāgyavantaḥ",
+        "grammar_role": "bhāgyavantaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Kaupina Panchakam",
+      "scripture_slug": "prakarana-kaupina-panchakam",
+      "verse_number": 4,
+      "chapter_number": 1,
+      "summary_line": "True blessedness lies in transcending all identification with body-mind and abiding as the non-dual Self.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo",
+      "mahavakya_correlative": "Tat Tvam Asi",
+      "keywords_sanskrit": [
+        "Deha-bhava",
+        "Atman",
+        "Avabodha",
+        "Anta-madhya-bahis",
+        "Kaupina",
+        "Upadhi",
+        "Adhyasa",
+        "Apavada"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-5)",
+      "chapter_slug": "part-1"
+    }
   },
   {
     "id": "prakarana-kaupina-panchakam_1_5",
-    "metadata": {
-      "scripture_name": "Kaupina Panchakam",
-      "scripture_slug": "prakarana-kaupina-panchakam",
-      "chapter_slug": "part-1",
-      "chapter_name": "Part 1",
-      "verse_number": 5,
-      "chapter_number": 1
-    },
-    "sanskrit_shloka": "\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0915\u094d\u0937\u0930\u0902 \u092a\u093e\u0935\u0928\u092e\u0941\u091a\u094d\u091a\u0930\u0928\u094d\u0924\u094b\n\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0939\u092e\u0938\u094d\u092e\u0940\u0924\u093f \u0935\u093f\u092d\u093e\u0935\u092f\u0928\u094d\u0924\u0903 \u0964\n\u092d\u093f\u0915\u094d\u0937\u093e\u0936\u093f\u0928\u094b \u0926\u093f\u0915\u094d\u0937\u0941 \u092a\u0930\u093f\u092d\u094d\u0930\u092e\u0928\u094d\u0924\u0903\n\u0915\u094c\u092a\u0940\u0928\u0935\u0928\u094d\u0924\u0903 \u0916\u0932\u0941 \u092d\u093e\u0917\u094d\u092f\u0935\u0928\u094d\u0924\u0903 \u0965 \u096b\u0965",
-    "transliteration": "brahm\u0101k\u1e63ara\u1e43 p\u0101vanamuccaranto\nbrahm\u0101hamasm\u012bti vibh\u0101vayanta\u1e25 .\nbhik\u1e63\u0101\u015bino dik\u1e63u paribhramanta\u1e25\nkaup\u012bnavanta\u1e25 khalu bh\u0101gyavanta\u1e25 .. 5..",
-    "translation": "Chanting Brahman, the word of redemption,\nMeditating only on `I am Brahman',\nLiving on alms and wandering freely,\nBlest indeed is the wearer of the loin-cloth . (5)",
-    "word_by_word": [],
+    "verse_number": 5,
+    "chapter_number": 1,
+    "sanskrit_shloka": "ब्रह्माक्षरं पावनमुच्चरन्तो\nब्रह्माहमस्मीति विभावयन्तः ।\nभिक्षाशिनो दिक्षु परिभ्रमन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ ५॥",
+    "text": "ब्रह्माक्षरं पावनमुच्चरन्तो\nब्रह्माहमस्मीति विभावयन्तः ।\nभिक्षाशिनो दिक्षु परिभ्रमन्तः\nकौपीनवन्तः खलु भाग्यवन्तः ॥ ५॥",
+    "transliteration": "brahmākṣaraṃ pāvanamuccaranto\nbrahmāhamasmīti vibhāvayantaḥ .\nbhikṣāśino dikṣu paribhramantaḥ\nkaupīnavantaḥ khalu bhāgyavantaḥ .. 5..",
+    "section_title": "",
+    "summary_line": "The true blessed ones are those who realize 'I am Brahman' and live as renunciates free from worldly attachments.",
+    "sadhana_stage": "Nididhyasana",
+    "primary_doctrine": null,
+    "prakriya_mapped": null,
+    "target_obstacle": null,
+    "keywords_sanskrit": [
+      "Brahman",
+      "Aham Brahmasmi",
+      "Kaupina",
+      "Bhiksha",
+      "Uccarana",
+      "Vibhavana",
+      "Mumukshutva",
+      "Tyaga",
+      "Atma-Jnana"
+    ],
     "translations": [
       {
         "author": "English Translation",
-        "language": "english",
-        "text": "Chanting Brahman, the word of redemption,\nMeditating only on `I am Brahman',\nLiving on alms and wandering freely,\nBlest indeed is the wearer of the loin-cloth . (5)"
+        "author_name": "English Translation",
+        "language": "English",
+        "text": "Chanting the sacred syllable Brahman, the purifying sound, and meditating on 'I am Brahman', living on alms and wandering freely in all directions, truly blessed are those who wear only the loin-cloth."
+      },
+      {
+        "author": "Hindi Translation",
+        "author_name": "हिन्दी अनुवाद",
+        "language": "Hindi",
+        "text": "ब्रह्म के पवित्र अक्षर का जप करते हुए और 'अहं ब्रह्मास्मि' का मनन करते हुए, भिक्षा से जीवन यापन करते हुए और सभी दिशाओं में भटकते हुए, वे निश्चय ही भाग्यशाली हैं जो केवल कौपीन धारण करते हैं।"
       }
     ],
     "commentaries": [],
-    "commentary_faqs": []
+    "word_by_word": [
+      {
+        "word_sanskrit": "ब्रह्माक्षरं",
+        "word_english": "The sacred syllable 'Om' as Brahman itself; the imperishable sound-form of Brahman<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>ब्रह्म का अक्षर, अमर ध्वनि-रूप, ओम्</div>",
+        "transliteration": "brahmākṣaraṃ",
+        "grammar_role": "brahmākṣaraṃ"
+      },
+      {
+        "word_sanskrit": "पावनम्",
+        "word_english": "Purifying, sanctifying<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>पवित्रकर्ता, शुद्धिकर्ता</div>",
+        "transliteration": "pāvanam",
+        "grammar_role": "pāvanam"
+      },
+      {
+        "word_sanskrit": "उच्चरन्तः",
+        "word_english": "Chanting, uttering<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>जप करते हुए</div>",
+        "transliteration": "uccarantaḥ",
+        "grammar_role": "uccarantaḥ"
+      },
+      {
+        "word_sanskrit": "ब्रह्माहमस्मीति",
+        "word_english": "I am Brahman — the identity statement<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>अहं ब्रह्मास्मि — अहम् ब्रह्म हूँ</div>",
+        "transliteration": "brahmāhamasmiti",
+        "grammar_role": "brahmāhamasmiti"
+      },
+      {
+        "word_sanskrit": "विभावयन्तः",
+        "word_english": "Meditating upon, mentally realizing<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>मनन करते हुए, आत्मचिन्तन करते हुए</div>",
+        "transliteration": "vibhāvayantaḥ",
+        "grammar_role": "vibhāvayantaḥ"
+      },
+      {
+        "word_sanskrit": "भिक्षाशिनः",
+        "word_english": "Those who live on alms<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भिक्षा से जीवन यापन करने वाले</div>",
+        "transliteration": "bhikṣāśinaḥ",
+        "grammar_role": "bhikṣāśinaḥ"
+      },
+      {
+        "word_sanskrit": "दिक्षु",
+        "word_english": "In all directions (freely wandering)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>सभी दिशाओं में</div>",
+        "transliteration": "dikṣu",
+        "grammar_role": "dikṣu"
+      },
+      {
+        "word_sanskrit": "परिभ्रमन्तः",
+        "word_english": "Wandering about, roaming without attachment<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>बिना लगाव के भटकते हुए</div>",
+        "transliteration": "paribhramantaḥ",
+        "grammar_role": "paribhramantaḥ"
+      },
+      {
+        "word_sanskrit": "कौपीनवन्तः",
+        "word_english": "Wearing only a loin-cloth (symbol of renunciation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>कौपीन धारण करने वाले (त्याग का प्रतीक)</div>",
+        "transliteration": "kaupīnavantaḥ",
+        "grammar_role": "kaupīnavantaḥ"
+      },
+      {
+        "word_sanskrit": "खलु",
+        "word_english": "Indeed, truly (emphatic particle)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>वास्तव में, निश्चय ही</div>",
+        "transliteration": "khalu",
+        "grammar_role": "khalu"
+      },
+      {
+        "word_sanskrit": "भाग्यवन्तः",
+        "word_english": "Fortunate, blessed, endowed with true fortune (spiritual liberation)<div style='color: var(--accent-gold); font-size: 0.85em; margin-top: 3px;'>भाग्यशाली, आध्यात्मिक मुक्ति से सम्पन्न</div>",
+        "transliteration": "bhāgyavantaḥ",
+        "grammar_role": "bhāgyavantaḥ"
+      }
+    ],
+    "commentary_faqs": [],
+    "metadata": {
+      "scripture_name": "Kaupina Panchakam",
+      "scripture_slug": "prakarana-kaupina-panchakam",
+      "verse_number": 5,
+      "chapter_number": 1,
+      "summary_line": "The true blessed ones are those who realize 'I am Brahman' and live as renunciates free from worldly attachments.",
+      "primary_doctrine": null,
+      "metaphysical_category": null,
+      "prakriya_mapped": null,
+      "sruti_smriti_echo": "Nirvana Shatakam echo, Bhagavad Gita 2.56-57 resonance (sthitaprajna), Katha Upanishad 2.3.14 (renunciate ideal)",
+      "mahavakya_correlative": "Aham Brahmasmi",
+      "keywords_sanskrit": [
+        "Brahman",
+        "Aham Brahmasmi",
+        "Kaupina",
+        "Bhiksha",
+        "Uccarana",
+        "Vibhavana",
+        "Mumukshutva",
+        "Tyaga",
+        "Atma-Jnana"
+      ],
+      "sadhana_stage": "Nididhyasana",
+      "target_obstacle": null,
+      "dialogue_context": "Guru Instruction",
+      "chapter_name": "Part 1 (Verses 1-5)",
+      "chapter_slug": "part-1"
+    }
   }
 ]

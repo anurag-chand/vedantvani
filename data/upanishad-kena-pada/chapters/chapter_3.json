@@ -5,32 +5,115 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 1,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145054.html"
+      "mantra_ref": "3.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092c\u094d\u0930\u0939\u094d\u092e \u0939 \u0926\u0947\u0935\u0947\u092d\u094d\u092f\u094b \u0935\u093f\u091c\u093f\u0917\u094d\u092f\u0947 \u0924\u0938\u094d\u092f \u0939 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u094b \u0935\u093f\u091c\u092f\u0947 \u0926\u0947\u0935\u093e \u0905\u092e\u0939\u0940\u092f\u0928\u094d\u0924 \u0924 \u0910\u0915\u094d\u0937\u0928\u094d\u0924\u093e\u0938\u094d\u092e\u093e\u0915\u092e\u0947\u0935\u093e\u092f\u0902 \u0935\u093f\u091c\u092f\u094b\u093d\u0938\u094d\u092e\u093e\u0915\u092e\u0947\u0935\u093e\u092f\u0902 \u092e\u0939\u093f\u092e\u0947\u0924\u093f \u0965 \u0967 \u0965",
-    "transliteration": "brahma ha devebhyo vijigye tasya ha brahma\u1e47o vijaye dev\u0101 amah\u012byanta | ta aik\u1e63ant\u0101sm\u0101kamev\u0101ya\u1e43 vijayo'sm\u0101kamev\u0101ya\u1e43 mahimeti || 14 ||",
-    "translation": "14. The Brahman won a victory for the Devas and in that victory of the Brahman the Devas attained glory. They thought \u2018the victory is ours and this glory is ours alone.\u2019",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो विजये देवा अमहीयन्त त ऐक्षन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति ॥ १ ॥",
+    "transliteration": "brahma ha devebhyo vijigye tasya ha brahmaṇo vijaye devā amahīyanta ta aikṣantāsmākamevāyaṃ vijayo'smākamevāyaṃ mahimeti || 1 ||",
+    "translation": "Brahman (the supreme reality) — indeed (marking a well-known traditional account) — for the gods / on the gods' behalf (Śaṅkara: devārtham; Brahman is the cause of the gods' victory). Form is abl/dat-ambiguous, so 'over the gods' is also read. — won the victory — of that (Brahman) — indeed — of Brahman — in the victory — the gods — were exalted; gloried (in it), felt themselves great — they (the gods) — they thought: this is ours alone — this victory is ours alone — (this) greatness is ours — thus (they thought)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "ब्रह्म",
+        "word_english": "Brahman (the supreme reality)",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं",
+        "root": "ब्रह्म"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed (marking a well-known traditional account)",
+        "grammar_role": "अव्यय (निपात — ऐतिह्ये/प्रसिद्धौ)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "देवेभ्यो",
+        "word_english": "for the gods / on the gods' behalf (Śaṅkara: devārtham; Brahman is the cause of the gods' victory). Form is abl/dat-ambiguous, so 'over the gods' is also read.",
+        "grammar_role": "देव · चतुर्थी·बहु·पुं (देवार्थम्; पञ्चम्यपि सम्भवति)",
+        "root": "देवेभ्यः"
+      },
+      {
+        "word_sanskrit": "विजिग्ये",
+        "word_english": "won the victory",
+        "grammar_role": "√जि (वि+) · लिट्·प्रथमपुरुष·एक·आत्मनेपद",
+        "root": "विजिग्ये"
+      },
+      {
+        "word_sanskrit": "तस्य",
+        "word_english": "of that (Brahman)",
+        "grammar_role": "तद् · षष्ठी·एक·नपुं",
+        "root": "तस्य"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed",
+        "grammar_role": "अव्यय (निपात — ऐतिह्ये/प्रसिद्धौ)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "ब्रह्मणो",
+        "word_english": "of Brahman",
+        "grammar_role": "ब्रह्मन् · षष्ठी·एक·नपुं",
+        "root": "ब्रह्मणः"
+      },
+      {
+        "word_sanskrit": "विजये",
+        "word_english": "in the victory",
+        "grammar_role": "विजय · सप्तमी·एक·पुं",
+        "root": "विजये"
+      },
+      {
+        "word_sanskrit": "देवा",
+        "word_english": "the gods",
+        "grammar_role": "देव · प्रथमा·बहु·पुं",
+        "root": "देवाः"
+      },
+      {
+        "word_sanskrit": "अमहीयन्त",
+        "word_english": "were exalted; gloried (in it), felt themselves great",
+        "grammar_role": "√मही (नामधातु, महस्/महत् इति) · लङ्·प्रथमपुरुष·बहु·आत्मनेपद",
+        "root": "अमहीयन्त"
+      },
+      {
+        "word_sanskrit": "त",
+        "word_english": "they (the gods)",
+        "grammar_role": "तद् · प्रथमा·बहु·पुं",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "ऐक्षन्तास्माकमेवायं",
+        "word_english": "they thought: this is ours alone",
+        "grammar_role": "√ईक्ष् · लङ्·प्रथमपुरुष·बहु·आत्मनेपद + अस्मद् · षष्ठी·बहु + अव्यय (अवधारणे) + इदम् · प्रथमा·एक·पुं",
+        "root": "ऐक्षन्त + अस्माकम् + एव + अयम्"
+      },
+      {
+        "word_sanskrit": "विजयोऽस्माकमेवायं",
+        "word_english": "this victory is ours alone",
+        "grammar_role": "विजय · प्रथमा·एक·पुं + अस्मद् · षष्ठी·बहु + अव्यय (अवधारणे) + इदम् · प्रथमा·एक·पुं",
+        "root": "विजयः + अस्माकम् + एव + अयम्"
+      },
+      {
+        "word_sanskrit": "महिमेति",
+        "word_english": "(this) greatness is ours — thus (they thought)",
+        "grammar_role": "महिमन् · प्रथमा·एक·पुं + अव्यय (इति — वाक्यसमाप्तौ)",
+        "root": "महिमा + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "14. The Brahman won a victory for the Devas and in that victory of the Brahman the Devas attained glory. They thought \u2018the victory is ours and this glory is ours alone.\u2019"
+        "text": "Brahman (the supreme reality) — indeed (marking a well-known traditional account) — for the gods / on the gods' behalf (Śaṅkara: devārtham; Brahman is the cause of the gods' victory). Form is abl/dat-ambiguous, so 'over the gods' is also read. — won the victory — of that (Brahman) — indeed — of Brahman — in the victory — the gods — were exalted; gloried (in it), felt themselves great — they (the gods) — they thought: this is ours alone — this victory is ours alone — (this) greatness is ours — thus (they thought)"
       }
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Pada Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u092c\u094d\u0930\u0939\u094d\u092e \u0939 \u0926\u0947\u0935\u0947\u092d\u094d\u092f\u094b \u0935\u093f\u091c\u093f\u0917\u094d\u092f\u0947\u00a0\u0964 \n\u2018\u0905\u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0902 \u0935\u093f\u091c\u093e\u0928\u0924\u093e\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u0924\u092e\u0935\u093f\u091c\u093e\u0928\u0924\u093e\u092e\u094d\u2019 (\u0915\u0947. \u0909. \u0968\u00a0\u0964 \u0969)\n \u0907\u0924\u094d\u092f\u093e\u0926\u093f\u0936\u094d\u0930\u0935\u0923\u093e\u0924\u094d \u092f\u0926\u0938\u094d\u0924\u093f \u0924\u0926\u094d\u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0902 \u092a\u094d\u0930\u092e\u093e\u0923\u0948\u0903 \u092f\u0928\u094d\u0928\u093e\u0938\u094d\u0924\u093f \u0924\u0926\u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0902 \u0936\u0936\u0935\u093f\u0937\u093e\u0923\u0915\u0932\u094d\u092a\u092e\u0924\u094d\u092f\u0928\u094d\u0924\u092e\u0947\u0935\u093e\u0938\u0926\u094d\u0926\u0943\u0937\u094d\u091f\u092e\u094d\u00a0\u0964 \u0924\u0925\u0947\u0926\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0924\u094d\u0935\u093e\u0926\u0938\u0926\u0947\u0935\u0947\u0924\u093f \u092e\u0928\u094d\u0926\u092c\u0941\u0926\u094d\u0927\u0940\u0928\u093e\u0902 \u0935\u094d\u092f\u093e\u092e\u094b\u0939\u094b \u092e\u093e \u092d\u0942\u0926\u093f\u0924\u093f \u0924\u0926\u0930\u094d\u0925\u0947\u092f\u092e\u093e\u0916\u094d\u092f\u093e\u092f\u093f\u0915\u093e \u0906\u0930\u092d\u094d\u092f\u0924\u0947\u00a0\u0964 \u0924\u0926\u0947\u0935 \u0939\u093f \u092c\u094d\u0930\u0939\u094d\u092e \u0938\u0930\u094d\u0935\u092a\u094d\u0930\u0915\u093e\u0930\u0947\u0923 \u092a\u094d\u0930\u0936\u093e\u0938\u094d\u0924\u0943 \u0926\u0947\u0935\u093e\u0928\u093e\u092e\u092a\u093f \u092a\u0930\u094b \u0926\u0947\u0935\u0903, \u0908\u0936\u094d\u0935\u0930\u093e\u0923\u093e\u092e\u092a\u093f \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930\u0903, \u0926\u0941\u0930\u094d\u0935\u093f\u091c\u094d\u091e\u0947\u092f\u0903, \u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u091c\u092f\u0939\u0947\u0924\u0941\u0903, \u0905\u0938\u0941\u0930\u093e\u0923\u093e\u0902 \u092a\u0930\u093e\u091c\u092f\u0939\u0947\u0924\u0941\u0903 ; \u0924\u0924\u094d\u0915\u0925\u0902 \u0928\u093e\u0938\u094d\u0924\u0940\u0924\u094d\u092f\u0947\u0924\u0938\u094d\u092f\u093e\u0930\u094d\u0925\u0938\u094d\u092f\u093e\u0928\u0941\u0915\u0942\u0932\u093e\u0928\u093f \u0939\u094d\u092f\u0941\u0924\u094d\u0924\u0930\u093e\u0923\u093f \u0935\u091a\u093e\u0902\u0938\u093f \u0926\u0943\u0936\u094d\u092f\u0928\u094d\u0924\u0947\u00a0\u0964 \u0905\u0925\u0935\u093e \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u092f\u093e\u0903 \u0938\u094d\u0924\u0941\u0924\u092f\u0947\u00a0\u0964 \u0915\u0925\u092e\u094d ? \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0926\u094d\u0927\u093f \u0905\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u092f\u094b \u0926\u0947\u0935\u093e \u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u0936\u094d\u0930\u0947\u0937\u094d\u0920\u0924\u094d\u0935\u0902 \u091c\u0917\u094d\u092e\u0941\u0903\u00a0\u0964 \u0924\u0924\u094b\u093d\u092a\u094d\u092f\u0924\u093f\u0924\u0930\u093e\u092e\u093f\u0928\u094d\u0926\u094d\u0930 \u0907\u0924\u093f\u00a0\u0964 \u0905\u0925\u0935\u093e \u0926\u0941\u0930\u094d\u0935\u093f\u091c\u094d\u091e\u0947\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0947\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u092a\u094d\u0930\u0926\u0930\u094d\u0936\u094d\u092f\u0924\u0947 \u2014 \u092f\u0947\u0928\u093e\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u092f\u094b\u093d\u0924\u093f\u0924\u0947\u091c\u0938\u094b\u093d\u092a\u093f \u0915\u094d\u0932\u0947\u0936\u0947\u0928\u0948\u0935 \u092c\u094d\u0930\u0939\u094d\u092e \u0935\u093f\u0926\u093f\u0924\u0935\u0928\u094d\u0924\u0938\u094d\u0924\u0925\u0947\u0928\u094d\u0926\u094d\u0930\u094b \u0926\u0947\u0935\u093e\u0928\u093e\u092e\u0940\u0936\u094d\u0935\u0930\u094b\u093d\u092a\u093f \u0938\u0928\u094d\u0928\u093f\u0924\u093f\u00a0\u0964 \u0935\u0915\u094d\u0937\u094d\u092f\u092e\u093e\u0923\u094b\u092a\u0928\u093f\u0937\u0926\u094d\u0935\u093f\u0927\u093f\u092a\u0930\u0902 \u0935\u093e \u0938\u0930\u094d\u0935\u092e\u094d\u00a0\u0964 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092f\u093e\u0935\u094d\u092f\u0924\u093f\u0930\u0947\u0915\u0947\u0923 \u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u0902 \u0915\u0930\u094d\u0924\u0943\u0924\u094d\u0935\u092d\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u093e\u0926\u094d\u092f\u092d\u093f\u092e\u093e\u0928\u094b \u092e\u093f\u0925\u094d\u092f\u0947\u0924\u094d\u092f\u0947\u0924\u0926\u094d\u0926\u0930\u094d\u0936\u0928\u093e\u0930\u094d\u0925\u0902 \u0935\u093e \u0906\u0916\u094d\u092f\u093e\u092f\u093f\u0915\u093e, \u092f\u0925\u093e \u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u091c\u092f\u093e\u0926\u094d\u092f\u092d\u093f\u092e\u093e\u0928\u0938\u094d\u0924\u0926\u094d\u0935\u0926\u093f\u0924\u093f\u00a0\u0964 \u092c\u094d\u0930\u0939\u094d\u092e \u092f\u0925\u094b\u0915\u094d\u0924\u0932\u0915\u094d\u0937\u0923\u0902 \u092a\u0930\u0902 \u0939 \u0915\u093f\u0932 \u0926\u0947\u0935\u0947\u092d\u094d\u092f\u094b\u093d\u0930\u094d\u0925\u093e\u092f \u0935\u093f\u091c\u093f\u0917\u094d\u092f\u0947 \u091c\u092f\u0902 \u0932\u092c\u094d\u0927\u0935\u0924\u094d \u0926\u0947\u0935\u093e\u0928\u093e\u092e\u0938\u0941\u0930\u093e\u0923\u093e\u0902 \u091a \u0938\u0919\u094d\u0917\u094d\u0930\u093e\u092e\u0947\u093d\u0938\u0941\u0930\u093e\u091e\u094d\u091c\u093f\u0924\u094d\u0935\u093e \u091c\u0917\u0926\u0930\u093e\u0924\u0940\u0928\u0940\u0936\u094d\u0935\u0930\u0938\u0947\u0924\u0941\u0930\u094d\u092d\u0947\u0924\u094d\u0924\u0944\u0928\u094d \u0926\u0947\u0935\u0947\u092d\u094d\u092f\u094b \u091c\u092f\u0902 \u0924\u0924\u094d\u092b\u0932\u0902 \u091a \u092a\u094d\u0930\u093e\u092f\u091a\u094d\u091b\u091c\u094d\u091c\u0917\u0924\u0903 \u0938\u094d\u0925\u0947\u092e\u094d\u0928\u0947\u00a0\u0964 \u0924\u0938\u094d\u092f \u0939 \u0915\u093f\u0932 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u094b \u0935\u093f\u091c\u092f\u0947 \u0926\u0947\u0935\u093e\u0903 \u0905\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u092f\u0903 \u0905\u092e\u0939\u0940\u092f\u0928\u094d\u0924 \u092e\u0939\u093f\u092e\u093e\u0928\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u0935\u0928\u094d\u0924\u0903\u00a0\u0964 \u0924\u0926\u093e \u0906\u0924\u094d\u092e\u0938\u0902\u0938\u094d\u0925\u0938\u094d\u092f \u092a\u094d\u0930\u0924\u094d\u092f\u0917\u093e\u0924\u094d\u092e\u0928 \u0908\u0936\u094d\u0935\u0930\u0938\u094d\u092f \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0938\u094d\u092f \u0938\u0930\u094d\u0935\u0915\u094d\u0930\u093f\u092f\u093e\u092b\u0932\u0938\u0902\u092f\u094b\u091c\u092f\u093f\u0924\u0941\u0903 \u092a\u094d\u0930\u093e\u0923\u093f\u0928\u093e\u0902 \u0938\u0930\u094d\u0935\u0936\u0915\u094d\u0924\u0947\u0903 \u091c\u0917\u0924\u0903 \u0938\u094d\u0925\u093f\u0924\u093f\u0902 \u091a\u093f\u0915\u0940\u0930\u094d\u0937\u094b\u0903 \u0905\u092f\u0902 \u091c\u092f\u094b \u092e\u0939\u093f\u092e\u093e \u091a\u0947\u0924\u094d\u092f\u091c\u093e\u0928\u0928\u094d\u0924\u0903 \u0924\u0947 \u0926\u0947\u0935\u093e\u0903 \u0910\u0915\u094d\u0937\u0928\u094d\u0924 \u0908\u0915\u094d\u0937\u093f\u0924\u0935\u0928\u094d\u0924\u0903 \u0905\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u093f\u0938\u094d\u0935\u0930\u0942\u092a\u092a\u0930\u093f\u091a\u094d\u091b\u093f\u0928\u094d\u0928\u093e\u0924\u094d\u092e\u0915\u0943\u0924\u0903 \u0905\u0938\u094d\u092e\u093e\u0915\u092e\u0947\u0935\u093e\u092f\u0902 \u0935\u093f\u091c\u092f\u0903 \u0905\u0938\u094d\u092e\u093e\u0915\u092e\u0947\u0935\u093e\u092f\u0902 \u092e\u0939\u093f\u092e\u093e \u0905\u0917\u094d\u0928\u093f\u0935\u093e\u092f\u094d\u0935\u093f\u0928\u094d\u0926\u094d\u0930\u0924\u094d\u0935\u093e\u0926\u093f\u0932\u0915\u094d\u0937\u0923\u094b \u091c\u092f\u092b\u0932\u092d\u0942\u0924\u094b\u093d\u0938\u094d\u092e\u093e\u092d\u093f\u0930\u0928\u0941\u092d\u0942\u092f\u0924\u0947 \u0928\u093e\u0938\u094d\u092e\u0924\u094d\u092a\u094d\u0930\u0924\u094d\u092f\u0917\u093e\u0924\u094d\u092e\u092d\u0942\u0924\u0947\u0936\u094d\u0935\u0930\u0915\u0943\u0924 \u0907\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014From the passage that \u2018It is not known to those who know,\u2019 some fools may argue that whatever is, can be known by proofs, and whatever is not cannot be so known and is, therefore, non-existent, as the horns of a hare, and Brahman, being unknown, does not exist. In order that they may not fall into that error this parable is introduced; for, the subsequent passages clearly show the folly of thinking that that Brahman who is controller of all in every way, Deva, even superior to all Devas, Lord over lords, not easily known, the cause of the victory of the Devas and of the defeat of the Asuras does not exist. Or (it is related) for eulogising the knowledge of Brahman. How? By showing that it was, indeed, by the knowledge of the Brahman that Fire, etc., attained pre-eminence among the Devas ; and Indra specially more than the rest. Or. it shows how difficult it is to know Brahman , because even Fire, etc, with all their great powers, and even Indra . lord of the Devas knew the Brahman only with considerable difficulty. It may be that the whole Upanishad to follow is intended to lay down an injunction (to know the Brahman ) or the story may have been intended to show the fallacious nature of the notion of doer, etc., found in all living beings, by contrasting it with the knowledge of the Brahman \u2014fallacious like the notion of the Devas that the victory was theirs. The Brahman already defined won a victory for the benefit of the Devas ; the Brahman in a battle between the Devas and the Asuras defeated the Asuras, the enemies of the world and the violators of the limitations imposed by the Lord and gave the benefit of the victory to the Devas for the preservation of the world. In this victory of Brahman the Devas , Fire, etc., attained glory, and not knowing that the victory and glory belonged to the Paramatman, seated in then own Atman , the witness of all perceptions, Lord of the universe, omniscient, the dispenser of the fruits of all Karma, omnipotent, and desirous of securing the safety of the world, looked upon the victory and the glory, as achieved by themselves\u2014the Atman enclosed within the limitations of their own forms, Fire. etc.; that the glory\u2014their being Fire, Air, Indra and the like, resulting from the victory\u2014was theirs and that neither the victory nor the glory belonged to the Lord, over all the Atman within them. So they cherished this false notion."
+        "text": "ब्रह्म ह देवेभ्यो विजिग्ये । ‘अविज्ञातं विजानतां विज्ञातमविजानताम्’ (के. उ. २ । ३) इत्यादिश्रवणात् यदस्ति तद्विज्ञातं प्रमाणैः यन्नास्ति तदविज्ञातं शशविषाणकल्पमत्यन्तमेवासद्दृष्टम् । तथेदं ब्रह्माविज्ञातत्वादसदेवेति मन्दबुद्धीनां व्यामोहो मा भूदिति तदर्थेयमाख्यायिका आरभ्यते । तदेव हि ब्रह्म सर्वप्रकारेण प्रशास्तृ देवानामपि परो देवः, ईश्वराणामपि परमेश्वरः, दुर्विज्ञेयः, देवानां जयहेतुः, असुराणां पराजयहेतुः; तत्कथं नास्तीत्येतस्यार्थस्यानुकूलानि ह्युत्तराणि वचांसि दृश्यन्ते । अथवा ब्रह्मविद्यायाः स्तुतये । कथम्? ब्रह्मविज्ञानाद्धि अग्न्यादयो देवा देवानां श्रेष्ठत्वं जग्मुः । ततोऽप्यतितरामिन्द्र इति । अथवा दुर्विज्ञेयं ब्रह्मेत्येतत्प्रदर्श्यते — येनाग्न्यादयोऽतितेजसोऽपि क्लेशेनैव ब्रह्म विदितवन्तस्तथेन्द्रो देवानामीश्वरोऽपि सन्निति । वक्ष्यमाणोपनिषद्विधिपरं वा सर्वम् । ब्रह्मविद्याव्यतिरेकेण प्राणिनां कर्तृत्वभोक्तृत्वाद्यभिमानो मिथ्येत्येतद्दर्शनार्थं वा आख्यायिका, यथा देवानां जयाद्यभिमानस्तद्वदिति । ब्रह्म यथोक्तलक्षणं परं ह किल देवेभ्योऽर्थाय विजिग्ये जयं लब्धवत् देवानामसुराणां च सङ्ग्रामेऽसुराञ्जित्वा जगदरातीनीश्वरसेतुर्भेत्तॄन् देवेभ्यो जयं तत्फलं च प्रायच्छज्जगतः स्थेम्ने । तस्य ह किल ब्रह्मणो विजये देवाः अग्न्यादयः अमहीयन्त महिमानं प्राप्तवन्तः । तदा आत्मसंस्थस्य प्रत्यगात्मन ईश्वरस्य सर्वज्ञस्य सर्वक्रियाफलसंयोजयितुः प्राणिनां सर्वशक्तेः जगतः स्थितिं चिकीर्षोः अयं जयो महिमा चेत्यजानन्तः ते देवाः ऐक्षन्त ईक्षितवन्तः अग्न्यादिस्वरूपपरिच्छिन्नात्मकृतः अस्माकमेवायं विजयः अस्माकमेवायं महिमा अग्निवाय्विन्द्रत्वादिलक्षणो जयफलभूतोऽस्माभिरनुभूयते नास्मत्प्रत्यगात्मभूतेश्वरकृत इति ॥"
       }
     ],
     "commentary_faqs": []
@@ -41,32 +124,85 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 2,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145055.html"
+      "mantra_ref": "3.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0926\u094d\u0927\u0948\u0937\u093e\u0902 \u0935\u093f\u091c\u091c\u094d\u091e\u094c \u0924\u0947\u092d\u094d\u092f\u094b \u0939 \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u094d\u092c\u092d\u0942\u0935 \u0924\u0928\u094d\u0928 \u0935\u094d\u092f\u091c\u093e\u0928\u0924 \u0915\u093f\u092e\u093f\u0926\u0902 \u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0965 \u0968 \u0965",
-    "transliteration": "taddhai\u1e63\u0101\u1e43 vijaj\u00f1au tebhyo ha pr\u0101durbabh\u016bva tanna vyaj\u0101nata kimida\u1e43 yak\u1e63amiti || 15 ||",
-    "translation": "15. He knew this notion of theirs and appeared before them. What that Great Spirit was they did not know.",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "तद्धैषां विजज्ञौ तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत किमिदं यक्षमिति ॥ २ ॥",
+    "transliteration": "taddhaiṣāṃ vijajñau tebhyo ha prādurbabhūva tanna vyajānata kimidaṃ yakṣamiti || 2 ||",
+    "translation": "That (Brahman) — indeed — of these (gods) — (it, Brahman) knew, understood (their false perception) — for them (the gods), for their sake — indeed, verily — (it) appeared, became manifest — that (manifested Brahman) — not — they (the gods) did not know — what (is) this — this Yakṣa, worshipful great being — thus",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तद्धैषां",
+        "word_english": "That (Brahman) — indeed — of these (gods)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·नपुंसक + ह (अव्यय) + एतद्/इदम् · षष्ठी·बहुवचन·पुंलिङ्ग",
+        "root": "तत् + ह + एषाम्"
+      },
+      {
+        "word_sanskrit": "विजज्ञौ",
+        "word_english": "(it, Brahman) knew, understood (their false perception)",
+        "grammar_role": "√ज्ञा (वि-) · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "विजज्ञौ"
+      },
+      {
+        "word_sanskrit": "तेभ्यो",
+        "word_english": "for them (the gods), for their sake",
+        "grammar_role": "तद् · चतुर्थी·बहुवचन·पुंलिङ्ग",
+        "root": "तेभ्यः"
+      },
+      {
+        "word_sanskrit": "ह",
+        "word_english": "indeed, verily",
+        "grammar_role": "ह · अव्यय (निपात)",
+        "root": "ह"
+      },
+      {
+        "word_sanskrit": "प्रादुर्बभूव",
+        "word_english": "(it) appeared, became manifest",
+        "grammar_role": "प्रादुस् (अव्यय) + √भू · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "प्रादुस् + बभूव"
+      },
+      {
+        "word_sanskrit": "तन्न",
+        "word_english": "that (manifested Brahman) — not",
+        "grammar_role": "तद् · द्वितीया·एकवचन·नपुंसक + न (अव्यय)",
+        "root": "तत् + न"
+      },
+      {
+        "word_sanskrit": "व्यजानत",
+        "word_english": "they (the gods) did not know",
+        "grammar_role": "√ज्ञा (वि-) · लङ्·प्रथमपुरुष·बहुवचन·आत्मनेपद",
+        "root": "व्यजानत"
+      },
+      {
+        "word_sanskrit": "किमिदं",
+        "word_english": "what (is) this",
+        "grammar_role": "किम् · प्रथमा·एकवचन·नपुंसक + इदम् · प्रथमा·एकवचन·नपुंसक",
+        "root": "किम् + इदम्"
+      },
+      {
+        "word_sanskrit": "यक्षमिति",
+        "word_english": "this Yakṣa, worshipful great being — thus",
+        "grammar_role": "यक्ष · प्रथमा·एकवचन·नपुंसक + इति (अव्यय)",
+        "root": "यक्षम् + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "15. He knew this notion of theirs and appeared before them. What that Great Spirit was they did not know."
+        "text": "That (Brahman) — indeed — of these (gods) — (it, Brahman) knew, understood (their false perception) — for them (the gods), for their sake — indeed, verily — (it) appeared, became manifest — that (manifested Brahman) — not — they (the gods) did not know — what (is) this — this Yakṣa, worshipful great being — thus"
       }
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Pada Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u090f\u0935\u0902 \u092e\u093f\u0925\u094d\u092f\u093e\u092d\u093f\u092e\u093e\u0928\u0947\u0915\u094d\u0937\u0923\u0935\u0924\u093e\u0902 \u0924\u0924\u094d \u0939 \u0915\u093f\u0932 \u090f\u0937\u093e\u0902 \u092e\u093f\u0925\u094d\u092f\u0947\u0915\u094d\u0937\u0923\u0902 \u0935\u093f\u091c\u091c\u094d\u091e\u094c \u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0935\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u00a0\u0964 \u0938\u0930\u094d\u0935\u0947\u0915\u094d\u0937\u093f\u0924\u0943 \u0939\u093f \u0924\u0924\u094d \u0938\u0930\u094d\u0935\u092d\u0942\u0924\u0915\u0930\u0923\u092a\u094d\u0930\u092f\u094b\u0915\u094d\u0924\u0943\u0924\u094d\u0935\u093e\u0924\u094d \u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u091a \u092e\u093f\u0925\u094d\u092f\u093e\u091c\u094d\u091e\u093e\u0928\u092e\u0941\u092a\u0932\u092d\u094d\u092f \u092e\u0948\u0935\u093e\u0938\u0941\u0930\u0935\u0926\u094d\u0926\u0947\u0935\u093e \u092e\u093f\u0925\u094d\u092f\u093e\u092d\u093f\u092e\u093e\u0928\u093e\u0924\u094d\u092a\u0930\u093e\u092d\u0935\u0947\u092f\u0941\u0930\u093f\u0924\u093f \u0924\u0926\u0928\u0941\u0915\u092e\u094d\u092a\u092f\u093e \u0926\u0947\u0935\u093e\u0928\u094d\u092e\u093f\u0925\u094d\u092f\u093e\u092d\u093f\u092e\u093e\u0928\u093e\u092a\u0928\u094b\u0926\u0928\u0947\u0928\u093e\u0928\u0941\u0917\u0943\u0939\u094d\u0923\u0940\u092f\u093e\u092e\u093f\u0924\u093f \u0924\u0947\u092d\u094d\u092f\u0903 \u0926\u0947\u0935\u0947\u092d\u094d\u092f\u0903 \u0939 \u0915\u093f\u0932 \u0905\u0930\u094d\u0925\u093e\u092f \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u094d\u092c\u092d\u0942\u0935 \u0938\u094d\u0935\u092f\u094b\u0917\u092e\u093e\u0939\u093e\u0924\u094d\u092e\u094d\u092f\u0928\u093f\u0930\u094d\u092e\u093f\u0924\u0947\u0928\u093e\u0924\u094d\u092f\u0926\u094d\u092d\u0941\u0924\u0947\u0928 \u0935\u093f\u0938\u094d\u092e\u093e\u092a\u0928\u0940\u092f\u0947\u0928 \u0930\u0942\u092a\u0947\u0923 \u0926\u0947\u0935\u093e\u0928\u093e\u092e\u093f\u0928\u094d\u0926\u094d\u0930\u093f\u092f\u0917\u094b\u091a\u0930\u0947 \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u094d\u092c\u092d\u0942\u0935 \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u094d\u092d\u0942\u0924\u0935\u0924\u094d\u00a0\u0964 \u0924\u0924\u094d \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u094d\u092d\u0942\u0924\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0928 \u0935\u094d\u092f\u091c\u093e\u0928\u0924 \u0928\u0948\u0935 \u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0935\u0928\u094d\u0924\u0903 \u0926\u0947\u0935\u093e\u0903 \u0915\u093f\u092e\u093f\u0926\u0902 \u092f\u0915\u094d\u0937\u0902 \u092a\u0942\u091c\u094d\u092f\u0902 \u092e\u0939\u0926\u094d\u092d\u0942\u0924\u092e\u093f\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014The Brahman evidently knew this false notion of theirs. Brahman being omniscient and director of the senses of all living beings knew of the false idea of the Devas and in order that the Devas might not be disgraced like the Asuras by this false notion, out of pity for them and intending to bless them hy dispelling their false notion, appeared before them for their benefit in a form assumed at will, in virtue of its power\u2014a form unprecedentedly glorious and astonishing and capable of being perceived by the senses. The Devas did not at all know the Brahman that appeared before them. Who is this Yaksham , i.e ., this venerable Great Spirit."
+        "text": "एवं मिथ्याभिमानेक्षणवतां तत् ह किल एषां मिथ्येक्षणं विजज्ञौ विज्ञातवद्ब्रह्म । सर्वेक्षितृ हि तत् सर्वभूतकरणप्रयोक्तृत्वात् देवानां च मिथ्याज्ञानमुपलभ्य मैवासुरवद्देवा मिथ्याभिमानात्पराभवेयुरिति तदनुकम्पया देवान्मिथ्याभिमानापनोदनेनानुगृह्णीयामिति तेभ्यः देवेभ्यः ह किल अर्थाय प्रादुर्बभूव स्वयोगमाहात्म्यनिर्मितेनात्यद्भुतेन विस्मापनीयेन रूपेण देवानामिन्द्रियगोचरे प्रादुर्बभूव प्रादुर्भूतवत् । तत् प्रादुर्भूतं ब्रह्म न व्यजानत नैव विज्ञातवन्तः देवाः किमिदं यक्षं पूज्यं महद्भूतमिति ॥"
       }
     ],
     "commentary_faqs": []
@@ -77,29 +213,56 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 3,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145058.html"
+      "mantra_ref": "3.3",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0947\u093d\u0917\u094d\u0928\u093f\u092e\u092c\u094d\u0930\u0941\u0935\u0928\u094d \u091c\u093e\u0924\u0935\u0947\u0926 \u090f\u0924\u0926\u094d\u0935\u093f\u091c\u093e\u0928\u0940\u0939\u093f \u0915\u093f\u092e\u0947\u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0924\u0925\u0947\u0924\u093f \u0965 \u0969 \u0965",
-    "transliteration": "athendramabruvanmaghavannetadvij\u0101n\u012bhi kimetadyak\u1e63amiti tatheti tadabhyadravattasm\u0101ttirodadhe || 24 ||",
-    "translation": "sa tasminnev\u0101k\u0101\u015be striyam\u0101jag\u0101ma bahu\u015bobham\u0101n\u0101mum\u0101m\u0310haimavat\u012b\u1e43 t\u0101m\u0310hov\u0101ca kimetadyak\u1e63amiti || 25 || 24. Then they said to Indra : \u201cMaghavan! learn what this Great Spirit is.\u201d He said \u201cyes\u201d and ran to That. That vanished from his view. 25. He beheld in that very spot a woman, Uma , very beautiful and of golden hue, daughter of Himavat. He said to her \u201cWhat is this Great Spirit?\u201d",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "तेऽग्निमब्रुवन् जातवेद एतद्विजानीहि किमेतद्यक्षमिति तथेति ॥ ३ ॥",
+    "transliteration": "te'gnimabruvan jātaveda etadvijānīhi kimetadyakṣamiti tatheti || 3 ||",
+    "translation": "They (the devas) said to Agni — O Jātavedas (Agni, the all-knowing fire) — Find out (know) what this is — 'What is this Yakṣa (the venerable being)?' — 'So be it (yes),' (said Agni, agreeing)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तेऽग्निमब्रुवन्",
+        "word_english": "They (the devas) said to Agni",
+        "grammar_role": "तद् · प्रथमा·बहुवचन·पुंलिङ्ग + अग्नि · द्वितीया·एकवचन·पुंलिङ्ग + √ब्रू · लङ्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "ते + अग्निम् + अब्रुवन्"
+      },
+      {
+        "word_sanskrit": "जातवेद",
+        "word_english": "O Jātavedas (Agni, the all-knowing fire)",
+        "grammar_role": "जातवेदस् · सम्बोधन·एकवचन·पुंलिङ्ग",
+        "root": "जातवेदः"
+      },
+      {
+        "word_sanskrit": "एतद्विजानीहि",
+        "word_english": "Find out (know) what this is",
+        "grammar_role": "एतद् · द्वितीया·एकवचन·नपुंसकलिङ्ग + √ज्ञा (वि+) · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "एतद् + विजानीहि"
+      },
+      {
+        "word_sanskrit": "किमेतद्यक्षमिति",
+        "word_english": "'What is this Yakṣa (the venerable being)?'",
+        "grammar_role": "किम् · प्रथमा·एकवचन·नपुंसकलिङ्ग + एतद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + यक्ष · प्रथमा·एकवचन·नपुंसकलिङ्ग + इति · अव्यय (उद्धरणार्थे)",
+        "root": "किम् + एतद् + यक्षम् + इति"
+      },
+      {
+        "word_sanskrit": "तथेति",
+        "word_english": "'So be it (yes),' (said Agni, agreeing)",
+        "grammar_role": "तथा · अव्यय (प्रकारवाचक) + इति · अव्यय (उद्धरणार्थे)",
+        "root": "तथा + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "sa tasminnev\u0101k\u0101\u015be striyam\u0101jag\u0101ma bahu\u015bobham\u0101n\u0101mum\u0101m\u0310haimavat\u012b\u1e43 t\u0101m\u0310hov\u0101ca kimetadyak\u1e63amiti || 25 || 24. Then they said to Indra : \u201cMaghavan! learn what this Great Spirit is.\u201d He said \u201cyes\u201d and ran to That. That vanished from his view. 25. He beheld in that very spot a woman, Uma , very beautiful and of golden hue, daughter of Himavat. He said to her \u201cWhat is this Great Spirit?\u201d"
+        "text": "They (the devas) said to Agni — O Jātavedas (Agni, the all-knowing fire) — Find out (know) what this is — 'What is this Yakṣa (the venerable being)?' — 'So be it (yes),' (said Agni, agreeing)"
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014Atha , etc., has already been explained. Indra , lord of the Devas , Maghavan , (being the most powerful of them) said yes, and ran to That. Hut That vanished from his sight, when he was near the Brahman and did not even talk to him, because it wished to crush altogether his pride at being Indra. In the very spot where the Spirit showed itself and from which it vanished and near the place where Indra was at the moment the Brahman vanished, Indra stood discussing within himself what that Spirit was, and did not return like Agni and Vayu. Seeing his attachment to that Spirit, knowledge in the form of a woman and of Umu appeared before him. Indra beheld knowledge. fairest of the fair,\u2014this epithet is very appropriate in the particular context\u2014as if adorned in gold. \u2018 Himavatim \u2019 may mean \u2018the daughter of Himalaya \u2019 and being ever associated with the Lord ( Siva ) the omniscient, and having approached her, asked: \u201cWho is this Spirit that showed itself and vanished?\u201d\n\u0965 \u0907\u0924\u093f \u0915\u0947\u0928\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u0924\u0943\u0924\u0940\u092f\u0903 \u0916\u0923\u094d\u0921\u0903 \u0965\n|| iti kenopani\u1e63adi t\u1e5bt\u012bya\u1e25 kha\u1e47\u1e0da\u1e25 ||\nHere ends the Third Part."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -108,29 +271,56 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 4,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145054.html"
+      "mantra_ref": "3.4",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0926\u092d\u094d\u092f\u0926\u094d\u0930\u0935\u0924\u094d\u0924\u092e\u092d\u094d\u092f\u0935\u0926\u0924\u094d \u0915\u094b\u093d\u0938\u0940\u0924\u094d\u092f\u0917\u094d\u0928\u093f\u0930\u094d\u0935\u093e \u0905\u0939\u092e\u0938\u094d\u092e\u0940\u0924\u094d\u092f\u092c\u094d\u0930\u0935\u0940\u091c\u094d\u091c\u093e\u0924\u0935\u0947\u0926\u093e \u0935\u093e \u0905\u0939\u092e\u0938\u094d\u092e\u0940\u0924\u093f \u0965 \u096a \u0965",
-    "transliteration": "brahma ha devebhyo vijigye tasya ha brahma\u1e47o vijaye dev\u0101 amah\u012byanta | ta aik\u1e63ant\u0101sm\u0101kamev\u0101ya\u1e43 vijayo'sm\u0101kamev\u0101ya\u1e43 mahimeti || 14 ||",
-    "translation": "14. The Brahman won a victory for the Devas and in that victory of the Brahman the Devas attained glory. They thought \u2018the victory is ours and this glory is ours alone.\u2019",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "तदभ्यद्रवत्तमभ्यवदत् कोऽसीत्यग्निर्वा अहमस्मीत्यब्रवीज्जातवेदा वा अहमस्मीति ॥ ४ ॥",
+    "transliteration": "tadabhyadravattamabhyavadat ko'sītyagnirvā ahamasmītyabravījjātavedā vā ahamasmīti || 4 ||",
+    "translation": "(Agni) ran toward it (the yakṣa/Brahman); it (Brahman) spoke to him (Agni) — \"Who are you?\" — \"I am Agni indeed\" — \"…I am,\" he (Agni) said; \"(I am) Jātavedas\" — indeed, truly (emphatic particle) — \"…I am,\" thus (Agni said)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदभ्यद्रवत्तमभ्यवदत्",
+        "word_english": "(Agni) ran toward it (the yakṣa/Brahman); it (Brahman) spoke to him (Agni)",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं (कर्म, गन्तव्यं ब्रह्म/यक्षम्; कर्ता अग्निः) + अभि+√द्रु · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद (कर्ता अग्निः) + तद् · द्वितीया·एक·पुं (कर्म, अग्निम्) + अभि+√वद् · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद (कर्ता ब्रह्म/यक्षम्)",
+        "root": "तत् + अभ्यद्रवत् + तम् + अभ्यवदत्"
+      },
+      {
+        "word_sanskrit": "कोऽसीत्यग्निर्वा",
+        "word_english": "\"Who are you?\" — \"I am Agni indeed\"",
+        "grammar_role": "किम् · प्रथमा·एक·पुं·सर्वनाम (कर्तृ) + √अस् · लट्·मध्यमपुरुष·एकवचन·परस्मैपद + इति · अव्यय (उद्धरणे) + अग्नि · प्रथमा·एक·पुं + वा · अव्यय (अवधारणे, =वै/एव)",
+        "root": "कः + असि + इति + अग्निः + वा"
+      },
+      {
+        "word_sanskrit": "अहमस्मीत्यब्रवीज्जातवेदा",
+        "word_english": "\"…I am,\" he (Agni) said; \"(I am) Jātavedas\"",
+        "grammar_role": "अस्मद् · प्रथमा·एक·सर्वनाम (कर्तृ) + √अस् · लट्·उत्तमपुरुष·एकवचन·परस्मैपद + इति · अव्यय (उद्धरणे) + √ब्रू · लङ्·प्रथमपुरुष·एकवचन·परस्मैपद (कर्ता अग्निः) + जातवेदस् · प्रथमा·एक·पुं (अग्नेः नाम)",
+        "root": "अहम् + अस्मि + इति + अब्रवीत् + जातवेदाः"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "indeed, truly (emphatic particle)",
+        "grammar_role": "वा · अव्यय (अवधारणे, =वै/एव)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "अहमस्मीति",
+        "word_english": "\"…I am,\" thus (Agni said)",
+        "grammar_role": "अस्मद् · प्रथमा·एक·सर्वनाम (कर्तृ) + √अस् · लट्·उत्तमपुरुष·एकवचन·परस्मैपद + इति · अव्यय (उद्धरणे)",
+        "root": "अहम् + अस्मि + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "14. The Brahman won a victory for the Devas and in that victory of the Brahman the Devas attained glory. They thought \u2018the victory is ours and this glory is ours alone.\u2019"
+        "text": "(Agni) ran toward it (the yakṣa/Brahman); it (Brahman) spoke to him (Agni) — \"Who are you?\" — \"I am Agni indeed\" — \"…I am,\" he (Agni) said; \"(I am) Jātavedas\" — indeed, truly (emphatic particle) — \"…I am,\" thus (Agni said)"
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014From the passage that \u2018It is not known to those who know,\u2019 some fools may argue that whatever is, can be known by proofs, and whatever is not cannot be so known and is, therefore, non-existent, as the horns of a hare, and Brahman, being unknown, does not exist. In order that they may not fall into that error this parable is introduced; for, the subsequent passages clearly show the folly of thinking that that Brahman who is controller of all in every way, Deva, even superior to all Devas, Lord over lords, not easily known, the cause of the victory of the Devas and of the defeat of the Asuras does not exist. Or (it is related) for eulogising the knowledge of Brahman. How? By showing that it was, indeed, by the knowledge of the Brahman that Fire, etc., attained pre-eminence among the Devas ; and Indra specially more than the rest. Or. it shows how difficult it is to know Brahman , because even Fire, etc, with all their great powers, and even Indra . lord of the Devas knew the Brahman only with considerable difficulty. It may be that the whole Upanishad to follow is intended to lay down an injunction (to know the Brahman ) or the story may have been intended to show the fallacious nature of the notion of doer, etc., found in all living beings, by contrasting it with the knowledge of the Brahman \u2014fallacious like the notion of the Devas that the victory was theirs. The Brahman already defined won a victory for the benefit of the Devas ; the Brahman in a battle between the Devas and the Asuras defeated the Asuras, the enemies of the world and the violators of the limitations imposed by the Lord and gave the benefit of the victory to the Devas for the preservation of the world. In this victory of Brahman the Devas , Fire, etc., attained glory, and not knowing that the victory and glory belonged to the Paramatman, seated in then own Atman , the witness of all perceptions, Lord of the universe, omniscient, the dispenser of the fruits of all Karma, omnipotent, and desirous of securing the safety of the world, looked upon the victory and the glory, as achieved by themselves\u2014the Atman enclosed within the limitations of their own forms, Fire. etc.; that the glory\u2014their being Fire, Air, Indra and the like, resulting from the victory\u2014was theirs and that neither the victory nor the glory belonged to the Lord, over all the Atman within them. So they cherished this false notion."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -139,29 +329,68 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 5,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145042.html"
+      "mantra_ref": "3.5",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u093f\u0902\u0938\u094d\u0924\u094d\u0935\u092f\u093f \u0915\u093f\u0902 \u0935\u0940\u0930\u094d\u092f\u092e\u093f\u0924\u094d\u092f\u092a\u0940\u0926\u0902 \u0938\u0930\u094d\u0935\u0902 \u0926\u0939\u0947\u092f\u0902 \u092f\u0926\u093f\u0926\u0902 \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u092e\u093f\u0924\u093f \u0965 \u096b \u0965",
-    "transliteration": "yanmanas\u0101 na manute yen\u0101hurmano matam | tadeva brahma tva\u1e43 viddhi neda\u1e43 yadidamup\u0101sate || 5 ||",
-    "translation": "5. What one cannot think with the mind, but by which they say the mind is made to think, know That alone to be the Brahman, not this which (people) here worship. (5)",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "तस्मिंस्त्वयि किं वीर्यमित्यपीदं सर्वं दहेयं यदिदं पृथिव्यामिति ॥ ५ ॥",
+    "transliteration": "tasmiṃstvayi kiṃ vīryamityapīdaṃ sarvaṃ daheyaṃ yadidaṃ pṛthivyāmiti || 5 ||",
+    "translation": "in you who are such (in such a one as you) — what (power is there)? — \"... power?\"—thus (asked); (the fire answers:) this very — all (this)—object of burning — I could burn (it) up — whatever this is — on the earth—thus (he spoke)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मिंस्त्वयि",
+        "word_english": "in you who are such (in such a one as you)",
+        "grammar_role": "तद् · सप्तमी·एकवचन·पुंलिङ्ग + युष्मद् · सप्तमी·एकवचन",
+        "root": "तस्मिन् + त्वयि"
+      },
+      {
+        "word_sanskrit": "किं",
+        "word_english": "what (power is there)?",
+        "grammar_role": "किम् · प्रथमा·एकवचन·नपुंसकलिङ्ग (प्रश्नवाचक सर्वनाम)",
+        "root": "किम्"
+      },
+      {
+        "word_sanskrit": "वीर्यमित्यपीदं",
+        "word_english": "\"... power?\"—thus (asked); (the fire answers:) this very",
+        "grammar_role": "वीर्य · प्रथमा·एकवचन·नपुंसकलिङ्ग + अव्यय (इति, उद्धरणे) + अव्यय (अपि, समुच्चये) + इदम् · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "वीर्यम् + इति + अपि + इदम्"
+      },
+      {
+        "word_sanskrit": "सर्वं",
+        "word_english": "all (this)—object of burning",
+        "grammar_role": "सर्व · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "सर्वम्"
+      },
+      {
+        "word_sanskrit": "दहेयं",
+        "word_english": "I could burn (it) up",
+        "grammar_role": "√दह् · विधिलिङ्·उत्तमपुरुष·एकवचन·परस्मैपद",
+        "root": "दहेयम्"
+      },
+      {
+        "word_sanskrit": "यदिदं",
+        "word_english": "whatever this is",
+        "grammar_role": "यद् · प्रथमा·एकवचन·नपुंसकलिङ्ग (सम्बन्धवाचक) + इदम् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "यद् + इदम्"
+      },
+      {
+        "word_sanskrit": "पृथिव्यामिति",
+        "word_english": "on the earth—thus (he spoke)",
+        "grammar_role": "पृथिवी · सप्तमी·एकवचन·स्त्रीलिङ्ग + अव्यय (इति, उद्धरणे)",
+        "root": "पृथिव्याम् + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "5. What one cannot think with the mind, but by which they say the mind is made to think, know That alone to be the Brahman, not this which (people) here worship. (5)"
+        "text": "in you who are such (in such a one as you) — what (power is there)? — \"... power?\"—thus (asked); (the fire answers:) this very — all (this)—object of burning — I could burn (it) up — whatever this is — on the earth—thus (he spoke)"
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014\u2018 Manah ,\u2019 \u2018mind.\u2019 By the word \u2018 Manah \u2019 here, both mind and intelligence are meant. \u2018 Mauah \u2019 means \u2018that by which one thinks.\u2019 The mind is equally connected with all the sensory organs, because its sphere includes all external objects. The Sruti says: \u2018Desire, volition, deliberation, faith, negligence, boldness, timidity, shame, intelligence, fear, all these are mind.\u2019 The modes of activity of the mind are desire, etc. By that mind, none wills or determines that intelligence which enlightens the mind, because as enlightener of the mind, that is the mind\u2019s controller, the Atman being in the interior of everything, the mind cannot go there. The capacity of the mind to think exists, because it is enlightened by the intelligence shining within, and it is by that, that the mind is capable of activity. Those who know the Brahman say that the mind is pervaded by the Brahman. Therefore know that to be the Brahman which is the Atman, the interior intelligence of the mind. \u2018 Nedam, etc.,\u2019 has already been explained in the commentary on the last verse."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -170,32 +399,121 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 6,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145056.html"
+      "mantra_ref": "3.6",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u0948 \u0924\u0943\u0923\u0902 \u0928\u093f\u0926\u0927\u093e\u0935\u0947\u0924\u0926\u094d\u0926\u0939\u0947\u0924\u093f \u0924\u0926\u0941\u092a\u092a\u094d\u0930\u0947\u092f\u093e\u092f \u0938\u0930\u094d\u0935\u091c\u0935\u0947\u0928 \u0924\u0928\u094d\u0928 \u0936\u0936\u093e\u0915 \u0926\u0917\u094d\u0927\u0941\u0902 \u0938 \u0924\u0924 \u090f\u0935 \u0928\u093f\u0935\u0935\u0943\u0924\u0947 \u0928\u0948\u0924\u0926\u0936\u0915\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0941\u0902 \u092f\u0926\u0947\u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0965 \u096c \u0965",
-    "transliteration": "te'gnimabruvan j\u0101taveda etadvij\u0101n\u012bhi kimetadyak\u1e63amiti tatheti || 16 || tadabhyadravattamabhyavadatko's\u012btyagnirv\u0101 ahamasm\u012btyabrav\u012bjj\u0101taved\u0101 v\u0101 ahamasm\u012bti || 17 || tasmim\u0310stvayi ki\u1e43 v\u012bryamityap\u012bdam\u0310sarva\u1e43 daheya\u1e43 yadida\u1e43 p\u1e5bthivy\u0101miti || 18 || tasmai t\u1e5b\u1e47a\u1e43 nidadh\u0101vetaddaheti tadupaprey\u0101ya sarvajavena tanna \u015ba\u015b\u0101ka dagdhu\u1e43 sa tata eva nivav\u1e5bte naitada\u015baka\u1e43 vij\u00f1\u0101tu\u1e43 yadetadyak\u1e63amiti || 19 ||",
-    "translation": "16. They addressed the Fire thus \u201cO Jataveda ! Find out what this Great Spirit is.\u201d He said \u201cyes.\u201d 17. He ran to That. That said to him \u201cwho art thou?\u201d He replied \u201cI am Agni or I am Jataveda .\u201d 18. That said \u201cwhat power, in thee so named, is lodged.\u2019 He replied \u201cI can burn even all this, on the earth.\u201d 19. That placed a straw before him and said: \u2018Burn this.\u2019 He approached it with all haste but was not able to burn it. He immediately returned from thence to the Devas and said I was not able to learn what this Great Spirit is.\u201d",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "तस्मै तृणं निदधावेतद्दहेति तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥ ६ ॥",
+    "transliteration": "tasmai tṛṇaṃ nidadhāvetaddaheti tadupapreyāya sarvajavena tanna śaśāka dagdhuṃ sa tata eva nivavṛte naitadaśakaṃ vijñātuṃ yadetadyakṣamiti || 6 ||",
+    "translation": "to him (to Agni, the conceited one — तस्मै एवमभिमानवते) — a blade of grass (the object Brahman placed before Agni) — (Brahman) placed (it), [saying] 'burn this!' — the challenge to Agni — (Agni) approached / went up toward it (तत्प्रति गतवान्) — with all (his) speed — it (the grass) ... not — (he, Agni) was able — to burn — he (Agni) — from there, thence — just, indeed — (he) turned back — I was not able (to understand) this — to know fully, to discern — 'what this yakṣa is' (किमेतद्यक्षम्)",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मै",
+        "word_english": "to him (to Agni, the conceited one — तस्मै एवमभिमानवते)",
+        "grammar_role": "तद् · चतुर्थी·एकवचन·पुंलिङ्ग (सर्वनाम)",
+        "root": "तस्मै"
+      },
+      {
+        "word_sanskrit": "तृणं",
+        "word_english": "a blade of grass (the object Brahman placed before Agni)",
+        "grammar_role": "तृण · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "तृणम्"
+      },
+      {
+        "word_sanskrit": "निदधावेतद्दहेति",
+        "word_english": "(Brahman) placed (it), [saying] 'burn this!' — the challenge to Agni",
+        "grammar_role": "नि-√धा · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद + एतद् द्वितीया·एकवचन·नपुंसकलिङ्ग + √दह् लोट्·मध्यमपुरुष·एकवचन·परस्मैपद + इति अव्यय (उद्धरणम्)",
+        "root": "निदधौ + एतत् + दह + इति"
+      },
+      {
+        "word_sanskrit": "तदुपप्रेयाय",
+        "word_english": "(Agni) approached / went up toward it (तत्प्रति गतवान्)",
+        "grammar_role": "तद् द्वितीया·एकवचन·नपुंसकलिङ्ग + उप-प्र-√इ · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "तत् + उपप्रेयाय"
+      },
+      {
+        "word_sanskrit": "सर्वजवेन",
+        "word_english": "with all (his) speed",
+        "grammar_role": "सर्व-जव · तृतीया·एकवचन·पुंलिङ्ग",
+        "root": "सर्व-जव"
+      },
+      {
+        "word_sanskrit": "तन्न",
+        "word_english": "it (the grass) ... not",
+        "grammar_role": "तद् द्वितीया·एकवचन·नपुंसकलिङ्ग + न अव्यय (निषेधः)",
+        "root": "तत् + न"
+      },
+      {
+        "word_sanskrit": "शशाक",
+        "word_english": "(he, Agni) was able",
+        "grammar_role": "√शक् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "शशाक"
+      },
+      {
+        "word_sanskrit": "दग्धुं",
+        "word_english": "to burn",
+        "grammar_role": "√दह् · तुमुन् (अव्यय, क्रियार्थक)",
+        "root": "दग्धुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (Agni)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "तत",
+        "word_english": "from there, thence",
+        "grammar_role": "ततस् · अव्यय (पञ्चम्यर्थे, स्थानवाचकम्)",
+        "root": "ततस्"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "just, indeed",
+        "grammar_role": "एव · अव्यय (अवधारणे)",
+        "root": "एव"
+      },
+      {
+        "word_sanskrit": "निववृते",
+        "word_english": "(he) turned back",
+        "grammar_role": "नि-√वृत् · लिट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "निववृते"
+      },
+      {
+        "word_sanskrit": "नैतदशकं",
+        "word_english": "I was not able (to understand) this",
+        "grammar_role": "न अव्यय (निषेधः) + एतद् द्वितीया·एकवचन·नपुंसकलिङ्ग + √शक् लङ्·उत्तमपुरुष·एकवचन·परस्मैपद",
+        "root": "न + एतत् + अशकम्"
+      },
+      {
+        "word_sanskrit": "विज्ञातुं",
+        "word_english": "to know fully, to discern",
+        "grammar_role": "वि-√ज्ञा · तुमुन् (अव्यय, क्रियार्थक)",
+        "root": "विज्ञातुम्"
+      },
+      {
+        "word_sanskrit": "यदेतद्यक्षमिति",
+        "word_english": "'what this yakṣa is' (किमेतद्यक्षम्)",
+        "grammar_role": "यद् प्रथमा·एकवचन·नपुंसकलिङ्ग + एतद् प्रथमा·एकवचन·नपुंसकलिङ्ग + यक्ष प्रथमा·एकवचन·नपुंसकलिङ्ग + इति अव्यय (उद्धरणम्)",
+        "root": "यत् + एतत् + यक्षम् + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "16. They addressed the Fire thus \u201cO Jataveda ! Find out what this Great Spirit is.\u201d He said \u201cyes.\u201d 17. He ran to That. That said to him \u201cwho art thou?\u201d He replied \u201cI am Agni or I am Jataveda .\u201d 18. That said \u201cwhat power, in thee so named, is lodged.\u2019 He replied \u201cI can burn even all this, on the earth.\u201d 19. That placed a straw before him and said: \u2018Burn this.\u2019 He approached it with all haste but was not able to burn it. He immediately returned from thence to the Devas and said I was not able to learn what this Great Spirit is.\u201d"
+        "text": "to him (to Agni, the conceited one — तस्मै एवमभिमानवते) — a blade of grass (the object Brahman placed before Agni) — (Brahman) placed (it), [saying] 'burn this!' — the challenge to Agni — (Agni) approached / went up toward it (तत्प्रति गतवान्) — with all (his) speed — it (the grass) ... not — (he, Agni) was able — to burn — he (Agni) — from there, thence — just, indeed — (he) turned back — I was not able (to understand) this — to know fully, to discern — 'what this yakṣa is' (किमेतद्यक्षम्)"
       }
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Pada Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0947 \u0924\u0926\u091c\u093e\u0928\u0928\u094d\u0924\u094b \u0926\u0947\u0935\u093e\u0903 \u0938\u093e\u0928\u094d\u0924\u0930\u094d\u092d\u092f\u093e\u0938\u094d\u0924\u0926\u094d\u0935\u093f\u091c\u093f\u091c\u094d\u091e\u093e\u0938\u0935\u0903 \u0905\u0917\u094d\u0928\u093f\u092e\u094d \u0905\u0917\u094d\u0930\u0917\u093e\u092e\u093f\u0923\u0902 \u091c\u093e\u0924\u0935\u0947\u0926\u0938\u0902 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0915\u0932\u094d\u092a\u092e\u094d \u0905\u092c\u094d\u0930\u0941\u0935\u0928\u094d \u0909\u0915\u094d\u0924\u0935\u0928\u094d\u0924\u0903\u00a0\u0964 \u0939\u0947 \u091c\u093e\u0924\u0935\u0947\u0926\u0903 \u090f\u0924\u0924\u094d \u0905\u0938\u094d\u092e\u0926\u094d\u0917\u094b\u091a\u0930\u0938\u094d\u0925\u0902 \u092f\u0915\u094d\u0937\u0902 \u0935\u093f\u091c\u093e\u0928\u0940\u0939\u093f \u0935\u093f\u0936\u0947\u0937\u0924\u094b \u092c\u0941\u0927\u094d\u092f\u0938\u094d\u0935 \u0924\u094d\u0935\u0902 \u0928\u0938\u094d\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u093f\u092e\u0947\u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f\u00a0\u0964 \u0924\u0925\u093e \u0905\u0938\u094d\u0924\u0941 \u0907\u0924\u093f \u0924\u0924\u094d \u092f\u0915\u094d\u0937\u092e\u094d \u0905\u092d\u093f \u0905\u0926\u094d\u0930\u0935\u0924\u094d \u0924\u0924\u094d\u092a\u094d\u0930\u0924\u093f \u0917\u0924\u0935\u093e\u0928\u0917\u094d\u0928\u093f\u0903\u00a0\u0964 \u0924\u0902 \u091a \u0917\u0924\u0935\u0928\u094d\u0924\u0902 \u092a\u093f\u092a\u0943\u091a\u094d\u091b\u093f\u0937\u0941\u0902 \u0924\u0924\u094d\u0938\u092e\u0940\u092a\u0947\u093d\u092a\u094d\u0930\u0917\u0932\u094d\u092d\u0924\u094d\u0935\u093e\u0924\u094d\u0924\u0942\u0937\u094d\u0923\u0940\u092e\u094d\u092d\u0942\u0924\u0902 \u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u094d \u0905\u092d\u094d\u092f\u0935\u0926\u0924\u094d \u0905\u0917\u094d\u0928\u093f\u0902 \u092a\u094d\u0930\u0924\u093f \u0905\u092d\u093e\u0937\u0924 \u0915\u094b\u093d\u0938\u0940\u0924\u093f\u00a0\u0964 \u090f\u0935\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093e \u092a\u0943\u0937\u094d\u091f\u094b\u093d\u0917\u094d\u0928\u093f\u0903 \u0905\u092c\u094d\u0930\u0935\u0940\u0924\u094d \u0905\u0917\u094d\u0928\u093f\u0930\u094d\u0935\u0948 \u0905\u0917\u094d\u0928\u093f\u0930\u094d\u0928\u093e\u092e\u093e\u0939\u0902 \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927\u094b \u091c\u093e\u0924\u0935\u0947\u0926\u093e \u0907\u0924\u093f \u091a \u0928\u093e\u092e\u0926\u094d\u0935\u092f\u0947\u0928 \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927\u0924\u092f\u093e\u0924\u094d\u092e\u093e\u0928\u0902 \u0936\u094d\u0932\u093e\u0918\u092f\u0928\u094d\u0928\u093f\u0924\u093f\u00a0\u0964 \u090f\u0935\u092e\u0941\u0915\u094d\u0924\u0935\u0928\u094d\u0924\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0935\u094b\u091a\u0924\u094d \u0924\u0938\u094d\u092e\u093f\u0928\u094d \u090f\u0935\u0902 \u092a\u094d\u0930\u0938\u093f\u0926\u094d\u0927\u0917\u0941\u0923\u0928\u093e\u092e\u0935\u0924\u093f \u0924\u094d\u0935\u092f\u093f \u0915\u093f\u0902 \u0935\u0940\u0930\u094d\u092f\u0902 \u0938\u093e\u092e\u0930\u094d\u0925\u094d\u092f\u092e\u094d \u0907\u0924\u093f\u00a0\u0964 \u0938\u094b\u093d\u092c\u094d\u0930\u0935\u0940\u0924\u094d \u0907\u0926\u0902 \u091c\u0917\u0924\u094d \u0938\u0930\u094d\u0935\u0902 \u0926\u0939\u0947\u092f\u0902 \u092d\u0938\u094d\u092e\u0940\u0915\u0941\u0930\u094d\u092f\u093e\u0902 \u092f\u0924\u094d \u0907\u0926\u0902 \u0938\u094d\u0925\u093e\u0935\u0930\u093e\u0926\u093f \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u092e\u094d \u0907\u0924\u093f\u00a0\u0964 \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u092e\u093f\u0924\u094d\u092f\u0941\u092a\u0932\u0915\u094d\u0937\u0923\u093e\u0930\u094d\u0925\u092e\u094d , \u092f\u0924\u094b\u093d\u0928\u094d\u0924\u0930\u093f\u0915\u094d\u0937\u0938\u094d\u0925\u092e\u092a\u093f \u0926\u0939\u094d\u092f\u0924 \u090f\u0935\u093e\u0917\u094d\u0928\u093f\u0928\u093e\u00a0\u0964 \u0924\u0938\u094d\u092e\u0948 \u090f\u0935\u092e\u092d\u093f\u092e\u093e\u0928\u0935\u0924\u0947 \u092c\u094d\u0930\u0939\u094d\u092e \u0924\u0943\u0923\u0902 \u0928\u093f\u0926\u0927\u094c \u092a\u0941\u0930\u094b\u093d\u0917\u094d\u0928\u0947\u0903 \u0938\u094d\u0925\u093e\u092a\u093f\u0924\u0935\u0924\u094d\u00a0\u0964 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093e \u2018\u090f\u0924\u0924\u094d \u0924\u0943\u0923\u092e\u093e\u0924\u094d\u0930\u0902 \u092e\u092e\u093e\u0917\u094d\u0930\u0924\u0903 \u0926\u0939 ; \u0928 \u091a\u0947\u0926\u0938\u093f \u0926\u0917\u094d\u0927\u0941\u0902 \u0938\u092e\u0930\u094d\u0925\u0903, \u092e\u0941\u091e\u094d\u091a \u0926\u0917\u094d\u0927\u0943\u0924\u094d\u0935\u093e\u092d\u093f\u092e\u093e\u0928\u0902 \u0938\u0930\u094d\u0935\u0924\u094d\u0930\u2019 \u0907\u0924\u094d\u092f\u0941\u0915\u094d\u0924\u0903 \u0924\u0924\u094d \u0924\u0943\u0923\u092e\u094d \u0909\u092a\u092a\u094d\u0930\u0947\u092f\u093e\u092f \u0924\u0943\u0923\u0938\u092e\u0940\u092a\u0902 \u0917\u0924\u0935\u093e\u0928\u094d \u0938\u0930\u094d\u0935\u091c\u0935\u0947\u0928 \u0938\u0930\u094d\u0935\u094b\u0924\u094d\u0938\u093e\u0939\u0915\u0943\u0924\u0947\u0928 \u0935\u0947\u0917\u0947\u0928\u00a0\u0964 \u0917\u0924\u094d\u0935\u093e \u0924\u0924\u094d \u0928 \u0936\u0936\u093e\u0915 \u0928\u093e\u0936\u0915\u0924\u094d \u0926\u0917\u094d\u0927\u0941\u092e\u094d\u00a0\u0964 \u0938\u0903 \u091c\u093e\u0924\u0935\u0947\u0926\u093e\u0903 \u0924\u0943\u0923\u0902 \u0926\u0917\u094d\u0927\u0941\u092e\u0936\u0915\u094d\u0924\u094b \u0935\u094d\u0930\u0940\u0921\u093f\u0924\u094b \u0939\u0924\u092a\u094d\u0930\u0924\u093f\u091c\u094d\u091e\u0903 \u0924\u0924 \u090f\u0935 \u092f\u0915\u094d\u0937\u093e\u0926\u0947\u0935 \u0924\u0942\u0937\u094d\u0923\u0940\u0902 \u0926\u0947\u0935\u093e\u0928\u094d\u092a\u094d\u0930\u0924\u093f \u0928\u093f\u0935\u0935\u0943\u0924\u0947 \u0928\u093f\u0935\u0943\u0924\u094d\u0924\u0903 \u092a\u094d\u0930\u0924\u093f\u0917\u0924\u0935\u093e\u0928\u094d \u0928 \u090f\u0924\u0924\u094d \u092f\u0915\u094d\u0937\u092e\u094d \u0905\u0936\u0915\u0902 \u0936\u0915\u094d\u0924\u0935\u093e\u0928\u0939\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0941\u0902 \u0935\u093f\u0936\u0947\u0937\u0924\u0903 \u092f\u0926\u0947\u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014 The Devas not knowing what that Spirit was, being afraid of it, and desirous to know what it was, thus addressed Agni who went before them and who was little less than omniscient. \u201cO Jataveda, learn well what this Great Spirit now in our view is. You are the brightest of us all.\u201d \u201cBe it so\u201d said Agni and ran towards the Spirit. Seeing him approach near, with a desire to ask questions of it, but overawed into silence in its presence, the Spirit asked him: \u201cwho art thou?\u201d Thus questioned by Brahman, Agni replied: \u201cI am Agni well known also as Jataveda\u201d; as if in self-complaisance at being so well known by two names, Brahman said to Agni who had thus replied: \u201cwhat power is in thee who ownest such well-known and significant names.?\u201d He replied: \u201cI could reduce to ashes all this universe and all immoveables, etc., on this earth.\u201d The word \u2018earth\u2019 is illustratively used; for, even what is in the air is burnt by Agni [Fire]. The Brahman placed a straw before Agni who was so vain-glorious, and said: \u201cBurn but this straw in my presence. If thou art not able to burn this, give up thy vanity as the consumer of all.\u201d Thus addressed, Agni approached the straw with all the speed of overweening confidence but was not able to burn it. So he. Jataveda , being unable to burn it, covered with shame and bathed in bis resolution, returned in silence from the presence of the Spirit and told the Devas : \u201cI was not able to learn more, concerning this Spirit.\u201d"
+        "text": "ते तदजानन्तो देवाः सान्तर्भयास्तद्विजिज्ञासवः अग्निम् अग्रगामिणं जातवेदसं सर्वज्ञकल्पम् अब्रुवन् उक्तवन्तः । हे जातवेदः एतत् अस्मद्गोचरस्थं यक्षं विजानीहि विशेषतो बुध्यस्व त्वं नस्तेजस्वी किमेतद्यक्षमिति । तथा अस्तु इति तत् यक्षम् अभि अद्रवत् तत्प्रति गतवानग्निः । तं च गतवन्तं पिपृच्छिषुं तत्समीपेऽप्रगल्भत्वात्तूष्णीम्भूतं तद्यक्षम् अभ्यवदत् अग्निं प्रति अभाषत कोऽसीति । एवं ब्रह्मणा पृष्टोऽग्निः अब्रवीत् अग्निर्वै अग्निर्नामाहं प्रसिद्धो जातवेदा इति च नामद्वयेन प्रसिद्धतयात्मानं श्लाघयन्निति । एवमुक्तवन्तं ब्रह्मावोचत् तस्मिन् एवं प्रसिद्धगुणनामवति त्वयि किं वीर्यं सामर्थ्यम् इति । सोऽब्रवीत् इदं जगत् सर्वं दहेयं भस्मीकुर्यां यत् इदं स्थावरादि पृथिव्याम् इति । पृथिव्यामित्युपलक्षणार्थम्, यतोऽन्तरिक्षस्थमपि दह्यत एवाग्निना । तस्मै एवमभिमानवते ब्रह्म तृणं निदधौ पुरोऽग्नेः स्थापितवत् । ब्रह्मणा ‘एतत् तृणमात्रं ममाग्रतः दह; न चेदसि दग्धुं समर्थः, मुञ्च दग्धृत्वाभिमानं सर्वत्र’ इत्युक्तः तत् तृणम् उपप्रेयाय तृणसमीपं गतवान् सर्वजवेन सर्वोत्साहकृतेन वेगेन । गत्वा तत् न शशाक नाशकत् दग्धुम् । सः जातवेदाः तृणं दग्धुमशक्तो व्रीडितो हतप्रतिज्ञः तत एव यक्षादेव तूष्णीं देवान्प्रति निववृते निवृत्तः प्रतिगतवान् न एतत् यक्षम् अशकं शक्तवानहं विज्ञातुं विशेषतः यदेतद्यक्षमिति ॥"
       }
     ],
     "commentary_faqs": []
@@ -206,29 +524,56 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 7,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145058.html"
+      "mantra_ref": "3.7",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0925 \u0935\u093e\u092f\u0941\u092e\u092c\u094d\u0930\u0941\u0935\u0928\u094d \u0935\u093e\u092f\u0935\u0947\u0924\u0926\u094d\u0935\u093f\u091c\u093e\u0928\u0940\u0939\u093f \u0915\u093f\u092e\u0947\u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0924\u0925\u0947\u0924\u093f \u0965 \u096d \u0965",
-    "transliteration": "athendramabruvanmaghavannetadvij\u0101n\u012bhi kimetadyak\u1e63amiti tatheti tadabhyadravattasm\u0101ttirodadhe || 24 ||",
-    "translation": "sa tasminnev\u0101k\u0101\u015be striyam\u0101jag\u0101ma bahu\u015bobham\u0101n\u0101mum\u0101m\u0310haimavat\u012b\u1e43 t\u0101m\u0310hov\u0101ca kimetadyak\u1e63amiti || 25 || 24. Then they said to Indra : \u201cMaghavan! learn what this Great Spirit is.\u201d He said \u201cyes\u201d and ran to That. That vanished from his view. 25. He beheld in that very spot a woman, Uma , very beautiful and of golden hue, daughter of Himavat. He said to her \u201cWhat is this Great Spirit?\u201d",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "अथ वायुमब्रुवन् वायवेतद्विजानीहि किमेतद्यक्षमिति तथेति ॥ ७ ॥",
+    "transliteration": "atha vāyumabruvan vāyavetadvijānīhi kimetadyakṣamiti tatheti || 7 ||",
+    "translation": "then, thereupon (sequence) — (they) said to Vāyu — O Vāyu, find out this — \"what is this spirit?\" — thus — \"so be it\" — thus",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अथ",
+        "word_english": "then, thereupon (sequence)",
+        "grammar_role": "अथ · अव्यय (आनन्तर्ये)",
+        "root": "अथ"
+      },
+      {
+        "word_sanskrit": "वायुमब्रुवन्",
+        "word_english": "(they) said to Vāyu",
+        "grammar_role": "वायु · द्वितीया·एक·पुं + √ब्रू · लङ्·प्रथमपुरुष·बहुवचन·परस्मैपद",
+        "root": "वायुम् + अब्रुवन्"
+      },
+      {
+        "word_sanskrit": "वायवेतद्विजानीहि",
+        "word_english": "O Vāyu, find out this",
+        "grammar_role": "वायु · सम्बोधन·एक·पुं + एतद् · द्वितीया·एक·नपुं + वि-√ज्ञा · लोट्·मध्यमपुरुष·एकवचन·परस्मैपद",
+        "root": "वायो + एतत् + विजानीहि"
+      },
+      {
+        "word_sanskrit": "किमेतद्यक्षमिति",
+        "word_english": "\"what is this spirit?\" — thus",
+        "grammar_role": "किम् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + यक्ष · प्रथमा·एक·नपुं + इति · अव्यय (उद्धरणे)",
+        "root": "किम् + एतत् + यक्षम् + इति"
+      },
+      {
+        "word_sanskrit": "तथेति",
+        "word_english": "\"so be it\" — thus",
+        "grammar_role": "तथा · अव्यय (प्रकारे) + इति · अव्यय (उद्धरणे)",
+        "root": "तथा + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "sa tasminnev\u0101k\u0101\u015be striyam\u0101jag\u0101ma bahu\u015bobham\u0101n\u0101mum\u0101m\u0310haimavat\u012b\u1e43 t\u0101m\u0310hov\u0101ca kimetadyak\u1e63amiti || 25 || 24. Then they said to Indra : \u201cMaghavan! learn what this Great Spirit is.\u201d He said \u201cyes\u201d and ran to That. That vanished from his view. 25. He beheld in that very spot a woman, Uma , very beautiful and of golden hue, daughter of Himavat. He said to her \u201cWhat is this Great Spirit?\u201d"
+        "text": "then, thereupon (sequence) — (they) said to Vāyu — O Vāyu, find out this — \"what is this spirit?\" — thus — \"so be it\" — thus"
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014Atha , etc., has already been explained. Indra , lord of the Devas , Maghavan , (being the most powerful of them) said yes, and ran to That. Hut That vanished from his sight, when he was near the Brahman and did not even talk to him, because it wished to crush altogether his pride at being Indra. In the very spot where the Spirit showed itself and from which it vanished and near the place where Indra was at the moment the Brahman vanished, Indra stood discussing within himself what that Spirit was, and did not return like Agni and Vayu. Seeing his attachment to that Spirit, knowledge in the form of a woman and of Umu appeared before him. Indra beheld knowledge. fairest of the fair,\u2014this epithet is very appropriate in the particular context\u2014as if adorned in gold. \u2018 Himavatim \u2019 may mean \u2018the daughter of Himalaya \u2019 and being ever associated with the Lord ( Siva ) the omniscient, and having approached her, asked: \u201cWho is this Spirit that showed itself and vanished?\u201d\n\u0965 \u0907\u0924\u093f \u0915\u0947\u0928\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u0924\u0943\u0924\u0940\u092f\u0903 \u0916\u0923\u094d\u0921\u0903 \u0965\n|| iti kenopani\u1e63adi t\u1e5bt\u012bya\u1e25 kha\u1e47\u1e0da\u1e25 ||\nHere ends the Third Part."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -237,29 +582,56 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 8,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145058.html"
+      "mantra_ref": "3.8",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0926\u092d\u094d\u092f\u0926\u094d\u0930\u0935\u0924\u094d\u0924\u092e\u092d\u094d\u092f\u0935\u0926\u0924\u094d\u0915\u094b\u093d\u0938\u0940\u0924\u093f \u0935\u093e\u092f\u0941\u0930\u094d\u0935\u093e \u0905\u0939\u092e\u0938\u094d\u092e\u0940\u0924\u094d\u092f\u092c\u094d\u0930\u0935\u0940\u0928\u094d\u092e\u093e\u0924\u0930\u093f\u0936\u094d\u0935\u093e \u0935\u093e \u0905\u0939\u092e\u0938\u094d\u092e\u0940\u0924\u093f \u0965 \u096e \u0965",
-    "transliteration": "athendramabruvanmaghavannetadvij\u0101n\u012bhi kimetadyak\u1e63amiti tatheti tadabhyadravattasm\u0101ttirodadhe || 24 ||",
-    "translation": "sa tasminnev\u0101k\u0101\u015be striyam\u0101jag\u0101ma bahu\u015bobham\u0101n\u0101mum\u0101m\u0310haimavat\u012b\u1e43 t\u0101m\u0310hov\u0101ca kimetadyak\u1e63amiti || 25 || 24. Then they said to Indra : \u201cMaghavan! learn what this Great Spirit is.\u201d He said \u201cyes\u201d and ran to That. That vanished from his view. 25. He beheld in that very spot a woman, Uma , very beautiful and of golden hue, daughter of Himavat. He said to her \u201cWhat is this Great Spirit?\u201d",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "तदभ्यद्रवत्तमभ्यवदत्कोऽसीति वायुर्वा अहमस्मीत्यब्रवीन्मातरिश्वा वा अहमस्मीति ॥ ८ ॥",
+    "transliteration": "tadabhyadravattamabhyavadatko'sīti vāyurvā ahamasmītyabravīnmātariśvā vā ahamasmīti || 8 ||",
+    "translation": "It (Vāyu) ran toward Him (the Yakṣa); addressed Him: 'Who are you?' — verily Vāyu (the wind) — 'I am Vāyu,' he said; (I am) Mātariśvā (that which moves in space, a name of the wind-god) — verily (emphatic particle) — 'I am (Mātariśvā),' [he said]",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तदभ्यद्रवत्तमभ्यवदत्कोऽसीति",
+        "word_english": "It (Vāyu) ran toward Him (the Yakṣa); addressed Him: 'Who are you?'",
+        "grammar_role": "तद् (सर्वनाम) · प्रथमा·एक·नपुं + √द्रु (अभि-) · लङ्·प्रथमपुरुष·एक·परस्मै + तद् (सर्वनाम) · द्वितीया·एक·पुं + √वद् (अभि-) · लङ्·प्रथमपुरुष·एक·परस्मै + किम् (सर्वनाम) · प्रथमा·एक·पुं + √अस् · लट्·मध्यमपुरुष·एक·परस्मै + इति (अव्यय)",
+        "root": "तत् + अभ्यद्रवत् + तम् + अभ्यवदत् + कः + असि + इति"
+      },
+      {
+        "word_sanskrit": "वायुर्वा",
+        "word_english": "verily Vāyu (the wind)",
+        "grammar_role": "वायु · प्रथमा·एक·पुं + वा (अव्यय, अवधारणे/एव-अर्थे)",
+        "root": "वायुः + वा"
+      },
+      {
+        "word_sanskrit": "अहमस्मीत्यब्रवीन्मातरिश्वा",
+        "word_english": "'I am Vāyu,' he said; (I am) Mātariśvā (that which moves in space, a name of the wind-god)",
+        "grammar_role": "अस्मद् (सर्वनाम) · प्रथमा·एक + √अस् · लट्·उत्तमपुरुष·एक·परस्मै + इति (अव्यय) + √ब्रू · लङ्·प्रथमपुरुष·एक·परस्मै + मातरिश्वन् · प्रथमा·एक·पुं",
+        "root": "अहम् + अस्मि + इति + अब्रवीत् + मातरिश्वा"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "verily (emphatic particle)",
+        "grammar_role": "वा (अव्यय, अवधारणे/एव-अर्थे)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "अहमस्मीति",
+        "word_english": "'I am (Mātariśvā),' [he said]",
+        "grammar_role": "अस्मद् (सर्वनाम) · प्रथमा·एक + √अस् · लट्·उत्तमपुरुष·एक·परस्मै + इति (अव्यय)",
+        "root": "अहम् + अस्मि + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "sa tasminnev\u0101k\u0101\u015be striyam\u0101jag\u0101ma bahu\u015bobham\u0101n\u0101mum\u0101m\u0310haimavat\u012b\u1e43 t\u0101m\u0310hov\u0101ca kimetadyak\u1e63amiti || 25 || 24. Then they said to Indra : \u201cMaghavan! learn what this Great Spirit is.\u201d He said \u201cyes\u201d and ran to That. That vanished from his view. 25. He beheld in that very spot a woman, Uma , very beautiful and of golden hue, daughter of Himavat. He said to her \u201cWhat is this Great Spirit?\u201d"
+        "text": "It (Vāyu) ran toward Him (the Yakṣa); addressed Him: 'Who are you?' — verily Vāyu (the wind) — 'I am Vāyu,' he said; (I am) Mātariśvā (that which moves in space, a name of the wind-god) — verily (emphatic particle) — 'I am (Mātariśvā),' [he said]"
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014Atha , etc., has already been explained. Indra , lord of the Devas , Maghavan , (being the most powerful of them) said yes, and ran to That. Hut That vanished from his sight, when he was near the Brahman and did not even talk to him, because it wished to crush altogether his pride at being Indra. In the very spot where the Spirit showed itself and from which it vanished and near the place where Indra was at the moment the Brahman vanished, Indra stood discussing within himself what that Spirit was, and did not return like Agni and Vayu. Seeing his attachment to that Spirit, knowledge in the form of a woman and of Umu appeared before him. Indra beheld knowledge. fairest of the fair,\u2014this epithet is very appropriate in the particular context\u2014as if adorned in gold. \u2018 Himavatim \u2019 may mean \u2018the daughter of Himalaya \u2019 and being ever associated with the Lord ( Siva ) the omniscient, and having approached her, asked: \u201cWho is this Spirit that showed itself and vanished?\u201d\n\u0965 \u0907\u0924\u093f \u0915\u0947\u0928\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u0924\u0943\u0924\u0940\u092f\u0903 \u0916\u0923\u094d\u0921\u0903 \u0965\n|| iti kenopani\u1e63adi t\u1e5bt\u012bya\u1e25 kha\u1e47\u1e0da\u1e25 ||\nHere ends the Third Part."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -268,29 +640,62 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 9,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145057.html"
+      "mantra_ref": "3.9",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u093f\u0902\u0938\u094d\u0924\u094d\u0935\u092f\u093f \u0915\u093f\u0902 \u0935\u0940\u0930\u094d\u092f\u092e\u093f\u0924\u094d\u092f\u092a\u0940\u0926\u0902 \u0938\u0930\u094d\u0935\u092e\u093e\u0926\u0926\u0940\u092f \u092f\u0926\u093f\u0926\u0902 \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u092e\u093f\u0924\u093f \u0965 \u096f \u0965",
-    "transliteration": "tasmi\u1e43stvayi ki\u1e43 v\u012bryam ity ap\u012bda\u1e43 sarvam \u0101dad\u012bya yad ida\u1e43 p\u1e5bthivy\u0101m iti ||",
-    "translation": "22. That said \u201cwhat power is in thee; so well known?\u201d He replied: \u201cI can blow away all the universe, whatever is on the earth.\u201d",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "तस्मिंस्त्वयि किं वीर्यमित्यपीदं सर्वमाददीय यदिदं पृथिव्यामिति ॥ ९ ॥",
+    "transliteration": "tasmiṃstvayi kiṃ vīryamityapīdaṃ sarvamādadīya yadidaṃ pṛthivyāmiti || 9 ||",
+    "translation": "in that you (Vāyu addressed) — what (power)? — \"power?\"—and even all this — I could take/carry away all (Vāyu's reply) — whatever this is — on the earth—thus",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मिंस्त्वयि",
+        "word_english": "in that you (Vāyu addressed)",
+        "grammar_role": "तद् · सप्तमी·एक·पुं + युष्मद् · सप्तमी·एक (त्वम्)",
+        "root": "तस्मिन् + त्वयि"
+      },
+      {
+        "word_sanskrit": "किं",
+        "word_english": "what (power)?",
+        "grammar_role": "किम् · प्रथमा·एक·नपुं",
+        "root": "किम्"
+      },
+      {
+        "word_sanskrit": "वीर्यमित्यपीदं",
+        "word_english": "\"power?\"—and even all this",
+        "grammar_role": "वीर्य · प्रथमा·एक·नपुं + इति (अव्यय) + अपि (अव्यय) + इदम् · प्रथमा·एक·नपुं",
+        "root": "वीर्यम् + इति + अपि + इदम्"
+      },
+      {
+        "word_sanskrit": "सर्वमाददीय",
+        "word_english": "I could take/carry away all (Vāyu's reply)",
+        "grammar_role": "सर्व · द्वितीया·एक·नपुं + √दा (आ-दा) · विधिलिङ्·उत्तमपुरुष·एक·आत्मनेपद",
+        "root": "सर्वम् + आददीय"
+      },
+      {
+        "word_sanskrit": "यदिदं",
+        "word_english": "whatever this is",
+        "grammar_role": "यद् · प्रथमा·एक·नपुं + इदम् · प्रथमा·एक·नपुं",
+        "root": "यद् + इदम्"
+      },
+      {
+        "word_sanskrit": "पृथिव्यामिति",
+        "word_english": "on the earth—thus",
+        "grammar_role": "पृथिवी · सप्तमी·एक·स्त्री + इति (अव्यय)",
+        "root": "पृथिव्याम् + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "22. That said \u201cwhat power is in thee; so well known?\u201d He replied: \u201cI can blow away all the universe, whatever is on the earth.\u201d"
+        "text": "in that you (Vāyu addressed) — what (power)? — \"power?\"—and even all this — I could take/carry away all (Vāyu's reply) — whatever this is — on the earth—thus"
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014 They next addressed Vayu thus: \u2018know this, etc.\u2019 The rest bears the same meaning as in the last verse."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -299,32 +704,115 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 10,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145057.html"
+      "mantra_ref": "3.10",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u0948 \u0924\u0943\u0923\u0902 \u0928\u093f\u0926\u0927\u093e\u0935\u0947\u0924\u0926\u093e\u0926\u0924\u094d\u0938\u094d\u0935\u0947\u0924\u093f \u0924\u0926\u0941\u092a\u092a\u094d\u0930\u0947\u092f\u093e\u092f \u0938\u0930\u094d\u0935\u091c\u0935\u0947\u0928 \u0924\u0928\u094d\u0928 \u0936\u0936\u093e\u0915\u093e\u0926\u093e\u0924\u0941\u0902 \u0938 \u0924\u0924 \u090f\u0935 \u0928\u093f\u0935\u0935\u0943\u0924\u0947 \u0928\u0948\u0924\u0926\u0936\u0915\u0902 \u0935\u093f\u091c\u094d\u091e\u093e\u0924\u0941\u0902 \u092f\u0926\u0947\u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0965 \u0967\u0966 \u0965",
-    "transliteration": "atha v\u0101yumabruvanv\u0101yavetadvij\u0101n\u012bhi kimetadyak\u1e63amiti tatheti || 20 || tadabhyadravattamabhyavadatko's\u012bti v\u0101yurv\u0101 ahamasm\u012btyabrav\u012bnm\u0101tari\u015bv\u0101 v\u0101 ahamasm\u012bti || 21 || tasmim\u0310stvayi ki\u1e43 v\u012bryamityap\u012bdam\u0310sarvam\u0101dad\u012bya yadida\u1e43 p\u1e5bthivy\u0101miti || 22 || tasmai t\u1e5b\u1e47a\u1e43 nidadh\u0101vetad\u0101datsveti tadupaprey\u0101ya sarvajavena tanna \u015ba\u015b\u0101k\u0101''datu\u1e43 sa tata eva nivav\u1e5bte naitada\u015baka\u1e43 vij\u00f1\u0101tu\u1e43 yadetadyak\u1e63amiti || 23 ||",
-    "translation": "20. The Devas then said to Vayu : \u201cLearn O Vayu ! what this Great Spirit is\u201d He said: \u201cyes.\u201d 21. He ran to That. That said: \u201cwho art thou\u201d? lie replied: \u201cI am Vayu or Matarisva. \u201d 22. That said \u201cwhat power is in thee; so well known?\u201d He replied: \u201cI can blow away all the universe and all that is on the earth.\u201d 23. That placed a straw before him and said \u201cBlow it away.\u201d He approached it with all speed but was not able to blow it. He returned immediately from there and told the Devas \u201cI was not able to learn who this Great Spirit is.\u201d",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "तस्मै तृणं निदधावेतदादत्स्वेति तदुपप्रेयाय सर्वजवेन तन्न शशाकादातुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥ १० ॥",
+    "transliteration": "tasmai tṛṇaṃ nidadhāvetadādatsveti tadupapreyāya sarvajavena tanna śaśākādātuṃ sa tata eva nivavṛte naitadaśakaṃ vijñātuṃ yadetadyakṣamiti || 10 ||",
+    "translation": "to him (to Vāyu) — a straw, a blade of grass (object) — (the Yakṣa) placed (a straw before him): 'Take this!'—thus — (Vāyu) went up toward it (the straw) — with all (his) speed — it ... not — was (not) able to take (it) — he (Vāyu) — from there, thence — very, just (from that very spot) — he turned back, returned — I was not able (to know) this — to know, to understand — what this Yakṣa is—thus",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्मै",
+        "word_english": "to him (to Vāyu)",
+        "grammar_role": "तद् · चतुर्थी·एकवचन·पुंलिङ्ग (सर्वनाम)",
+        "root": "तस्मै"
+      },
+      {
+        "word_sanskrit": "तृणं",
+        "word_english": "a straw, a blade of grass (object)",
+        "grammar_role": "तृण · द्वितीया·एकवचन·नपुंसकलिङ्ग",
+        "root": "तृणम्"
+      },
+      {
+        "word_sanskrit": "निदधावेतदादत्स्वेति",
+        "word_english": "(the Yakṣa) placed (a straw before him): 'Take this!'—thus",
+        "grammar_role": "नि-√धा · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद + एतद् (द्वितीया·एकवचन·नपुं, सर्वनाम) + आ-√दा · लोट्·मध्यमपुरुष·एकवचन·आत्मनेपद + इति (अव्यय)",
+        "root": "निदधौ + एतत् + आदत्स्व + इति"
+      },
+      {
+        "word_sanskrit": "तदुपप्रेयाय",
+        "word_english": "(Vāyu) went up toward it (the straw)",
+        "grammar_role": "तद् (द्वितीया·एकवचन·नपुं, सर्वनाम) + उप-प्र-√इ · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "तत् + उपप्रेयाय"
+      },
+      {
+        "word_sanskrit": "सर्वजवेन",
+        "word_english": "with all (his) speed",
+        "grammar_role": "सर्व-जव · तृतीया·एकवचन·पुंलिङ्ग (समास)",
+        "root": "सर्व-जवेन"
+      },
+      {
+        "word_sanskrit": "तन्न",
+        "word_english": "it ... not",
+        "grammar_role": "तद् (द्वितीया·एकवचन·नपुं, सर्वनाम) + न (अव्यय, निषेध)",
+        "root": "तत् + न"
+      },
+      {
+        "word_sanskrit": "शशाकादातुं",
+        "word_english": "was (not) able to take (it)",
+        "grammar_role": "√शक् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद + आ-√दा · तुमुन् (अव्यय, infinitive)",
+        "root": "शशाक + आदातुम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (Vāyu)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "तत",
+        "word_english": "from there, thence",
+        "grammar_role": "ततस् · अव्यय (पञ्चम्यर्थे, ablative-sense)",
+        "root": "ततस्"
+      },
+      {
+        "word_sanskrit": "एव",
+        "word_english": "very, just (from that very spot)",
+        "grammar_role": "एव · अव्यय (अवधारणे, emphatic)",
+        "root": "एव"
+      },
+      {
+        "word_sanskrit": "निववृते",
+        "word_english": "he turned back, returned",
+        "grammar_role": "नि-√वृत् · लिट्·प्रथमपुरुष·एकवचन·आत्मनेपद",
+        "root": "निववृते"
+      },
+      {
+        "word_sanskrit": "नैतदशकं",
+        "word_english": "I was not able (to know) this",
+        "grammar_role": "न (अव्यय, निषेध) + एतद् (द्वितीया·एकवचन·नपुं, सर्वनाम) + √शक् · लङ्·उत्तमपुरुष·एकवचन·परस्मैपद",
+        "root": "न + एतत् + अशकम्"
+      },
+      {
+        "word_sanskrit": "विज्ञातुं",
+        "word_english": "to know, to understand",
+        "grammar_role": "वि-√ज्ञा · तुमुन् (अव्यय, infinitive)",
+        "root": "विज्ञातुम्"
+      },
+      {
+        "word_sanskrit": "यदेतद्यक्षमिति",
+        "word_english": "what this Yakṣa is—thus",
+        "grammar_role": "यद् (प्रथमा·एकवचन·नपुं, सर्वनाम) + एतद् (प्रथमा·एकवचन·नपुं, सर्वनाम) + यक्ष · प्रथमा·एकवचन·नपुंसकलिङ्ग + इति (अव्यय)",
+        "root": "यत् + एतत् + यक्षम् + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "20. The Devas then said to Vayu : \u201cLearn O Vayu ! what this Great Spirit is\u201d He said: \u201cyes.\u201d 21. He ran to That. That said: \u201cwho art thou\u201d? lie replied: \u201cI am Vayu or Matarisva. \u201d 22. That said \u201cwhat power is in thee; so well known?\u201d He replied: \u201cI can blow away all the universe and all that is on the earth.\u201d 23. That placed a straw before him and said \u201cBlow it away.\u201d He approached it with all speed but was not able to blow it. He returned immediately from there and told the Devas \u201cI was not able to learn who this Great Spirit is.\u201d"
+        "text": "to him (to Vāyu) — a straw, a blade of grass (object) — (the Yakṣa) placed (a straw before him): 'Take this!'—thus — (Vāyu) went up toward it (the straw) — with all (his) speed — it ... not — was (not) able to take (it) — he (Vāyu) — from there, thence — very, just (from that very spot) — he turned back, returned — I was not able (to know) this — to know, to understand — what this Yakṣa is—thus"
       }
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Pada Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0925 \u0905\u0928\u0928\u094d\u0924\u0930\u0902 \u0935\u093e\u092f\u0941\u092e\u092c\u094d\u0930\u0941\u0935\u0928\u094d \u0939\u0947 \u0935\u093e\u092f\u094b \u090f\u0924\u0926\u094d\u0935\u093f\u091c\u093e\u0928\u0940\u0939\u0940\u0924\u094d\u092f\u093e\u0926\u093f \u0938\u092e\u093e\u0928\u093e\u0930\u094d\u0925\u0902 \u092a\u0942\u0930\u094d\u0935\u0947\u0923\u00a0\u0964 \u0935\u093e\u0928\u093e\u0926\u094d\u0917\u092e\u0928\u093e\u0926\u094d\u0917\u0928\u094d\u0927\u0928\u093e\u0926\u094d\u0935\u093e \u0935\u093e\u092f\u0941\u0903\u00a0\u0964 \u092e\u093e\u0924\u0930\u094d\u092f\u0928\u094d\u0924\u0930\u093f\u0915\u094d\u0937\u0947 \u0936\u094d\u0935\u092f\u0924\u0940\u0924\u093f \u092e\u093e\u0924\u0930\u093f\u0936\u094d\u0935\u093e\u00a0\u0964 \u0907\u0926\u0902 \u0938\u0930\u094d\u0935\u092e\u092a\u093f \u0906\u0926\u0926\u0940\u092f \u0917\u0943\u0939\u094d\u0923\u0940\u092f\u093e\u092e\u094d\u00a0\u0964 \u092f\u0926\u093f\u0926\u0902 \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u092e\u093f\u0924\u094d\u092f\u093e\u0926\u093f \u0938\u092e\u093e\u0928\u092e\u0947\u0935 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014 They next addressed Vayu thus: \u2018know this, etc.\u2019 The vest bears the same meaning as in the last passage. Vayu [ Air ] is so named from the root which means \u2018to go\u2019or \u2018to smell.\u2019 Vayu is also called \u2018 Matarisva \u2019 because it travels [ svayati ] in space [ matari ], \u2018 Adadiyam \u2019 means \u2018can take.\u2019 The rest is explained as in the previous passage."
+        "text": "अथ अनन्तरं वायुमब्रुवन् हे वायो एतद्विजानीहीत्यादि समानार्थं पूर्वेण । वानाद्गमनाद्गन्धनाद्वा वायुः । मातर्यन्तरिक्षे श्वयतीति मातरिश्वा । इदं सर्वमपि आददीय गृह्णीयाम् । यदिदं पृथिव्यामित्यादि समानमेव ॥"
       }
     ],
     "commentary_faqs": []
@@ -335,29 +823,50 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 11,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145058.html"
+      "mantra_ref": "3.11",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0925\u0947\u0928\u094d\u0926\u094d\u0930\u092e\u092c\u094d\u0930\u0941\u0935\u0928\u094d\u092e\u0918\u0935\u0928\u094d\u0928\u0947\u0924\u0926\u094d\u0935\u093f\u091c\u093e\u0928\u0940\u0939\u093f \u0915\u093f\u092e\u0947\u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0924\u0925\u0947\u0924\u093f \u0924\u0926\u092d\u094d\u092f\u0926\u094d\u0930\u0935\u0924\u094d\u0924\u0938\u094d\u092e\u093e\u0924\u094d\u0924\u093f\u0930\u094b\u0926\u0927\u0947 \u0965 \u0967\u0967 \u0965",
-    "transliteration": "athendramabruvanmaghavannetadvij\u0101n\u012bhi kimetadyak\u1e63amiti tatheti tadabhyadravattasm\u0101ttirodadhe || 24 ||",
-    "translation": "sa tasminnev\u0101k\u0101\u015be striyam\u0101jag\u0101ma bahu\u015bobham\u0101n\u0101mum\u0101m\u0310haimavat\u012b\u1e43 t\u0101m\u0310hov\u0101ca kimetadyak\u1e63amiti || 25 || 24. Then they said to Indra : \u201cMaghavan! learn what this Great Spirit is.\u201d He said \u201cyes\u201d and ran to That. That vanished from his view. 25. He beheld in that very spot a woman, Uma , very beautiful and of golden hue, daughter of Himavat. He said to her \u201cWhat is this Great Spirit?\u201d",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्रवत्तस्मात्तिरोदधे ॥ ११ ॥",
+    "transliteration": "athendramabruvanmaghavannetadvijānīhi kimetadyakṣamiti tatheti tadabhyadravattasmāttirodadhe || 11 ||",
+    "translation": "Then they (the gods) said to Indra: O Maghavan, find out this (know what it is) — what is this yakṣa (Spirit)? — thus — So be it — thus (Indra assented) — He (Indra) ran toward it (the yakṣa); from him (Indra) it (the yakṣa/Brahman) vanished",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहि",
+        "word_english": "Then they (the gods) said to Indra: O Maghavan, find out this (know what it is)",
+        "grammar_role": "अथ · अव्यय + इन्द्र · द्वितीया·एक·पुं + √ब्रू · लङ्·प्रथम·बहु·परस्मैपद + मघवन् · सम्बोधन·एक·पुं + एतद् · द्वितीया·एक·नपुं + √ज्ञा (वि) · लोट्·मध्यम·एक·परस्मैपद",
+        "root": "अथ + इन्द्रम् + अब्रुवन् + मघवन् + एतत् + विजानीहि"
+      },
+      {
+        "word_sanskrit": "किमेतद्यक्षमिति",
+        "word_english": "what is this yakṣa (Spirit)? — thus",
+        "grammar_role": "किम् · प्रथमा·एक·नपुं + एतद् · प्रथमा·एक·नपुं + यक्ष · प्रथमा·एक·नपुं + इति · अव्यय",
+        "root": "किम् + एतत् + यक्षम् + इति"
+      },
+      {
+        "word_sanskrit": "तथेति",
+        "word_english": "So be it — thus (Indra assented)",
+        "grammar_role": "तथा · अव्यय + इति · अव्यय",
+        "root": "तथा + इति"
+      },
+      {
+        "word_sanskrit": "तदभ्यद्रवत्तस्मात्तिरोदधे",
+        "word_english": "He (Indra) ran toward it (the yakṣa); from him (Indra) it (the yakṣa/Brahman) vanished",
+        "grammar_role": "तद् · द्वितीया·एक·नपुं + √द्रु (अभि) · लङ्·प्रथम·एक·परस्मैपद + तद् · पञ्चमी·एक·पुं + √धा (तिरस्) · लिट्·प्रथम·एक·आत्मनेपद",
+        "root": "तत् + अभ्यद्रवत् + तस्मात् + तिरोदधे"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "sa tasminnev\u0101k\u0101\u015be striyam\u0101jag\u0101ma bahu\u015bobham\u0101n\u0101mum\u0101m\u0310haimavat\u012b\u1e43 t\u0101m\u0310hov\u0101ca kimetadyak\u1e63amiti || 25 || 24. Then they said to Indra : \u201cMaghavan! learn what this Great Spirit is.\u201d He said \u201cyes\u201d and ran to That. That vanished from his view. 25. He beheld in that very spot a woman, Uma , very beautiful and of golden hue, daughter of Himavat. He said to her \u201cWhat is this Great Spirit?\u201d"
+        "text": "Then they (the gods) said to Indra: O Maghavan, find out this (know what it is) — what is this yakṣa (Spirit)? — thus — So be it — thus (Indra assented) — He (Indra) ran toward it (the yakṣa); from him (Indra) it (the yakṣa/Brahman) vanished"
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com.\u2014Atha , etc., has already been explained. Indra , lord of the Devas , Maghavan , (being the most powerful of them) said yes, and ran to That. Hut That vanished from his sight, when he was near the Brahman and did not even talk to him, because it wished to crush altogether his pride at being Indra. In the very spot where the Spirit showed itself and from which it vanished and near the place where Indra was at the moment the Brahman vanished, Indra stood discussing within himself what that Spirit was, and did not return like Agni and Vayu. Seeing his attachment to that Spirit, knowledge in the form of a woman and of Umu appeared before him. Indra beheld knowledge. fairest of the fair,\u2014this epithet is very appropriate in the particular context\u2014as if adorned in gold. \u2018 Himavatim \u2019 may mean \u2018the daughter of Himalaya \u2019 and being ever associated with the Lord ( Siva ) the omniscient, and having approached her, asked: \u201cWho is this Spirit that showed itself and vanished?\u201d\n\u0965 \u0907\u0924\u093f \u0915\u0947\u0928\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u0924\u0943\u0924\u0940\u092f\u0903 \u0916\u0923\u094d\u0921\u0903 \u0965\n|| iti kenopani\u1e63adi t\u1e5bt\u012bya\u1e25 kha\u1e47\u1e0da\u1e25 ||\nHere ends the Third Part."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -366,32 +875,85 @@
       "scripture_name": "Kena Upanishad (Pada Bhashya)",
       "scripture_slug": "upanishad-kena-pada",
       "chapter_slug": "chapter-3",
-      "chapter_name": "Chapter 3",
+      "chapter_name": "Khaṇḍa 3",
       "verse_number": 12,
       "chapter_number": 3,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145054.html"
+      "mantra_ref": "3.12",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0938 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0947\u0935\u093e\u0915\u093e\u0936\u0947 \u0938\u094d\u0924\u094d\u0930\u093f\u092f\u092e\u093e\u091c\u0917\u093e\u092e \u092c\u0939\u0941 \u0936\u094b\u092d\u092e\u093e\u0928\u093e\u092e\u0941\u092e\u093e\u0902 \u0939\u0948\u092e\u0935\u0924\u0940\u0902 \u0924\u093e\u0902 \u0939\u094b\u0935\u093e\u091a \u0915\u093f\u092e\u0947\u0924\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0965 \u0967\u0968 \u0965",
-    "transliteration": "brahma ha devebhyo vijigye tasya ha brahma\u1e47o vijaye dev\u0101 amah\u012byanta | ta aik\u1e63ant\u0101sm\u0101kamev\u0101ya\u1e43 vijayo'sm\u0101kamev\u0101ya\u1e43 mahimeti || 14 ||",
-    "translation": "14. The Brahman won a victory for the Devas and in that victory of the Brahman the Devas attained glory. They thought \u2018the victory is ours and this glory is ours alone.\u2019",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 3",
+    "sanskrit_shloka": "स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहु शोभमानामुमां हैमवतीं तां होवाच किमेतद्यक्षमिति ॥ १२ ॥",
+    "transliteration": "sa tasminnevākāśe striyamājagāma bahu śobhamānāmumāṃ haimavatīṃ tāṃ hovāca kimetadyakṣamiti || 12 ||",
+    "translation": "he (Indra) — in that very space — came up to a woman — greatly, exceedingly — (greatly) resplendent Umā — Haimavatī, daughter of Himavat — her — indeed said (asked) to her — \"what is this yakṣa?\"",
+    "word_by_word": [
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (Indra)",
+        "grammar_role": "तद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "तस्मिन्नेवाकाशे",
+        "word_english": "in that very space",
+        "grammar_role": "तद् · सप्तमी·एकवचन·नपुंसकलिङ्ग + एव (अव्यय) + आकाश · सप्तमी·एकवचन·नपुंसकलिङ्ग",
+        "root": "तस्मिन् + एव + आकाशे"
+      },
+      {
+        "word_sanskrit": "स्त्रियमाजगाम",
+        "word_english": "came up to a woman",
+        "grammar_role": "स्त्री · द्वितीया·एकवचन·स्त्रीलिङ्ग + √आ-गम् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "स्त्रियम् + आजगाम"
+      },
+      {
+        "word_sanskrit": "बहु",
+        "word_english": "greatly, exceedingly",
+        "grammar_role": "बहु · द्वितीया·एकवचन·नपुंसकलिङ्ग (क्रियाविशेषणम्, modifying शोभमानाम्)",
+        "root": "बहु"
+      },
+      {
+        "word_sanskrit": "शोभमानामुमां",
+        "word_english": "(greatly) resplendent Umā",
+        "grammar_role": "शोभमाना (√शुभ्, शानच्) · द्वितीया·एकवचन·स्त्रीलिङ्ग + उमा · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "शोभमानाम् + उमाम्"
+      },
+      {
+        "word_sanskrit": "हैमवतीं",
+        "word_english": "Haimavatī, daughter of Himavat",
+        "grammar_role": "हैमवती · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "हैमवतीम्"
+      },
+      {
+        "word_sanskrit": "तां",
+        "word_english": "her",
+        "grammar_role": "तद् · द्वितीया·एकवचन·स्त्रीलिङ्ग",
+        "root": "ताम्"
+      },
+      {
+        "word_sanskrit": "होवाच",
+        "word_english": "indeed said (asked) to her",
+        "grammar_role": "ह (अव्यय) + √वच् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "ह + उवाच"
+      },
+      {
+        "word_sanskrit": "किमेतद्यक्षमिति",
+        "word_english": "\"what is this yakṣa?\"",
+        "grammar_role": "किम् · प्रथमा·एकवचन·नपुंसकलिङ्ग + एतद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + यक्ष · प्रथमा·एकवचन·नपुंसकलिङ्ग + इति (अव्यय)",
+        "root": "किम् + एतत् + यक्षम् + इति"
+      }
+    ],
     "translations": [
       {
-        "author": "VedaPath English",
+        "author": "Canonical English Gloss",
         "language": "english",
-        "text": "14. The Brahman won a victory for the Devas and in that victory of the Brahman the Devas attained glory. They thought \u2018the victory is ours and this glory is ours alone.\u2019"
+        "text": "he (Indra) — in that very space — came up to a woman — greatly, exceedingly — (greatly) resplendent Umā — Haimavatī, daughter of Himavat — her — indeed said (asked) to her — \"what is this yakṣa?\""
       }
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Pada Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0925\u0947\u0928\u094d\u0926\u094d\u0930\u092e\u092c\u094d\u0930\u0941\u0935\u0928\u094d\u092e\u0918\u0935\u0928\u094d\u0928\u0947\u0924\u0926\u094d\u0935\u093f\u091c\u093e\u0928\u0940\u0939\u0940\u0924\u094d\u092f\u093e\u0926\u093f \u092a\u0942\u0930\u094d\u0935\u0935\u0924\u094d\u00a0\u0964 \u0907\u0928\u094d\u0926\u094d\u0930\u0903 \u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930\u094b \u092e\u0918\u0935\u093e \u092c\u0932\u0935\u0924\u094d\u0924\u094d\u0935\u093e\u0924\u094d \u0924\u0925\u0947\u0924\u093f \u0924\u0926\u092d\u094d\u092f\u0926\u094d\u0930\u0935\u0924\u094d\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0924\u094d \u0907\u0928\u094d\u0926\u094d\u0930\u093e\u0926\u093e\u0924\u094d\u092e\u0938\u092e\u0940\u092a\u0902 \u0917\u0924\u093e\u0924\u094d \u0924\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0924\u093f\u0930\u094b\u0926\u0927\u0947 \u0924\u093f\u0930\u094b\u092d\u0942\u0924\u092e\u094d\u00a0\u0964 \u0907\u0928\u094d\u0926\u094d\u0930\u0938\u094d\u092f\u0947\u0928\u094d\u0926\u094d\u0930\u0924\u094d\u0935\u093e\u092d\u093f\u092e\u093e\u0928\u094b\u093d\u0924\u093f\u0924\u0930\u093e\u0902 \u0928\u093f\u0930\u093e\u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0907\u0924\u094d\u092f\u0924\u0903 \u0938\u0902\u0935\u093e\u0926\u092e\u093e\u0924\u094d\u0930\u092e\u092a\u093f \u0928\u093e\u0926\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0947\u0928\u094d\u0926\u094d\u0930\u093e\u092f\u00a0\u0964 \u0924\u0926\u094d\u092f\u0915\u094d\u0937\u0902 \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u093e\u0915\u093e\u0936\u0947 \u0906\u0915\u093e\u0936\u092a\u094d\u0930\u0926\u0947\u0936\u0947 \u0906\u0924\u094d\u092e\u093e\u0928\u0902 \u0926\u0930\u094d\u0936\u092f\u093f\u0924\u094d\u0935\u093e \u0924\u093f\u0930\u094b\u092d\u0942\u0924\u092e\u093f\u0928\u094d\u0926\u094d\u0930\u0936\u094d\u091a \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u0938\u094d\u0924\u093f\u0930\u094b\u0927\u093e\u0928\u0915\u093e\u0932\u0947 \u092f\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u093e\u0915\u093e\u0936\u0947 \u0906\u0938\u0940\u0924\u094d , \u0938\u0903 \u0907\u0928\u094d\u0926\u094d\u0930\u0903 \u0924\u0938\u094d\u092e\u093f\u0928\u094d\u0928\u0947\u0935 \u0906\u0915\u093e\u0936\u0947 \u0924\u0938\u094d\u0925\u094c \u0915\u093f\u0902 \u092f\u0926\u094d\u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0927\u094d\u092f\u093e\u092f\u0928\u094d ; \u0928 \u0928\u093f\u0935\u0935\u0943\u0924\u0947\u093d\u0917\u094d\u0928\u094d\u092f\u093e\u0926\u093f\u0935\u0924\u094d\u00a0\u0964 \u0924\u0938\u094d\u092f\u0947\u0928\u094d\u0926\u094d\u0930\u0938\u094d\u092f \u092f\u0915\u094d\u0937\u0947 \u092d\u0915\u094d\u0924\u093f\u0902 \u092c\u0941\u0926\u094d\u0927\u094d\u0935\u093e \u0935\u093f\u0926\u094d\u092f\u093e \u0909\u092e\u093e\u0930\u0942\u092a\u093f\u0923\u0940 \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u092d\u0942\u0924\u094d\u0938\u094d\u0924\u094d\u0930\u0940\u0930\u0942\u092a\u093e\u00a0\u0964 \u0938\u0903 \u0907\u0928\u094d\u0926\u094d\u0930\u0903 \u0924\u093e\u092e\u094d \u0909\u092e\u093e\u0902 \u092c\u0939\u0941 \u0936\u094b\u092d\u092e\u093e\u0928\u093e\u092e\u094d ; \u0938\u0930\u094d\u0935\u0947\u0937\u093e\u0902 \u0939\u093f \u0936\u094b\u092d\u092e\u093e\u0928\u093e\u0928\u093e\u0902 \u0936\u094b\u092d\u0928\u0924\u092e\u093e \u0935\u093f\u0926\u094d\u092f\u093e\u00a0\u0964 \u0924\u0926\u093e \u092c\u0939\u0941 \u0936\u094b\u092d\u092e\u093e\u0928\u0947\u0924\u093f \u0935\u093f\u0936\u0947\u0937\u0923\u092e\u0941\u092a\u092a\u0928\u094d\u0928\u0902 \u092d\u0935\u0924\u093f\u00a0\u0964 \u0939\u0948\u092e\u0935\u0924\u0940\u0902 \u0939\u0947\u092e\u0915\u0943\u0924\u093e\u092d\u0930\u0923\u0935\u0924\u0940\u092e\u093f\u0935 \u092c\u0939\u0941 \u0936\u094b\u092d\u092e\u093e\u0928\u093e\u092e\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0905\u0925\u0935\u093e \u0909\u092e\u0948\u0935 \u0939\u093f\u092e\u0935\u0924\u094b \u0926\u0941\u0939\u093f\u0924\u093e \u0939\u0948\u092e\u0935\u0924\u0940 \u0928\u093f\u0924\u094d\u092f\u092e\u0947\u0935 \u0938\u0930\u094d\u0935\u091c\u094d\u091e\u0947\u0928\u0947\u0936\u094d\u0935\u0930\u0947\u0923 \u0938\u0939 \u0935\u0930\u094d\u0924\u0924 \u0907\u0924\u093f \u091c\u094d\u091e\u093e\u0924\u0941\u0902 \u0938\u092e\u0930\u094d\u0925\u0947\u0924\u093f \u0915\u0943\u0924\u094d\u0935\u093e \u0924\u093e\u092e\u0941\u092a\u091c\u0917\u093e\u092e\u00a0\u0964 \u0907\u0928\u094d\u0926\u094d\u0930\u0903 \u0924\u093e\u0902 \u0939 \u0909\u092e\u093e\u0902 \u0915\u093f\u0932 \u0909\u0935\u093e\u091a \u092a\u092a\u094d\u0930\u091a\u094d\u091b \u092c\u094d\u0930\u0942\u0939\u093f \u0915\u093f\u092e\u0947\u0924\u0926\u094d\u0926\u0930\u094d\u0936\u092f\u093f\u0924\u094d\u0935\u093e \u0924\u093f\u0930\u094b\u092d\u0942\u0924\u0902 \u092f\u0915\u094d\u0937\u092e\u093f\u0924\u093f \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014From the passage that \u2018It is not known to those who know,\u2019 some fools may argue that whatever is, can be known by proofs, and whatever is not cannot be so known and is, therefore, non-existent, as the horns of a hare, and Brahman, being unknown, does not exist. In order that they may not fall into that error this parable is introduced; for, the subsequent passages clearly show the folly of thinking that that Brahman who is controller of all in every way, Deva, even superior to all Devas, Lord over lords, not easily known, the cause of the victory of the Devas and of the defeat of the Asuras does not exist. Or (it is related) for eulogising the knowledge of Brahman. How? By showing that it was, indeed, by the knowledge of the Brahman that Fire, etc., attained pre-eminence among the Devas ; and Indra specially more than the rest. Or. it shows how difficult it is to know Brahman , because even Fire, etc, with all their great powers, and even Indra . lord of the Devas knew the Brahman only with considerable difficulty. It may be that the whole Upanishad to follow is intended to lay down an injunction (to know the Brahman ) or the story may have been intended to show the fallacious nature of the notion of doer, etc., found in all living beings, by contrasting it with the knowledge of the Brahman \u2014fallacious like the notion of the Devas that the victory was theirs. The Brahman already defined won a victory for the benefit of the Devas ; the Brahman in a battle between the Devas and the Asuras defeated the Asuras, the enemies of the world and the violators of the limitations imposed by the Lord and gave the benefit of the victory to the Devas for the preservation of the world. In this victory of Brahman the Devas , Fire, etc., attained glory, and not knowing that the victory and glory belonged to the Paramatman, seated in then own Atman , the witness of all perceptions, Lord of the universe, omniscient, the dispenser of the fruits of all Karma, omnipotent, and desirous of securing the safety of the world, looked upon the victory and the glory, as achieved by themselves\u2014the Atman enclosed within the limitations of their own forms, Fire. etc.; that the glory\u2014their being Fire, Air, Indra and the like, resulting from the victory\u2014was theirs and that neither the victory nor the glory belonged to the Lord, over all the Atman within them. So they cherished this false notion."
+        "text": "अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहीत्यादि पूर्ववत् । इन्द्रः परमेश्वरो मघवा बलवत्त्वात् तथेति तदभ्यद्रवत् । तस्मात् इन्द्रादात्मसमीपं गतात् तद्ब्रह्म तिरोदधे तिरोभूतम् । इन्द्रस्येन्द्रत्वाभिमानोऽतितरां निराकर्तव्य इत्यतः संवादमात्रमपि नादाद्ब्रह्मेन्द्राय । तद्यक्षं यस्मिन्नाकाशे आकाशप्रदेशे आत्मानं दर्शयित्वा तिरोभूतमिन्द्रश्च ब्रह्मणस्तिरोधानकाले यस्मिन्नाकाशे आसीत्, सः इन्द्रः तस्मिन्नेव आकाशे तस्थौ किं यद्यक्षमिति ध्यायन्; न निववृतेऽग्न्यादिवत् । तस्येन्द्रस्य यक्षे भक्तिं बुद्ध्वा विद्या उमारूपिणी प्रादुरभूत्स्त्रीरूपा । सः इन्द्रः ताम् उमां बहु शोभमानाम्; सर्वेषां हि शोभमानानां शोभनतमा विद्या । तदा बहु शोभमानेति विशेषणमुपपन्नं भवति । हैमवतीं हेमकृताभरणवतीमिव बहु शोभमानामित्यर्थः । अथवा उमैव हिमवतो दुहिता हैमवती नित्यमेव सर्वज्ञेनेश्वरेण सह वर्तत इति ज्ञातुं समर्थेति कृत्वा तामुपजगाम । इन्द्रः तां ह उमां किल उवाच पप्रच्छ ब्रूहि किमेतद्दर्शयित्वा तिरोभूतं यक्षमिति ॥"
       }
     ],
     "commentary_faqs": []

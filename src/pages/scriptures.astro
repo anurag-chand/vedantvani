@@ -1,0 +1,317 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ScriptureCard from '../components/ScriptureCard.astro';
+import { getAllScriptures } from '../data/scriptures';
+
+const allScriptures = getAllScriptures();
+const advaitaCount = allScriptures.filter(s => s.tradition === 'advaita').length;
+const itihasaCount = allScriptures.filter(s => s.tradition === 'itihasa').length;
+const puranaCount = allScriptures.filter(s => s.tradition === 'purana').length;
+const yogaCount = allScriptures.filter(s => s.tradition === 'yoga').length;
+---
+
+<Layout 
+  title={`Complete Scriptural Library (${allScriptures.length} Canonical Texts) | VedāntVāṇī`}
+  description={`Explore the complete library of ${allScriptures.length} scriptures including the Bhagavad Gītā, Upaniṣads, Prakaraṇa Granthas, Śrī Rudram, Patañjali Yoga Sūtras, and Sāṅkhyakārikā.`}
+>
+  <section class="library-header-section">
+    <div class="container">
+      <div class="library-header-content text-center">
+        <div class="sacred-badge font-cinzel">
+          <span>📚</span> The Scriptural Repository • शास्त्र संग्रह
+        </div>
+        <h1 class="library-title font-cinzel">
+          Complete Sacred Library
+        </h1>
+        <p class="library-subtitle font-lora">
+          Access all {allScriptures.length} canonical Sanskrit scriptures with Sanskrit shlokas, English transliteration, word breakdown, and multi-lineage commentaries.
+        </p>
+
+        <!-- Search Box -->
+        <div class="library-search-box">
+          <span class="search-icon">🔍</span>
+          <input 
+            type="text" 
+            id="librarySearchInput" 
+            class="library-search-input font-sans" 
+            placeholder="Search by title, Sanskrit name, author, or philosophical topic..." 
+            autocomplete="off"
+          />
+          <button id="clearSearchBtn" class="clear-search-btn" style="display: none;">✕</button>
+        </div>
+
+        <!-- Category Filters -->
+        <div class="library-filters-wrap">
+          <div class="filter-pills-scroll" id="categoryFilterBar">
+            <button class="filter-pill active" data-filter="all">All Scriptures ({allScriptures.length})</button>
+            <button class="filter-pill" data-filter="advaita">Advaita Vedānta ({advaitaCount})</button>
+            <button class="filter-pill" data-filter="itihasa">Itihāsas ({itihasaCount})</button>
+            <button class="filter-pill" data-filter="purana">Purāṇas ({puranaCount})</button>
+            <button class="filter-pill" data-filter="yoga">Yoga Scriptures ({yogaCount})</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Scriptures Grid Section -->
+  <section class="library-grid-section">
+    <div class="container">
+      <div class="active-count-indicator font-cinzel">
+        Showing <span id="displayedCount">{allScriptures.length}</span> of {allScriptures.length} Scriptures
+      </div>
+
+      <div class="library-grid" id="libraryCardsGrid">
+        {allScriptures.map((s) => (
+          <div 
+            class="scripture-grid-item" 
+            data-tradition={s.tradition}
+            data-name={s.name.toLowerCase()}
+            data-sanskrit={s.name_sanskrit?.toLowerCase() || ''}
+            data-author={s.author.toLowerCase()}
+            data-subcat={s.subcategory.toLowerCase()}
+          >
+            <ScriptureCard scripture={s} showCategory={true} />
+          </div>
+        ))}
+      </div>
+
+      <!-- Empty State -->
+      <div id="noResultsState" class="empty-library-state" style="display: none;">
+        <span class="empty-icon">🔍</span>
+        <h3 class="font-cinzel">No scriptures found</h3>
+        <p class="font-lora">Try adjusting your keywords or clearing the category filter.</p>
+        <button id="resetSearchBtn" class="filter-pill" style="margin-top: 1rem;">Reset Filters</button>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .library-header-section {
+    padding: 3rem 0 1.5rem 0;
+  }
+
+  @media (min-width: 768px) {
+    .library-header-section {
+      padding: 4rem 0 2rem 0;
+    }
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .library-header-content {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+
+  .sacred-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0.9rem;
+    border-radius: var(--radius-pill);
+    background: var(--saffron-subtle);
+    border: 1px solid var(--border-subtle);
+    color: var(--saffron);
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 1.25rem;
+  }
+
+  .library-title {
+    font-size: 2.35rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    margin-bottom: 0.75rem;
+    background: linear-gradient(135deg, var(--text-primary) 30%, var(--gold) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  @media (min-width: 640px) {
+    .library-title {
+      font-size: 3.25rem;
+    }
+  }
+
+  .library-subtitle {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 2rem;
+  }
+
+  /* Search Box */
+  .library-search-box {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: var(--bg-surface-elevated);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-pill);
+    padding: 0.65rem 1.25rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    margin-bottom: 1.5rem;
+    transition: border-color var(--transition-fast);
+  }
+
+  .library-search-box:focus-within {
+    border-color: var(--saffron);
+  }
+
+  .search-icon {
+    font-size: 1.1rem;
+    opacity: 0.7;
+  }
+
+  .library-search-input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--text-primary);
+    font-size: 0.95rem;
+  }
+
+  .library-search-input::placeholder {
+    color: var(--text-muted);
+  }
+
+  .clear-search-btn {
+    color: var(--text-muted);
+    font-size: 1rem;
+    padding: 0.2rem;
+  }
+
+  .clear-search-btn:hover {
+    color: var(--text-primary);
+  }
+
+  .library-filters-wrap {
+    display: flex;
+    justify-content: center;
+  }
+
+  /* Library Grid Section */
+  .library-grid-section {
+    padding: 1.5rem 0 4rem 0;
+  }
+
+  .active-count-indicator {
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .library-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 640px) {
+    .library-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .library-grid {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+    }
+  }
+
+  .scripture-grid-item.hidden {
+    display: none;
+  }
+
+  .empty-library-state {
+    text-align: center;
+    padding: 4rem 1rem;
+    color: var(--text-muted);
+  }
+
+  .empty-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    display: block;
+  }
+</style>
+
+<script is:inline>
+  (function() {
+    const input = document.getElementById('librarySearchInput');
+    const clearBtn = document.getElementById('clearSearchBtn');
+    const resetBtn = document.getElementById('resetSearchBtn');
+    const pills = document.querySelectorAll('#categoryFilterBar .filter-pill');
+    const items = document.querySelectorAll('.scripture-grid-item');
+    const countEl = document.getElementById('displayedCount');
+    const emptyState = document.getElementById('noResultsState');
+
+    let currentFilter = 'all';
+
+    function filterLibrary() {
+      const query = (input?.value || '').trim().toLowerCase();
+      if (clearBtn) clearBtn.style.display = query ? 'block' : 'none';
+
+      let visible = 0;
+
+      items.forEach(item => {
+        const tradition = item.getAttribute('data-tradition');
+        const name = item.getAttribute('data-name') || '';
+        const sanskrit = item.getAttribute('data-sanskrit') || '';
+        const author = item.getAttribute('data-author') || '';
+        const subcat = item.getAttribute('data-subcat') || '';
+
+        const matchesCategory = currentFilter === 'all' || tradition === currentFilter;
+        const matchesQuery = !query || name.includes(query) || sanskrit.includes(query) || author.includes(query) || subcat.includes(query);
+
+        if (matchesCategory && matchesQuery) {
+          item.classList.remove('hidden');
+          visible++;
+        } else {
+          item.classList.add('hidden');
+        }
+      });
+
+      if (countEl) countEl.textContent = visible;
+      if (emptyState) emptyState.style.display = visible === 0 ? 'block' : 'none';
+    }
+
+    pills.forEach(pill => {
+      pill.addEventListener('click', () => {
+        pills.forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        currentFilter = pill.getAttribute('data-filter') || 'all';
+        filterLibrary();
+      });
+    });
+
+    if (input) input.addEventListener('input', filterLibrary);
+
+    if (clearBtn) {
+      clearBtn.addEventListener('click', () => {
+        input.value = '';
+        filterLibrary();
+        input.focus();
+      });
+    }
+
+    if (resetBtn) {
+      resetBtn.addEventListener('click', () => {
+        if (input) input.value = '';
+        currentFilter = 'all';
+        pills.forEach(p => p.classList.toggle('active', p.getAttribute('data-filter') === 'all'));
+        filterLibrary();
+      });
+    }
+  })();
+</script>

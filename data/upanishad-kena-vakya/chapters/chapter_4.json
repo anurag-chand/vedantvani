@@ -5,29 +5,86 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 1,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145060.html"
+      "mantra_ref": "4.1",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092c\u094d\u0930\u0939\u094d\u092e\u0947\u0924\u093f \u0939\u094b\u0935\u093e\u091a \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u094b \u0935\u093e \u090f\u0924\u0926\u094d\u0935\u093f\u091c\u092f\u0947 \u092e\u0939\u0940\u092f\u0927\u094d\u0935\u092e\u093f\u0924\u093f \u0924\u0924\u094b \u0939\u0948\u0935 \u0935\u093f\u0926\u093e\u091e\u094d\u091a\u0915\u093e\u0930 \u092c\u094d\u0930\u0939\u094d\u092e\u0947\u0924\u093f \u0965 \u0967 \u0965",
-    "transliteration": "s\u0101 brahmeti hov\u0101ca brahma\u1e47ov\u0101 etadvijaye mah\u012byadhvamiti tato haiva vid\u0101\u00f1cak\u0101ra brahmeti || 26 ||",
-    "translation": "26. She said \u201cIt is Brahman indeed. Attain glory in the victory of Brahman. \u201d From her words only, he learned that it was Brahman.",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदाञ्चकार ब्रह्मेति ॥ १ ॥",
+    "transliteration": "brahmeti hovāca brahmaṇo vā etadvijaye mahīyadhvamiti tato haiva vidāñcakāra brahmeti || 1 ||",
+    "translation": "26. She said “It is Brahman indeed. Attain glory in the victory of Brahman. ” From her words only, he learned that it was Brahman.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "ब्रह्मेति",
+        "word_english": "'It is Brahman,' (she/Umā said), thus",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं + इति · अव्यय (उद्धरणे)",
+        "root": "ब्रह्म + इति"
+      },
+      {
+        "word_sanskrit": "होवाच",
+        "word_english": "verily (she/Umā) said",
+        "grammar_role": "ह · अव्यय (वाक्यालङ्कारे) + √वच् · लिट्·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "ह + उवाच"
+      },
+      {
+        "word_sanskrit": "ब्रह्मणो",
+        "word_english": "of Brahman (= ईश्वरस्य, i.e. of the Lord)",
+        "grammar_role": "ब्रह्मन् · षष्ठी·एक·नपुं",
+        "root": "ब्रह्मणः"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "verily, indeed",
+        "grammar_role": "वा · अव्यय (अत्र = वै, अवधारणे — भाष्ये 'ब्रह्मणो वै ईश्वरस्यैव')",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "एतद्विजये",
+        "word_english": "in this very victory (which was Brahman's/the Lord's)",
+        "grammar_role": "एतत् (क्रियाविशेषणार्थम्, अव्ययवत् — भाष्ये 'एतदिति क्रियाविशेषणार्थम्') + विजय · सप्तमी·एक·पुं",
+        "root": "एतत् + विजये"
+      },
+      {
+        "word_sanskrit": "महीयध्वमिति",
+        "word_english": "'attain greatness / be glorified' (भाष्ये 'महिमानं प्राप्नुथ'; NOT false pride) — thus",
+        "grammar_role": "√मही (नामधातुः, महस्/महत् इत्यतः) · लोट्·मध्यमपुरुष·बहु·आत्मनेपद + इति · अव्यय (उद्धरणे)",
+        "root": "महीयध्वम् + इति"
+      },
+      {
+        "word_sanskrit": "ततो",
+        "word_english": "from that (from Umā's words), thereupon",
+        "grammar_role": "ततस् · अव्यय (तसिल्-प्रत्ययान्तः; पञ्चम्यर्थे, 'from that')",
+        "root": "ततः"
+      },
+      {
+        "word_sanskrit": "हैव",
+        "word_english": "verily only (from that alone)",
+        "grammar_role": "ह · अव्यय (वाक्यालङ्कारे) + एव · अव्यय (अवधारणे)",
+        "root": "ह + एव"
+      },
+      {
+        "word_sanskrit": "विदाञ्चकार",
+        "word_english": "(Indra) came to know, knew",
+        "grammar_role": "√विद् · लिट् (आम्प्रत्ययान्तं पर्यवसितरूपम्)·प्रथमपुरुष·एक·परस्मैपद",
+        "root": "विदाम् + चकार"
+      },
+      {
+        "word_sanskrit": "ब्रह्मेति",
+        "word_english": "that it was Brahman, thus",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं + इति · अव्यय (उद्धरणे)",
+        "root": "ब्रह्म + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "26. She said \u201cIt is Brahman indeed. Attain glory in the victory of Brahman. \u201d From her words only, he learned that it was Brahman."
+        "text": "26. She said “It is Brahman indeed. Attain glory in the victory of Brahman. ” From her words only, he learned that it was Brahman."
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014 The particle \u2018 Ha \u2019 means \u2018verily.\u2019 Glory in the victory of the omnipotent Lord (for the Asuras were defeated only by Brahman). Etat modifies the predicate. Your notion that the victory and the glory are yours is false. From her words alone Indra learned that it was Brahman. The force of \u2018only\u2019 is that Indra did not know of himself."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -36,15 +93,72 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 2,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145061.html"
+      "mantra_ref": "4.2",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u093e\u0926\u094d\u0935\u093e \u090f\u0924\u0947 \u0926\u0947\u0935\u093e \u0905\u0924\u093f\u0924\u0930\u093e\u092e\u093f\u0935\u093e\u0928\u094d\u092f\u093e\u0928\u094d\u0926\u0947\u0935\u093e\u0928\u094d\u092f\u0926\u0917\u094d\u0928\u093f\u0930\u094d\u0935\u093e\u092f\u0941\u0930\u093f\u0928\u094d\u0926\u094d\u0930\u0938\u094d\u0924\u0947 \u0939\u094d\u092f\u0947\u0928\u0928\u094d\u0928\u0947\u0926\u093f\u0937\u094d\u0920\u0902 \u092a\u0938\u094d\u092a\u0943\u0936\u0941\u0938\u094d\u0924\u0947 \u0939\u094d\u092f\u0947\u0928\u0924\u094d\u092a\u094d\u0930\u0925\u092e\u094b \u0935\u093f\u0926\u093e\u091e\u094d\u091a\u0915\u093e\u0930 \u092c\u094d\u0930\u0939\u094d\u092e\u0947\u0924\u093f \u0965 \u0968 \u0965",
-    "transliteration": "tasm\u0101dv\u0101 ete dev\u0101 atitar\u0101miv\u0101ny\u0101ndev\u0101nyadagnirv\u0101yurindraste hyenannedi\u1e63\u1e6dha\u1e43 paspar\u015buste hyenatprathamo vid\u0101\u00f1cak\u0101ra brahmeti || 27 ||",
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "तस्माद्वा एते देवा अतितरामिवान्यान्देवान्यदग्निर्वायुरिन्द्रस्ते ह्येनन्नेदिष्ठं पस्पृशुस्ते ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥ २ ॥",
+    "transliteration": "tasmādvā ete devā atitarāmivānyāndevānyadagnirvāyurindraste hyenannediṣṭhaṃ paspṛśuste hyenatprathamo vidāñcakāra brahmeti || 2 ||",
     "translation": "27. These Devas Agni , Vayu and Indra therefore much excel others, because they touched the Brahman nearest. They it was who first knew the Spirit to be Brahman.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्माद्वा",
+        "word_english": "therefore indeed (because of that nearness to Brahman)",
+        "grammar_role": "तद् · पञ्चमी·एक·पुं/नपुं (सर्वनाम, हेतौ — 'तेन कारणेन') + वै (अव्यय, निपातः अवधारणे; वै-एते इति स्वरसन्धौ वा)",
+        "root": "तस्मात् + वै"
+      },
+      {
+        "word_sanskrit": "एते",
+        "word_english": "these (gods)",
+        "grammar_role": "एतद् · प्रथमा·बहु·पुं (सर्वनाम)",
+        "root": "एते"
+      },
+      {
+        "word_sanskrit": "देवा",
+        "word_english": "the gods",
+        "grammar_role": "देव · प्रथमा·बहु·पुं",
+        "root": "देवाः"
+      },
+      {
+        "word_sanskrit": "अतितरामिवान्यान्देवान्यदग्निर्वायुरिन्द्रस्ते",
+        "word_english": "surpass other gods, as it were—namely Agni, Vāyu, Indra; they",
+        "grammar_role": "अतितराम् (अव्यय, क्रियाविशेषणम्; अति+तराम्, 'exceedingly'; भाष्ये अतिशेरत इव 'surpass, as it were') + इव (अव्यय, निपातः) + अन्य · द्वितीया·बहु·पुं (सर्वनाम) + देव · द्वितीया·बहु·पुं + यत् (अव्यय/सर्वनाम, = यस्मात् 'in that, because') + अग्नि · प्रथमा·एक·पुं + वायु · प्रथमा·एक·पुं + इन्द्र · प्रथमा·एक·पुं + तद् · प्रथमा·बहु·पुं (सर्वनाम, ते)",
+        "root": "अतितराम् + इव + अन्यान् + देवान् + यत् + अग्निः + वायुः + इन्द्रः + ते"
+      },
+      {
+        "word_sanskrit": "ह्येनन्नेदिष्ठं",
+        "word_english": "for this (Brahman), the nearest (and dearest)",
+        "grammar_role": "हि (अव्यय, हेतौ निपातः) + एनद् · द्वितीया·एक·नपुं (सर्वनाम, अन्वादेशे एतद्/इदम्) + नेदिष्ठ · द्वितीया·एक·नपुं (इष्ठन्-अतिशायने, अन्तिक→नेद्, 'nearest'; भाष्ये अन्तिकतमं प्रियतमम्)",
+        "root": "हि + एनत् + नेदिष्ठम्"
+      },
+      {
+        "word_sanskrit": "पस्पृशुस्ते",
+        "word_english": "touched (it); they",
+        "grammar_role": "√स्पृश् · लिट्·प्रथमपुरुष·बहुवचन·परस्मैपद ('they touched'; भाष्ये स्पृष्टवन्तः) + तद् · प्रथमा·बहु·पुं (सर्वनाम, ते)",
+        "root": "पस्पृशुः + ते"
+      },
+      {
+        "word_sanskrit": "ह्येनत्प्रथमो",
+        "word_english": "for, this (Brahman), being foremost/chief",
+        "grammar_role": "हि (अव्यय, हेतौ निपातः) + एनद् · द्वितीया·एक·नपुं (सर्वनाम, विदाञ्चकारस्य कर्म) + प्रथम · प्रथमा·एक·पुं ('foremost'; भाष्ये प्रथमाः प्रधानाः सन्तः; एकवचनं वीप्सायाम्/प्राधान्ये)",
+        "root": "हि + एनत् + प्रथमः"
+      },
+      {
+        "word_sanskrit": "विदाञ्चकार",
+        "word_english": "knew (it)—i.e. they knew",
+        "grammar_role": "√विद् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद (आम्प्रत्ययान्तः: विदाम् + चकार/√कृ साहाय्येन; भाष्ये बहुवचनार्थे विदाञ्चक्रुः 'they knew')",
+        "root": "विदाम् + चकार"
+      },
+      {
+        "word_sanskrit": "ब्रह्मेति",
+        "word_english": "[knew it to be] \"Brahman\"—thus",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं ('Brahman', ज्ञेयस्वरूपम्; इति-उद्धरणे प्रथमायाम्) + इति (अव्यय, उद्धरणे/समाप्तौ निपातः)",
+        "root": "ब्रह्म + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -52,13 +166,7 @@
         "text": "27. These Devas Agni , Vayu and Indra therefore much excel others, because they touched the Brahman nearest. They it was who first knew the Spirit to be Brahman."
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014 Because these Devas , Agni , Vayu and Indra approached the Brahman nearest by conversing with and seeing That, they surpass the others considerably in the matter of power, quality and affluence. The particle \u2018 Iva \u2019 either has no meaning or has the force of \u2018certainly.\u2019 Because these Devas, Agni , Vayu and Indra approached nearest the most desirable Brahman , by such means as the conversation aforesaid, and because they were the first who knew the Brahman, they are foremost."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -67,15 +175,66 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 3,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145062.html"
+      "mantra_ref": "4.3",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092e\u093e\u0926\u094d\u0935\u093e \u0907\u0928\u094d\u0926\u094d\u0930\u094b\u093d\u0924\u093f\u0924\u0930\u093e\u092e\u093f\u0935\u093e\u0928\u094d\u092f\u093e\u0928\u094d\u0926\u0947\u0935\u093e\u0928\u094d\u0938 \u0939\u094d\u092f\u0947\u0928\u0928\u094d\u0928\u0947\u0926\u093f\u0937\u094d\u0920\u0902 \u092a\u0938\u094d\u092a\u0930\u094d\u0936 \u0938 \u0939\u094d\u092f\u0947\u0928\u0924\u094d\u092a\u094d\u0930\u0925\u092e\u094b \u0935\u093f\u0926\u093e\u091e\u094d\u091a\u0915\u093e\u0930 \u092c\u094d\u0930\u0939\u094d\u092e\u0947\u0924\u093f \u0965 \u0969 \u0965",
-    "transliteration": "tasm\u0101dv\u0101 indro'titar\u0101miv\u0101ny\u0101ndev\u0101nsa hyenannedi\u1e63\u1e6dha\u1e43 paspar\u015ba sa hyenatprathamo vid\u0101\u00f1cak\u0101ra brahmeti || 28 ||",
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "तस्माद्वा इन्द्रोऽतितरामिवान्यान्देवान्स ह्येनन्नेदिष्ठं पस्पर्श स ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥ ३ ॥",
+    "transliteration": "tasmādvā indro'titarāmivānyāndevānsa hyenannediṣṭhaṃ pasparśa sa hyenatprathamo vidāñcakāra brahmeti || 3 ||",
     "translation": "28. Therefore also does Indra considerably excel other Devas because he approached Brahman nearest and because he first knew the Spirit to be Brahman.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्माद्वा",
+        "word_english": "Therefore indeed (for that very reason)",
+        "grammar_role": "तद् · पञ्चमी·एक·नपुं (सर्वनाम, हेतौ — \"तेन कारणेन, अतः\") + वै · अव्यय (निपात, अवधारणे)",
+        "root": "तस्मात् + वै"
+      },
+      {
+        "word_sanskrit": "इन्द्रोऽतितरामिवान्यान्देवान्स",
+        "word_english": "Indra surpasses, as it were, the other gods; he",
+        "grammar_role": "इन्द्र · प्रथमा·एक·पुं + अतितराम् · अव्यय (क्रियाविशेषण, अतिशये; अति+तराम्) + इव · अव्यय (निपात, इवार्थे) + अन्य · द्वितीया·बहु·पुं (सर्वनाम-विशेषण) + देव · द्वितीया·बहु·पुं + तद् · प्रथमा·एक·पुं (सर्वनाम, सः)",
+        "root": "इन्द्रः + अतितराम् + इव + अन्यान् + देवान् + सः"
+      },
+      {
+        "word_sanskrit": "ह्येनन्नेदिष्ठं",
+        "word_english": "for he [touched/approached] this [Brahman] nearest (most closely)",
+        "grammar_role": "हि · अव्यय (निपात, हेतौ) + एतद् (एनत्) · द्वितीया·एक·नपुं (सर्वनाम, अन्वादेशे) + नेदिष्ठ · द्वितीया·एक·नपुं (अतिशायन·इष्ठन्, अन्तिक→नेद्; भाष्ये अन्तिकतमम्)",
+        "root": "हि + एनत् + नेदिष्ठम्"
+      },
+      {
+        "word_sanskrit": "पस्पर्श",
+        "word_english": "touched (came nearest to it)",
+        "grammar_role": "√स्पृश् · लिट्·प्रथमपुरुष·एक·परस्मैपद (भाष्ये स्पृष्टवान्)",
+        "root": "पस्पर्श"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (Indra)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं (सर्वनाम)",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "ह्येनत्प्रथमो",
+        "word_english": "for he, [being] foremost, [knew] this [Brahman]",
+        "grammar_role": "हि · अव्यय (निपात, हेतौ) + एतद् (एनत्) · द्वितीया·एक·नपुं (सर्वनाम, विदाञ्चकार-कर्म) + प्रथम · प्रथमा·एक·पुं (विशेषण, भाष्ये प्रधानः)",
+        "root": "हि + एनत् + प्रथमः"
+      },
+      {
+        "word_sanskrit": "विदाञ्चकार",
+        "word_english": "came to know (knew it)",
+        "grammar_role": "√विद् · लिट्·प्रथमपुरुष·एक·परस्मैपद (आम्प्रत्ययान्त·परिफ्रास्तिक; विदाम्+चकार)",
+        "root": "विदाञ्चकार"
+      },
+      {
+        "word_sanskrit": "ब्रह्मेति",
+        "word_english": "\"[This is] Brahman\" — thus",
+        "grammar_role": "ब्रह्मन् · प्रथमा·एक·नपुं (उद्धरणे) + इति · अव्यय (निपात, उद्धरणे/समाप्तौ)",
+        "root": "ब्रह्म + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -83,13 +242,7 @@
         "text": "28. Therefore also does Indra considerably excel other Devas because he approached Brahman nearest and because he first knew the Spirit to be Brahman."
       }
     ],
-    "commentaries": [
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014Because even Agni and Vayu knew Brahman from the words of Indra and because Indra first heard of the Brahman from the words of Uma , therefore does Indra so excel the other Devas. He approached Brahman nearest because he was first who knew the Brahman."
-      }
-    ],
+    "commentaries": [],
     "commentary_faqs": []
   },
   {
@@ -98,32 +251,67 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 4,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145063.html"
+      "mantra_ref": "4.4",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092f\u0948\u0937 \u0906\u0926\u0947\u0936\u094b \u092f\u0926\u0947\u0924\u0926\u094d\u0935\u093f\u0926\u094d\u092f\u0941\u0924\u094b \u0935\u094d\u092f\u0926\u094d\u092f\u0941\u0924\u0926\u093e\u0969 \u0907\u0924\u0940\u0928\u094d\u0928\u094d\u092f\u092e\u0940\u092e\u093f\u0937\u0926\u093e\u0969 \u0907\u0924\u094d\u092f\u0927\u093f\u0926\u0948\u0935\u0924\u092e\u094d \u0965 \u096a \u0965",
-    "transliteration": "tasyai\u1e63a \u0101de\u015bo yadetadvidyuto vyadyutad\u0101 u it\u012bn nyam\u012bmi\u1e63ad\u0101 u ityadhidaivatam || 29 ||",
-    "translation": "29. Thus is That inculcated by illustration\u2014that it flashed like lightning\u2014that it appeared and vanished as the eye winketh. This is the illustration of the Brahman used in respect to the Devas.",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा३ इतीन्न्यमीमिषदा३ इत्यधिदैवतम् ॥ ४ ॥",
+    "transliteration": "tasyaiṣa ādeśo yadetadvidyuto vyadyutadā3 itīnnyamīmiṣadā3 ityadhidaivatam || 4 ||",
+    "translation": "29. Thus is That inculcated by illustration—that it flashed like lightning—that it appeared and vanished as the eye winketh. This is the illustration of the Brahman used in respect to the Devas.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्यैष",
+        "word_english": "of that (Brahman) — this (is)",
+        "grammar_role": "तद् · षष्ठी·एकवचन·नपुंसकलिङ्ग + एतद् · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "तस्य + एषः"
+      },
+      {
+        "word_sanskrit": "आदेशो",
+        "word_english": "the (forthcoming) instruction for worship (vakṣyamāṇa upāsanopadeśa)",
+        "grammar_role": "आदेश · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "आदेशः"
+      },
+      {
+        "word_sanskrit": "यदेतद्विद्युतो",
+        "word_english": "in that this (Brahman) — like the flashing of the lightning",
+        "grammar_role": "यद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + एतद् · प्रथमा·एकवचन·नपुंसकलिङ्ग + विद्युत् · षष्ठी·एकवचन·स्त्रीलिङ्ग",
+        "root": "यत् + एतत् + विद्युतः"
+      },
+      {
+        "word_sanskrit": "व्यद्युतदा३",
+        "word_english": "it flashed forth, as it were (like lightning)",
+        "grammar_role": "√द्युत् (वि-) · लुङ्·प्रथमपुरुष·एकवचन·परस्मैपद + आ३ · अव्यय (प्लुत, उपमार्थे)",
+        "root": "व्यद्युतत् + आ३"
+      },
+      {
+        "word_sanskrit": "इतीन्न्यमीमिषदा३",
+        "word_english": "thus — and: it made (the eye) blink, as it were (as one blinks the eye)",
+        "grammar_role": "इति · अव्यय (निर्देशार्थे) + इत् · अव्यय (अवधारणे/समुच्चये) + √मिष् (नि-, णिजन्त) · लुङ्·प्रथमपुरुष·एकवचन·परस्मैपद + आ३ · अव्यय (प्लुत, उपमार्थे)",
+        "root": "इति + इत् + न्यमीमिषत् + आ३"
+      },
+      {
+        "word_sanskrit": "इत्यधिदैवतम्",
+        "word_english": "thus, with reference to the deities (the adhidaivata teaching)",
+        "grammar_role": "इति · अव्यय (समापने, निर्देशार्थे) + अधिदैवत · द्वितीया·एकवचन·नपुंसकलिङ्ग (क्रियाविशेषणवत्)",
+        "root": "इति + अधिदैवतम्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "29. Thus is That inculcated by illustration\u2014that it flashed like lightning\u2014that it appeared and vanished as the eye winketh. This is the illustration of the Brahman used in respect to the Devas."
+        "text": "29. Thus is That inculcated by illustration—that it flashed like lightning—that it appeared and vanished as the eye winketh. This is the illustration of the Brahman used in respect to the Devas."
       }
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Vakya Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u093e\u0902 \u091a \u092a\u0943\u0937\u094d\u091f\u094d\u0935\u093e \u0924\u0938\u094d\u092f\u093e \u090f\u0935 \u0935\u091a\u0928\u093e\u0924\u094d \u0935\u093f\u0926\u093e\u091e\u094d\u091a\u0915\u093e\u0930 \u0935\u093f\u0926\u093f\u0924\u0935\u093e\u0928\u094d\u00a0\u0964 \u0905\u0924 \u0907\u0928\u094d\u0926\u094d\u0930\u0938\u094d\u092f \u092c\u094b\u0927\u0939\u0947\u0924\u0941\u0924\u094d\u0935\u093e\u0926\u094d\u0935\u093f\u0926\u094d\u092f\u0948\u0935\u094b\u092e\u093e\u00a0\u0964 \u2018\u0935\u093f\u0926\u094d\u092f\u093e\u0938\u0939\u093e\u092f\u0935\u093e\u0928\u0940\u0936\u094d\u0935\u0930\u0903\u2019 \u0907\u0924\u093f \u0938\u094d\u092e\u0943\u0924\u093f\u0903\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u0926\u093f\u0928\u094d\u0926\u094d\u0930\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u092a\u0942\u0930\u094d\u0935\u0915\u092e\u0917\u094d\u0928\u093f\u0935\u093e\u092f\u094d\u0935\u093f\u0928\u094d\u0926\u094d\u0930\u093e\u0938\u094d\u0924\u0947 \u0939\u093f \u090f\u0928\u0924\u094d \u0928\u0947\u0926\u093f\u0937\u094d\u0920\u092e\u094d \u0905\u0924\u093f\u0938\u092e\u0940\u092a\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u0926\u094d\u092f\u092f\u093e \u092c\u094d\u0930\u0939\u094d\u092e \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093e\u0903 \u0938\u0928\u094d\u0924\u0903 \u092a\u0938\u094d\u092a\u0930\u094d\u0936\u0941\u0903 \u0938\u094d\u092a\u0943\u0937\u094d\u091f\u0935\u0928\u094d\u0924\u0903\u00a0\u0964 \u0924\u0947 \u0939\u093f \u090f\u0928\u0924\u094d \u092a\u094d\u0930\u0925\u092e\u0903 \u092a\u094d\u0930\u0925\u092e\u0902 \u0935\u093f\u0926\u093e\u091e\u094d\u091a\u0915\u093e\u0930 \u0935\u093f\u0926\u093e\u091e\u094d\u091a\u0915\u094d\u0930\u0941\u0930\u093f\u0924\u094d\u092f\u0947\u0924\u0924\u094d\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0924\u094d \u0905\u0924\u093f\u0924\u0930\u093e\u092e\u094d \u0905\u0924\u0940\u0924\u094d\u092f \u0905\u0924\u093f\u0936\u092f\u0947\u0928 \u0926\u0940\u092a\u094d\u092f\u0928\u094d\u0924\u0947\u093d\u0928\u094d\u092f\u093e\u0928\u094d \u0926\u0947\u0935\u093e\u0928\u094d\u00a0\u0964 \u0924\u0924\u094b\u093d\u092a\u0940\u0928\u094d\u0926\u094d\u0930\u094b\u093d\u0924\u093f\u0924\u0930\u093e\u0902 \u0926\u0940\u092a\u094d\u092f\u0924\u0947, \u0906\u0926\u094c \u092c\u094d\u0930\u0939\u094d\u092e\u0935\u093f\u091c\u094d\u091e\u093e\u0928\u093e\u0924\u094d\u00a0\u0964 \u0924\u0938\u094d\u092f\u0948\u0937 \u0906\u0926\u0947\u0936\u0903 \u0924\u0938\u094d\u092f \u092c\u094d\u0930\u0939\u094d\u092e\u0923 \u090f\u0937 \u0935\u0915\u094d\u0937\u094d\u092f\u092e\u093e\u0923\u0903 \u0906\u0926\u0947\u0936\u0903 \u0909\u092a\u093e\u0938\u0928\u094b\u092a\u0926\u0947\u0936 \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u0926\u094d\u0926\u0947\u0935\u0947\u092d\u094d\u092f\u094b \u0935\u093f\u0926\u094d\u092f\u0941\u0926\u093f\u0935 \u0938\u0939\u0938\u0948\u0935 \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u094d\u092d\u0942\u0924\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0926\u094d\u092f\u0941\u0924\u093f\u092e\u0924\u094d , \u0924\u0938\u094d\u092e\u093e\u0926\u094d\u0935\u093f\u0926\u094d\u092f\u0941\u0924\u094b \u0935\u093f\u0926\u094d\u092f\u094b\u0924\u0928\u0902 \u092f\u0925\u093e \u092f\u0926\u0947\u0924\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0935\u094d\u092f\u0926\u094d\u092f\u0941\u0924\u0924\u094d \u0935\u093f\u0926\u094d\u092f\u094b\u0924\u093f\u0924\u0935\u0924\u094d\u00a0\u0964 \u0906 \u0907\u0924\u094d\u092f\u0941\u092a\u092e\u093e\u0930\u094d\u0925 \u0906\u2014\u0936\u092c\u094d\u0926\u0903\u00a0\u0964 \u092f\u0925\u093e \u0918\u0928\u093e\u0928\u094d\u0927\u0915\u093e\u0930\u0902 \u0935\u093f\u0926\u093e\u0930\u094d\u092f \u0935\u093f\u0926\u094d\u092f\u0941\u0924\u094d\u0938\u0930\u094d\u0935\u0924\u0903 \u092a\u094d\u0930\u0915\u093e\u0936\u0924\u0947, \u090f\u0935\u0902 \u0924\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0926\u0947\u0935\u093e\u0928\u093e\u0902 \u092a\u0941\u0930\u0924\u0903 \u0938\u0930\u094d\u0935\u0924\u0903\u092a\u094d\u0930\u0915\u093e\u0936\u0935\u0926\u094d\u0935\u094d\u092f\u0915\u094d\u0924\u0940\u092d\u0942\u0924\u092e\u094d\u00a0\u0964 \u0905\u0924\u094b \u0935\u094d\u092f\u0926\u094d\u092f\u0941\u0924\u0926\u093f\u0935\u0947\u0924\u094d\u092f\u0941\u092a\u093e\u0938\u094d\u092f\u092e\u094d\u00a0\u0964 \n\u2018\u092f\u0925\u093e \u0938\u0915\u0943\u0926\u094d\u0935\u093f\u0926\u094d\u092f\u0941\u0924\u092e\u094d\u2019 (\u092c\u0943. \u0909. \u0968\u00a0\u0964 \u0969\u00a0\u0964 \u096c)\n \u0907\u0924\u093f \u091a \u0935\u093e\u091c\u0938\u0928\u0947\u092f\u0915\u0947\u00a0\u0964 \u092f\u0938\u094d\u092e\u093e\u091a\u094d\u091a\u0947\u0928\u094d\u0926\u094d\u0930\u094b\u092a\u0938\u0930\u094d\u092a\u0923\u0915\u093e\u0932\u0947 \u0928\u094d\u092f\u092e\u0940\u092e\u093f\u0937\u0924\u094d \u2014 \u092f\u0925\u093e \u0915\u0936\u094d\u091a\u093f\u091a\u094d\u091a\u0915\u094d\u0937\u0941\u0930\u094d\u0928\u093f\u092e\u0947\u0937\u0923\u0902 \u0915\u0943\u0924\u0935\u093e\u0928\u093f\u0924\u093f\u00a0\u0964 \u0907\u0924\u0940\u0926\u093f\u0924\u094d\u092f\u0928\u0930\u094d\u0925\u0915\u094c \u0928\u093f\u092a\u093e\u0924\u094c \u2014 \u0928\u093f\u092e\u093f\u0937\u093f\u0924\u0935\u0926\u093f\u0935 \u0924\u093f\u0930\u094b\u092d\u0942\u0924\u092e\u093f\u0924\u094d\u092f\u0947\u0935\u092e\u0927\u093f\u0926\u0948\u0935\u0924\u0902 \u0926\u0947\u0935\u0924\u093e\u092f\u093e \u0905\u0927\u093f \u092f\u0926\u094d\u0926\u0930\u094d\u0936\u0928\u092e\u0927\u093f\u0926\u0948\u0935\u0924\u0902 \u0924\u0924\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014Of the Brahman the subject discussed, this is the Adesa . Adesa is instruction by means of illustrations. The illustration by which the Brahman , the like of which does not exist, is explained is said to-be its Adesa. What is It? That which is well-known in the world as the flash of lightning. To add \u2018 kritavat \u2019 is inconsistent. Therefore we understand it to mean \u2018the flash of lightning\u2019. The particle \u2018 A \u2019 means \u2018like.\u2019 The meaning is \u2018like the flash of lightning.\u2019 We find another Sruti saying \u2018As if a lightning flashed.\u2019 It just showed itself to the Devas like lightning and vanished from their view\u2014or the word \u2018 Tejas \u2019 [bright] should be supplied after \u2018 Vidyutah \u2019 [of lightning]. The meaning then is that It shone for a moment like a dazzling flash of lightning. The word \u2018 iti \u2019 shows that it is an illustration. The word \u2018 ith \u2019 is used in the sense of \u2018and\u2019 or \u2018else\u2019. This is another illustration of it. What is it? It winked as the eye winks. The nich suffix has no distinct meaning from the meaning of the root. The particle \u2018 a \u2019 means \u2018like\u2019. The meaning is that it was like the eye opening and closing to see and to turn from its objects. This illustration of the Brahman is taken from the activity of the deities."
+        "text": "तां च पृष्ट्वा तस्या एव वचनात् विदाञ्चकार विदितवान् । अत इन्द्रस्य बोधहेतुत्वाद्विद्यैवोमा । ‘विद्यासहायवानीश्वरः’ इति स्मृतिः । यस्मादिन्द्रविज्ञानपूर्वकमग्निवाय्विन्द्रास्ते हि एनत् नेदिष्ठम् अतिसमीपं ब्रह्मविद्यया ब्रह्म प्राप्ताः सन्तः पस्पर्शुः स्पृष्टवन्तः । ते हि एनत् प्रथमः प्रथमं विदाञ्चकार विदाञ्चक्रुरित्येतत् । तस्मात् अतितराम् अतीत्य अतिशयेन दीप्यन्तेऽन्यान् देवान् । ततोऽपीन्द्रोऽतितरां दीप्यते, आदौ ब्रह्मविज्ञानात् । तस्यैष आदेशः तस्य ब्रह्मण एष वक्ष्यमाणः आदेशः उपासनोपदेश इत्यर्थः । यस्माद्देवेभ्यो विद्युदिव सहसैव प्रादुर्भूतं ब्रह्म द्युतिमत्, तस्माद्विद्युतो विद्योतनं यथा यदेतद्ब्रह्म व्यद्युतत् विद्योतितवत् । आ इत्युपमार्थ आ—शब्दः । यथा घनान्धकारं विदार्य विद्युत्सर्वतः प्रकाशते, एवं तद्ब्रह्म देवानां पुरतः सर्वतःप्रकाशवद्व्यक्तीभूतम् । अतो व्यद्युतदिवेत्युपास्यम् । ‘यथा सकृद्विद्युतम्’ (बृ. उ. २ । ३ । ६) इति च वाजसनेयके । यस्माच्चेन्द्रोपसर्पणकाले न्यमीमिषत् — यथा कश्चिच्चक्षुर्निमेषणं कृतवानिति । इतीदित्यनर्थकौ निपातौ — निमिषितवदिव तिरोभूतमित्येवमधिदैवतं देवताया अधि यद्दर्शनमधिदैवतं तत् ॥"
       }
     ],
     "commentary_faqs": []
@@ -134,32 +322,67 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 5,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145064.html"
+      "mantra_ref": "4.5",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0905\u0925\u093e\u0927\u094d\u092f\u093e\u0924\u094d\u092e\u0902 \u092f\u0926\u0947\u0924\u0926\u094d\u0917\u091a\u094d\u091b\u0924\u0940\u0935 \u091a \u092e\u0928\u094b\u093d\u0928\u0947\u0928 \u091a\u0948\u0924\u0926\u0941\u092a\u0938\u094d\u092e\u0930\u0924\u094d\u092f\u092d\u0940\u0915\u094d\u0937\u094d\u0923\u0902 \u0938\u0919\u094d\u0915\u0932\u094d\u092a\u0903 \u0965 \u096b \u0965",
-    "transliteration": "ath\u0101dhy\u0101tma\u1e43 yaddetadgacchat\u012bva ca mano'nena caitadupasmaratyabh\u012bk\u1e63\u1e47am sa\u1e45kalpa\u1e25 || 30 ||",
-    "translation": "30. Next illustration, from the Atman within the body\u2014as speedily as the mind goes to Brahman \u2014as speedily as one thinks of Brahman hy the mind, and as speedily as the mind wills.",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "अथाध्यात्मं यदेतद्गच्छतीव च मनोऽनेन चैतदुपस्मरत्यभीक्ष्णं सङ्कल्पः ॥ ५ ॥",
+    "transliteration": "athādhyātmaṃ yadetadgacchatīva ca mano'nena caitadupasmaratyabhīkṣṇaṃ saṅkalpaḥ || 5 ||",
+    "translation": "30. Next illustration, from the Atman within the body—as speedily as the mind goes to Brahman —as speedily as one thinks of Brahman hy the mind, and as speedily as the mind wills.",
+    "word_by_word": [
+      {
+        "word_sanskrit": "अथाध्यात्मं",
+        "word_english": "now, with reference to the self (the inner / adhyātma topic)",
+        "grammar_role": "अथ — अव्यय (आनन्तर्यार्थक, ‘अनन्तरम्’) + अधि-आत्मम् · अव्यय (अव्ययीभाव-समासः, क्रियाविशेषणम्; ‘आत्मनः अधि = आत्मविषयम्’)",
+        "root": "अथ + अध्यात्मम्"
+      },
+      {
+        "word_sanskrit": "यदेतद्गच्छतीव",
+        "word_english": "this [Brahman], as it were, goes/reaches (i.e. seems to become an object of the mind) — though it is not really objectified",
+        "grammar_role": "यत् — सर्वनाम · प्रथमा·एक·नपुं + एतत् — सर्वनाम · प्रथमा·एक·नपुं (कर्तृ; यदेतत् = यथोक्तलक्षणं ब्रह्म) + √गम् (गम्लृ गतौ) · लट्·प्रथमपुरुष·एक·परस्मैपद + इव — अव्यय (उपमार्थक, ‘मानो’)",
+        "root": "यत् + एतत् + गच्छति + इव"
+      },
+      {
+        "word_sanskrit": "च",
+        "word_english": "and",
+        "grammar_role": "च — अव्यय (समुच्चयार्थक)",
+        "root": "च"
+      },
+      {
+        "word_sanskrit": "मनोऽनेन",
+        "word_english": "the mind; by this very [mind]",
+        "grammar_role": "मनस् · प्रथमा·एक·नपुं (कर्तृ) + इदम् · तृतीया·एक·नपुं ‘अनेन’ (= अनेन मनसैव; पुं/नपुं समानरूपम्)",
+        "root": "मनः + अनेन"
+      },
+      {
+        "word_sanskrit": "चैतदुपस्मरत्यभीक्ष्णं",
+        "word_english": "and (the mind, the knower) repeatedly recollects this [Brahman]",
+        "grammar_role": "च — अव्यय (समुच्चयः) + एतत् — सर्वनाम · द्वितीया·एक·नपुं (कर्म; एतत् = तद्ब्रह्म) + उप-√स्मृ (स्मृ चिन्तायाम्) · लट्·प्रथमपुरुष·एक·परस्मैपद + अभीक्ष्णम् — अव्यय (क्रियाविशेषणम्, ‘पुनः पुनः’)",
+        "root": "च + एतत् + उपस्मरति + अभीक्ष्णम्"
+      },
+      {
+        "word_sanskrit": "सङ्कल्पः",
+        "word_english": "the resolve/will (sc. of the mind impelled by Brahman — ब्रह्मप्रेषितस्य मनसः)",
+        "grammar_role": "सम्-√कृप् (कृपू सामर्थ्ये, भ्वादि) + घञ् → सङ्कल्प · प्रथमा·एक·पुं",
+        "root": "सङ्कल्पः"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "30. Next illustration, from the Atman within the body\u2014as speedily as the mind goes to Brahman \u2014as speedily as one thinks of Brahman hy the mind, and as speedily as the mind wills."
+        "text": "30. Next illustration, from the Atman within the body—as speedily as the mind goes to Brahman —as speedily as one thinks of Brahman hy the mind, and as speedily as the mind wills."
       }
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Vakya Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0905\u0925 \u0905\u0928\u0928\u094d\u0924\u0930\u092e\u094d \u0905\u0927\u094d\u092f\u093e\u0924\u094d\u092e\u092e\u094d \u0906\u0924\u094d\u092e\u0928\u0903 \u0905\u0927\u093f \u0906\u0924\u094d\u092e\u0935\u093f\u0937\u092f\u092e\u094d \u0905\u0927\u094d\u092f\u093e\u0924\u094d\u092e\u092e\u094d \u0909\u091a\u094d\u092f\u0924 \u0907\u0924\u093f \u0935\u093e\u0915\u094d\u092f\u0936\u0947\u0937\u0903\u00a0\u0964 \u092f\u0926\u0947\u0924\u0924\u094d \u092f\u0925\u094b\u0915\u094d\u0924\u0932\u0915\u094d\u0937\u0923\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0917\u091a\u094d\u091b\u0924\u0940\u0935 \u092a\u094d\u0930\u093e\u092a\u094d\u0928\u094b\u0924\u0940\u0935 \u0935\u093f\u0937\u092f\u0940\u0915\u0930\u094b\u0924\u0940\u0935\u0947\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0928 \u092a\u0941\u0928\u0930\u094d\u0935\u093f\u0937\u092f\u0940\u0915\u0930\u094b\u0924\u093f \u092e\u0928\u0903, \u0905\u0935\u093f\u0937\u092f\u0924\u094d\u0935\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u0923\u0903\u00a0\u0964 \u0905\u0924\u094b \u092e\u0928\u094b \u0928 \u0917\u091a\u094d\u091b\u0924\u093f\u00a0\u0964 \n\u2018\u092f\u0947\u0928\u093e\u0939\u0941\u0930\u094d\u092e\u0928\u094b \u092e\u0924\u092e\u094d\u2019 (\u0915\u0947. \u0909. \u0967\u00a0\u0964 \u096b)\n \u0907\u0924\u093f \u091a\u094b\u0915\u094d\u0924\u092e\u094d\u00a0\u0964 \u0917\u091a\u094d\u091b\u0924\u0940\u0935\u0947\u0924\u093f \u0924\u0941 \u092e\u0928\u0938\u094b\u093d\u092a\u093f \u092e\u0928\u0938\u094d\u0924\u094d\u0935\u093e\u0924\u094d \u0906\u0924\u094d\u092e\u092d\u0942\u0924\u0924\u094d\u0935\u093e\u091a\u094d\u091a \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u0903 \u0924\u0924\u094d\u0938\u092e\u0940\u092a\u0947 \u092e\u0928\u094b \u0935\u0930\u094d\u0924\u0924\u0947 \u0907\u0924\u093f \u0909\u092a\u0938\u094d\u092e\u0930\u0924\u093f \u0905\u0928\u0947\u0928 \u092e\u0928\u0938\u0948\u0935 \u0924\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0935\u093f\u0926\u094d\u0935\u093e\u0928\u094d\u092f\u0938\u094d\u092e\u093e\u0924\u094d , \u0924\u0938\u094d\u092e\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0917\u091a\u094d\u091b\u0924\u0940\u0935\u0947\u0924\u094d\u092f\u0941\u091a\u094d\u092f\u0924\u0947\u00a0\u0964 \u0905\u092d\u0940\u0915\u094d\u0937\u094d\u0923\u0902 \u092a\u0941\u0928\u0903 \u092a\u0941\u0928\u0903\u00a0\u0964 \u0938\u0919\u094d\u0915\u0932\u094d\u092a\u0903 \u092c\u094d\u0930\u0939\u094d\u092e\u092a\u094d\u0930\u0947\u0937\u093f\u0924\u0938\u094d\u092f \u092e\u0928\u0938\u0903\u00a0\u0964 \u0905\u0924 \u0909\u092a\u0938\u094d\u092e\u0930\u0923\u0938\u0919\u094d\u0915\u0932\u094d\u092a\u093e\u0926\u093f\u092d\u093f\u0930\u094d\u0932\u093f\u0919\u094d\u0917\u0948\u0930\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u092e\u0928\u0906\u0927\u094d\u092f\u093e\u0924\u094d\u092e\u092d\u0942\u0924\u092e\u093f\u0924\u094d\u092f\u0941\u092a\u093e\u0938\u094d\u092f\u092e\u093f\u0924\u094d\u092f\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014\u2018 Atha \u2019 means\u2018next\u2019. We offer illustrations from the Atman within the body. \u2018Goes to\u2019 means \u2018perceives as an object\u2019. As speedily as one (worshipper) thinks of the Brahman as near. \u2018 Abhikshnam \u2019 means \u2018very much\u2019. \u2018Wills\u2019, i. e. , about the Brahman. By the volition, recollection of the mind, the Brahman as hounded by the mind is perceived as an object. Therefore this is an illustration of the Brahman taken from within the body, as lightning and winking from the activity of the powers. And as those illustrations show that Brahman flashes instantaneously, so these illustrations show that Brahman\u2019s appearance and disappearance are as quick as the perceptions of the mind. These illustrations of the Brahman are given because it can be understood by dull persons only if so illustrated. It is well-known that the unconditioned Brahman can be known by persons of inferior intellect."
+        "text": "अथ अनन्तरम् अध्यात्मम् आत्मनः अधि आत्मविषयम् अध्यात्मम् उच्यत इति वाक्यशेषः । यदेतत् यथोक्तलक्षणं ब्रह्म गच्छतीव प्राप्नोतीव विषयीकरोतीवेत्यर्थः । न पुनर्विषयीकरोति मनः, अविषयत्वाद्ब्रह्मणः । अतो मनो न गच्छति । ‘येनाहुर्मनो मतम्’ (के. उ. १ । ५) इति चोक्तम् । गच्छतीवेति तु मनसोऽपि मनस्त्वात् आत्मभूतत्वाच्च ब्रह्मणः तत्समीपे मनो वर्तते इति उपस्मरति अनेन मनसैव तद्ब्रह्म विद्वान्यस्मात्, तस्माद्ब्रह्म गच्छतीवेत्युच्यते । अभीक्ष्णं पुनः पुनः । सङ्कल्पः ब्रह्मप्रेषितस्य मनसः । अत उपस्मरणसङ्कल्पादिभिर्लिङ्गैर्ब्रह्म मनआध्यात्मभूतमित्युपास्यमित्यभिप्रायः ॥"
       }
     ],
     "commentary_faqs": []
@@ -170,15 +393,90 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 6,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145065.html"
+      "mantra_ref": "4.6",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0926\u094d\u0927 \u0924\u0926\u094d\u0935\u0928\u0902 \u0928\u093e\u092e \u0924\u0926\u094d\u0935\u0928\u092e\u093f\u0924\u094d\u092f\u0941\u092a\u093e\u0938\u093f\u0924\u0935\u094d\u092f\u0902 \u0938 \u092f \u090f\u0924\u0926\u0947\u0935\u0902 \u0935\u0947\u0926\u093e\u092d\u093f \u0939\u0948\u0928\u0902 \u0938\u0930\u094d\u0935\u093e\u0923\u093f \u092d\u0942\u0924\u093e\u0928\u093f \u0938\u0902\u0935\u093e\u091e\u094d\u091b\u0928\u094d\u0924\u093f \u0965 \u096c \u0965",
-    "transliteration": "taddha tadvana\u1e43 n\u0101ma tadvanamityup\u0101sitavya\u1e43 sa ya etadeva\u1e43 ved\u0101bhi haina\u1e43 sarv\u0101\u1e47i bh\u016bt\u0101ni sa\u1e43v\u0101\u00f1chanti || 31 ||",
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "तद्ध तद्वनं नाम तद्वनमित्युपासितव्यं स य एतदेवं वेदाभि हैनं सर्वाणि भूतानि संवाञ्छन्ति ॥ ६ ॥",
+    "transliteration": "taddha tadvanaṃ nāma tadvanamityupāsitavyaṃ sa ya etadevaṃ vedābhi hainaṃ sarvāṇi bhūtāni saṃvāñchanti || 6 ||",
     "translation": "31. The Brahman should be worshipped by all and is hence called Tadvana. As Tadvana , It must be worshipped. Who thus knows Brahman , is loved by all living beings.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तद्ध",
+        "word_english": "That [Brahman], indeed",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + ह (अव्यय · निपात)",
+        "root": "तत् + ह"
+      },
+      {
+        "word_sanskrit": "तद्वनं",
+        "word_english": "that [Brahman] is 'Vana' (the worshipful, to be sought/served)",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + वन (√वन् सम्भक्तौ) · प्रथमा·एक·नपुं",
+        "root": "तत् + वनम्"
+      },
+      {
+        "word_sanskrit": "नाम",
+        "word_english": "by name",
+        "grammar_role": "नाम (अव्यय · निपात)",
+        "root": "नाम"
+      },
+      {
+        "word_sanskrit": "तद्वनमित्युपासितव्यं",
+        "word_english": "as 'That-Vana' it is to be worshipped",
+        "grammar_role": "तद् · प्रथमा·एक·नपुं + वन · प्रथमा·एक·नपुं + इति (अव्यय) + उपासितव्य (उप-√आस्) · कृत्य · प्रथमा·एक·नपुं",
+        "root": "तत् + वनम् + इति + उपासितव्यम्"
+      },
+      {
+        "word_sanskrit": "स",
+        "word_english": "he (whoever, the worshipper)",
+        "grammar_role": "तद् · प्रथमा·एक·पुं",
+        "root": "सः"
+      },
+      {
+        "word_sanskrit": "य",
+        "word_english": "who, whoever",
+        "grammar_role": "यद् · प्रथमा·एक·पुं",
+        "root": "यः"
+      },
+      {
+        "word_sanskrit": "एतदेवं",
+        "word_english": "this (Brahman) thus, as stated",
+        "grammar_role": "एतद् · द्वितीया·एक·नपुं + एवम् (अव्यय)",
+        "root": "एतत् + एवम्"
+      },
+      {
+        "word_sanskrit": "वेदाभि",
+        "word_english": "knows/worships; abhi- (preverb of next, abhi-saṃ-)",
+        "grammar_role": "√विद् · लिट्·प्रथम·एक·परस्मैपद (वर्तमाने; छान्दस) + अभि (उपसर्ग)",
+        "root": "वेद + अभि"
+      },
+      {
+        "word_sanskrit": "हैनं",
+        "word_english": "indeed him (the worshipper)",
+        "grammar_role": "ह (अव्यय · निपात) + एनद् (इदम्-आदेशः) · द्वितीया·एक·पुं",
+        "root": "ह + एनम्"
+      },
+      {
+        "word_sanskrit": "सर्वाणि",
+        "word_english": "all",
+        "grammar_role": "सर्व · प्रथमा·बहु·नपुं",
+        "root": "सर्वाणि"
+      },
+      {
+        "word_sanskrit": "भूतानि",
+        "word_english": "beings, creatures",
+        "grammar_role": "भूत · प्रथमा·बहु·नपुं",
+        "root": "भूतानि"
+      },
+      {
+        "word_sanskrit": "संवाञ्छन्ति",
+        "word_english": "(abhi-saṃ-)long for, resort to, serve (the worshipper)",
+        "grammar_role": "(अभि) + सम् (उपसर्ग) + √वाञ्छ् · लट्·प्रथम·बहु·परस्मैपद",
+        "root": "सम् + वाञ्छन्ति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -188,14 +486,10 @@
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Vakya Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0938\u094d\u092f \u091a\u093e\u0927\u094d\u092f\u093e\u0924\u094d\u092e\u092e\u0941\u092a\u093e\u0938\u0928\u0947 \u0917\u0941\u0923\u094b \u0935\u093f\u0927\u0940\u092f\u0924\u0947 \u2014 \u0924\u0926\u094d\u0927 \u0924\u0926\u094d\u0935\u0928\u0902 \u0924\u0926\u0947\u0924\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e \u0924\u091a\u094d\u091a \u0924\u0926\u094d\u0935\u0928\u0902 \u091a \u0924\u0924\u094d \u092a\u0930\u094b\u0915\u094d\u0937\u0902 \u0935\u0928\u0902 \u0938\u092e\u094d\u092d\u091c\u0928\u0940\u092f\u092e\u094d\u00a0\u0964 \u0935\u0928\u0924\u0947\u0938\u094d\u0924\u0924\u094d\u0915\u0930\u094d\u092e\u0923\u0903\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0924\u094d\u0924\u0926\u094d\u0935\u0928\u0902 \u0928\u093e\u092e\u00a0\u0964 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u094b \u0917\u094c\u0923\u0902 \u0939\u0940\u0926\u0902 \u0928\u093e\u092e\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0926\u0928\u0947\u0928 \u0917\u0941\u0923\u0947\u0928 \u0924\u0926\u094d\u0935\u0928\u092e\u093f\u0924\u094d\u092f\u0941\u092a\u093e\u0938\u093f\u0924\u0935\u094d\u092f\u092e\u094d\u00a0\u0964 \u0938 \u092f\u0903 \u0915\u0936\u094d\u091a\u093f\u0926\u0947\u0924\u0926\u094d\u092f\u0925\u094b\u0915\u094d\u0924\u092e\u0947\u0935\u0902 \u092f\u0925\u094b\u0915\u094d\u0924\u0947\u0928 \u0917\u0941\u0923\u0947\u0928 \u0935\u0928\u092e\u093f\u0924\u094d\u092f\u0928\u0947\u0928 \u0928\u093e\u092e\u094d\u0928\u093e\u092d\u093f\u0927\u0947\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0935\u0947\u0926 \u0909\u092a\u093e\u0938\u094d\u0924\u0947 \u0924\u0938\u094d\u092f\u0948\u0924\u0924\u094d\u092b\u0932\u092e\u0941\u091a\u094d\u092f\u0924\u0947 \u2014 \u0938\u0930\u094d\u0935\u093e\u0923\u093f \u092d\u0942\u0924\u093e\u0928\u093f \u090f\u0928\u092e\u094d \u0909\u092a\u093e\u0938\u0915\u092e\u094d \u0905\u092d\u093f\u0938\u0902\u0935\u093e\u091e\u094d\u091b\u0928\u094d\u0924\u093f \u0907\u0939\u093e\u092d\u093f\u0938\u092e\u094d\u092d\u091c\u0928\u094d\u0924\u0947 \u0938\u0947\u0935\u0902\u0924\u0947 \u0938\u094d\u092e\u0947\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u092f\u0925\u093e\u0917\u0941\u0923\u094b\u092a\u093e\u0938\u0928\u0902 \u0939\u093f \u092b\u0932\u092e\u094d\u00a0\u0964"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com .\u2014\u2018 Tat \u2019 means \u2018 Brahman \u2019. \u2018 Ha \u2019 means \u2018as is well-known\u2019. \u2018 Tadvanam \u2019 is a compound of tat and vanam. It means \u2018which deserves to be worshipped as the one Atman of all living things\u2019. The Brahman is well-known as Tadvanam and should, therefore, be worshipped as Tadvana, a word denoting its virtue. \u2018Worshipped\u2019 means \u2018contemplated.\u2019 The Sruti next declares the fruit attained by one who contemplates the Brahman by this name. He who contemplates the Brahman already defined as possessed of this virtue, him (this worshipper) all living things love, i.e., pray to him as they would to Brahman.\nThus instructed, the disciple addressed the preceptor in the following manner."
+        "text": "तस्य चाध्यात्ममुपासने गुणो विधीयते — तद्ध तद्वनं तदेतद्ब्रह्म तच्च तद्वनं च तत् परोक्षं वनं सम्भजनीयम् । वनतेस्तत्कर्मणः । तस्मात्तद्वनं नाम । ब्रह्मणो गौणं हीदं नाम । तस्मादनेन गुणेन तद्वनमित्युपासितव्यम् । स यः कश्चिदेतद्यथोक्तमेवं यथोक्तेन गुणेन वनमित्यनेन नाम्नाभिधेयं ब्रह्म वेद उपास्ते तस्यैतत्फलमुच्यते — सर्वाणि भूतानि एनम् उपासकम् अभिसंवाञ्छन्ति इहाभिसम्भजन्ते सेवंते स्मेत्यर्थः । यथागुणोपासनं हि फलम् ।"
       }
     ],
     "commentary_faqs": []
@@ -206,32 +500,79 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 7,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145066.html"
+      "mantra_ref": "4.7",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0909\u092a\u0928\u093f\u0937\u0926\u0902 \u092d\u094b \u092c\u094d\u0930\u0942\u0939\u0940\u0924\u094d\u092f\u0941\u0915\u094d\u0924\u093e \u0924 \u0909\u092a\u0928\u093f\u0937\u0926\u094d\u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0940\u0902 \u0935\u093e\u0935 \u0924 \u0909\u092a\u0928\u093f\u0937\u0926\u092e\u092c\u094d\u0930\u0942\u092e\u0947\u0924\u093f \u0965 \u096d \u0965",
-    "transliteration": "upani\u1e63ada\u1e43 bho br\u016bh\u012btyukt\u0101 ta upani\u1e63adbr\u0101hm\u012b\u1e43 v\u0101va ta upani\u1e63adamabr\u016bmeti || 32 ||",
-    "translation": "32. (The disciple). (O Preceptor!) \u201cTeach me the Upanishad \u201d. (The preceptor). \u201cWe have told thee the Upanishad .\u201d We have certainly told thee the Upanishad about Brahman \u201d",
-    "word_by_word": [],
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "उपनिषदं भो ब्रूहीत्युक्ता त उपनिषद्ब्राह्मीं वाव त उपनिषदमब्रूमेति ॥ ७ ॥",
+    "transliteration": "upaniṣadaṃ bho brūhītyuktā ta upaniṣadbrāhmīṃ vāva ta upaniṣadamabrūmeti || 7 ||",
+    "translation": "32. (The disciple). (O Preceptor!) “Teach me the Upanishad ”. (The preceptor). “We have told thee the Upanishad .” We have certainly told thee the Upanishad about Brahman ”",
+    "word_by_word": [
+      {
+        "word_sanskrit": "उपनिषदं",
+        "word_english": "the upaniṣad (secret teaching) — object of ब्रूहि",
+        "grammar_role": "उपनिषद् · द्वितीया·एक·स्त्री",
+        "root": "उपनिषदम्"
+      },
+      {
+        "word_sanskrit": "भो",
+        "word_english": "O Sir! (vocative particle of address)",
+        "grammar_role": "अव्यय (सम्बोधन-निपात)",
+        "root": "भोः"
+      },
+      {
+        "word_sanskrit": "ब्रूहीत्युक्ता",
+        "word_english": "\"tell (it)\" — thus (having been addressed); she (the upaniṣad) was told (uktā = kathitā, per bhāṣya उक्तायामुपनिषदि / उक्ता कथिता)",
+        "grammar_role": "√ब्रू · लोट्·मध्यम·एक·परस्मै + अव्यय (उद्धरण) + वच् → उक्ता · प्रथमा·एक·स्त्री (कर्मणि क्तप्र.)",
+        "root": "ब्रूहि + इति + उक्ता"
+      },
+      {
+        "word_sanskrit": "त",
+        "word_english": "to you (dative; bhāṣya glosses ते तुभ्यम्)",
+        "grammar_role": "युष्मद् · चतुर्थी·एक (= तुभ्यम्)",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "उपनिषद्ब्राह्मीं",
+        "word_english": "the Brahman upaniṣad — i.e. the upaniṣad of Brahman / of the brāhmaṇa-class (bhāṣya: ब्रह्मणो ब्राह्मणजातेः उपनिषदम्) — object",
+        "grammar_role": "उपनिषद्-ब्राह्मी · द्वितीया·एक·स्त्री (ब्राह्मी = ब्रह्म-/ब्राह्मण- सम्बन्धिनी, ङीप्)",
+        "root": "उपनिषद्-ब्राह्मीम्"
+      },
+      {
+        "word_sanskrit": "वाव",
+        "word_english": "indeed, verily (emphatic particle)",
+        "grammar_role": "अव्यय (अवधारण-निपात)",
+        "root": "वाव"
+      },
+      {
+        "word_sanskrit": "त",
+        "word_english": "to you (dative; bhāṣya glosses ते तुभ्यम्)",
+        "grammar_role": "युष्मद् · चतुर्थी·एक (= तुभ्यम्)",
+        "root": "ते"
+      },
+      {
+        "word_sanskrit": "उपनिषदमब्रूमेति",
+        "word_english": "\"the (Brahman) upaniṣad we abrūma\" — thus. abrūma is past in form but future in intent (bhāṣya: अब्रूम वक्ष्याम इत्यर्थः; तस्मान्न भूताभिप्रायः): \"(this) we shall (now) tell\"",
+        "grammar_role": "उपनिषद् · द्वितीया·एक·स्त्री + √ब्रू · लङ्·उत्तम·बहु·परस्मै (रूपतः भूत, अर्थतः वक्ष्यामः — न भूताभिप्रायः) + अव्यय (उद्धरण)",
+        "root": "उपनिषदम् + अब्रूम + इति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
         "language": "english",
-        "text": "32. (The disciple). (O Preceptor!) \u201cTeach me the Upanishad \u201d. (The preceptor). \u201cWe have told thee the Upanishad .\u201d We have certainly told thee the Upanishad about Brahman \u201d"
+        "text": "32. (The disciple). (O Preceptor!) “Teach me the Upanishad ”. (The preceptor). “We have told thee the Upanishad .” We have certainly told thee the Upanishad about Brahman ”"
       }
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Vakya Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0909\u092a\u0928\u093f\u0937\u0926\u0902 \u092d\u094b \u092c\u094d\u0930\u0942\u0939\u0940\u0924\u094d\u092f\u0941\u0915\u094d\u0924\u093e\u092f\u093e\u092e\u0941\u092a\u0928\u093f\u0937\u0926\u093f \u0936\u093f\u0937\u094d\u092f\u0947\u0923\u094b\u0915\u094d\u0924 \u0906\u091a\u093e\u0930\u094d\u092f \u0906\u0939 \u2014 \u0909\u0915\u094d\u0924\u093e \u0915\u0925\u093f\u0924\u093e \u0924\u0947 \u0924\u0941\u092d\u094d\u092f\u092e\u094d \u0909\u092a\u0928\u093f\u0937\u0926\u093e\u0924\u094d\u092e\u094b\u092a\u093e\u0938\u0928\u092e\u094d\u00a0\u0964 \u0905\u0927\u0941\u0928\u093e \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0940\u0902 \u0935\u093e\u0935 \u0924\u0947 \u0924\u0941\u092d\u094d\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u094b \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923\u091c\u093e\u0924\u0947\u0903 \u0909\u092a\u0928\u093f\u0937\u0926\u092e\u094d \u0905\u092c\u094d\u0930\u0942\u092e \u0935\u0915\u094d\u0937\u094d\u092f\u093e\u092e \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0935\u0915\u094d\u0937\u094d\u092f\u0924\u093f \u0939\u093f\u00a0\u0964 \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0940 \u0928\u094b\u0915\u094d\u0924\u093e\u00a0\u0964 \u0909\u0915\u094d\u0924\u093e \u0924\u094d\u0935\u093e\u0924\u094d\u092e\u094b\u092a\u0928\u093f\u0937\u0924\u094d\u00a0\u0964 \u0924\u0938\u094d\u092e\u093e\u0928\u094d\u0928 \u092d\u0942\u0924\u093e\u092d\u093f\u092a\u094d\u0930\u093e\u092f\u094b\u093d\u092c\u094d\u0930\u0942\u092e\u0947\u0924\u094d\u092f\u092f\u0902 \u0936\u092c\u094d\u0926\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014When the disciple said \u201cO holy one! Teach me the secret that should he thought of,\u201d the preceptor replied \u201cthe Upanishad has been taught thee.\u201d \u201cWhat is that Upanishad ?\u201d The preceptor replied \u201cThe Upanishad treating of Brahman , the supreme Self, has been taught thee who excel in knowledge\u201d. The latter half is introduced for decisively asserting that the knowledge of the supreme Pramatman , the Brahman already explained, is the Upanishad. Now what is the real significance of the disciple, who has already heard, explained to him, the knowledge of the Brahman , asking the preceptor to tell him the Upanishad ? If the question was about what was already explained, then the question itself becomes redundant and meaningless like Pishtapeshana. If, however, the Upanishad had been only partially explained, then the concluding it by reciting its fruits: \u201cHaving turned away from this world they become immortal,\u201d is not reasonable. Therefore, the question, if asked about the unexplained portion of the Upanishad is also unsound, because there was no portion yet to be explained. What then is the meaning of the questioner.\nWe answer thus: The disciple meant to say:\n\u201cDoes the Upanishad already explained stand in need of anything else which should combine with it to secure the desired end, or does it not stand in need of any such thing? If it does, teach me the Upanishad about what is so required. If it does not, assert emphatically like Pippalada in the words\u2014There is nothing beyond this\u2014.\u201d\nThe preceptor\u2019s emphatical assertion, \u201cThe Upanishad has been told thee\u201d is but proper. It may be said that this cannot be construed as an emphatic assertion, as already explained, for something yet had to be said by the preceptor. It is true that the preceptor adds \u2018 Tasyi \u2019, etc., but that is not added as a portion combining with the Upanishad, already explained, in accomplishing the desired end, nor as a distinct aid for achieving the end with the Upanishad , but as something intended as a means to the acquisition of the knowledge of the Brahman ; for, tapas , etc., are apparently of the same importance with the Vedas and their supplements, being mentioned along with them. It is well known that neither the Vedas nor the supplements are the direct complements of the knowledge of the Brahman or concomitant helps to it. It is urged that it is only reasonable to assign different offices according to merit, even to many mentioned in the same breath. Just as the mantras for invoking the gods, where more than one is named, are used to perform the function of different deities according as the god to be invoked is this or that; it is urged it is to be inferred that tapas, peace, karma, truth, etc., are either complements or concomitant helps to the knowledge of Brahman, and that the Vedas and their supplements, elucidating meanings, are only helps to the knowledge of Karma and Atma. They urge that this distribution is only reasonable from the reasonableness of the applicability of their purport to this distribution. This cannot be, for it is illogical. This distinction is impossible to bring about. It is unreasonable to think that the knowledge of the Brahman, before which all notions of distinctions of deed, doer, fruit, etc., vanish, can possibly require any extraneous tiling as its complement or concomitant aid in accomplishing it. Nor can its fruit, emancipation, require any such. It is said: \u201cOne desirous of emancipation should always renounce karma and all its aids. It is only by one that so renounces that the highest place (can he reached).\nTherefore, knowledge cannot consistently with itself require karma as its concomitant help or its complement. Therefore, the distribution on the analogy of the invocation in Suktavaka is certainly unsound. Therefore, it is sound to say that the question and answer were intended only to make sure. The meaning is \u201cwhat was explained is all the Upanishad, which does not require anything else for ensuring emancipation.\u201d"
+        "text": "उपनिषदं भो ब्रूहीत्युक्तायामुपनिषदि शिष्येणोक्त आचार्य आह — उक्ता कथिता ते तुभ्यम् उपनिषदात्मोपासनम् । अधुना ब्राह्मीं वाव ते तुभ्यं ब्रह्मणो ब्राह्मणजातेः उपनिषदम् अब्रूम वक्ष्याम इत्यर्थः । वक्ष्यति हि । ब्राह्मी नोक्ता । उक्ता त्वात्मोपनिषत् । तस्मान्न भूताभिप्रायोऽब्रूमेत्ययं शब्दः ॥"
       }
     ],
     "commentary_faqs": []
@@ -242,15 +583,66 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 8,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145067.html"
+      "mantra_ref": "4.8",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u0924\u0938\u094d\u092f\u0948 \u0924\u092a\u094b \u0926\u092e\u0903 \u0915\u0930\u094d\u092e\u0947\u0924\u093f \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e \u0935\u0947\u0926\u093e\u0903 \u0938\u0930\u094d\u0935\u093e\u0919\u094d\u0917\u093e\u0928\u093f \u0938\u0924\u094d\u092f\u092e\u093e\u092f\u0924\u0928\u092e\u094d \u0965 \u096e \u0965",
-    "transliteration": "tasai tapo dama\u1e25 karmeti prati\u1e63\u1e6dh\u0101 ved\u0101\u1e25 sarv\u0101\u1e45g\u0101ni satyam\u0101yatanam || 33 ||",
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "तस्यै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि सत्यमायतनम् ॥ ८ ॥",
+    "transliteration": "tasyai tapo damaḥ karmeti pratiṣṭhā vedāḥ sarvāṅgāni satyamāyatanam || 8 ||",
     "translation": "33. Devotion, self-control and Karma are its pedestal, as also the Vedas and their supplements. Truth is its abode.",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "तस्यै",
+        "word_english": "of that (to-be-stated Upaniṣad) — dative in genitive sense",
+        "grammar_role": "तद् · चतुर्थी·एकवचन·स्त्रीलिङ्ग (षष्ठ्यर्थे)",
+        "root": "तस्यै"
+      },
+      {
+        "word_sanskrit": "तपो",
+        "word_english": "austerity (i.e. celibacy, brahmacarya, etc.)",
+        "grammar_role": "तपस् · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "तपः"
+      },
+      {
+        "word_sanskrit": "दमः",
+        "word_english": "self-control, restraint (= उपशम, tranquility)",
+        "grammar_role": "दम · प्रथमा·एकवचन·पुंलिङ्ग",
+        "root": "दमः"
+      },
+      {
+        "word_sanskrit": "कर्मेति",
+        "word_english": "action (e.g. the agnihotra), thus (these are the foundation)",
+        "grammar_role": "कर्मन् · प्रथमा·एकवचन·नपुंसकलिङ्ग + इति · अव्यय (उद्धरणे)",
+        "root": "कर्म + इति"
+      },
+      {
+        "word_sanskrit": "प्रतिष्ठा",
+        "word_english": "foundation, support, basis (āśraya)",
+        "grammar_role": "प्रतिष्ठा · प्रथमा·एकवचन·स्त्रीलिङ्ग",
+        "root": "प्रतिष्ठा"
+      },
+      {
+        "word_sanskrit": "वेदाः",
+        "word_english": "the (four) Vedas",
+        "grammar_role": "वेद · प्रथमा·बहुवचन·पुंलिङ्ग",
+        "root": "वेदाः"
+      },
+      {
+        "word_sanskrit": "सर्वाङ्गानि",
+        "word_english": "all the limbs (= all the Vedāṅgas; foundation continues here too)",
+        "grammar_role": "सर्व · प्रथमा·बहुवचन·नपुंसकलिङ्ग + अङ्ग · प्रथमा·बहुवचन·नपुंसकलिङ्ग",
+        "root": "सर्व-अङ्गानि"
+      },
+      {
+        "word_sanskrit": "सत्यमायतनम्",
+        "word_english": "truth (is) the abode/dwelling (āyatana, nivāsa)",
+        "grammar_role": "सत्य · प्रथमा·एकवचन·नपुंसकलिङ्ग + आयतन · प्रथमा·एकवचन·नपुंसकलिङ्ग",
+        "root": "सत्यम् + आयतनम्"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -260,14 +652,10 @@
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Vakya Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u0938\u094d\u092f\u0948 \u0924\u0938\u094d\u092f\u093e \u0935\u0915\u094d\u0937\u094d\u092f\u092e\u093e\u0923\u093e\u092f\u093e \u0909\u092a\u0928\u093f\u0937\u0926\u0903 \u0924\u092a\u0903 \u092c\u094d\u0930\u0939\u094d\u092e\u091a\u0930\u094d\u092f\u093e\u0926\u093f \u0926\u092e\u0903 \u0909\u092a\u0936\u092e\u0903 \u0915\u0930\u094d\u092e \u0905\u0917\u094d\u0928\u093f\u0939\u094b\u0924\u094d\u0930\u093e\u0926\u093f \u0907\u0924\u094d\u092f\u0947\u0924\u093e\u0928\u093f \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e \u0906\u0936\u094d\u0930\u092f\u0903\u00a0\u0964 \u090f\u0924\u0947\u0937\u0941 \u0939\u093f \u0938\u0924\u094d\u0938\u0941 \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u094d\u092f\u0941\u092a\u0928\u093f\u0937\u0924\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924\u093e \u092d\u0935\u0924\u093f\u00a0\u0964 \u0935\u0947\u0926\u093e\u0903 \u091a\u0924\u094d\u0935\u093e\u0930\u0903 \u0905\u0919\u094d\u0917\u093e\u0928\u093f \u091a \u0938\u0930\u094d\u0935\u093e\u0923\u093f\u00a0\u0964 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u0947\u0924\u094d\u092f\u0928\u0941\u0935\u0930\u094d\u0924\u0924\u0947\u00a0\u0964 \u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0936\u094d\u0930\u092f\u093e \u0939\u093f \u0935\u093f\u0926\u094d\u092f\u093e\u00a0\u0964 \u0938\u0924\u094d\u092f\u0902 \u092f\u0925\u093e\u092d\u0942\u0924\u0935\u091a\u0928\u092e\u092a\u0940\u0921\u093e\u0915\u0930\u092e\u094d \u0906\u092f\u0924\u0928\u0902 \u0928\u093f\u0935\u093e\u0938\u0903\u00a0\u0964 \u0938\u0924\u094d\u092f\u0935\u0924\u094d\u0938\u0941 \u0939\u093f \u0938\u0930\u094d\u0935\u0902 \u092f\u0925\u094b\u0915\u094d\u0924\u092e\u093e\u092f\u0924\u0928 \u0907\u0935\u093e\u0935\u0938\u094d\u0925\u093f\u0924\u092e\u094d \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014Of the Upanishad about Brahman which has been already taught, devotion, etc., are helps to the acquisition. \u2018 Tapas \u2019 means, \u2018control of the body, the sensory organs and the mind.\u2019 \u2018 Dama \u2019 means \u2018freedom from passions.\u2019 \u2018 Karma \u2019 is Agnihotra, etc. It has been seen that knowledge of the Brahman arises indirectly through the purification of the mind in the person, who has been refined by these. Even when Brahman is explained, those who have not been purged of their faults, either disbelieve or misbelieve in it, as in the cases of Indra , Virochana , etc. Therefore, knowledge as inculcated arises only in him who has, by tapas , etc., performed either in this birth or in many previous ones, purified his mind. The Sruti says: \u201cTo that high-souled man whose devotion to the Lord is great and whose devotion to his preceptor is as great as that to the Lord, these secrets explained become illuminated.\u201d The Smriti says: \u201cKnowledge arises in men by annihilation of sinful deeds.\u201d The word \u2018 iti \u2019 is used to show that the mention of tapas, etc., is only by way of illustration; for it will show that there are other aids than those mentioned to the acquisition of knowledge, as freedom from pride, hatred of pomp, etc. \u2018 Pratishta \u2019 means \u2018legs.\u2019 For, when they exist, knowledge is firmly seated just as a person goes about with his legs, the four Vedas, all the six supplements, i.e., Siksha , etc. The Vedas being the enlighteners of the knowledge of karma and the supplementary scriptures being intended for their protection are called \u2018legs\u2019 of the knowledge of Brahman. Or the word \u2018 Pratishta \u2019 having been construed as legs, the Vedas must be understood as all other parts of the body than the legs, such as the head, etc. In this case it should be understood that in the mention of Vedas , the Angas, siksha, etc., are in effect mentioned. When the trunk [ angi ] is mentioned, the limbs [ angas ] are included; because the limbs live in the trunk. The place where the Upanishad rests is Truth. \u2018 Satyam \u2019 (Truth) means \u2018freedom from deceit and fraud in speech, mind or deed\u2019; for knowledge seeks those who are good-natured and free from deceit and not men of the nature of the A suras and the deceitful; for, the Sruti says: \u2018Not in whom there is fraud, falsehood or deceit.\u2019 Therefore, it is said that Truth is the resting place of knowledge. The mention again of Truth as the resting place of knowledge, notwithstanding its implied mention as \u2018the leg on which knowledge stands\u2019 along with devotion, etc., is to indicate that Truth excels others as a help to knowledge; for, the Smriti says: \u201cIf a thousand Asvamedha sacrifices and Truth were weighed in the balance, one Truth spoken will outweigh the thousand sacrifices.\u201d"
+        "text": "तस्यै तस्या वक्ष्यमाणाया उपनिषदः तपः ब्रह्मचर्यादि दमः उपशमः कर्म अग्निहोत्रादि इत्येतानि प्रतिष्ठा आश्रयः । एतेषु हि सत्सु ब्राह्म्युपनिषत्प्रतिष्ठिता भवति । वेदाः चत्वारः अङ्गानि च सर्वाणि । प्रतिष्ठेत्यनुवर्तते । ब्रह्माश्रया हि विद्या । सत्यं यथाभूतवचनमपीडाकरम् आयतनं निवासः । सत्यवत्सु हि सर्वं यथोक्तमायतन इवावस्थितम् ॥"
       }
     ],
     "commentary_faqs": []
@@ -278,15 +666,78 @@
       "scripture_name": "Kena Upanishad (Vakya Bhashya)",
       "scripture_slug": "upanishad-kena-vakya",
       "chapter_slug": "chapter-4",
-      "chapter_name": "Chapter 4",
+      "chapter_name": "Khaṇḍa 4",
       "verse_number": 9,
       "chapter_number": 4,
-      "source_url": "https://www.wisdomlib.org/hinduism/book/kena-upanishad-shankara-bhashya/d/doc145068.html"
+      "mantra_ref": "4.9",
+      "source_url": ""
     },
-    "sanskrit_shloka": "\u092f\u094b \u0935\u093e \u090f\u0924\u093e\u092e\u0947\u0935\u0902 \u0935\u0947\u0926\u093e\u092a\u0939\u0924\u094d\u092f \u092a\u093e\u092a\u094d\u092e\u093e\u0928\u092e\u0928\u0928\u094d\u0924\u0947 \u0938\u094d\u0935\u0930\u094d\u0917\u0947 \u0932\u094b\u0915\u0947 \u091c\u094d\u092f\u0947\u092f\u0947 \u092a\u094d\u0930\u0924\u093f\u0924\u093f\u0937\u094d\u0920\u0924\u093f \u092a\u094d\u0930\u0924\u093f\u0924\u093f\u0937\u094d\u0920\u0924\u093f \u0965 \u096f \u0965",
-    "transliteration": "yov\u0101 et\u0101meva\u1e43 ved\u0101pahatya p\u0101pm\u0101namanante svarge loke jyeye pratiti\u1e63\u1e6dhati pratiti\u1e63\u1e6dhati || 34 ||",
+    "section_title": "Khaṇḍa 4",
+    "sanskrit_shloka": "यो वा एतामेवं वेदापहत्य पाप्मानमनन्ते स्वर्गे लोके ज्येये प्रतितिष्ठति प्रतितिष्ठति ॥ ९ ॥",
+    "transliteration": "yo vā etāmevaṃ vedāpahatya pāpmānamanante svarge loke jyeye pratitiṣṭhati pratitiṣṭhati || 9 ||",
     "translation": "34. He who knows this thus, having shaken off all sin, lives firmly seated in the endless, blissful and highest Brahman. He lives firmly seated. (34)",
-    "word_by_word": [],
+    "word_by_word": [
+      {
+        "word_sanskrit": "यो",
+        "word_english": "he who",
+        "grammar_role": "यद् · प्रथमा·एकवचन·पुंलिङ्ग (सम्बन्धवाचक सर्वनाम)",
+        "root": "यः"
+      },
+      {
+        "word_sanskrit": "वा",
+        "word_english": "indeed (emphatic particle)",
+        "grammar_role": "अव्यय (निपात — अवधारणे/समुच्चये, 'वै' इव)",
+        "root": "वा"
+      },
+      {
+        "word_sanskrit": "एतामेवं",
+        "word_english": "this (upaniṣad) + thus, rightly",
+        "grammar_role": "एतद् · द्वितीया·एकवचन·स्त्रीलिङ्ग (उपनिषदम्/ब्राह्मीं विद्याम् इति विशेष्यम्) + अव्यय (एवम् — यथावत्, प्रकारे)",
+        "root": "एताम् + एवम्"
+      },
+      {
+        "word_sanskrit": "वेदापहत्य",
+        "word_english": "knows + having struck/driven away",
+        "grammar_role": "√विद् · लिट्·प्रथमपुरुष·एकवचन·परस्मैपद (वर्तमानार्थे — 'वेद'='वेत्ति', भाष्ये अनुवर्तते अनुतिष्ठति) + अप-√हन् · ल्यबन्त (पूर्वकालिक क्रिया)",
+        "root": "वेद + अपहत्य"
+      },
+      {
+        "word_sanskrit": "पाप्मानमनन्ते",
+        "word_english": "sin (acc.) + in the endless",
+        "grammar_role": "पाप्मन् · द्वितीया·एकवचन·पुंलिङ्ग + अनन्त · सप्तमी·एकवचन·पुंलिङ्ग (लोके इति विशेष्यस्य विशेषणम्)",
+        "root": "पाप्मानम् + अनन्ते"
+      },
+      {
+        "word_sanskrit": "स्वर्गे",
+        "word_english": "in the heavenly (blissful) world",
+        "grammar_role": "स्वर्ग · सप्तमी·एकवचन·पुंलिङ्ग (लोके इति विशेष्यस्य विशेषणम्)",
+        "root": "स्वर्गे"
+      },
+      {
+        "word_sanskrit": "लोके",
+        "word_english": "in the world (here glossed as the supreme Brahman)",
+        "grammar_role": "लोक · सप्तमी·एकवचन·पुंलिङ्ग",
+        "root": "लोके"
+      },
+      {
+        "word_sanskrit": "ज्येये",
+        "word_english": "in the greatest, supreme",
+        "grammar_role": "ज्येय · सप्तमी·एकवचन·पुंलिङ्ग (लोके इति विशेष्यस्य विशेषणम्; भाष्ये महति सर्वमहत्तरे)",
+        "root": "ज्येये"
+      },
+      {
+        "word_sanskrit": "प्रतितिष्ठति",
+        "word_english": "becomes firmly established (attains Brahman)",
+        "grammar_role": "प्रति-√स्था · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "प्रतितिष्ठति"
+      },
+      {
+        "word_sanskrit": "प्रतितिष्ठति",
+        "word_english": "becomes firmly established (chapter-end repetition)",
+        "grammar_role": "प्रति-√स्था · लट्·प्रथमपुरुष·एकवचन·परस्मैपद",
+        "root": "प्रतितिष्ठति"
+      }
+    ],
     "translations": [
       {
         "author": "VedaPath English",
@@ -296,14 +747,10 @@
     ],
     "commentaries": [
       {
-        "author": "Adi Shankaracharya Bhashya",
+        "author": "Adi Shankaracharya (Vakya Bhashya)",
+        "school": "Advaita Vedanta",
         "language": "sanskrit",
-        "text": "\u0924\u093e\u092e\u0947\u0924\u093e\u0902 \u0924\u092a\u0906\u0926\u094d\u092f\u0919\u094d\u0917\u093e\u0902 \u0924\u0924\u094d\u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093e\u0902 \u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0940\u092e\u0941\u092a\u0928\u093f\u0937\u0926\u0902 \u0938\u093e\u092f\u0924\u0928\u093e\u092e\u093e\u0924\u094d\u092e\u091c\u094d\u091e\u093e\u0928\u0939\u0947\u0924\u0941\u092d\u0942\u0924\u093e\u092e\u094d \u090f\u0935\u0902 \u092f\u0925\u093e\u0935\u0924\u094d \u092f\u094b \u0935\u0947\u0926 \u0905\u0928\u0941\u0935\u0930\u094d\u0924\u0924\u0947 \u0905\u0928\u0941\u0924\u093f\u0937\u094d\u0920\u0924\u093f, \u0924\u0938\u094d\u092f\u0948\u0924\u0924\u094d\u092b\u0932\u092e\u093e\u0939 \u2014 \u0905\u092a\u0939\u0924\u094d\u092f \u092a\u093e\u092a\u094d\u092e\u093e\u0928\u092e\u094d \u0905\u092a\u0915\u094d\u0937\u092f\u094d\u092f \u0927\u0930\u094d\u092e\u093e\u0927\u0930\u094d\u092e\u093e\u0935\u093f\u0924\u094d\u092f\u0930\u094d\u0925\u0903\u00a0\u0964 \u0905\u0928\u0928\u094d\u0924\u0947 \u0905\u092a\u093e\u0930\u0947 \u0905\u0935\u093f\u0926\u094d\u092f\u092e\u093e\u0928\u093e\u0928\u094d\u0924\u0947 \u0938\u094d\u0935\u0930\u094d\u0917\u0947 \u0932\u094b\u0915\u0947 \u0938\u0941\u0916\u092a\u094d\u0930\u093e\u092f\u0947 \u0928\u093f\u0930\u094d\u0926\u0941\u0903\u0916\u093e\u0924\u094d\u092e\u0928\u093f \u092a\u0930\u0947 \u092c\u094d\u0930\u0939\u094d\u092e\u0923\u093f \u091c\u094d\u092f\u0947\u092f\u0947 \u092e\u0939\u0924\u093f \u0938\u0930\u094d\u0935\u092e\u0939\u0924\u094d\u0924\u0930\u0947 \u092a\u094d\u0930\u0924\u093f\u0924\u093f\u0937\u094d\u0920\u0924\u093f \u0938\u0930\u094d\u0935\u0935\u0947\u0926\u093e\u0928\u094d\u0924\u0935\u0947\u0926\u094d\u092f\u0902 \u092c\u094d\u0930\u0939\u094d\u092e \u0906\u0924\u094d\u092e\u0924\u094d\u0935\u0947\u0928\u093e\u0935\u0917\u092e\u094d\u092f \u0924\u0926\u0947\u0935 \u092c\u094d\u0930\u0939\u094d\u092e \u092a\u094d\u0930\u0924\u093f\u092a\u0926\u094d\u092f\u0924 \u0907\u0924\u094d\u092f\u0930\u094d\u0925\u0903 \u0965"
-      },
-      {
-        "author": "Adi Shankaracharya Bhashya (Translation)",
-        "language": "english",
-        "text": "Com. \u2014 \u2018This\u2019 means \u2018the knowledge of Brahman as explained in \u2018 keneshitam \u2019, etc., and highly eulogised in the text \u2018 Brahmaha Devebhyo ,\u2019 etc., and the source of all knowledge. Although it has been already said that by such knowledge one attains immortality, the fruit of the knowledge of Brahman is again stated at the end. \u2018Sin\u2019 means \u2018the seed of Samsara whose nature is ignorance, desire and karma \u2019 \u2018 Anante \u2019 means \u2018boundless.\u2019 \u2018 Svarye loke \u2019 means \u2018in the Brahman who is all bliss\u2019 and not \u2018in heaven because of the adjunct \u2018boundless.\u2019 It may be said that the word \u2018boundless\u2019 is used in its secondary sense. Therefore the Sruti adds: \u2018 Jyeye ,\u2019 \u2018highest of all.\u2019 The purport is that he is firmly seated in the unconditioned Brahman , i.e. , does not again revert to Samsara [worldly existence].\n\u0965 \u0907\u0924\u093f \u0915\u0947\u0928\u094b\u092a\u0928\u093f\u0937\u0926\u093f \u091a\u0924\u0941\u0930\u094d\u0925\u0903 \u0916\u0923\u094d\u0921\u0903 \u0965\n|| iti kenopani\u1e63adi caturtha\u1e25 kha\u1e47\u1e0da\u1e25 ||\nHere ends the Fourth Part.\n\u2014\u2014: o:\u2014\u2014\nThus ends the Commentary of Sri Sankara Charya.\n\u2014\u2014: o:\u2014\u2014\nThus ends the Upanishad.\n\u2014\u2014: o:\u2014\u2014"
+        "text": "तामेतां तपआद्यङ्गां तत्प्रतिष्ठां ब्राह्मीमुपनिषदं सायतनामात्मज्ञानहेतुभूताम् एवं यथावत् यो वेद अनुवर्तते अनुतिष्ठति, तस्यैतत्फलमाह — अपहत्य पाप्मानम् अपक्षय्य धर्माधर्मावित्यर्थः । अनन्ते अपारे अविद्यमानान्ते स्वर्गे लोके सुखप्राये निर्दुःखात्मनि परे ब्रह्मणि ज्येये महति सर्वमहत्तरे प्रतितिष्ठति सर्ववेदान्तवेद्यं ब्रह्म आत्मत्वेनावगम्य तदेव ब्रह्म प्रतिपद्यत इत्यर्थः ॥"
       }
     ],
     "commentary_faqs": []
