@@ -1960,5 +1960,83 @@
         "summary_hindi": "साधकों के चार भेद, योग के विघ्न, षट्चक्रों (मूलाधार, स्वाधिष्ठान, मणिपूर, अनाहत, विशुद्ध, आज्ञा) व सहस्रार का विशद ध्यान, मन्त्रयोग, नादानुसन्धान तथा समाधिस्थ राजयोग की सिद्धि।"
       }
     ]
+  },
+  {
+    "id": "adhyatma-ramayana",
+    "name": "Adhyātma Rāmāyaṇa",
+    "name_sanskrit": "अध्यात्मरामायणम्",
+    "category": "Advaita Prakarana Texts",
+    "tradition": "advaita",
+    "traditionLabel": "Advaita Vedānta",
+    "subcategory": "Advaita Puranic Epics",
+    "author": "Bhagavān Veda Vyāsa (भगवान् वेदव्यासः)",
+    "chapters_count": 65,
+    "total_verses": 4247,
+    "description": "The Adhyātma Rāmāyaṇa (part of the Brahmāṇḍa Purāṇa) is the preeminent classical Sanskrit epic unifying Ramabhakti with unconditioned Advaita Vedānta. Narrated as a sacred dialogue between Lord Shiva and Goddess Parvati, it unveils Śrī Rāma not merely as an epic hero, but as the unconditioned Para Brahman, and Sītā as Mūla-Prakṛti / Yoga-Māyā. Featuring the celebrated Rāma Hṛdaya and Rāma Gītā, this scripture serves as an indispensable compendium for the non-dual realization of Truth.",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "name": "Bālakāṇḍa",
+        "name_sanskrit": "बालकाण्डम्",
+        "name_transliterated": "Bālakāṇḍa",
+        "verses_count": 391,
+        "summary": "The advent of the Supreme Lord as Rama, the revelation of the transcendent mystery in Ramahridaya, redemption of Ahalya, bow of Shiva, and marriage with Sita as Yoga-Maya.",
+        "summary_hindi": "भगवान् श्री राम का प्राकट्य, शिव-पार्वती संवाद में रामहृदय का परम अद्वैत उपदेश, अहल्या उद्धार, धनुर्भङ्ग तथा सीता के साथ परिणय।"
+      },
+      {
+        "chapter_number": 2,
+        "name": "Ayodhyākāṇḍa",
+        "name_sanskrit": "अयोध्याकाण्डम्",
+        "name_transliterated": "Ayodhyākāṇḍa",
+        "verses_count": 729,
+        "summary": "The divine conspiracy of exile, Lakshmana's philosophical instruction on Maya, meeting with Guha, crossing the Ganga, meeting with Bharadvaja, Valmiki's ashram, and the sandals of Rama.",
+        "summary_hindi": "वनवास का दिव्य सङ्कल्प, लक्ष्मण को माया एवं विवेक का उपदेश, गुह-मिलन, भरत-मिलाप तथा पादुका-प्रदान।"
+      },
+      {
+        "chapter_number": 3,
+        "name": "Āraṇyakāṇḍa",
+        "name_sanskrit": "अरण्यकाण्डम्",
+        "name_transliterated": "Āraṇyakāṇḍa",
+        "verses_count": 516,
+        "summary": "The forest hermitage, meeting with Sage Agastya, manifestation of the illusory Maya-Sita, abduction of the reflection, destruction of Jatayu, and Shabari's ninefold devotion (Navavidha Bhakti).",
+        "summary_hindi": "दण्डकारण्य में मुनियों का दर्शन, अगस्त्य संवाद, माया-सीता का प्राकट्य, रावण द्वारा अपहरण, जटायु उद्धार एवं शबरी को नवधा भक्ति का उपदेश।"
+      },
+      {
+        "chapter_number": 4,
+        "name": "Kiṣkindhākāṇḍa",
+        "name_sanskrit": "किष्किन्धाकाण्डम्",
+        "name_transliterated": "Kiṣkindhākāṇḍa",
+        "verses_count": 560,
+        "summary": "Meeting with Hanuman and Sugriva, slaying of Vali, Tara's supreme Advaita enlightenment by Rama, rainy season contemplation, and the search for Sita.",
+        "summary_hindi": "हनुमान् व सुग्रीव मिलन, बालि वध, तारा को श्रीराम द्वारा आत्म-ज्ञान का उपदेश, चातुर्मास्य का ध्यान तथा सीता की खोज।"
+      },
+      {
+        "chapter_number": 5,
+        "name": "Sundarakāṇḍa",
+        "name_sanskrit": "सुन्दरकाण्डम्",
+        "name_transliterated": "Sundarakāṇḍa",
+        "verses_count": 327,
+        "summary": "Hanuman's oceanic leap of faith, discovery of Sita in Ashoka Vatika, delivery of the signet ring, Advaita discourse to Ravana, burning of Lanka, and report to Rama.",
+        "summary_hindi": "हनुमान् जी का समुद्र-लङ्घन, अशोक वाटिका में सीता दर्शन, रावण को तत्त्व-उपदेश, लङ्का-दहन तथा श्रीराम को सन्देश-समर्पण।"
+      },
+      {
+        "chapter_number": 6,
+        "name": "Yuddhakāṇḍa",
+        "name_sanskrit": "युद्धकाण्डम्",
+        "name_transliterated": "Yuddhakāṇḍa",
+        "verses_count": 1113,
+        "summary": "March to the ocean, Vibhishana's surrender (Sharanagati), bridging the sea, cosmic battle, fall of Kumbhakarna and Ravana, fire-ordeal and retrieval of the real Sita, and the grand coronation at Ayodhya.",
+        "summary_hindi": "सेतु-निर्माण, विभीषण शरणागति, महायुद्ध, कुम्भकर्ण व रावण का मोक्ष, माया-सीता का अग्नि-प्रवेश व वास्तविक सीता की पुनः प्राप्ति तथा भव्य राज्याभिषेक।"
+      },
+      {
+        "chapter_number": 7,
+        "name": "Uttarakāṇḍa",
+        "name_sanskrit": "उत्तरकाण्डम्",
+        "name_transliterated": "Uttarakāṇḍa",
+        "verses_count": 611,
+        "summary": "The crowning crest of Advaita: Rama Gita (definitive instruction to Lakshmana), Sita's oath, Kausalya's liberation, Kala's arrival, Lakshmana's resumption of Shesha form, and Rama's entry into the Sarayu with cosmic liberation of Ayodhya.",
+        "summary_hindi": "अद्वैत का मुकुटमणि: श्रीरामगीता (लक्ष्मण को शुद्ध ज्ञानोपदेश), कौशल्या मोक्ष, काल का आगमन, लक्ष्मण का शेष-स्वरूप तथा सरयू में श्रीराम का महाप्रस्थान।"
+      }
+    ]
   }
 ]

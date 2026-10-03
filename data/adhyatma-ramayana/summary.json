@@ -1,0 +1,596 @@
+{
+  "id": "adhyatma-ramayana",
+  "title": "Adhyātma Rāmāyaṇa",
+  "title_sanskrit": "अध्यात्मरामायणम्",
+  "category": "Advaita Puranic Epics",
+  "tradition": "advaita",
+  "author": "Bhagavān Veda Vyāsa (भगवान् वेदव्यासः)",
+  "source": "Brahmāṇḍa Purāṇa (ब्रह्माण्डपुराणान्तर्गतम्)",
+  "total_kandas": 7,
+  "total_sargas": 65,
+  "total_verses": 4247,
+  "total_events": 205,
+  "description": "The Adhyātma Rāmāyaṇa (part of the Brahmāṇḍa Purāṇa) is the preeminent classical Sanskrit epic unifying Ramabhakti with unconditioned Advaita Vedānta. Narrated as a sacred dialogue between Lord Shiva and Goddess Parvati, it unveils Śrī Rāma not merely as an epic hero, but as the unconditioned Para Brahman, and Sītā as Mūla-Prakṛti / Yoga-Māyā. Featuring the celebrated Rāma Hṛdaya and Rāma Gītā, this scripture serves as an indispensable compendium for the non-dual realization of Truth.",
+  "description_hindi": "अध्यात्मरामायण ब्रह्माण्डपुराण का वह दिव्य अङ्ग है जिसमें रामकथा के माध्यम से विशुद्ध अद्वैत वेदान्त और अनन्य भक्तियोग का अनुपम समन्वय किया गया है। भगवान् शिव और देवी पार्वती के संवाद रूप में निबद्ध यह ग्रन्थ श्रीराम को परब्रह्म और सीता को मूलप्रकृति योगमाया के रूप में उद्घाटित करता है।",
+  "high_density_highlights": [
+    {
+      "title": "Rāma Hṛdaya (रामहृदयम्)",
+      "kanda": 1,
+      "kanda_name": "Bālakāṇḍa",
+      "sarga": 1,
+      "verse_range": "1.1-1.56",
+      "segment_id": "AR-BAL-01-04",
+      "speaker": "Śrī Mahādeva (Lord Shiva)",
+      "listener": "Devī Pārvatī",
+      "doctrine": "Non-Dual Brahman, Mūla-Prakṛti, Sat-Chit-Ananda",
+      "description": "Lord Shiva reveals the esoteric essence of Rama to Parvati: Rama is the unconditioned Supreme Brahman, while Sita is Yoga-Maya creating, sustaining, and dissolving the cosmos in His presence."
+    },
+    {
+      "title": "Ahalyā Stuti (अहल्याकृत श्रीरामस्तुतिः)",
+      "kanda": 1,
+      "kanda_name": "Bālakāṇḍa",
+      "sarga": 5,
+      "verse_range": "5.43-5.63",
+      "segment_id": "AR-BAL-05-03",
+      "speaker": "Ahalyā",
+      "listener": "Śrī Rāma",
+      "doctrine": "Bhakti-Jnana-Samuccaya, Avatara-Tattva",
+      "description": "Upon being redeemed from her stony stupor by the touch of Rama's lotus feet, Ahalya offers a sublime Advaitic hymn praising Rama as the witness of all minds (Sarva-Sakshi)."
+    },
+    {
+      "title": "Lakṣmaṇa-Upadeśa (लक्ष्मणोपदेशः - मायास्वरूपम्)",
+      "kanda": 2,
+      "kanda_name": "Ayodhyākāṇḍa",
+      "sarga": 4,
+      "verse_range": "4.15-4.32",
+      "segment_id": "AR-AYO-04-02",
+      "speaker": "Śrī Rāma",
+      "listener": "Lakṣmaṇa",
+      "doctrine": "Māyā-Vāda, Adhyāsa, Atma-Viveka",
+      "description": "When Lakshmana is overcome with anger at Rama's unjust exile, Rama pacifies him with a profound discourse on the illusory nature of anger, grief, and body-identification born of Maya."
+    },
+    {
+      "title": "Navavidhā Bhakti (शबरीं प्रति नवधाभक्तिनिरूपणम्)",
+      "kanda": 3,
+      "kanda_name": "Āraṇyakāṇḍa",
+      "sarga": 10,
+      "verse_range": "10.20-10.35",
+      "segment_id": "AR-ARA-10-02",
+      "speaker": "Śrī Rāma",
+      "listener": "Śabarī",
+      "doctrine": "Navavidha Bhakti leading to Aparoksha-Jnana",
+      "description": "Rama instructs the elderly ascetic Shabari in the nine steps of devotion, establishing that sincere devotion is independent of caste, gender, or status, and naturally culminates in liberating gnosis."
+    },
+    {
+      "title": "Tārā-Prabodha (तारायै आत्मतत्त्वोपदेशः)",
+      "kanda": 4,
+      "kanda_name": "Kiṣkindhākāṇḍa",
+      "sarga": 3,
+      "verse_range": "3.16-3.32",
+      "segment_id": "AR-KIS-03-02",
+      "speaker": "Śrī Rāma",
+      "listener": "Tārā",
+      "doctrine": "Deha-Atma-Viveka, Immortal Soul vs. Mortal Frame",
+      "description": "As Tara weeps inconsolably over the slain Vali, Rama asks her: 'Whom do you mourn? The body made of five elements, or the conscious soul? The body is inert; the soul is immortal and unslain.'"
+    },
+    {
+      "title": "Vibhīṣaṇa Śaraṇāgati (विभीषणशरणागतिः)",
+      "kanda": 6,
+      "kanda_name": "Yuddhakāṇḍa",
+      "sarga": 3,
+      "verse_range": "3.1-3.25",
+      "segment_id": "AR-YUD-03-01",
+      "speaker": "Śrī Rāma & Vibhīṣaṇa",
+      "listener": "Sugriva and the Vanara Hosts",
+      "doctrine": "Paramātmā as the sole refuge (Abhaya-Pradāna)",
+      "description": "The eternal proclamation of divine sanctuary: 'Even if Ravana himself comes seeking refuge, I shall grant him protection from all fears forever.'"
+    },
+    {
+      "title": "Śrī Rāma Gītā (श्रीरामगीता - उत्तरकाण्डे पञ्चमः सर्गः)",
+      "kanda": 7,
+      "kanda_name": "Uttarakāṇḍa",
+      "sarga": 5,
+      "verse_range": "5.1-5.62",
+      "segment_id": "AR-UTT-05-02",
+      "speaker": "Śrī Rāma",
+      "listener": "Lakṣmaṇa",
+      "doctrine": "Pure Advaita Vedanta, Mahāvākya-Vicāra, Jīvanmukti",
+      "description": "The supreme philosophical crest of the epic: Rama's definitive philosophical discourse to Lakshmana expounding the identity of Jiva and Brahman, the nature of Upadhis, negation through Neti-Neti, and the nature of the Jivanmukta."
+    },
+    {
+      "title": "Kausalyā Mokṣa (कौशल्यायै मुक्तिप्रदज्ञानोपदेशः)",
+      "kanda": 7,
+      "kanda_name": "Uttarakāṇḍa",
+      "sarga": 7,
+      "verse_range": "7.49-7.84",
+      "segment_id": "AR-UTT-07-03",
+      "speaker": "Śrī Rāma",
+      "listener": "Mātā Kausalyā",
+      "doctrine": "Bhakti-Jnana-Samuccaya, Sayujya-Mukti",
+      "description": "Rama consoles his grieving mother Kausalya with the secret of cosmic surrender and non-dual contemplation, leading her to direct liberation."
+    }
+  ],
+  "kandas": [
+    {
+      "kanda_number": 1,
+      "name": "Bālakāṇḍa",
+      "name_sanskrit": "बालकाण्डम्",
+      "name_transliterated": "Bālakāṇḍa",
+      "sargas_count": 7,
+      "verses_count": 391,
+      "events_count": 41,
+      "summary": "The advent of the Supreme Lord as Rama, the revelation of the transcendent mystery in Ramahridaya, redemption of Ahalya, bow of Shiva, and marriage with Sita as Yoga-Maya.",
+      "summary_hindi": "भगवान् श्री राम का प्राकट्य, शिव-पार्वती संवाद में रामहृदय का परम अद्वैत उपदेश, अहल्या उद्धार, धनुर्भङ्ग तथा सीता के साथ परिणय।",
+      "sargas": [
+        {
+          "sarga_number": 1,
+          "title": "Ramahridaya",
+          "verse_count": 56,
+          "events_count": 6
+        },
+        {
+          "sarga_number": 2,
+          "title": "Avatar purpose and divine plan",
+          "verse_count": 32,
+          "events_count": 5
+        },
+        {
+          "sarga_number": 3,
+          "title": "Birth and childhood of Rama",
+          "verse_count": 66,
+          "events_count": 6
+        },
+        {
+          "sarga_number": 4,
+          "title": "Vishvamitra's arrival, Bala-Atibala and Tataka",
+          "verse_count": 33,
+          "events_count": 4
+        },
+        {
+          "sarga_number": 5,
+          "title": "Ahalyoddharana",
+          "verse_count": 65,
+          "events_count": 5
+        },
+        {
+          "sarga_number": 6,
+          "title": "Mithila, bow, marriage and return preparation",
+          "verse_count": 82,
+          "events_count": 8
+        },
+        {
+          "sarga_number": 7,
+          "title": "Parashurama episode and Advaita teaching",
+          "verse_count": 57,
+          "events_count": 7
+        }
+      ]
+    },
+    {
+      "kanda_number": 2,
+      "name": "Ayodhyākāṇḍa",
+      "name_sanskrit": "अयोध्याकाण्डम्",
+      "name_transliterated": "Ayodhyākāṇḍa",
+      "sargas_count": 9,
+      "verses_count": 729,
+      "events_count": 31,
+      "summary": "The divine conspiracy of exile, Lakshmana's philosophical instruction on Maya, meeting with Guha, crossing the Ganga, meeting with Bharadvaja, Valmiki's ashram, and the sandals of Rama.",
+      "summary_hindi": "वनवास का दिव्य सङ्कल्प, लक्ष्मण को माया एवं विवेक का उपदेश, गुह-मिलन, भरत-मिलाप तथा पादुका-प्रदान।",
+      "sargas": [
+        {
+          "sarga_number": 1,
+          "title": "Narada's revelation and the divine plan",
+          "verse_count": 41,
+          "events_count": 4
+        },
+        {
+          "sarga_number": 2,
+          "title": "Preparations for coronation and Manthara's poison",
+          "verse_count": 84,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 3,
+          "title": "Kaikeyi's demands and Rama's detached acceptance",
+          "verse_count": 80,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 4,
+          "title": "Rama's Advaita teaching to Lakshmana and Sita's resolve",
+          "verse_count": 87,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 5,
+          "title": "The citizens' grief, Vamadeva's revelation, and meeting Guha",
+          "verse_count": 73,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 6,
+          "title": "Karma, crossing the Ganga, and Valmiki's transformation",
+          "verse_count": 92,
+          "events_count": 4
+        },
+        {
+          "sarga_number": 7,
+          "title": "Dasharatha's death and Vasishta's Advaita consolation to Bharata",
+          "verse_count": 114,
+          "events_count": 4
+        },
+        {
+          "sarga_number": 8,
+          "title": "Bharata's refusal of the kingdom and meeting Bharadvaja",
+          "verse_count": 66,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 9,
+          "title": "Chitrakuta reunion, the Padukas, and departure to Atri's ashrama",
+          "verse_count": 92,
+          "events_count": 5
+        }
+      ]
+    },
+    {
+      "kanda_number": 3,
+      "name": "Āraṇyakāṇḍa",
+      "name_sanskrit": "अरण्यकाण्डम्",
+      "name_transliterated": "Āraṇyakāṇḍa",
+      "sargas_count": 10,
+      "verses_count": 516,
+      "events_count": 25,
+      "summary": "The forest hermitage, meeting with Sage Agastya, manifestation of the illusory Maya-Sita, abduction of the reflection, destruction of Jatayu, and Shabari's ninefold devotion (Navavidha Bhakti).",
+      "summary_hindi": "दण्डकारण्य में मुनियों का दर्शन, अगस्त्य संवाद, माया-सीता का प्राकट्य, रावण द्वारा अपहरण, जटायु उद्धार एवं शबरी को नवधा भक्ति का उपदेश।",
+      "sargas": [
+        {
+          "sarga_number": 1,
+          "title": "Departure from Atri's ashram and the Viradha encounter",
+          "verse_count": 46,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 2,
+          "title": "Sharabhanga's liberation and Sutikshna's devotion",
+          "verse_count": 41,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 3,
+          "title": "Agastya's Advaita discourse and the journey to Panchavati",
+          "verse_count": 50,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 4,
+          "title": "Settling in Panchavati and Rama's teaching on Moksha to Lakshmana",
+          "verse_count": 55,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 5,
+          "title": "Surpanakha's encounter and the annihilation of Khara",
+          "verse_count": 61,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 6,
+          "title": "Ravana's plot and Maricha's warning",
+          "verse_count": 41,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 7,
+          "title": "Maya Sita, Maricha's death, and Sita's abduction",
+          "verse_count": 66,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 8,
+          "title": "The search for Sita and Jatayu's liberation",
+          "verse_count": 56,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 9,
+          "title": "Kabandha's encounter, liberation, and Virat Purusha stotra",
+          "verse_count": 56,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 10,
+          "title": "Shabari's devotion, Navavidha Bhakti, and her liberation",
+          "verse_count": 44,
+          "events_count": 3
+        }
+      ]
+    },
+    {
+      "kanda_number": 4,
+      "name": "Kiṣkindhākāṇḍa",
+      "name_sanskrit": "किष्किन्धाकाण्डम्",
+      "name_transliterated": "Kiṣkindhākāṇḍa",
+      "sargas_count": 9,
+      "verses_count": 560,
+      "events_count": 26,
+      "summary": "Meeting with Hanuman and Sugriva, slaying of Vali, Tara's supreme Advaita enlightenment by Rama, rainy season contemplation, and the search for Sita.",
+      "summary_hindi": "हनुमान् व सुग्रीव मिलन, बालि वध, तारा को श्रीराम द्वारा आत्म-ज्ञान का उपदेश, चातुर्मास्य का ध्यान तथा सीता की खोज।",
+      "sargas": [
+        {
+          "sarga_number": 1,
+          "title": "Meeting Hanuman and the alliance with Sugriva",
+          "verse_count": 93,
+          "events_count": 5
+        },
+        {
+          "sarga_number": 2,
+          "title": "The duel with Vali and his liberation",
+          "verse_count": 71,
+          "events_count": 4
+        },
+        {
+          "sarga_number": 3,
+          "title": "Rama's Advaita consolation to Tara and the search begins",
+          "verse_count": 55,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 4,
+          "title": "The rainy season and Rama's teaching on Moksha to Lakshmana",
+          "verse_count": 54,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 5,
+          "title": "Lakshmana's anger and the mobilization of the vanara army",
+          "verse_count": 63,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 6,
+          "title": "Hanuman receives the ring and the encounter with Swayamprabha",
+          "verse_count": 84,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 7,
+          "title": "Despair at the ocean and the arrival of Sampati",
+          "verse_count": 56,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 8,
+          "title": "Sampati's backstory and the sage's teaching on the Atman",
+          "verse_count": 55,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 9,
+          "title": "Jambavan awakens Hanuman's latent divine power",
+          "verse_count": 29,
+          "events_count": 2
+        }
+      ]
+    },
+    {
+      "kanda_number": 5,
+      "name": "Sundarakāṇḍa",
+      "name_sanskrit": "सुन्दरकाण्डम्",
+      "name_transliterated": "Sundarakāṇḍa",
+      "sargas_count": 5,
+      "verses_count": 327,
+      "events_count": 22,
+      "summary": "Hanuman's oceanic leap of faith, discovery of Sita in Ashoka Vatika, delivery of the signet ring, Advaita discourse to Ravana, burning of Lanka, and report to Rama.",
+      "summary_hindi": "हनुमान् जी का समुद्र-लङ्घन, अशोक वाटिका में सीता दर्शन, रावण को तत्त्व-उपदेश, लङ्का-दहन तथा श्रीराम को सन्देश-समर्पण।",
+      "sargas": [
+        {
+          "sarga_number": 1,
+          "title": "Hanuman's leap, oceanic encounters, and arrival in Lanka",
+          "verse_count": 58,
+          "events_count": 6
+        },
+        {
+          "sarga_number": 2,
+          "title": "Search in Lanka and discovery of Sita in Ashoka Vatika",
+          "verse_count": 58,
+          "events_count": 5
+        },
+        {
+          "sarga_number": 3,
+          "title": "Hanuman's dialogue with Sita, confrontation with Ravana, and capture",
+          "verse_count": 100,
+          "events_count": 5
+        },
+        {
+          "sarga_number": 4,
+          "title": "Hanuman in Ravana's court and the burning of Lanka",
+          "verse_count": 47,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 5,
+          "title": "Hanuman's return and report to Rama",
+          "verse_count": 64,
+          "events_count": 4
+        }
+      ]
+    },
+    {
+      "kanda_number": 6,
+      "name": "Yuddhakāṇḍa",
+      "name_sanskrit": "युद्धकाण्डम्",
+      "name_transliterated": "Yuddhakāṇḍa",
+      "sargas_count": 16,
+      "verses_count": 1113,
+      "events_count": 40,
+      "summary": "March to the ocean, Vibhishana's surrender (Sharanagati), bridging the sea, cosmic battle, fall of Kumbhakarna and Ravana, fire-ordeal and retrieval of the real Sita, and the grand coronation at Ayodhya.",
+      "summary_hindi": "सेतु-निर्माण, विभीषण शरणागति, महायुद्ध, कुम्भकर्ण व रावण का मोक्ष, माया-सीता का अग्नि-प्रवेश व वास्तविक सीता की पुनः प्राप्ति तथा भव्य राज्याभिषेक।",
+      "sargas": [
+        {
+          "sarga_number": 1,
+          "title": "Hanuman's report and the march to the ocean",
+          "verse_count": 54,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 2,
+          "title": "Ravana's council and Vibhishana's counsel",
+          "verse_count": 46,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 3,
+          "title": "Vibhishana's surrender and Rama's grace",
+          "verse_count": 87,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 4,
+          "title": "Rama's appeal to the ocean and the bridge construction",
+          "verse_count": 55,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 5,
+          "title": "Shuka's espionage and Malyavan's advice",
+          "verse_count": 86,
+          "events_count": 1
+        },
+        {
+          "sarga_number": 6,
+          "title": "The first battle, Lakshmana's injury, and Kumbhakarna's awakening",
+          "verse_count": 63,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 7,
+          "title": "Kumbhakarna's battle, death, and Narada's revelation",
+          "verse_count": 70,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 8,
+          "title": "Indrajit's battle and Lakshmana's victory",
+          "verse_count": 68,
+          "events_count": 1
+        },
+        {
+          "sarga_number": 9,
+          "title": "Ravana's final battle and the Brahmastra",
+          "verse_count": 68,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 10,
+          "title": "Ravana's death, the Maya Sita revelation, and the fire ordeal",
+          "verse_count": 61,
+          "events_count": 4
+        },
+        {
+          "sarga_number": 11,
+          "title": "Agni returns Sita and the Devas' hymns of praise",
+          "verse_count": 87,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 12,
+          "title": "Return to Ayodhya and Bharata's devotion",
+          "verse_count": 84,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 13,
+          "title": "Rama's coronation and gifts to the Vanaras",
+          "verse_count": 60,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 14,
+          "title": "Bharadwaja's hymn and the journey to Ayodhya",
+          "verse_count": 100,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 15,
+          "title": "The grand coronation and Shiva's hymn",
+          "verse_count": 75,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 16,
+          "title": "Rama Rajya and the Phala Shruti",
+          "verse_count": 49,
+          "events_count": 2
+        }
+      ]
+    },
+    {
+      "kanda_number": 7,
+      "name": "Uttarakāṇḍa",
+      "name_sanskrit": "उत्तरकाण्डम्",
+      "name_transliterated": "Uttarakāṇḍa",
+      "sargas_count": 9,
+      "verses_count": 611,
+      "events_count": 20,
+      "summary": "The crowning crest of Advaita: Rama Gita (definitive instruction to Lakshmana), Sita's oath, Kausalya's liberation, Kala's arrival, Lakshmana's resumption of Shesha form, and Rama's entry into the Sarayu with cosmic liberation of Ayodhya.",
+      "summary_hindi": "अद्वैत का मुकुटमणि: श्रीरामगीता (लक्ष्मण को शुद्ध ज्ञानोपदेश), कौशल्या मोक्ष, काल का आगमन, लक्ष्मण का शेष-स्वरूप तथा सरयू में श्रीराम का महाप्रस्थान।",
+      "sargas": [
+        {
+          "sarga_number": 1,
+          "title": "Narada's revelation and Ravana's origin",
+          "verse_count": 64,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 2,
+          "title": "Ravana's tapas, boons, and conquests",
+          "verse_count": 77,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 3,
+          "title": "Vali and Sugriva's birth; Agastya's Advaita discourse",
+          "verse_count": 60,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 4,
+          "title": "Shabari's ashram and the Navavidha Bhakti",
+          "verse_count": 63,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 5,
+          "title": "Rama's teaching to Lakshmana on Moksha",
+          "verse_count": 62,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 6,
+          "title": "Shatrughna kills Lavanasura; Sita's twins and Valmiki's Ramayana",
+          "verse_count": 56,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 7,
+          "title": "Sita's oath, entry into the earth, and Kausalya's liberation",
+          "verse_count": 84,
+          "events_count": 3
+        },
+        {
+          "sarga_number": 8,
+          "title": "Kala's arrival and Lakshmana's Sayujya",
+          "verse_count": 72,
+          "events_count": 2
+        },
+        {
+          "sarga_number": 9,
+          "title": "Rama's departure, cosmic revelation, and universal liberation",
+          "verse_count": 73,
+          "events_count": 2
+        }
+      ]
+    }
+  ]
+}

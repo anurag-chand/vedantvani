@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import VerseReader from '../../components/VerseReader.astro';
+import AdhyatmaCompendium from '../../components/AdhyatmaCompendium.astro';
 import { getAllScriptures } from '../../data/scriptures';
 
 export function getStaticPaths() {
@@ -22,5 +23,9 @@ if (cleanDesc.length > 155) cleanDesc = cleanDesc.slice(0, 152) + '...';
   description={cleanDesc || `Explore ${scripture.name} with translations, commentaries, and word breakdown.`}
   hideFooter={true}
 >
-  <VerseReader scripture={scripture} />
+  {scripture.id === 'adhyatma-ramayana' ? (
+    <AdhyatmaCompendium />
+  ) : (
+    <VerseReader scripture={scripture} />
+  )}
 </Layout>

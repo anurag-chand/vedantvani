@@ -1,0 +1,2305 @@
+---
+interface Props {
+  initialKanda?: number;
+  initialSarga?: number;
+  initialEventId?: string;
+}
+
+const { initialKanda = 1, initialSarga = 1, initialEventId = 'AR-BAL-01-01' } = Astro.props;
+---
+
+<div class="adhyatma-root" id="adhyatmaCompendiumApp" data-initial-kanda={initialKanda} data-initial-sarga={initialSarga} data-initial-event={initialEventId}>
+  <!-- Top App Bar -->
+  <header class="compendium-topbar">
+    <div class="topbar-left">
+      <a href="/scriptures" class="topbar-back-btn" title="Back to Library">
+        <span>←</span>
+      </a>
+      <div class="topbar-titles">
+        <h1 class="compendium-title font-cinzel">अध्यात्मरामायणम्</h1>
+        <span class="compendium-tagline font-lora">Adhyātma Rāmāyaṇa • Non-Dual Compendium</span>
+      </div>
+    </div>
+
+    <div class="topbar-center">
+      <!-- Quick Navigation Selectors -->
+      <div class="nav-selector-pill">
+        <select id="kandaSelect" class="nav-select font-cinzel" aria-label="Select Kāṇḍa">
+          <option value="1">1. Bālakāṇḍa (बालकाण्डम्)</option>
+          <option value="2">2. Ayodhyākāṇḍa (अयोध्याकाण्डम्)</option>
+          <option value="3">3. Āraṇyakāṇḍa (अरण्यकाण्डम्)</option>
+          <option value="4">4. Kiṣkindhākāṇḍa (किष्किन्धाकाण्डम्)</option>
+          <option value="5">5. Sundarakāṇḍa (सुन्दरकाण्डम्)</option>
+          <option value="6">6. Yuddhakāṇḍa (युद्धकाण्डम्)</option>
+          <option value="7">7. Uttarakāṇḍa (उत्तरकाण्डम्)</option>
+        </select>
+        <span class="select-sep">•</span>
+        <select id="sargaSelect" class="nav-select font-cinzel" aria-label="Select Sarga">
+          <option value="1">Sarga 1</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="topbar-right">
+      <!-- Flagged Verses Review Badge Button -->
+      <button id="openFlaggedDrawerBtn" class="topbar-btn flag-btn-highlight font-cinzel" title="Review Flagged Verses">
+        <span>🚩</span>
+        <span class="flagged-count-label" id="topbarFlagCount">0 Flagged</span>
+      </button>
+
+      <!-- Key Teachings Menu -->
+      <button id="openHighlightsBtn" class="topbar-btn font-cinzel" title="Key Advaita Teachings (Rāma Gītā, Rāma Hṛdaya, etc.)">
+        <span>⭐</span>
+        <span class="btn-text-desktop">Highlights</span>
+      </button>
+
+      <!-- Dictionary Lookup Trigger -->
+      <button id="openDictBtn" class="topbar-btn dict-btn font-cinzel" title="On-Screen Dictionary Lookup">
+        <span>📖</span>
+        <span class="btn-text-desktop">Lexicon</span>
+      </button>
+
+      <!-- Event Drawer Toggle -->
+      <button id="openEventDrawerBtn" class="topbar-btn primary font-cinzel" title="Browse Sarga Events">
+        <span>📑</span>
+        <span>Events</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Compendium Workspace -->
+  <div class="compendium-workspace">
+    
+    <!-- Left Navigation Rail / Event Timeline (Desktop) -->
+    <aside class="event-rail" id="desktopEventRail">
+      <div class="rail-header">
+        <span class="rail-kanda-badge font-cinzel" id="railKandaLabel">Bālakāṇḍa</span>
+        <h3 class="rail-sarga-title font-devanagari" id="railSargaTitle">प्रथमः सर्गः • रामहृदयम्</h3>
+        <span class="rail-event-count font-lora" id="railEventCount">Loading events...</span>
+      </div>
+
+      <div class="rail-events-list" id="railEventsContainer">
+        <!-- Event item cards dynamically injected -->
+      </div>
+    </aside>
+
+    <!-- Main Content Stream Area -->
+    <main class="compendium-stream" id="mainStreamArea">
+      
+      <!-- Event Master Header Card -->
+      <section class="event-hero-card" id="activeEventCard">
+        <div class="event-header-meta">
+          <div class="event-id-group">
+            <span class="event-id-pill font-mono" id="heroEventId">AR-BAL-01-01</span>
+            <span class="event-type-pill" id="heroEventType">cosmic_theology</span>
+            <span class="event-range-pill font-cinzel" id="heroVerseRange">Verses 1.1 – 1.5</span>
+          </div>
+
+          <div class="event-nav-quick">
+            <button id="prevEventBtn" class="icon-nav-btn" title="Previous Event (←)">◀ Prev</button>
+            <button id="nextEventBtn" class="icon-nav-btn" title="Next Event (→)">Next ▶</button>
+          </div>
+        </div>
+
+        <h2 class="event-title font-cinzel" id="heroEventTitle">Loading Event...</h2>
+        
+        <p class="event-summary font-lora" id="heroEventSummary">
+          Loading narrative summary and non-dual exposition...
+        </p>
+
+        <!-- Deep Philosophical & Contextual Metadata Grid -->
+        <div class="event-metadata-grid" id="heroMetaGrid">
+          
+          <!-- Philosophy Density & Concepts -->
+          <div class="meta-card">
+            <div class="meta-card-label font-cinzel">
+              <span>🧠</span> Advaita Ontology & Concepts
+            </div>
+            <div class="meta-card-body" id="heroOntologyPills">
+              <!-- Concepts injected -->
+            </div>
+          </div>
+
+          <!-- Characters & Cosmic Principles -->
+          <div class="meta-card">
+            <div class="meta-card-label font-cinzel">
+              <span>🎭</span> Featured Characters & Cosmic Identity
+            </div>
+            <div class="meta-card-body" id="heroCharactersPills">
+              <!-- Characters injected -->
+            </div>
+          </div>
+
+          <!-- Locus, Symbolic Meaning & Dialogue Frame -->
+          <div class="meta-card meta-card-wide">
+            <div class="meta-card-label font-cinzel">
+              <span>📍</span> Setting, Allegory & Puranic Dialogue Frame
+            </div>
+            <div class="meta-card-body-horizontal font-lora" id="heroContextStrip">
+              <!-- Setting info injected -->
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- Verses Header Strip -->
+      <div class="verses-strip-header">
+        <div class="strip-left font-cinzel">
+          <span>📜</span> Sacred Verses in this Episode (<span id="eventVerseTotal">0</span> Shlokas)
+        </div>
+        <div class="strip-right font-lora">
+          <span class="hint-text">💡 Tap any Sanskrit word for definition & grammar</span>
+        </div>
+      </div>
+
+      <!-- Verses List Container -->
+      <div class="verses-stream" id="versesContainer">
+        <!-- Verse cards dynamically injected -->
+      </div>
+
+      <!-- Bottom Event Pager -->
+      <div class="event-footer-pager">
+        <button id="footerPrevBtn" class="pager-btn font-cinzel">
+          <span>← Previous Event</span>
+          <span class="pager-sub" id="footerPrevLabel">Previous Episode</span>
+        </button>
+        <button id="footerNextBtn" class="pager-btn font-cinzel">
+          <span>Next Event →</span>
+          <span class="pager-sub" id="footerNextLabel">Next Episode</span>
+        </button>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- Mobile Event Selector Drawer / Bottom Sheet -->
+  <div class="compendium-drawer-backdrop" id="eventDrawerBackdrop" aria-hidden="true">
+    <div class="compendium-drawer-panel">
+      <div class="drawer-header">
+        <h3 class="font-cinzel">Episodes in <span id="drawerSargaLabel">Current Sarga</span></h3>
+        <button id="closeDrawerBtn" class="drawer-close-btn" aria-label="Close Drawer">✕</button>
+      </div>
+      <div class="drawer-content" id="drawerEventsContainer">
+        <!-- Events injected -->
+      </div>
+    </div>
+  </div>
+
+  <!-- High-Density Key Teachings Modal -->
+  <div class="compendium-modal-backdrop" id="highlightsModal" aria-hidden="true">
+    <div class="compendium-modal-panel">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <span class="modal-icon">⭐</span>
+          <div>
+            <h3 class="font-cinzel">Crown Jewels of Adhyātma Rāmāyaṇa</h3>
+            <p class="font-lora">Celebrated philosophical hymns, dialogues, and Advaita revelations.</p>
+          </div>
+        </div>
+        <button id="closeHighlightsBtn" class="drawer-close-btn" aria-label="Close">✕</button>
+      </div>
+
+      <div class="modal-body" id="highlightsList">
+        <!-- Highlight cards injected -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Flagged Verses Review Drawer -->
+  <div class="compendium-drawer-backdrop" id="flaggedDrawer" aria-hidden="true">
+    <div class="compendium-drawer-panel">
+      <div class="drawer-header">
+        <div>
+          <h3 class="font-cinzel">🚩 Flagged Verses for Personal Review</h3>
+          <p class="font-lora" style="font-size: 0.8rem; color: var(--text-muted);">
+            Verses marked by you for re-reading, translation review, or re-generation.
+          </p>
+        </div>
+        <div class="drawer-header-actions">
+          <button id="clearAllFlagsBtn" class="text-action-btn font-cinzel" title="Clear all saved flags">Clear All</button>
+          <button id="closeFlaggedDrawerBtn" class="drawer-close-btn" aria-label="Close">✕</button>
+        </div>
+      </div>
+      <div class="drawer-content" id="flaggedVersesList">
+        <p class="font-lora" style="padding: 2rem; text-align: center; color: var(--text-muted);">
+          No verses flagged yet. While reading, click the 🚩 Flag for Review button on any verse to save it here.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Advaita Ontology Definition Modal -->
+  <div class="compendium-modal-backdrop" id="ontologyModal" aria-hidden="true">
+    <div class="compendium-modal-panel ontology-modal-panel">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <span class="modal-icon">🕉️</span>
+          <div>
+            <h3 class="font-cinzel" id="ontologyModalTerm">Advaita Ontology Concept</h3>
+            <p class="font-mono" id="ontologyModalRefId" style="font-size: 0.78rem; color: var(--saffron);">ADV-CAND-BRAHMAN</p>
+          </div>
+        </div>
+        <button id="closeOntologyModalBtn" class="drawer-close-btn" aria-label="Close">✕</button>
+      </div>
+      <div class="modal-body font-lora" id="ontologyModalBody">
+        Loading concept definition...
+      </div>
+    </div>
+  </div>
+
+  <!-- On-Screen Dictionary Drawer (132,466 terms) -->
+  <div id="onScreenDictDrawer" class="dict-drawer-backdrop" aria-hidden="true">
+    <div class="dict-drawer-panel">
+      <div class="dict-drawer-header">
+        <div class="dict-drawer-title-group">
+          <div class="dict-drawer-heading font-cinzel">
+            <span>📖</span> Śāṅkara Bhāṣya & Mūla Lexicon
+          </div>
+          <div class="dict-drawer-subheading font-cinzel">
+            132,466 Philosophical & Classical Sanskrit Terms
+          </div>
+        </div>
+        <div class="dict-drawer-actions">
+          <a href="/bhashya-dictionary" target="_blank" class="dict-full-link font-cinzel" title="Open full lexicon in new tab">
+            <span>Full Lexicon</span> ↗
+          </a>
+          <button id="closeDictDrawerBtn" class="dict-drawer-close" aria-label="Close Dictionary">✕</button>
+        </div>
+      </div>
+
+      <div class="dict-drawer-search-area">
+        <div class="dict-input-wrap">
+          <span class="dict-input-icon">🔍</span>
+          <input 
+            type="text" 
+            id="onScreenDictInput" 
+            class="dict-input font-devanagari" 
+            placeholder="Search word (Devanagari or Roman: brahman, maya, atman)..." 
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button id="clearDictInputBtn" class="dict-clear-btn" style="display: none;">✕</button>
+        </div>
+        <div class="dict-scope-pills" id="dictScopePills">
+          <button class="scope-pill active" data-scope="all">All (132k)</button>
+          <button class="scope-pill" data-scope="bhasya">Śāṅkara Bhāṣya (95k)</button>
+          <button class="scope-pill" data-scope="mula">Mūla Texts (36k)</button>
+        </div>
+      </div>
+
+      <div class="dict-drawer-content" id="dictContentScroll">
+        <div id="dictActiveEntryCard" class="dict-active-entry-card" style="display: none;"></div>
+        <div id="dictSearchResultsList" class="dict-results-list"></div>
+        <div id="dictEmptyState" class="dict-empty-state">
+          <span class="dict-empty-icon">🕉️</span>
+          <h4 class="font-cinzel">Instant Sanskrit Lexicon</h4>
+          <p class="font-lora">Click any word in the shlokas or padaccheda to inspect its root, grammar, and Śāṅkara definition.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  import { toDevanagari } from '../utils/dictionaryService';
+
+  // Global state for Adhyātma Compendium
+  let summaryData = null;
+  let ontologyData = null;
+  let currentKandaData = null;
+  let currentKandaNum = 1;
+  let currentSargaNum = 1;
+  let currentEventId = '';
+  let kandaCache = {};
+  let flaggedVerses = {};
+
+  try {
+    const rawFlags = localStorage.getItem('adhyatma_ramayana_flags');
+    if (rawFlags) flaggedVerses = JSON.parse(rawFlags);
+  } catch (e) {
+    flaggedVerses = {};
+  }
+
+  function saveFlags() {
+    try {
+      localStorage.setItem('adhyatma_ramayana_flags', JSON.stringify(flaggedVerses));
+    } catch (e) {}
+    updateFlaggedCountUI();
+  }
+
+  function updateFlaggedCountUI() {
+    const count = Object.keys(flaggedVerses).length;
+    const badge = document.getElementById('topbarFlagCount');
+    if (badge) {
+      badge.textContent = `${count} Flagged`;
+    }
+  }
+
+  async function init() {
+    const root = document.getElementById('adhyatmaCompendiumApp');
+    if (!root) return;
+
+    updateFlaggedCountUI();
+
+    // Parse URL params or fallback to attributes
+    const params = new URLSearchParams(window.location.search);
+    const pK = parseInt(params.get('k') || root.getAttribute('data-initial-kanda') || '1', 10);
+    const pS = parseInt(params.get('s') || root.getAttribute('data-initial-sarga') || '1', 10);
+    const pE = params.get('e') || root.getAttribute('data-initial-event') || '';
+
+    currentKandaNum = Math.min(Math.max(1, pK), 7);
+    currentSargaNum = pS;
+    currentEventId = pE;
+
+    setupEventListeners();
+
+    // 1. Fetch Summary & Ontology
+    try {
+      const [sumRes, ontRes] = await Promise.all([
+        fetch('/data/adhyatma-ramayana/summary.json'),
+        fetch('/data/adhyatma-ramayana/ontology.json')
+      ]);
+      summaryData = await sumRes.json();
+      ontologyData = await ontRes.json();
+      setupHighlightsModal(summaryData.high_density_highlights || []);
+    } catch (err) {
+      console.error('Error loading scripture metadata:', err);
+    }
+
+    // 2. Load Initial Kanda
+    await loadKanda(currentKandaNum, currentSargaNum, currentEventId);
+  }
+
+  async function loadKanda(kNum, targetSarga = 1, targetEventId = '') {
+    currentKandaNum = kNum;
+    
+    // Update select
+    const kSelect = document.getElementById('kandaSelect') as HTMLSelectElement;
+    if (kSelect) kSelect.value = String(kNum);
+
+    if (kandaCache[kNum]) {
+      currentKandaData = kandaCache[kNum];
+    } else {
+      try {
+        const res = await fetch(`/data/adhyatma-ramayana/kandas/kanda_${kNum}.json`);
+        currentKandaData = await res.json();
+        kandaCache[kNum] = currentKandaData;
+      } catch (err) {
+        console.error(`Failed to load Kanda ${kNum}:`, err);
+        return;
+      }
+    }
+
+    populateSargaSelect(currentKandaData, targetSarga);
+    switchSarga(targetSarga, targetEventId);
+  }
+
+  function populateSargaSelect(kData, activeSarga) {
+    const sSelect = document.getElementById('sargaSelect') as HTMLSelectElement;
+    if (!sSelect) return;
+    sSelect.innerHTML = kData.sargas.map(s => 
+      `<option value="${s.sarga_number}" ${s.sarga_number === activeSarga ? 'selected' : ''}>Sarga ${s.sarga_number}: ${s.title.slice(0, 32)}</option>`
+    ).join('');
+  }
+
+  function switchSarga(sNum, targetEventId = '') {
+    if (!currentKandaData) return;
+    const sarga = currentKandaData.sargas.find(s => s.sarga_number === sNum) || currentKandaData.sargas[0];
+    currentSargaNum = sarga.sarga_number;
+
+    const sSelect = document.getElementById('sargaSelect') as HTMLSelectElement;
+    if (sSelect) sSelect.value = String(currentSargaNum);
+
+    // Update rail & drawer headers
+    const railKanda = document.getElementById('railKandaLabel');
+    const railSarga = document.getElementById('railSargaTitle');
+    const railCount = document.getElementById('railEventCount');
+    const drawerLabel = document.getElementById('drawerSargaLabel');
+
+    if (railKanda) railKanda.textContent = `${currentKandaData.name} (${currentKandaData.name_sanskrit})`;
+    if (railSarga) railSarga.textContent = `Sarga ${sarga.sarga_number}: ${sarga.title}`;
+    if (railCount) railCount.textContent = `${sarga.events_count} Episodes • ${sarga.verse_count} Shlokas`;
+    if (drawerLabel) drawerLabel.textContent = `Sarga ${sarga.sarga_number}: ${sarga.title}`;
+
+    // Render events list in rail and drawer
+    renderEventList(sarga.events, targetEventId);
+  }
+
+  function renderEventList(events, targetEventId = '') {
+    const railContainer = document.getElementById('railEventsContainer');
+    const drawerContainer = document.getElementById('drawerEventsContainer');
+
+    let activeEvent = events.find(e => e.segment_id === targetEventId) || events[0];
+    currentEventId = activeEvent ? activeEvent.segment_id : '';
+
+    const html = events.map(e => {
+      const isActive = e.segment_id === currentEventId;
+      const density = e.philosophy?.density || 'MEDIUM';
+      const densityClass = density === 'VERY_HIGH' ? 'density-very-high' : density === 'HIGH' ? 'density-high' : 'density-med';
+
+      return `
+        <div class="rail-event-card ${isActive ? 'active' : ''}" data-event-id="${e.segment_id}" tabindex="0" role="button">
+          <div class="rec-top">
+            <span class="rec-id font-mono">${e.segment_id}</span>
+            <span class="rec-range font-cinzel">v. ${e.start_verse}–${e.end_verse}</span>
+          </div>
+          <div class="rec-title font-cinzel">${e.event?.title || 'Episode'}</div>
+          <div class="rec-bottom">
+            <span class="rec-density ${densityClass}">${density.replace('_', ' ')}</span>
+            <span class="rec-count">${e.verses?.length || (e.end_verse - e.start_verse + 1)} v.</span>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    if (railContainer) {
+      railContainer.innerHTML = html;
+      railContainer.querySelectorAll('.rail-event-card').forEach(card => {
+        card.addEventListener('click', () => {
+          const eid = card.getAttribute('data-event-id');
+          if (eid) selectEvent(eid);
+        });
+      });
+    }
+
+    if (drawerContainer) {
+      drawerContainer.innerHTML = html;
+      drawerContainer.querySelectorAll('.rail-event-card').forEach(card => {
+        card.addEventListener('click', () => {
+          const eid = card.getAttribute('data-event-id');
+          if (eid) {
+            selectEvent(eid);
+            closeEventDrawer();
+          }
+        });
+      });
+    }
+
+    if (activeEvent) {
+      renderActiveEvent(activeEvent);
+    }
+  }
+
+  function selectEvent(eventId) {
+    if (!currentKandaData) return;
+    const sarga = currentKandaData.sargas.find(s => s.sarga_number === currentSargaNum);
+    if (!sarga) return;
+
+    const event = sarga.events.find(e => e.segment_id === eventId);
+    if (!event) return;
+
+    currentEventId = eventId;
+
+    // Update active highlight in rail & drawer
+    document.querySelectorAll('.rail-event-card').forEach(c => {
+      c.classList.toggle('active', c.getAttribute('data-event-id') === eventId);
+    });
+
+    renderActiveEvent(event);
+    updateUrl();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function renderActiveEvent(eventObj) {
+    // 1. Hero Elements
+    const hId = document.getElementById('heroEventId');
+    const hType = document.getElementById('heroEventType');
+    const hRange = document.getElementById('heroVerseRange');
+    const hTitle = document.getElementById('heroEventTitle');
+    const hSummary = document.getElementById('heroEventSummary');
+    const totalEl = document.getElementById('eventVerseTotal');
+
+    if (hId) hId.textContent = eventObj.segment_id;
+    if (hType) hType.textContent = (eventObj.event?.event_type || 'epic_narrative').replace(/_/g, ' ');
+    if (hRange) hRange.textContent = `Verses ${eventObj.verse_range} • ${eventObj.verses?.length || 0} Shlokas`;
+    if (hTitle) hTitle.textContent = eventObj.event?.title || 'Episode Narrative';
+    if (hSummary) hSummary.textContent = eventObj.event?.summary || '';
+    if (totalEl) totalEl.textContent = String(eventObj.verses?.length || 0);
+
+    // 2. Ontology Chips
+    const ontContainer = document.getElementById('heroOntologyPills');
+    if (ontContainer) {
+      const refs = eventObj.philosophy?.ontology_refs || [];
+      if (refs.length === 0) {
+        ontContainer.innerHTML = '<span class="empty-pill-text">Bhakti-Jnana synthesis implicit in narrative</span>';
+      } else {
+        ontContainer.innerHTML = refs.map(r => {
+          const ontInfo = ontologyData ? ontologyData[r] : null;
+          const label = ontInfo ? ontInfo.term : r.replace('ADV-CAND-', '').replace(/_/g, ' ');
+          return `<button class="ont-chip-btn font-cinzel" data-ref="${r}" title="Click to view Advaita definition">🕉️ ${label}</button>`;
+        }).join('');
+
+        ontContainer.querySelectorAll('.ont-chip-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const r = btn.getAttribute('data-ref');
+            if (r) openOntologyModal(r);
+          });
+        });
+      }
+    }
+
+    // 3. Characters & Cosmic Mappings
+    const charContainer = document.getElementById('heroCharactersPills');
+    if (charContainer) {
+      const chars = eventObj.characters || [];
+      const mappings = eventObj.character_cosmic_mappings || [];
+      const mapDict = {};
+      mappings.forEach(m => { mapDict[m.character_name] = m.cosmic_identity; });
+
+      if (chars.length === 0) {
+        charContainer.innerHTML = '<span class="empty-pill-text">Cosmic beings & seekers</span>';
+      } else {
+        charContainer.innerHTML = chars.map(c => {
+          const principle = mapDict[c] ? ` (${mapDict[c].replace(/_/g, ' ')})` : '';
+          return `<span class="char-pill font-cinzel">👤 ${c}<small>${principle}</small></span>`;
+        }).join('');
+      }
+    }
+
+    // 4. Setting, Allegory & Context Strip
+    const ctxStrip = document.getElementById('heroContextStrip');
+    if (ctxStrip) {
+      const place = eventObj.place || 'Sacred Setting';
+      const symbolic = eventObj.place_symbolic_meaning && eventObj.place_symbolic_meaning !== 'No_Symbolic_Interpretation' 
+        ? ` • <em class="allegory-tag">Allegory: ${eventObj.place_symbolic_meaning.replace(/_/g, ' ')}</em>` 
+        : '';
+      const doctrine = eventObj.philosophy?.primary_doctrine ? ` • Doctrine: <strong>${eventObj.philosophy.primary_doctrine}</strong>` : '';
+
+      ctxStrip.innerHTML = `
+        <div class="ctx-item">
+          <strong>Locus:</strong> ${place}${symbolic}
+        </div>
+        <div class="ctx-item">
+          ${doctrine}
+        </div>
+      `;
+    }
+
+    // 5. Render Verses Stream
+    renderVersesStream(eventObj.verses || []);
+
+    // 6. Update Pager
+    updatePagerButtons();
+  }
+
+  function renderVersesStream(verses) {
+    const container = document.getElementById('versesContainer');
+    if (!container) return;
+
+    if (!verses || verses.length === 0) {
+      container.innerHTML = `<div class="empty-verses-card font-lora">No verses loaded for this episode.</div>`;
+      return;
+    }
+
+    container.innerHTML = verses.map(v => {
+      const verseKey = `${currentKandaNum}_${v.sarga_number}_${v.verse_number}`;
+      const isFlagged = Boolean(flaggedVerses[verseKey]);
+      const flagNote = isFlagged ? (flaggedVerses[verseKey].note || 'Flagged for review') : '';
+
+      const speakerInfo = v.speaker && v.speaker !== 'Unidentified_Or_None' 
+        ? `<span class="verse-speaker-tag">🗣️ ${v.speaker} ${v.listener ? `→ ${v.listener}` : ''}</span>`
+        : '';
+
+      const meterTag = v.meter && v.meter !== 'None' ? `<span class="verse-meter-tag font-mono">${v.meter}</span>` : '';
+      const stotraTag = v.stotra_name && v.stotra_name !== 'None' ? `<span class="verse-stotra-tag font-cinzel">🎼 ${v.stotra_name}</span>` : '';
+
+      // Padacheda cards
+      let padaHtml = '';
+      if (v.padacheda && v.padacheda.length > 0) {
+        padaHtml = `
+          <details class="padacheda-accordion">
+            <summary class="padacheda-summary font-cinzel">
+              <span>📖 Word-by-Word Analysis (${v.padacheda.length} words)</span>
+              <span class="acc-arrow">▾</span>
+            </summary>
+            <div class="padacheda-grid">
+              ${v.padacheda.map(pw => `
+                <div class="pada-card interactive-pada-token" data-word="${pw.sanskrit_word}">
+                  <div class="pada-word font-devanagari">${pw.sanskrit_word}</div>
+                  <div class="pada-eng font-lora">${pw.meaning_english || ''}</div>
+                  ${pw.meaning_hindi ? `<div class="pada-hin font-devanagari">${pw.meaning_hindi}</div>` : ''}
+                </div>
+              `).join('')}
+            </div>
+          </details>
+        `;
+      }
+
+      return `
+        <article class="verse-card ${isFlagged ? 'verse-flagged' : ''}" id="verseCard_${verseKey}" data-verse-key="${verseKey}">
+          <div class="verse-card-header">
+            <div class="verse-coord-badge font-cinzel">
+              ${v.verse_coordinate}
+            </div>
+
+            <div class="verse-header-tags">
+              ${speakerInfo}
+              ${meterTag}
+              ${stotraTag}
+            </div>
+
+            <div class="verse-flag-action">
+              <button class="flag-toggle-btn ${isFlagged ? 'active' : ''}" data-key="${verseKey}" title="${isFlagged ? 'Click to unflag' : 'Flag this verse for review / translation check'}">
+                <span>🚩</span>
+                <span class="flag-btn-text">${isFlagged ? 'Flagged' : 'Flag for Review'}</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Flagged Note Banner if Active -->
+          <div class="flag-note-banner ${isFlagged ? 'show' : ''}" id="flagBanner_${verseKey}">
+            <span class="flag-note-icon">⚠️</span>
+            <span class="flag-note-text" id="flagText_${verseKey}">${flagNote}</span>
+            <button class="flag-edit-btn" data-key="${verseKey}" title="Edit review note">✏️</button>
+          </div>
+
+          <!-- Sanskrit Shloka -->
+          <div class="verse-sanskrit-box font-devanagari">
+            ${formatInteractiveTokens(v.sanskrit)}
+          </div>
+
+          <!-- IAST Transliteration -->
+          <div class="verse-translit-box font-lora">
+            ${v.transliteration}
+          </div>
+
+          <!-- Flowing Translations -->
+          <div class="verse-translations-box">
+            <div class="trans-item trans-english">
+              <div class="trans-lang-label font-cinzel">English Translation</div>
+              <div class="trans-content font-lora">${v.translation_english}</div>
+            </div>
+
+            ${v.translation_hindi ? `
+              <div class="trans-item trans-hindi">
+                <div class="trans-lang-label font-cinzel">हिन्दी अनुवाद</div>
+                <div class="trans-content font-devanagari">${v.translation_hindi}</div>
+              </div>
+            ` : ''}
+          </div>
+
+          <!-- Word by word -->
+          ${padaHtml}
+
+          <!-- Theological & Sadhanic Metadata Strip -->
+          <div class="verse-theology-strip">
+            ${v.doctrine ? `<span class="theo-chip font-cinzel"><strong>Doctrine:</strong> ${v.doctrine}</span>` : ''}
+            ${v.prakriya ? `<span class="theo-chip font-cinzel"><strong>Prakriyā:</strong> ${v.prakriya}</span>` : ''}
+            ${v.sadhana_stage ? `<span class="theo-chip font-cinzel"><strong>Sādhana:</strong> ${v.sadhana_stage}</span>` : ''}
+          </div>
+        </article>
+      `;
+    }).join('');
+
+    // Attach interactive word token triggers
+    container.querySelectorAll('.shloka-word-token, .interactive-pada-token').forEach(el => {
+      el.addEventListener('click', (e) => {
+        const raw = el.getAttribute('data-word') || el.textContent;
+        const clean = (raw || '').replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+        if (clean) openDictionaryWithWord(clean);
+      });
+    });
+
+    // Attach flag buttons
+    container.querySelectorAll('.flag-toggle-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const key = btn.getAttribute('data-key');
+        if (key) toggleVerseFlag(key);
+      });
+    });
+
+    container.querySelectorAll('.flag-edit-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const key = btn.getAttribute('data-key');
+        if (key) promptEditFlag(key);
+      });
+    });
+  }
+
+  function formatInteractiveTokens(sanskritText) {
+    if (!sanskritText) return '';
+    return sanskritText.split('\n').map(line => {
+      const words = line.trim().split(/\s+/);
+      const taggedWords = words.map(w => {
+        const clean = w.replace(/[\s\u0964\u0965\.\,\-\:\;\|\!\?\'\"0-9०-९\(\)]/g, '').trim();
+        if (!clean) return w;
+        return `<span class="shloka-word-token" data-word="${clean}">${w}</span>`;
+      }).join(' ');
+      return `<div class="shloka-line">${taggedWords}</div>`;
+    }).join('');
+  }
+
+  function toggleVerseFlag(verseKey) {
+    if (flaggedVerses[verseKey]) {
+      delete flaggedVerses[verseKey];
+    } else {
+      const defaultNote = 'Translation review needed';
+      const userNote = prompt('Flag verse for review. Optional note:', defaultNote);
+      flaggedVerses[verseKey] = {
+        key: verseKey,
+        note: userNote || defaultNote,
+        timestamp: new Date().toISOString()
+      };
+    }
+    saveFlags();
+
+    // Update UI for this card
+    const card = document.getElementById(`verseCard_${verseKey}`);
+    const banner = document.getElementById(`flagBanner_${verseKey}`);
+    const textEl = document.getElementById(`flagText_${verseKey}`);
+    const btn = card?.querySelector('.flag-toggle-btn');
+
+    if (card && btn) {
+      const isFlagged = Boolean(flaggedVerses[verseKey]);
+      card.classList.toggle('verse-flagged', isFlagged);
+      btn.classList.toggle('active', isFlagged);
+      const btnText = btn.querySelector('.flag-btn-text');
+      if (btnText) btnText.textContent = isFlagged ? 'Flagged' : 'Flag for Review';
+      if (banner) banner.classList.toggle('show', isFlagged);
+      if (textEl && isFlagged) textEl.textContent = flaggedVerses[verseKey].note;
+    }
+  }
+
+  function promptEditFlag(verseKey) {
+    if (!flaggedVerses[verseKey]) return;
+    const current = flaggedVerses[verseKey].note || '';
+    const updated = prompt('Update note for this flagged verse:', current);
+    if (updated !== null) {
+      flaggedVerses[verseKey].note = updated;
+      saveFlags();
+      const textEl = document.getElementById(`flagText_${verseKey}`);
+      if (textEl) textEl.textContent = updated;
+    }
+  }
+
+  function updatePagerButtons() {
+    if (!currentKandaData) return;
+    const sarga = currentKandaData.sargas.find(s => s.sarga_number === currentSargaNum);
+    if (!sarga) return;
+
+    const events = sarga.events;
+    const curIdx = events.findIndex(e => e.segment_id === currentEventId);
+
+    const prevBtn = document.getElementById('prevEventBtn');
+    const nextBtn = document.getElementById('nextEventBtn');
+    const fPrev = document.getElementById('footerPrevBtn');
+    const fNext = document.getElementById('footerNextBtn');
+    const fPrevLabel = document.getElementById('footerPrevLabel');
+    const fNextLabel = document.getElementById('footerNextLabel');
+
+    const hasPrev = curIdx > 0;
+    const hasNext = curIdx < events.length - 1;
+
+    if (prevBtn) (prevBtn as HTMLButtonElement).disabled = !hasPrev;
+    if (nextBtn) (nextBtn as HTMLButtonElement).disabled = !hasNext;
+    if (fPrev) (fPrev as HTMLButtonElement).disabled = !hasPrev;
+    if (fNext) (fNext as HTMLButtonElement).disabled = !hasNext;
+
+    if (hasPrev && fPrevLabel) fPrevLabel.textContent = events[curIdx - 1].event?.title || 'Previous';
+    if (hasNext && fNextLabel) fNextLabel.textContent = events[curIdx + 1].event?.title || 'Next';
+  }
+
+  function goToAdjacentEvent(delta) {
+    if (!currentKandaData) return;
+    const sarga = currentKandaData.sargas.find(s => s.sarga_number === currentSargaNum);
+    if (!sarga) return;
+
+    const events = sarga.events;
+    const curIdx = events.findIndex(e => e.segment_id === currentEventId);
+    const targetIdx = curIdx + delta;
+
+    if (targetIdx >= 0 && targetIdx < events.length) {
+      selectEvent(events[targetIdx].segment_id);
+    }
+  }
+
+  function updateUrl() {
+    const url = new URL(window.location.href);
+    url.searchParams.set('k', String(currentKandaNum));
+    url.searchParams.set('s', String(currentSargaNum));
+    url.searchParams.set('e', currentEventId);
+    window.history.replaceState({}, '', url.toString());
+  }
+
+  function setupEventListeners() {
+    // Selectors
+    const kSelect = document.getElementById('kandaSelect') as HTMLSelectElement;
+    if (kSelect) {
+      kSelect.addEventListener('change', (e) => {
+        const val = parseInt((e.target as HTMLSelectElement).value, 10);
+        loadKanda(val, 1);
+      });
+    }
+
+    const sSelect = document.getElementById('sargaSelect') as HTMLSelectElement;
+    if (sSelect) {
+      sSelect.addEventListener('change', (e) => {
+        const val = parseInt((e.target as HTMLSelectElement).value, 10);
+        switchSarga(val);
+      });
+    }
+
+    // Pager buttons
+    document.getElementById('prevEventBtn')?.addEventListener('click', () => goToAdjacentEvent(-1));
+    document.getElementById('nextEventBtn')?.addEventListener('click', () => goToAdjacentEvent(1));
+    document.getElementById('footerPrevBtn')?.addEventListener('click', () => goToAdjacentEvent(-1));
+    document.getElementById('footerNextBtn')?.addEventListener('click', () => goToAdjacentEvent(1));
+
+    // Drawer triggers
+    document.getElementById('openEventDrawerBtn')?.addEventListener('click', openEventDrawer);
+    document.getElementById('closeDrawerBtn')?.addEventListener('click', closeEventDrawer);
+    document.getElementById('eventDrawerBackdrop')?.addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) closeEventDrawer();
+    });
+
+    // Highlights modal
+    document.getElementById('openHighlightsBtn')?.addEventListener('click', openHighlightsModal);
+    document.getElementById('closeHighlightsBtn')?.addEventListener('click', closeHighlightsModal);
+    document.getElementById('highlightsModal')?.addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) closeHighlightsModal();
+    });
+
+    // Flagged drawer
+    document.getElementById('openFlaggedDrawerBtn')?.addEventListener('click', openFlaggedDrawer);
+    document.getElementById('closeFlaggedDrawerBtn')?.addEventListener('click', closeFlaggedDrawer);
+    document.getElementById('flaggedDrawer')?.addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) closeFlaggedDrawer();
+    });
+
+    document.getElementById('clearAllFlagsBtn')?.addEventListener('click', () => {
+      if (confirm('Clear all flagged verses?')) {
+        flaggedVerses = {};
+        saveFlags();
+        renderFlaggedVersesList();
+        // Refresh verses stream
+        if (currentKandaData) {
+          const sarga = currentKandaData.sargas.find(s => s.sarga_number === currentSargaNum);
+          const event = sarga?.events.find(e => e.segment_id === currentEventId);
+          if (event) renderVersesStream(event.verses);
+        }
+      }
+    });
+
+    // Ontology modal
+    document.getElementById('closeOntologyModalBtn')?.addEventListener('click', closeOntologyModal);
+    document.getElementById('ontologyModal')?.addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) closeOntologyModal();
+    });
+
+    // Dictionary buttons
+    document.getElementById('openDictBtn')?.addEventListener('click', () => openDictionaryWithWord('ब्रह्म'));
+    document.getElementById('closeDictDrawerBtn')?.addEventListener('click', closeDictionary);
+    document.getElementById('onScreenDictDrawer')?.addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) closeDictionary();
+    });
+
+    // Keyboard shortcuts
+    window.addEventListener('keydown', (e) => {
+      if (['INPUT', 'TEXTAREA'].includes((e.target as HTMLElement)?.tagName)) return;
+      if (e.key === 'ArrowLeft') goToAdjacentEvent(-1);
+      if (e.key === 'ArrowRight') goToAdjacentEvent(1);
+      if (e.key === 'd' || e.key === 'D') openDictionaryWithWord('ब्रह्म');
+      if (e.key === 'Escape') {
+        closeEventDrawer();
+        closeHighlightsModal();
+        closeFlaggedDrawer();
+        closeOntologyModal();
+        closeDictionary();
+      }
+    });
+  }
+
+  function openEventDrawer() {
+    const d = document.getElementById('eventDrawerBackdrop');
+    if (d) {
+      d.classList.add('open');
+      d.setAttribute('aria-hidden', 'false');
+    }
+  }
+
+  function closeEventDrawer() {
+    const d = document.getElementById('eventDrawerBackdrop');
+    if (d) {
+      d.classList.remove('open');
+      d.setAttribute('aria-hidden', 'true');
+    }
+  }
+
+  function openHighlightsModal() {
+    const m = document.getElementById('highlightsModal');
+    if (m) {
+      m.classList.add('open');
+      m.setAttribute('aria-hidden', 'false');
+    }
+  }
+
+  function closeHighlightsModal() {
+    const m = document.getElementById('highlightsModal');
+    if (m) {
+      m.classList.remove('open');
+      m.setAttribute('aria-hidden', 'true');
+    }
+  }
+
+  function setupHighlightsModal(highlights) {
+    const container = document.getElementById('highlightsList');
+    if (!container) return;
+
+    container.innerHTML = highlights.map(h => `
+      <div class="highlight-item-card" data-kanda="${h.kanda}" data-sarga="${h.sarga}" data-event="${h.segment_id}">
+        <div class="h-top">
+          <span class="h-kanda-pill font-cinzel">${h.kanda_name} • Sarga ${h.sarga}</span>
+          <span class="h-doctrine-pill font-cinzel">${h.doctrine}</span>
+        </div>
+        <h4 class="h-title font-cinzel">${h.title}</h4>
+        <p class="h-desc font-lora">${h.description}</p>
+        <div class="h-bottom">
+          <span class="h-dialogue font-lora">🗣️ ${h.speaker} → ${h.listener}</span>
+          <button class="h-jump-btn font-cinzel">Jump to Episode →</button>
+        </div>
+      </div>
+    `).join('');
+
+    container.querySelectorAll('.highlight-item-card').forEach(card => {
+      card.addEventListener('click', async () => {
+        const k = parseInt(card.getAttribute('data-kanda') || '1', 10);
+        const s = parseInt(card.getAttribute('data-sarga') || '1', 10);
+        const e = card.getAttribute('data-event') || '';
+        closeHighlightsModal();
+        await loadKanda(k, s, e);
+      });
+    });
+  }
+
+  function openFlaggedDrawer() {
+    const d = document.getElementById('flaggedDrawer');
+    if (d) {
+      d.classList.add('open');
+      d.setAttribute('aria-hidden', 'false');
+      renderFlaggedVersesList();
+    }
+  }
+
+  function closeFlaggedDrawer() {
+    const d = document.getElementById('flaggedDrawer');
+    if (d) {
+      d.classList.remove('open');
+      d.setAttribute('aria-hidden', 'true');
+    }
+  }
+
+  function renderFlaggedVersesList() {
+    const container = document.getElementById('flaggedVersesList');
+    if (!container) return;
+
+    const keys = Object.keys(flaggedVerses);
+    if (keys.length === 0) {
+      container.innerHTML = `
+        <div class="empty-flags-box font-lora">
+          <span style="font-size: 2.5rem;">🚩</span>
+          <h4 class="font-cinzel">No Flagged Verses Yet</h4>
+          <p>Tap the <strong>🚩 Flag for Review</strong> button on any verse card to bookmark it here for personal study or translation refinement.</p>
+        </div>
+      `;
+      return;
+    }
+
+    container.innerHTML = keys.map(k => {
+      const item = flaggedVerses[k];
+      const parts = k.split('_');
+      const kNum = parts[0];
+      const sNum = parts[1];
+      const vNum = parts[2];
+      const kNames = ['', 'Bālakāṇḍa', 'Ayodhyākāṇḍa', 'Āraṇyakāṇḍa', 'Kiṣkindhākāṇḍa', 'Sundarakāṇḍa', 'Yuddhakāṇḍa', 'Uttarakāṇḍa'];
+      const dateStr = item.timestamp ? new Date(item.timestamp).toLocaleDateString() : '';
+
+      return `
+        <div class="flagged-verse-item">
+          <div class="fvi-header font-cinzel">
+            <span class="fvi-coord">${kNames[parseInt(kNum, 10)]} • Sarga ${sNum} • Verse ${vNum}</span>
+            <span class="fvi-date font-mono">${dateStr}</span>
+          </div>
+          <div class="fvi-note font-lora">
+            <strong>Note:</strong> ${item.note || 'Marked for review'}
+          </div>
+          <div class="fvi-actions">
+            <button class="fvi-jump-btn font-cinzel" data-k="${kNum}" data-s="${sNum}" data-v="${vNum}">Jump to Verse →</button>
+            <button class="fvi-remove-btn" data-key="${k}" title="Remove flag">✕</button>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    container.querySelectorAll('.fvi-jump-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const k = parseInt(btn.getAttribute('data-k') || '1', 10);
+        const s = parseInt(btn.getAttribute('data-s') || '1', 10);
+        const v = parseInt(btn.getAttribute('data-v') || '1', 10);
+        closeFlaggedDrawer();
+        
+        await loadKanda(k, s);
+        // Find which event contains verse v
+        if (currentKandaData) {
+          const sarga = currentKandaData.sargas.find(sg => sg.sarga_number === s);
+          if (sarga) {
+            const ev = sarga.events.find(e => e.start_verse <= v && v <= e.end_verse);
+            if (ev) selectEvent(ev.segment_id);
+          }
+        }
+      });
+    });
+
+    container.querySelectorAll('.fvi-remove-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const k = btn.getAttribute('data-key');
+        if (k) {
+          delete flaggedVerses[k];
+          saveFlags();
+          renderFlaggedVersesList();
+          // Update current card if visible
+          const card = document.getElementById(`verseCard_${k}`);
+          if (card) {
+            card.classList.remove('verse-flagged');
+            card.querySelector('.flag-toggle-btn')?.classList.remove('active');
+            document.getElementById(`flagBanner_${k}`)?.classList.remove('show');
+          }
+        }
+      });
+    });
+  }
+
+  function openOntologyModal(refId) {
+    const modal = document.getElementById('ontologyModal');
+    const termEl = document.getElementById('ontologyModalTerm');
+    const refEl = document.getElementById('ontologyModalRefId');
+    const bodyEl = document.getElementById('ontologyModalBody');
+
+    const ont = ontologyData ? ontologyData[refId] : null;
+    const term = ont ? ont.term : refId.replace('ADV-CAND-', '').replace(/_/g, ' ');
+    const def = ont ? ont.definition : 'Advaita metaphysical category reflecting non-dual reality, unconditioned awareness, or the play of cosmic Maya.';
+
+    if (termEl) termEl.textContent = term;
+    if (refEl) refEl.textContent = refId;
+    if (bodyEl) {
+      bodyEl.innerHTML = `
+        <div class="ontology-def-card">
+          <h4>Philosophical Definition in Advaita Vedānta</h4>
+          <p>${def}</p>
+        </div>
+      `;
+    }
+
+    if (modal) {
+      modal.classList.add('open');
+      modal.setAttribute('aria-hidden', 'false');
+    }
+  }
+
+  function closeOntologyModal() {
+    const modal = document.getElementById('ontologyModal');
+    if (modal) {
+      modal.classList.remove('open');
+      modal.setAttribute('aria-hidden', 'true');
+    }
+  }
+
+  // Dictionary Drawer Integration
+  function openDictionaryWithWord(word) {
+    const drawer = document.getElementById('onScreenDictDrawer');
+    const input = document.getElementById('onScreenDictInput') as HTMLInputElement;
+    if (drawer) {
+      drawer.classList.add('open');
+      drawer.setAttribute('aria-hidden', 'false');
+    }
+    if (input) {
+      input.value = word;
+      performDictLookup(word);
+    }
+  }
+
+  function closeDictionary() {
+    const drawer = document.getElementById('onScreenDictDrawer');
+    if (drawer) {
+      drawer.classList.remove('open');
+      drawer.setAttribute('aria-hidden', 'true');
+    }
+  }
+
+  async function performDictLookup(term) {
+    const cleanWord = (term || '').trim();
+    if (!cleanWord) return;
+
+    const devaWord = toDevanagari(cleanWord);
+    const activeCard = document.getElementById('dictActiveEntryCard');
+    const emptyState = document.getElementById('dictEmptyState');
+
+    if (activeCard) {
+      activeCard.style.display = 'block';
+      activeCard.innerHTML = `
+        <div class="dict-loading-wrap">
+          <div class="dict-spinner"></div>
+          <p class="font-lora">Querying lexicon for "${devaWord}"...</p>
+        </div>
+      `;
+    }
+    if (emptyState) emptyState.style.display = 'none';
+
+    try {
+      const workerUrl = 'https://vedantvani-dict-worker.anuragchand88.workers.dev';
+      const res = await fetch(`${workerUrl}/api/dict/word?term=${encodeURIComponent(devaWord)}&scope=all`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+
+      if (data && data.success && data.result) {
+        renderDictEntry(data.result);
+      } else {
+        renderDictNotFound(devaWord);
+      }
+    } catch (err) {
+      renderDictNotFound(devaWord);
+    }
+  }
+
+  function renderDictEntry(entry) {
+    const card = document.getElementById('dictActiveEntryCard');
+    if (!card) return;
+
+    card.style.display = 'block';
+    card.innerHTML = `
+      <div class="dict-card-surface-row">
+        <span class="dict-card-surface font-devanagari">${entry.surface}</span>
+        <span class="dict-card-source-tag font-cinzel">${entry.source === 'bhasya' ? 'Śāṅkara Bhāṣya' : 'Mūla Lexicon'}</span>
+      </div>
+      ${entry.padaccheda ? `<div class="dict-card-padaccheda font-devanagari"><strong>Padaccheda:</strong> ${entry.padaccheda}</div>` : ''}
+      ${entry.grammar ? `<div class="dict-card-grammar font-mono">${entry.grammar}</div>` : ''}
+      <div class="dict-card-meaning font-lora">${entry.meaning_en || 'Meaning indexed in lexicon.'}</div>
+    `;
+  }
+
+  function renderDictNotFound(term) {
+    const card = document.getElementById('dictActiveEntryCard');
+    if (!card) return;
+    card.style.display = 'block';
+    card.innerHTML = `
+      <div class="dict-not-found">
+        <h4>No exact definition found for "${term}"</h4>
+        <p class="font-lora">Try searching the root form or check transliteration.</p>
+      </div>
+    `;
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+</script>
+
+<style>
+  /* Adhyātma Compendium Comprehensive Styles */
+  :root {
+    --comp-gold: #d4af37;
+    --comp-saffron: #f26f22;
+    --comp-border: rgba(242, 111, 34, 0.22);
+  }
+
+  .adhyatma-root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-surface-elevated, #0d0f12);
+    color: var(--text-primary, #e2e8f0);
+  }
+
+  /* Topbar */
+  .compendium-topbar {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    height: 64px;
+    background: rgba(13, 15, 18, 0.94);
+    backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--comp-border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1.25rem;
+    gap: 1rem;
+  }
+
+  .topbar-left {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    min-width: 0;
+  }
+
+  .topbar-back-btn {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: all 0.2s ease;
+  }
+  .topbar-back-btn:hover {
+    background: var(--comp-saffron);
+    color: #fff;
+    border-color: var(--comp-saffron);
+  }
+
+  .topbar-titles {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  .compendium-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--comp-gold);
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .compendium-tagline {
+    font-size: 0.75rem;
+    color: var(--text-muted, #94a3b8);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* Selectors */
+  .topbar-center {
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-selector-pill {
+    display: inline-flex;
+    align-items: center;
+    background: rgba(242, 111, 34, 0.08);
+    border: 1px solid var(--comp-border);
+    border-radius: 9999px;
+    padding: 0.25rem 0.75rem;
+    gap: 0.5rem;
+  }
+
+  .nav-select {
+    background: transparent;
+    border: none;
+    color: var(--text-primary);
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+  }
+  .nav-select option {
+    background: #1a1e24;
+    color: #fff;
+  }
+  .select-sep {
+    color: var(--comp-saffron);
+    opacity: 0.5;
+  }
+
+  /* Topbar Right Buttons */
+  .topbar-right {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .topbar-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    color: var(--text-primary);
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .topbar-btn:hover {
+    background: rgba(242, 111, 34, 0.15);
+    border-color: var(--comp-saffron);
+    color: var(--comp-saffron);
+  }
+  .topbar-btn.primary {
+    background: var(--comp-saffron);
+    color: #fff;
+    border-color: var(--comp-saffron);
+  }
+  .topbar-btn.primary:hover {
+    background: #e05e10;
+    box-shadow: 0 0 12px rgba(242, 111, 34, 0.4);
+  }
+  .flag-btn-highlight {
+    background: rgba(212, 175, 55, 0.12) !important;
+    border-color: rgba(212, 175, 55, 0.4) !important;
+    color: var(--comp-gold) !important;
+  }
+  .flag-btn-highlight:hover {
+    background: var(--comp-gold) !important;
+    color: #000 !important;
+  }
+
+  /* Workspace Layout */
+  .compendium-workspace {
+    flex: 1;
+    display: flex;
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  /* Left Rail */
+  .event-rail {
+    width: 380px;
+    flex-shrink: 0;
+    border-right: 1px solid var(--comp-border);
+    background: rgba(13, 15, 18, 0.6);
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 64px);
+    position: sticky;
+    top: 64px;
+  }
+
+  .rail-header {
+    padding: 1.25rem 1.25rem 1rem 1.25rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .rail-kanda-badge {
+    font-size: 0.72rem;
+    color: var(--comp-saffron);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+  .rail-sarga-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 0.25rem 0;
+  }
+  .rail-event-count {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+  }
+
+  .rail-events-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .rail-event-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 0.85rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .rail-event-card:hover {
+    background: rgba(242, 111, 34, 0.08);
+    border-color: rgba(242, 111, 34, 0.35);
+  }
+  .rail-event-card.active {
+    background: rgba(242, 111, 34, 0.16);
+    border-color: var(--comp-saffron);
+    box-shadow: 0 0 15px rgba(242, 111, 34, 0.2);
+  }
+  .rec-top {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    margin-bottom: 0.35rem;
+  }
+  .rec-id {
+    color: var(--comp-saffron);
+    font-weight: 700;
+  }
+  .rec-range {
+    color: var(--comp-gold);
+  }
+  .rec-title {
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.35;
+    margin-bottom: 0.5rem;
+  }
+  .rec-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.72rem;
+  }
+  .rec-density {
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .density-very-high {
+    background: rgba(212, 175, 55, 0.2);
+    color: var(--comp-gold);
+    border: 1px solid var(--comp-gold);
+  }
+  .density-high {
+    background: rgba(242, 111, 34, 0.2);
+    color: var(--comp-saffron);
+    border: 1px solid var(--comp-saffron);
+  }
+  .density-med {
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--text-muted);
+  }
+  .rec-count {
+    color: var(--text-muted);
+  }
+
+  /* Main Stream */
+  .compendium-stream {
+    flex: 1;
+    min-width: 0;
+    padding: 1.5rem 2rem 4rem 2rem;
+  }
+
+  /* Event Hero Card */
+  .event-hero-card {
+    background: linear-gradient(145deg, rgba(26, 30, 36, 0.9), rgba(15, 18, 22, 0.95));
+    border: 1px solid var(--comp-border);
+    border-radius: 12px;
+    padding: 1.75rem 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+  }
+  .event-header-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+  .event-id-group {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+  }
+  .event-id-pill {
+    background: var(--comp-saffron);
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+  }
+  .event-type-pill {
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    text-transform: capitalize;
+  }
+  .event-range-pill {
+    background: rgba(212, 175, 55, 0.15);
+    color: var(--comp-gold);
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 0.2rem 0.65rem;
+    border-radius: 4px;
+    border: 1px solid rgba(212, 175, 55, 0.35);
+  }
+  .event-nav-quick {
+    display: flex;
+    gap: 0.4rem;
+  }
+  .icon-nav-btn {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: var(--text-primary);
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 0.35rem 0.75rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .icon-nav-btn:hover:not(:disabled) {
+    background: var(--comp-saffron);
+    color: #fff;
+    border-color: var(--comp-saffron);
+  }
+  .icon-nav-btn:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+  }
+
+  .event-title {
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 1rem 0;
+    line-height: 1.25;
+  }
+  .event-summary {
+    font-size: 1.08rem;
+    line-height: 1.7;
+    color: rgba(226, 232, 240, 0.95);
+    margin: 0 0 1.5rem 0;
+    border-left: 3px solid var(--comp-saffron);
+    padding-left: 1.25rem;
+  }
+
+  /* Metadata Grid */
+  .event-metadata-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    margin-top: 1.5rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .meta-card-wide {
+    grid-column: 1 / -1;
+  }
+  .meta-card {
+    background: rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  .meta-card-label {
+    font-size: 0.78rem;
+    color: var(--comp-gold);
+    margin-bottom: 0.6rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .meta-card-body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .ont-chip-btn {
+    background: rgba(212, 175, 55, 0.1);
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    color: var(--comp-gold);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.3rem 0.7rem;
+    border-radius: 9999px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .ont-chip-btn:hover {
+    background: var(--comp-gold);
+    color: #000;
+  }
+  .char-pill {
+    background: rgba(242, 111, 34, 0.1);
+    border: 1px solid rgba(242, 111, 34, 0.25);
+    color: var(--text-primary);
+    font-size: 0.75rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 9999px;
+  }
+  .char-pill small {
+    color: var(--comp-saffron);
+    font-weight: 700;
+  }
+  .meta-card-body-horizontal {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    flex-wrap: wrap;
+  }
+  .allegory-tag {
+    color: var(--comp-gold);
+  }
+
+  /* Verses Strip Header */
+  .verses-strip-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--comp-border);
+  }
+  .strip-left {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--comp-gold);
+  }
+  .strip-right {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  /* Verse Cards Stream */
+  .verses-stream {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .verse-card {
+    background: rgba(18, 21, 26, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 12px;
+    padding: 1.75rem;
+    transition: all 0.2s ease;
+  }
+  .verse-card:hover {
+    border-color: rgba(242, 111, 34, 0.3);
+  }
+  .verse-card.verse-flagged {
+    border-color: #f59e0b;
+    box-shadow: 0 0 20px rgba(245, 158, 11, 0.15);
+  }
+
+  .verse-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.25rem;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .verse-coord-badge {
+    color: var(--comp-saffron);
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+  .verse-header-tags {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+  }
+  .verse-speaker-tag {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+    font-size: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+  }
+  .verse-meter-tag {
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-muted);
+    font-size: 0.72rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+  }
+  .verse-stotra-tag {
+    background: rgba(212, 175, 55, 0.15);
+    color: var(--comp-gold);
+    font-size: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+  }
+
+  /* Flag Button */
+  .flag-toggle-btn {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 6px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    transition: all 0.2s;
+  }
+  .flag-toggle-btn:hover {
+    border-color: #f59e0b;
+    color: #f59e0b;
+  }
+  .flag-toggle-btn.active {
+    background: rgba(245, 158, 11, 0.18);
+    border-color: #f59e0b;
+    color: #fbbf24;
+    font-weight: 700;
+  }
+
+  .flag-note-banner {
+    display: none;
+    background: rgba(245, 158, 11, 0.12);
+    border: 1px dashed rgba(245, 158, 11, 0.4);
+    border-radius: 6px;
+    padding: 0.5rem 0.85rem;
+    margin-bottom: 1.25rem;
+    font-size: 0.85rem;
+    color: #fbbf24;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .flag-note-banner.show {
+    display: flex;
+  }
+  .flag-edit-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+  }
+
+  /* Shloka & Translit */
+  .verse-sanskrit-box {
+    font-size: 1.45rem;
+    line-height: 1.95;
+    color: #fff;
+    margin-bottom: 1rem;
+    letter-spacing: 0.02em;
+  }
+  .shloka-line {
+    margin-bottom: 0.4rem;
+  }
+  .shloka-word-token {
+    display: inline-block;
+    cursor: pointer;
+    padding: 0.05rem 0.2rem;
+    border-radius: 4px;
+    transition: all 0.15s;
+  }
+  .shloka-word-token:hover {
+    background: rgba(242, 111, 34, 0.25);
+    color: #ff9d54;
+  }
+
+  .verse-translit-box {
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: rgba(212, 175, 55, 0.9);
+    font-style: italic;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.08);
+  }
+
+  /* Translations */
+  .verse-translations-box {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  .trans-item {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+  }
+  .trans-lang-label {
+    font-size: 0.74rem;
+    color: var(--comp-saffron);
+    margin-bottom: 0.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .trans-content {
+    font-size: 1.02rem;
+    line-height: 1.7;
+    color: #e2e8f0;
+  }
+
+  /* Padacheda Accordion */
+  .padacheda-accordion {
+    background: rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 8px;
+    margin-bottom: 1.25rem;
+    overflow: hidden;
+  }
+  .padacheda-summary {
+    padding: 0.75rem 1.25rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--comp-gold);
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .padacheda-summary:hover {
+    background: rgba(212, 175, 55, 0.05);
+  }
+  .padacheda-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.6rem;
+    padding: 1rem 1.25rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .pada-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 6px;
+    padding: 0.6rem 0.75rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .pada-card:hover {
+    background: rgba(242, 111, 34, 0.15);
+    border-color: var(--comp-saffron);
+  }
+  .pada-word {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0.2rem;
+  }
+  .pada-eng {
+    font-size: 0.82rem;
+    color: var(--comp-gold);
+    line-height: 1.35;
+  }
+  .pada-hin {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 0.2rem;
+  }
+
+  /* Verse Theology Strip */
+  .verse-theology-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+  .theo-chip {
+    font-size: 0.74rem;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    color: var(--text-muted);
+  }
+  .theo-chip strong {
+    color: var(--comp-saffron);
+  }
+
+  /* Footer Pager */
+  .event-footer-pager {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--comp-border);
+  }
+  .pager-btn {
+    flex: 1;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    color: #fff;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s;
+  }
+  .pager-btn:last-child {
+    text-align: right;
+  }
+  .pager-btn:hover:not(:disabled) {
+    background: rgba(242, 111, 34, 0.15);
+    border-color: var(--comp-saffron);
+    color: var(--comp-saffron);
+  }
+  .pager-btn:disabled {
+    opacity: 0.25;
+    cursor: not-allowed;
+  }
+  .pager-sub {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  /* Drawers & Modals */
+  .compendium-drawer-backdrop,
+  .compendium-modal-backdrop,
+  .dict-drawer-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(8px);
+    display: none;
+    align-items: center;
+    justify-content: center;
+  }
+  .compendium-drawer-backdrop.open,
+  .compendium-modal-backdrop.open,
+  .dict-drawer-backdrop.open {
+    display: flex;
+  }
+
+  .compendium-drawer-panel {
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 480px;
+    max-width: 90vw;
+    background: #14171d;
+    border-left: 1px solid var(--comp-border);
+    display: flex;
+    flex-direction: column;
+    box-shadow: -10px 0 40px rgba(0, 0, 0, 0.6);
+  }
+
+  .compendium-modal-panel {
+    width: 800px;
+    max-width: 90vw;
+    max-height: 85vh;
+    background: #14171d;
+    border: 1px solid var(--comp-border);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.7);
+    overflow: hidden;
+  }
+
+  .drawer-header, .modal-header {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .drawer-header h3, .modal-header h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: var(--comp-gold);
+  }
+  .drawer-close-btn, .dict-drawer-close {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.25rem;
+    cursor: pointer;
+    padding: 0.4rem;
+  }
+  .drawer-close-btn:hover, .dict-drawer-close:hover {
+    color: #fff;
+  }
+
+  .drawer-content, .modal-body {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+
+  /* Highlights Cards */
+  .highlight-item-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 1.25rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .highlight-item-card:hover {
+    background: rgba(242, 111, 34, 0.1);
+    border-color: var(--comp-saffron);
+  }
+  .h-top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    font-size: 0.75rem;
+  }
+  .h-kanda-pill {
+    color: var(--comp-saffron);
+    font-weight: 700;
+  }
+  .h-doctrine-pill {
+    color: var(--comp-gold);
+  }
+  .h-title {
+    font-size: 1.2rem;
+    color: #fff;
+    margin: 0 0 0.5rem 0;
+  }
+  .h-desc {
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    line-height: 1.55;
+    margin: 0 0 1rem 0;
+  }
+  .h-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .h-dialogue {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+  .h-jump-btn {
+    background: var(--comp-saffron);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  /* Flagged items in drawer */
+  .flagged-verse-item {
+    background: rgba(245, 158, 11, 0.06);
+    border: 1px solid rgba(245, 158, 11, 0.25);
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  .fvi-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.82rem;
+    margin-bottom: 0.4rem;
+  }
+  .fvi-coord {
+    color: #fbbf24;
+    font-weight: 700;
+  }
+  .fvi-date {
+    color: var(--text-muted);
+    font-size: 0.75rem;
+  }
+  .fvi-note {
+    font-size: 0.9rem;
+    color: #fff;
+    margin-bottom: 0.75rem;
+  }
+  .fvi-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  .fvi-jump-btn {
+    background: rgba(245, 158, 11, 0.2);
+    border: 1px solid #f59e0b;
+    color: #fbbf24;
+    padding: 0.35rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    cursor: pointer;
+  }
+  .fvi-remove-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 1rem;
+  }
+
+  /* Ontology Definition Card */
+  .ontology-def-card h4 {
+    color: var(--comp-gold);
+    font-size: 1.1rem;
+    margin: 0 0 0.75rem 0;
+  }
+  .ontology-def-card p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: #e2e8f0;
+  }
+
+  /* On Screen Dictionary Drawer */
+  .dict-drawer-panel {
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 480px;
+    max-width: 90vw;
+    background: #14171d;
+    border-left: 1px solid var(--comp-border);
+    display: flex;
+    flex-direction: column;
+    box-shadow: -10px 0 40px rgba(0, 0, 0, 0.6);
+  }
+  .dict-drawer-header {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .dict-drawer-heading {
+    color: var(--comp-saffron);
+    font-weight: 700;
+    font-size: 1.05rem;
+  }
+  .dict-drawer-subheading {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+  }
+  .dict-full-link {
+    font-size: 0.78rem;
+    color: var(--comp-gold);
+    text-decoration: none;
+    margin-right: 0.5rem;
+  }
+  .dict-drawer-search-area {
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .dict-input-wrap {
+    display: flex;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    padding: 0.4rem 0.8rem;
+    gap: 0.5rem;
+  }
+  .dict-input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-size: 1.05rem;
+    outline: none;
+  }
+  .dict-scope-pills {
+    display: flex;
+    gap: 0.4rem;
+    margin-top: 0.6rem;
+  }
+  .scope-pill {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: var(--text-muted);
+    font-size: 0.72rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .scope-pill.active {
+    background: var(--comp-saffron);
+    color: #fff;
+    border-color: var(--comp-saffron);
+  }
+  .dict-drawer-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1.25rem;
+  }
+  .dict-active-entry-card {
+    background: rgba(242, 111, 34, 0.08);
+    border: 1px solid var(--comp-border);
+    border-radius: 8px;
+    padding: 1.25rem;
+  }
+  .dict-card-surface {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #fff;
+  }
+  .dict-card-source-tag {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    background: rgba(212, 175, 55, 0.2);
+    color: var(--comp-gold);
+    margin-left: auto;
+  }
+  .dict-card-surface-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.6rem;
+  }
+  .dict-card-padaccheda {
+    font-size: 1.1rem;
+    color: var(--comp-saffron);
+    margin-bottom: 0.4rem;
+  }
+  .dict-card-grammar {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 0.8rem;
+  }
+  .dict-card-meaning {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: #e2e8f0;
+  }
+  .dict-empty-state {
+    text-align: center;
+    padding: 3rem 1.5rem;
+    color: var(--text-muted);
+  }
+  .dict-empty-icon {
+    font-size: 3rem;
+    display: block;
+    margin-bottom: 1rem;
+    opacity: 0.5;
+  }
+
+  /* Responsive Adjustments */
+  @media (max-width: 1024px) {
+    .event-rail {
+      display: none;
+    }
+    .compendium-stream {
+      padding: 1rem;
+    }
+    .btn-text-desktop {
+      display: none;
+    }
+    .event-metadata-grid {
+      grid-template-columns: 1fr;
+    }
+    .event-title {
+      font-size: 1.4rem;
+    }
+    .verse-sanskrit-box {
+      font-size: 1.2rem;
+      line-height: 1.8;
+    }
+  }
+</style>
