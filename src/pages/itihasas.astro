@@ -1,8 +1,10 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getScriptureById } from '../data/scriptures';
+import { getScriptureById, getScripturesByTradition } from '../data/scriptures';
 
+const itihasaScriptures = getScripturesByTradition('itihasa');
 const gita = getScriptureById('bhagavad-gita')!;
+const ramayana = getScriptureById('adhyatma-ramayana')!;
 const chapters = gita.chapters;
 
 const yogas = [
@@ -42,37 +44,158 @@ const yogas = [
 ---
 
 <Layout 
-  title="Itihāsas - The Epics & Srimad Bhagavad Gītā | VedāntVāṇī"
-  description="Explore the epic discourse of Srimad Bhagavad Gītā across 18 chapters and 701 verses, enriched with 7 translations and 16 commentaries from Advaita, Vishishtadvaita, and Dvaita schools."
+  title="Itihāsas - The Canonical Epics: Bhagavad Gītā & Adhyātma Rāmāyaṇa | VedāntVāṇī"
+  description="Explore the monumental epics of Sanātana Dharma: Srimad Bhagavad Gītā (701 verses) and Adhyātma Rāmāyaṇa (4,247 verses, 205 events) with non-dual Advaita realization."
 >
   <!-- Hero Section -->
   <section class="itihasa-hero">
     <div class="container">
       <div class="hero-content">
         <div class="sacred-badge font-cinzel">
-          <span>⚔️</span> Epic Canonical Heritage • इतिहास
+          <span>⚔️</span> Canonical Epics & Itihāsa • इतिहास
         </div>
         <h1 class="hero-title font-cinzel">
           The Itihāsas
         </h1>
         <div class="sanskrit-motto font-devanagari">
-          यदा यदा हि धर्मस्य ग्लानिर्भवति भारत । अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥
+          रामो विग्रहवान् धर्मः • यदा यदा हि धर्मस्य ग्लानिर्भवति भारत
         </div>
         <p class="hero-tagline font-lora">
-          “Whenever righteousness wanes and unrighteousness runs rampant, O Bhārata, I manifest Myself into the mortal realm.”
-          <span class="motto-ref">— Bhagavad Gītā (4.7)</span>
+          The monumental narratives of Sanātana Dharma where cosmic philosophy meets heroic righteousness. Explore both the non-dual revelation of the <strong>Adhyātma Rāmāyaṇa</strong> and the battlefield song of the <strong>Śrīmad Bhagavad Gītā</strong>.
         </p>
+
+        <!-- Stats Strip -->
+        <div class="itihasa-stats">
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">{itihasaScriptures.length}</span>
+            <span class="stat-label">Canonical Epics</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">83</span>
+            <span class="stat-label">Kāṇḍas & Chapters</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">4,948</span>
+            <span class="stat-label">Sacred Verses</span>
+          </div>
+          <div class="stat-divider"></div>
+          <div class="stat-box">
+            <span class="stat-number font-cinzel">205</span>
+            <span class="stat-label">Advaita Events</span>
+          </div>
+        </div>
 
         <!-- CTA Buttons -->
         <div class="hero-cta-group">
-          <a href="/read/bhagavad-gita" class="btn-primary-glow font-cinzel">
-            <span>Explore Bhagavad Gītā Reader</span>
+          <a href="/adhyatma-ramayana" class="btn-primary-glow font-cinzel">
+            <span>Open Adhyātma Rāmāyaṇa</span>
             <span>→</span>
           </a>
-          <a href="#chaptersSection" class="btn-secondary font-cinzel">
-            <span>View All 18 Chapters</span>
+          <a href="/read/bhagavad-gita" class="btn-secondary font-cinzel">
+            <span>Explore Bhagavad Gītā</span>
+            <span>→</span>
           </a>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- The Two Monumental Epics Showcase -->
+  <section class="epics-portal-section">
+    <div class="container">
+      <div class="section-title-wrap text-center">
+        <h2 class="section-title font-cinzel">The Two Monumental Epics</h2>
+        <p class="section-subtitle font-lora">
+          Select an epic to immerse in its verse-level wisdom, philosophical discourses, and commentaries.
+        </p>
+      </div>
+
+      <div class="epics-grid">
+        <!-- Adhyatma Ramayana Card -->
+        <div class="glass-card epic-showcase-card ramayana-card">
+          <div class="epic-badge font-cinzel">
+            <span>🏹</span> Brahmāṇḍa Purāṇa • अध्यात्मरामायणम्
+          </div>
+          <h3 class="epic-title font-cinzel">Adhyātma Rāmāyaṇa</h3>
+          <div class="epic-sanskrit font-devanagari">अध्यात्मरामायणम् • श्रीशिवपार्वतीसंवादः</div>
+          <p class="epic-desc font-lora">
+            The philosophical crest-jewel of the Rāmāyaṇa tradition. Unifying Ramabhakti with unconditioned Advaita Vedānta, Śrī Rāma is revealed as the unconditioned Para Brahman and Sītā as Mūla-Prakṛti / Yoga-Māyā. Featuring the celebrated Rāma Hṛdaya and Śrī Rāma Gītā.
+          </p>
+          <div class="epic-meta-strip font-cinzel">
+            <span>7 Kāṇḍas</span> • <span>65 Sargas</span> • <span>4,247 Verses</span> • <span>205 Event IDs</span>
+          </div>
+          <div class="epic-card-actions">
+            <a href="/adhyatma-ramayana" class="btn-primary-glow font-cinzel full-width-btn">
+              <span>Open Adhyātma Rāmāyaṇa Full Page</span>
+              <span>→</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bhagavad Gita Card -->
+        <div class="glass-card epic-showcase-card gita-card">
+          <div class="epic-badge font-cinzel">
+            <span>⚔️</span> Mahābhārata • श्रीमद्भगवद्गीता
+          </div>
+          <h3 class="epic-title font-cinzel">Śrīmad Bhagavad Gītā</h3>
+          <div class="epic-sanskrit font-devanagari">श्रीमद्भगवद्गीता • श्रीकृष्णार्जुनसंवादः</div>
+          <p class="epic-desc font-lora">
+            The immortal battlefield dialogue between Bhagavān Śrī Kṛṣṇa and Arjuna. Synthesizes Karma, Bhakti, Dhyāna, and Jñāna Yoga across 18 chapters with 16 multi-lineage commentaries from Advaita, Viśiṣṭādvaita, Dvaita, and Śuddhādvaita schools.
+          </p>
+          <div class="epic-meta-strip font-cinzel">
+            <span>18 Chapters</span> • <span>701 Verses</span> • <span>16 Commentaries</span> • <span>7 Translations</span>
+          </div>
+          <div class="epic-card-actions">
+            <a href="/read/bhagavad-gita" class="btn-primary-glow font-cinzel full-width-btn">
+              <span>Explore Bhagavad Gītā Reader</span>
+              <span>→</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Adhyatma Ramayana 7 Kandas Section -->
+  <section class="kandas-section" id="kandasSection">
+    <div class="container">
+      <div class="section-header-row">
+        <div>
+          <div class="sacred-badge font-cinzel" style="margin-bottom: 0.5rem;">
+            <span>🏹</span> Adhyātma Rāmāyaṇa Compendium
+          </div>
+          <h2 class="section-title font-cinzel">The Seven Kāṇḍas (सप्तकाण्डानि)</h2>
+          <p class="section-subtitle font-lora">
+            Structured at the narrative Event ID level with Advaita ontology, cosmic allegories, word-by-word padaccheda, and review audit tools.
+          </p>
+        </div>
+        <a href="/adhyatma-ramayana" class="filter-count-badge font-cinzel highlight-link" title="Open Full Compendium">
+          Open Full Page →
+        </a>
+      </div>
+
+      <div class="kandas-grid">
+        {ramayana.chapters.map((k) => (
+          <a href={`/adhyatma-ramayana?k=${k.chapter_number}`} class="kanda-card-link">
+            <div class="glass-card kanda-card">
+              <div class="kanda-top-meta">
+                <span class="kanda-num font-cinzel">Kāṇḍa {k.chapter_number}</span>
+                <span class="kanda-vcount font-cinzel">{k.verses_count} Verses</span>
+              </div>
+              <h3 class="kanda-title font-cinzel">{k.name}</h3>
+              <div class="kanda-sanskrit font-devanagari">{k.name_sanskrit}</div>
+              <p class="kanda-summary-text font-lora">
+                {k.summary}
+              </p>
+              <div class="kanda-action font-cinzel">
+                <span>Open in Compendium</span>
+                <span>→</span>
+              </div>
+            </div>
+          </a>
+        ))}
       </div>
     </div>
   </section>
@@ -268,12 +391,51 @@ const yogas = [
     margin-bottom: 2rem;
   }
 
-  .motto-ref {
-    display: block;
-    font-size: 0.8rem;
-    font-style: normal;
+  /* Stats Strip */
+  .itihasa-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem 1.5rem;
+    padding: 1.25rem;
+    border-radius: var(--radius-lg);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    margin-bottom: 2rem;
+  }
+
+  .stat-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .stat-number {
+    font-size: 1.5rem;
+    font-weight: 700;
     color: var(--saffron);
-    margin-top: 0.3rem;
+    line-height: 1.1;
+  }
+
+  .stat-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .stat-divider {
+    width: 1px;
+    height: 32px;
+    background: var(--border-subtle);
+    display: none;
+  }
+
+  @media (min-width: 640px) {
+    .stat-divider {
+      display: block;
+    }
   }
 
   .hero-cta-group {
@@ -282,6 +444,229 @@ const yogas = [
     justify-content: center;
     gap: 1rem;
     flex-wrap: wrap;
+  }
+
+  /* Two Monumental Epics Grid */
+  .epics-portal-section {
+    padding: 3.5rem 0 2rem 0;
+  }
+
+  .epics-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+
+  @media (min-width: 860px) {
+    .epics-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .epic-showcase-card {
+    padding: 2.25rem 2rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border-subtle);
+    transition: transform var(--transition-base), border-color var(--transition-base), box-shadow var(--transition-base);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .epic-showcase-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--saffron);
+    box-shadow: 0 12px 35px rgba(242, 111, 34, 0.15);
+  }
+
+  .ramayana-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #f26f22, #e5a93b);
+  }
+
+  .gita-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #d4af37, #f26f22);
+  }
+
+  .epic-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--saffron);
+    margin-bottom: 0.85rem;
+  }
+
+  .epic-title {
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: var(--gold);
+    line-height: 1.2;
+    margin-bottom: 0.35rem;
+  }
+
+  .epic-sanskrit {
+    font-size: 1rem;
+    color: var(--saffron);
+    margin-bottom: 1rem;
+  }
+
+  .epic-desc {
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+    flex: 1;
+  }
+
+  .epic-meta-strip {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    padding: 0.75rem 0;
+    border-top: 1px dashed var(--border-subtle);
+    border-bottom: 1px dashed var(--border-subtle);
+    margin-bottom: 1.5rem;
+  }
+
+  .epic-meta-strip span {
+    color: var(--text-primary);
+  }
+
+  .full-width-btn {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  /* Kandas Grid Section */
+  .kandas-section {
+    padding: 3rem 0;
+  }
+
+  .highlight-link {
+    background: var(--saffron-subtle);
+    color: var(--saffron);
+    border: 1px solid var(--border-active);
+    text-decoration: none;
+    transition: all var(--transition-fast);
+  }
+
+  .highlight-link:hover {
+    background: var(--saffron);
+    color: #fff;
+  }
+
+  .kandas-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    margin-top: 1.75rem;
+  }
+
+  @media (min-width: 640px) {
+    .kandas-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .kandas-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .kanda-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    height: 100%;
+  }
+
+  .kanda-card {
+    padding: 1.4rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-subtle);
+    transition: all var(--transition-fast);
+  }
+
+  .kanda-card-link:hover .kanda-card {
+    transform: translateY(-3px);
+    border-color: var(--saffron);
+    box-shadow: 0 8px 24px rgba(242, 111, 34, 0.12);
+  }
+
+  .kanda-top-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+  }
+
+  .kanda-num {
+    color: var(--saffron);
+  }
+
+  .kanda-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--gold);
+    margin-bottom: 0.2rem;
+  }
+
+  .kanda-sanskrit {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.75rem;
+  }
+
+  .kanda-summary-text {
+    font-size: 0.84rem;
+    line-height: 1.55;
+    color: var(--text-muted);
+    margin-bottom: 1.2rem;
+    flex: 1;
+  }
+
+  .kanda-action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--saffron);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-top: 1px dashed var(--border-subtle);
+    padding-top: 0.75rem;
   }
 
   .btn-primary-glow {

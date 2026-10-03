@@ -369,7 +369,7 @@ import { scriptures } from '../data/scriptures';
 
       resultsContainer.innerHTML = filteredResults.map((s, idx) => `
         <a 
-          href="/read/${s.id}" 
+          href="${s.id === 'adhyatma-ramayana' ? '/adhyatma-ramayana' : `/read/${s.id}`}" 
           class="search-result-item ${idx === selectedIndex ? 'selected' : ''}"
           data-index="${idx}"
         >

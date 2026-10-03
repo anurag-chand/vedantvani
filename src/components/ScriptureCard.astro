@@ -13,6 +13,8 @@ let snippet = scripture.description.replace(/\n+/g, ' ');
 if (snippet.length > 150) {
   snippet = snippet.substring(0, 147) + '...';
 }
+// Target link (Adhyātma Rāmāyaṇa opens dedicated full page)
+const targetUrl = scripture.id === 'adhyatma-ramayana' ? '/adhyatma-ramayana' : `/read/${scripture.id}`;
 ---
 
 <div class="scripture-card-wrapper">
@@ -33,7 +35,7 @@ if (snippet.length > 150) {
       <!-- Title & Sanskrit Name -->
       <div class="title-block">
         <h3 class="scripture-name font-cinzel">
-          <a href={`/read/${scripture.id}`} class="title-anchor">
+          <a href={targetUrl} class="title-anchor">
             {scripture.name}
           </a>
         </h3>
@@ -66,8 +68,8 @@ if (snippet.length > 150) {
 
       <!-- Bottom action button -->
       <div class="card-actions">
-        <a href={`/read/${scripture.id}`} class="read-btn" aria-label={`Read ${scripture.name}`}>
-          <span>Read Scripture</span>
+        <a href={targetUrl} class="read-btn" aria-label={`Read ${scripture.name}`}>
+          <span>{scripture.id === 'adhyatma-ramayana' ? 'Open Compendium' : 'Read Scripture'}</span>
           <span class="arrow-icon">→</span>
         </a>
       </div>
