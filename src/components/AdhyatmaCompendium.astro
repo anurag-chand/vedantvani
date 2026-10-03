@@ -709,13 +709,21 @@ const { initialKanda = 1, initialSarga = 1, initialEventId = 'AR-BAL-01-01' } = 
           <!-- Flowing Translations -->
           <div class="verse-translations-box">
             <div class="trans-item trans-english">
-              <div class="trans-lang-label font-sans">English Translation</div>
+              <div class="trans-header-row">
+                <span class="trans-lang-label font-sans">
+                  <span class="trans-lang-icon">🌐</span> English Translation
+                </span>
+              </div>
               <div class="trans-content font-lora">${v.translation_english}</div>
             </div>
 
             ${v.translation_hindi ? `
               <div class="trans-item trans-hindi">
-                <div class="trans-lang-label font-sans">हिन्दी अनुवाद</div>
+                <div class="trans-header-row">
+                  <span class="trans-lang-label font-sans">
+                    <span class="trans-lang-icon">🕉️</span> हिन्दी अनुवाद
+                  </span>
+                </div>
                 <div class="trans-content font-devanagari">${v.translation_hindi}</div>
               </div>
             ` : ''}
@@ -1449,73 +1457,94 @@ const { initialKanda = 1, initialSarga = 1, initialEventId = 'AR-BAL-01-01' } = 
   .rail-events-list {
     flex: 1;
     overflow-y: auto;
-    padding: 0.75rem;
+    padding: 1.25rem 1rem 3rem 1rem;
     display: flex;
     flex-direction: column;
-    gap: 0.65rem;
+    gap: 0.85rem;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(242, 111, 34, 0.3) transparent;
   }
 
   .rail-event-card {
     background: rgba(255, 255, 255, 0.035);
     border: 1px solid rgba(255, 255, 255, 0.08);
-    border-radius: 8px;
-    padding: 0.9rem;
+    border-left: 3.5px solid rgba(255, 255, 255, 0.15);
+    border-radius: 10px;
+    padding: 1.15rem 1.25rem;
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    position: relative;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   }
   .rail-event-card:hover {
-    background: rgba(242, 111, 34, 0.08);
-    border-color: rgba(242, 111, 34, 0.35);
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(242, 111, 34, 0.4);
+    border-left-color: var(--comp-saffron);
+    transform: translateX(3px);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
   }
   .rail-event-card.active {
-    background: rgba(242, 111, 34, 0.16);
-    border-color: var(--comp-saffron);
-    box-shadow: 0 0 15px rgba(242, 111, 34, 0.2);
+    background: linear-gradient(90deg, rgba(242, 111, 34, 0.16) 0%, rgba(242, 111, 34, 0.04) 100%);
+    border-color: rgba(242, 111, 34, 0.5);
+    border-left: 4px solid var(--comp-saffron);
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.4), 0 0 16px rgba(242, 111, 34, 0.18);
+    transform: translateX(2px);
   }
   .rec-top {
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 0.78rem;
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.6rem;
   }
   .rec-number {
     color: var(--comp-saffron);
     font-weight: 700;
+    letter-spacing: 0.02em;
+    font-size: 0.82rem;
   }
   .rec-range {
     color: var(--comp-gold);
-    font-size: 0.78rem;
+    font-size: 0.76rem;
+    background: rgba(212, 175, 55, 0.12);
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    border: 1px solid rgba(212, 175, 55, 0.25);
   }
   .rec-title {
-    font-size: 0.95rem;
+    font-size: 1.02rem;
     font-weight: 600;
-    color: var(--text-primary);
-    line-height: 1.4;
-    margin-bottom: 0.5rem;
+    color: #f8fafc;
+    line-height: 1.48;
+    margin-bottom: 0.75rem;
   }
   .rec-bottom {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 0.74rem;
+    font-size: 0.76rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
   }
   .rec-highlight-tag {
     background: rgba(212, 175, 55, 0.18);
     color: #fde047;
     border: 1px solid rgba(212, 175, 55, 0.4);
-    padding: 0.15rem 0.55rem;
-    border-radius: 4px;
+    padding: 0.2rem 0.6rem;
+    border-radius: 9999px;
     font-weight: 600;
+    font-size: 0.72rem;
   }
   .rec-tag-narrative {
     background: rgba(255, 255, 255, 0.06);
     color: var(--text-muted);
-    padding: 0.15rem 0.5rem;
-    border-radius: 4px;
+    padding: 0.2rem 0.55rem;
+    border-radius: 9999px;
+    font-size: 0.72rem;
   }
   .rec-count {
     color: var(--text-muted);
+    font-weight: 500;
   }
 
   /* Main Stream - Centered Book Layout */
@@ -1874,35 +1903,88 @@ const { initialKanda = 1, initialSarga = 1, initialEventId = 'AR-BAL-01-01' } = 
     border-radius: 0 6px 6px 0;
   }
 
-  /* Flowing Translations */
+  /* Flowing Translations with Generous Spacing & High-Contrast Cards */
   .verse-translations-box {
     display: flex;
     flex-direction: column;
-    gap: 1.1rem;
-    margin-bottom: 1.5rem;
+    gap: 1.85rem;
+    margin-top: 1.75rem;
+    margin-bottom: 2.25rem;
   }
-  .trans-item {
-    background: rgba(255, 255, 255, 0.025);
-    border: 1px solid rgba(255, 255, 255, 0.07);
-    border-radius: 8px;
-    padding: 1.15rem 1.35rem;
+
+  .trans-header-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.85rem;
   }
-  .trans-lang-label {
+
+  /* English Translation Card - Midnight Slate & Cyan Accent */
+  .trans-item.trans-english {
+    background: linear-gradient(160deg, rgba(20, 27, 42, 0.88) 0%, rgba(13, 18, 30, 0.95) 100%);
+    border: 1px solid rgba(56, 189, 248, 0.2);
+    border-left: 4.5px solid #38bdf8;
+    border-radius: 12px;
+    padding: 1.5rem 1.85rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    transition: all 0.25s ease;
+  }
+  .trans-item.trans-english:hover {
+    border-color: rgba(56, 189, 248, 0.38);
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35), 0 0 16px rgba(56, 189, 248, 0.09);
+  }
+  .trans-item.trans-english .trans-lang-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    background: rgba(56, 189, 248, 0.12);
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.28);
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
     font-size: 0.82rem;
-    color: #f59e0b;
     font-weight: 600;
-    margin-bottom: 0.5rem;
     letter-spacing: 0.02em;
   }
-  .trans-content {
-    font-size: 1.12rem;
-    line-height: 1.85;
-    color: #f8fafc;
+  .trans-item.trans-english .trans-content {
+    font-size: 1.16rem;
+    line-height: 2.05;
+    color: #f1f5f9;
+    font-family: 'Lora', Georgia, serif;
+    letter-spacing: 0.01em;
+  }
+
+  /* Hindi Translation Card - Warm Sacred Saffron & Amber Accent */
+  .trans-item.trans-hindi {
+    background: linear-gradient(160deg, rgba(42, 28, 16, 0.8) 0%, rgba(26, 17, 10, 0.95) 100%);
+    border: 1px solid rgba(245, 158, 11, 0.28);
+    border-left: 4.5px solid #f59e0b;
+    border-radius: 12px;
+    padding: 1.5rem 1.85rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    transition: all 0.25s ease;
+  }
+  .trans-item.trans-hindi:hover {
+    border-color: rgba(245, 158, 11, 0.48);
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35), 0 0 16px rgba(245, 158, 11, 0.12);
+  }
+  .trans-item.trans-hindi .trans-lang-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    background: rgba(245, 158, 11, 0.16);
+    color: #fbbf24;
+    border: 1px solid rgba(245, 158, 11, 0.35);
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.84rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
   }
   .trans-item.trans-hindi .trans-content {
-    font-size: 1.18rem;
-    line-height: 2;
+    font-size: 1.25rem;
+    line-height: 2.25;
     color: #fef3c7;
+    font-family: 'Noto Serif Devanagari', 'Shree Devanagari 714', serif;
   }
 
   /* Padacheda Accordion */
@@ -2216,136 +2298,188 @@ const { initialKanda = 1, initialSarga = 1, initialEventId = 'AR-BAL-01-01' } = 
     color: #e2e8f0;
   }
 
-  /* On Screen Dictionary Drawer */
+  /* On Screen Dictionary Drawer - Search & Lexicon UI/UX */
   .dict-drawer-panel {
     position: fixed;
     right: 0;
     top: 0;
     bottom: 0;
-    width: 480px;
-    max-width: 90vw;
-    background: #14171d;
-    border-left: 1px solid var(--comp-border);
+    width: 520px;
+    max-width: 92vw;
+    background: #0d121c;
+    border-left: 1px solid rgba(212, 175, 55, 0.22);
     display: flex;
     flex-direction: column;
-    box-shadow: -10px 0 40px rgba(0, 0, 0, 0.6);
+    box-shadow: -15px 0 50px rgba(0, 0, 0, 0.75);
   }
   .dict-drawer-header {
-    padding: 1.25rem 1.5rem;
+    padding: 1.35rem 1.6rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background: rgba(16, 22, 34, 0.95);
   }
   .dict-drawer-heading {
-    color: var(--comp-saffron);
+    color: #fbbf24;
     font-weight: 700;
-    font-size: 1.05rem;
+    font-size: 1.15rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
   }
   .dict-drawer-subheading {
-    font-size: 0.72rem;
-    color: var(--text-muted);
+    font-size: 0.78rem;
+    color: #94a3b8;
+    margin-top: 0.2rem;
   }
   .dict-full-link {
-    font-size: 0.78rem;
+    font-size: 0.8rem;
+    font-weight: 600;
     color: var(--comp-gold);
     text-decoration: none;
-    margin-right: 0.5rem;
+    margin-right: 0.6rem;
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    background: rgba(212, 175, 55, 0.1);
+    border: 1px solid rgba(212, 175, 55, 0.25);
+    transition: all 0.2s;
+  }
+  .dict-full-link:hover {
+    background: var(--comp-gold);
+    color: #000;
   }
   .dict-drawer-search-area {
-    padding: 1rem 1.25rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    padding: 1.25rem 1.6rem;
+    background: rgba(13, 18, 28, 0.98);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.07);
   }
   .dict-input-wrap {
     display: flex;
     align-items: center;
-    background: rgba(0, 0, 0, 0.4);
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    border-radius: 8px;
-    padding: 0.4rem 0.8rem;
-    gap: 0.5rem;
+    background: #141c2c;
+    border: 1.5px solid rgba(255, 255, 255, 0.12);
+    border-radius: 10px;
+    padding: 0.55rem 0.95rem;
+    gap: 0.65rem;
+    transition: all 0.2s ease;
+  }
+  .dict-input-wrap:focus-within {
+    border-color: #f59e0b;
+    box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.22), 0 4px 12px rgba(0, 0, 0, 0.3);
+    background: #172134;
+  }
+  .dict-input-icon {
+    font-size: 1.1rem;
+    color: #94a3b8;
   }
   .dict-input {
     flex: 1;
     background: transparent;
     border: none;
-    color: #fff;
-    font-size: 1.05rem;
+    color: #ffffff;
+    font-size: 1.1rem;
     outline: none;
+  }
+  .dict-input::placeholder {
+    color: #64748b;
+    font-size: 0.95rem;
   }
   .dict-scope-pills {
     display: flex;
-    gap: 0.4rem;
-    margin-top: 0.6rem;
+    gap: 0.5rem;
+    margin-top: 0.85rem;
   }
   .scope-pill {
     background: rgba(255, 255, 255, 0.04);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    color: var(--text-muted);
-    font-size: 0.72rem;
-    padding: 0.2rem 0.5rem;
-    border-radius: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #94a3b8;
+    font-size: 0.78rem;
+    font-weight: 500;
+    padding: 0.35rem 0.75rem;
+    border-radius: 6px;
     cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .scope-pill:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0.2);
   }
   .scope-pill.active {
-    background: var(--comp-saffron);
-    color: #fff;
-    border-color: var(--comp-saffron);
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: #0f172a;
+    border-color: #f59e0b;
+    font-weight: 700;
+    box-shadow: 0 2px 8px rgba(245, 158, 11, 0.35);
   }
   .dict-drawer-content {
     flex: 1;
     overflow-y: auto;
-    padding: 1.25rem;
+    padding: 1.5rem;
   }
   .dict-active-entry-card {
-    background: rgba(242, 111, 34, 0.08);
-    border: 1px solid var(--comp-border);
-    border-radius: 8px;
-    padding: 1.25rem;
-  }
-  .dict-card-surface {
-    font-size: 1.6rem;
-    font-weight: 700;
-    color: #fff;
-  }
-  .dict-card-source-tag {
-    font-size: 0.7rem;
-    padding: 0.2rem 0.5rem;
-    border-radius: 4px;
-    background: rgba(212, 175, 55, 0.2);
-    color: var(--comp-gold);
-    margin-left: auto;
+    background: linear-gradient(150deg, rgba(26, 34, 50, 0.95) 0%, rgba(15, 20, 32, 0.98) 100%);
+    border: 1px solid rgba(212, 175, 55, 0.35);
+    border-radius: 12px;
+    padding: 1.5rem 1.6rem;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.45);
   }
   .dict-card-surface-row {
     display: flex;
     align-items: center;
-    margin-bottom: 0.6rem;
+    justify-content: space-between;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.65rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .dict-card-surface {
+    font-size: 1.95rem;
+    font-weight: 700;
+    color: #ffffff;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+  }
+  .dict-card-source-tag {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.7rem;
+    border-radius: 9999px;
+    background: rgba(212, 175, 55, 0.18);
+    color: #fde047;
+    border: 1px solid rgba(212, 175, 55, 0.4);
   }
   .dict-card-padaccheda {
-    font-size: 1.1rem;
-    color: var(--comp-saffron);
-    margin-bottom: 0.4rem;
+    font-size: 1.18rem;
+    color: #fb923c;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
   }
   .dict-card-grammar {
-    font-size: 0.85rem;
-    color: var(--text-muted);
-    margin-bottom: 0.8rem;
+    display: inline-block;
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: #94a3b8;
+    background: rgba(255, 255, 255, 0.06);
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
   }
   .dict-card-meaning {
-    font-size: 1.05rem;
-    line-height: 1.6;
-    color: #e2e8f0;
+    font-size: 1.12rem;
+    line-height: 1.85;
+    color: #f1f5f9;
+    font-family: 'Lora', Georgia, serif;
   }
   .dict-empty-state {
     text-align: center;
-    padding: 3rem 1.5rem;
+    padding: 3.5rem 1.5rem;
     color: var(--text-muted);
   }
   .dict-empty-icon {
-    font-size: 3rem;
+    font-size: 3.25rem;
     display: block;
     margin-bottom: 1rem;
-    opacity: 0.5;
+    opacity: 0.6;
   }
 
   /* Responsive Adjustments */
