@@ -46,8 +46,8 @@ export const TRADITIONS = [
     slug: 'itihasas',
     name: 'Itihāsas (Epics)',
     sanskrit: 'इतिहास',
-    subtitle: 'The Song of the Supreme Lord',
-    description: 'The monumental discourse between Bhagavan Sri Krishna and Arjuna on the battlefield of Kurukshetra — complete with 18 chapters and traditional commentaries.',
+    subtitle: 'Canonical Epics of Dharma',
+    description: 'Explore the monumental narratives of Sanātana Dharma: the Adhyātma Rāmāyaṇa (Brahmāṇḍa Purāṇa) and the Śrīmad Bhagavad Gītā (Mahābhārata) with non-dual Advaita realization.',
     icon: '⚔️',
     gradient: 'from-orange-500/20 via-amber-500/10 to-transparent',
     color: '#d4af37',
@@ -104,5 +104,7 @@ export function getFeaturedScriptures(): Scripture[] {
     'yogasutras',
     'prakarana-ashtavakra-gita'
   ];
-  return scriptures.filter(s => featuredIds.includes(s.id));
+  return featuredIds
+    .map(id => scriptures.find(s => s.id === id))
+    .filter((s): s is Scripture => Boolean(s));
 }

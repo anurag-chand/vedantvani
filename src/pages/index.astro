@@ -126,6 +126,46 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     </div>
   </section>
 
+  <!-- Adhyātma Rāmāyaṇa Spotlight Banner -->
+  <section class="spotlight-section">
+    <div class="container">
+      <div class="glass-card spotlight-card">
+        <div class="spotlight-content">
+          <div class="sacred-badge font-cinzel">
+            <span>🏹</span> Featured Canonical Epic • अध्यात्मरामायणम्
+          </div>
+          <h2 class="spotlight-title font-cinzel">
+            Adhyātma Rāmāyaṇa
+          </h2>
+          <div class="spotlight-sanskrit font-devanagari">
+            रामो विग्रहवान् धर्मः • श्रीशिवपार्वतीसंवादः
+          </div>
+          <p class="spotlight-desc font-lora">
+            The philosophical crest-jewel of the Rāmāyaṇa tradition. Unifying Ramabhakti with unconditioned Advaita Vedānta across <strong>7 Kāṇḍas</strong>, <strong>65 Sargas</strong>, and <strong>4,247 Verses</strong>. Structured at the narrative <strong>Event ID</strong> level with Advaita ontology, cosmic mappings, word-by-word padaccheda, and personal review audit tools.
+          </p>
+          <div class="spotlight-stats font-cinzel">
+            <span class="spot-stat"><span>📖</span> 7 Kāṇḍas</span>
+            <span class="spot-sep">•</span>
+            <span class="spot-stat"><span>📑</span> 65 Sargas</span>
+            <span class="spot-sep">•</span>
+            <span class="spot-stat"><span>✨</span> 4,247 Verses</span>
+            <span class="spot-sep">•</span>
+            <span class="spot-stat"><span>🎯</span> 205 Event IDs</span>
+          </div>
+          <div class="spotlight-actions">
+            <a href="/adhyatma-ramayana" class="btn-primary-glow font-cinzel">
+              <span>Open Adhyātma Rāmāyaṇa Full Page</span>
+              <span>→</span>
+            </a>
+            <a href="/itihasas" class="btn-secondary font-cinzel">
+              <span>Explore in Itihāsas Portal</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Featured Masterworks Grid -->
   <section class="featured-section">
     <div class="container">
@@ -678,5 +718,98 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     font-size: 0.88rem;
     line-height: 1.65;
     color: var(--text-secondary);
+  }
+
+  /* Spotlight Section */
+  .spotlight-section {
+    padding: 1.5rem 0 3rem 0;
+  }
+
+  .spotlight-card {
+    padding: 2.5rem 2rem;
+    border-radius: var(--radius-xl, 1.25rem);
+    border: 1px solid rgba(242, 111, 34, 0.35);
+    background: linear-gradient(135deg, rgba(242, 111, 34, 0.08) 0%, rgba(17, 20, 28, 0.95) 50%, rgba(212, 175, 55, 0.06) 100%);
+    box-shadow: 0 16px 45px rgba(0, 0, 0, 0.5), 0 0 30px rgba(242, 111, 34, 0.1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .spotlight-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #f26f22, #d4af37, #f26f22);
+  }
+
+  .spotlight-content {
+    max-width: 820px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .spotlight-title {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: var(--gold);
+    line-height: 1.2;
+    margin-bottom: 0.35rem;
+  }
+
+  @media (min-width: 640px) {
+    .spotlight-title {
+      font-size: 2.8rem;
+    }
+  }
+
+  .spotlight-sanskrit {
+    font-size: 1.15rem;
+    color: var(--saffron);
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+
+  .spotlight-desc {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+  }
+
+  .spotlight-stats {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem 0.85rem;
+    padding: 0.65rem 1.25rem;
+    border-radius: var(--radius-pill);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 2rem;
+  }
+
+  .spot-stat {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .spot-sep {
+    color: var(--saffron);
+  }
+
+  .spotlight-actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
   }
 </style>
