@@ -1,9 +1,11 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://vedantvani.qzz.io',
+  site: 'https://vedantvani.pages.dev',
   output: 'static',
+  integrations: [sitemap()],
   redirects: {
     '/read/shiv-samhita': '/read/shiva-samhita',
     '/shiv-samhita': '/read/shiva-samhita',

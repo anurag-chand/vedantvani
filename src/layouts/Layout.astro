@@ -31,12 +31,14 @@ const currentPath = Astro.url.pathname;
     <meta name="generator" content={Astro.generator} />
     <meta name="theme-color" content="#080a0f" />
 
-    <!-- SEO Meta Tags -->
+    <!-- SEO & Canonical Meta Tags -->
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site || 'https://vedantvani.pages.dev').href} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={ogImage} />
+    <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site || 'https://vedantvani.pages.dev').href} />
+    <meta property="og:image" content={new URL(ogImage, Astro.site || 'https://vedantvani.pages.dev').href} />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
 
