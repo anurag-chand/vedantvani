@@ -97,7 +97,6 @@ export function getScripturesByTradition(tradition: 'advaita' | 'itihasa' | 'pur
 export function getFeaturedScriptures(): Scripture[] {
   const featuredIds = [
     'bhagavad-gita',
-    'adhyatma-ramayana',
     'brahmasutra',
     'upanishad-mandukya',
     'prakarana-vivekachudamani',

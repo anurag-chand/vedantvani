@@ -2,11 +2,13 @@
 import Layout from '../layouts/Layout.astro';
 import ScriptureCard from '../components/ScriptureCard.astro';
 import { TRADITIONS, getFeaturedScriptures, getAllScriptures } from '../data/scriptures';
+import { getVerseOfTheDay, PRASTHANATRAYI_VERSES } from '../data/prasthanatrayiDaily';
 
 const featured = getFeaturedScriptures();
 const allScriptures = getAllScriptures();
 const totalChapters = allScriptures.reduce((acc, s) => acc + s.chapters_count, 0);
 const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
+const dailyVerse = getVerseOfTheDay();
 ---
 
 <Layout 
@@ -60,34 +62,73 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     </div>
   </section>
 
-  <!-- Verse of Contemplation Card -->
+  <!-- Verse of the Day from Prasthānatrayī -->
   <section class="contemplation-section">
     <div class="container">
-      <div class="glass-card contemplation-card">
-        <div class="contemplation-badge font-cinzel">
-          <span>✨</span> Verse of Contemplation • स्वाध्याय
+      <div class="glass-card contemplation-card" id="prasthanaDailyCard">
+        <!-- Card Top Bar: Badge, Pillar & Tradition -->
+        <div class="contemplation-top-bar">
+          <div class="contemplation-badge font-cinzel">
+            <span>✨</span> Verse of the Day • प्रस्थानत्रयी
+          </div>
+          <div class="contemplation-pillar-pill font-cinzel" id="dailyPillarPill">
+            <span id="dailyIcon" class="pillar-icon">{dailyVerse.icon}</span>
+            <span id="dailyPillar" class="pillar-name">{dailyVerse.pillar}</span>
+            <span class="pillar-dot">•</span>
+            <span id="dailyCanon" class="daily-canon-text">{dailyVerse.canon}</span>
+          </div>
         </div>
 
-        <div class="contemplation-shloka font-devanagari">
-          कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br/>
-          मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥
+        {dailyVerse.theme && (
+          <div class="contemplation-theme font-cinzel" id="dailyTheme">
+            {dailyVerse.theme}
+          </div>
+        )}
+
+        <div class="contemplation-shloka font-devanagari" id="dailySanskrit">
+          {dailyVerse.sanskrit.split('\n').map((line, idx, arr) => (
+            <>
+              {line}
+              {idx < arr.length - 1 && <br />}
+            </>
+          ))}
         </div>
 
-        <div class="contemplation-translit font-lora">
-          karmaṇy evādhikāras te mā phaleṣu kadācana |<br/>
-          mā karmaphalahetur bhūr mā te saṅgo ’stv akarmaṇi ||
+        <div class="contemplation-translit font-lora" id="dailyTranslit">
+          {dailyVerse.transliteration.split('\n').map((line, idx, arr) => (
+            <>
+              {line}
+              {idx < arr.length - 1 && <br />}
+            </>
+          ))}
         </div>
 
-        <div class="contemplation-translation font-lora">
-          “You have an absolute right to perform prescribed action, but never to the fruits thereof. Never let the fruits of action be your motive, nor let there be any attachment to inaction.”
+        <div class="contemplation-translation font-lora" id="dailyTranslation">
+          “{dailyVerse.translation}”
         </div>
 
         <div class="contemplation-footer">
-          <span class="source-tag font-cinzel">Śrīmad Bhagavad Gītā 2.47</span>
-          <a href="/read/bhagavad-gita?c=2&v=47" class="contemplate-btn font-cinzel">
-            <span>Contemplate in Reader</span>
-            <span>→</span>
-          </a>
+          <div class="source-wrap">
+            <span class="source-tag font-cinzel" id="dailySource">{dailyVerse.source}</span>
+            <span class="source-tradition font-cinzel" id="dailyTradition">({dailyVerse.pillarSanskrit})</span>
+          </div>
+
+          <div class="contemplation-actions">
+            <button 
+              type="button" 
+              class="refresh-btn font-cinzel" 
+              id="cycleVerseBtn" 
+              title="Reflect upon another canonical verse from the three pillars"
+              aria-label="Cycle Prasthānatrayī verse"
+            >
+              <span class="refresh-icon">🔄</span>
+              <span class="refresh-text">Another Reflection</span>
+            </button>
+            <a href={dailyVerse.readerUrl} class="contemplate-btn font-cinzel" id="dailyReaderLink">
+              <span>Contemplate in Reader</span>
+              <span>→</span>
+            </a>
+          </div>
         </div>
       </div>
     </div>
@@ -126,45 +167,7 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     </div>
   </section>
 
-  <!-- Adhyātma Rāmāyaṇa Spotlight Banner -->
-  <section class="spotlight-section">
-    <div class="container">
-      <div class="glass-card spotlight-card">
-        <div class="spotlight-content">
-          <div class="sacred-badge font-cinzel">
-            <span>🏹</span> Featured Canonical Epic • अध्यात्मरामायणम्
-          </div>
-          <h2 class="spotlight-title font-cinzel">
-            Adhyātma Rāmāyaṇa
-          </h2>
-          <div class="spotlight-sanskrit font-devanagari">
-            रामो विग्रहवान् धर्मः • श्रीशिवपार्वतीसंवादः
-          </div>
-          <p class="spotlight-desc font-lora">
-            The philosophical crest-jewel of the Rāmāyaṇa tradition. Unifying Ramabhakti with unconditioned Advaita Vedānta across <strong>7 Kāṇḍas</strong>, <strong>65 Sargas</strong>, and <strong>4,247 Verses</strong>. Structured at the narrative <strong>Event ID</strong> level with Advaita ontology, cosmic mappings, word-by-word padaccheda, and personal review audit tools.
-          </p>
-          <div class="spotlight-stats font-cinzel">
-            <span class="spot-stat"><span>📖</span> 7 Kāṇḍas</span>
-            <span class="spot-sep">•</span>
-            <span class="spot-stat"><span>📑</span> 65 Sargas</span>
-            <span class="spot-sep">•</span>
-            <span class="spot-stat"><span>✨</span> 4,247 Verses</span>
-            <span class="spot-sep">•</span>
-            <span class="spot-stat"><span>🎯</span> 205 Event IDs</span>
-          </div>
-          <div class="spotlight-actions">
-            <a href="/adhyatma-ramayana" class="btn-primary-glow font-cinzel">
-              <span>Open Adhyātma Rāmāyaṇa Full Page</span>
-              <span>→</span>
-            </a>
-            <a href="/itihasas" class="btn-secondary font-cinzel">
-              <span>Explore in Itihāsas Portal</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+
 
   <!-- Featured Masterworks Grid -->
   <section class="featured-section">
@@ -230,6 +233,56 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
       </div>
     </div>
   </section>
+
+  <!-- Prasthānatrayī Verse Cycling Script -->
+  <script is:inline define:vars={{ versesJson: JSON.stringify(PRASTHANATRAYI_VERSES) }}>
+    (() => {
+      try {
+        const verses = JSON.parse(versesJson);
+        const cycleBtn = document.getElementById('cycleVerseBtn');
+        if (!cycleBtn || !verses || verses.length === 0) return;
+
+        let currentIndex = verses.findIndex(v => v.source === document.getElementById('dailySource')?.textContent?.trim());
+        if (currentIndex === -1) currentIndex = 0;
+
+        cycleBtn.addEventListener('click', () => {
+          currentIndex = (currentIndex + 1) % verses.length;
+          const v = verses[currentIndex];
+
+          const iconEl = document.getElementById('dailyIcon');
+          const pillarEl = document.getElementById('dailyPillar');
+          const canonEl = document.getElementById('dailyCanon');
+          const themeEl = document.getElementById('dailyTheme');
+          const sanskritEl = document.getElementById('dailySanskrit');
+          const translitEl = document.getElementById('dailyTranslit');
+          const transEl = document.getElementById('dailyTranslation');
+          const sourceEl = document.getElementById('dailySource');
+          const tradEl = document.getElementById('dailyTradition');
+          const linkEl = document.getElementById('dailyReaderLink');
+
+          if (iconEl) iconEl.textContent = v.icon;
+          if (pillarEl) pillarEl.textContent = v.pillar;
+          if (canonEl) canonEl.textContent = v.canon;
+          if (themeEl) {
+            themeEl.textContent = v.theme;
+            themeEl.style.display = v.theme ? 'inline-block' : 'none';
+          }
+          if (sanskritEl) {
+            sanskritEl.innerHTML = v.sanskrit.split('\n').map(line => `<span>${line}</span>`).join('<br/>');
+          }
+          if (translitEl) {
+            translitEl.innerHTML = v.transliteration.split('\n').map(line => `<span>${line}</span>`).join('<br/>');
+          }
+          if (transEl) transEl.textContent = `“${v.translation}”`;
+          if (sourceEl) sourceEl.textContent = v.source;
+          if (tradEl) tradEl.textContent = `(${v.pillarSanskrit})`;
+          if (linkEl) linkEl.href = v.readerUrl;
+        });
+      } catch (err) {
+        console.error('Error cycling Prasthānatrayī verse:', err);
+      }
+    })();
+  </script>
 </Layout>
 
 <style>
@@ -371,18 +424,31 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     padding: 1.5rem 0 3rem 0;
   }
 
+
   .contemplation-card {
     padding: 2rem 1.5rem;
     text-align: center;
     max-width: 920px;
     margin: 0 auto;
     border-color: var(--border-active);
+    background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(17, 20, 28, 0.95) 50%, rgba(242, 111, 34, 0.05) 100%);
   }
 
   @media (min-width: 640px) {
     .contemplation-card {
       padding: 2.75rem 2.5rem;
     }
+  }
+
+  .contemplation-top-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.85rem;
+    border-bottom: 1px dashed rgba(212, 175, 55, 0.2);
   }
 
   .contemplation-badge {
@@ -394,14 +460,54 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     text-transform: uppercase;
     letter-spacing: 0.08em;
     color: var(--saffron);
-    margin-bottom: 1.25rem;
+  }
+
+  .contemplation-pillar-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.3rem 0.85rem;
+    border-radius: var(--radius-pill);
+    background: rgba(212, 175, 55, 0.1);
+    border: 1px solid rgba(212, 175, 55, 0.35);
+    font-size: 0.76rem;
+    font-weight: 700;
+    color: var(--gold);
+    letter-spacing: 0.04em;
+  }
+
+  .pillar-icon {
+    font-size: 0.9rem;
+  }
+
+  .pillar-dot {
+    color: var(--saffron);
+    opacity: 0.8;
+  }
+
+  .daily-canon-text {
+    color: var(--text-primary);
+  }
+
+  .contemplation-theme {
+    display: inline-block;
+    font-size: 0.76rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--saffron);
+    margin-bottom: 1.15rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: var(--radius-pill);
+    background: var(--saffron-subtle);
+    border: 1px solid rgba(242, 111, 34, 0.25);
   }
 
   .contemplation-shloka {
     font-size: 1.35rem;
     font-weight: 600;
     color: var(--text-primary);
-    line-height: 1.8;
+    line-height: 1.85;
     margin-bottom: 0.85rem;
   }
 
@@ -423,7 +529,7 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     font-size: 1rem;
     line-height: 1.7;
     color: var(--text-secondary);
-    max-width: 700px;
+    max-width: 720px;
     margin: 0 auto 1.75rem auto;
   }
 
@@ -437,10 +543,61 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     border-top: 1px dashed var(--border-subtle);
   }
 
+  .source-wrap {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.6rem;
+    text-align: left;
+  }
+
   .source-tag {
-    font-size: 0.85rem;
+    font-size: 0.88rem;
     font-weight: 700;
-    color: var(--text-muted);
+    color: var(--text-primary);
+  }
+
+  .source-tradition {
+    font-size: 0.75rem;
+    color: var(--saffron);
+    opacity: 0.85;
+    font-weight: 600;
+  }
+
+  .contemplation-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .refresh-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 0.85rem;
+    border-radius: var(--radius-md);
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+  }
+
+  .refresh-btn:hover {
+    background: rgba(212, 175, 55, 0.12);
+    color: var(--gold);
+    border-color: rgba(212, 175, 55, 0.4);
+    transform: translateY(-1px);
+  }
+
+  .refresh-icon {
+    transition: transform var(--transition-fast);
+    font-size: 0.85rem;
   }
 
   .contemplate-btn {
@@ -720,96 +877,5 @@ const totalVerses = allScriptures.reduce((acc, s) => acc + s.total_verses, 0);
     color: var(--text-secondary);
   }
 
-  /* Spotlight Section */
-  .spotlight-section {
-    padding: 1.5rem 0 3rem 0;
-  }
 
-  .spotlight-card {
-    padding: 2.5rem 2rem;
-    border-radius: var(--radius-xl, 1.25rem);
-    border: 1px solid rgba(242, 111, 34, 0.35);
-    background: linear-gradient(135deg, rgba(242, 111, 34, 0.08) 0%, rgba(17, 20, 28, 0.95) 50%, rgba(212, 175, 55, 0.06) 100%);
-    box-shadow: 0 16px 45px rgba(0, 0, 0, 0.5), 0 0 30px rgba(242, 111, 34, 0.1);
-    position: relative;
-    overflow: hidden;
-  }
-
-  .spotlight-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 4px;
-    background: linear-gradient(90deg, #f26f22, #d4af37, #f26f22);
-  }
-
-  .spotlight-content {
-    max-width: 820px;
-    margin: 0 auto;
-    text-align: center;
-  }
-
-  .spotlight-title {
-    font-size: 2.2rem;
-    font-weight: 800;
-    color: var(--gold);
-    line-height: 1.2;
-    margin-bottom: 0.35rem;
-  }
-
-  @media (min-width: 640px) {
-    .spotlight-title {
-      font-size: 2.8rem;
-    }
-  }
-
-  .spotlight-sanskrit {
-    font-size: 1.15rem;
-    color: var(--saffron);
-    margin-bottom: 1rem;
-    font-weight: 600;
-  }
-
-  .spotlight-desc {
-    font-size: 1.05rem;
-    line-height: 1.7;
-    color: var(--text-secondary);
-    margin-bottom: 1.5rem;
-  }
-
-  .spotlight-stats {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 0.5rem 0.85rem;
-    padding: 0.65rem 1.25rem;
-    border-radius: var(--radius-pill);
-    background: var(--bg-surface);
-    border: 1px solid var(--border-subtle);
-    font-size: 0.82rem;
-    font-weight: 700;
-    color: var(--text-primary);
-    margin-bottom: 2rem;
-  }
-
-  .spot-stat {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.35rem;
-  }
-
-  .spot-sep {
-    color: var(--saffron);
-  }
-
-  .spotlight-actions {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-    flex-wrap: wrap;
-  }
 </style>
