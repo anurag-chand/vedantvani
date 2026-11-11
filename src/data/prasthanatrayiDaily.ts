@@ -1,18 +1,20 @@
+import { EXTRA_DAILY_VERSES } from './prasthanatrayiVersesExtra';
+
 export interface PrasthanaDailyVerse {
   id: string;
-  pillar: 'Śruti Prasthāna' | 'Smṛti Prasthāna' | 'Nyāya Prasthāna';
+  pillar: 'Śruti Prasthāna' | 'Smṛti Prasthāna' | 'Nyāya Prasthāna' | 'Prakaraṇa Prasthāna';
   pillarSanskrit: string;
   canon: string;
   source: string;
   sanskrit: string;
-  transliteration: string;
+  transliteration?: string;
   translation: string;
   readerUrl: string;
-  theme: string;
+  theme?: string;
   icon: string;
 }
 
-export const PRASTHANATRAYI_VERSES: PrasthanaDailyVerse[] = [
+const CURATED_DAILY_VERSES: PrasthanaDailyVerse[] = [
   // 1. Śruti (Upaniṣads)
   {
     id: 'sruti-isha-1',
@@ -327,6 +329,16 @@ export const PRASTHANATRAYI_VERSES: PrasthanaDailyVerse[] = [
     theme: 'Neti Neti — The Transcendence of Brahman',
     icon: '⚖️'
   }
+];
+
+/**
+ * The full rotation: the hand-picked prasthānatrayī verses above, followed by
+ * 200 verses from the Bhagavad Gītā, Upaniṣads, Ātma-Bodha, Vivekacūḍāmaṇi,
+ * Aṣṭāvakra Gītā and the Yoga Sūtras.
+ */
+export const PRASTHANATRAYI_VERSES: PrasthanaDailyVerse[] = [
+  ...CURATED_DAILY_VERSES,
+  ...EXTRA_DAILY_VERSES
 ];
 
 /**
